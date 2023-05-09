@@ -1,0 +1,398 @@
+Credits
+"{A HotA Legénysége:}
+{(ábécé szerinti} {sorrendben)}
+
+{Agar}
+3D modellezõ, koncepciómûvész
+{Alex-ander}
+3D modellezõ, mûvész,
+projekt koncepció
+{baratorch}
+programozó,
+térképszerkesztõ, online bejelentkezõ felület,
+egyidejû fordulatok,
+HD-mod kompatibilitás
+{Dmitriy Gravchenko}
+3D modellezõ
+{Docent Picolan}
+ötlet szerzõ és projekt
+koordinátor, vezetõ mûvész,
+PR,
+zene és hangok
+{Don_ko}
+3D modellezõ, mûvész,
+térképek
+{DrSlash}
+3D modellezõ, mûvész,
+bejelentkezõ felület moderálás
+{Fatalist}
+térképek, kampánytérképek,
+fordítások, szerkesztés
+{fiorin}
+3D modellezõ
+{gotthit}
+programozó
+{Gruk}
+programozó,
+sablon szerkesztõ
+{Igor Kudra}
+vezetõ tesztelõ
+{Klejnot Nilu}
+bejelentkezõ felület moderálás
+{Mantiss}
+tesztelés, szövegek,
+közkapcsolatok
+{nik312}
+egyensúlyozás, fordítások, 
+tesztelés, PR
+{nosferatu}
+mûvész
+{parovozovoz}
+térképek, tesztelés,
+bejelentkezõ felület moderálás
+{Qed'Maen}
+dokumentáció, fordítások
+{Sav}
+koordinátor,
+vezetõ programozó,
+dokumentálás, egyensúlyozás,
+PR
+{Tevye}
+vezetõ szerkesztõ, fordítások
+{Vade Parvis}
+mûvész, ötletek,
+PR
+
+{Inaktív} {tagok:} 
+
+{Axolotl}
+3D modellezõ
+{FCst1}
+tesztelés
+{hippocamus}
+tiszteletbeli tag, tesztelés,
+bejelentkezõ felület moderálás
+{Serega-JET}
+szerkesztés, tesztelés
+{Spartak}
+tesztelés, ötletek
+{Yulyasha}
+információszervezés,
+bejelentkezõ felület moderálás
+
+{Külön köszönet:}
+
+{DF2 Forum}
+és annak adminisztrációja
+{LivingAnarchy}
+Facebook oldal kezeléséhez,
+verseny és tesztelés
+szervezet
+{Erolast}
+weboldalfejlesztés
+{WiZarDX_576} és {igrik}
+segítségért a kódhoz
+{SaintDark}
+az indítóval kapcsolatos segítségért
+{Sar} és {d0s}
+segítségért a Cove koncepcióhoz
+{sergroj}
+programozási eszközökhöz és
+segítségért a térképszerkesztõvel kapcsolatban
+{AKuHAK}
+szövegszerkesztéshez
+{Denis Goncharuk}
+web tárhely
+{olexn}
+segítségért a telepítõhöz
+{Stanislav Gordinskii}
+fordításokhoz
+{IQUARE}
+segítségért a térképhez
+és Kampány felülvizsgálata
+{Nestor}
+a kampány teszteléséhez
+és revízió
+{Orzie}
+segítségért hangeffektusokhoz
+
+Térkép- és sablonkészítõk:
+{Ivan Vorontsov}, {Riug74},
+{Chapay}, {Manolo}, {molski},
+{koget}, {Veracruz}, {Begrezen},
+{Wic}, {Ignus}
+
+Testers:
+{Machberet}, {Ignus},
+{maestro}, {Ravciozo},
+{Chleb}, {Szopa666}
+
+és az egész Heroes
+aktív rajongó közönség
+részvételéért és segítségéért
+
+{Korábbi} {tagjaink:}
+
+{Michanic}
+programozó
+{D'yakon}
+programozó
+{pokrik1}
+mûvész
+{Silver}
+forgatókönyv
+{VSeleznv}
+programozó
+{you}
+programozó
+{gamdev}
+tesztelés
+{<Fenix>}
+térképek
+{VizitOr}
+programozó
+{SAG}
+egyensúlyozás
+{feanor}
+programozó
+{Zenofex}
+tesztelés, szerkesztés
+{exx}
+3D modellezõ
+{Black Phantom}
+játék erõforrásai
+{Entuser}
+programozó,
+HotA segédprogramok
+{Astaroth}
+mûvész
+{Vaflya}
+egyensúlyozás, tesztelés
+{Hapuga}
+fordító,
+szerkesztés
+{Wic}
+kiegyensúlyozás, tesztelés,
+véletlenszerû térképsablonok
+{Mugais}
+kampány forgatókönyvek, térképek,
+szövegek
+{potmdehex}
+programozó
+{deferatto}
+3D modellezõ, mûvész,
+térképek, tesztelés
+{Quick-Sighted Dog}
+3D modellezõ
+{Arseny}
+egyensúlyozás, térképek
+{ArtisanDen}
+mûvész
+{borisloff}
+3D modellezõ
+{Darkmoon}
+fordítások
+{Kastore}
+PR, kampány
+{Maestro}
+videók
+{major}
+programozó
+{Morn}
+hõsportrék
+{Rusha}
+3D modellezõ
+{Starseeker}
+szerkesztés, tesztelés, fordítás
+{XEL}
+beállítástörténet, forgatókönyv
+
+
+
+
+{New World Computing:}
+
+
+{Készítette:}
+Jon Van Caneghem
+
+
+
+{Végvezetõ producer:}
+Mark Caldwell
+
+
+
+{Producer:}
+Jeff Blattner
+
+
+
+{Rendezõ:}
+David Mullich
+
+
+{Társigazgató:}
+Christian Vanover
+
+
+{Dizájnerek:}
+Jennifer Bullard
+Gregory Fulton
+Jon Van Caneghem
+
+
+{Vezetõ programozók:}
+John Bolton
+David Richey
+
+
+{Programozók:}
+Mark Caldwell
+John Krause
+Jeff Leggett
+George Ruof
+Gus Smedstad
+
+
+{Vezetõ mûvészek:}
+Joseph McGuffin
+Phelan Sykes
+
+
+{Mûvészek:}
+George Almond
+Jeff Bigman
+Fernando Castillo
+Rebecca Christel
+Brian DeMetz
+John E. Gibson IV
+Louis Henderson
+Edward Hudson
+Tracy Iwata
+Steve Jasper
+Brian Kemper
+April Lee
+Bonita Long-Hemsath
+Adam McCarthy
+Kurt McKeever
+Nowa Morisaku
+Kenneth Thomson, Jr.
+Tony Rizo
+Bill Stoneham
+Julia Ulano
+Steve Wasaff
+Scott White
+Charles Zilm
+
+
+{Eszközkoordinátor:}
+Jack Russell
+
+
+{Szinttervezõk:}
+Benjamin Bent
+Dave Botan
+Ryan Den
+Walter Johnson
+Marcus Pregent
+Christian Vanover
+Lisa Whitman
+Mike Wolf
+
+
+{Zenei producer:}
+Rob King
+
+
+{Város témák:}
+Paul Romero
+
+
+{Zene:}
+Paul Romero
+Rob King
+Steve Baca
+
+
+{Hangdizájn:}
+Rob King
+Steve Baca
+Chuck Russom
+
+
+{Hangprodukció:}
+Rob King
+Green Street Studios
+South Pasadena, Ca.
+
+
+{Hang tehetségek:}
+Catherine Battistone
+Aric Devone
+Mari Devon
+Richard Epcar
+Danny Fehsenfeld
+Lex Lang
+Wendee Lee
+Laird Macintosh
+Sy Prescott
+Mike Sorich
+Dan Woren
+
+
+{Vezetõ tesztelõ:}
+Karl Drown
+
+
+{Tesztelõk:}
+Jesse Anacleto
+Mary Ellen Babson
+Devin Chapman
+William Choulos
+John Cloud
+Gavan Cook
+Karl Fischer
+Ernie Gallardo
+Benjamin Goldhammer
+Rich Holmes
+Yoshiyuki Maeda
+Lance Page
+Bryce Verdier
+Eric Williamson
+Sean Wyman
+Thomas Zeliff
+
+
+{Külön köszönet:}
+Cyberlore Studios
+Hypnotix
+Equinoxe
+Rad Game Tools
+Sonic Foundry
+Sound Forge
+Soundscape
+Riki Corredera
+John Machin
+Scott McDaniel
+Michele Mitchel
+John Slowsky
+
+
+{Webmester:}
+Joshua “Guthwulf” Milligan
+
+
+{Web Szerzõ:}
+Aaron Castro
+
+
+{Webprogramozók:}
+Robert Belknap
+Peter Hillier
+
+
+{Látogass meg minket az interneten:}
+www.3do.com
+"
+Copyright 2000, The 3DO Company. Minden jog fenntartva. A 3DO, a Heroes, a Heroes of Might and Magic, a New World Computing, a The Shadow of Death és a hozzájuk tartozó logók a The 3DO Company védjegyei és/vagy szolgáltatási védjegyei az Egyesült Államokban és más országokban. Minden más védjegy a megfelelõ tulajdonosok tulajdona. A New World Computing a The 3DO Company egyik részlege.
