@@ -1,0 +1,105 @@
+===== Térkép neve =====
+Heart of Water
+
+===== Térkép leírása =====
+Bidley must capture Coralgate town and escape the Plane of Water. Bidley must not be die. Hero level cap is 18. After victory, Bidley will move to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Day 1-1
+Üzenet:
+Bidley could not understand where he found himself. Was he dead? The last thing he remembered was how he got drawn into some swirl. And now he was in this strange place with the rests of his team. 				It seemed as if he was standing on the bottom of the sea. High above his head there were fish shoals and huge turtles swimming (or flying?). But it was not water all around. If it was water, he would not be able to breathe or move freely. As if the air around was viscous and humid like some extremely transparent liquid in which he could breathe. 				There was a faded portal behind him. Somewhere on the other side of the portal there were Jeremy, Tark and the cunning witch Casmerta with the Horn. Now Bidley realized – all of this was framed up by the witch so she could obtain the artifact! While Bidley was taken captive, he overheard Dagrem. He got to know that Casmetra hired a mage to find the Horn but when he failed she threw him into a cavern. That is why he wanted to avenge himself on her and take the ancient relic. But Bidley should have thought about it earlier. 	
+
+Név:
+Day 1-2
+Üzenet:
+A strange creature was approaching to the troops of Bidley...Though, he already got to see some of this kind – it was a sprite. It was simply curious to see how she was flying across this local “air”. 				 “Wow!” said the sprite in a ringing voice, “these must be primes!		“Where...where are we?” asked the confused pirate.		“In the Plane of Water!” replied she laughing, “Isn’t it lovely here?”		“Lovely,” nodded Bidley bleakly, “but how do we get out of here?”		“Well, it’s difficult. You need to ask Marinus.”		“Where can I find him?”		“There is a town near here – Saltwater. But primes are not admitted in there.” 		“I will definitely be admitted,” said Bidley and set his sabre on the belt.		“What a dreadful prime!” laughed the sprite again, “good luck, then. Saltwater is to the east from here.”
+
+Név:
+Day 3
+Üzenet:
+Bidley felt sick at heart. He brought his brother into this crazy scheme, and now he lost him. Is Jeremy alive still? But the pirate was sure he would certainly get out of this strange unfamiliar world and find his relative.
+
+Név:
+Day 8
+Üzenet:
+Bidley entered a beautiful building of unknown architecture. It must have been a sort of a library. Neither were there torches nor candles illuminating the chamber but some strange orbs shimmering with bright whitish-blue light. The bookshelves groaning with books, stairs that reached the upper racks. For the rest, it was a typical library. 				“Who are you?” sounded a voice from darkness. 		“I’m captain Bidley,” answered the pirate and turned to where the voice came from, “and I’m looking for Marinus.”		A strange creature came from darkness who looked like a human with no hair and covered with scales. 		“What do you need Marinus for, prime?” asked the creature.		“A sprite told me that he knows how to get out from the Plane of Water.”		“Well, she did not lie to you,” agreed the aboriginal, “I am Marinus, the keeper of the library of Saltwater.” 		“Why do you call us “primes”?” asked Bidley.		“We call “primes” all the inmates of your world and the like. Yes, and do not stare at me. I am a merman. Our race is not so numerous but some clansmen of mine also live in your world. 				A few minutes later, Bidley let his people go and Marinus and he sit down in armchairs.		“You have arrived at ill times,” sighed the merman, “at present the Elemental Lords are concerned with the war with Kreegans in your world and are afraid of vengeance from their side. That is why it is difficult to get into any Plane, and so it is to get out. But you can wait till the war ends.”		“I don’t have time to wait,” sighed the pirate. “My brother may be in trouble. I’ve been betrayed, and now I want to wreak vengeance upon the betrayers.” 	“Then you do not have much of a choice,” said Marinus confusingly. “The closest way to your world is the portal in Coralgate. But Water Lord placed mighty guards there to avoid krigan invasions. They will not anyone in or out. 		“If I have to fight, I am ready!” said Bidley with ardor. 	“Not only will you have to fight,” said the keeper shaking his head, “the Water Lord also foresaw the case if the guards fall. That is why the gates to Coralgate are locked with the Water Key, Mist Key and Ice Key. So is the entrance... 
+
+Név:
+Day 10
+Üzenet:
+The merman said that the Ice Key can be found in the south-west and it is guarded by powerful icy dragons. And Bidley has limited resources: he has to tame creatures from the Plane of Water. Probably, it is better to look for the Mist and Water Keys first? They are guarded by the men of the Water Lord. If we can defeat them, we will be able to bring more creatures to our side. 
+
+Név:
+Day 14
+Üzenet:
+Bidley remembered his old dream. In this dream he is swimming in the water and can see through it extremely clearly as if it was air. Can it have been a prophetic dream that predicted his getting into the Plane of Water? These thoughts gave him shivers. “Stuff and nonsense! It’s just a coincidence,” though Bidley to compose himself. But deep inside he knew everything was not that easy at all. 
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(52, 7, 0) ***Conflux***
+Név:
+Coralgate
+
+(84, 98, 0) ***Conflux***
+Név:
+Saltwater
+
+(11, 88, 0) ***Jel***
+Üzenet:
+Ice Key
+
+(92, 44, 0) ***Jel***
+Üzenet:
+Mist Key
+
+(12, 47, 0) ***Jel***
+Üzenet:
+Water Key
+
+(52, 8, 0) ***Esemény***
+Üzenet:
+Water Lord General guarding Coralgate referred to Bidley from the wall,	“Silly prime! What are you doing? You are weakening us conniving with Krigans. They are enemies not only to us but to you. What now? Are you going to assault this unwinnable fortress? You will now perish because of your foolishness!”	“But still I will take my chance of kicking you out of there and get home!” answered Bidley firmly.  
+
+(50, 107, 0) ***Palack-posta***
+Üzenet:
+
+
+(51, 107, 0) ***Esemény***
+Üzenet:
+Watching the water surface, you noticed a bottle floating nearby. You ordered the crew to fish it out and hoped for no evil spirits inside. Soon, one of the mates ran up to you and said: 	“Incredible! Maybe it is a message from other prisoners of the plan?” 	You snatched the bottle from him, it contained a piece of paper. After reading the message you realized it being horribly outdated. 	“Author of this letter was Barsolar, cousin of Immortal King and one of the greatest planar adventurers. He died a few decades ago on Enroth… But if he once got out of here, so can we!”
+
+(5, 40, 0) ***Esemény***
+Üzenet:
+Your crewmen got sight of a wreck, bodies floating by. 	"Some of them poor buggers might have survived, Cap'n… We could use extra hands", uttered a young sailor. 	"Right, matey", you agreed. "Set course to the wreck!" 	But on closer inspection, all the bodies were already ripe, festering under the sun. You commanded to depart immediately, but apparently the dead were up to shenanigans.
+
+(56, 54, 1) ***Conflux***
+
+Idõzített események:
+
+Név:
+AI Res
+Üzenet:
+
+
+Név:
+Green Res
+Üzenet:
+
+
+Név:
+Green Build
+Üzenet:
+
+
+Név:
+AI Shipwood
+Üzenet:
+
+
+===== Fájl vége =====

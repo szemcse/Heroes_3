@@ -1,0 +1,104 @@
+===== Térkép neve =====
+Ördög napkeltéje
+
+===== Térkép leírása =====
+Jeremy és Alkin egyesültek, hogy megvédjék a szigetet a Kreegan-támadásokkal szemben. A siker érdekében el kell foglalniuk egy titkos démonbázist. Csak akkor lehet elfogni, ha az összes ellenséges hõst elpusztították. A hõsök a 18. szintig fejlõdhetnek. Ha Jeremyt legyõzik, a küldetés elvész.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+A hencegõk és a helyi lakosok egyesülésével a hadsereg a sziget keleti oldalára vonult. Éppen elég erõforrásunk és emberünk volt ahhoz, hogy saját erõbõl építsünk egy új erõdöt.	– Jól tetted, Jeremy Gull – dicsért meg Alkin.	– Albatrosz. Engem Albatrossnak hívnak – javítottam ki sértõdötten. 	– Mi a következõ lépésünk?	– A törzsemnek van egy települése keleten. Ez idõ alatt nem fogdostam bolhákat, tudod, az erõdítmények fel vannak rendesen építve. A tied biztosan nem olyan jó, de hát még nem szolgáltál a tatáliai hadseregben – mondta Alkin kötekedõen. 	– Ez lenyûgözõ, de nekem lõfegyverem van a cséphadaróitok és íjaitok helyett – vágtam vissza, feltûnõen felfedve a pisztolyomat a tokjában. 	- Rendben, jól van. Minden fegyverre szükségünk van – csattant fel ingerülten. 	– A felderítõim arról tájékoztattak, hogy két Kreegan hadsereg partra szállt az északi parton. Szerencsére nehéz dolguk lesz a mocsáron való elõrehaladásban. Valójában tökéletes célpontok lesznek rajtaütéses meglepetés támadásokra.	– Sejtettem!	– Ez igaz, de egészen biztosan van erõsítésük máshol. És kétségtelenül lehet egy titkos bázisuk valahol ezeknek. – enélkül képtelenek lennének folytatni a mûveleteiket. Azt javaslom, keressük meg ezt a bázist és fosszuk ki, ha egy visszatérõ fenyegetést meg akarunk akadályozni. De elõször is, ahogy említetted, foglalkoznunk kell a szigeten lévõ ellenséges seregek közvetlen rajtaütéseivel. Egyetértesz ezzel a tervvel, szövetséges? – kérdezte Alkin, és felém nyújtotta a kezét... vagy a mancsát? Fogalmam sincs, hogy hívják a végtagjaikat. Megráztam, bár furcsának tûnt valakinek kezet fogni, aki nem ember. 	– Jó – bólintott Alkin. 	- Visszatérek a hadseregemhez, és megpróbáljuk még jobban megerõsíteni a települést. A legfontosabb dolog az, hogy ne hagyd, hogy Kreeganék elég lényt gyûjtsenek össze, hogy elfoglalják sem a Te erõdödet, sem az enyémet. Ha ez megtörténik, az a vég kezdete lesz.
+
+Név:
+2. nap
+Üzenet:
+Annak ellenére, hogy elkészült az új erõdünk, nem volt idõ tétlenül álldogálni. Kreeganok jártak az egész szigeten. Meg kell akadályoznunk, hogy elérjék a rejtekeiket, ahol a felderítõk elraktározták az árukat.		– Patris! Hivattam társamat.		– Igen, Kapitányom?	- Meg kell találnunk és kifosztanunk a démonok rejtekeit. Meg tudod csinálni?		– Attól tartok, nem tudnám, hol kezdjem – mondta Patris összeráncolt homlokkal.		- Rendben van. Elõször is vegyél néhány jó embert, és csapj le egy Kreegan karavánra. Ha szerencséd van, elvezetnek a rejtekhelyeikhez.	– Ó, igen, Kapitányom, van érzékem az ilyesmihez! - Patris arca felragyogott. 	– Azonnal megkezdem az elõkészületeket. Magammal viszem Diegót és Eriket; ezek a srácok élesebb eszûek és bátrabbak, mint a legtöbbség.		– Ezt szerettem volna hallani!
+
+Név:
+7. nap
+Üzenet:
+Patris gerillatevékenysége gyümölcsözõnek bizonyult. Sikerült kirabolnia néhány Kreegan karavánt, és a zsákmányokat az erõdünkbe küldte.
+
+Név:
+9. nap
+Üzenet:
+Alkintól üzenet érkezett:		– Gyanítom, hogy a titkos démonbázis a föld alatt van. Hétrõl hétre Ördögfiókák hordái bukkannak elõ lentrõl. El fogják árasztani a szigetet, ha nem állítják meg Õket. Az eredeti terveknek megfelelõen továbbra is a közeli Kreegan seregek legyõzésére kell összpontosítanunk, majd meg kell találnunk a bázisukat. A felderítõim arról számoltak be, hogy több ördögük is van – az elit Kreegan vadállatoknak. Még a Fekete por játékszerei sem mentenek meg ezektõl, szóval légy óvatos, barátom.
+
+Név:
+15. nap
+Üzenet:
+Patris beszámol arról, hogy megtalálta és kifosztotta a dzsungel mélyén elrejtett démon rejtekhelyet. 	Kiemelkedõ munka! 	Kíváncsi vagyok, ki lehetett, mielõtt kalóz lett.
+
+Név:
+32. nap
+Üzenet:
+Már több mint egy hónapja védekezünk a Kreeganiek ellen. Bizonyára nem számítottak ilyen heves és szervezett ellenállásra a vadaktól. Ettõl függetlenül az Ördögfiókék hordái tovább haladnak a hanyatlás jelei nélkül. 	Mostanában kíváncsi voltam Alkinre. Mit csinálhat egy tatáliai õrmester ezen az isten hátamögötti szigeten? Feltétlenül meg kell kérdeznem –- talán ha egyszer vége lesz ennek a háborúnak.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(59, 54, 0) ***Titok Kunyhó***
+Üzenet:
+Egy öreg Goblin lakik itt. Azt állítja, hogy valaha egy hatalmas harcos volt, ádáz támadási képességekkel. Nemrég szeretett farkasát megölték a démonok, és túl gyenge ahhoz, hogy megbosszulja õt. Felajánlja, hogy mindent továbbad, amit tud, ha megöljük érte a démonokat.
+A Goblin nem hajlandó beszélni, amíg meg nem bosszulják a farkasát.
+A démonok most, hogy elpusztultak, az öreg Goblin lelkesnek tûnik, ahogy felajánlja, hogy megosztja tudását a harcászatról.
+
+(16, 59, 0) ***Félszerzet***
+Üzenet:
+„Kreegans fosztogatás, kalózok fosztogatása! Mit tehetnek szegény hobbitok?”
+
+(61, 1, 0) ***Esemény***
+Üzenet:
+Egy nagy, titokzatos erõd áll elõtted, amelyet különös gyíkszerû lények szobrai díszítenek. Kockáztatsz, és belenéz? Vagy talán mégsem?
+
+(47, 60, 0) ***Cove***
+
+Idõzített események:
+
+Név:
+Egységek
+Üzenet:
+Banditák egy csoportja közeledik az erõdhöz. Azt mondják, valaha egy Erathi helyõrségben szolgáltak. Menedékért cserébe készek harcban szolgálni, ha fegyverekkel látják el õket.
+
+(2, 42, 0) ***Fortress***
+Név:
+Wetmoore
+
+(26, 52, 0) ***Esemény***
+Üzenet:
+Egy nagy Troll állja utunkat elõttünk.		"Hé te. A bérlet nem ingyenes, hogy ide-oda mászkálhass. Igen, fizessen csak most, tízszer száz érmét!” – követeli göcsörtös ujjait ökölbe szorítva a Troll.		– Mit szólnál, ha kapnál helyette egy szablyát a szemeid közé? - kérdeztem.		"Hehe!" – vigyorgott a Troll. „Meg csinálhatod. De én sokkal okosabb vagyok. Itt vannak a testvéreim a híd alatt. Ha én meghalok, a testvéreim nagy hordót robbantanak fel a híd alatt, Te pedig híddal együtt zuhansz a mélybe!		– Te piszok kövér zsaroló – köpködöm, és vonakodva adom át a pénzt.
+
+(15, 69, 0) ***Esemény***
+Üzenet:
+Egy tengeri boszorkány felajánlja szolgálatait a kalóz legénységeknek.
+
+(23, 10, 1) ***Küldetésõrzõk***
+Üzenet:
+A bázist erõtér veszi körül. Úgy tûnik, az egyik Kreegan hadvezér botjára van szükség, hogy áthaladjon rajta.
+Nincs más mód az erõtér eltávolítására. Kell a bot!
+Megvan a bot! Most végre eltávolíthatjuk az erõteret.
+
+(23, 11, 1) ***Küldetésõrzõk***
+Üzenet:
+A bázist erõtér veszi körül. Úgy tûnik, az egyik Kreegan hadvezér botjára van szükség, hogy áthaladhass rajta.
+Nincs más mód az erõtér eltávolítására. Kell a bot!
+Megvan a bot! Most végre eltávolíthatjuk az erõteret.
+
+(23, 12, 1) ***Küldetésõrzõk***
+Üzenet:
+A bázist erõtér veszi körül. Úgy tûnik, az egyik Kreegan hadvezér botjára van szükség, hogy áthaladhass rajta.
+Nincs más mód az erõtér eltávolítására. Kell a bot!
+Megvan a bot! Most végre eltávolíthatjuk az erõteret.
+
+(23, 13, 1) ***Küldetésõrzõk***
+Üzenet:
+A bázist erõtér veszi körül. Úgy tûnik, az egyik Kreegan hadvezér botjára van szükség, hogy áthaladhass rajt
+Nincs más mód az erõtér eltávolítására. Kell a bot!
+Megvan a bot! Most végre eltávolíthatjuk az erõteret.
+
+===== Fájl vége =====

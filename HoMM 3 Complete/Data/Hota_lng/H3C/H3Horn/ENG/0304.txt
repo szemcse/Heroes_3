@@ -1,0 +1,278 @@
+===== Térkép neve =====
+All hands on board!
+
+===== Térkép leírása =====
+Bidley and his pals must defeat all the enemies who pretend to obtain the Horn. Bidley must not die. No hero cap level. 
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1-1
+Üzenet:
+Bidley and Jeremy were not able to quench their thirst for revenge. Defeated, Casmetra dropped everything and leapt into a portal which instantly collapsed. The witch was never to be seen in the Regna again. Bidley took the horn, yet he could not figure out what exactly was Casmetra trying to accomplish with it. 		However, after a week of fruitless search for Casmetra, they abandoned their attempts, as Bidley, for all intents and purposes, was the Pirate King now. 		At that point Regna was not a recognized state anymore, although it was still occasionally talked of as “Empire of the Endless Ocean”. Thing is, after old Hareck IX passed, his heir failed to step forward. A power struggle commenced among pirates. During turmoil, several captains had proved to be strong enough to seize the reign of vast territories, but chaos resumed once they perished or lost their edge. 		Here and now, Bidley was the King, and this word meant not only terror and reverence, but also lots of hatred. Owning an ancient powerful artifact, he could disregard his former peers, the mere seafarers; for fear of the unknown was all he felt. 		The only danger looming was in the seas.
+
+Név:
+1-2
+Üzenet:
+It was a clear day when Bidley and his team were on a coast, in a coastal fortress. The Horn of the Abyss was as if habitually hanging on the belt and the Pirate King never parted with it. Suddenly, one of the sailors came running. He was afraid of something and had some scroll in his hands.	“Cap’n, cap’n! I swear by all the sea devils! It was a genie! The genie appeared and asked me to deliver it to you!” Bidley dazedly took the scroll and unrolled it. 	It read: “I salute you, Bidley Roberts, the new Pirate King! 		I am Solmyr, a modest servant of Gavin Magnus, the Immortal King of Bracada. My lord is disquieted by the news that you are in the possession of the legendary artefact - the Horn of the Abyss. We reckon than this item must be kept here, in Bracada, under a close watch of the most powerful archmages. You are not someone who is familiar with sciences; you are more of a bandit and a thief. No doubt you will use the artefact in the name of evil: to obtain power and personal enrichment. We, the mages of Bracada, cannot stay uninvolved in the case when the Horn of the Abyss is in the hands of a greedy human.		Thuswise, I inform you that soon we will send an armed expedition, and I will head it. I shall not ask you to give us the artefact willingly as you will refuse in any case. Furthermore, I bring to your notice that the very Elemental Lords are willing to support my lord. They are also alarmed by the lie of the land, and the Water Lord is also enraged by your unpardonable destruction of the Coralgate fortress.     		For the Pirate King from Solmyr, a genie from Bracada.” 		“A smart genie,” nodded Bidley, “I won’t give away the Horn voluntarily, indeed. Come and take it.” 
+
+Név:
+1-3
+Üzenet:
+In some days Bidley gathered his people together with Jeremy and Tark when it became clear that the mages were getting prepared to strike. “Damned Xanthor!”, sweared the Pirate King looking at the horizon through a spyglass.	“Xanthor?”, asked Tark in surprise. “The wizard whom I saved from the barbarian jail. It was he who told me about the Horn of the Abyss in gratitude for his salvation.” “And now the same wizards want to kill us for the Horn,” grinned Jeremy, “Yes, the destiny sometimes can be as good at joking as me.” 		“And these Elemental Lords get in the way all the time in this story,” added Bidley and took the spyglass away from his eye. 	“At least the erathians are busy with the Kreegans and don’t bother us,” concluded Jeremy. 		“Fine, lads,” turned the Pirate King to the friends, “we need to get prepared for a hard war. It seems that Bracada decided to use all the powers they have against us. We haven’t had such a strong enemy yet but the reinforcements from Regna will arrive soon enough.
+
+Név:
+WhoRunBartertown
+Üzenet:
+WhoRunBartertown
+
+Név:
+2
+Üzenet:
+Some unsettling news arrived. 	“Dear little brother, do you remember Dargem?” Jeremy asks his brother. 	“That unlucky fellow who took me prisoner? Is he alive yet?”	“Yes, he is. So, he gathered some ridiculous army of mercenaries and captains who dislike you. Well, in short, it turned out that the reinforcements from Regna came over to him.” 	“What a sudden turn,” said Bidley cold-bloddedly, “but it’s not everything, is it?”	“No,” Jeremy shook his head, “Dagrem dragged other lovers of rare artefacts – Warlocks of Nighon. It seems he promised to give them the Horn but he only seeks for revenge. Although no one knows what the hell he really wants.” 	“So many are anxious about getting one Horn!” laughed the Pirate King, “and how will they divide it between them even if they kill me?” 	“I bet they will start killing each other,” lifted his hands in dismay the younger brother. 	“I hope they start killing each other earlier so that we may sneak up and cut their throats,” said Bidley grimly and bared his sabre. 
+
+Név:
+5
+Üzenet:
+By all appearances, Elemental Lords materialized their fortresses somewhere in the north. However, the Earth Lord had some difficulties. His army ought to have appeared under the ground and it found itself in the clutches of Nighon warlocks who did not expect this at all. 
+
+Név:
+8
+Üzenet:
+The enemy’s army grows stronger every day. Tark thinks that that it would be a good tactical decision if we could confront the enemies with each other and make use of their weakening. Jeremy thinks that a better option would be to make a sudden strike on lodgements of renegades and mercenaries to capture their weapons and resources.  
+
+Név:
+14
+Üzenet:
+Yet, there remained some who did not sell themselves out to Dargem. Loyal captains promise to send you a ship with supplies. 
+
+Név:
+Supplies
+Üzenet:
+The ship with supplies has arrived. The next ship is expected in one month. 
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(56, 121, 0) ***Tower***
+
+Idõzített események:
+
+Név:
++mon\gold
+Üzenet:
+
+
+(139, 118, 0) ***Tower***
+
+Idõzített események:
+
+Név:
++mon\gold
+Üzenet:
+
+
+(130, 137, 0) ***Jel***
+Üzenet:
+Wizard colony
+
+(132, 125, 0) ***Jel***
+Üzenet:
+Bracudin mines
+
+(77, 139, 0) ***Jel***
+Üzenet:
+Valley of the Damned
+
+(87, 106, 0) ***Jel***
+Üzenet:
+Chambers of Titans, the Heaven Lords
+
+(15, 137, 0) ***Tower***
+
+Idõzített események:
+
+Név:
++mon\gold
+Üzenet:
+
+
+(84, 16, 0) ***Palack-posta***
+Üzenet:
+
+
+(127, 25, 0) ***Esemény***
+Üzenet:
+“No passage”
+
+(125, 38, 0) ***Jel***
+Üzenet:
+Dargem military camp
+
+(135, 64, 0) ***Cove***
+
+Idõzített események:
+
+Név:
++ mon\gold
+Üzenet:
+
+
+(114, 56, 0) ***Cove***
+
+Idõzített események:
+
+Név:
++ mon\gold
+Üzenet:
+
+
+(40, 9, 0) ***Jel***
+Üzenet:
+Hail to the pirate brotherhood!
+
+(40, 142, 0) ***Jel***
+Üzenet:
+To Bracada
+
+(91, 113, 0) ***Tower***
+
+Idõzített események:
+
+Név:
++ mon\gold
+Üzenet:
+
+
+(129, 28, 0) ***Jel***
+Üzenet:
+The Bahens’ farm
+
+(6, 74, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(3, 91, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(2, 91, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(119, 30, 0) ***Cove***
+
+Idõzített események:
+
+Név:
++ mon\gold
+Üzenet:
+
+
+(76, 49, 0) ***Esemény***
+Üzenet:
+Bidley once again rubbed the Horn off with a piece of chamois, even though the artefact was spotless. So this is what people coveted so much. Ever since he got to know what the Horn was capable of, his self-confidence was sky high. Still, the thought of fearsome sea spirits obeying his orders made him shiver every now and then.
+
+(138, 5, 0) ***Conflux***
+
+Idõzített események:
+
+Név:
+AI burst
+Üzenet:
+
+
+(126, 14, 0) ***Jel***
+Üzenet:
+Keep out! Rockslide!
+
+(57, 6, 0) ***Conflux***
+
+Idõzített események:
+
+Név:
+AI Burst
+Üzenet:
+
+
+(90, 5, 0) ***Conflux***
+
+Idõzített események:
+
+Név:
+AI Brust
+Üzenet:
+
+
+(45, 75, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
++mon\gold
+Üzenet:
+
+
+(92, 74, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
++mon\gold
+Üzenet:
+
+
+(126, 55, 1) ***Jel***
+Üzenet:
+Prison quarter
+
+(129, 54, 1) ***Nagyúr***
+Név:
+Warden
+
+(128, 54, 1) ***Esemény***
+Üzenet:
+People of Nighon seem to keep unlucky enemy generals here. 
+
+(130, 53, 1) ***Esemény***
+Üzenet:
+“Get out of here unless you want to join the ones in my cages!”
+
+(111, 42, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
++mon\gold
+Üzenet:
+
+
+(61, 49, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
++mon\gold
+Üzenet:
+
+
+(56, 26, 1) ***Jel***
+Üzenet:
+Northern Nighon tunnel	Length: 5 miles
+
+(73, 58, 1) ***Jel***
+Üzenet:
+Secret hiding
+
+(86, 72, 1) ***Jel***
+Üzenet:
+Tavern “Slaughtered Lamb”
+
+(16, 125, 1) ***Pandora Szelencéje***
+Üzenet:
+
+
+===== Fájl vége =====
