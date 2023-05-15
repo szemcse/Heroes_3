@@ -1,0 +1,140 @@
+Õrház	Az Õrházban Lándzsásokat vásárolhatsz.
+Íjász torony	Az Íjász toronyban íjászokat vásárolhatsz.
+Griff torony	A Griff toronyban Griffeket vásárolhatsz.
+Kaszárnya	A Kaszárnyában Kardforgatókat vásárolhatsz.
+Kolostor	A Kolostorban Szerzeteseket vásárolhatsz.
+Lovarda  	A Lovardában Lovagokat vásárolhatsz.
+Fény oltára	A Fény oltárában Angyalokat vásárolhatsz.
+Fejl. Õrház	A Fejlesztett Õrházban Alabárdosokat vásárolhatsz.
+Fejl. Íjász torony	A Fejlesztett Íjász toronyban Számszeríjászokat vásárolhatsz.
+Fejl. Griff torony  	A Fejlesztett Griff toronyban Királyi griffeket vásárolhatsz.
+Fejl. Kaszárnya	A Fejlesztett Kaszárnyában Kereszteseket vásárolhatsz.
+Fejl. Kolostor	A Fejlesztett Kolostorban Zelótákat  vásárolhatsz.
+Fejl. Lovarda	A Fejlesztett Lovardában Bajnokokat vásárolhatsz.
+Fejl. Fény oltára 	A Fejlesztett Fény oltárában Arkangyalokat  vásárolhatsz.
+Kentaur istálló	A Kentaur istállóban Kentaurokat vásárolhatsz.
+Törpe kunyhó	A Törpe kunyhóban Törpéket  vásárolhatsz.
+Tanya	A Tanyán Erdõtündéket  vásárolhatsz.
+Varázslatos vízesés	A Varázslatos vízesésben Pegazusokat vásárolhatsz.
+Ent õrség 	A Ent õrségben Fapásztorokat vásárolhatsz.
+Unikornis tisztás	Az Unikornis tisztáson Unikornisokat vásárolhatsz.
+Sárkány szirt 	A Sárkány szirtnél Zöld sárkányokat vásárolhatsz.
+Fejl. Kentaur istálló 	A Fejlesztett Kentaur istállóban Kentaur kapitányokat vásárolhatsz.
+Fejl. Törpe kunyhó	A Fejlesztett Törpe kunyhóban Törpe Harcost vásárolhatsz.
+Fejl. Tanya 	A Fejlesztett Tanyán Nemestündéket vásárolhatsz.
+F. Varázslatos vízesés	A Fejlesztett Unikornis tisztáson Ezüst Pegazusokat vásárolhatsz.
+Fejl. Ent õrség	A Fejlesztett Ent õrségben Ent Harcosokat vásárolhatsz.
+Fejl. Unikornis tisztás 	A Fejlesztett Unikornis tisztáson Harci Unikornisokat vásárolhatsz.
+Fejl. Sárkány szirt	A Fejlesztett Sárkány szirten Arany Sárkányokat vásárolhatsz.
+Mûhely	A mûhelyben Koboldot vásárolhatsz.
+Korlátfal	A Korlátfalnál Vízköpõket vásárolhatsz.
+Gólem gyár	A Gólem Gyárban kõgólemeket vásárolhatsz.
+Varázsló torony	A Varázsló toronyban Mágusokat vásárolhatsz.
+Kívánság oltára	A Kívánság oltáránál Dzsinneket vásárolhatsz.
+Arany pavilon	Az Arany pavilonban Nagákat vásárolhatsz.
+Fellegvár	A Fellegvárban Óriásokat vásárolhatsz.
+Fejl. Mûhely	A Fejlesztett Mûhelyben Manókat vásárolhatsz.
+Fejl. Korlátfal 	A Fejlesztett Korlátfalnál Obszidián Vízköpõket vásárolhatsz.
+Fejl. Gólem gyár	A Fejlesztett Gólem gyárban Vasgólemeket vásárolhatsz.
+Fejl. Varázsló torony	A Fejlesztett Varázsló toronyban Fõmágusokat vásárolhatsz.
+Fejl. Kívánság oltára	A Fejlesztett Kívánság oltáránál Mesterdzsinneket vásárolhatsz.
+Fejl. Arany pavilon	A Fejlesztett Arany pavilonban Naga királynõt vásárolhatsz.
+Fejl. Fellegvár	A Fejlesztett Fellegvárban Titánokat vásárolhatsz.
+Olvasztótégely	Az Olvasztótégelybõl Ördögfiókákat vásárolhatsz.
+Bûn csarnoka	A Bûn csarnokában Gógokat vásárolhatsz.
+Kutyaól	A Kutyaólnál Pokolkutyákat vásárolhatsz.
+Démon kapu 	A Démon kapunál Démonokat vásárolhatsz.
+Alvilág verme	Az Alvilág verménél Aknaszörnyeket vásárolhatsz.
+Tûztó	A Tûztónál Efreeteket vásárolhatsz.
+Elhagyatott palota	Az Elhagyatott palotában Ördögöket vásárolhatsz.
+Fejl. Olvasztótengely	A Fejlesztett Olvasztótengelyben Kísérõket vásárolhatsz.
+Fejl. Bûn csarnoka	A Fejlesztett Bûn csarnokánál Magógokat vásárolhatsz.
+Fejl. Kutyaól	A Fejlesztett Kutyaólnál Kerberoszokat vásárolhatsz.
+Fejl. Démon kapu	A Fejlesztett Démon kapunál Szarvas Démonokat vásárolhatsz.
+Fejl. Alvilág verme	A Fejlesztett Alvilág verménél Aknaurakat vásárolhatsz.
+Fejl. Tûztó	A Fejlesztett Tûztónál Efreet Szultánokat vásárolhatsz.
+Fejl. Elhagyatott palota	A Fejlesztett Elhagyatott palotánál Sátánokat vásárolhatsz.
+Átkozottak temploma 	Az Átkozottak templomában Csontvázakat vásárolhatsz.
+Sírkert	A Sírketben Feltámasztottakat vásárolhatsz.
+Lelkek sírboltja	A Lelkek sírboltjánál Lelkeket vásárolhatsz.
+Sírkamra	A Sírkamránál Vámpírokat vásárolhatsz.
+Mauzóleum	A Mauzóleumban Licheket vásárolhatsz.
+Sötétség csarnoka	A Sötétség csarnokánál Fekete Lovagokat vásárolhatsz.
+Sárkány pince 	A Sárkány pincében Csontsárkányokat vásárolhatsz.
+F. Átkozottak temploma	A Fejlesztett Átkozottak templománál Csontvázharcosokat vásárolhatsz.
+Fejl. Sírkert	A Fejlesztett Sírkertben Zombikat vásárolhatsz.
+Fejl. Lelkek sírboltja	A Fejlesztett Lelkek sírboltjánál Kísérteteket vásárolhatsz.
+Fejl. Uradalom	A Fejlesztett Uradalomnál Vámpírurakat vásárolhatsz.
+Fejl. Mauzóleum	A Fejlesztett Mauzóleumban Hatalmas Licheket vásárolhatsz.
+Fejl. Sötétség csarnoka	A Fejlesztett Sötétség csarnokánál Halállovagokat  vásárolhatsz.
+Fejl. Sárkány pince	A Fejlesztett Sárkány pincében Szellemsárkányokat  vásárolhatsz.
+Nyomortelep 	A Nyomortelepen Barlanglakókat vásárolhatsz.
+Hárpia padlás	A Hárpia padláson Hárpiákat vásárolhatsz.
+Szemek pillére	A Szemek pillérénél Szemlélõket vásárolhatsz.
+Némaság kápolnája	A Némaság kápolnájában Medúzákat vásárolhatsz.
+Labirintus	A Labirintusban Minotauruszokat vásárolhatsz.
+Mantikor barlang	A Mantikor barlangban Mantikorokat vásárolhatsz.
+Sárkány barlang	A Sárkány barlangban Vörös Sárkányokat vásárolhatsz.
+Fejl. Nyomortelep	A Fejlesztett Nyomortelepen Pokoli barlanglakókat vásárolhatsz.
+Fejl. Hárpia padlás	A Fejlesztett Hárpia padláson Hárpia banyákat vásárolhatsz.
+Fejl. Szemek pillére	A Fejlesztett Szemek pillérénél Gonosz szemeket vásárolhatsz.
+Fejl. Némaság kápolnája	A Fejlesztett Némaság kápolnájában Medúza királynõt vásárolhatsz.
+Fejl. Labirintus	A Fejlesztett Labirintusban Minotaurusz királyt vásárolhatsz.
+Fejl. Mantikor barlang	A Fejlesztett Mantikor barlangban Skorpikokat vásárolhatsz.
+Fejl. Sárkány barlang	A Fejlesztett Sárkány barlangban Fekete Sárkányokat vásárolhatsz.
+Goblin kaszárnya	A Goblin kaszárnyában Goblinokat vásárolhatsz.
+Farkas karám	A Farkas karámban Farkaslovasokat vásárolhatsz.
+Ork torony	Az Ork toronyban Orkokat vásárolhatsz.
+Ogre erõd	Az Ogre erõdben Ogrékat vásárolhatsz.
+Sziklafészek	A Sziklafészeknél Keselyûket vásárolhatsz.
+Küklopsz barlang 	A Küklopsz barlangban Küklopszokat vásárolhatsz.
+Behemót odú	A Behemót odúnál Behemótokat vásárolhatsz.
+Fejl. Goblin kaszárnya	A Fejlesztett Goblin kaszárnyában Hobgoblinokat vásárolhatsz.
+Fejl. Farkas karám	A Fejlesztett Farkas Karámban Farkaslovasokat vásárolhatsz.
+Fejl. Ork torony	A Fejlesztett Ork toronynál Ork törzsfõnököket  vásárolhatsz.
+Fejl. Ogre erõd	A Fejlesztett Ogre erõdben Ogre mágusokat vásárolhatsz.
+Fejl. Sziklafészek	A Fejlesztett Sziklafészekben Villámmadarakat vásárolhatsz.
+Fejl. Küklopsz barlang	A Fejlesztett Küklopsz barlangban Küklopsz királyokat vásárolhatsz.
+Fejl. Behemót odú	A Fejlesztett Behemót odúban Õsi behemótokat vásárolhatsz.
+Gnoll kunyhó 	A Gnoll kunyhóban Gnollokat vásárolhatsz.
+Gyíkember tanya	A Gyíkember tanyán Gyíkembereket vásárolhatsz.
+Kígyólégy Kaptár	A Kígyólégy kaptárban Kígyólegyeket vásárolhatsz.
+Baziliszkusz Verem	A Baziliszkusz Veremnél Baziliszkuszokat vásárolhatsz.
+Gorgon karám 	A Gorgon karámban Gorgonokat vásárolhatsz.
+Sárkánygyík fészek 	A Sárkánygyík fészeknél Sárkánygyíkokat vásárolhatsz.
+Hidra tó	A Hidra tónál Hidrákat vásárolhatsz.
+Fejl. Gnoll kunyhó	A Fejlesztett Gnoll kunyhóban Gnoll Martalócokat vásárolhatsz.
+Fejl. Gyíkember tanya 	A Fejlesztett Gyíkember tanyánál Gyíkharcosokat vásárolhatsz.
+Fejl. Kígyólégy kaptár	A Fejlesztett Kígyólégy kaptárnál Sárkánylegyeket vásárolhatsz.
+Fejl. Baziliszkusz akna	A Fejlesztett Baziliszkusz aknánál Nagyobb baziliszkuszokat vásárolhatsz.
+Fejl. Gorgon karám	A Fejlesztett Gorgon karámnál Hatalmas Gorgonokat vásárolhatsz.
+Fejl. Sárkánygyík fészek	A Fejlesztett Sárkánygyík fészek Sárkánygyík fejedelmeket vásárolhatsz.
+Fejl. Hidra tó 	A Fejlesztett Hidra tónál Káosz Hidrákat vásárolhatsz.
+Varázs laterna	A Varázslatos laternánál tündéreket vásárolhatsz.
+Levegõ oltár	A Levegõ oltáránál Lég elementálokat vásárolhatsz.
+Víz oltár	A Víz oltáránál Víz elementálokat vásárolhatsz.
+Tûz oltár	A Tûz oltáránál Tûz elementálokat vásárolhatsz.
+Föld oltár	A Föld oltáránál Föld elementálokat vásárolhatsz.
+Lélek oltár	A Lélek oltáránál Lélek elementálokat vásárolhatsz.
+Halotti máglya	A Halotti máglyánál Tûzmadarakat vásárolhatsz.
+Fejl. Varázs laterna	A Fejlesztett Varázs laternánál Tündéreket vásárolhatsz.
+Fejl. Levegõ oltár 	A Fejlesztett Levegõ oltárnál Vihar elementálokat vásárolhatsz.
+Fejl. Víz oltár	A Fejlesztett Víz oltárnál Jég elementálokat vásárolhatsz.
+Fejl. Tûz oltár	A Fejlesztett Tûz oltárnál Energia elementálokat vásárolhatsz.
+Fejl. Föld oltár	A Fejlesztett Föld oltárnál Magma elementálokat vásárolhatsz.
+Fejl. Lélek oltár	A Fejlesztett Lélek oltárnál Varázslat elementálokat vásárolhatsz.
+Fejl. Halotti Máglya	A Fejlesztett Halotti Máglyánál Fõnixeket vásárolhatsz.
+1. szintû lény alkotó	Lehetõséget biztosít, hogy 1. szintû lényeket vásárolni.
+2. szintû lény alkotó	Lehetõséget biztosít, hogy 2. szintû lényeket vásárolni.
+3. szintû lény alkotó	Lehetõséget biztosít, hogy 3. szintû lényeket vásárolni.
+4. szintû lény alkotó	Lehetõséget biztosít, hogy 4. szintû lényeket vásárolni.
+5. szintû lény alkotó	Lehetõséget biztosít, hogy 5. szintû lényeket vásárolni.
+6. szintû lény alkotó	Lehetõséget biztosít, hogy 6. szintû lényeket vásárolni.
+7. szintû lény alkotó	Lehetõséget biztosít, hogy 7. szintû lényeket vásárolni.
+Fejl. 1. szintû lény alkotó	Lehetõséget biztosít, hogy 1. szintû fejlesztett lényeket vásárolni.
+Fejl. 2. szintû lény alkotó	Lehetõséget biztosít, hogy 2. szintû fejlesztett lényeket vásárolni.
+Fejl. 3. szintû lény alkotó	Lehetõséget biztosít, hogy 3. szintû fejlesztett lényeket vásárolni.
+Fejl. 4. szintû lény alkotó	Lehetõséget biztosít, hogy 4. szintû fejlesztett lényeket vásárolni.
+Fejl. 5. szintû lény alkotó	Lehetõséget biztosít, hogy 5. szintû fejlesztett lényeket vásárolni.
+Fejl. 6. szintû lény alkotó	Lehetõséget biztosít, hogy 6. szintû fejlesztett lényeket vásárolni.
+Fejl. 7. szintû lény alkotó	Lehetõséget biztosít, hogy 7. szintû fejlesztett lényeket vásárolni.

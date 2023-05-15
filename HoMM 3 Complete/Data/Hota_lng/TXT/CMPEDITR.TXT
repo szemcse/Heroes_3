@@ -1,0 +1,169 @@
+"Note: Do not change the headings in this file, they are used to detect problems"	
+General	
+Heroes of Might and Magic® III Campaign Editor	
+"© 2000 The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company."	
+Version %s	
+Heroes 3 Hadjárat Fájlok (*.h3c)	
+Heroes 3 Hadjárat	
+A képernyõdnek minimum 16-bites színmélységûnek kell lennie, hogy a hadjárat szerkesztõt el tudd indítani!	
+Debug Build	
+Release Build	
+OK	
+A Hadjárat szerkesztõrõl	
+%d (%s) játékos	
+Véletlenszerû város	
+"""%s"" hibás.  Nem lehet importálni."	
+"""%s"" játszhatatlan.  Nem lehet importálni."	
+"""%s"" rossz verziójú.  Nem lehet importálni."	
+"""%s"" régi formátumú.  Nem lehet importálni."	
+"Rossz hadjárat fájl verzió!
+
+Fájl verzió = %d
+Jelenlegi verziószám = %d"	
+Hibás hadjárat fájl!	
+"%s már létezik.
+Ki szeretnéd cserélni?"	
+Tulajdonságok...	
+Legerõsebb hõs	
+Generált hõs	
+és	
+Véletlenszerû hõs	
+(Nincs)	
+Könnyû	
+Középszintû	
+Haladó	
+Tapasztalt	
+Bajnok	
+"Heroes 3 Térkép fájl (*.h3m)
+.h3m"	
+Bevezetõ	
+&Van bevezetõ	
+Utószó	
+&Van utószó	
+Hadjárat tulajdonságai	
+%s varázslat	
+%s adományozása a következõnek: %s	
+%s megépítése a fõvárosnál	
+Megvonás: %d %s	
+Elvet	
+Segítség	
+"Szöveges fájlok (*.txt)
+.txt"	
+"Nem lehet importálni ""%s""."	
+"Sikeresen importálva ""%s""."	
+Név	
+Leírás	
+Jobb-kattintásos szöveg	
+Bevezetõ	
+Utószó	
+Campaign Properties Dialog	
+Hadjárat tulajdonságok	
+Térkép:	
+&Név:	
+&Leírás	
+A hadjárat &nehézségét megválaszthatja e a játékos	
+&Zene:	
+Hadjárat verzió	
+&Armageddon's Blade	
+The &Shadow of Death	
+Edit Hero Crossover Option Dialog	
+Hõsök átvitele beállítások	
+&Forrás küldetés:	
+&Játékos pozíciója:	
+Edit Starting Bonus Type Dialog	
+Kezdõ bónusz szerkesztése	
+Válassz egy bónusz típust:	
+&Varázslat	
+&Lény	
+&Épület	
+&Varázstárgy	
+Va&rázstekercs	
+&Elsõdleges képzettség	
+Más&odlagos képzettség	
+&Nyersanyag	
+Fogadó:	
+Varázstárgy:	
+Lény típusa:	
+Mennyiség:	
+Épület:	
+Varázslat:	
+Támadás:	
+Védekezés:	
+Varázserõ:	
+Tudás:	
+Másodlagos képzettség:	
+Szint:	
+Nyersanyag típusa:	
+Edit Starting Hero Option Dialog	
+Kezdõ hõs szerkesztése	
+&Hõs azonosítása:	
+&Játékos pozíciója:	
+New Campaign Dialog	
+Új hadjárat	
+Hadjárat &térkép:	
+Hadjárat verzió	
+&Armageddon's Blade	
+The &Shadow of Death	
+Scenario Properties Crossover Page	
+Átviteli beállítások	
+Hõsök átviszik az alábbiakat:	
+&Tapasztalat	
+&Elsõdleges képzettségek	
+Más&odlagos képzettségek	
+&Varázslatok	
+&Varázstárgyak	
+&Lény típusok:	
+Ö&sszes	
+&Nincs	
+Átvihetõ v&arázstárgyak:	
+Scenario Properties General Page	
+Általános	
+Terület neve:	
+Terület &színe:	
+Hadjárat neve:	
+Térkép fájl	
+&Importálás...	
+Fr&issítés...	
+&Exportálás...	
+&Eltávolítás	
+Alapértelmezett &nehézség:	
+&Elõkövetelmények:	
+Te&rület jobb-klikkes szövege:	
+Scenario Properties Prologue Page	
+V&ideó:	
+Z&ene:	
+&Üzenet (ékezet nélkül!):	
+Scenario Properties Starting Options Page	
+Indítási beállítások	
+Indítási beállítások:	
+&Bónusz beállítások	
+Hõs &áthaladásának beállításai	
+Induló &hõs beállításai	
+&Játékos pozíciója	
+Indítási bónusz &beállításai	
+&Hozzáad...	
+&Szerkeszt...	
+&Eltávolít	
+Forrás hadjárat	
+Hõs	
+Main Menu Text	
+&Fájl	
+&Szerkesztés	
+&Segítség	
+File Menu	
+&Új…	Ctrl+N
+&Megnyitás…	Ctrl+O
+&Mentés	Ctrl+S
+Mentés &másként…	
+S&zöveg exportálása...	
+&Szöveg importálása...	
+&Hadjárat térképeinek frissítése 	Ctrl+R
+&Hadjárat térképeinek exportálása	Ctrl+E
+Gyakori fájlok	
+K&ilépés	
+Edit Menu	
+&Hadjárat tulajdonságok…	Ctrl+Enter
+&Küldetés tulajdonságok…	Enter
+Help Menu	
+&Súgótémakörök	
+&A Hadjárat szerkesztõrõl…	
