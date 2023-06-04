@@ -1,0 +1,122 @@
+===== Térkép neve =====
+Mélység kürtje
+
+===== Térkép leírása =====
+Bidleynek, Jeremynek és Tarknak le kell gyõznie Casmetrát, mielõtt aktiválná a Mélység Kürtjét. A maximális hõsszint 24. Bidley, Jeremy és Tark a gyõzelem után az utolsó forgatókönyvre lépnek.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Jeremy belépett a „Fekete Márk” fogadóba, gyorsan körülnézett, széttárta a kezét, és vidáman felkiáltott: „Öcsém!”		Bidleynek nem volt ideje reagálni, rokona karjai között landolt szinte azonnal.	– Jeremy! A mindenit! Honnan kerültél ide? 	- Már épp elkezdtelek volna keresni. A Vezetõcsillag mutatta volna nekem az utat – válaszolta Jeremy könnyedén, és elengedte testvére karjait.	- Milyen csillag? - ráncolta a homlokát Bidley.	– Nem fontos. Már érdektelen dolog. El sem tudod képzelni, hol voltam! Kannibál törzsek, rabszolgakereskedõk, és ez a kukorica...	– Szerencsés vagy! Én a víz síkján voltam.	- Mit csináltál ott? - kérdezte Jeremy gyanakodva. 	– Vitorláztam – válaszolta Bidley hûvösen.		A kalózok leültek egy asztalhoz, és elbeszélték egymásnak a kalandjaikat. Közben viszont a beszélgetés témája átváltott arra, hogy valójában ki is sodorta Õket bele ezekbe a kalandokba.	– Casmetra – sóhajtott Bidley –, az a boszorkány. Mindannyiunkat becsapott. Még a zsoldosát is elárulta.	- A zsoldosa nem mondod… Dargem volt?	– Igen Dagrem – értett egyet a két testvér.	– De Jeremy Albatross soha nem felejti el azokat, akik lóvá tették! Casmetra fizetni fog a gonosz tetteiért.	– Nem mondod! – mosolygott Bidley és kortyolt egy kis bort. 	– Azt hittem, jóban vagytok pedig.	– Igen, de mit tehetnék?! – tett egy tehetetlen mozdulatot Jeremy.	– Mindig is túl csábítható voltál a nõi szépséghez! Nem vagy olyan kegyetlen, mint Én, akit sem a nõk, sem a férfiak, sem a sellõk nem érdekelnek. Gondoltál már valaha a Naptemplomban való karrierre?	– Amint személyesen megfojtottam Casmetrát, gondolkozni fogok rajta – válaszolta hûvösen az idõsebb testvér, Jeremy.	– Tudod, mi a legfurcsább ebben? – mondta Jeremy komoly hangon, minden gúnyt mellõzve. Az, hogy nem bujkál. Ez a boszorkány bejelentette az összes Regnának, hogy megszerezte a Mélység Kürtjét. Azt hiszem, maga a Retteget Stanley kalózkapitány rejtõzik a kastélyában, és úgy tesz, mintha semmi különös nem történt volna. Sikerült néhány információt gyûjtenem azon kívül is, hogy...	– Igen, félnek Tõle. Én is tudom – bólintott Bidley.	– A Végtelen Óceán egész átkozott birodalma börtönben hever, és várják mint a patkányok, hogy mi fog következni. Nem tudom, miért lenne szüksége a Kürtre, és miért kutatta olyan keményen, de most el kell vennünk Tõle. Nem csak azért, mert a Miénk, hanem azért is, mert nem tetszik, az ami történik!
+
+Név:
+1-2. nap
+Üzenet:
+Casmetra valóban nem rejtõzködött, és Regnában minden részeg tengerész tudta, hogy a Mélység Kürtjével a rezidenciáján tartózkodik. Tark, Bidley és Jeremy régi barátja, már kémkedett utána. Attól a pillanattól fogva, amikor Dagrem vára megrepedt, a Tobzoska (ÿùåð) úgy gondolta, hogy a kalózok valójában nem haltak meg, és egy napon visszajönnek bosszút állni. És ebben igaza volt.		Az egyetlen probléma az volt, hogy Casmetra szigetét nagy mennyiségû haramia õrizte. Legalább négy kastélya van; de nem tudni, hol található éppen a háziasszony. Bidley, Jeremy és Tark a sziget különbözõ részein szálltak partra, táborokat építettek, és arra készülnek, hogy megtámadják a hatalmas boszorkány földjét.
+
+Név:
+Adományozott dolgok
+Üzenet:
+
+
+Név:
+2. nap
+Üzenet:
+Tark egyik felderítõje némi információval tért vissza. Régóta terjed a pletyka, miszerint Casmetra nemcsak, hogy birtokolja a Mélység Kürtjét, hanem próbál vele valamit kezdeni, valamilyen szertartást szeretne végrehajtani vele. Ha ez igaz, meg kell állítanod, mielõtt sikerrel járna, mivel senki sem tudja, mit csinál és miért.
+
+Név:
+5. nap
+Üzenet:
+– Hahó, öcsém, kelj fel! Hamarosan elkapjuk ezt a boszorkányt, és mindenért fizetni fog! – mondta vidáman Jeremy.	– Csak ha idõben odaérünk – ráncolta a homlokát Bidley –, nem hiába tartottam Tõle. Tud valamit a Kürtrõl, amit Mi nem.	– Felfogadunk egy nekromantát, hogy kihallgassa majd a holttestét! Komoran üvöltött a nevetéstõl öccse, és a pisztolyból a levegõbe lõtt vagányságból.
+
+Név:
+7. nap
+Üzenet:
+Végül egy másik felderítõ is visszatért. Megtudta, hogy van egy titkos barlang a sziget alatt. Valószínûleg ott kell keresni Casmetrát. Csak meg kell találnod a módját, hogy bejuss a barlangba.
+
+Név:
+12. nap
+Üzenet:
+Furcsa nap volt. A tengert hullámok borítoták, majd hirtelen eltûntek. Lehet, hogy természeti jelenség volt, de a többség, köztük Bidley és Jeremy, a boszorkányt és a bájait hibáztatja ezért.
+
+Név:
+30. nap
+Üzenet:
+Úgy tûnik, a félelmek nem voltak hiábavalók! Több százan nézték a tenger dühöngését és hallották nyögni a hánykolódó hajókat a kikötõben. Mintha ki akarna ugrani a partjaiból a tenger, de az utolsó pillanatban meggondolná magát.	– Átok! - kiáltott Jeremy.	– Jobb lesz, ha sietünk. Nem tudom, mit csinál Casmetra: elpusztítja a kürtöt, megmenti a világot, új seprût hoz létre… - a Kürtöt minél elõbb el kell venni tõle! Egyáltalán nem tetszik, ami itt történik.	– Én nekem sem – bólintott sápadtan Jeremy – mi van, ha fel akarja ébreszteni az Alvót?	– Kit? – kérdezte meglepõdve Bidley.	– Nos, valójában van értelme. Ahhoz, hogy felébressze, meg kell fújnia a kürtöt – suttogta magában Jeremy, majd a testvérére nézett, és folytatta.	– Van egy õsi legenda egy istenrõl, aki a tenger fenekén alszik...	– Ó, most idézzük fel az itteni tengerészmeséket – legyintett Bidley, és otthagyta Õket. Elment a dolgait intézni.
+
+Név:
+56. nap
+Üzenet:
+Ma ismét valami furcsa történt, és mindenki hallott valami hangot az óceán mélyérõl, ami inkább nyögésre emlékeztetett. Egyre kevesebb az idõnk.
+
+Név:
+66. nap
+Üzenet:
+Úgy tûnik, Jeremy megõrült az elmélettõl, miszerint ez az isten a tenger fenekén alszik. Valahol sikerült megtalálnia egy õsi Joycraft mágus traktátusait, tanulmányozta õket, és arra a következtetésre jutott, hogy Casmetra egy baljóslatú kultusz tagja, amely a szunnyadókat szolgálja.
+
+Név:
+84. nap
+Üzenet:
+Felhõs lett az ég és 2 napja esik az esõ. Állandósult gyenge vihar van jelen a tengeren. Kétségtelen, hogy ez Casmetra munkálkodása: ahogy a nappalok hosszabbak, a viharok egyre erõsebbek.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(50, 35, 0) ***Cove***
+Név:
+Aronhem
+
+(37, 6, 0) ***Cove***
+Név:
+Downwich
+
+(40, 69, 0) ***Jel***
+Üzenet:
+Beléptél Casmetra földjére
+
+(6, 27, 0) ***Esemény***
+Üzenet:
+Csapda!
+
+(8, 19, 0) ***Esemény***
+Üzenet:
+A levegõ ezen a helyen nagyon poros és száraz. Nehéz lélegezni. A katonáid betakarják az arcukat.
+
+(88, 75, 0) ***Arany***
+Üzenet:
+[Adományozó]   Egy nagy zsák aranyat esetleg!
+
+(73, 27, 0) ***Jel***
+Üzenet:
+Üdvözöljük az aboni apátságban!
+
+(38, 15, 0) ***Esemény***
+Üzenet:
+Más csapatok mellett Nixek egy csoportja is a helyõrség falait védi. Már mindenki tudja, hogy zsoldosok lettek, és végül különbözõ Regnan kapitányokat szolgáltak ki, miután megszabadultak Nighontól. És most a sajátjaikkal készültek harcolni.	Tark, Nix felszabadítója és uralkodója mindenkit észhez akar téríteni, és arra buzdítja rokonait, hogy csatlakozzanak az ügyéhez.	- Testvéreim, csatlakozzatok hozzám, mint régen! Rossz lesz annak, aki szembeszáll a testvérével. Nem akarom ezt tenni veletek.	A Nix helyõrség egyik tagja, nyilvánvalóan a vezetõjük, így válaszolt:	- Miben jobb az a kapitány, akinek ma nyalod a csizmáját, mint bárki más? Elárultad a népedet, Tark! Megfosztottál minket az egységtõl, arra kényszerítve, hogy csatlakozzunk a kalózokhoz. Nem foglak megölni az aranyért. Megteszem, csupán csak azért is mert ellenségem vagy!	Ezek ennek a Nixnek az utolsó szavai lettek. Ugynis az arcát egy ágyúgolyó söpörte le a falról.
+
+(38, 13, 0) ***Esemény***
+Üzenet:
+A csata után a kalózsereg rövid levegõhöz jutott. Jeremy felkapott egy kis táskát, hátha van valami értékes benne, amivel kifoszthatja az elesetteket. Egy üveg toberszk pálinkát is talált a Tõr szúrta seb nevû szigetekrõl, hogy ne legyen vonzó a neve miatt meghúzni azt.	Holttestrõl holttestre barangolva megpillantotta Tarkot a közelben. A harcos minden elesett Nixhez lehajolt, a mellkasukra tette a kezét, és alig hallhatóan mondott valamit.	– Mit csinálsz, Tark? - kuncogott Jeremy, és közelebb hajolt hozzá.	– Egy régi szokás szerint elküldöm Õket utolsó útjukra. Így tették õseink is, még akkoriban, amikor a Nixaar Birodalom még létezett.	– Nixaar? Soha nem hallottam errõl.	– Amikor a világot a Csend káosza borította, behatoltunk a Végtelen Óceánba, és ott felépítettük birodalmunkat. Gyarapodtunk, amíg Tritonok a Víz síkjáról nem támadtak. A nemzet megosztott lett. Néhányan meghaltak, néhányan harcoltak. Azok pedig, akik életben maradtak, a Fölények rabszolgái lettek. Aki egykor rabszolga volt, soha nem felejti el, milyen… Harcoltam népem szabadságáért, hogy visszatérjenek az életbe és a jólétbe. És most eltemetem Õket, egy új háborúban haltak meg.	- Mindannyian meghalunk egyszer. De semmi sem marad nyom nélkül, azt hiszem. Tetteink örökké élnek! - mondta Jeremy mosolyogva.	– A bátyád, Bidley mindenekelõtt hatalomra vágyik. És mit kívánsz, Jeremy Albatross? - kérdezte hirtelen Tark.	Mivel Jeremy nem tudott válaszolni, ivott egy korty pálinkát, és továbbment, de otthagyta a táskát.
+
+(74, 15, 0) ***Esemény***
+Üzenet:
+Látva Tark csapatait közeledni, az ellenséges Nix felállt a fal szélére mjad sziszegve és azt kiabálva, hogy "Nincs kegyelem!". Az egész helyõrség támadásba lendült.
+
+(74, 13, 0) ***Esemény***
+Üzenet:
+- Ismét rokongyilkosok lettünk – sóhajtott Tark az elesettek láttán. Fogott egy ásót, és sírt ásni kezdett. Más Nixek is követték a példáját.
+
+(60, 19, 1) ***Jel***
+Üzenet:
+Rituálé szoba
+
+(59, 10, 1) ***Esemény***
+Üzenet:
+Úgy tûnik, jó úton haladsz – Casmetra itt bujkál.
+
+===== Fájl vége =====

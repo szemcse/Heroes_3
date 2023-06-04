@@ -1,0 +1,127 @@
+===== Térkép neve =====
+Evenmorn
+
+===== Térkép leírása =====
+Jeremynek és Casmetrának le kell gyõznie az összes ellenséget, amely Sacredcove városát fenyegeti. A küldetés elbukik, ha Sacredcove-ot elfoglalja az ellenség. A maximális hõsszint 12. A gyõzelem után Jeremy és Casmetra folytatja a kampány következõ forgatókönyvét.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+A Kreeganoknak csodálatos hajóik vannak – a gyorsasági oldaluk kissé hiányosak, de tökéletesek a hosszú utakra. 	Erathia felé vettük az irányt: értelmetlen volt most Regnába visszatérni, és az erathiai járõrökkel való küzdelem komolyan veszélyeztet minket. 	Patris az újoncokkal beszélgetett, akik csatlakoztak hozzánk a szigeten. Azt hiszem, Utópia régi helyõrségébõl származtak – vagy akárhogy is hívták azt az erõdöt, mielõtt átvettük. Alkin megígérte, hogy gondoskodik Utópiáról, és természetesen visszaadja nekem, ha valaha visszatérnék. De most új hajót kellett szereznem, Jeremy Albatross kapitányhoz méltót.	 A kíváncsiságom egy napon tönkretesz. Az õrszem az árbóckosárból kiabált ekkor, hogy szárazföldet lát,  viszont megnéztem a Kreegan térképet, és nem láttam azon felrajzolt földet. Érdekes, - gondoltam.Ilyenkor szokot megszálni engem a tengeri ördög, így közelebb vitorlázom és lehorgonyzok.
+
+Név:
+1-2. nap
+Üzenet:
+Egy impozáns épület a sziget közepén helyezkedik el, hegyes cölöpökkel körülvéve. Patrisszal és néhány legmegbízhatóbb legényemmmel a partra indultam. A tengerparton már várt minket egy barátságos társaság. Meglepõ módon nõk voltak – akik nagyon csinosak is voltak!		– Rázzatok fel! 	- kiáltottam, miközben a partra léptem. 	– Megérkeztem a mennyekbe? 		– Attól függ, hogy meghatározodban mit jelent a mennyország – mondta az egyik nõ, és tett egy lépést elõre.		– A nevem Casmetra. Én egy hatalmas Vízmágus vagyok és egyben a könyvtár õrzõje.		– Jeremy Albatross. Regna admirálisa vagyok – mutatkoztam be meghajolva. Valahonnan a hátam mögül közben fojtott kuncogást hallottam.	– Milyen ügyben jöttél a szigetre, admirális? – kérdezte Casmetra.		Mielõtt válaszoltam volna, megálltam, hogy lecsekkoljam új ismerõsömet. Nehéz volt megállapítani a korát, de mindenképpen rendkívüli módon vonzó teremtés volt. Egyszer hajdanán hallottam egy kapitányról, akinek a kedvese egy mágus volt: nagyon boldogok voltak együtt, mígnem megtudta, hogy kétszer idõsebb nála. Hát igen, ilyenek ezek a mágusok!	Gondolataim félbeszakadtak, amikor egy fiatal lány kirohant a torony mögül kiabálva. „Úrnõm, megint megtámadnak minket!”	Habozás nélkül a papnõk után futottam, és egy nagy csapatnyi embert, orkot, gyíkembert és élõhalottat láttam. Ki tudja, mi egyesíthetne egy ilyen össze nem illõ bandát, de egy faltörõ kost hurcoltak azzal a szándékkal, hogy áttörjék az erõd kapuját. Casmetra és papnõi varázslatokkal támadták õket, míg én igazi úriemberként pisztolyommal lõttem a kost hordozó orkokat.		– Rohamra mindenki! - kiáltottam, és leugrottam a falról. Az ellenségeinkhez rohantam, és levágtam õket a szablyámmal. Az ellenség nyilvánvalóan nem volt felkészülve erre a hirtelen csapásra, és amint néhány heveskedõ fej leesett, a támadók visszavonultak.	– Kedvellek, Jeremy Albatross – mondta Casmetra, és rám mosolygott a fal tetejérõl.		– Csak Jeremy, kérlek alásan – válaszoltam, miközben visszadugtam határozott mozdulattal tokjába a szablyámat.		– Kérés nélkül segítettél nekünk. Köszönjük.	– Ugyan már semmiség; Jeremy Albatross mindig megvédi a nõket és a gyerekeket. Lehet, hogy kalóz vagyok, de felvilágosult és együttérzõ ember – mondta szerényen.		– Ha ez így van, szívesen segítenél egy nõnek megvédeni otthonát a banditáktól?		Késõbb egy korsó sör mellett Casmetra elmondta, hogy ez a sziget Evenmorn. Már hallottam errõl a helyrõl Regnában. A nekromanták a Hold-templom segítségével azt remélik, hogy kifoszthatják titkos könyvtárukat, amely a vízmágiáról és a kapcsolódó tárgyaikról tartalmaz ismereteket. Volt már egy sikertelen támadásuk, de most a nekromanták zsoldosokat fogadtak Tatáliából és Krewlodból. A papnõk önmagukban nem tudnak visszaverni egy ilyen erõs sereget.	Ha valaha gyermekeim lesznek, és megkérdezik tõlem, hogy miért vettem részt ebben az idegen háborúban, a válaszom az lesz: „Fogalmam sincs!”
+
+Név:
+3. nap
+Üzenet:
+Ez a Sacredcove nevû torony stratégiailag elõnyös helyen áll, így a nekromanták és szövetségeseik megpróbálnak majd körülvenni minket, és elzárni az erõforrásoktól. Egy ideig importálhatunk erõforrásokat parttól távolabbi hajókról, de ezek nem tartanak sokáig.
+
+Név:
+8. nap
+Üzenet:
+Patris elégedetlen volt a döntésemmel. 		– Kapitányom, tudom, hogy nem az én dolgom, de nem értem, miért segítünk ezeken a... nõkön – panaszkodott.		– Figyelj, Patris – sok elõnyt kell figyelembe venni. Hálás szövetségesek lesznek, és ez a Sacredcove a kisegítõ bázisunkká válhat. Tudod ezért vagyok Én a kapitány: mert tudok elõre tervezni! És ezért vagyok Én a vezetõ – magyaráztam.	– Bármit is mondasz, Jeremy – értett egyet Patris akaratlanul –, de ez egyáltalán nem tetszik Nekem.		– Miért engedetlen ez a legénység tagja? – kérdezte Casmetra, aki a semmibõl tûnt fel, így megijesztett.	– Õ nem a legénység rendes tagja; Õ a társam, Patris – válaszoltam.		– Nagyon örülök – válaszolta hidegen a papnõ, és bemutatkozott: – Casmetra, a hatalmas Vízmágus vagyok.	– Jó napot kívánok, úrhölgyem – válaszolta Patris vigyorogva, és elsántigált sántító sétájával.		– Szigorúbbnak kellene lenned a parancsnokságod alá tartozó hierarchiával kapcsolatban – dorgálta Jeremyt a papnõ.	– Ne légy ilyen unalmas. Mi kalózok testvérei vagyunk egymásnak! Minden a kölcsönös tiszteletre épül – fakadtam ki, tudván, hogy Regna tele van olyan matrózokkal és kapitányokkal, akik úgy néznek ki, mint a Jadame-i Ravage Roaming ogrék bandája.		– Nem vagy jó a hazudozásban – sóhajtott Casmetra, és egy varázslatos villanással eltûnt.		– Szegény hazug, parancsnok... Szánalmas lúzer vagyok, úgy tûnik – motyogtam magamban.
+
+Név:
+12. nap
+Üzenet:
+Megérkeztek az elsõ készletek a hajókról. Remélem, a nekromantáknak nincs elég erõs flottája ahhoz, hogy fenyegesse a hajóimat, így az ellátási lánc nem fog megszakadni.
+
+Név:
+18. nap
+Üzenet:
+Ma úgy döntöttem, hogy üzenetet küldök szeretett testvéremnek, Bidley-nek. Egy kis rumtól inspirálva nekiláttam a levélnek. A gondolataim egy ideig nem voltak hajlandók valami érthetõvé egyesülni. Körülbelül egy órán keresztül kínoztam a tollat, és végül ez lett a vége:		„Van néhány problémám. 	Kedves testvéred, J.”
+
+Név:
+22. nap
+Üzenet:
+Új szállítmány érkezett a hajókról. Diego üzenetet küldött a sziget felé közeledõ viharról; lehet, hogy új helyet kell találniuk a lehorgonyzáshoz. 	- A Fészkes fenébe! - Ez azt jelenti, hogy a készletek hamarosan megszûnnek.
+
+Név:
+25. nap
+Üzenet:
+Nagy fekete viharfelhõk közelednek a sziget felé. Úgy tûnik, Diegónak igaza volt. Remélem, találnak egy helyet, ahol biztonságban lesznek a vihartól és a zsoldosoktól.
+
+Név:
+32. nap
+Üzenet:
+Már éppen lefeküdtem volna, amikor Patris megjelent egy jelentéssel a kezében.	– Kapitányom, felderítést végeztem, és rájöttem, hogy az ellenségnek három erõdje van. A föld alatt van egy nighoni kolónia is – úgy néz ki, mintha a háború alatt épült volna, de elhagyatott. Megpróbálhatjuk azokat a földalatti szörnyeket a mi ügyünk szolgálatába állítani. Ha nem tesszük, az ellenség használni fogja õket.- Alig tudtam visszatartani az örömömet.	– Te mindig lenyûgözöl, Patris. - Korábban AvLee kopó voltál, vagy ilyesmi?	– Nem, Kapitányom – mondta fanyarul társam.	– Nem szeretek róla beszélni.		– Ó, ugyan már, mi itt mind barátok vagyunk. A legénység tagjai között nem lehetnek titkok.	– Ha ragaszkodsz hozzá – engedett Patris.	– Egy messzi keleti szigetcsoportról származom. Van ott egy Erathi kolónia, és én voltam az egyik férfi, aki a függetlenségért harcolt. Szóval természetes számomra, hogy patkányként lopakodok a mocsarak és az erdõk között.		– Sikeres volt a harcod? - kérdeztem.	– A kormányzó mindenkit elkapott akik a mozgalmunkban benne voltak – engem kivéve. Hajnalban felvettek egy Erathiába induló hajóra, így megszöktem. Mindenki mást felakasztottak. Azóta megesküdtem, hogy soha többé nem megyek haza – fejezte be Patris gyötrõdéssel a hangjában.	– Miért nem esküdtél meg, hogy bosszút állsz? – kiáltottam fel.	– Mit tehet egy magányos középkorú férfi? Nem vagyok gazdag, nincs meggyõzõkészségem, varázsolni sem tudok. Ráadásul ott van a feleségem és a lányom. Remélem nem esett semmi bajuk. A lányom már biztosan felnõtt, valószínûleg férjhez ment, és azt sem tudja, ki volt az apja.	– Mi van, ha megígérem Neked, hogy visszatérünk oda, és igazságot szolgáltatunk a népednek? Elküldjük azt a kormányzót, akit megtanítunk úszik a cápákkal, és téged új királlyá teszünk, vagy bármivé, aki lenni szeretnél – ajánlottam fel mosolyogva.		Patris arca elsápadt, és egy hosszú pillanatig elhallgatott. De némi habozás után csendesen válaszolt: 	– Ez lenne a legnagyobb ajándék, amit adhatsz nekem, kapitányom.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(1, 4, 0) ***Necropolis***
+Név:
+Moonlight
+
+Idõzített események:
+
+Név:
+Growth
+Üzenet:
+
+
+(68, 4, 0) ***Stronghold***
+
+Idõzített események:
+
+Név:
+Growth
+Üzenet:
+
+
+(20, 43, 0) ***Vörös Sárkány***
+Üzenet:
+„Minnyi fincsi hõs! Meg fogok hízni!”
+
+(28, 43, 0) ***Titok Kunyhó***
+Üzenet:
+Szerencsevadászok egy csapata tábort vert egy kis kunyhóban. Azért jöttek ide, hogy felfedezzék az elhagyott könyvtárat, de egy csapat vörös sárkány megakadályozza, hogy bejussanak oda. A szerencsevadászok segítséget kérnek tõled.
+A vörös sárkányok legyõzése nem könnyû feladat, de meg tudod csinálni.
+A szerencsevadászok hálásak a segítségért, amellyel utat nyitottál számukra. Hálájuk jeléül varázslatos páncélt ajándékoznak neked.
+
+(34, 33, 0) ***Cove***
+Név:
+Sacredcove
+
+(43, 51, 0) ***Titok Kunyhó***
+Üzenet:
+A tengeri papnõ kalandozni szeretne. Ehhez szüksége van azonban egy kisebb kíséretre. Ehhez: 50 Ókeanisz is elegendõ lenne. Ha elhozod neki, megtanít egy titkos varázslatra.
+A papnõ pontosan 50 Ókeaniszt kér.
+A papnõ nagyon elégedett a munkáddal, amellyel 50 gyönyörû Ókeaniszt hoztál neki. Megtanítja neked a „Fagy Gyûrû” varázslatot.
+
+(4, 60, 0) ***Fortress***
+
+Idõzített események:
+
+Név:
+Growth
+Üzenet:
+
+
+(24, 70, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(30, 64, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(24, 54, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(59, 60, 1) ***Titok Kunyhó***
+Üzenet:
+Törpe bányászok egy csoportja panaszkodik, hogy néhány Csontsárkány megjelent a bányájuk közelében. Addig nem folytathatják munkájukat, amíg az élõhalott szörnyeket meg nem semmisítik.
+A csontsárkányok legyõzése nem könnyû feladat, de meg tudod csinálni.
+Mielõtt folytatnák munkájukat, a törpék egy finoman ívelt szarvú sisakot szeretnének ajándékba adni Neked. Mit mondasz?
+
+===== Fájl vége =====

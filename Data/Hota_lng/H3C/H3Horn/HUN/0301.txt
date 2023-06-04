@@ -1,0 +1,223 @@
+===== Térkép neve =====
+Határ
+
+===== Térkép leírása =====
+Jeremynek meg kell találnia a Grált, és meg kell építenie a Vezetõcsillagot, hogy megtalálja a testvérét. A maximális hõsszint 16. Jeremy a gyõzelem után ezzel a szinttel folytathatja a kampány következõ forgatókönyvét.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Erõsen az az érzésem, hogy ez valamikor már megtörtént. Újra egy ismeretlen szigetre kerültem. És ismét hajó nélküli vagyok. Patris azonban nincs a közelben most... Mindenesetre az utolsó dolog, amire emlékszem, az az volt, hogy beszippantott egy örvény, amikor Casmetra az a szajha elragadta azt az átkozott kürtöt. Az az aljas boszorkány! Sem én, sem...á, mindegy. Ó, bármi is érdekelte igazán! Az egyetlen dolog, amit keresett, az a Mélység Kürtje volt! Átkozott! Senki sem kerüli el Jeremy Albatross haragját!		Elvesztettem... a csizmámat már MEGINT! Újra, ezt nem hiszem el!		Valahol nem sokkal mögöttem egy maroknyi matróz ácsorgott, akiket velem szívtak be az örvény hullámai. Vajon a többiek kevésbé voltak szerencsések? Remélem, nem. Bidleyt is elvesztettem... "Hé Ti gazemberek!" – kiáltottam a seregem felé. "El kell tûnnünk innen! De elõbb ki kell derítenünk, hol vagyunk, indulás haramiák!"
+
+Név:
+2. nap
+Üzenet:
+Megint az az érzésem, hogy újraélem a múlt eseményeit, kivéve azt a részét, hogy valami sekély büdös szigeten lennék. Az Én "Utópiám" valószínûleg messze van innen. Õszintén szólva van egy olyan érzésem, hogy valahol Kreegan szarvában vagyunk. Itt még a levegõ is más... Sürgõsen települést kell találni a vízkészletek feltöltéséhez.		Egy Tengeri farkas életének legvidámabb része az: ha esélye nyílik arra, hogy víztõl körülvéve meghaljon a kiszáradástól. De Jeremy Albatross jobban tudta ezt, mint hogy féljen az ilyen kicsinyes fenyegetésektõl! Hajlamosabb vagyok azt gondolni, hogy a veszélyek és a nehézségek kovácsolják a kalóz karakterét. Ha egyszer megjelenik egy könyv az életrajzommal, az vitézségemet és lovagiasságomat kalóz profilból fogja ábrázolni!
+
+Név:
+Vörösök tisztelete nap
+Üzenet:
+
+
+Név:
+8. nap
+Üzenet:
+Egy alacsony, sötét, keresztes szemû, vékony, sötét bajuszú férfi állt elõttem. Eszembe jutott, hogy ilyen törzsek éltek valahol Krewlodban, és nomád életet éltek. Rájöttem, hogy valószínûleg Õ volt itt a vezetõ.	– Ki vagy te?" – kérdeztem és hunyorogtam.	– Timur a nevem. - válaszolt.	– És kik vagytok Ti emberek? Mit kerestek itt?	– Nem, ki vagy Te! – kiáltott Jeremy Timurra.	– Békésen, gond nélkül éltünk itt. Gyere, ölj meg mindenkit, rombold le az erõdöt!	– Válaszold meg a kérdést! – bömbölte Jeremy.	– Menekültek vagyunk. Korábban ültetvényeken dolgoztunk. - válaszolta a helyi.	– Milyen ültetvény? Csodálkoztam.	– Van egy nagy sziget északon – válaszolta sötét barátom. – Ott van az új Steadwick város.		Most már megértettem, hol vagyok, és ez nem tett boldoggá.	– Új Steadwick! Olyan haraggal ordítottam, hogy nemcsak Timur, hanem a saját embereim is seggre estek a félelemtõl: "Új Steadwick! Te bajszos arc... Mondd, hogy ez vicc!" 	Megragadtam a gallérjánál, és a szablyámat a torkához tettem.	– A vérre és a becsületre esküszöm! - jajgatott ágyúgolyókat izzadva. Valóban így hívják!	– Halljátok, férfiak? 	Elengedtem szegény Timurt, és a legénységemhez fordultam, miközben intettem: "Süllyesszenek el! Tudjátok, hol vagyunk?!"
+
+Név:
+9. nap
+Üzenet:
+Nagyon messze, Erathiától keletre van egy szigetcsoport a végtelen tenger közepén. Mi, kalózok, Gilbert-szigeteknek hívjuk. Az erathiaiak Klondike-nak hívják. Valamivel ezelõtt, Erathia virágzása idején erõdöt létesítettek a legnagyobb szigeten, amely településsé, majd teljes gyarmattá nõtte ki magát.		A lágy éghajlat lehetõvé teszi a dohány, a kávé, a cukornád, a helyi egzotikus gyümölcsök és zöldségek termesztését. Ez utóbbi korábban csak Tatáliában volt elérhetõ. Griphonheart halála után megszakadt a kapcsolat a metroplexszel, és a helyi alkirály magabiztosnak érzi magát a szigetvilág uralkodójaként. A helyi kalózok kihívták Õt a szárazföld feletti irányításáért, és így háború tört ki.		Mindez azonban nem olyan fontos... Az a fontos, hogy ezek a szigetek rettenetesen távol helyezkednek el a kontinenstõl! És fogalmam sincs, hol van Bidley, és merre induljak el.
+
+Név:
+12. nap
+Üzenet:
+Amikor kicsik voltunk, anya mesélt nekünk egy mesét a Vezetõcsillagról. Ami vicces, régen hallottam ugyanezt a mesét kalózoktól és ördög tudja kitõl.		– Jeremy-kapitány? Egy hang szólalt meg mögöttem.		– Mit? Timurhoz fordultam. Egyfajta kalauz lett itt számomra, amikor rájött, hogy most én vagyok a felelõs vezetõ.		– Nem akarok tapintatlanul érdeklõdni. De miért indultál el ezekre a vidékekre? Úgy harcolsz, mint egy igazi sztyeppei fiú. Harcos vagy?		- Ha-a-arcos... - rikoltottam. Azért hajóztam ide, hogy elvitorlázzak. De nem tudom, merre menjek, olyan mértékben tanácstalan vagyok, hogy szükségem lenne egy Vezetõcsillagra.		– Ó, én is szívesen elhajóznék. Mosolygott Timur. Gyújtsd meg a csillagot, és vitorlázz, amerre a szíved vágyik!		– Átok. Ne tedd még szomorúbbá az életemet. Felugrottam és visszafordultam a tenger felé.		– De Jeremy-kapitány! Tudom, hogyan kell meggyújtani a csillagot!
+
+Név:
+14. nap
+Üzenet:
+Elbódulva élveztem a helyi cefrét, miközben saját gondolataimba merültem. A cefre cukornádból készült. Nem mondanám, hogy elképesztõen finom, de megteszi. Hirtelen Timur lépett be a kabinomba, majd... Ez az izé. Vagyis valami. Ha ez a halom valami tudja, hogyan kell kijutni innen, én csupa fül leszek. Különben meg látásból lelõném, abban az esetben, ha nincs hasznomra.		Egy õrült köntösbe öltözött, tollas férfi volt, madárfejnek látszó kalapja. Sötét bõr, nagy orr és kerek, kifejezéstelen szemek látszottak a kalap alatt.		– Ez itt Crang-Crang. Timur bemutatta az idegent. – Crang-Crang. – ismételte a furcsa fickó ok nélkül. "Értem." – válaszoltam dühösen. "Legalábbis nem Arbgrh. Hogyan láthatjuk a Vezetõcsillagot?"		– Grál – mondta a sámán.	– Grál? - kérdeztem megerõsítést várva.	– Grál. Hozd Crang-Crang Grált. Fénycsillag! Ragyogni!"		A vállánál fogva oldalra húztam Timurt.	- Mi a fene ez? Nagyon meglepett, hogy egyáltalán tud beszélni.	– Jeremy kapitány, ez itt a nép papja. Nagyon bölcs! Bár nehezen tud beszélni, igen.	– Ne idegesíts már! Komolyan a Grált említette? Sóhajtottam.		- Igen. Valószínûleg megtaláljuk, ha megnézzük az obeliszkeket. Embereim azt mondták, hogy az obeliszkek egy térképet ábrázolnak, amely megmutatja, hol van eltemetve a Grál. - válaszolta a nomád.		- Rendben. Vigye ki a barátját, mielõtt itt mindent elnyel a bûze... Meggondolom, mit tegyek.
+
+Név:
+18. nap
+Üzenet:
+Fogalmam sincs, mi az a "Grál". Nem szeretek különös és lényegtelen kérdésekre gondolni. Sokkal jobb az aranyra, a rumra és a nõkre gondolnom. A sors azonban mást parancsol nekem, úgy fest!		És hát a Grál. Azt hallottam, hogy ezek a dolgok egyszer az égbõl estek le. Senki sem tudja igazán, mik ezek, és hány van belõlük. De mindenki szeretne egyet. Nos, ha Timurnak igaza van, és az obeliszkek valóban felfedik a térképet, miért ne kereshetnénk ezt a Grált? Készen állok eladni akár az utolsó magas csizmámat is, hogy elmenjek innen és megtaláljam Bidleyt. Anyám soha nem bocsátaná meg, ha nem vigyáznék a drága testvéremre.
+
+Név:
+24. nap
+Üzenet:
+Úgy tûnik, kezdek emlékezni a történetekre, amelyeket Patris mesélt nekem errõl a helyrõl... Átok! Õ innen származott, nem? Megszökött, amikor gerillaosztagukat elfogták, és családját bebörtönözték. Kár, hogy Patris már nincs velem. Valószínûleg lenne néhány elintéznivalónk itt.
+
+Név:
+30. nap
+Üzenet:
+Úgy tûnik, a helyi kalózok és az alkirály tudomást szereztek a jelenlétünkrõl. Egyértelmûen nem szeretik, hogy Jeremy Albatross megzavarja a terveiket. Jó! Szeretem, ha félnek tõlem. Kis erõdítményünket egyre gyakrabban támadják meg azok, akik kalózokkal és gyarmatosítókkal akarnak megküzdeni.				Az egyetlen dolog, ami igazán megrémít, az az, hogy ellenségeink elõttünk találhatják meg a Grált.
+
+Név:
+35. nap
+Üzenet:
+Timur emberei arról számolnak be, hogy a szigetek alatt hatalmas barlanghálózat található. Szörnyek és intelligens lények egyaránt laknak ott. Nem fûzök nagy reményeket az "intelligens" lényekkel kapcsolatban, amelyek messze nem múlják felül a szokásos "arrrbgh"  -kiadott hangokat. Keressük ott Grált talán?
+
+Név:
+40. nap
+Üzenet:
+Riasztó hír érkezett hozzám, hogy a barlangokban démonok élnek, és nem csak Tuunbaq. Az elsõ háború alatt a Kreegan-ok küldték expedíciójukként ide. Catherine azonban még az expedíció érkezése elõtt le tudta gyõzni Eeofolt és Nighont. Az Eeofollal kötött szövetség megszakadt, és a kreeganok elhagyatva maradtak ezekben a barlangokban. Kétlem, hogy idõvel szebbek lettek volna.		Mert tudod, nem szállhatsz csak úgy le az ördög tudja hová, veszíts el egy magasszárú csizmát, de ne találkozz Kreeganekkel.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(63, 40, 0) ***Cove***
+
+Idõzített események:
+
+Név:
+Teljes bónusz nap
+Üzenet:
+
+
+(15, 55, 0) ***Cove***
+Név:
+Sharkania
+
+(3, 14, 0) ***Castle***
+Név:
+Barkling-öböl
+
+Idõzített események:
+
+Név:
+Zöld teljes bónusz
+Üzenet:
+
+
+(8, 71, 0) ***Vándor csizma***
+Üzenet:
+Egy homokból kilógó tárgy ragadta meg a figyelmemet. Lehajoltam, hogy megvizsgáljam... Valamiféle lábbelinek tûnik! A matrózaim megdöbbenve nézték, ahogy dühösen kotorászok valamit. Néhány perccel késõbb elõvettem egy pár elegáns élénkzöld csizmát a homokból. Jó minõségû, de koszos. Nem lehetett tudni, hogy férfiaknak vagy nõknek tervezték. Egy divatos dolog, amely inkább labdákhoz illik, mint hétköznapi barangoláshoz... Azonban belefáradtam abba, hogy magányos magas csizmával a lábamon sétáljak. Miután leráztam a homokot, felvettem az egyiket. A méret jó volt, mintha kizárólag nekem varrták volna! – Szép csizma, Kapitányom! A legénység egyik tagja felhördült szexisen, a többiek pedig csatlakoztak vidám mókázásához. - nevettem válaszul. Aztán vállat vontam és továbbmentem. A szerencse ma rám mosolygott.
+
+(6, 55, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(70, 18, 0) ***Titok Kunyhó***
+Üzenet:
+Egy kígyó felfalta az amulettemet, és elsuhant nyugat felé. Üldözd, és hozd vissza nekem. jutalommal viszonzom a szívességet.
+
+(40, 13, 0) ***Esemény***
+Üzenet:
+Mély, visszataszító gurgulázást hallasz, és rögtön egy csúnya kígyófej emelkedik ki a hullámok fölé. A legénység meglepetten átesik a kakifedélzet korlátján. Amíg a kígyó váratlan falatozásba kezd a fedélzetrõl, sikerül összeszedned magad, és megparancsolnod a tüzéreknek, hogy nyissanak tüzet.
+
+(59, 71, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(10, 59, 0) ***Titok Kunyhó***
+Üzenet:
+Idegen vagy, igaz? Túl kényelmes! Van egy személyes ügy, amirõl nem akarhatnak, hogy az ismerõseid tudomást szerezzenek. elfogadod az ajánlatomat?
+Nem lobogtatod a kékeszöld zászlót. Menj innen!
+Azt akarom, hogy vidd el ezt a dolgot egy ismerõsömnek. A helye innen keletre van. Elviszed ugye?
+
+(66, 59, 0) ***Titok Kunyhó***
+Üzenet:
+A barátom el akart küldeni egy bizonyos mûtárgyat Nekem, ha találna valakit, aki megbízható ember, akinek átadhatja azt jutalommal viszonoznám. Véletlenül nem Te lennél az? A szóban forgó dolog egy nagy, rozsdás patkó.
+Egy Démoni patkó! Pontosan ez az, amit kerestem. Nagyon hálás vagyok, hogy elhoztad nekem. Átadnád ezt a dolgot a kollégámnak? A kunyhója a szigetcsoport közepén van. Lehet, hogy azt szeretné, hogy Te is tennél valamit érte majd jutalomért cserébe.
+
+(41, 24, 0) ***Titok Kunyhó***
+Üzenet:
+Barátomtól várok küldöncöt csomaggal, valami élõ növényszerû dolgot.
+Elbûvölõ! Ez a lóhere tökéletesen megfelel a terveimnek! Mellesleg, érdekelne egy kis hazahozó küldetés? Ez a dolog elátkozott lenne ugyan. Innen északkeletre lakik egy öreg fószer, aki talán tudja, hogyan kell feloldani az átkot.
+
+(52, 0, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(71, 56, 0) ***Esemény***
+Üzenet:
+A hajó nyugodtan haladt. Hirtelen egy hatalmas hullám emelkedett egyenesen elõre, és rázúdult a fedélzetre.	– Ez nem a tenger! – kiáltottad, és elõvetted a régi pisztolyodat.		– Ez egy csapda!
+
+(30, 8, 0) ***Castle***
+Név:
+Új Steadwick
+
+Idõzített események:
+
+Név:
+Zöld teljes bónusz
+Üzenet:
+
+
+(71, 52, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(6, 69, 0) ***Esemény***
+Üzenet:
+Egy közeli dûne mögül egy különösen barátságtalan társaság bukkan elõ. Akiknek a legkevésbé sem vonzó az arcuk, valami fényes fényt emelnek a fejük fölé, és valami sületlenséget ordítanak felénk. Miután úgy tûnik, hogy végeztek, acélt húznak elõ ellenünk.
+
+(65, 1, 0) ***Titok Kunyhó***
+Üzenet:
+Nagyon régen elvesztettem egy nagyon értékes dolg számomra. Lehet, hogy nem úgy tûnik, hogy sok értéke van, de néhány kedves emléket õriz Nekem. Ha megtalálnád és visszahoznád ide, nagyon hálás lennék érte.
+Én kicsi babám! Végre megkerültél! Végre újra képes leszek átkokat szórni! Ó, a régi idõk visszatérnek! És arra gondolni, hogy kígyófertõzésekhez kell folyamodnom, hogy beavatkozzam a szomszédaim életébe! Ez közel sem olyan szórakoztató, és mivel a kígyók túl nagyra nõnek feltûnõek lesznek, és az utóbbi idõben amúgy is nehéz velük bánni. Elvinnéd Õket Tõlem?
+
+(70, 2, 0) ***Arany Sárkány***
+Üzenet:
+Paripa elõételnek és kalóz vacsorának!
+
+(30, 55, 0) ***Esemény***
+Üzenet:
+Soha nem tudtam rájönni, mire valók ezek az obeliszkek. Érintésre felfednek némi halandzsát.
+
+(23, 11, 0) ***Jel***
+Üzenet:
+Ültetvény
+
+(27, 53, 0) ***Jel***
+Üzenet:
+Bounty-sziget
+
+(19, 58, 0) ***Matróz***
+Üzenet:
+A pokolba is?	Hagyd, ez a mi hajónk!
+
+(19, 59, 0) ***Esemény***
+Üzenet:
+Megpillantottam egy hajót, megfordultam, és ünnepélyesen kijelentettem: "A "Fekete Egyszarvú" nevet adományozom ennek a hajónak!
+
+(46, 71, 0) ***Jel***
+Üzenet:
+Kenengem erõd
+
+(66, 7, 0) ***Rampart***
+Név:
+Evergreen
+
+(63, 5, 0) ***Jel***
+Üzenet:
+Smaragd lagúna
+
+(46, 30, 0) ***Jel***
+Üzenet:
+Ezeket a szigeteket egy bátor navigátor, Siagum és elsõ tisztje, Tsilataf fedezte fel.
+
+(64, 66, 0) ***Jel***
+Üzenet:
+Serene itt van börtönben. Bûnös abban, hogy jogosulatlanul jutott be a börtönbe.
+
+(14, 36, 0) ***Esemény***
+Üzenet:
+Nem úgy néz ki, mint egy szabad átjárás. Úgy tûnik, eszedbe jutottak azok az emberek, akik azt mondták, hogy innen csak kifelé lehet menni. A bejárat kulcsa valószínûleg valahol a föld alatt van.
+
+(31, 29, 0) ***Esemény***
+Üzenet:
+Látható a közeli sziget, amely nyugat felé nyúlik. Valójában nincs is olyan messze, de gázlót nem látni.
+
+(36, 41, 0) ***Jel***
+Üzenet:
+Gallavant itt volt
+
+===== Fájl vége =====

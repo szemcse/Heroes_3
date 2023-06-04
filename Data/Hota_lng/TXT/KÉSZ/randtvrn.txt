@@ -1,0 +1,354 @@
+"Lehet, hogy a Fekete Sárkány erõsebb egy titánnál, de még egy titán sem tudna legyõzni egy arkangyalt segítség nélkül."
+"Egy jövendõmondó egyszer így szólt, ""Ne osztd meg a bölcsességedet senkivel."""
+A skarlátvörös hattyú apró tavakon él.
+A vér nem válik vízzé.
+"Az ördögfiókák esetén igaz a mondás: sok lúd disznót gyõz."
+Hûség és igazság - ez vezéreljen.
+A Sötétség palástjával könnyedén kijátszhatod ellenségeidet.
+Találd meg a Grált - nagyobb lesz a hatalmad, mint gondolnád.
+"Találj egy jó térképészt.  A térképek aranyat érhetnek és stratégiai fontosságúak."
+Óvakodj a Kreegans teremtette ajándékoktól.
+Mindig védd az íjász egységeidet csatában.
+Néha a legjobb útja a védekezés elkerülésének a támadás!
+Ott támadj, ahol az ellenfeled gyengébb.
+Hallottál valaha egy békáról, aki arról álmodott, hogy király lesz... És azzá lett?
+Egy varázsló nemrég felfedezett egy varázslatot, amely az az egész SEREGnek lehetõvé teszi, hogy repüljön!
+A Káosz a Nagyúr legjobb barátja.
+Azt mondják, nincs olyan védelem, amely ellenállna egy Õsi Behemot támadásának.
+Soha ne keveredj szárazföldi háborúba Erathiában.
+"A Barlanglakóknak nincs szemük, mégis képesek látni."
+"Soha ne vedd semmibe a föld alatti kapukat, nehogy ellenfeled láthatatlanul megközelítsen."
+"Csak a Zöld és Arany Sárkányok jók. A Piros és Fekete Sárkányok Nighon szolgái, a Csont és Szellem Sárkányok a gonosz Nekromanták teremtményei."
+A ma a tegnap holnapja.
+Egy utazó azt mondta nekem, hogy az Enrothi Ironfistek elveszítették a mennybéli megbízást.
+"Egyszer, mikor mestere leszel egy mágia iskolának a legtöbb varázslatod, mely eddig egy egységre hatott, most minden baráti vagy ellenséges egységre hatással lesz - és néha mindkettõre!"
+"Mikor sivatagban utazol keresztül és meglátsz egy oázist, látogasd meg, mert növeli lépéseid számát."
+"Találd meg a tudás köveit, melyeket szétszórva találod a világban. Mindegyikbõl csak egyszer tanulhatsz, de abból sokat."
+"Biztonság van a számokban, kivéve ha azok ezrek!"
+Ne feledd a Fekete Sárkány immunis minden varázslatra - csak a Pusztító varázslat képes plusz sebzést adni ellene.
+"A Gyorsítás és Lassítás varázslatok nagyon erõs szövetségesek a harcban, fõként magasabb szintû tudás esetén."
+Harcolj a Tûz ellen a Tûzhárító varázslattal.
+A Víz segít kárt okozni azoknak, akik mesterei annak.
+A Levegõ segít kárt okozni azoknak, akik mesterei annak.
+A Föld segít kárt okozni azoknak, akik mesterei annak.
+Az egyetem megtanít mindenre...  a megfelelõ fizetségért.
+Az Arkangyalok a legerõsebb teremtményei a Castle-nak.
+Az Arany Sárkányok a legerõsebb teremtményei a Rampart-nak.
+A Titánok a legerõsebb teremtményei a Tower-nek.
+A Sátánok a legerõsebb teremtményei az Inferno-nak.
+A Szellem Sárkányok a legerõsebb teremtményei a Necropolis-nak.
+A Fekete Sárkányok a legerõsebb teremtményei a Dungeon-nak.
+Az Õsi Behemotok a legerõsebb teremtményei a Strongholdnak.
+A Káosz Hidrák a legerõsebb teremtményei a Fortress-nek.
+"A megfelelõ varázslattal elsüllyesztheted a hajóidat, hogy az ellenségeid ne használhassák azokat. Ez így egyirányú utazást eredményez, de ezért van a Hajóidézés varázslat!"
+Semmi sem olyan ízletes, mint az én kedvenc Erathiában sütött angolnám.  Nem?  De a Pegazus Pástétom sem rossz...
+"Hey, én kifogytam a hírekbõl, mert az olyan emberek, mint TE nem jöttök ide eleget, hogy megosszátok a híreket velem!"
+"Az évnek ebben az idõszakában a vizek megfagynak a Tündérsziget, Vori körül."
+Vori egy elszigetelt nemzet.
+Hallottam, hogy a Vori Tündéknek hófehér bõrük van.
+Tudtad, hogy az AvLee tündék a Vori tündéktõl származnak?
+A városok Citadellával több egységet adnak, mint a városok Erõddel.
+Hallottam, hogy a Towerek varázstárgyakkal kereskednek.
+Tudtad, hogy a Strongholdok lényekkel kereskednek?
+Hallottam, hogy a hõsök mozgás nélkül utaznak az Inferno várak között.
+A Tolvajtanya barátja mindenkinek és senkinek.
+Bármely Castle, mely a Titánok Kardja védelme alatt áll, jobb eséllyel állja az ostromot.
+Hallottam, hogy a Castlek lakói jutalomként megépítik a Kolosszust bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Rampartok lakói jutalomként megépítik a Lelkek Õrét bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Towerek lakói jutalomként megépítik a Léghajót bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy az Infernok lakói jutalomként megidézik a Tûz Istenét bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Necropolisok lakói jutalomként megépítik a Lelkek Börtönét bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Dungeonok lakói jutalomként megidézik a Föld Védelmezõjét bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Strongholdok lakói jutalomként megépítik a Hadvezérek Emlékmûvét bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Fortressek lakói jutalomként megnövesztik a Húsevõ Növényt bármely hõsnek, aki elhozza nekik a Grált.
+Az erathiai lovak a leggyorsabbak a szárazföldön.
+Az erathiai Számszeríjász két nyilat tud lõni egyszerre, míg a normál Íjászok egyet.
+A királyi udvarban edzett Griffmadarak kegyetlen védekezõk.
+Az erathiai Keresztesek kétszer tudnak ütni egy idõben, míg a Kardforgatók csak egyszer.
+Hallottad?  A Zelóták tiszta energiából léteznek.
+Engedd a Bajnokaidat átgázolni az ellenségeiden. Látni fogod az eredményt. Távolabbról eredményesebbek.
+Az Angyalok sokkal kegyetlenebbek, mikor Ördögökkel csapnak össze.
+"A csata hevében láttam, ahogyan az Arkangyalok újjáélesztették elesett bajtársaikat."
+"Azt mondják egy Angyal bármely sereg hangulatát megnöveli, kivéve a halottakét."
+Egyszer láttam egy Törpét, aki ellenállt egy varázslatnak, amit ráolvastak.
+Azt mondják a Nemestünde Íjászok AvLeeból a legjobb erathiai Íjászok.
+Azt mondják a Pegazus nehezebbé teszi az ellenséges varázsló dolgát.
+A Huorn Harcosok gyökerei földhöz bilincselik az ellenfeleiket.
+"Ha meg akarod védeni magad a varázslatoktól állj közel egy Unikornishoz."
+"Habár nem olyan immunisak, mint az Arany Sárkányok, a Zöld Sárkányok is ellenállnak a legtöbb varázslatnak."
+"Az Arany Sárkányok több varázslatnak állnak ellen, mint a Zöld Sárkányok, de nem olyan soknak, mint a Fekete Sárkányok."
+"A Kísérõk az ellenség varázslatából csennek el, amit átadnak a Te sereged vezetõjének."
+"A Magógok robbanó tûzlabdákat dobnak, felégetve mindent a célpontjuk körül."
+Lehetetlenség visszatámadni a háromfejû Cerberus gonosz támadása ellen.
+Egyszer láttam, hogy az Aknaurak Démonokat élesztenek az elesett szövetségeseikbõl.
+"A Tûzpajzs létezése miatt az Efreetek ellenállnak a Tûz mágia varázslatainak."
+Az Efreetek extra adag lelkesedéssel harcolnak, mikor Dzsinneket támadnak.
+Az Efreet Szultánok természetes védelmet élveznek a tûzpajzs által.
+A Jó Szerencse nem az Ördög jelenléte miatt van.
+"Mikor egy Ördög lép, eltûnik egy másik idõsíkba, mielõtt visszatérne a világunkba."
+Lehetetlenség visszatámadni az Ördög erõs ütésû kaszája ellen.
+"Mikor támad egy Angyalt, az Ördög félelmetes haraggal csap le."
+Óvakodj a Zombik érintésétõl. Könnyen betegség közt találhatod magad.
+"A Lelkek és a Kísértetek visszataszító szellemek. Ha nem tudod megölni az elsõ ütésre, visszagyógyítja magát teljesen."
+A Kísértetek a mágikus energiákból élnek. A mana eltûnik a jelenlétükben.
+Azt hallottam, hogy Enroth szellemei messze veszélyesebbek, mint Erathia Lelkei és Kísértetei.
+"A csatatéren leggyakrabban az a sereg nyer, amelyik elõször üt."
+"A csatatéren a gyorsaság élet, az élet gyorsaság."
+Láttam haldokló Vámpírurakat újjászületni az elesett ellenfelei vérébõl.
+Lehetetlenség visszatámadni egy Vámpírra a félelmetes Vámpír arc látványa miatt.
+A Lich támadása megmérgezi az élõt, miközben a halottat épen hagyja.
+A Fekete Lovag csapása megátkozza az ellenfelet.
+A Halállovagok hatalmas harcosok, képesek dupla sebzést mérni ellenfeleikre a félelmetes halálcsapással.
+"A csatatéren a Csont és Szellemsárkányok támadása félelmet kelt az ellenségeik szívében."
+"A Szellemsárkányok a fiatal életerõre szomjaznak. Vigyázz, mert öregnek találod maagad."
+A Gólemeknek nincs saját agyuk.
+A Gólemek varázslat által telítõdtek élettel, mely a legtöbb ember számára ismeretlen.
+"Figyelemmel az élettel teli természetükre, A Gólemek tovább állnak ellen a varázslatoknak, mint a legtöbben."
+Azt mondják a Mágusok és Fõmágusok segítenek a hõsnek a varázslataik idézésében.
+A Fõmágus precízebben lõ mágikus energiájával, mint bármelyik íjász.
+Az Efreetek természetes ellenfelei a Dzsinnek.
+A Dzsinnek olyan gyûlölettel támadják az Efreeteket, melyet magam is láttam.
+A Mester Dzsinnek úgy tudnak varázsolni, mint bármely hõs .
+"A Naga négy- és hatkezes támadása alatt senki se reménykedjen a visszatámadásban"
+A Naga támadása gyakorlatilag egy precíz kardforgatóhoz hasonlítható.
+Csak egy Angyal és Arkangyal lehet jobb egy Naga kardforgatónál.
+A legtöbben alábecsülik az Óriás és a Titán intelligenciáját. Az agyukat nem lehet hatalmukba keríteni.
+A Titánok sokkal keményebben támadják a Fekete Sárkányokat, mint bármely ellenfél.
+A Farkaslovas Fosztogatók gyors lények, kétszer csapnak le rád, mielõtt védekezni tudnál.
+Az Ogre Mágusok rémisztõ szörnyek. Képesek vérszomjat varázsolni a szövetségeseikre. Sosem láttam még ilyet.
+Azt mondják a Villámmadarak támadása villámlást hoz az égbõl.
+"Ha be akarsz venni egy várost vigyél magaddal néhány Küklopszot. Az Õ dobó technikájuk gyorsabban ledönti a falakat, mint bármely katapult."
+Néhányan túlélték egy Behemot támadását. Õk azt mondják nincs védelem ellenük.
+"Mivel a Barlanglakóknak nincs szemük, nem lehet elvakítani õket."
+"Sok sereg esett el a Hárpiák végzetes csapás támadása alatt, mielõtt sérülést okozhattak volna."
+A Hárpia Banyák gyorsan támadnak és visszarepülnek, mielõtt az ellenfél visszatámadhatna.
+"A Beholderek a legmagabiztosabb lények. Mikor körülvetted, sosem vesztik el a nyugalmukat."
+Sokan félnek a Medúza kõvé dermesztõ támadásától. Pedig jobban félhetnének arany nyilaiktól.
+"A félelmük leküzdése ellen a Minotauruszok vérszomj varázslattal indulnak a csatába."
+Azt mondják a Scorpikoreok erõs mérge megbéníthat egy Gólemet.
+Nincs az a varázslat a világon, ami megsebezheti a Fekete Sárkányt.
+Azt mondják a Sebezhetõség Varázsgömbjével még a hatalmas Fekete Sárkány is sebezhetõ.
+"Azt mondják csata közben a Fekete Sárkány megtalálják a Titánokat."
+"Csak néhányan értik hogyan, de a Sárkánylegyek képesek eltüntetni a varázslatokat."
+Keveset tudunk a Hatalmas Gorgonokról. Egyszer hallottam, hogy a szemei nézése halálos volt.
+Óvakodj a Sárkánygyík Fejedelem mérgezésétõl. Gyorsabban romlik az egészséged, mint amilyen gyorsan repülni képes.
+Lehetetlenség visszatámadni a sokfejû Hidra támadása ellen.
+"Ha gyorsan akarsz tanulni látogasd meg a Harci Iskola Akadémiát a Dungeonban."
+Úgy vélem a Boszorkánymester képes Mana Vortextet készíteni, mellyel megduplázhatja a mana kapacitását.
+"Az Idézés Kapujával a Dungeon képes lényeket toborozni a várban egy külsõ telephelyrõl."
+A Fortress megépíti a Véres Obeliszket, hogy növelje a várvédõk kegyetlenségét.
+"Egy nap után a Boszorkánymester Ketrecében tudni fogod, hogyan védd jobban magad."
+"Mikor Megtámadsz egy Infernot látni fogod, a Kénkõ Viharfelhõket. Vigyázz, mert varázslóik ebbõl nyerik erejüket."
+Azt mondják az Infernok Dimenzió Kapukkal vannak összekötve. Az egyszerû emberek Kastély Kapunak hívják ezeket.
+"Ha a hõseid több varázserõre vágynak, látogassák meg a Tûz Rendet."
+A Sötétség Füstje eltakar mindent, ami a Nekromanták uralma alatt van.
+Úgy hitték a Necropolis hadifoglyait megnyúzták és csontvázakat csináltak belõlük, ezzel növelve a halott hordáit a Nekromantáknak és a Halállovagoknak.
+Néhányan hiszik, hogy minden Necropolis épít 'Szellemidézõ Erõsítõt', hogy segítsék a hõseiket növelni a halottaik számát.
+A Misztikus Tó sokkal kivételesebb, mint  a Drágakõ Tó. Sosem tudhatod milyen értékes nyersanyagot találsz benne.
+A Rampartok Szerencse Forrást építenek, hogy kivételes szerencsével ruházzák fel védõiket.
+"Ha pénzt kívánsz, helyezd el a Törpe Kincstárban a Rampartban."
+Néhány Stronghold Menekülõ Alagutakat épít, melyek segítenek a gyors visszavonulásban egy elvesztett ostromkor.
+A hõsök, akik meglátogatják Valhalla Csarnokát a Strongholdban jobb harcosok lesznek.
+"Amennyiben többet akarsz tudni, látogasd meg a Tudás Falát a Towerban."
+"Az elátkozott talajon senkinek sincs elõnye."
+"A varázs síkságon a egyszerû ember is úgy varázsolhat, mint a legnagyszerûbb varázslók."
+Hallottam, hogy a Castlek lakói jutalomként megépítik a Kolosszust bármely hõsnek, aki elhozza nekik a Grált.
+Bármely Castle, amely a Titánok Pallosa védelme alatt áll, jobb eséllyel védi a várat ostromkor.
+A Tolvajtanya barátja mindenkinek és senkinek.
+Hallottam, hogy a hõsök mozgás nélkül utaznak az Inferno várak között.
+Tudtad, hogy a Strongholdok lényekkel kereskednek?
+Hallottam, hogy a Towerek varázstárgyakkal kereskednek.
+A városok Citadellával több egységet adnak, mint a városok Erõddel.
+"Bár a Fekete Sárkány erõsebb, mint egy Titán, de egy Arkangyalt csak egy Titán tud legyõzni segítség nélkül."
+"Egy jövendõmondó egyszer így szólt, ""Ne osztd meg a bölcsességedet senkivel."""
+A skarlátvörös hattyú apró tavakon él.
+A vér nem válik vízzé.
+"Az Ördögfiókák és Kísérõk hiányában vannak az erõnek, de kárpótolja õket sokaságuk."
+Te saját magad légy igazságos.
+A Sötétség Füstje használatával elbújhatsz az ellenfeleid elõl.
+Találd meg a Grált - nagyobb lesz a hatalmad, mint gondolnád.
+"Találj egy jó térképészt.  A térképek aranyat érhetnek és stratégiai fontosságúak."
+Óvakodj a Kreegans teremtette ajándékoktól.
+Mindig védd az íjász egységeidet csatában.
+Néha a legjobb útja a védekezés elkerülésének a támadás!
+Ott támadj, ahol az ellenfeled gyengébb.
+Hallottál valaha egy békáról, aki arról álmodott, hogy király lesz... És azzá lett?
+Egy varázsló nemrég felfedezett egy varázslatot, amely az egész SEREGnek lehetõvé teszi, hogy repüljön!
+A Káosz a Nagyúr legjobb barátja.
+Azt mondják, nincs olyan védelem, amely ellenállna egy Õsi Behemot támadásának.
+Soha ne keveredj szárazföldi háborúba Erathiában.
+"A Barlanglakóknak nincs szemük, mégis képesek látni."
+"Soha ne vedd semmibe a föld alatti kapukat, nehogy ellenfeled láthatatlanul megközelítsen."
+"Csak a Zöld és Arany Sárkányok jók. A Piros és Fekete Sárkányok Nighon szolgái, a Csont és Szellem Sárkányok a gonosz Nekromanták teremtményei."
+A ma a tegnap holnapja.
+Egy utazó azt mondta nekem, hogy az Enrothi Ironfistek elveszítették a mennybéli megbízást.
+"Egyszer, mikor mestere leszel egy mágia iskolának a legtöbb varázslatod, mely eddig egy egységre hatott, most minden baráti vagy ellenséges egységre hatással lesz - és néha mindkettõre!"
+"Mikor sivatagban utazol keresztül és meglátsz egy oázist, látogasd meg, mert növeli lépéseid számát."
+"Találd meg a tudás köveit, melyeket szétszórva találod a világban. Mindegyikbõl csak egyszer tanulhatsz, de abból sokat."
+"Biztonság van a számokban, kivéve ha azok ezrek!"
+Ne feledd a Fekete Sárkány immunis minden varázslatra - csak a Pusztító varázslat képes plusz sebzést adni ellene.
+"A Gyorsítás és Lassítás varázslatok nagyon erõs szövetségesek a harcban, fõként magasabb szintû tudás esetén."
+Harcolj a Tûz ellen a Tûzhárító varázslattal.
+A Víz segít kárt okozni azoknak, akik mesterei annak.
+A Levegõ segít kárt okozni azoknak, akik mesterei annak.
+A Föld segít kárt okozni azoknak, akik mesterei annak.
+Az egyetem megtanít mindenre...  a megfelelõ fizetségért.
+Az Arkangyalok a legerõsebb teremtményei a Castle-nak.
+Az Arany Sárkányok a legerõsebb teremtményei a Rampart-nak.
+A Titánok a legerõsebb teremtményei a Tower-nek.
+A Sátánok a legerõsebb teremtményei az Inferno-nak.
+A Szellem Sárkányok a legerõsebb teremtményei a Necropolis-nak.
+A Fekete Sárkányok a legerõsebb teremtményei a Dungeon-nak.
+Az Õsi Behemothok a legerõsebb teremtményei a Stronghold-nak.
+A Káosz Hydrák a legerõsebb teremtményei a Fortress-nek.
+"A megfelelõ varázslattal elsüllyesztheted a hajóidat, hogy az ellenségeid ne használhassák azokat. Ez így egyirányú utazást eredményez, de ezért van a Hajóidézés varázslat!"
+Semmi sem olyan ízletes, mint az én kedvenc Erathiában sütött angolnám.  Nem?  De a Pegazus Pástétom sem rossz...
+"Hey, én kifogytam a hírekbõl, mert az olyan emberek, mint TE nem jöttök ide eleget, hogy megosszátok a híreket velem!"
+"Az évnek ebben az idõszakában a vizek megfagynak a Tündérsziget, Vori körül."
+Vori egy elszigetelt nemzet.
+Hallottam, hogy a Vori Tündéknek hófehér bõrük van.
+Tudtad, hogy az AvLee tündék a Vori tündéktõl származnak?
+A városok Citadellával több egységet adnak, mint a városok Erõddel.
+Hallottam, hogy a Towerek varázstárgyakkal kereskednek.
+Tudtad, hogy a Strongholdok lényekkel kereskednek?
+Hallottam, hogy a hõsök mozgás nélkül utaznak az Inferno várak között.
+A Tolvajtanya barátja mindenkinek és senkinek.
+Bármely Castle, mely a Titánok Pallosa védelme alatt áll, jobb eséllyel állja az ostromot.
+Hallottam, hogy a Castlek lakói jutalomként megépítik a Kolosszust bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Rampartok lakói jutalomként megépítik a Lelkek Õrét bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Towerek lakói jutalomként megépítik a Léghajót bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy az Infernok lakói jutalomként megidézik a Tûz Istenét bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Necropolisok lakói jutalomként megépítik a Lelkek Börtönét bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Dungeonok lakói jutalomként megidézik a Föld Védelmezõjét bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Strongholdok lakói jutalomként megépítik a Hadvezérek Emlékmûvét bármely hõsnek, aki elhozza nekik a Grált.
+Hallottam, hogy a Fortressek lakói jutalomként megnövesztik a Húsevõ Növényt bármely hõsnek, aki elhozza nekik a Grált.
+Az erathiai lovak a leggyorsabbak a szárazföldön.
+Az erathiai Számszeríjász két nyilat tud lõni egyszerre, míg a normál Íjászok egyet.
+A királyi udvarban eddzett Griffmadarak kegyetlen védekezõk.
+Az erathiai Keresztesek kétszer tudnak ütni egy idõben, míg a Kardforgatók csak egyszer.
+Hallottad?  A Zelóták tiszta energiából léteznek.
+Engedd a Bajnokaidat átgázolni az ellenségeiden. Látni fogod az eredményt. Távolabbról eredményesebbek.
+Az Angyalok sokkal kegyetlenebbek, mikor Ördögökkel csapnak össze.
+"A csata hevében láttam, ahogyan az Arkangyalok újjáélesztették elesett bajtársaikat."
+"Azt mondják egy Angyal bármely sereg hangulatát megnöveli, kivéve a halottakét."
+Egyszer láttam egy Törpét, aki ellenállt egy varázslatnak, amit ráolvastak.
+Azt mondják a Nemestünde Íjászok AvLeeból a legjobb erathiai Íjászok.
+Azt mondják a Pegazus nehezebbé teszi az ellenséges varázsló dolgát.
+Az Ent Harcosok gyökerei földhöz bilincselik az ellenfeleiket.
+"Ha meg akarod védeni magad a varázslatoktól állj közel egy Unikornishoz."
+"Habár nem olyan immunisak, mint az Arany Sárkányok, a Zöld Sárkányok is ellenállnak a legtöbb varázslatnak."
+"Az Arany Sárkányok több varázslatnak állnak ellen, mint a Zöld Sárkányok, de nem olyan soknak, mint a Fekete Sárkányok."
+"A Kísérõk elvonják a manát bármely varázslatból, melyet idéztél és átadják a tábornokaiknak."
+"A Magógok robbanó tûzlabdákat dobnak, felégetve mindent a célpontjuk körül."
+Lehetetlenség visszatámadni a háromfejû Cerberus gonosz támadása ellen.
+Egyszer láttam, hogy az Aknaurak Démonokat élesztenek az elesett szövetségeseikbõl.
+"A Tûzpajzs létezése miatt az Efreetek ellenállnak a Tûz mágia varázslatainak."
+Az Efreetek extra adag lelkesedéssel harcolnak, mikor Dzsinneket támadnak.
+Az Efreet Szultánok természetes védelmet élveznek a tûzpajzs által.
+Azt mondják, hogy a tengeri kígyók felébredtek a mélységbõl, és megjelentek a földeken. Összetörnek mindent, ami az útjukba esik.
+Az áspidák az Öböl legerõsebb lényei.
+Az egyik kalóz arról próbált meggyõzni, hogy ismeri a titkos por formuláját, amely lehetõvé teszi, hogy egyetlen szikrából óriási ágyúgolyók repüljenek fel!
+Azt mondják, hogy a Tolvajok Céhe együttmûködik a kalózokkal.
+Azt mondják, hogy a vezércsillagokat a tengeri városokból lehet a legjobban látni..
+Nix-nek kiváló páncélja van.
+Ez még nem a vége annak, amit egy igazi kalóz elérhet!
+Fekete vitorlás hajókkal kereskednek a part menti öblökben.
+A tenger mélyén egy titokzatos Kürt hever mozdulatlanul. Titokzatos erõt fog adni..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

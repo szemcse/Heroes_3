@@ -1,0 +1,181 @@
+		
+Wall Section	"Ütési pontok (maximum 3, csak a falak, tornyok, a kapu és a fõépület használatosak, a nem használtaknak 0-nak kell lennie)"	
+Castle		
+Felvonóhíd	0	
+Felvonóhíd Kötél	0	
+Várárok	0	
+Várárok	0	
+Hátsó Fal	0	
+Felsõ Torony	2	
+Felsõ Fal	2	
+Felsõ Támaszfal	0	
+Közép-felsõ Fal	2	
+Kapu	2	
+Közép-alsó Fal	2	
+Alsó Támaszfal	0	
+Alsó Fal	2	
+Alsó Torony	2	
+Vártorony	2	
+Vártorony	0	
+Alsó Torony	0	
+Felsõ Torony	0	
+	A kovácsnál lõszereskocsikat vásárolhatsz seregeid számára.	Az elégedetlenség magvai
+Rampart		
+Felvonóhíd	0	
+Felvonóhíd Kötél	0	
+Várárok	0	
+Várárok	0	
+Hátsó Fal	0	
+Felsõ Torony	2	
+Felsõ Fal	2	
+Felsõ Támfal	0	
+Közép-felsõ Fal	2	
+Kapu	2	
+Közép-alsó Fal	2	
+Alsó Támfal	0	
+Alsó Fal	2	
+Alsó Torony	2	
+Fõépület	2	
+Fõépület	0	
+Alsó Torony	0	
+Felsõ Torony	0	
+		
+Tower		
+Felvonóhíd	0	
+Felvonóhíd Kötél	0	
+Várárok	0	
+Várárok	0	
+Hátsó Fal	0	
+Felsõ Torony	2	
+Felsõ Fal	2	
+Felsõ Támfal	0	
+Közép-felsõ Fal	2	
+Kapu	2	
+Közép-alsó Fal	2	
+Alsó Támfal	0	
+Alsó Fal	2	
+Alsó Torony	2	
+Fõépület	2	
+Fõépület	0	
+Alsó Torony	0	
+Felsõ Torony	0	
+		
+Inferno		
+Felvonóhíd	0	
+Felvonóhíd Kötél	0	
+Várárok	0	
+Várárok	0	
+Hátsó Fal	0	
+Felsõ Torony	2	
+Felsõ Fal	2	
+Felsõ Támfal	0	
+Közép-felsõ Fal	2	
+Kapu	2	
+Közép-alsó Fal	2	
+Alsó Támfal	0	
+Alsó Fal	2	
+Alsó Torony	2	
+Fõépület	2	
+Fõépület	0	
+Alsó Torony	0	
+Felsõ Torony	0	
+		
+Necropolis		
+Felvonóhíd	0	
+Felvonóhíd Kötél	0	
+Várárok	0	
+Várárok	0	
+Hátsó Fal	0	
+Felsõ Torony	2	
+Felsõ Fal	2	
+Felsõ Támfal	0	
+Közép-felsõ Fal	2	
+Kapu	2	
+Közép-alsó Fal	2	
+Alsó Támfal	0	
+Alsó Fal	2	
+Alsó Torony	2	
+Fõépület	2	
+Fõépület	0	
+Alsó Torony	0	
+Felsõ Torony	0	
+		
+Dungeon		
+Felvonóhíd	0	
+Felvonóhíd Kötél	0	
+Várárok	0	
+Várárok	0	
+Hátsó Fal	0	
+Felsõ Torony	2	
+Felsõ Fal	2	
+Felsõ Támfal	0	
+Közép-felsõ Fal	2	
+Kapu	2	
+Közép-alsó Fal	2	
+Alsó Támfal	0	
+Alsó Fal	2	
+Alsó Torony	2	
+Fõépület	2	
+Fõépület	0	
+Alsó Torony	0	
+Felsõ Torony	0	
+		
+Stronghold		
+Felvonóhíd	0	
+Felvonóhíd Kötél	0	
+Várárok	0	
+Várárok	0	
+Hátsó Fal	0	
+Felsõ Torony	2	
+Felsõ Fal	2	
+Felsõ Támfal	0	
+Közép-felsõ Fal	2	
+Kapu	2	
+Közép-alsó Fal	2	
+Alsó Támfal	0	
+Alsó Fal	2	
+Alsó Torony	2	
+Fõépület	2	
+Fõépület	0	
+Alsó Torony	0	
+Felsõ Torony	0	
+		
+Fortress		
+Felvonóhíd	0	
+Felvonóhíd Kötél	0	
+Várárok	0	
+Várárok	0	
+Hátsó Fal	0	
+Felsõ Torony	2	
+Felsõ Fal	2	
+Felsõ Támfal	0	
+Közép-felsõ Fal	2	
+Kapu	2	
+Közép-alsó Fal	2	
+Alsó Támfal	0	
+Alsó Fal	2	
+Alsó Torony	2	
+Fõépület	2	
+Fõépület	0	
+Alsó Torony	0	
+Felsõ Torony	0	
+		
+Forge		
+Felvonóhíd	0	
+Felvonóhíd Kötél	0	
+Várárok	0	
+Várárok	0	
+Hátsó Fal	0	
+Felsõ Torny	2	
+Felsõ Fal 	2	
+Felsõ Támfal	0	
+Közép-felsõ Fal	2	
+Kapu	2	
+Közép-alsó Fal	2	
+Alsó Támfal	0	
+Alsó Fal	2	
+Alsó Torony	2	
+Fõépület	2	
+Fõépület	0	
+Alsó Torony	0	
+Felsõ Torony	0	

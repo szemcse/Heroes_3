@@ -1,0 +1,278 @@
+===== Térkép neve =====
+Minden kéz a fedélzeten!
+
+===== Térkép leírása =====
+Bidleynek és barátainak le kell gyõzniük az összes ellenséget, akik úgy tesznek, mintha megszerezték volna a kürtöt. Bidleynek nem szabad meghalnia. Nincs maximális hõsszint.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1-1
+Üzenet:
+Bidley és Jeremy nem tudták csillapítani bosszúszomjukat. A legyõzött Casmetra mindent eldobott, és beugrott egy portálba, amely azonnal összeomlott. A boszorkányt soha többé nem lehetett látni Regnában. Bidley elvette a kürtöt, de nem tudta kitalálni, hogy Casmetra pontosan mit akar elérni vele.		Egy hétig tartó eredménytelen Casmetra keresés után azonban felhagytak a próbálkozásokkal, mivel Bidley minden szándéka ellenére kalózkirály lett.		Regna ekkor már nem volt elismert állam, bár idõnként még mindig a „Végtelen Óceán Birodalmaként” emlegették. A helyzet az, hogy miután az öreg IX. Hareck elment, az örököse nem tudott elõrelépni. A kalózok között hatalmi harc kezdõdött. A zûrzavar idején több kapitány elég erõsnek bizonyult ahhoz, hogy megragadja a hatalmas területek uralmát, de a káosz minden alkalommal újra kiújult, amint elpusztultak vagy elveszítették az elõnyüket.		Itt és most Bidley volt a király, és ez a szó nemcsak rettegést és tiszteletet jelentett, hanem rengeteg gyûlöletet is. Egy õsi, erõteljes mûtárgy birtokában figyelmen kívül hagyhatta egykori társai, a puszta tengerészektõl való félelmet; mert az ismeretlentõl való félelem volt csak az, amit érzett.		Az egyetlen veszély a tengerekben fenyegetett.
+
+Név:
+1-2
+Üzenet:
+Tiszta nap volt, amikor Bidley és csapata a tengerparton, egy part mentén elhelyezkedõ erõdben volt. A Mélység Kürtje mindig az övén lógott a kalózkirálynak és soha nem vált meg tõle. Hirtelen az egyik matróz a király felé rohant. Félt valamitõl, és valami tekercs volt a kezében.	- Kapitányom, Kapitányom! Esküszöm az összes tengeri ördögre! Ez egy dzsinn volt! Megjelent egy dzsinn, és megkért, hogy adjam át neked!	Bidley kábultan fogta a tekercset, és kitekerte. Ez állt rajta: 		„Tisztelettel köszöntelek, Bidley Roberts, mint újdonsült kalózkirályt!		Solmyr vagyok, Gavin Magnus, Bracada halhatatlan királyának szerény szolgája. Uramat nyugtalanítja a hír, hogy az Ön birtokában van a legendás kürt - a Mélység Kürtje. Úgy gondoljuk, hogy ezt a tárgyat itt, Bracadában kell õrizni, a leghatalmasabb fõmágusok szoros felügyelete alatt. Ön nem ismeri a tudományokat; inkább rabló és tolvaj. Kétségtelen, hogy a mûtárgyat a gonosz nevében fogja használni: hatalom és személyes gazdagodás elérése érdekében. Mi, Bracada mágusai nem maradhatunk szó nélkül abban az esetben, amikor a Mélység Kürtje egy kapzsi ember kezébe kerül.		Ezért tájékoztatom, hogy hamarosan fegyveres expedíciót küldünk, és Én vezetem azt majd. Nem fogom kérni, hogy önként adja át nekünk a kürtöt, mivel minden esetben visszautasítja azt úgyis. Továbbá felhívom figyelmét, hogy az Elemental Lordok készek támogatni uramat. A föld hazugsága felriasztja õket, és a Víz Urát is feldühíti a Coralgate erõd megbocsáthatatlan elpusztítása miatt.		A kalózkirálynak Solmyrtól a dzsintõl, Bracadából.”		– Okos dzsinn – bólintott Bidley –, nem adom oda önként a Kürtöt, sõt. Gyere és vedd el, ha tudod.
+
+Név:
+1-3
+Üzenet:
+Néhány nap múlva Bidley összegyûjtötte népét Jeremyvel és Tarkkal, amikor világossá vált, hogy a mágusok csapásra készülnek.	- Átkozott Xanthor! – kiáltott a kalózkirály, és egy távcsövön keresztül a horizontot nézte.	- Xanthor? - kérdezte Tark meglepetten.	– A varázsló, akit kimentettem a barbár börtönbõl. Õ volt az, aki a megmentéséért hálásan mesélt nekem a Mélység Kürtjérõl.	– És most ugyanazok a varázslók akarnak megölni minket a Kürtért – vigyorgott Jeremy –, igen, a sors néha olyan jó tréfára képes, mint Én.		– És ezek az Elemental Lordok állandóan akadályoznak a terveimben – tette hozzá Bidley, és elvette a távcsövet a szeme elõl.	– Legalább az erathiaiak el vannak foglalva Kreeganékkal, és nem zavarnak minket – jelentette ke Jeremy.		- Rendben, fiúk - fordult a kalózkirály a barátaihoz -, fel kell készülnünk egy kemény háborúra. Úgy tûnik, Bracada úgy döntött, hogy minden hatalmát felhasználja ellenünk. Még nem volt ilyen erõs ellenségünk, de hamarosan megérkezik az erõsítés Regnából.
+
+Név:
+Kik vezetik a cserevárost
+Üzenet:
+Kik vezetik a cserevárost
+
+Név:
+2. nap
+Üzenet:
+Nyomasztó hír érkezett.	– Drága öcsém, emlékszel Dargemre? – kérdi Jeremy a testvérét.	– Az a szerencsétlen fickó, aki foglyul ejtett? Él még?"	– Igen, Õ az. Tehát a hír az, hogy: Összegyûjtött néhány nevetséges zsoldost és kapitányt, akik nem kedvelnek téged. Nos, röviden, az derült ki, hogy a várt erõsítésünk Regnától átállt hozzá.”	– Micsoda hirtelen fordulat – mondta hidegvérrel Bidley –, de ez nem az összes rossz hír, igaz?	– Nem – rázta meg a fejét Jeremy –, Dagrem magával rántotta a ritka mûtárgyak szerelmeseit – Nighon varázslóit. Úgy tûnik, megígérte nekik, hogy átadja nekik a kürtöt, de csak bosszút akar állni. Bár senki sem tudja, mi a fenét akar valójában.	- Olyan sokan aggódnak azon, hogy megszerezzenek egy kürtöt! – nevetett a kalózkirály – és hogyan osztják majd el közöttük, még ha meg is ölnek?	– Fogadok, hogy elkezdik ölni egymást – emelte fel a kezét ijedten az öccs.	– Remélem, hamarabb kezdik el gyilkolni egymást, hogy besurranjunk, és elvághassuk a torkukat – mondta komoran Bidley, és kivillantotta hüvelyébõl a szablyája pengéjét.
+
+Név:
+5. nap
+Üzenet:
+Minden jel szerint az Elemental Lordok valahol északon materializálták erõdítményeiket. A Föld Urának azonban voltak nehézségei. A seregének meg kellett volna jelennie a föld alatt, de a nighoni warlockok karmaiban találta magát, akik erre egyáltalán nem számítottak.
+
+Név:
+8. nap
+Üzenet:
+Az ellenség serege napról napra erõsödik. Tark szerint jó taktikai döntés lenne, ha szembe tudnánk szállni az ellenségekkel és kihasználnánk a gyengülésüket. Jeremy úgy gondolja, hogy jobb megoldás lenne, ha hirtelen csapást mérne a renegátok és zsoldosok lakhelyeire, hogy megszerezze fegyvereiket és erõforrásaikat.
+
+Név:
+14. nap
+Üzenet:
+Mégis maradtak olyanok, akik nem adták el magukat a Dargemnek. A hûséges kapitányok megígérik, hogy küldenek neked egy hajót felszerelésekkel együtt.
+
+Név:
+Felszerelések
+Üzenet:
+Megérkezett az ígért hajó. A következõ hajó egy hónap múlva várható.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(56, 121, 0) ***Tower***
+
+Idõzített események:
+
+Név:
++hó\arany
+Üzenet:
+
+
+(139, 118, 0) ***Tower***
+
+Idõzített események:
+
+Név:
++hó\arany
+Üzenet:
+
+
+(130, 137, 0) ***Jel***
+Üzenet:
+Varázsló kolónia
+
+(132, 125, 0) ***Jel***
+Üzenet:
+Bracudin bányák
+
+(77, 139, 0) ***Jel***
+Üzenet:
+Az elkárhozottak völgye
+
+(87, 106, 0) ***Jel***
+Üzenet:
+A titánok kamrái és az Ég urai
+
+(15, 137, 0) ***Tower***
+
+Idõzített események:
+
+Név:
++hó\arany
+Üzenet:
+
+
+(84, 16, 0) ***Palack-posta***
+Üzenet:
+
+
+(127, 25, 0) ***Esemény***
+Üzenet:
+“Nincs átjárás”
+
+(125, 38, 0) ***Jel***
+Üzenet:
+Dargem katonai tábora
+
+(135, 64, 0) ***Cove***
+
+Idõzített események:
+
+Név:
++ hó\arany
+Üzenet:
+
+
+(114, 56, 0) ***Cove***
+
+Idõzített események:
+
+Név:
++ hó\arany
+Üzenet:
+
+
+(40, 9, 0) ***Jel***
+Üzenet:
+Üdv a kalóz testvériségnek!
+
+(40, 142, 0) ***Jel***
+Üzenet:
+Bracadába vezetõ út
+
+(91, 113, 0) ***Tower***
+
+Idõzített események:
+
+Név:
++ hó\arany
+Üzenet:
+
+
+(129, 28, 0) ***Jel***
+Üzenet:
+Bahenék farmja
+
+(6, 74, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(3, 91, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(2, 91, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(119, 30, 0) ***Cove***
+
+Idõzített események:
+
+Név:
++ hó\arany
+Üzenet:
+
+
+(76, 49, 0) ***Esemény***
+Üzenet:
+Bidley ismét megdörzsölte a kürtöt egy darab zergebõrrel, bár a mûtárgy makulátlan volt. 	- Szóval ez az, amire az emberek annyira vágytak.	Mióta megtudta, mire képes a kürt, az egekbe szállt az önbizalma. Ennek ellenére a gondolattól, hogy félelmetes tengeri szellemek engedelmeskednek a parancsainak, idõnként megborzong.
+
+(138, 5, 0) ***Conflux***
+
+Idõzített események:
+
+Név:
+Népességrobbanás
+Üzenet:
+
+
+(126, 14, 0) ***Jel***
+Üzenet:
+Belépni tilos! Sziklaomlás!
+
+(57, 6, 0) ***Conflux***
+
+Idõzített események:
+
+Név:
+Népességrobbanás
+Üzenet:
+
+
+(90, 5, 0) ***Conflux***
+
+Idõzített események:
+
+Név:
+Népességrobbanás
+Üzenet:
+
+
+(45, 75, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
++ hó\arany
+Üzenet:
+
+
+(92, 74, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
++mon\gold
+Üzenet:
+
+
+(126, 55, 1) ***Jel***
+Üzenet:
+Börtönnegyed
+
+(129, 54, 1) ***Nagyúr***
+Név:
+Warden
+
+(128, 54, 1) ***Esemény***
+Üzenet:
+Úgy tûnik, a nighoniak szerencsétlen ellenséges tábornokokat tartanak itt.
+
+(130, 53, 1) ***Esemény***
+Üzenet:
+– Menj innen, hacsak nem akarsz csatlakozni a ketreceimben lévõkhöz!
+
+(111, 42, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
++ hó\arany
+Üzenet:
+
+
+(61, 49, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
++ hó\arany
+Üzenet:
+
+
+(56, 26, 1) ***Jel***
+Üzenet:
+Észak-Nighon alagútja	Hossza: 5 mérföld
+
+(73, 58, 1) ***Jel***
+Üzenet:
+Titkos rejtek
+
+(86, 72, 1) ***Jel***
+Üzenet:
+“Levágott bárány” kocsma
+
+(16, 125, 1) ***Pandora Szelencéje***
+Üzenet:
+
+
+===== Fájl vége =====

@@ -1,0 +1,100 @@
+===== Térkép neve =====
+A végzet foglya
+
+===== Térkép leírása =====
+Bidleynek el kell foglalnia Zargand városát, hogy megmentse a barbárok foglyát. A maximális hõsszint 12. A gyõzelem után Bidley folytatja a kampány következõ forgatókönyvét.
+
+===== Események =====
+
+Név:
+Sör
+Szöveg:
+Azt mondják, hogy az erathusi kocsmák vizezik a sört.
+
+Név:
+Kilgor
+Szöveg:
+Kilgornak hiányzik az egyik szeme, mert kitépte egy behemót.
+
+Név:
+Démonok
+Szöveg:
+Eeofol serege Erathia megtámadására készül!
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Bidley nem szerette Krewlod partjait – a koszos Ork és Goblin testek bûzét, a tréfás nyelvüket, a kultúrától való teljes hiányukat, azt, hogy a nyers erõt részesítették elõnyben minden probléma megoldásaként. Elõnyben részesítette viszont az erathai bárdok dalait, az elf kézmûvesek alkotásait és Jadame borait. Mindez megvolt otthon Regnában – ellentétben azzal az általános elõítélettel, amely szerint a kalózok szinte barbárok. Az igaz, hogy a fiatalok és a bolondok között rengeteg alacsony szemöldökû típus van, és rengeteg embere, akit könnyen elfogadnának a Krewlod-féle csapnivalók társaságában. De a kapitányok és admirálisok között is akad bõven intelligens és civilizált ember.	 	Bidley tûnõdve hagyta el a Shark Chowder fogadót. Ha ennek a részegnek igaza volt, és a barbárok valóban elfogtak volna egy ilyen erõs varázslót, akkor a bracadai varázslók nagyon örülnének, ha megmentenénk. Ez pedig azt jelentené, hogy a kalózok nem csak bõkezû jutalomra számíthatnak, hanem jogot is nyerhetnek a hajók kifosztására Bracada partjainál – persze mindaddig, amíg nem bántják a varázslókat. Egy próbát megér.	 A barbárok éppen az Életfesztivált tartották. Regna szülötteként Bidley soha nem értette meg igazán az ünneplést. Boragus herceg meghalt, és a még kegyetlenebb és ravaszabb fiatal barbár, Kilgor úr vette át a helyét. Krewlod mindig az anarchia határán volt, de most közelebb volt ehhez a szokásosnál. Bidley flottája messze volt, de nem volt rá nagy szüksége. Ehelyett összegyûjt néhány merész helyi embert, elfoglalja az egyik legközelebbi Krewlod erõdöt, és onnan megtámadja Zargandot. A tarka-barka törzsek minden ok nélkül el voltak foglalva egymás levágásával; néhány érméért szívesen megtámadnák azt, akit mondanak nekik.	 Bidley megállított egy járókelõt, nyilvánvalóan nem helyi.		– Hé, haver, hol van a legközelebbi Krewlod katonai erõd?		– Egyenesen északra, az út mellett – válaszolta lakonikusan az idegen, miközben folytatta útját.
+
+Név:
+4. nap
+Üzenet:
+Mindent összevetve, Bidleyazt gondolta, hogy sietnie kell. Elõbb-utóbb tetteik híre eljutott a helyi urak fülzsírtól eltömõdött fejéhez, és megpróbálják kiûzni a környékrõl nem szívesen látott vendégeiket. De a gyors és határozott cselekedetek arra kényszerítenék ezeket az urakat, hogy megadják magukat, és segítsenek neki Zargand ostromában. Természetesen, ha Kilgor csatlósai megérkeznek, mindenkit kivégeznek, aki segített neki – de ezek a barbárok annyira elvtelenek, hogy elõbb-utóbb úgyis fizetniük kell érte.
+
+Név:
+8. nap
+Üzenet:
+A felderítõk jelentése szerint Krewlod serege több erõddel is rendelkezik. Az egyik délnyugaton, a másik északkeleten található. A varázslatos börtön északnyugaton van, de ostobaság lenne erõs hadsereg nélkül megközelíteni. Emlékeznünk kell arra is, hogy ez a börtön minden varázslatot megtagad.
+
+Név:
+11. nap
+Üzenet:
+Bidley furcsa álmot látott tegnap éjjel. Azt álmodta, hogy áthajózik a tengeren, és olyan világosaan és tisztán lát át a vízen, mintha a látóhatáron át nézne. A víz alatt is tudott lélegezni. Mit jelenthet ez? Ezek voltak az õ nosztalgikus emlékei a tengerekrõl? Vagy csak álom volt?
+
+Név:
+18. nap
+Üzenet:
+Reggel egy Matróz rohant megkeresni Bidleyt, aki átadott neki egy levelet, amely tegnap késõ este érkezett. 	A kalóz egészen meglepõdött – ki küldene neki levelet? 	De miután kibontotta a pergament, felismerte az ismerõs kézírást. 	Csak a következõ üzenetet tartalmazza:	 	 „Van néhány problémám. Kedves testvéred, J.	
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(3, 5, 0) ***Stronghold***
+Név:
+Zargand
+
+(42, 28, 0) ***Stronghold***
+
+Idõzített események:
+
+Név:
+2
+Üzenet:
+
+
+Név:
+3
+Üzenet:
+
+
+Név:
+13
+Üzenet:
+
+
+(67, 37, 0) ***Titok Kunyhó***
+Üzenet:
+Itt lakik egy Pap. Mesél egy faalkányi problémás Múmiáról. Nincs ereje kiûzni õket, ezért arra kér, hogy pusztítsd el a gonosz lényeket.
+A Múmiák a pap házától keletre találhatók. Öld meg õket és térj vissza.
+A pap hálás, hogy megszabadult az élõhalottaktól. Megígéri, hogy megosztja veled tudását.
+
+(45, 36, 0) ***Esemény***
+Üzenet:
+Bidley számos szekér nyomát veszi észre a földön: az erõdnek közel kell lennie. Már csak annyi marad hátra, hogy meglepje az õröket.
+
+(54, 14, 0) ***Titok Kunyhó***
+Üzenet:
+Egy bandányi kalóz rejtõzik itt. Vezetõjük Jabarkas, a néhai Boragus herceg fia. Jelenleg Jabarkas folyamatosan vad dühöngésben van apja halála miatt. A kalózok szeretnének új vezért találni, de csak akkor, ha a régi vezérüket legyõzik.
+Jabarkas még él és kóborol valahol.
+Jabarkas serege vereséget szenvedett, és szégyenbe került; egy ideig nem fogmutatkozni sehol sem. Készen állsz arra, hogy befogadd a kalózokat a hadseregedbe?
+
+(40, 38, 0) ***Titok Kunyhó***
+Üzenet:
+Két varázslónõ él itt. Megállapodtok, hogy csatlakoznak a hadsereghez, és varázslatokkal támogatnak – természetesen egy kisebb díj ellenében.
+5 drágakõre és 2000 aranyra van szükség, nem kevesebbre.
+Kiváló! A varázslók készek egyesíteni erõiteket.
+
+===== Fájl vége =====
