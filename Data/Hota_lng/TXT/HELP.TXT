@@ -80,8 +80,8 @@ CHAT_DESC 	Váltás a leírás és a chat-ablak között
 MAP_DIFFICULTY 	Ezzel változtathatod meg a játékos nehézséget																																																																						
 RATING 	A pálya általános nehézsége (a pálya és a játékos nehézség alapján)																																																																						
 MAP_SIZE 	"A pálya nehézsége Könnyû, Normál, Nehéz, "Tapasztalt" és Lehetetlen lehet."																																																																						
-VICTORY_CONDITION 	Az aktuális pálya nyerési feltétele																																																																						
-LOSS_CONDITION 	Az aktuális pálya vesztési feltétele																																																																						
+VICTORY_CONDITION 	Az aktuális pálya gyõzelmi feltétele																																																																						
+LOSS_CONDITION 	Az aktuális pálya vereségi feltétele																																																																						
 SMALL_FILTER 	Minden kis pálya megmutatása																																																																						
 MEDIUM_FILTER 	Minden közepes pálya megmutatása																																																																						
 LARGE_FILTER 	Minden nagy pálya megmutatása																																																																						

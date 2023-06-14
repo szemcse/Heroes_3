@@ -93,10 +93,10 @@ Ezt a szöveget már nem használják. Ha látod, ez egy hiba."
 
 A Sárkány Utópia elõtt állsz, ahova ember nem teheti be a lábát.  Megszeged ezt a szabályt és harcolsz a Sárkányokkal?"
 "Ez a különös szem tanulmányoz téged, ahogy közeledsz. Néhány pillanat múlva visszaáll lassú, fürkészõ mozgásához.  Nem tudod, mi lehetett ez, de úgy érzed valaki vagy valami arra használja ezt a szemet, hogy más területeket feltérképezzen."
-"{Tündér Gyûrû}
+"{Tündérgyûrû}
 
-A Tündér Gyûrûnek köszönhetõen harcosaid a következõ csatában Szerencsések lesznek."
-"{Tündér Gyûrû}
+A Tündérgyûrûnek köszönhetõen harcosaid a következõ csatában Szerencsések lesznek."
+"{Tündérgyûrû}
 
 A várttal ellentétben nem történt semmi."
 "{Tengeri uszadékfa}

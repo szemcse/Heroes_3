@@ -140,75 +140,75 @@ Ahhoz, hogy a játékos teljesítsen egy  Látnokkunyhó küldetést,
 a küldetés tárgyának (a kapcsolódó mûtárgynak) léteznie kell a térképen, egy hõssel, egy vándorló szörnyeteggel, egy eseményen, egy Pandora szelencében vagy jutalomként egy másik Látnok kunyhójánál.
 
 "	
-"""Jelenleg egy játékos van csak a pályán, ezért nem állíthatsz be speciális nyerési feltételeket.""
+"""Jelenleg egy játékos van csak a pályán, ezért nem állíthatsz be speciális gyõzelmi feltételeket.""
 Ha csak egy játékos van a pályán, akkor a játék indítását követõen egybõl nyertél, tehát a játéknak így értelmét veszti.
 "	
-"""Jelenleg egy játékos van csak a pályán beállítva, viszont a normál nyerési feltételek nincsenek kikapcsolva.""
-Ha egy játékos van csak a pályán és a normál nyerési feltételek vannak beállítva a játék indításakor egybõl nyertél, tehát így a játék értelmét veszti.
+"""Jelenleg egy játékos van csak a pályán beállítva, viszont a normál gyõzelmi feltételek nincsenek kikapcsolva.""
+Ha egy játékos van csak a pályán és a normál gyõzelmi feltételek vannak beállítva a játék indításakor egybõl nyertél, tehát így a játék értelmét veszti.
 "	
 """Nincs hiba a térképen."""	
-"""A speciális nyerési feltételeknél a(z) %s megszerzése van beállítva, de ezt a varázstárgyat még nem helyezted el a térképen.""
-Hogy teljesíteni lehessen ezt a nyerési feltételt, helyezd el a szükséges varázstárgyat a pályán.
+"""A speciális gyõzelmi feltételeknél a(z) %s megszerzése van beállítva, de ezt a varázstárgyat még nem helyezted el a térképen.""
+Hogy teljesíteni lehessen ezt a gyõzelmi feltételt, helyezd el a szükséges varázstárgyat a pályán.
 "	
-"""A speciális nyerési feltételeknél a(z) %s, megszerzése van beállítva, de ezt a varázstárgyat már %s birtokolja.""
+"""A speciális gyõzelmi feltételeknél a(z) %s, megszerzése van beállítva, de ezt a varázstárgyat már %s birtokolja.""
 Ha egy hõs már a megszerzendõ varázstárggyal kezdi a pályát, akkor a játék értelmét veszti, mivel egybõl nyer a varázstárgyat birtokló játékos.
 "	
-"""A speciális nyerési feltételeknél beállított %d %s már rendelkezésre áll.""
-Ha egy játékos már rendelkezik a speciális nyerési feltételeknél beállított %d %s lénnyel, akkor a játék értelmét veszti, mivel egybõl nyer az ezt birtokló játékos.
+"""A speciális gyõzelmi feltételeknél beállított %d %s már rendelkezésre áll.""
+Ha egy játékos már rendelkezik a speciális gyõzelmi feltételeknél beállított %d %s lénnyel, akkor a játék értelmét veszti, mivel egybõl nyer az ezt birtokló játékos.
 "	
-"""A speciális nyerési feltételek értelmében a pályán fel kell építeni a(z) %s és a(z) %s épületeket, a %s várban, de mindegyik épület már megépült.""
+"""A speciális gyõzelmi feltételek értelmében a pályán fel kell építeni a(z) %s és a(z) %s épületeket, a %s várban, de mindegyik épület már megépült.""
 Ezzel a beállítással azonnali nyerést eredményez a játék.
 "	
-"""A speciális nyerési feltételek értelmében a pályán fel kell építeni a(z) %s és a(z) %s épületeket, de vagy az egyik vagy mindkettõ építése nem lehetséges.""
+"""A speciális gyõzelmi feltételek értelmében a pályán fel kell építeni a(z) %s és a(z) %s épületeket, de vagy az egyik vagy mindkettõ építése nem lehetséges.""
 A játékos nem nyerheti meg a játékot, ha nem tudja felépíteni a szükséges épületeket.
 "	
-"""A speciális nyerési feltételek értelmében meg kellene szerezni a grált és felépíteni a %s városban, de az már fel van építve.""
+"""A speciális gyõzelmi feltételek értelmében meg kellene szerezni a grált és felépíteni a %s városban, de az már fel van építve.""
 Ezzel a beállítással azonnali nyerést eredményez a játék.
 "	
-"""A speciális nyerési feltételek értelmében fel kell építeni a grált a %s városban, de ez ott nem lehetséges.""
+"""A speciális gyõzelmi feltételek értelmében fel kell építeni a grált a %s városban, de ez ott nem lehetséges.""
 Ha a grál felépítése nem engedélyezett az adott városban, akkor a grált azon a helyen nem lehet felépíteni és így nem lehet befejezni a játékot.
 "	
-"""A speciális nyerési feltételek értelmében fel kell építeni a grált, de nincsenek városok a térképen ahol ezt meg lehetne csinálni.""
+"""A speciális gyõzelmi feltételek értelmében fel kell építeni a grált, de nincsenek városok a térképen ahol ezt meg lehetne csinálni.""
 Minimum egy várost el kell helyezned a térképen, hogy a grált fel lehessen építeni (és ebben engedélyezni kell ennek felépítését...).
 "	
-"""A speciális nyerési feltételek értelmében le kell gyõzni %s seregét, de az a te csapatod embere.""
+"""A speciális gyõzelmi feltételek értelmében le kell gyõzni %s seregét, de az a te csapatod embere.""
 Ha a legyõzendõ ellenfél a saját seregünk kötelékében van, akkor nem tudjuk legyõzni, ezáltal a játéknak nem lesz vége.
 "	
-"""A speciális nyerési feltételek értelmében el kell foglalnunk a %s várat, de ezt már az egyik játékos birtokolja.""
+"""A speciális gyõzelmi feltételek értelmében el kell foglalnunk a %s várat, de ezt már az egyik játékos birtokolja.""
 Ha egy játékos vagy csapat már rendelkezik az elfoglalandó várral, akkor a játékot nem lehet befejezni.
 "	
-"""A speciális nyerési feltételek értelmében el kell foglalni a(z) %s várost, de azt már az egyik emberi játékos birtokolja.""
+"""A speciális gyõzelmi feltételek értelmében el kell foglalni a(z) %s várost, de azt már az egyik emberi játékos birtokolja.""
 Ha egy játékos vagy csapat már rendelkezik az elfoglalandó várral, akkor a játékot nem lehet befejezni.
 "	
-"""A speciális nyerési feltételek értelmében el kell foglalni az összes lény lakóhelyét, de a térképen nincsenek ilyenek.""
+"""A speciális gyõzelmi feltételek értelmében el kell foglalni az összes lény lakóhelyét, de a térképen nincsenek ilyenek.""
 "	
-"""A speciális nyerési feltételek értelmében el kell foglalni az összes lény lakóhelyét, de a térképen az egyik játékos már birtokolja az összes ilyet.""
+"""A speciális gyõzelmi feltételek értelmében el kell foglalni az összes lény lakóhelyét, de a térképen az egyik játékos már birtokolja az összes ilyet.""
 "	
-"""A speciális nyerési feltételek értelmében el kell foglalni az összes bányát, de a térképen nincsenek bányák.""
+"""A speciális gyõzelmi feltételek értelmében el kell foglalni az összes bányát, de a térképen nincsenek bányák.""
 "	
-"""A speciális nyerési feltételek értelmében el kell foglalni az összes bányát, de a térképen az egyik játékos már birtokolja az összes ilyet.""
+"""A speciális gyõzelmi feltételek értelmében el kell foglalni az összes bányát, de a térképen az egyik játékos már birtokolja az összes ilyet.""
 "	
-"""A speciális nyerési feltételek értelmében meg kell találni a(z) %s varázstárgyat, de az nem található a térképen.""
+"""A speciális gyõzelmi feltételek értelmében meg kell találni a(z) %s varázstárgyat, de az nem található a térképen.""
 "	
-"""A speciális vesztési feltételek értelmében el kell veszteni a(z) %s várost, de ezt a várat egyik játékos sem birtokolja.""
+"""A speciális vereségi feltételek értelmében el kell veszteni a(z) %s várost, de ezt a várat egyik játékos sem birtokolja.""
 "	
-"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s , azonban az azt birtokló csapat nem rendelkezik emberi csapatokkal.""
+"""A speciális vereségi feltételek értelmében el kell veszteni a következõt: %s , azonban az azt birtokló csapat nem rendelkezik emberi csapatokkal.""
 "	
-"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, de több olyan csapat is van, amely emberi játékos is lehet.""
+"""A speciális vereségi feltételek értelmében el kell veszteni a következõt: %s, de több olyan csapat is van, amely emberi játékos is lehet.""
 "	
-"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, ami a %s játékoshoz tartozik, de ez a játékos csak számítógép által irányított lehet.""
+"""A speciális vereségi feltételek értelmében el kell veszteni a következõt: %s, ami a %s játékoshoz tartozik, de ez a játékos csak számítógép által irányított lehet.""
 "	
-"A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, de ott több emberi játékos is lehet.""
+"A speciális vereségi feltételek értelmében el kell veszteni a következõt: %s, de ott több emberi játékos is lehet.""
 "	
-"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, de ez a hõs nem tartozik egyik játékoshoz sem.""
+"""A speciális vereségi feltételek értelmében el kell veszteni a következõt: %s, de ez a hõs nem tartozik egyik játékoshoz sem.""
 "	
-"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s ami a(z) %s játékos tulajdona, de ennek a csapat csak számítógép által irányított játékosokból áll.""
+"""A speciális vereségi feltételek értelmében el kell veszteni a következõt: %s ami a(z) %s játékos tulajdona, de ennek a csapat csak számítógép által irányított játékosokból áll.""
 "	
-"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, de több mint egy olyan csapat van, ami lehet emberi irányítású is.""
+"""A speciális vereségi feltételek értelmében el kell veszteni a következõt: %s, de több mint egy olyan csapat van, ami lehet emberi irányítású is.""
 "	
-"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s amit a(z) %s játékos birtokol, de ez a játékos csak számítógép által irányított lehet.""
+"""A speciális vereségi feltételek értelmében el kell veszteni a következõt: %s amit a(z) %s játékos birtokol, de ez a játékos csak számítógép által irányított lehet.""
 "	
-"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, de ott több, mint egy játékos is lehet emberi.""
+"""A speciális vereségi feltételek értelmében el kell veszteni a következõt: %s, de ott több, mint egy játékos is lehet emberi.""
 "	
 Visszaállítod az automatikusan mentett térképet?	
 "Szöveges fájlok (*.txt)
@@ -244,12 +244,12 @@ Nyersanyagok
 Épületek	
 Lények	
 Másodlagos képzettségek	
-Speciális vesztési feltételek	
+Speciális vereségi feltételek	
 Játékosok leírása	
 Események	
 Csapatok	
 Idõzített események	
-Speciális nyerési feltételek	
+Speciális gyõzelmi feltételek	
 Kincs	
 Helyõrség	
 Varázslatok	
@@ -340,7 +340,7 @@ The Eye of the Magi is intended to be used in conjunction with the Hut of the Ma
 Minimum 10 elérhetõ játékosnak kell lennie hõsönként a térképen +1 minden város részére. Ezt a Hõsök fülön állíthatod be az Eszközök menü, Térkép leírása résznél.
 "	
 """All of the artifacts on this map are either disabled or reserved.""
-A varázstárgyak lefoglaltak, ha azok a speciális nyerési feltételek részét képezik egy küldetés feladataként. A varázstárgyaknak vagy letiltottnak vagy lefoglaltnak kell lennie. Ezt a varázstárgyak fülnél találod a térkép leírása menüpontban (Eszközök menü).
+A varázstárgyak lefoglaltak, ha azok a speciális gyõzelmi feltételek részét képezik egy küldetés feladataként. A varázstárgyaknak vagy letiltottnak vagy lefoglaltnak kell lennie. Ezt a varázstárgyak fülnél találod a térkép leírása menüpontban (Eszközök menü).
 "	
 "Ez az objektum csak ""The Shadow of Death"" típusú térképen helyezhetõ el."	
 "Ez az objektum csak akkor helyezhetõ el, ha telepítve van az ""Armageddon's Blade""!"	
@@ -542,9 +542,9 @@ E&semények:
 Ös&szes törlése	
 Felfelé &mozgat	
 Lefelé &mozgat	
-Térkép specifikációk spec. nyerési feltételek oldal	
-Nyerési feltétel kiválasztása:	
-&Nincs speciális nyerési feltétel	
+Térkép specifikációk spec. gyõzelmi feltételek oldal	
+gyõzelmi feltétel kiválasztása:	
+&Nincs speciális gyõzelmi feltétel	
 Egy varázstárgy &megszerzése	
 Lények &felhalmozása	
 Nyersanyagok felhalmozása	
@@ -556,8 +556,8 @@ Egy kijelölt lény &legyõzése
 &Az összes lény lakás elfoglalása	
 A&z összes bánya elfoglalása	
 Egy ki&jelölt varázstárgy szállítása	
-Normál nyerési feltételekkel is lehet &gyõzni	
-A speciális nyerési feltételek legyenek érvényesek a számítógép játékosaira &is	
+Normál gyõzelmi feltételekkel is lehet &gyõzni	
+A speciális gyõzelmi feltételek legyenek érvényesek a számítógép játékosaira &is	
 Var&ázstárgy:	
 Lé&ny típusa:	
 &Mennyiség:	
@@ -575,8 +575,8 @@ H&õs:
 Lé&ny:	
 &Célállomás:	
 Map Specs Special Loss Condition Page	
-Vesztési feltétel kiválasztása:	
-&Nincs speciális vesztési feltétel	
+vereségi feltétel kiválasztása:	
+&Nincs speciális vereségi feltétel	
 Egy kijelölt város &elvesztése	
 Egy kijelölt hõs &elvesztése	
 Idõ &lejár	
