@@ -26,7 +26,7 @@ térképek
 3D modellezõ, mûvész,
 bejelentkezõ felület moderálás
 {Fatalist}
-térképek, kampánytérképek,
+térképek, hadjárat térképei,
 fordítások, szerkesztés
 {fiorin}
 3D modellezõ
@@ -193,7 +193,7 @@ mûvész
 {Darkmoon}
 fordítások
 {Kastore}
-PR, kampány
+PR, hadjárat
 {Maestro}
 videók
 {major}

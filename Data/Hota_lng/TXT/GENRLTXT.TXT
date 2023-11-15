@@ -42,7 +42,7 @@ A rossz Hangulat miatt a %s képtelenek mozdulni a pániktól.
 Szabadíts fel helyet csapatodban a  %s számára		
 %s megtámadása (%s sebzés)		
 "%s meglövése (1 lövés van hátra, %s sebzés)"		
-Kampány leírása:		
+Hadjárat leírása:		
 %s aktív.		
 Session neve		
 Felhasználónév		
@@ -769,7 +769,7 @@ Gyõzd le a %s-t az alvilág %s területein.
 %s képtelen volt idõben teljesíteni küldetését, így vesztettek!		
 %s elvesztette %s nevû hõsét.  Vesztettetek.		
 Akarsz egy mentett játékkal játszani?		
-Kampány		
+Hadjárat		
 "Elmesélted a Grál legendáját a város lakóinak, de szavaidnak szinte senki sem hitt. Mivel a városnak nincs elegendõ hite, itt nem lehet állandó otthona a Grálnak.  Keresned kell egy érdemesebb várost."		
 Nincs aktív varázslat		
 %s megidéz %d %s-t		
@@ -834,9 +834,9 @@ Kezdés véletlenszerû hõssel
 Fa és Érc		
 "Ásványok"		
 %s hibás formátumú		
-Játék az Armageddon's Blade kampányával		
-Játék a Restoration of Erathia kampányával		
-Saját kampány játszása		
+Játék az Armageddon's Blade hadjáratával		
+Játék a Restoration of Erathia hadjáratával		
+Saját hadjárat indítása		
 Visszatérés a  fõmenübe		
 A(z) %s-tól való félelmében a(z) %s megmerevedik.		
 "A meghajtódban a Heroes III: %s CD-ROM van.
@@ -845,12 +845,12 @@ A Heroes III: %s játszásához a %s CD-re van szükség.
 
 Ha egy másik játékos által létrehozott játékhoz akarsz csatlakozni, a CD-re nincs szükség.
 
-Kampány vagy Pálya játszásához helyezd a meghajtódba a %s CD-t, mielõtt újra futtatod azt."		
+Hadjárat vagy Pálya indításához helyezd a meghajtódba a %s CD-t, mielõtt újra futtatod azt."		
 A host véletlenszerû pályát hoz létre…		
 Varázslat megszakítva		
 Minden varázstárgy a birtokodban van, hogy megalkosd a(z) %s-t.  Megalkotod ezt a hatalmas varázstárgyat?		
 Szétszeded ezt a nagy erejû varázstárgyat?		
-Játék a Shadow of Death kampányával		
+Játék A Mélység Kürtje hadjárattal		
 Varázslónõ		
 Yog szakított a mágia minden formájával.  További életének nyugalmát harci tudására hagyatkozva kell megszerznie.		
 "Megszerezted barbár testvéreidtõl mind a három alkatrészt."		
