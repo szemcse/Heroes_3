@@ -26,7 +26,7 @@ Az Erathi-erõd indákkal benõtt falain álltam, távcsövemmel figyeltem a környezet
 Név:
 10. nap
 Üzenet:
-A félelmeink jogosak voltak. Tegnap késõ este kardokkal és fúvócsövekkel felfegyverzett Gnollok és Goblinok tömege közeledett Utópiához. Valaki a csoportunkból muskétalövést adott le, és a rémült tömeg szétszóródott az erdõben. A helyiek tegnap este nem voltak megfelelõen megszervezve a támadásra, de elõbb-utóbb összeszedik a bátorságukat. Minél elõbb emeljük meg a védelmünket, annál jobb.
+A félelmeink jogosak voltak. Tegnap késõ este kardokkal és fúvócsövekkel felfegyverzett Gnollok és Goblinok tömege közeledett Utópiához. Valaki a csoportunkból muskétalövést adott le, és a rémült tömeg szétszóródott az erdõben. A helyiek tegnap este nem voltak megfelelõen megszervezve a támadásra, de elõbb-utóbb összeszedik a bátorságukat. Minél elõbb felfejlesztjük a védelmünket, annál jobb.
 
 Név:
 14. nap
@@ -52,7 +52,7 @@ A zsoldos kapitány elõrelépett:		- Mi a fene! Ez a Mi titkos táborunk. Senki sem
 
 (32, 5, 0) ***Ogre Mágus***
 Üzenet:
-Egy nagy ogre fejszével jött ki felénk. Láncpántot és fekete szemfedõt viselt.		– A barátaidért jöttél? – morogta.	– Milyen barátok? – válaszoltam meglepetten.	- Collar bandája. Elfoglaltuk búvóhelyüket és annak minden kincsét. És mindjárt megtöltjük az áruddal még egy kicsit  – vigyorgott az ogre fenyegetõen.	– Drága barátom, fogalmam sincs, melyik zenekarról beszélsz, de ha el akarod venni az áruinkat, akkor csak a holttestemen keresztül.
+Egy nagy ogre fejszével jött ki felénk. Láncpántot és fekete szemfedõt viselt.		– A barátaidért jöttél? – morogta.	– Milyen barátok? – válaszoltam meglepetten.	- Collar bandája. Elfoglaltuk búvóhelyüket és annak minden kincsét megszereztük. És mindjárt megtöltjük azt az áruddal még egy kicsit  – vigyorgott az ogre fenyegetõen.	– Drága barátom, fogalmam sincs, melyik zenekarról beszélsz, de ha el akarod venni az áruinkat, akkor csak a holttestemen keresztül.
 
 (11, 6, 0) ***Esemény***
 Üzenet:
@@ -64,7 +64,7 @@ Szúrós visítás hallatszott felettünk. Felnézve hatalmas ragadozó madarakat vette
 
 (21, 17, 0) ***Mágus***
 Üzenet:
-Nem számítottam arra, hogy mágusokat látok itt, de azt az építményt, amely a dzsungel fölé tornyosult – láttam már ilyeneket Bracada partján. De itt? 	Patris megbökte a karomat, - és nem gondolnád -, megfordultam, és mágusokat láttam a semmibõl.	 	Egyikük felkiáltott: 	- Aha! Malcom nem volt elég bátor, hogy megjelenjen, ezért kalózokat küldött! De nem áruljuk ám el titkainkat!	- Ki a franc az a Malcom? 		Nos, nem hiszem, hogy lesz idõnk ezt megvitatnunk...
+Nem számítottam arra, hogy mágusokat látok itt, de azt az építményt, amely a dzsungel fölé tornyosult már Utópia falairól is láttam már korábban – láttam már ilyeneket Bracada partjainál is. De itt? 	Patris megbökte a karomat, - és nem gondolnád - megfordultam, és mágusokat láttam elõtûnni a semmibõl.	 	Egyikük felkiáltott: 	- Aha! Malcom nem volt elég bátor, hogy megjelenjen, ezért kalózokat küldött! De nem áruljuk ám el titkainkat!	- Ki a franc az a Malcom? 		Nos, nem hiszem, hogy lesz idõnk ezt megvitatnunk...
 
 (13, 2, 0) ***Repülõ Áspis***
 Üzenet:
@@ -108,10 +108,10 @@ Lassan, de kitartóan sétáltunk a dzsungelben. Egy agilisTengeri medvét küldtünk 
 
 (9, 11, 0) ***Vasgólem***
 Üzenet:
-"Hozzáférés megtagadva, jelszó szükséges!" – bömbölte egy hang a vasszobor belsejébõl.	E szobrok jelenléte a szigeten kezdettõl fogva figyelmeztetett. Feltételeztem, hogy Gólemek, és valószínûleg valami értékeset õriznek.	– Kapitány, úgy néz ki, mint egy régi raktár õrzõje – mutatott Patris a gólemek háta fölé. 	– Biztosan sok zsákmány van benne.		„A jelszó nincs megadva. A jogosulatlan hozzáférését megtagadni és likvidálni!” – bömbölte a vasõr, kizökkentve a mérlegelésembõl. Majd  az õrök hirtelen megtámadtak!
+"Hozzáférés megtagadva, jelszó szükséges!" – bömbölte egy hang a vasszobor belsejébõl.	E szobrok jelenléte a szigeten kezdettõl fogva figyelmeztetett. Feltételeztem, hogy Gólemek, és valószínûleg valami értékeset õriznek.	– Kapitány, úgy néz ki, mint egy régi raktár – mutatott Patris a gólemek mögé. 	– Biztosan sok zsákmány van benne.		„A jelszó nincs megadva. A jogosulatlan hozzáférését megtagadni és likvidálni!” – bömbölte a vasõr, kizökkentve a mérlegelésembõl. Majd  az õrök hirtelen megtámadtak!
 
 (3, 6, 0) ***Gorgon***
 Üzenet:
-Váratlanul az egyik felderítõnk nagy sebességgel rohan felénk. Pontosan elrepült mellettem, mielõtt még szóhoz juthattam volna. Ahogy zavartan fürkésztük a környezetünket, több hatalmas vadállat ugrott ki a dzsungelbõl. Úgy néztek ki, mint a tehenek és egy baziliszkuszok keresztezése.
+Váratlanul az egyik felderítõnk nagy sebességgel rohan felénk. Pontosan mellettem viharzott el, mielõtt még szóhoz juthattam volna. Ahogy zavartan fürkésztük a környezetünket, több hatalmas vadállat ugrott ki a dzsungelbõl. Úgy néztek ki, mint a tehenek és a baziliszkuszok keresztezése.
 
 ===== Fájl vége =====
