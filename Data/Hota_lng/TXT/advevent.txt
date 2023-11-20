@@ -58,7 +58,7 @@ Gyerekkori történetek szerint egy a vörös hattyú a jó szerencse elõjele.  Még mi
 Megérintetted a Sötétség Leplét és a földet körülötted sötétség borította be. Csak te vagy képes ezen átlátni."
 %s bejáratához értél.  Belépsz és megtámadod az õrzõket?
 "Találtál valamit, ami egykor egy %s volt, azonban ezt már régen kifosztották."
-"Mivel legyõzted a(z) %s sereget, a tiéd lett a(z) %s."
+"Mivel legyõzted a hely %s seregét, megszerezted a következõket: %s."
 "{%s}
 
 Itt %s sorozására van lehetõséged. Szeretnéd ezt most megtenni?"
