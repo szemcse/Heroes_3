@@ -1,0 +1,23 @@
+===== Térkép neve =====
+Nyomás!
+
+===== Térkép leírása =====
+Hogy csökkentse a különbözõ népek közti háborút, a Császár kijelölt egy kis területet, amely az ellenséges Lordok közti nézeteltérések levezetésére szolgál. A várad teljesen kiépítve indul, így csak az ellenfél legyõzésére kell koncentrálnod. Sok szerencsét!
+
+===== Pletykák =====
+
+===== Idõzített Események =====
+
+Név:
+Induló nyersanyagok
+Üzenet:
+A párbaj elkezdõdött, és addig tart, amíg csak egyikõtök marad. A küzdelem helyi rituáléja szerint elegendõ nyersanyaggal látnak el a hadviseléshez.
+
+Név:
+Vigyázat
+Üzenet:
+Igazán óvatosnak kell lenned, mert a bennszülöttek is megpróbálnak majd megakadályozni benneteket a gyõzelemben!
+
+===== Tárgyak =====
+
+===== Fájl vége =====

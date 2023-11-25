@@ -1,0 +1,53 @@
+===== Térkép neve =====
+Kazamaták örzõje
+
+===== Térkép leírása =====
+Te vagy a gonosz Kazamaták legfõbb ura, minden sötét és alattomos dolog ura.  Mestered úgy döntött, hogy itt az ideje, hogy gonoszságod beszivárogjon a fenti földekre, és elpusztítsa a Pleasantville-ben boldogan élõ bolondokat.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Üzenetet kaptál a Mesteredtõl. A felettetek lévõ kis falu már túl régóta túlságosan boldog. Itt az ideje, hogy felmenjetek oda, és megmutassátok nekik, mi is az igazi gonoszság.  Óvakodjatok a hõsöktõl, akik a földön kószálnak.  Hatalmasak és megpróbálnak majd eltenni lábalól.
+
+Név:
+Ünneplés
+Üzenet:
+Úgy tûnik, valamiféle ünnepség folyik odafent.  Hallani lehet, hogy mindenfelé mókáznak és táncolnak.  A lárma fülsiketítõ, és arra késztet, hogy olyan erõsen megpofozzd az egyik szolgát, hogy három bordája is eltörik.  Jobban is érzed magad ettõl.
+
+Név:
+Születésnap
+Üzenet:
+A mai egy különleges nap; ez a születésnapod.  Ezért a szolgák elõveszik a korbácsokat, láncokat és a macskafarokfarkakat, hogy használd õket néhány manón, akiket tegnap fogtak el, csak erre az alkalomra.  Vidám, véres csapásokkal elevenen megnyúzod az elsõ manót, és a nap folyamán élvezed a többiek sikolyait.
+
+Név:
+Öregnek érzem magamat
+Üzenet:
+Mivel ma egy kicsit öregnek érzed magad, mert ma reggel találtál egy õsz hajszálat, hirtelen úgy döntesz, hogy kipróbálod, vajon puszta kézzel még mindig le tudsz-e gyõzni három nagy vadállatot.  Miután az elsõnek eltöröd a csontjait, a másodikat felaprítod, a harmadikat pedig kibelezed.  Á, igen.  Még mindig megvan a kézügyességed.
+
+Név:
+Mi?
+Üzenet:
+Úgy tûnik, a csatlósaid egymás között harcolnak.  Vasszöges kesztyûvel hátba vered a Medusákat, farkon rúgod a Barlanglakókat, és kiütöd a Gonosz Szemeket.  Miután agresszióidat felszabadítottad, és a többiek eszméletüket vesztették, békés kínzások térnek vissza földjeidre.
+
+Név:
+Tündérek
+Üzenet:
+Azok a büdös manók elkezdtek pimaszkodni, és büdös, undorító, bûzlõ, rothadó virágokat ültettek a birodalmad alján.  Hogy lehettek ilyen kegyetlenek?  Bosszúból kiküldöd a minotauruszokat, hogy fejezzék le és húzzák karóba az összes kis patkányt.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(17, 18, 0) ***Rampart***
+Név:
+Pleasantville
+
+(15, 15, 1) ***Dungeon***
+Név:
+Dark Moor
+
+===== Fájl vége =====

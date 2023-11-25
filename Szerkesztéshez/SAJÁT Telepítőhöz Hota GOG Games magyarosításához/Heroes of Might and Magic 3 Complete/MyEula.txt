@@ -1,0 +1,12 @@
+A Program TESZT verzió!
+A Honosítás tesztelésére szolgál.
+Egyedül Ignácz Attila részére készült.
+Tartalma:
+_HD3_Data/Common javított fájljai
+_HD3_Data/Lang javított fájljai
+Data/HotA.lod
+Data/HotA_lng.lod
+Maps/Pár darab Magyarosított térkép és a tutorial.
+HotA.dat
+
+Jó játékot!

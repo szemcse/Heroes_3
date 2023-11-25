@@ -1,0 +1,36 @@
+===== Térkép neve =====
+Ragadd meg a torkát
+
+===== Térkép leírása =====
+Két birodalom harcol már egy évszázada ezért a földdarabért. Az egyik szárazföldi hidat eddig még senki sem tudta szilárdan megragadni. Torkon kell ragadnod ezt a háborút.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+AI bónusz
+Üzenet:
+
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(46, 44, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(22, 26, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(53, 53, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(27, 32, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+===== Fájl vége =====

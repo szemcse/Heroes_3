@@ -1,0 +1,43 @@
+===== Térkép neve =====
+Oktatás
+
+===== Térkép leírása =====
+Ez a térkép egy kiváló hely arra, hogy a kezdõ, szakmát tanulni vágyók és a tapasztalt játékosok néhány újdonságot megismerhessenek.
+
+===== Pletykák =====
+
+===== Idõzített Események =====
+
+Név:
+Bevezetõ 1. Rész
+Üzenet:
+Üdvözöllek a Heroes of Might and Magic III oktató felületén! Akár új, akár tapasztalt veterán vagy a Heroes sorozat használatában, jó helyen jársz, ha meg szeretnéd ismerni a játékot és annak használatát. Most kattints a pipára, ha készen állsz megismerni a játékot.
+
+Név:
+Bevezetõ 2. Rész
+Üzenet:
+Ha még nem nyomtattad ki, akkor nyomtasd ki a Heroes III oktató dokumentumát, amely abban a mappában található, ahová a Heroes of Might and Magic III játékot telepítetted. Megnézheted a (és kinyomtathatod) dokumentumot a Windows Start menüjébõl is.
+
+===== Tárgyak =====
+
+(3, 5, 0) ***Kastély***
+Név:
+Castellatus
+
+(8, 33, 0) ***Esemény***
+Üzenet:
+Fent dereng a rettegett Inferno típusú város. A citadella jelenléte azt jelenti, hogy a városban legalább minimális erõdítmények és egységek vannak, így jó dolog volt megállni Harci Gépeket vásárolni. Teljesen biztos lehetsz a dolgodban, mert néhány Arkangyal csatlakozik hozzánk. Sok szerencsét!
+
+(10, 4, 0) ***Esemény***
+Üzenet:
+Hû, ez a hely hátborzongatóan fest, és jó okkal rezelünk be - ez átkozott föld. Amikor az átkozott földön harcot vívunk, a saját és az ellenfél is elveszti minden meglévõ szerencse, vagy morál bónuszát. Nem akarhatod, hogy ez most megtörténjen, úgyhogy kövessd az utat kelet felé a vízesés felé.
+
+(24, 17, 1) ***Gnoll Buzogány***
+Üzenet:
+Ajjaj, ahogyan közeledünk a buzogány felé észreveszünk egy csapat gnoll-t, akik õrzik a varázstárgyat. Szeretnél harcolni velük? (Tipp:Mondj, igent, ezt a harcot könnyedén megnyered)
+
+(23, 19, 1) ***Útjelzõ tábla***
+Üzenet:
+Üzenetek is elhelyezhetõek a térképen. Tovább haladva négy másik típusú bányát is találsz. Foglald el mindet, majd menj tovább délnyugatra.
+
+===== Fájl vége =====

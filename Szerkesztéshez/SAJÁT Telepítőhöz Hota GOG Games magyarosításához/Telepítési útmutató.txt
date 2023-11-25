@@ -1,0 +1,15 @@
+magyarítás feltelepítésének menete:
+
+1. Csinálj biztonsági mentést a játékodról!!!
+
+2. A Program files(86)/Heroes of Might and Magic III Horn of The Abyss Magyarosítás mappában lévõ
+összes fájlt másold át a a játék telepítési helyén lévõ összes fájl helyére felülírva azt.
+
+6. A telepítõ létrehoz egy Uninstall-t a 
+Program files(86)/Heroes of Might and Magic III Horn of The Abyss Magyarosítás - könyvtárban. 
+Miután felülírtad a játékot az Uninstall-al törölheted nyugodtan a telepítõt.
+Így eltüntetheted a Heroes of Might and Magic III Horn of The Abyss Magyarosítás mappát
+mert a továbbiakban már nem lesz rá szükség
+
+Ezzel kész is volnánk! 
+Jó játékot!
