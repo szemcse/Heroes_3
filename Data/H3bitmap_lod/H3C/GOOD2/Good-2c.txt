@@ -1,0 +1,41 @@
+===== Térkép neve =====
+Semleges viszonyok
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod az összes ellenséges várat és le kell gyõznöd az összes ellenséges hõst. Néhány Helyõrség csak úgy enged át, ha a hõs egy elõzõ küldetésbõl származó varázstárgyat hordoz, de a helyõrség mögötti varázstárgyat magaddal viheted a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1
+Üzenet:
+Tatalia és Krewlod hónapokon át harcolt Erathiával és egymással az országhatárok miatt. Általában Bracada varázslói örülnek, ha kimaradnak a harcokból, de látva, hogy min ment át Erathia mostanában, úgy döntöttek, hogy támogatnak minket.
+
+Név:
+Bevezetés 2
+Üzenet:
+A varázslók felállítottak egy szerény elõõrsöt az Erathia/Tatalia/Krewlod határon. Katonaságunk egy részét küldtük oda, hogy csatlakozzanak hozzájuk. Együtt nem csak a Tatalia és Krewlod közti harcoknak vethetünk véget, de megerõsíthetjük az erathiai határt is.
+
+Név:
+Bevezetés 3
+Üzenet:
+Csapj le gyorsan, és semmisíts meg minden ellenállást. Meg kell tanítanunk a szomszédoknak: hiba volt azt gondolni, hogy hasznot húzhatnak a meggyengült Erathiából.
+
+Név:
+Menekültek 
+Üzenet:
+Felderítõid szerint sok menekülttábor van a határon, melyeknek lakóit a folyamatos harcok kikényszerítették a hazájukból.
+
+===== Tárgyak =====
+
+(11, 55, 0) ***Víz Elementál***
+Üzenet:
+Nem úgy tûnik, mintha a víz elementálok szívesen átengednék neked a hajóikat.
+
+(27, 69, 0) ***Víz Elementál***
+Üzenet:
+Nem úgy tûnik, mintha a víz elementálok szívesen átengednék neked a hajóikat.
+
+===== Fájl vége =====

@@ -1,0 +1,22 @@
+===== Térkép neve =====
+Királyért és hazáért
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod az összes ellenséges várat és le kell gyõznöd az összes ellenséges hõst, de Catherine királynõt és Lord Haartot nem veszítheted el. Ez a végsõ csata... sok szerencsét!
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1
+Üzenet:
+Támadásunk célja az a város, ahol Gryphonheart király sírja található, és az a város, ahol a király jelenlegi trónja áll. Mindkét városnak el kell esnie, különben sosem tudjuk elmozdítani a királyt a trónjáról.
+
+===== Tárgyak =====
+
+(52, 23, 0) ***Necropolis***
+Név:
+Kõkastély
+
+===== Fájl vége =====

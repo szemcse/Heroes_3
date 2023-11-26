@@ -1,0 +1,49 @@
+===== Térkép neve =====
+Alagutak és barlanglakók
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod az összes ellenséges várat és le kell gyõznöd az összes ellenséges hõst. Néhány Helyõrség csak úgy enged át, ha a hõs egy elõzõ küldetésbõl származó varázstárgyat hordoz, de a jutalom igazán nagy lesz.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1
+Üzenet:
+A Dungeon Nagyuraknak van eszük. Amíg Eofol ördögei Erathia határát támadták, Nighon hadai majdnem Steadwickig ástak alagutakat, egyszerre több váratlan támadást indítva az ország ellen.
+
+Név:
+Bevezetés 2
+Üzenet:
+Meg kell becsülnünk a Királyi Erathiai Katonaságot, hogy csak Erathia keleti feléig engedték az inváziót. Mindezek ellenére most mi siettetjük a Dungeon Nagyurakat. Ûzd vissza õket a Nighon Szoros alá, és létesíts erõdöt az Õ otthonukban.
+
+Név:
+Bevezetés 3
+Üzenet:
+AvLee és Bracada erõi támogatják az utolsó harcot. Egy Nighon vagy Eofol erõd sem maradhat az alagutakban. Olyan leckét adunk a Dungeon Nagyuraknak, amit sosem felejtenek el. Sok szerencsét.
+
+Név:
+Vitorlabontás
+Üzenet:
+Talán a tengeren át is támadhatnál Nighonra, de légy óvatos, mert a zátonnyal teli Szoros széles és alattomos.
+
+===== Tárgyak =====
+
+(53, 39, 0) ***Jel***
+Üzenet:
+Küklopsz sziget
+
+(0, 25, 0) ***Õrszemek Pajzsa***
+Üzenet:
+Elõtted fekszik a mesés Õrszemek Pajzsa, melyrõl a Látnok már oly rég megjósolta, hogy egyszer hozzád kerül. El akarod venni?
+
+(1, 14, 0) ***Mennydörgés Sisak***
+Üzenet:
+Elõtted fekszik a mesés Mennydörgés Sisak, melyrõl a Látnok már oly rég megjósolta, hogy egyszer hozzád kerül. El akarod venni?
+
+(20, 96, 1) ***Jel***
+Üzenet:
+Átkozottak könyvtára
+
+===== Fájl vége =====

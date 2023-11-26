@@ -1,0 +1,23 @@
+===== Térkép neve =====
+Egyesült harcvonal
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod az összes ellenséges várat és le kell gyõznöd az összes ellenséges hõst. 6 legerõsebb hõsödet magaddal viheted majd az utolsó küldetésbe, ahol Lord Haart és Catherine királynõ fog csatlakozni hozzájuk.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1
+Üzenet:
+Erathia még sosem látott négy nemzetet egy lobogó alatt harcolni. Ma élõhalott seregek ellen indulunk, élõhalott seregekkel az oldalunkon. Bármilyen furcsának tûnik is, ez az egyetlen módja Deyja feletti gyõzelmünknek.
+
+Név:
+Bevezetés 2
+Üzenet:
+A gyõzelemhez irányításod alá kell vonnod az egész területet. Sok szerencsét, számítunk rád.
+
+===== Tárgyak =====
+
+===== Fájl vége =====

@@ -1,0 +1,56 @@
+===== Térkép neve =====
+Steadwick felszabadítása
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod Steadwick városát. Keresd fel a Látnokot - ha teljesíted a Titok kunyhó küldetését, a jutalmat magaddal viheted a következõ küldetésbe.
+
+===== Események =====
+
+Név:
+Jó tanács 1
+Szöveg:
+A Dungeon Nagyurak feltételezhetõen föld alatti alagutakon át látják el Steadwicket.
+
+Név:
+Jó tanács 2
+Szöveg:
+A Dungeon Nagyuraknak két föld alatti átjárójuk van Steadwick Völgyön kívül.
+
+Név:
+Jó tanács 3
+Szöveg:
+Morgan Kendal tábornokot egy északnyugati börtönben tartják fogva.
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1
+Üzenet:
+Hírszerzésünk szerint Nighon és Eofol erõi Steadwickben barikádozták el magukat. Mivel minden megközelítési lehetõséget eltorlaszoltak, erõsítéseik valószínûleg föld alatti alagutakon át érkeznek.
+
+Név:
+Intro 2
+Üzenet:
+Vagy meg kell találnod az általuk használt folyosót, vagy a hegyeken át kell utat találnod. A jó hír az, hogy Bracada támogat minket, és ha el tudjuk õket érni, AvLee is. Nincs más mondanivalóm. Nem állunk meg, míg Steadwick fel nem szabadul. 
+
+Név:
+Hírek Kendal tábornokról 1
+Üzenet:
+Steadwick ostromának túlélõi szerint Gryphonheart király halála után Erathia irányítása Morgan Kendal, a Királyi Erathiai Katonai Parancsnokság Tábornoka kezébe került.
+
+Név:
+Hírek Kendal tábornokról 2
+Üzenet:
+A szemtanúk szerint Kendal tábornokot foglyul ejtették a harc közben, és sokak szerint egy északnyugati börtönben tartják fogva. Jó lenne megpróbálkozni a kiszabadításával, mivel egy briliáns katonai vezetõrõl van szó.
+
+===== Tárgyak =====
+
+(3, 5, 0) ***Börtön***
+Név:
+Kendal tábor
+
+(34, 42, 0) ***Castle***
+Név:
+Steadwick
+
+===== Fájl vége =====

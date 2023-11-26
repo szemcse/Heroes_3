@@ -1,0 +1,57 @@
+===== Térkép neve =====
+Bánj el az ördöggel
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod Kleesive városát. Néhány Helyõrség csak úgy enged át, ha a hõs egy elõzõ küldetésbõl származó varázstárgyat hordoz, de a helyõrség mögötti varázstárgyat magaddal viheted a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1
+Üzenet:
+Egy eofoli vezér levele tisztán kijelenti, hogy Roland Ironfist király az ördögök fogja, és csak egymillió arany váltságdíj mentheti meg az életét.
+
+Név:
+Bevezetés 2
+Üzenet:
+Nem tudtuk bizonyítani ezt az állítást, de a küldönc vallatásakor kiderült, hogy a Kreelah klán tartja fogva Rolandot Eofol határain belül. Igaz vagy sem, a királynõ nem fogja megadni magát.
+
+Név:
+Bevezetés 3
+Üzenet:
+A Kreelah klán fõ erõdje, Kleesive éppen az erathiai határ túloldalán van. Foglald el Kleesive-et, és ha tényleg ott van, szabadítsd ki Roland királyt. Valószínûtlennek tûnik, hogy a határhoz ennyire közel tartanák a túszaikat, úgyhogy légy óvatos, mert talán mindez csak egy gondosan kidolgozott csapda.
+
+Név:
+Bevezetés 4
+Üzenet:
+AvLee hadai segítségünkre siettek ebben a feladatban. Sok szerencsét, és az Egek Fénye oltalmazzon.
+
+===== Tárgyak =====
+
+(66, 41, 0) ***Eretnek***
+Név:
+Klánvezér
+
+(14, 24, 0) ***Esemény***
+Üzenet:
+Egyik katonád felkiált: "Rajtaütés!" Alig van idõd a fegyveredhez kapni.
+
+(17, 29, 0) ***Esemény***
+Üzenet:
+Egyik katonád felkiált: "Rajtaütés!" Alig van idõd a fegyveredhez kapni.
+
+(66, 40, 0) ***Inferno***
+Név:
+Kleesive
+
+(3, 32, 0) ***Jel***
+Üzenet:
+Torg kocsmája 
+
+(8, 21, 0) ***Jel***
+Üzenet:
+Kegyelemfalva
+
+===== Fájl vége =====

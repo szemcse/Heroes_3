@@ -1,0 +1,207 @@
+Campaign Choice Button Right Click
+"{Elsõsegély Sátor}
+
+A kezdõ hõsöd Elsõsegély Sátorral kezd"
+"{Lándzsások}
+
+A kezdõ hõsöd +14 Lándzsással kezd"
+"{Ritka Erõforrások}
+
+A kincstárad +5 higannyal, kénnel, kristállyal és drágakõvel lesz gazdagabb kezdéskor"
+"{Angyal}
+
+A kezdõ hõsöd +1 Angyallal kezd"
+"{Zelóták}
+
+A kezdõ hõsöd +3 Zelótával kezd"
+"{Varázstekercs}
+
+A kezdõ hõsöd induláskor megkapja az Imádság varázslatot"
+"{Arany Íj}
+
+Ha az Arany Íj a hõsöd birtokában van, akkor a Távolra támadó hõseid át tudnak lõni az akadályok vagy fedezékek felett lövési büntetés nélkül"
+"{Oroszlánbátorság Pajzsa}
+
+Ez a pajzs az összes elsõdleges képzettséged +4-gyel növeli"
+"{Arannyal Teli Zsák}
+
+Naponta +1000 arannyal gazdagít az Arannyal Teli Zsák"
+"{Arany}
+
+A kincstárad +10000 arannyal lesz gazdagabb kezdéskor"
+"{Arkangyalok}
+
+2 Arkangyalt kapsz kezdéskor
+(helyõrségben elhelyezve)"
+"{Titánok}
+
+2 Titánt kapsz kezdéskor
+(helyõrségben elhelyezve)"
+"{Varázstekercs}
+
+A kezdõ hõsöd induláskor megkapja a Tûz Hárító varázslatot"
+"{Varázstekercs}
+
+A kezdõ hõsöd induláskor megkapja a Jégcsapás varázslatot"
+"{Varázstekercs}
+
+A kezdõ hõsöd induláskor megkapja a Pontosság varázslatot"
+"{Mester Logisztika}
+
+A kezdõ hõsöd induláskor megkapja a Mester Logisztika képzettséget"
+"{Törpe Király Pajzsa}
+
+Ez a bal kezes fegyver növeli a Támadási Értéked +2-vel"
+"{Kentaur Fejsze}
+
+Ez a jobb kezes fegyver növeli a Támadási Értéked +2-vel"
+"{Mester Tengerészet}
+
+A kezdõ hõsöd induláskor megkapja a Mester Tengerészet képzettséget"
+"{Három elsõ szintû Mágustorony}
+
+A három kezdõ városodban induláskor felépül egy-egy elsõ szintû Mágustorony"
+"{Egy harmadik szintû Mágustorony}
+
+A központi városodban felépül egy harmadik szintû Mágustorony"
+"{Gyorsaság Csizma}
+
+A Gyorsaság Csizma növeli a hõsöd mozgástávját a szárazföldön"
+"{Alap Logisztika}
+
+A kezdõ hõsöd induláskor megkapja az Alap Logisztika képzettséged"
+"{Arany}
+
+A kincstárad +10000 arannyal lesz gazdagabb kezdéskor"
+"{Királyi Griffek}
+
+35 Királyi Griffet kapsz kezdéskor
+(helyõrségben elhelyezve)"
+"{Vasgólemek}
+
+35 Vasgólemet kapsz kezdéskor
+(helyõrségben elhelyezve)"
+"{Nemestündék}
+
+35 Nemestündét kapsz kezdéskor
+(helyõrségben elhelyezve)"
+"{Felvilágosodás Sisak}
+
+Ez a sisak az összes elsõdleges képzettséged +6-tal növeli"
+"{Föld Varázslat Kötet}
+
+A Föld Varázslat kötet segítségével az összes Föld Varázslatot varázsolni tudod a csaták során"
+"{Varázsló Kalapja}
+
+Ha hõsöd a Varázsló Kalapját viseli, az összes ötödik szintû varázslatot varázsolhatod"
+"{Varázstekercs}
+
+A kezdõ hõsöd induláskor megkapja a Pusztító varázslatot"
+"{Csodák Páncélja}
+
+Ez a páncél az összes elsõdleges képzettséged +1-gyel növeli"
+"{Ördögfiókák}
+
+A kezdõ hõsöd +100 Ördögfiókával kezd"
+"{Szemek Pillére}
+
+A kezdõ hõsöd induláskor megkapja a Szemek Pillérét
+(Beholder építmény)"
+"{Elsõ szintû Mágustorony}
+
+A központi városodban felépül egy elsõ szintû Mágustorony"
+"{Harci Tudósok Akadémiája}
+
+A kezdõ városodban felépül a Harci Tudósok Akadémiája
+(1000 tapasztalati pontot kap minden betérõ hõs)"
+"{Eeofol Hõsök}
+
+Kezdéskor megkapod az 'Ördögi Terv' hadájraton használt hõseid"
+"{Nighon Hõsök}
+
+Kezdéskor megkapod az 'Földmozgás' hadjáraton használt hõseid"
+"{Varázstekercs}
+
+A kezdõ hõsöd induláskor megkapja a Halál Fodrok varázslatot"
+"{Fekete Lovag}
+
+A kezdõ hõsöd +1 Fekete Lovaggal kezd"
+"{Csontváz Átalakító}
+
+A kezdõ városod induláskor megkapja a Csontváz Átalakítót
+(bármely lényt Csontvázzá alakít)"
+"{Vámpír Csuklya}
+
+A Vámpír Csuklya növeli a Nekromancia képzettséged 10%-kal"
+"{Kihantolt Sírok}
+
+A Kihantolt Sírok növelik a heti Csontváz-szaporulatot 6-tal"
+"{Sötétség Fátyla}
+
+A Sötétség Fátyla tartósan eltakarja a várad környékét a többi játékos elõl"
+"{Nyugalom Függõdísz}
+
+A Nyugalom Függõdísz védelmet biztosít az Õrjöngés varázslat ellen"
+"{Varázstekercs}
+
+A kezdõ hõsöd induláskor megkapja a Föld Hárító varázslatot"
+"{Zombik}
+
+A kezdõ hõsöd +25 Zombival indít"
+"{Varázstekercs}
+
+A kezdõ hõsöd induláskor megkapja a Halál Fodrok varázslatot"
+"{Halottak Csizmája}
+
+A Halottak Csizmája növeli a Nekromancia képzettséged 15%-kal"
+"{Szellemsárkányok}
+
+A kezdõ hõsöd +3 Szellemsárkánnyal indít"
+[helyettesítõ hõs jobb klikk infó itt]
+[helyettesítõ hõs jobb klikk infó itt]
+"{Fortress Hõs}
+
+A kezdõ hõsöd a Fortress várból lesz véletlenszerûen kiválasztva
+(Állatszelidítõ vagy Boszorkány)"
+"{Villámmadarak}
+
+A kezdõ hõsöd +3 Villámmadárral indít"
+"{Küklopsz Király}
+
+A kezdõ hõsöd +2 Küklopsz Királlyal indít"
+"{Õsi Behemót}
+
+A kezdõ hõsöd +1 Õsi Behemóttal indít"
+"{Tatalia választása}
+
+Válaszd ezt, ha Tatalia-ért szeretnél harcolni a 'Határvidékek' hadjáratban szerzett hõseiddel"
+"{Krewlod választása}
+
+Válaszd ezt, ha Krewlod-ért szeretnél harcolni az 'Aranyláz' hadjáratban szerzett hõseiddel"
+"{Gyorsaság Csizma}
+
+A Gyorsaság Csizma növeli a hõsöd mozgástávját a szárazföldön"
+"{Arany}
+
+A kincstárad +5000 arannyal lesz gazdagabb kezdéskor"
+"{Pegazusok}
+
+A kezdõ hõsöd +4 Pegazussal indít"
+"{Egy Harmadik szintû Mágustorony}
+
+A kezdõ városodban felépül egy harmadik szintû Mágustorony"
+"{Arany}
+
+A kincstárad +5000 arannyal lesz gazdagabb kezdéskor"
+"{Ent Harcosok}
+
+A kezdõ hõsöd +3 Ent Harcossal indít"
+"{Ent Harcosok}
+
+A kezdõ hõsöd +3 Ent Harcossal indít"
+"{Ent Fapásztor}
+
+A kezdõ hõsöd +6 Ent Fapásztorral indít"
+"{Fa}
+
+A nyersanyagraktárad +12 fával lesz gazdagabb kezdéskor"

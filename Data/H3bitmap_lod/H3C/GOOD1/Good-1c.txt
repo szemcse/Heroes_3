@@ -1,0 +1,59 @@
+===== Térkép neve =====
+Griff Szikla
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod mind a hét Griff Tornyot.
+
+===== Pletykák =====
+
+Név:
+Steadwick
+Szöveg:
+Úgy hallottam, Steadwicket ördögök támadták meg!
+
+Név:
+Menekültek 
+Szöveg:
+Sok menekült hagyta el a keleti területeket. Legtöbbjük továbbutazott Steadwick felé, hogy biztonságban legyenek.
+
+===== Idõzített Események =====
+
+Név:
+Bevezetés 1
+Üzenet:
+A Griff Szikla, Erathia szinte teljes griff népességének fészke jelenleg Nighon és Kreegan erõinek uralma alatt áll. Generációkkal ezelõtt a griffek jelentették a kulcsot Erathia megalapításához, és most õk jelentik a kulcsot a visszaszerzéséhez.
+
+Név:
+Bevezetés 2
+Üzenet:
+Nighon és Eofol befolyása jelentõs a vidéken, de fel kell szabadítanunk a griffeket, akiket most kényszerítenek, hogy nekik szolgáljanak. Értesültünk róla, hogy a fõváros, Steadwick ostrom alatt áll. Ha elesik, nagy szükségünk lesz a griffek segítségére.
+
+Név:
+Bevezetés 3
+Üzenet:
+Keresd fel az északi Griff Tornyokat. Mindet fel kell szabadítunk, mielõtt Steadwick felé indulhatnánk. Sok szerencsét.
+
+Név:
+Fa bónusz
+Üzenet:
+Fa a Dungeon Nagyurak erõfeszítéseiért.
+
+===== Tárgyak =====
+
+(37, 64, 0) ***Útjelzõ tábla***
+Üzenet:
+A Régi Griff Út
+
+(29, 8, 0) ***Esemény***
+Üzenet:
+Úgy tûnik, egy lavina zárta el az ösvényt.
+
+(46, 23, 0) ***Esemény***
+Üzenet:
+Egyik katonád hirtelen felkiált: "Rajtaütés!" Alig van idõd fegyvert fogni.
+
+(25, 23, 0) ***Esemény***
+Üzenet:
+Egyik katonád hirtelen felkiált: "Rajtaütés!" Alig van idõd fegyvert fogni.
+
+===== Fájl vége =====

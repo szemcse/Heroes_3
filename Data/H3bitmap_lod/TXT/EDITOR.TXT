@@ -1,0 +1,989 @@
+"Note: Do not change the headings in this file, they are used to detect problems"
+General
+Heroes of Might and Magic® III Map Editor
+"© 2000 The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company."
+Version %s
+Heroes 3 térkép fájlok (*.h3m)
+Heroes 3 térkép
+Térkép specifikációk
+%s tulajdonságai
+Idõzített esemény szerkesztése
+(nincs)
+Véletlen
+Ismeretlen
+Hátizsák
+Tapasztalat
+Varázspontok
+Hangulat
+Szerencse
+Nyersanyag
+Nyersanyagok
+Elsõdleges képzettség
+Elsõdleges képzettségek
+Varázstárgy
+Varázstárgyak
+Varázslat
+Varázslatok
+Lény
+Lények
+Másodlagos képzettség
+Másodlagos képzettségek
+Játékos: %d (%s)
+Nincs játékos
+Soha
+Minden nap
+Minden második nap
+Minden harmadik nap
+Minden negyedik nap
+Minden ötödik nap
+Minden hatodik nap
+Minden hetedik nap
+Minden tizennegyedik nap
+Minden huszonegyedik nap
+Minden huszonnyolcadik nap
+"A(z) ""%s"" típusú tárgyból a maximális számú ( %d ) van a pályán!"
+Nincs több felhasználható hõs ebben az osztályban!
+"Elsõként ki kell választanod egy játékost a "Játékos" menüben, mielõtt elhelyeznél egy hõst a térképen!"
+A hõsök maximális száma %d lehet játékosonként!
+A Grál már el lett helyezve!
+A Grált minimum %d kockányira lehet csak elhelyezni a pálya szélétõl!
+Sehova nem lehet beilleszteni a tárgyat!
+Debug Build
+Release Build
+A képernyõd megjelenítésének minimum 16-bites színmélységûnek kell lennie, hogy elindíthasd a pályakészítõt!
+"Hibás fájl verzió.
+
+Fájl verzió = %d
+Jelenlegi verziószám = %d"
+Hibás fájl formátum (vagy sérült pálya)!
+2 nap
+3 nap
+4 nap
+5 nap
+6 nap
+1 hét
+2 hét
+3 hét
+4 hét
+5 hét
+6 hét
+7 hét
+2 hónap
+3 hónap
+4 hónap
+5 hónap
+6 hónap
+7 hónap
+8 hónap
+9 hónap
+10 hónap
+11 hónap
+12 hónap
+(Bármely város)
+"%s at (%d, %d, %d)"
+%s a(z) %s
+Véletlenszerû szörny
+Véletlenszerû szörnyek
+Harcos
+Szerkesztõ
+Felfedezõ
+Vigyázat
+Az összes hõst egy-egy játékosnak kell birtokolnia.
+A játékos már rendelkezik a szükséges hõsök számával.
+"%s  Folytatás esetén törlõdik a jelenleg látogató hõs. 
+Biztos, hogy folytatni szeretnéd?"
+Nincs több rendelkezésre álló hõs!
+Nincsenek játékosok a térképen
+Véletlenszerû város
+%d csapat
+"""Nincsenek játékosok a térképen.""
+Minimum egy hõsnek vagy városnak tartoznia kell a játékosokhoz, mert e feltétel nélkül a pálya játszhatatlan.
+"
+"""Nincsenek városok a térképen.""
+Egy játékosnak az utolsó hõsével hét napon belül el kell foglalnia egy várost (vagy le kell gyõznie a többi ellenséget), mert különben elveszti a játékot.
+"
+"""A pályának nincs még neve.""
+Ha egy térkép névtelen, akkor a játékban a játszható pályáknál 'névtelen' címen fog szerepelni a legelsõ sorokban.
+"
+"""A térképnek nincs leírása.""
+Ajánlatos ezt kitölteni, hisz ez ad elõzetes leírást a pályáról.
+"
+"""A grál el lett helyezve a térképen, de obeliszkek nélkül szinte lehetetlen kiásni.""
+Az obeliszkek segítségével tudják a játékosok megtalálni a grált a pályán.
+"
+"""%s birtokol egy vagy több tárgyat a térképen, de ez még nem lehetséges.""
+Egy egyszerû példa erre a hibára: egy bányát, helyõrséget,... egy olyan játékos birtokol, akinek még nincs hõse és/vagy városa a térképen.
+"
+"""A(z) %s egy hajógyárat birtokol, de a pálya tenger nélküli.""
+Ha egy városnak van hajógyára, de a pályán nincsenek tengerek, akkor a játékos hiába készít hajót azt nem tudja használni a pályán.
+"
+"""Csak egy darab %s kétirányú monolit van a pályán.""
+A kétirányú monolitok olyan létesítmények, amelyek teleportálni képesek a hõsöket. Ennek használatához két kapu szükséges, az egyik a bejárat, míg a másik a kijárat szerepét fogja betölteni.
+"
+"""A pályán egy vagy több %s monolit bejárat van, de %s monolit kijárat nem lett elhelyezve.""
+ Ha elhelyezel egy monolit bejáratot a térképen, akkor legalább egy kijárat is szükséges ennek használatához.
+"
+"""A pályán egy vagy több %s monolit kijárat van, de %s monolit bejárat nem lett elhelyezve.""
+ Ha elhelyezel egy monolit kijáratot a térképen, akkor legalább egy bejárat is szükséges ennek használatához.
+"
+"""A pályán egy vagy több átjáró található, de a pálya nem tartalmaz föld alatti területeket.""
+Az átjáró kapuk arra használhatóak, hogy a térképrõl a föld alatti területekhez lejussunk és onnan vissza.
+"
+"""Több átjáró található a pálya felsõbb szintjein, mint a föld alatt.""
+
+"
+"""Több átjáró található a pálya alsóbb szintjein, mint a föld felett.""
+
+"
+"""The quest artifact of the %s is the %s, but the artifact has not been placed on the map.""
+For a player to complete a Seer Hut quest, the object of the quest (the associated artifact), must exist on the map, with a hero, with a wandering monster, in an event, in a Pandora’s Box, or as a reward from another Seer’s Hut.
+"
+"""Jelenleg egy játékos van csak a pályán, ezért nem állíthatsz be speciális nyerési feltételeket.""
+Ha csak egy játékos van a pályán, akkor a játék indítását követõen egybõl nyertél, tehát a játéknak így értelmét veszti.
+"
+"""Jelenleg egy játékos van csak a pályán beállítva, viszont a normál nyerési feltételek nincsenek kikapcsolva.""
+Ha egy játékos van csak a pályán és a normál nyerési feltételek vannak beállítva a játék indításakor egybõl nyertél, tehát így a játék értelmét veszti.
+"
+"""Nincs hiba a térképen."""
+"""A speciális nyerési feltételeknél a(z) %s megszerzése van beállítva, de ezt a varázstárgyat még nem helyezted el a térképen.""
+Hogy teljesíteni lehessen ezt a nyerési feltételt, helyezd el a szükséges varázstárgyat a pályán.
+"
+"""A speciális nyerési feltételeknél a(z) %s, megszerzése van beállítva, de ezt a varázstárgyat már %s birtokolja.""
+Ha egy hõs már a megszerzendõ varázstárggyal kezdi a pályát, akkor a játék értelmét veszti, mivel egybõl nyer a varázstárgyat birtokló játékos.
+"
+"""A speciális nyerési feltételeknél beállított %d %s már rendelkezésre áll.""
+Ha egy játékos már rendelkezik a speciális nyerési feltételeknél beállított %d %s lénnyel, akkor a játék értelmét veszti, mivel egybõl nyer az ezt birtokló játékos.
+"
+"""A speciális nyerési feltételek értelmében a pályán fel kell építeni a(z) %s és a(z) %s épületeket, a %s várban, de mindegyik épület már megépült.""
+Ezzel a beállítással azonnali nyerést eredményez a játék.
+"
+"""A speciális nyerési feltételek értelmében a pályán fel kell építeni a(z) %s és a(z) %s épületeket, de vagy az egyik vagy mindkettõ építése nem lehetséges.""
+A játékos nem nyerheti meg a játékot, ha nem tudja felépíteni a szükséges épületeket.
+"
+"""A speciális nyerési feltételek értelmében meg kellene szerezni a grált és felépíteni a %s városban, de az már fel van építve.""
+Ezzel a beállítással azonnali nyerést eredményez a játék.
+"
+"""A speciális nyerési feltételek értelmében fel kell építeni a grált a %s városban, de ez ott nem lehetséges.""
+Ha a grál felépítése nem engedélyezett az adott városban, akkor a grált azon a helyen nem lehet felépíteni és így nem lehet befejezni a játékot.
+"
+"""A speciális nyerési feltételek értelmében fel kell építeni a grált, de nincsenek városok a térképen ahol ezt meg lehetne csinálni.""
+Minimum egy várost el kell helyezned a térképen, hogy a grált fel lehessen építeni (és ebben engedélyezni kell ennek felépítését...).
+"
+"""A speciális nyerési feltételek értelmében le kell gyõzni %s seregét, de az a te csapatod embere.""
+Ha a legyõzendõ ellenfél a saját seregünk kötelékében van, akkor nem tudjuk legyõzni, ezáltal a játéknak nem lesz vége.
+"
+"""A speciális nyerési feltételek értelmében el kell foglalnunk a %s várat, de ezt már az egyik játékos birtokolja.""
+Ha egy játékos vagy csapat már rendelkezik az elfoglalandó várral, akkor a játékot nem lehet befejezni.
+"
+"""A speciális nyerési feltételek értelmében el kell foglalni a(z) %s várost, de azt már az egyik emberi játékos birtokolja.""
+Ha egy játékos vagy csapat már rendelkezik az elfoglalandó várral, akkor a játékot nem lehet befejezni.
+"
+"""A speciális nyerési feltételek értelmében el kell foglalni az összes lény lakóhelyét, de a térképen nincsenek ilyenek.""
+"
+"""A speciális nyerési feltételek értelmében el kell foglalni az összes lény lakóhelyét, de a térképen az egyik játékos már birtokolja az összes ilyet.""
+"
+"""A speciális nyerési feltételek értelmében el kell foglalni az összes bányát, de a térképen nincsenek bányák.""
+"
+"""A speciális nyerési feltételek értelmében el kell foglalni az összes bányát, de a térképen az egyik játékos már birtokolja az összes ilyet.""
+"
+"""A speciális nyerési feltételek értelmében meg kell találni a(z) %s varázstárgyat, de az nem található a térképen.""
+"
+"""A speciális vesztési feltételek értelmében el kell veszteni a(z) %s várost, de ezt a várat egyik játékos sem birtokolja.""
+"
+"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s , azonban az azt birtokló csapat nem rendelkezik emberi csapatokkal.""
+"
+"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, de több olyan csapat is van, amely emberi játékos is lehet.""
+"
+"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, ami a %s játékoshoz tartozik, de ez a játékos csak számítógép által irányított lehet.""
+"
+"A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, de ott több emberi játékos is lehet.""
+"
+"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, de ez a hõs nem tartozik egyik játékoshoz sem.""
+"
+"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s ami a(z) %s játékos tulajdona, de ennek a csapat csak számítógép által irányított játékosokból áll.""
+"
+"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, de több mint egy olyan csapat van, ami lehet emberi irányítású is.""
+"
+"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s amit a(z) %s játékos birtokol, de ez a játékos csak számítógép által irányított lehet.""
+"
+"""A speciális vesztési feltételek értelmében el kell veszteni a következõt: %s, de ott több, mint egy játékos is lehet emberi.""
+"
+Visszaállítod az automatikusan mentett térképet?
+"Szöveges fájlok (*.txt)
+.txt"
+"Nem sikerült az importálás: ""%s""."
+"Sikeres importálás:  ""%s""."
+Térkép neve
+Térkép leírása
+Események
+Idõzített események
+Tárgyak
+Név
+Üzenet
+Szöveg
+%s látogatása
+Fájl vége
+Nap: %d - %s
+A kiválasztott tárgy nem található a térképen.
+Standard
+Mód
+"""Csak egy örvény található a térképen.""
+Egy örvény esetén a hajóknak nem tudnak eljutni a kijárathoz. Ez esetben az örvény megsemmisíti az ide érkezõ hõs katonáit.
+"
+"""A(z) %s elérhetetlen.""
+Vigyázz arra, hogy az összes objektum elérhetõ legyen a térképen.
+"
+OK
+Elvet
+Segítség
+Általános
+Nyeremény
+Nyersanyagok
+Épületek
+Lények
+Másodlagos képzettségek
+Speciális vesztési feltételek
+Játékosok leírása
+Események
+Csapatok
+Idõzített események
+Speciális nyerési feltételek
+Kincs
+Helyõrség
+Varázslatok
+Õrzõk
+Varázstárgyak
+A pályakészítõrõl
+Varázstárgyak szerkesztése
+Lény cellák szerkesztése
+Õrzõk szerkesztése
+Másodlagos képzettségek szerkesztése
+Keresés
+Térkép ellenõrzése
+Új térkép
+Beállítások
+Varázstárgy kiválasztása
+Hõs osztályának kiválasztása
+Varázslat kiválasztása
+Egyéni
+Ecset
+Felszín típus
+Folyó típus
+Út típus
+Hatósugár (négyzet):
+Nem mozog
+Hatósugár: 1 négyzet
+Hatósugár: 2 négyzet
+Hatósugár: 3 négyzet
+Hatósugár: 4 négyzet
+Hatósugár: 5 négyzet
+Hatósugár: 6 négyzet
+Hatósugár: 7 négyzet
+Hatósugár: 8 négyzet
+Hatósugár: 9 négyzet
+Hatósugár: 10 négyzet
+Hibák:
+Nincsenek módosítható tulajdonságai ennek az objektumnak.
+"Ha folytatod, akkor a térkép alvilági része törlõdik. 
+Biztos, hogy folytatni szeretnéd?"
+Véletlenszerû lakhely: %d
+Véletlenszerû %s lakhely
+Életrajz
+Térkép generálás folyamatban
+Térkép generálása...
+Nem lehetséges véletlenszerû térkép generálása.
+Hõsök
+"""A(z) %s nem rendelkezik küldetéssel.""
+A Titok kunyhó és a Határállomás azt a célt szolgálja, hogy a játékosok egy küldetést teljesíthessenek.
+"
+"Ez az objektum csak ""Armageddon's Blade"" vagy ""The Shadow of Death"" pályákon helyezhetõ el."
+Nincs
+Elérhetõ tapasztalati szint: %d
+%s szint %d
+%s elérése
+Elérni a következõt:
+%s legyõzése
+%s legyõzése
+Visszatérni a következõvel:
+Visszatérés ezzel: %s 
+Visszatérés ezzel: %s 
+Visszatérés ezzel: %s 
+Üzenet érkezéskor
+Üzenet feladat teljesítése elõtt
+Üzenet feladat teljesítésekor
+és
+alvilág
+nincs
+%d tapasztalati pont
+%d varázspont
++%d hangulat
++%d szerencse
+%s varázslat
+"""Egy vagy több %s kulcsár sátor található a térképen, de nincsenek %s határõrségek és/vagy határállomások.""
+
+"
+"""Egy vagy több %s határõrség található a térképen, de nincs %s kulcsár sátor.""
+
+"
+"""Egy vagy több %s határállomás található a térképen, de nincs %s kulcsár sátor.""
+
+"
+"""Egy vagy többThere are one or more Huts of the Magi on this map but no Eyes of the Magi.""
+The Hut of the Magi is intended to be used in conjunction with the Eye of the Magi.  When a player visits a Hut the shroud removed from the vicinities of all of the Eyes of the Magi on the map.  If there are no Eyes of the Magi on the map, visiting the Hut will be pointless.
+"
+"""There are one or more Eyes of the Magi on this map but no Huts of the Magi.""
+The Eye of the Magi is intended to be used in conjunction with the Hut of the Magi.  When a player visits a Hut the shroud removed from the vicinities of all of the Eyes of the Magi on the map.  If there are no Huts of the Magi on the map, the Eyes will do nothing.
+"
+"""Csak %d elérhetõ játékos található a térképen, de a pálya követelményei szerint minimum %d elérhetõ hõs kell.""
+Minimum 10 elérhetõ játékosnak kell lennie hõsönként a térképen +1 minden város részére. Ezt a Hõsök fülön állíthatod be az Eszközök menü, Térkép leírása résznél.
+"
+"""All of the artifacts on this map are either disabled or reserved.""
+A varázstárgyak lefoglaltak, ha azok a speciális nyerési feltételek részét képezik egy küldetés feladataként. A varázstárgyaknak vagy letiltottnak vagy lefoglaltnak kell lennie. Ezt a varázstárgyak fülnél találod a térkép leírása menüpontban (Eszközök menü).
+"
+"Ez az objektum csak ""The Shadow of Death"" típusú térképen helyezhetõ el."
+"Ez az objektum csak akkor helyezhetõ el, ha telepítve van az ""Armageddon's Blade""!"
+Hõsök
+Abandoned Mine Properties Dialog
+Felhasználható nyersanyagok
+&Higany
+&Érc
+&Kén
+&Kristály
+Drágakõ
+Arany
+Army Dialog
+Típus
+Mennyiség
+&%d. hely:
+Garrison Properties Dialog
+Tulajdonos
+&Nincs
+Játékos %d (%s)
+Lények
+A csapatok eltávolíthatóak
+Varázstárgyak tulajdonságai (általános oldal)
+Típus:
+Egyéni üzenet:
+"Ötlet: Az õrzõk tulajdonságainál kiválaszthatsz egy igen/nem promtot is, ha a játékos az igenre kattint, akkor az azt jelenti, hogy letámadja az õrzõket. Ezen kívül egyéni üzeneteket is meg tudsz adni itt."
+&Varázslat:
+Fekete doboz tulajdonságai (általános oldal)
+&Üzenet:
+Esemény tulajdonságai (általános oldal)
+A játékosoknak meg van engedve az indító esemény
+Játékos: &%d
+Indító események engedélyezése a számítógépes ellenfelek számára
+Esemény törlése az elsõ látogatás után
+Fekete doboz tulajdonságai
+&Kategória
+&Hozzáad...
+&Szerkeszt...
+&Eltávolít
+Összes törlése
+Varázstárgyak
+Lény &típusa
+Mennyiség
+&Tapasztalati bónusz:
+Szerencse bónusz
+&Nincs
++1
++2
++3
+-1
+-2
+-3
+&Varázspont bónusz:
+&Adományoz
+&Elkér
+Hangulat bónusz
+&Támadás:
+&Védekezés:
+&Varázserõ:
+&Képzettség:
+&Másodlagos képzettség
+Szint
+&Varázslatok
+Nyersanyag mennyiségek
+&Fa:
+&Higany:
+&Érc:
+&Kén:
+&Kristály:
+D&rágakõ:
+&Arany:
+Adományoz
+Elkér
+Másodlagos képzettségek szerkesztése
+&Típus:
+Szint
+&Alap
+&Haladó
+&Mester
+Lény cellák szerkesztése
+&Típus:
+&Mennyiség:
+Idõzített esemény szerkesztése
+Esemény &neve:
+&Üzenet:
+Azok a játékosok, akiknél az események lefuttathatók
+&%d játékos
+&Esemény engedélyezése a számítógépes ellenfelek számára
+Az &esemény megjelenésének napja:
+Esemény ismétlése:
+Esemény engedélyezése az emberi játékosok számára
+Város események
+Épület &struktúra:
+&Épít
+Város események
+Generator no.
+Mennyiség
+Figyelem:  A kiválasztott lények hozzá lettek adva a város lény-transzportereihez, azonban ha ez az épület nincs felépítve, akkor a lényeket nem lehet transzportálni a várba.
+Varázstárgy szerkesztése
+&Hova rakjuk:
+&Varázstárgy:
+Üzenetek szerkesztése
+&Név:
+&Szöveg:
+Keresés
+&Mit keres:
+Következõ
+Elõzõ
+Flaggable Properties Dialog
+Tulajdonos
+&Nincs
+&%d (%s) játékos
+Hõs tulajdonságai
+Osztály:
+&Játékos:
+&Azonosítás:
+&Név:
+&Tapasztalat:
+Kép:
+Õ&rjárat:
+&Egyéni
+E&gyéni
+Nem:
+&Alapértelmezett (%s)
+férfi
+nõ
+&Férfi
+&Nõ
+Eg&yéni
+Hõs tulajdonságai
+Formáció
+&Tagolt
+&Szoros
+Másodlagos képzettség
+Típus
+Szint
+&%d képesség:
+Hõs tulajdonságai
+Rendelkezik &varázskönyvvel
+Va&rázstárgyak:
+Név
+Hely
+&Hozzáad...
+&Szerkeszt...
+&Eltávolít
+Ös&szes törlése
+Térkép specifikációk
+Nehézség
+&Könnyû
+Középszintû
+&Haladó
+T&apasztalt
+&Bajnok
+&Két szintû térkép
+Térkép &neve:
+&Leírás:
+&Hõsök tapasztalati szintjének korlátozása:
+Térkép verzió
+The &Restoration of Erathia
+&Armageddon's Blade
+The &Shadow of Death
+Map Specs Player Specs Page
+&Játékos:
+&Hõs generálása a fõvárosnál
+Csapat tulajdonsága
+&Emberi
+Számítógép
+&Viselkedés:
+Fõvárost birtokol:
+Megengedett városok:
+&egyéni
+&véletlenszerû
+Cast&le
+R&ampart
+&Tower
+&Inferno
+&Necropolis
+&Dungeon
+&Stronghold
+&Fortress
+C&onflux
+Térkép specifikációk csapat oldal
+&Szövetségek engedélyezése
+&Szövetségek száma
+Szövetségek kiosztása
+Szövetségek száma:
+&%d (%s) játékos:
+Térkép specifikációk
+E&semények:
+&Hozzáad...
+&Szerkeszt...
+&Eltávolít
+Ös&szes törlése
+Térkép specifikációk idõzített események oldal
+E&semények:
+&Hozzáad...
+&Szerkeszt...
+&Eltávolít
+Ös&szes törlése
+Felfelé &mozgat
+Lefelé &mozgat
+Térkép specifikációk spec. nyerési feltételek oldal
+Nyerési feltétel kiválasztása:
+&Nincs speciális nyerési feltétel
+Egy varázstárgy &megszerzése
+Lények &felhalmozása
+Nyersanyagok felhalmozása
+&Egy kijelölt város fejlesztése
+&Grál felépítése
+Egy kijelölt hõs &legyõzése
+Egy kijelölt város &elfoglalása
+Egy kijelölt lény &legyõzése
+&Az összes lény lakás elfoglalása
+A&z összes bánya elfoglalása
+Egy ki&jelölt varázstárgy szállítása
+Normál nyerési feltételekkel is lehet &gyõzni
+A speciális nyerési feltételek legyenek érvényesek a számítógép játékosaira &is
+Var&ázstárgy:
+Lé&ny típusa:
+&Mennyiség:
+N&yersanyag típusa:
+Vá&ros
+Vár s&zintje
+Község
+Város
+Fõváros
+Ka&stély szintje
+Erõd
+Citadella
+Kastély
+H&õs:
+Lé&ny:
+&Célállomás:
+Map Specs Special Loss Condition Page
+Vesztési feltétel kiválasztása:
+&Nincs speciális vesztési feltétel
+Egy kijelölt város &elvesztése
+Egy kijelölt hõs &elvesztése
+Idõ &lejár
+V&áros:
+Hõ&s:
+I&dõ limit:
+Monster Properties General Page
+Típus:
+Mennyiség
+&véletlenszerû
+&egyéni:
+&a mennyiség nem növekszik
+Természet
+"K&észséges
+(mindig csatlakozik)"
+"&Barátságos
+(hajlamos a csatlakozásra)"
+"&Agresszív
+(talán csatlakozik)"
+"&Ellenséges
+(nem szeret csatlakozni)"
+"&Vad
+(soha nem csatlakozik)"
+A lények & nem menekülnek el
+Egyéni &üzenet:
+Monster Properties Treasure Page
+Nyersanyagok
+&Fa:
+&Higany:
+&Érc:
+&Kénkõ:
+&Kristály:
+D&rágakõ:
+&Arany:
+&Varázstárgy:
+New Map Dialog
+Térkép mérete
+&36x36
+&72x72
+&108x108
+1&44x144
+&Két szintû térkép
+Térkép verzió
+The &Restoration of Erathia
+&Armageddon's Blade
+&Véletlenszerû térkép generálása
+Játékosok száma
+Emberi/számítógép:
+Csak gép által irányított:
+Szövetségek száma
+Víz tartalom
+Véletlenszerû
+Nincs
+Átlagos
+Szigetek
+Lényeg ereje
+Véletlenszerû
+Gyenge
+Átlagos
+Erõs
+The &Shadow of Death
+Options Dialog
+Díszítõelemek gyakorisága
+Nincs
+Sok
+A térkép újrarajzolása ezzel a beállítással
+Autómatikus mentés
+&Autómatikus mentés bekapcsolása
+&Mentés minden:
+percben
+Resource Properties General Page
+Típus:
+Mennyiség
+&Véletlenszerû
+&Egyéni:
+"Ha a nyersanyag arany, akkor a mennyiséget csak százasával lehet megadni."
+Egyéni &üzenet:
+"Ha egyénileg állítod be az õrzõket, akkor ajánlott egy igen/nem prompt-ot is elhelyezni itt, amin ha a játékos igen-t kattint, csak akkor támadja le az õrzõket."
+Scholar Properties Dialog
+Jutalom
+&Véletlenszerû
+&Elsõdleges képzettség:
+&Másodlagos képzettség:
+V&arázslat:
+Seer's Hut Properties Dialog
+Küldetés
+&Szerkeszt...
+&Teljesítés határideje
+&Hónap:
+&Hét:
+&Nap:
+&Egyéni
+Jutalom
+Sz&erkeszt...
+Legyen: %s
+Tartozni ehhez: %s
+Shrine Properties Dialog
+%d szintû varázslat
+&Véletlenszerû
+&Egyéni:
+Sign Properties Dialog
+&Üzenet:
+Town Properties General Page
+Típus:
+&Játékos:
+&Név:
+&Egyéni
+Látogató hõs
+Név:
+Osztály:
+&Hozzáad...
+&Szerkeszt...
+&Eltávolít
+Igazodás:
+Hasonló, mint õ: %s
+Hasonló, mint a tulaj vagy véletlenszerû
+Town Properties Garrison Page
+Formáció
+&Tagolt
+&Szoros
+Town Properties Buildings Page
+Rendelkezik &erõddel
+Épület &struktúra:
+&Engedélyezve
+&Megépítve
+Ö&sszes megépítése
+&Összes lerombolása
+Town Properties Spells Page
+Varázslat &szintje:
+Ezek FELTÉTLENÜL szerepelnek a varázstoronyban:
+Ezek FORDULHATNAK ELÕ a varázstoronyban:
+Town Properties Timed Events Page
+E&semények:
+&Hozzáad...
+&Szerkeszt...
+&Eltávolít
+Ös&szes törlése
+Felfelé &mozgat
+Lefelé &mozgat
+Edit Quest Dialog
+Küldetés szerkesztése
+Válaszd ki a küldetés típusát:
+&Nincs
+Elér egy tapasztalati &szintet
+Elér bizonyos &elsõdl. képz. szintet
+Legyõz egy meghatározott &hõst
+Legyõz egy meghatározott lényt
+Visszatér ide egy &varázstárggyal
+Visszatér ide a megh. lényekkel
+Visszatér a kiv. nyersanyagokkal
+Tapasztalati &szint:
+T&ámadási szint:
+&Védekezési szint:
+&Varázserõ:
+&Szakértelem:
+Hõ&s:
+L&ény:
+Varázstárgyak
+H&ozzáad...
+Sz&erkeszt...
+El&távolít
+Öss&zes törlése
+Lény típusa
+Mennyiség
+&Fa:
+Higa&ny:
+&Érc:
+&Kénkõ:
+Kr&istály:
+&Drágakõ:
+Ar&any:
+Legyen egy meghatározott hõs
+Egy megh. csapathoz tartozni
+Osztály:
+Azonosítás:
+Játékos:
+Edit Reward Dialog
+Jutalom szerkesztése
+Válaszd ki a jutalom típusát:
+&Nincs
+&Tapasztalati bónusz
+Varázspontok
+&Hangulat bónusz
+&Szerencse bónusz
+&Nyersanyag
+&Elsõdleges képz.
+Másod&lagos képz.
+&Varázstárgy
+&Varázslat
+&Lényeg
+Tapasztalati bónusz értéke:
+Varázspont értéke:
+Hangulat bónusz értéke:
+Szerencse bónusz értéke:
+Nyersanyag típusa:
+Mennyiség:
+Elsõdleges képzettség:
+Bónusz:
+Másodlagos képzettség:
+Szint:
+Varázstárgy:
+Varázslat:
+Lény típusa:
+Hero Placeholder Properties Dialog
+&Tulajdonos:
+Azonosítás
+&Bármely hõs:
+&Egy kiválasztott hõs:
+&Erõ beosztás:
+&Osztály:
+&Azonosítás:
+Hero Properties Biography Page
+Önéletrajz
+&Egyéni
+Map Specs Artifacts Page
+Engedélyezett &varázstárgyak:
+Map Specs Available Heroes Page
+Engedélyezett hõsök:
+&Tulajdonságok…
+Random Generator Properties Dialog
+&Tulajdonos:
+Lény szintje
+M&inimum:
+M&aximum:
+Igazodás
+Vá&lassz egyet:
+&Ugyanolyan, mint:
+&Castle
+&Rampart
+&Tower
+Inf&erno
+&Necropolis
+&Dungeon
+Stron&ghold
+&Fortress
+Conflu&x
+Witch Hut Properties Dialog
+Lehetséges képzettségek:
+Hero Properties Primary Skils Page
+Elsõdleges képzettségek
+&Egyéni
+Hero Properties Spells Page
+Varázslatok
+&Egyéni
+Hero Prototype Properties Artifacts Page
+Varázstárgyak
+Hero Prototype Properties Biography Page
+Önéletrajz
+Hero Prototype Properties General Page
+Általános
+Felbérelheti
+&%d játékos
+Hero Prototype Properties Primary Skills Page
+Elsõdleges képzettségek
+Hero Prototype Properties Secondary Skills Page
+Másodlagos képzettségek
+Hero Prototype Properties Sheet
+Hõs azonosításának tulajdonságai
+Hero Prototype Properties Spells Page
+Varázslatok
+Primary Skills Dialog
+&Támadás:
+&Védekezés:
+&Varázserõ:
+&Szakértelem:
+Spells Dialog
+&Varázslatok:
+Map Specs Secondary Skills Page
+Másodlagos képzettségek
+Lehetséges &másodlagos képzettségek:
+Map Specs Spells Page
+Varázslatok
+Lehetséges &varázslatok:
+Main menu
+&Fájl
+&Szerkeszt	
+&Nézet	
+&Eszközök	
+&Játékos	
+&Segítség	
+File Menu	
+&Új...	Ctrl+N
+&Megnyitás...	Ctrl+O
+&Mentés	Ctrl+S
+Mentés &másként...	
+&Szövegek exportálása...	
+&Szövegek importálása...	
+legutóbbi térképek	
+K&ilépés	
+Edit Menu	
+&Visszavon	Ctrl+Z
+&Ismét	Ctrl+Y
+Ki&vág	Ctrl+X
+&Másol	Ctrl+C
+&Beilleszt	Ctrl+V
+&Töröl	Del
+&Keres...	Ctrl+F
+Következõ &keresése	F3
+Elõzõ ke&resése	Ctrl+F3
+Tu&lajdonságok...	Enter
+View Menu	
+Közelít	
+Távolít
+&Alvilág	Ctrl+U
+&Háló	Ctrl+G
+&Bejárhatóság	Ctrl+P
+Objektumok animálása	Ctrl+A
+Terep animálása 	Ctrl+T
+&Eszköztár	
+&Térkép elemek	
+&Státusz sor	
+Tools Menu	
+&Terep
+&Folyók	
+U&tak	
+&Töröl	
+O&bjektumok	
+Térkép &leírása...	Ctrl+Enter
+&Térkép ellenõrzése  	Shift+V
+B&eállítások...
+Akadályok
+Tools|Terrain Menu	
+&1x1	
+&2x2
+&4x4
+&Terület
+&Föld
+&Homok
+&Fû
+H&ó
+Mocsá&r
+&Törmelék
+F&öld alatti
+&Láva
+&Víz
+S&zikla
+Tools|Rivers Menu
+&Töröl
+&Jeges
+&Üledékes
+&Láva
+&Radír
+Tools|Roads Menu
+&Föld
+&Kavics
+&Kõvel kirakott
+&Radír
+Tools|Erase Menu
+&1x1
+&2x2
+&4x4
+&Terület
+Tools|Objects Menu
+&Objektumok föld talajra 
+&Objektumok homokos talajra 
+&Objektumok füves talajra	
+O&bjektumok h&avas talajra	
+Obje&ktumok mocsaras talajra	
+&Objektumok törmelékes talajra	
+O&bjektumok föld alatti talajra	
+&Objektumok lávás talajra	
+&Objektumok vízi talajra	
+&Az összes objektum	
+&Városok	
+&Lények	
+&Hõsök	
+Var&ázstárgyak	
+Ki&ncsek	
+Player Menu	
+&Nincs	Ctrl+0
+&1. játékos (%s)	Ctrl+1
+&2. játékos (%s)	Ctrl+2
+&3. játékos (%s)	Ctrl+3
+&4. játékos (%s)	Ctrl+4
+&5. játékos (%s)	Ctrl+5
+&6. játékos (%s)	Ctrl+6
+&7. játékos (%s)	Ctrl+7
+&8. játékos (%s)	Ctrl+8
+Help Menu	
+&Súgótémák (angol)
+&A pályakészítõrõl...	
+Context Menu	
+&Mi ez?	
+&Visszavon	
+&Újra	
+Ki&vág	
+&Másol	
+&Beilleszt
+&Töröl
+&Keres...
+Következõ &keresése
+Elõzõ ke&resése
+Tu&lajdonságok...
+Akadályok elhelyezése
+Tools|Erase Menu
+1x1-es körülhatárolt ecset
+2x2-es körülhatárolt ecset
+4x4-es körülhatárolt ecset
+körülhatárolt-terület radír
+1x1-es nagysugarú ecset
+2x2-es nagysugarú ecset
+4x4-es nagysugarú ecset
+nagysugarú-terület radír
+1x1-es körülhatárolt-terület radír	
+2x2-es körülhatárolt-terület radír	
+4x4-es körülhatárolt-terület radír	
+körülhatárolt-terület radír	
+1x1-es nagysugarú radír	
+2x2-es nagysugarú radír	
+4x4-es nagysugarú radír	
+nagysugarú-terület radír	
+Akadályok &elhelyezése	Shift+O

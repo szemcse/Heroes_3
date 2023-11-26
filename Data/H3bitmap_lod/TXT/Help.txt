@@ -1,0 +1,846 @@
+Rollover Text	Right-Click Text																																		
+"Note: Do not change the headings in this file, they are used to detect problems"																																			
+Fõmenü																																			
+	"{Új játék}
+
+Új játék kezdése."																																		
+	"{Játék betöltése}
+
+Mentett játék betöltése."																																		
+	"{Legmagasabb pontszámok}
+
+A legendás hõsök csarnoka."																																		
+	"{Készítõk}
+
+A játék készítõi."																																		
+	"{Kilépés}
+
+Visszatérés a Windows-ba."																																		
+																																			
+Új játék   	Új játék																																		
+	"{Egyjátékos küldetés}
+
+Egyjátékos térkép játszása."																																		
+	"{Hadjárat}
+
+Történet játszása."																																		
+	"{Többjátékos mód}
+
+Egypályás játék többjátékos módban."																																		
+	"{Oktatás}
+
+A Heroes III alapjai."																																		
+	"{Vissza}
+
+Visszatérés az elõzõ képernyõre."																																		
+																																			
+Egyjátékos pálya kiválasztása	Egyjátékos pálya kiválasztása																																		
+																																			
+SCENARIO_BACKGROUND 	Pálya kiválasztása																																		
+ADVANCED_BACKGROUND 	További beállítások																																		
+Véletlenszerû pálya létrehozása-menü háttere	Testreszabni és elkészíteni egy véletlenszerû térképet																																		
+SCENARIO_NAME 	Pálya neve																																		
+Leírás címe	Pálya eligazítás megjelenítése																																		
+Leírás szövege	Pálya eligazítás megjelenítése																																		
+EASY 	"{Könnyû nehézség}
+
+A játékos nyersanyagokban nagy elõnnyel kezd, a gép pedig gyengén játszik."																																		
+NORMAL 	"{Középszintû nehézség}
+
+A játékos nyersanyagokban mérsékelt elõnnyel kezd, a gép meglehetõsen jól játszik."																																		
+HARD 	"{Haladó nehézség}
+
+A játékos és a gép azonos mennyiségû nyersanyaggal kezd, a gép a lehetõ legjobban játszik."																																		
+EXPERT 	"{Tapasztalt nehézség}
+
+A játékos nyersanyagokban hátránnyal kezd, a gép a lehetõ legjobban játszik."																																		
+IMPOSSIBLE 	"{Bajnok nehézség}
+
+A játékos nyersanyagok nélkül kezd, a gép a lehetõ legjobban játszik."																																		
+ALLY_FLAG1 	Ez a te színed																																		
+ALLY_FLAG2 	Ez egy szövetségesed színe																																		
+ALLY_FLAG3 	Ez egy szövetségesed színe																																		
+ALLY_FLAG4 	Ez egy szövetségesed színe																																		
+ALLY_FLAG5 	Ez egy szövetségesed színe																																		
+ALLY_FLAG6 	Ez egy szövetségesed színe																																		
+ALLY_FLAG7 	Ez egy szövetségesed színe																																		
+ALLY_FLAG8 	Ez egy szövetségesed színe																																		
+ENEMY_FLAG1 	Ez egy ellenséged színe																																		
+ENEMY_FLAG2 	Ez egy ellenséged színe																																		
+ENEMY_FLAG3 	Ez egy ellenséged színe																																		
+ENEMY_FLAG4 	Ez egy ellenséged színe																																		
+ENEMY_FLAG5 	Ez egy ellenséged színe																																		
+ENEMY_FLAG6 	Ez egy ellenséged színe																																		
+ENEMY_FLAG7 	Ez egy ellenséged színe																																		
+ENEMY_FLAG8 	Ez egy ellenséged színe																																		
+SCENARIO_OPTIONS 	Pályalista megmutatása/elrejtése																																		
+ADVANCED_OPTIONS 	További beállítások megmutatása/elrejtése																																		
+random map button	Játék véletlenszerûen létrehozott pályán																																		
+CHAT_DESC 	Váltás a leírás és a chat-ablak között																																		
+MAP_DIFFICULTY 	Ezzel változtathatod meg a játékos nehézséget																																		
+RATING 	A pálya általános nehézsége (a pálya és a játékos nehézség alapján)																																		
+MAP_SIZE 	"A pálya nehézsége Könnyû, Normál, Nehéz, "Tapasztalt" és Lehetetlen lehet."																																		
+VICTORY_CONDITION 	Az aktuális pálya nyerési feltétele																																		
+LOSS_CONDITION 	Az aktuális pálya vesztési feltétele																																		
+SMALL_FILTER 	Minden kis pálya megmutatása																																		
+MEDIUM_FILTER 	Minden közepes pálya megmutatása																																		
+LARGE_FILTER 	Minden nagy pálya megmutatása																																		
+EXTRALARGE_FILTER 	Minden extra nagy pálya megmutatása																																		
+ALL_FILTER 	Minden pálya megmutatása																																		
+SCENARIO_NAME_1 	SCENARIO_NAME_1 																																		
+SCENARIO_NAME_2 	SCENARIO_NAME_2 																																		
+SCENARIO_NAME_3 	SCENARIO_NAME_3 																																		
+SCENARIO_NAME_4 	SCENARIO_NAME_4 																																		
+SCENARIO_NAME_5 	SCENARIO_NAME_5 																																		
+SCENARIO_NAME_6 	SCENARIO_NAME_6 																																		
+SCENARIO_NAME_7 	SCENARIO_NAME_7 																																		
+SCENARIO_NAME_8 	SCENARIO_NAME_8 																																		
+SCENARIO_NAME_9 	SCENARIO_NAME_9 																																		
+SCENARIO_NAME_10 	SCENARIO_NAME_10 																																		
+SCENARIO_NAME_11 	SCENARIO_NAME_11 																																		
+SCENARIO_NAME_12 	SCENARIO_NAME_12 																																		
+SCENARIO_NAME_13 	SCENARIO_NAME_13 																																		
+SCENARIO_NAME_14 	SCENARIO_NAME_14 																																		
+SCENARIO_NAME_15 	SCENARIO_NAME_15 																																		
+SCENARIO_NAME_16 	SCENARIO_NAME_16 																																		
+SCENARIO_NAME_17 	SCENARIO_NAME_17 																																		
+SCENARIO_NAME_18 	SCENARIO_NAME_18 																																		
+ENTRY_SCENARIO_NAME_1 	ENTRY_SCENARIO_NAME_1 																																		
+ENTRY_SCENARIO_NAME_2 	ENTRY_SCENARIO_NAME_2 																																		
+ENTRY_SCENARIO_NAME_3 	ENTRY_SCENARIO_NAME_3 																																		
+ENTRY_SCENARIO_NAME_4 	ENTRY_SCENARIO_NAME_4 																																		
+ENTRY_SCENARIO_NAME_5 	ENTRY_SCENARIO_NAME_5 																																		
+ENTRY_SCENARIO_NAME_6 	ENTRY_SCENARIO_NAME_6 																																		
+ENTRY_SCENARIO_NAME_7 	ENTRY_SCENARIO_NAME_7 																																		
+ENTRY_SCENARIO_NAME_8 	ENTRY_SCENARIO_NAME_8 																																		
+ENTRY_SCENARIO_NAME_9 	ENTRY_SCENARIO_NAME_9 																																		
+ENTRY_SCENARIO_NAME_10 	ENTRY_SCENARIO_NAME_10 																																		
+ENTRY_SCENARIO_NAME_11 	ENTRY_SCENARIO_NAME_11 																																		
+ENTRY_SCENARIO_NAME_12 	ENTRY_SCENARIO_NAME_12 																																		
+ENTRY_SCENARIO_NAME_13 	ENTRY_SCENARIO_NAME_13 																																		
+ENTRY_SCENARIO_NAME_14 	ENTRY_SCENARIO_NAME_14 																																		
+ENTRY_SCENARIO_NAME_15 	ENTRY_SCENARIO_NAME_15 																																		
+ENTRY_SCENARIO_NAME_16 	ENTRY_SCENARIO_NAME_16 																																		
+ENTRY_SCENARIO_NAME_17 	ENTRY_SCENARIO_NAME_17 																																		
+ENTRY_SCENARIO_NAME_18 	ENTRY_SCENARIO_NAME_18 																																		
+TURN_DURATION 	Kör max. hossza																																		
+CHAT_TEXT 	Chat üzenetek																																		
+CHAT_ENTRY 	CHAT_ENTRY 																																		
+CHAT_PLUG 	CHAT_PLUG 																																		
+CHAT_PLAYER 	Játékosok																																		
+"CHAT_PLAYER_SLIDER,"  "CHAT_PLAYER_SLIDER,"																																			
+ROLLOVER 	ROLLOVER 																																		
+NEXT 	Aktuálisan kiválasztott játék elmentése																																		
+BEGIN 	Kiválasztott pálya elindítása																																		
+BACK 	BACK 																																		
+SSEXIT 	"Ablak bezárása
+(nem volt cselekvés)"																																		
+WHICHMAP 	"Aktuális pálya mérete
+(Kicsi, Közepes, Nagy, Extra Nagy)"																																		
+SORT_NUMBER 	Pályák sorrendje a játékosok száma alapján																																		
+SORT_SIZE 	Pályák sorrendje a méret alapján																																		
+k_sort_version	Pályák sorrendje verzió alapján																																		
+SORT_ALPHA 	Pályák sorrendje név alapján																																		
+SORT_VICTORY 	Pályák sorrendje nyerési feltétel alapján																																		
+SORT_LOSS 	Pályák sorrendje vesztési feltétel alapján																																		
+BRIEFING 	BRIEFING 																																		
+SSHERO 	SSHERO 																																		
+GOLDPIC 	GOLDPIC 																																		
+HUMAN_CPU1 	Ember vagy gép azt jelenti, hogy a szín ember és számítógép által is játszható. Csak gép azt jelenti, hogy a szín {csak} gép által játszható.																																		
+HUMAN_CPU2 	Ember vagy gép azt jelenti, hogy a szín ember és számítógép által is játszható. Csak gép azt jelenti, hogy a szín {csak} gép által játszható.																																		
+HUMAN_CPU3 	Ember vagy gép azt jelenti, hogy a szín ember és számítógép által is játszható. Csak gép azt jelenti, hogy a szín {csak} gép által játszható.																																		
+HUMAN_CPU4 	Ember vagy gép azt jelenti, hogy a szín ember és számítógép által is játszható. Csak gép azt jelenti, hogy a szín {csak} gép által játszható.																																		
+HUMAN_CPU5 	Ember vagy gép azt jelenti, hogy a szín ember és számítógép által is játszható. Csak gép azt jelenti, hogy a szín {csak} gép által játszható.																																		
+HUMAN_CPU6 	Ember vagy gép azt jelenti, hogy a szín ember és számítógép által is játszható. Csak gép azt jelenti, hogy a szín {csak} gép által játszható.																																		
+HUMAN_CPU7 	Ember vagy gép azt jelenti, hogy a szín ember és számítógép által is játszható. Csak gép azt jelenti, hogy a szín {csak} gép által játszható.																																		
+HUMAN_CPU8 	Ember vagy gép azt jelenti, hogy a szín ember és számítógép által is játszható. Csak gép azt jelenti, hogy a szín {csak} gép által játszható.																																		
+HANDICAP1 	A játékos akadályozása nyersanyagainak csökkentésével																																		
+HANDICAP2 	A játékos akadályozása nyersanyagainak csökkentésével																																		
+HANDICAP3 	A játékos akadályozása nyersanyagainak csökkentésével																																		
+HANDICAP4 	A játékos akadályozása nyersanyagainak csökkentésével																																		
+HANDICAP5 	A játékos akadályozása nyersanyagainak csökkentésével																																		
+HANDICAP6 	A játékos akadályozása nyersanyagainak csökkentésével																																		
+HANDICAP7 	A játékos akadályozása nyersanyagainak csökkentésével																																		
+HANDICAP8 	A játékos akadályozása nyersanyagainak csökkentésével																																		
+TOWN_LEFT1 	Kezdõ vártípus kiválasztása																																		
+TOWN_LEFT2 	Kezdõ vártípus kiválasztása																																		
+TOWN_LEFT3 	Kezdõ vártípus kiválasztása																																		
+TOWN_LEFT4 	Kezdõ vártípus kiválasztása																																		
+TOWN_LEFT5 	Kezdõ vártípus kiválasztása																																		
+TOWN_LEFT6 	Kezdõ vártípus kiválasztása																																		
+TOWN_LEFT7 	Kezdõ vártípus kiválasztása																																		
+TOWN_LEFT8 	Kezdõ vártípus kiválasztása																																		
+TOWN_RITE1 	Kezdõ vártípus kiválasztása																																		
+TOWN_RITE2 	Kezdõ vártípus kiválasztása																																		
+TOWN_RITE3 	Kezdõ vártípus kiválasztása																																		
+TOWN_RITE4 	Kezdõ vártípus kiválasztása																																		
+TOWN_RITE5 	Kezdõ vártípus kiválasztása																																		
+TOWN_RITE6 	Kezdõ vártípus kiválasztása																																		
+TOWN_RITE7 	Kezdõ vártípus kiválasztása																																		
+TOWN_RITE8 	Kezdõ vártípus kiválasztása																																		
+HERO_LEFT1 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_LEFT2 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_LEFT3 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_LEFT4 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_LEFT5 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_LEFT6 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_LEFT7 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_LEFT8 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_RITE1 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_RITE2 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_RITE3 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_RITE4 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_RITE5 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_RITE6 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_RITE7 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+HERO_RITE8 	Kezdõ hõs kiválasztása (vártípus alapján)																																		
+RES_LEFT1 	Kezdõ elõny kiválasztás																																		
+RES_LEFT2 	Kezdõ elõny kiválasztás																																		
+RES_LEFT3 	Kezdõ elõny kiválasztás																																		
+RES_LEFT4 	Kezdõ elõny kiválasztás																																		
+RES_LEFT5 	Kezdõ elõny kiválasztás																																		
+RES_LEFT6 	Kezdõ elõny kiválasztás																																		
+RES_LEFT7 	Kezdõ elõny kiválasztás																																		
+RES_LEFT8 	Kezdõ elõny kiválasztás																																		
+RES_RITE1 	Kezdõ elõny kiválasztás																																		
+RES_RITE2 	Kezdõ elõny kiválasztás																																		
+RES_RITE3 	Kezdõ elõny kiválasztás																																		
+RES_RITE4 	Kezdõ elõny kiválasztás																																		
+RES_RITE5 	Kezdõ elõny kiválasztás																																		
+RES_RITE6 	Kezdõ elõny kiválasztás																																		
+RES_RITE7 	Kezdõ elõny kiválasztás																																		
+RES_RITE8 	Kezdõ elõny kiválasztás																																		
+HERO_SETTING_1 	A szín játszásához kattints ide																																		
+HERO_SETTING_2 	A szín játszásához kattints ide																																		
+HERO_SETTING_3 	A szín játszásához kattints ide																																		
+HERO_SETTING_4 	A szín játszásához kattints ide																																		
+HERO_SETTING_5 	A szín játszásához kattints ide																																		
+HERO_SETTING_6 	A szín játszásához kattints ide																																		
+HERO_SETTING_7 	A szín játszásához kattints ide																																		
+HERO_SETTING_8 	A szín játszásához kattints ide																																		
+TOWN_SETTING_1 	TOWN_SETTING_1 																																		
+TOWN_SETTING_2 	TOWN_SETTING_2 																																		
+TOWN_SETTING_3 	TOWN_SETTING_3 																																		
+TOWN_SETTING_4 	TOWN_SETTING_4 																																		
+TOWN_SETTING_5 	TOWN_SETTING_5 																																		
+TOWN_SETTING_6 	TOWN_SETTING_6 																																		
+TOWN_SETTING_7 	TOWN_SETTING_7 																																		
+TOWN_SETTING_8 	TOWN_SETTING_8 																																		
+"const_create_map,"																																			
+"const_map_size_label,"	Pálya méretének kiválasztása																																		
+"const_small_map,"	Kis pálya készítése																																		
+"const_medium_map,"	Közepes pálya készítése																																		
+"const_large_map,"	Nagy pálya készítése																																		
+"const_huge_map,"	Óriási pálya készítése																																		
+"const_map_levels,"	Egy- vagy kétszintû pálya kiválasztása																																		
+"const_human_positions_label,"	Ember által játszott színek helyének kiválasztása																																		
+"const_1_human," 1 emberi játékos																																			
+"const_2_humans," 2 emberi játékos																																			
+"const_3_humans," 3 emberi játékos																																			
+"const_4_humans," 4 emberi játékos																																			
+"const_5_humans," 5 emberi játékos																																			
+"const_6_humans," 6 emberi játékos																																			
+"const_7_humans," 7 emberi játékos																																			
+"const_8_humans," 8 emberi játékos																																			
+"const_random_humans,"	 1-8 emberi játékos																																		
+"const_human_teams_label,"	Emberi csapatok kiválasztása																																		
+"const_no_human_teams,"	Nincsenek csapatok																																		
+"const_1_human_team,"	 1 emberi csapat létrehozása																																		
+"const_2_human_teams,"	 2 emberi csapat létrehozása																																		
+"const_3_human_teams,"	 3 emberi csapat létrehozása																																		
+"const_4_human_teams,"	 4 emberi csapat létrehozása																																		
+"const_5_human_teams,"	 5 emberi csapat létrehozása																																		
+"const_6_human_teams,"	 6 emberi csapat létrehozása																																		
+"const_7_human_teams,"	 7 emberi csapat létrehozása																																		
+"const_random_human_teams,"	Véletlen számú emberi csapat létrehozása																																		
+"const_computer_positions_label,"	Csak számítógép által játszható helyek száma																																		
+"const_no_computers,"	Nincsenek gépi játékosok																																		
+"const_1_computer,"	1 gépi játékos																																		
+"const_2_computers,"	2 gépi játékos																																		
+"const_3_computers,"	3 gépi játékos																																		
+"const_4_computers,"	4 gépi játékos																																		
+"const_5_computers,"	5 gépi játékos																																		
+"const_6_computers,"	6 gépi játékos																																		
+"const_7_computers,"	7 gépi játékos																																		
+"const_random_computers,"	Véletlen számú gépi játékos																																		
+"const_computer_teams_label,"	Gépi csapatok száma																																		
+"const_no_computer_teams,"	Nincsenek gépi csapatok																																		
+"const_1_computer_team,"	1 gépi csapat																																		
+"const_2_computer_teams,"	2 gépi csapat																																		
+"const_3_computer_teams,"	3 gépi csapat																																		
+"const_4_computer_teams,"	4 gépi csapat																																		
+"const_5_computer_teams,"	5 gépi csapat																																		
+"const_6_computer_teams,"	6 gépi csapat																																		
+"const_random_computer_teams,"	Véletlen számú gépi csapat																																		
+"const_water_label,"	A pályán lévõ víz mennyiségének kiválasztása																																		
+"const_no_water,"	Minimális vagy hiányzó víz																																		
+"const_normal_water,"	Egy vízzel körülvett kontinens készítése																																		
+"const_islands,"	Sok apró földdarab, sok vízzel körülvéve																																		
+"const_random_water,"	Véletlen mennyiségû víz																																		
+"const_monster_strength_label,"	Az õrzõ szörnyek viszonylagos erõssége																																		
+"const_weak_monsters,"	A normál szintnél gyengébb védelmezõk																																		
+"const_normal_monsters,"	Normál erõsségû védõk																																		
+"const_strong_monsters,"	Erõs õrök létrehozása																																		
+"const_random_monsters,"	Véletlenszerû erõsség																																		
+"const_show_saved_random_maps,"	Elõzõleg létrehozott véletlenpályák megjelenítése																																		
+SLIDER_CHATWINDOW 	Chat-szöveg görgetése																																		
+SLIDER_FILEMENU 	Mentett játékok listájának görgetése																																		
+SLIDER_DURATION 	Kör max. hosszának beállítása																																		
+"PLAYER_HANDICAP_HEADER_ID,"	"{Játékos neve / Hátrány típusa}
+
+Minden ember által játszható hely mellett zászló látható. Kattints a zászlóra a pozíció megváltoztatásához. A névmezõ belsejébe kattintva megváltoztathatod a játékos nevét.
+
+Minden játékos akadályozható a {hátrány} gombra kattintva. Három lehetõség van: Nincs hátrány, Enyhe hátrány, Súlyos hátrány. Az Enyhe és Súlyos hátrány csökkenti a játékos induló nyersanyagkészletét."																																		
+"TURN_DURATION_HEADER_ID,"	"{Játékos körének maximális hossza}
+
+A csúszkát használva beállíthatod a 'kényelmes' játékosok köreinek maximális idõtartamát. Egy számláló számol visszafelé, amikor a játékos nem csatázik. Csatában a számláló szünetel.
+
+Lehetséges idõtartamok: {1, 2, 4, 6, 8, 10, 15, 20, 25, }és {30} perc.
+
+{Korlátlan} az alapértelmezés."																																		
+"STARTING_TOWN_HEADER_ID,"	"{Induló vár}
+
+Minden játékosnak lehet (vagy nem lehet) az induláskor vára. Választási lehetõségek: Véletlen, Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold és Fortress.
+
+Ha nincs az indulásnál várad, ez a beállítás a hõsöd típusát adja meg."																																		
+"STARTING_TOWN_HEADER_W_CONFLUX_ID,"	"{Induló vár}
+
+Minden játékosnak lehet (vagy nem lehet) az induláskor vára. Választási lehetõségek: Véletlen, Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold, Fortress, és Conflux.
+
+Ha nincs az indulásnál várad, ez a beállítás a hõsöd típusát adja meg."																																		
+"STARTING_HERO_HEADER_ID,"	"{Induló hõs}
+
+Minden játékosnak lehet (vagy nem lehet) az induláskor hõse. Néha ez a beállítás le van zárva vagy hiányzik. Máskor viszont választhatsz a max. 16 különbözõ hõsbõl.
+
+A hõs nevének, kasztjának és specialitásának megtekintéséhez kattints a hõs képére a jobb gombbal."																																		
+"STARTING_BONUS_HEADER_ID,"	"{Induló elõny}
+
+Induló elõnyként választhatsz egy véletlenszerû varázstárgyat, 500-1000 aranyat, vagy a vár típusától függõ nyersanyagot"																																		
+																																			
+Többjátékos pálya kiválasztása	Többjátékos pálya kiválasztása																																		
+																																			
+Online szolgáltatás	"{Online szolgáltatás}
+
+Lehetõvé teszi a játékot egy online szolgáltatáson (Online Service) keresztül"																																		
+Helyi játék	"{Helyi játék}
+
+Lehetõvé teszi többjátékos mód játszását egyetlen számítógépen"																																		
+IPX	"{IPX}
+
+Lehetõvé teszi többjátékos mód játszását helyi hálózaton keresztül"																																		
+TCP/IP	"{TCP/IP}
+
+Lehetõvé teszi többjátékos mód játszását helyi hálózaton vagy az interneten keresztül"																																		
+Modem	"{Modem}
+
+Lehetõvé teszi két játékos modemen keresztüli csatlakozását"																																		
+Közvetlen kapcsolat	"{Közvetlen kapcsolat}
+
+Lehetõvé teszi két ember közvetlen, soros porton keresztüli csatlakozását"																																		
+Játék létrehozása	"{Játék létrehozása (host)}
+
+Új játék beállítása és létrehozása, amelyhez a többiek csatlakozni fognak."																																		
+Csatlakozás egy játékhoz	"{Csatlakozás játékhoz}
+
+Megjeleníti azoknak a játékoknak a listáját amelyekhez csatlakozhatunk"																																		
+Játék keresése	"{Játék keresése}
+
+Lehetõvé teszi egy megadott IP cím beírását, majd az ahhoz való csatlakozást."																																		
+GAMENAME 1	GAMENAME 1																																		
+GAMENAME 2	GAMENAME 2																																		
+GAMENAME 3	GAMENAME 3																																		
+GAMENAME 4	GAMENAME 4																																		
+GAMENAME 5	GAMENAME 5																																		
+GAMENAME 6	GAMENAME 6																																		
+GAMENAME 7	GAMENAME 7																																		
+GAMENAME 8	GAMENAME 8																																		
+GAMENAME 9	GAMENAME 9																																		
+GAMENAME 10	GAMENAME 10																																		
+GAMENAME 11	GAMENAME 11																																		
+GAMENAME 12	GAMENAME 12																																		
+Görgetés a hozzáférhetõ játékok között	Görgetés a hozzáférhetõ játékok között																																		
+																																			
+Mégse	Visszatérés az elõzõ menühöz																																		
+																																			
+Adventure Map Window																																			
+Világtérkép	"Ez a világ kicsinyített képe.  Bárhova kattintva az a pont lesz a kalandtérkép középpontja, húzva a doboz körvonalát pedig görgethetjük a térképet."																																		
+Állapotkijelzõ 	SELECTION WINDOW																																		
+Birodalmi Áttekintés	"{Birodalmi áttekintés}
+
+Megjeleníti a birodalmad városainak és 
+ hõseinek rövid össze-
+ foglalását."																																		
+Felszíni/Földalatti nézet	"{Felszíni/földalatti nézet}
+
+Vált a kalandtérkép szintjei között"																																		
+Kutatási Napló	"{Kutatási napló}
+
+Megjeleníti az aktuális keresések listáját"																																		
+Hõs elaltatása/felébresztése	"{Hõs elaltatása/felébresztése}
+
+Elaltatja az aktuális hõst, vagy felébreszti az alvó hõst. Az alvó hõsök kimaradnak a {Következõ}  {hõs} gomb megnyomásakor."																																		
+Hõs mozgatása	"{Hõs mozgatása}
+
+A hõs mozgatása a kijelölt úton"																																		
+Varázslás	"{Varázslás}
+
+Egy nem harci varázslat végrehajtása"																																		
+Kaland beállítások	"{Kaland opciók}
+
+Lehetõvé teszi az ásást a Grálért, a Grál-térkép, a világtérkép vagy a pálya céljának megtekintését. Többjátékos módban megtekinthetjük ellenfelünk elõzõ körét is.																																		
+Rendszerbeállítások	"{Rendszeropciók}
+
+Megnézheted és átállíthatod a játék beállításait"																																		
+Következõ hõs	"{Következõ hõs}
+
+Kiválasztja a következõ olyan hõst, akinek még van mozgáspontja. Az alvó hõsök kimaradnak."																																		
+Kör vége	"{Kör vége}
+
+Befejezi az aktuális kört"																																		
+Hõsök listájának görgetése	"{Hõsök listájának görgetése}
+
+Felfelé görget a hõsök között"																																		
+Hõsök listájának görgetése	"{Hõsök listájának görgetése}
+
+Lefelé görget a hõsök között"																																		
+Hõs képe 	"{Hõs képe}
+
+Kattints rá egyszer, hogy kiválaszd és a képernyõ közepére pozícionáld a hõst. Kattints mégegyszer, hogy belépj a Hõs Képernyõre."																																		
+Városok listájának görgetése	"{Városok listájának görgetése}
+
+Felfelé görget a hõsök között"																																		
+Városok listájának görgetése	"{Városok listájának görgetése}
+
+Lefelé görget a hõsök között"																																		
+Város képe	"{Város képe}
+
+Kattints rá egyszer, hogy kiválaszd és a képernyõ közepére pozícionáld a várost. Kattints még egyszer, hogy belépj a Város Képernyõre."																																		
+Arany	A kincstáradban lévõ arany mennyisége																																		
+Fa	Az összes rendelkezésre álló fád																																		
+Higany	Az összes rendelkezésre álló higanyod																																		
+Érc	Az összes rendelkezésre álló érced																																		
+Kén 	Az összes rendelkezésre álló kéned																																		
+Kristály	Az összes rendelkezésre álló kristályod																																		
+Drágakövek	Az összes rendelkezésre álló drágaköved																																		
+Dátum	"{Dátum}
+
+Aktuális Hónap, Hét és Nap"																																		
+ROLLOVER	ROLLOVER																																		
+																																			
+Rendszerbeállítások	rendszerbeállítások																																		
+Fõmenü 	"{Fõmenü}
+
+Elhagyod a játékot és kilépsz a fõmenübe."																																		
+Játék betöltése	"{Játéktöltés}
+
+Mentett játék betöltése"																																		
+Játék elmentése	"{Játékmentés}
+
+Elmenti az aktuális játékot"																																		
+Pálya újrakezdése	"{Pálya újrakezdése}
+
+Újrakezded az aktuális pályát"																																		
+Kilépés	"{Kilépés az Asztalra}
+
+Kilépés a HoMM III-ból"																																		
+Vissza	"{Visszatérés a játékhoz}
+
+Visszatérsz a Kalandtérképre"																																		
+"MUSIC_VOLUME_0_ID,"	Zene kikapcsolása																																		
+"MUSIC_VOLUME_1_ID,"	Zene hangerejének 1-re állítása																																		
+"MUSIC_VOLUME_2_ID,"	Zene hangerejének 2-re állítása																																		
+"MUSIC_VOLUME_3_ID,"	Zene hangerejének 3-re állítása																																		
+"MUSIC_VOLUME_4_ID,"	Zene hangerejének 4-re állítása																																		
+"MUSIC_VOLUME_5_ID,"	Zene hangerejének 5-re állítása																																		
+"MUSIC_VOLUME_6_ID,"	Zene hangerejének 6-re állítása																																		
+"MUSIC_VOLUME_7_ID,"	Zene hangerejének 7-re állítása																																		
+"MUSIC_VOLUME_8_ID,"	Zene hangerejének 8-re állítása																																		
+"MUSIC_VOLUME_9_ID,"	Zene hangerejének 9-re állítása																																		
+"EFFECTS_VOLUME_0_ID,"	Hangeffektek kikapcsolása																																		
+"EFFECTS_VOLUME_1_ID,"	Hangeffektek hangerejének 1-re állítása																																		
+"EFFECTS_VOLUME_2_ID,"	Hangeffektek hangerejének 2-re állítása																																		
+"EFFECTS_VOLUME_3_ID,"	Hangeffektek hangerejének 3-re állítása																																		
+"EFFECTS_VOLUME_4_ID,"	Hangeffektek hangerejének 4-re állítása																																		
+"EFFECTS_VOLUME_5_ID,"	Hangeffektek hangerejének 5-re állítása																																		
+"EFFECTS_VOLUME_6_ID,"	Hangeffektek hangerejének 6-re állítása																																		
+"EFFECTS_VOLUME_7_ID,"	Hangeffektek hangerejének 7-re állítása																																		
+"EFFECTS_VOLUME_8_ID,"	Hangeffektek hangerejének 8-re állítása																																		
+"EFFECTS_VOLUME_9_ID,"	Hangeffektek hangerejének 9-re állítása																																		
+"MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"																																		
+"MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"																																		
+"MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"																																		
+"HERO_SPEED_WALK_ID,"	"Hõs sebessége: járás
+(leglassabb)"																																		
+"HERO_SPEED_CANTER_ID,"	Hõs sebessége: könnyû vágta																																		
+"HERO_SPEED_GALLOP_ID,"	Hõs sebessége: galopp																																		
+"HERO_SPEED_JUMP_ID,"	"Hõs sebessége: ugrálás
+(nincs animáció - leggyorsabb)"																																		
+"AI_SPEED_CANTER_ID,"	"Hõs sebessége: könnyû vágta
+(leglassabb)"																																		
+"AI_SPEED_GALLOP_ID,"	Hõs sebessége: galopp																																		
+"AI_SPEED_JUMP_ID,"	"Hõs sebessége: ugrálás
+(nincs animáció - leggyorsabb)"																																		
+"AI_SPEED_NONE_ID,"	Ne mutassa az ellenség mozgását																																		
+"WINDOW_SCROLL_SLOW,"	Térkép-görgetés sebessége: lassú 																																		
+"WINDOW_SCROLL_MEDIUM,"	Térkép-görgetés sebessége: közepes																																		
+"WINDOW_SCROLL_FAST,"	Térkép-görgetés sebessége: gyors																																		
+"SHOW_PATH_ID,"	"{Útvonal mutatása}
+
+Bekapcsolva a játék megjeleníti a hõs útvonalát a hõs mozgatása nélkül is."																																		
+"MOVE_REMINDER_ID,"	"{Hõs-emlékeztetõ megjelenítése}
+
+Ha egy játékos bármely hõsének vannak még maradék mozgáspontjai meg kell erõsítenie a {Kör} {vége} parancsot."																																		
+"QUICK_COMBAT_ID,"	"{Gyors harc}
+
+Ezzel a beállítással a számítógép kezel minden csataszámítást, a játékos csak a csata eredményeit fogja látni."																																		
+"VIDEO_SUBTITLES_ID,"	"{Videó feliratozás}
+
+Ez a beállítás minden videót feliratozva jelenít meg."																																		
+VIDEO_QUALITY_LOW	"{Alacsony minõségû videók}
+
+Ez a beállítás lassabb gépeken ajánlott, amelyeknek problémái lehetnek a teljes képernyõn történõ videólejátszással."																																		
+VIDEO_QUALITY_HIGH	"{Jó minõségû videók}
+
+Gyorsabb gépek több adatot képesek kezelni, ezeken ezzel az opcióval a lehetõ legmagasabb minõségben nézhetõk a videók."																																		
+"TOWN_OUTLINES_ID,"	"{Városi körvonalak}
+
+A Város képernyõn minden elérhetõ épületet körvonalazva jelenít meg, ha a kurzor felette van."																																		
+"ANIMATE_SPELLBOOK_ID,"	"{Varázskönyv animálása}
+
+Megjeleníti a lapozás animációját a varázskönyvben."																																		
+																																			
+Kalandozó beállítások																																			
+Világtérkép	"{Világtérkép}
+
+A világ madártávlati képének megtekintése."																																		
+Puzzle	"{Puzzle megtekintése}
+
+Az elásott tárgy térképének megtekintése."																																		
+Pályainformáció	"{Pályainformáció megtekintése}
+
+Az aktuális pálya leírásának megtekintése"																																		
+Ásás	"{Ásás}
+
+A terület átkutatása az elásott Grál után."																																		
+Ellenség köre	"{Ellenség körének visszajátszása}
+
+Az elõzõ köröd óta történt események megtekintése."																																		
+ROLLOVER	ROLLOVER																																		
+Ok	"{OK}
+
+Visszatérés a Kalandtérképre"																																		
+																																			
+Harc 	Harc																																		
+Megadás	"{Megadás}
+
+Megadod magad az ellenségnek. A hõsödnek fizetnie kell, hogy elhagyhassa a csatateret, de egy Kocsmában azonnal újra felfogadhatóvá válik minden megmaradt csapatával és varázstárgyával együtt."																																		
+Megfutamodás	"{Megfutamodás}
+
+A hõsöd elmenekül a csatából, de egy Kocsmában azonnal újra felfogadhatóvá válik minden varázstárgyával együtt (de a csapatai nélkül)."																																		
+Harci beállítások	"{Harci beállítások}
+
+Megnézheted és átállíthatod az aktuális harci beállításokat."																																		
+Automatikus harc	"{Automatikus harc}
+
+Ezzel a beállítással a gép irányítja a te csapataidat is. Bárhová kattintva az irányítás visszakerül a te kezedbe."																																		
+	A csataszöveg ebben az ablakban jelenik meg																																		
+	Görgetés a csata közben megjelenített szövegen keresztül																																		
+Varázslás	"{Varázslás}
+
+Kinyitja a hõsöd varázskönyvét, így végezhetsz egy varázslatot."																																		
+Várakozás	"{Várakozás}
+
+Késlelteti az aktuális egység körét a többi csapat lépése utánra."																																		
+Védekezés	"{Védekezés}
+
+Növeli az aktuális egység Védekezési Értékét, ám ebben a körben az egység nem léphet.																																		
+Várakozási Szakasz	Várakozási Szakasz																																		
+Taktikai szakasz	"{Taktikai szakasz befejezése}
+
+Befejezõdik a Taktikai szakasz és elkezdõdik a harc."																																		
+																																			
+Harci beállítások	Harci beállítások																																		
+Vissza	"{Vissza a játékhoz}
+
+Kilépés a csataképernyõre"																																		
+Alapbeállítások	"{Alapbeállítás}
+
+Visszaállítja a harci beállítások alapértékét."																																		
+"MUSIC_VOLUME_0_ID,"	Zene kikapcsolása																																		
+"MUSIC_VOLUME_1_ID,"	Zene hangerejének 1-re állítása																																		
+"MUSIC_VOLUME_2_ID,"	Zene hangerejének 2-re állítása																																		
+"MUSIC_VOLUME_3_ID,"	Zene hangerejének 3-re állítása																																		
+"MUSIC_VOLUME_4_ID,"	Zene hangerejének 4-re állítása																																		
+"MUSIC_VOLUME_5_ID,"	Zene hangerejének 5-re állítása																																		
+"MUSIC_VOLUME_6_ID,"	Zene hangerejének 6-re állítása																																		
+"MUSIC_VOLUME_7_ID,"	Zene hangerejének 7-re állítása																																		
+"MUSIC_VOLUME_8_ID,"	Zene hangerejének 8-re állítása																																		
+"MUSIC_VOLUME_9_ID,"	Zene hangerejének 9-re állítása																																		
+"EFFECTS_VOLUME_0_ID,"	Hangeffektek kikapcsolása																																		
+"EFFECTS_VOLUME_1_ID,"	Hangeffektek hangerejének 1-re állítása																																		
+"EFFECTS_VOLUME_2_ID,"	Hangeffektek hangerejének 2-re állítása																																		
+"EFFECTS_VOLUME_3_ID,"	Hangeffektek hangerejének 3-re állítása																																		
+"EFFECTS_VOLUME_4_ID,"	Hangeffektek hangerejének 4-re állítása																																		
+"EFFECTS_VOLUME_5_ID,"	Hangeffektek hangerejének 5-re állítása																																		
+"EFFECTS_VOLUME_6_ID,"	Hangeffektek hangerejének 6-re állítása																																		
+"EFFECTS_VOLUME_7_ID,"	Hangeffektek hangerejének 7-re állítása																																		
+"EFFECTS_VOLUME_8_ID,"	Hangeffektek hangerejének 8-re állítása																																		
+"EFFECTS_VOLUME_9_ID,"	Hangeffektek hangerejének 9-re állítása																																		
+"MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"																																		
+"MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"																																		
+"MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"																																		
+"AUTO_CREATURES_ID,"	"{Lények}
+
+Automatikus harcban a gép irányítja az egységeidet"																																		
+"AUTO_SPELLS_ID,"	"{Varázslatok}
+
+Automatikus harcban a gép intézi a varázslatokat is"																																		
+"AUTO_CATAPULT_ID,"	"{Katapult}
+
+Ezzel a beállítással ostrom során, automatikus harcban a gép választja ki a Katapult célpontját, még akkor is, ha a hõsöd rendelkezik Ballisztika tudással."																																		
+"AUTO_BALLISTA_ID,"	"{Nyílvetõ}
+
+Ezzel a beállítással automatikus harcban a gép fogja kiválasztani a Nyílvetõ célpontját, még ha a hõsöd rendelkezik is a Tüzérség tudással."																																		
+"AUTO_FIRST_AID_TENT_ID,"	"{Elsõsegélysátor}
+
+Ezzel a beállítással automatikus harcban a gép fogja kiválasztani a gyógyítandó egységet, még akkor is, ha a hõsöd rendelkezik az Elsõsegély tudással."																																		
+"ANIMATION_SPEED_0_ID,"	Animáció sebessége: lassú																																		
+"ANIMATION_SPEED_1_ID,"	Animáció sebessége: közepes																																		
+"ANIMATION_SPEED_2_ID,"	Animáció sebessége: gyors																																		
+"CREATURE_INFO_STATS_ID,"	"{Minden statisztika}
+
+Egy egységen való jobbgombos kattintás az egység minden tulajdonságát megmutatja, beleértve a rajta lévõ varázslatokat is."																																		
+"CREATURE_INFO_SPELLS_ID,"	"{Csak varázslatok}
+
+A jobbgombos kattintás csak az adott egységre aktuálisan ható varázslatok listáját fogja megjeleníteni."																																		
+"VIEW_HEX_ID,"	"{Hexarács}
+
+Megjeleníti a hexarácsot a csatatéren."																																		
+"MOVEMENT_SHADOW_ID,"	"{Lépésárnyékolás}
+
+Az a terület, ahová az adott egység az aktuális körben eljuthat, sötétebb színnel jelenik meg."																																		
+"SHADOW_CURSOR_ID,"	"{Kurzorárnyékolás}
+
+Az egérkurzor alatt lévõ hexa árnyékolva jelenik meg."																																		
+"ANIMATE_SPELLBOOK_ID,"	"{Varázskönyv animálása}
+
+Megjeleníti a lapozás animációját a varázskönyvben."																																		
+																																			
+Egység megtekintése	Egység megtekintése																																		
+Név	Lény neve																																		
+Létszám	Az egység létszáma																																		
+Támadási Érték	Támadási Érték																																		
+Védekezési Érték	Védekezési Érték																																		
+töltények	A megmaradt töltények száma																																		
+Sebzés	Sebzés támadásonként																																		
+Életerõ	Életerõ																																		
+Megmaradt Életerõ	Megmaradt Életerõ																																		
+Sebesség	Sebesség																																		
+Hangulat	Hangulat																																		
+Szerencse	Szerencse																																		
+Aktív varázslatok	Az egységre ható varázslatok																																		
+Egység elbocsátása	"{Egység elbocsátása}
+
+Elbocsátja az egységet a seregbõl"																																		
+Egység fejlesztése	"{Egység fejlesztése}
+
+Fejleszti az egységet"																																		
+Ok	"{OK}
+
+Visszatérés az elõzõ ablakba"																																		
+																																			
+Varázskönyv	Varázskönyv																																		
+Elõzõ oldal	Lapozás az elõzõ oldalra																																		
+Következõ oldal	Lapozás a következõ oldalra																																		
+Kalandozó varázslatok	A Kalandtérképen használható varázslatokhoz lapozás																																		
+Harci varázslatok	Harcban használható varázslatokhoz lapozás																																		
+Levegõvarázslatok	Lapozás a Levegõ-alapú varázslatokhoz																																		
+Tûzvarázslatok	Lapozás a Tûz-alapú varázslatokhoz																																		
+Vízvarázslatok	Lapozás a Víz-alapú varázslatokhoz																																		
+Földvarázslatok	Lapozás a Föld-alapú varázslatokhoz																																		
+Minden varázslat	Az összes elérhetõ varázslat megjelenítése																																		
+Varázspontok	A hõs megmaradt Varázspontjai																																		
+Kilépés	A Varázskönyv becsukása																																		
+																																			
+CampaignBrief	CampaignBrief																																		
+																																			
+CAMPAIGN_NAME	CAMPAIGN_NAME																																		
+CAMPAIGN_DESCRIPTION	CAMPAIGN_DESCRIPTION																																		
+MAP_NAME	MAP_NAME																																		
+MAP_DESCRIPTION	MAP_DESCRIPTION																																		
+HERO_FACE	HERO_FACE																																		
+Másik hõs	Kattints ide a kezdõ hõsöd megváltoztatásához																																		
+Másik hõs	Kattints ide a kezdõ hõsöd megváltoztatásához																																		
+Varázstárgy bónusz	Varázstárggyal való kezdés kiválasztása																																		
+Arany bónusz	Extra arannyal való kezdés kiválasztása																																		
+Nyersanyag bónusz	Extra nyersanyaggal való kezdés kiválasztása																																		
+Újrakezd	"{Újrakezd}
+
+Az aktuális hadjárat újrakezdése"																																		
+Hadjárat filmje	"{Hadjárat animáció megtekintése}
+
+A hadjárathoz tartozó film megtekintése"																																		
+ALLY_FLAG1_ID	Ez a te színed																																		
+ALLY_FLAG2_ID	Ez egy szövetségesed színe																																		
+ALLY_FLAG3_ID	Ez egy szövetségesed színe																																		
+ALLY_FLAG4_ID	Ez egy szövetségesed színe																																		
+ALLY_FLAG5_ID	Ez egy szövetségesed színe																																		
+ALLY_FLAG6_ID	Ez egy szövetségesed színe																																		
+ALLY_FLAG7_ID	Ez egy szövetségesed színe																																		
+ALLY_FLAG8_ID	Ez egy szövetségesed színe																																		
+ENEMY_FLAG1_ID	Ez egy ellenséged színe																																		
+ENEMY_FLAG2_ID	Ez egy ellenséged színe																																		
+ENEMY_FLAG3_ID	Ez egy ellenséged színe																																		
+ENEMY_FLAG4_ID	Ez egy ellenséged színe																																		
+ENEMY_FLAG5_ID	Ez egy ellenséged színe																																		
+ENEMY_FLAG6_ID	Ez egy ellenséged színe																																		
+ENEMY_FLAG7_ID	Ez egy ellenséged színe																																		
+ENEMY_FLAG8_ID	Ez egy ellenséged színe																																		
+WHICHMAP_ID	A pálya mérete																																		
+MAP_AREA_1	MAP_AREA_1																																		
+MAP_AREA_2	MAP_AREA_2																																		
+MAP_AREA_3	MAP_AREA_3																																		
+MAP_AREA_4	MAP_AREA_4																																		
+MAP_AREA_5	MAP_AREA_5																																		
+MAP_AREA_6	MAP_AREA_6																																		
+MAP_AREA_7	MAP_AREA_7																																		
+MAP_AREA_8	MAP_AREA_8																																		
+MAP_AREA_9	MAP_AREA_9																																		
+MAP_AREA_10	MAP_AREA_10																																		
+MAP_AREA_11	MAP_AREA_11																																		
+MAP_AREA_12	MAP_AREA_12																																		
+MAP_AREA_13	MAP_AREA_13																																		
+MAP_AREA_14	MAP_AREA_14																																		
+MAP_AREA_15	MAP_AREA_15																																		
+MAP_AREA_16	MAP_AREA_16																																		
+MAP_AREA_17	MAP_AREA_17																																		
+MAP_AREA_18	MAP_AREA_18																																		
+MAP_AREA_19	MAP_AREA_19																																		
+MAP_AREA_20	MAP_AREA_20																																		
+MAP_AREA_21	MAP_AREA_21																																		
+MAP_AREA_22	MAP_AREA_22																																		
+MAP_AREA_23	MAP_AREA_23																																		
+MAP_AREA_24	MAP_AREA_24																																		
+MAP_AREA_25	MAP_AREA_25																																		
+MAP_AREA_26	MAP_AREA_26																																		
+MAP_AREA_27	MAP_AREA_27																																		
+MAP_AREA_28	MAP_AREA_28																																		
+MAP_AREA_29	MAP_AREA_29																																		
+MAP_AREA_30	MAP_AREA_30																																		
+MAP_AREA_31	MAP_AREA_31																																		
+MAP_AREA_32	MAP_AREA_32																																		
+																																			
+CampaignWindow	CampaignWindow																																		
+																																			
+Sokáig Éljen A Királynõ	Sokáig Éljen A Királynõ																																		
+Felszabadítás	Felszabadítás																																		
+A Háború Zsákmányai	A Háború Zsákmányai																																		
+Ének Apámról	Ének Apámról																																		
+Börtönök És Ördögök	Börtönök És Ördögök																																		
+Éljen A Király	Éljen A Király																																		
+Az Elégedetlenség Csírái	Az Elégedetlenség Csírái																																		
+A Végítélet Pengéje	A Végítélet Pengéje																																		
+Sárkányok Vére	Sárkányok Vére																																		
+Sárkány Ölés	Sárkány Ölés																																		
+Az Élet Ünnepe	Az Élet Ünnepe																																		
+Merész Akarat	Merész Akarat																																		
+Játék A Tûzzel	Játék A Tûzzel																																		
+Vagdalás És Aprítás	Vagdalás És Aprítás																																		
+Egy Barbár Születése	Egy Barbár Születése																																		
+Új Kezdet	Új Kezdet																																		
+Az Élet Varázsitala	Az Élet Varázsitala																																		
+A Nekromanták Felemelkedése	A Nekromanták Felemelkedése																																		
+Ördögi Szövetség	Ördögi Szövetség																																		
+Az Erõ Szelleme	Az Erõ Szelleme																																		
+																																			
+																																			
+ROLLOVER	ROLLOVER																																		
+																																			
+Vásárlás	Vásárlás																																		
+Maximum																																			
+Vásárlás																																			
+Mégse																																			
+																																			
+Többjátékos mód	Többjátékos mód																																		
+Kapcsoló	A név bekeapcsolása/kikapcsolása																																		
+Játékos neve	Írd be  a játékos nevét																																		
+OK																																			
+Vissza																																			
+Írd be a játék (session) nevét																																			
+írd be a jelszót																																			
+Játék (session) neve																																			
+Írd be az IP-címet																																			
+																																			
+Áldozati ablak	Áldozati ablak																																		
+Kilépés (semmi sem lesz feláldozva).	Az Oltár elhagyása. Az Oltáron lévõ tárgyak is visszakerülnek hozzád.																																		
+Hõsöd varázstárgyai																																			
+Minden hátizsákban lévõ varázstárgy Oltárra helyezése	A hõsöd hátizsákjában lévõ tárgyak Oltárra helyezése.																																		
+Minden varázstárgy Oltárra helyezése	"A hõsöd összes varázstárgyának Oltárra helyezése."																																		
+Harcosok feláldozása	Harcosok feláldozása - csak Gonosz és Semleges vártípusok hõsei számára.																																		
+Harcosok száma / TP																																			
+Kiválasztott harcosok																																			
+Harcosok száma / TP																																			
+Feláldozandó harcosok száma																																			
+Áldozandó harcosok száma																																			
+Maximális számú harcos feláldozása	A maximális számú harcost az Oltárra helyezi.																																		
+Összes harcos feláldozása	Egy kivételével minden harcost az Oltárra helyez.																																		
+Varázstárgyak feláldozása	Váltás varázstárgyak áldozásához - csak Jó és Semleges beállítottságú várak hõseinek.																																		
+Harcosok száma / TP																																			
+Varázstárgy Oltárra helyezése																																			
+A varázstárgy tapasztalati értéke																																			
+Az Oltáron lévõ varázstárgyak feláldozása	"Az oltáron lévõ dolgok feláldozása Tapasztalati Pontokért."																																		
+Az Oltáron lévõ harcosok feláldozása	"Az oltáron lévõ dolgok feláldozása Tapasztalati Pontokért."																																		
+	Keresés a hátizsákban																																		
+	Keresés a hátizsákban																																		
+																																			
+Csontváz-átalakító	Csontváz-átalakító																																		
+Minden harcost az Átalakítóba helyez	Minden harcost az Átalakítóba helyez																																		
+Az Átalakítóban lévõ harcosok élõhalottá alakítása	Az Átalakítóban lévõ harcosok élõhalottá alakítása																																		
+Kilépés az Átalakítóból	Az átalakító elhagyása.  Több egység nem válik élõhalottá																																		
+																																			
+Kereskedelmi Ablak	Kereskedelmi Ablak																																		
+Csere																																			
+Maximum																																			
+Nyersanyagok átadása másik játékosnak																																			
+Varázstárgyak vásárlása																																			
+Harcosok eladása																																			
+Kilépés																																			
+																																			
+Nyersanyag-átadás Ablak	Nyersanyag-átadás Ablak																																		
+Átadás																																			
+Maximum																																			
+Nyersanyagok vásárlása																																			
+Varázstárgyak vásárlása																																			
+Kilépés																																			
+																																			
+Varázstárgy-vásárlás Ablak	Varázstárgy-vásárlás Ablak																																		
+Csere																																			
+Nyersanyagok vásárlása																																			
+Nyersanyagok átadása másik játékosnak																																			
+Varázstárgyak eladása																																			
+Kilépés																																			
+																																			
+Varázstárgy-eladás Ablak	Varázstárgy-eladás Ablak																																		
+Csere																																			
+Nyersanyagok vásárlása																																			
+Nyersanyagok átadása másik játékosnak																																			
+Varázstárgyak vásárlása																																			
+Kilépés																																			
+																																			
+Harcos-eladás Ablak	Harcos-eladás Ablak																																		
+Csere																																			
+Maximum																																			
+Nyersanyagok vásárlása																																			
+Nyersanyagok átadása másik játékosnak																																			
+Kilépés																																			
+																																			
+Egyetem Ablak	Egyetem Ablak																																		
+Mégse	Visszatérés a tudás kiválasztásához																																		
+Az Egyetem elhagyása	Az Egyetem elhagyása																																		
+	%s %s megtanulása %d aranyért.																																		
+Not used...  filthy bug.																																			
+Insert all data before this line. Do not alter or delete this line.																																			
+																																			
+																																			
+																																			
+																																			

@@ -1,0 +1,159 @@
+Bónusz	Bónusz	
+(rövid)	(hosszú)	Jobb klikk a szövegre
+Íjászat	Másodlagos képzettség bónusz: Íjászat	Az Íjász képzetség szintenként 5%-kal növekszik .
+Íjászok	Egység bónusz: Íjászok	A második szint után szintenként növeli az Íjászok, és a számszeríjászok támadását és védelmét .
+Griffek	Egység bónusz: Griffek	A harmadik szint után szintenként növeli a griffek és a királygriffek támadását és védelmét.
+Navigáció	Másodlagos képzettség bónusz: Navigáció	A navigációs képzettség szintenként 5%-kal növekszik.
+Vagyon	Másodlagos képzettség bónusz: Vagyon	A vagyon képzettség szintenként 5%-kal növekszik.
+Kardforgató	Egység bónusz: Kardforgató	A 4.szint után szintenként növeli a Kardforgatók és a Keresztesvitézek Támadását és Védelmét.
+Nyílvetõ	Tüzérségi bónusz: Nyílvetõ	A 4. szint után szintenként növeli a Nyílvetõ Támadását és Védelmét.
+Lovag	Egység bónusz: Lovagok	6.szint után szintenként növeli a Lovagok és Bajnokok Támadását és Védelmét.
+Elsõsegély	Másodlagos képzettség bónusz: Elsõsegély	Szintenként 5%-kal növeli az Elsõsegély képzettséget.
+Áldás	Varázslat bónusz: Áldás	"Az Áldás varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A bónusz nagyobb, gyengébb lények esetén)."
+Gyengítés	Varázslat bónusz: Gyengítés	"A Gyengeség varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Fagyasztó kör	Varázslat bónusz: Fagyasztó kör	"A Fagyasztó kör varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Szerzetes	Egység bónusz: Szerzetes	5. szint után szintenként növeli a Szerzetesek és a Zelóták Támadását és Védelmét.
+Sasszem	Másodlagos képzettség bónusz: Sasszem	Szintenként 5%-kal növeli a Sasszem képzettséget.
+Imádság	Varázslat bónusz: Imádság	"Az imádság varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
++350 Arany	+350 Arany naponta	Naponta 350 arannyal gyarapítja a királyság vagyonát.
+Páncélzat	Másodlagos képzettség bónusz: Páncélzat	Szintenként 5%-kal növeli a Páncélzat képzettséget.
+Törpök	Egység bónusz: Törpök	A 2. szint után szintenként növeli a Törpök és a Harci Törpök Támadását és Védelmét.
++350 Arany	+350 Arany naponta	Naponta 350 arannyal gyarapítja a királyság vagyonát.
+Entek	Egység bónusz: Entek	Az 5. szint után szintenként növeli az Ent Fapásztorok és az Ent Harcosok Támadását és Védelmét.
+Ellenállás	Másodlagos képzettség bónusz: Ellenállás	Szintenként 5%-kal növeli az Ellenállás képzettséget.
+Tündék	Egység bónusz: Tündék	A 3. szint után szintenként növeli az Erdei Tündék és a Nemes tündék Támadását és Védelmét.
+Unikornisok	Egység bónusz: Unikornisok	A 6. szint után szintenként növeli az Unikornisok és a Harci Unikornisok Támadását és Védelmét.
+Logisztika	Másodlagos képzettség bónusz: Logisztika	Szintenként 5%-kal növeli a Logisztikai képzettséget.
+Pusztítás	Varázslat bónusz: Pusztítás	"A Pusztítás varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Gyógyítás	Varázslat bónusz: Gyógyítás	"A Gyógyítás varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Intelligencia	Másodlagos képzettség bónusz: Intelligencia	Szintenként 5%-kal növeli az Intelligencia képzettséget.
+Elsõsegély	Másodlagos képzettség bónusz: Elsõsegély	Szintenként 5%-kal növeli az Elsõsegély képzettséget.
+Sasszem	Másodlagos képzettség bónusz: Sasszem	Szintenként 5%-kal növeli a Sasszem képzettséget.
+Szerencse	Varázslat bónusz: Szerencse	"A Szerencse varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Jégcsapás	Varázslat bónusz: Jégcsapás	"A Jégcsapás varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Pegazusok	Egység Bónusz: Pegazusok	A 4. szint után szintenként növeli a Pegazusok és az EzüstPegazusok Támadását és Védelmét.
+Vízköpõk	Egység Bónusz: Vízköpõk	A 2.szint után szintenként növeli a Kõ és Obszidián Vízköpõk Támadását, és Védelmét.
+Dzsinnek	Egység Bónusz: Dzsinnek	Az 5. szint után szintenként növeli a Dzsinnek és a MesterDzsinnek Támadását, és Védelmét.
+Gólemek	Egység Bónusz: Gólemek	A 3. szint után szintenként növeli a Kõ és VasGólemek Támadását, és Védelmét.
+Páncélzat	Másodlagos képzettség bónusz: Páncélzat	Szintenként 5%-kal növeli a Páncélzat képzettséget.
+Nyílvetõ	Tüzérségi bónusz: Nyílvetõ	A 4. szint után szintenként növeli a Nyílvetõ Támadását és Védelmét.
+Nagák	Egység Bónusz: Nagák	A 6. szint után szintenként növeli a Nagák és a NagaKirályok Támadását, és Védelmét .
++1 Higany	+1 Higany naponta.	Naponta 1 Higannyal gyarapítja  a királyság vagyonát.
+Dzsinnek	Egység Bónusz: Dzsinnek	Az 5. szint után szintenként növeli a Dzsinnek és MesterDzsinnek Támadását, és Védelmét.
+Hipnózis	Varázslat bónusz: Hipnózis	"A Hipnózis varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Miszticizmus	Másodlagos képzettség bónusz: Miszticizmus	Szintenként 5%-kal növeli a Miszticizmus képzettséget.
+Sasszem	Másodlagos képzettség bónusz: Sasszem	Szintenként 5%-kal növeli a Sasszem képzettséget.
+Szerencse	Varázslat bónusz: Szerencse	"A Szerencse varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Mágus	Egység Bónusz: Mágus	A 4. szint után szintenként növeli a Mágusok és az ÕsMágusok Támadását, és Védelmét.
+Láncvillám	Varázslat bónusz: Láncvillám	"A Láncvillám varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Gyorsítás	Varázslat bónusz: Gyorsítás	"A Gyorsítás varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
++350 Arany	+350 Arany naponta	Naponta 350 arannyal gyarapítja a királyság vagyonát.
+Pokolkutyák	Egységbónusz: Pokolkutyák	A 3.szint után szintenként növeli a Pokolkutyák és Kerberoszok Támadását és Védelmét.
+Efreetek	Egységbónusz: Efreetek	A 6. szint után szintenként növeli az Efreetek és EfreetSzultánok Támadását és Védelmét.
+Démonok	Egységbónusz: Démonok	A 4.szint után szintenként növeli a Démonok és a SzarvasDémonok Támadását és Védelmét.
+Ördögfióka	EgységBónusz: Ördögfióka	Az 1. szint után szintenként növeli az Ördögfiókák és Kísérõk Támadását és Védelmét.
++350 Arany	+350 Arany naponta	Naponta 350 arannyal gyarapítja a királyság vagyonát.
+Gógok	EgységBónusz: Gógok	A 2. szint után szintenként növeli a Gógok és Magógok Támadását és Védelmét.
+Nyílvetõ	Tüzérségi bónusz: Nyílvetõ	A 4. szint után szintenként növeli a Nyílvetõ Támadását és Védelmét.
+Aknaszörnyek	EgységBónusz: Aknaszörnyek	Az 5. szint után szintenként növeli az Aknaszörnyek, és az Aknaurak Támadását és Védelmét.
+Intelligencia	Másodlagos képzettség bónusz: Intelligencia	Szintenként 5%-kal növeli az Intelligencia képzettséget.
+Pokoltûz	Varázslat bónusz: Pokoltûz	"A Pokoltûz varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Miszticizmus	Másodlagos képzettség bónusz: Miszticizmus	Szintenként 5%-kal növeli a Miszticizmus képzettséget.
+Gyengítés	Varázslat bónusz: Gyengítés	"A Gyengítés varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
++1 Kén	+1 Kén Naponta.	Naponta 1 Kénel növeli a királyi vagyont.
+Vérszomj	Varázslat bónusz: Vérszomj	"A Vérszomj varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Varázslás	Másodlagos képzettség bónusz: Varázslás	Szintenkét 5%-kal növeli a Varázslás képzettséget.
+Tûzgolyó	Varázslat bónusz: Tûzgolyó	"A Tûzgolyó varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Feltámasztott	EgységBónusz: Feltámasztott	A 2.szint után szintenként növeli a Feltámasztottak és a Zombik Támadását és Védelmét.
+Vámpírok	Egységbónusz: Vámpírok	A 4. szint után szintenként növeli a Vámpírok és a VámpirUrak Támadását és Védelmét.
+Lichek	EgységBónusz: Lichek	Az 5. szint után szintenként növeli a Licsek és az ErõLichek Támadását és Védelmét.
+Lelkek	EgységBónusz: Lelkek	A 3. szint után szintenként növeli a Lelkek és a Kísértetek Támadását és Védelmét.
+Fekete Lovagok	EgységBónusz: Fekete Lovagok	a 6. szint után szintenként növeli a Fekete Lovagok és a Halál Lovagok Támadását és Védelmét.
+Nekromanta	Másodlagos képzettség bónusz: Nekromanta	Szintenként 5%-kal növeli a Nekromanta képzettséget.
++350 Arany	+350 Arany naponta	Naponta 350 arannyal gyarapítja a királyság vagyonát.
+Csontvázak	EgységBónusz: Csontvázak	Az 1. szint után szintenként növeli a Csontvázak és a CsontvázHarcosok Támadását és Védelmét.
+Halál Fodrok 	Varázslat bónusz: Halál Fodrok	"A Halál Fodrok varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Meteor Zápor	Varázslat bónusz: Meteor Zápor	"A Meteor Zápor varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Varázslás	Másodlagos képzettség bónusz: Varázslás	Szintenkét 5%-kal növeli a Varázslás képzettséget.
+Sasszem	Másodlagos képzettség bónusz: Sasszem	Szintenként 5%-kal növeli a Sasszem képzettséget.
+Halott Élesztés	Varázslat bónusz: Halott Élesztés	"A Halott Élesztés varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Kõbõr	Varázslat bónusz: Kõbõr	"A Kõbõr varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Nekromanta	Másodlagos képzettség bónusz: Nekromanta	Szintenként 5%-kal növeli a Nekromanta képzettséget.
++350 Arany	+350 Arany naponta	Naponta 350 arannyal gyarapítja a királyság vagyonát.
+Hárpiák	EgységBónusz: Hárpiák	A 2. szint után szintenként növeli a Hárpiák és BoszorkányHárpiák Támadását és Védelmét.
+Nyílvetõ	Tüzérségi bónusz: Nyílvetõ	A 4. szint után szintenként növeli a Nyílvetõ Támadását és Védelmét.
+Minotaurusz	EgységBónusz: Minotaurusz	Az 5. szint után szintenként növeli a Minotauruszok és MinotauruszKirályok Támadását és Védelmét.
+Szemlélõk	EgységBónusz: Szemlélõk	A 2. szint után szintenként növeli a Szemlélõk és SátánSzemek Támadását és Védelmét.
++350 Arany	+350 Arany naponta	Naponta 350 arannyal gyarapítja a királyság vagyonát.
+Logisztika	Másodlagos képzettség bónusz: Logisztika	Szintenként 5%-kal növeli a Logisztikai képzettséget.
+Mantikorok	EgységBónusz: Mantikorok	A 6. szint után szintenként növeli a Mantikorok és Skorpiók Támadását és Védelmét.
+Barlanglakók	EgységBónusz: Barlanglakók	Az 1. szint után szintenként növeli a Barlanglakók és a Pokoli Barlanglakók Támadását és Védelmét.
+Feltámasztás	Varázslat bónusz: Feltámasztás	"A Feltámasztás varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Miszticizmus	Másodlagos képzettség bónusz: Miszticizmus	Szintenként 5%-kal növeli a Miszticizmus képzettséget.
+Varázslás	Másodlagos képzettség bónusz: Varázslás	Szintenkét 5%-kal növeli a Varázslás képzettséget.
+Feltámasztás	Varázslat bónusz: Feltámasztás	"A Feltámasztás varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Sasszem	Másodlagos képzettség bónusz: Sasszem	Szintenként 5%-kal növeli a Sasszem képzettséget.
+Meteor Zápor	Varázslat bónusz: Meteor Zápor	"A Meteor Zápor varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
++1 Kristály	+1 Kristály naponta.	Naponta 1 kristállyal növeli a királyság vagyonát.
+Kõbõr	Varázslat bónusz: Kõbõr	"A Kõbõr varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Küklopszok	EgységBónusz: Küklopszok	A 6. szint után szintenként növeli a Küklopszok és a Küklopsz Urak Támadását és Védelmét.
+Nyílvetõ	Tüzérségi bónusz: Nyílvetõ	A 4. szint után szintenként növeli a Nyílvetõ Támadását és Védelmét.
+Orkok	EgységBónusz: Orkok	A 3. szint után szintenként növeli az Orkok és FõOrkok Támadását és Védelmét.
+Keselyük	EgységBónusz: Keselyük	Az 5. szint után szintenként növeli a Keselyük és Tûzmadarak Támadását és védelmét.
+Goblinok	EgységBónusz: Goblinok	Az 1.szint után szintenként növeli a Goblinok és Hobgoblinok Támadását és Védelmét.
+Ogrék	Egységbónusz: Ogrék	A 4. szint után szintenként növeli az Ogrék és Ogre Varázslók Támadását és Védelmét.
+Támadás	Másodlagos képzettség bónusz: Támadás	Szintenként 5%-kal növeli a Támadás képzettséget.
+Farkaslovasok	EgységBónusz: Farkaslovasok	A 2. szint után szintenként növeli a Farkaslovasok Támadását és Védelmét.
+Varázslás	Másodlagos képzettség bónusz: Varázslás	Szintenkét 5%-kal növeli a Varázslás képzettséget.
+Ogrék	Egységbónusz: Ogrék	A 4. szint után szintenként növeli az Ogrék és Ogre Varázslók Támadását és Védelmét.
+Logisztika	Másodlagos képzettség bónusz: Logisztika	Szintenként 5%-kal növeli a Logisztikai képzettséget.
+Gyorsítás	Varázslat bónusz: Gyorsítás	"A Gyorsítás varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Precízió	Varázslat bónusz: Precízió	"A Precízió varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Támadás	Másodlagos képzettség bónusz: Támadás	Szintenként 5%-kal növeli a Támadás képzettséget.
+Sasszem	Másodlagos képzettség bónusz: Sasszem	Szintenként 5%-kal növeli a Sasszem képzettséget.
++1 Drágakõ	+1 Drágakõ naponta.	Naponta 1 Drágakõvel gyarapítja a királyság vagyonát.
+Baziliszkuszok	EgységBónusz: Baziliszkuszok	A 4. szint után szintenként növeli a Baziliszkuszok és a Nagy Baziliszkuszok Támadását és Védelmét.
+Gnollok	EgységBónusz: Gnollok	Az 1. szint után szintenként növeli a Gnollok és a Fosztogató Gnollok Támadását és Védelmét.
+Gyíkember	EgységBónusz: Gyíkember	A 2. szint után szintenként növeli a Gyíkemberek és a Gyíkharcosok Támadását és Védelmét.
+Páncélzat	Másodlagos képzettség bónusz: Páncélzat	Szintenként 5%-kal növeli a Páncélzat képzettséget.
+Gorgonok	EgységBónusz: Gorgonok	Az 5. szint után szintenként növeli a Gorgonok és a Hatalmas Gorgonok Támadását és Védelmét.
+Kígyólegyek	EgységBónusz: Kígyólegyek	A 3. szint után szintenként növeli a Kígyólegyek és Sárkánylegyek Támadását és Védelmét.
+Nyílvetõ	Tüzérségi bónusz: Nyílvetõ	A 4. szint után szintenként növeli a Nyílvetõ Támadását és Védelmét.
+Wivernek	EgységBónusz: Wivernek	A 6. szint után szintenként növeli a Wivernek és Wivern Fejedelmek Támadását és Védelmét.
+Gyengítés	Varázslat bónusz: Gyengítés	"A Gyengítés varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Miszticizmus	Másodlagos képzettség bónusz: Miszticizmus	Szintenként 5%-kal növeli a Miszticizmus képzettséget.
+Navigáció	Másodlagos képzettség bónusz: Navigáció	Szintenként 5%-kal növeli a Navigáció képzettséget.
+Elsõsegély	Másodlagos képzettség bónusz: Elsõsegély	Szintenként 5%-kal növeli az Elsõsegély képzettséget.
+Kõbõr	Varázslat bónusz: Kõbõr	"A Kõbõr varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Varázslás	Másodlagos képzettség bónusz: Varázslás	Szintenkét 5%-kal növeli a Varázslás képzettséget.
+Intelligencia	Másodlagos képzettség bónusz: Intelligencia	Szintenként 5%-kal növeli az Intelligencia képzettséget.
+Sasszem	Másodlagos képzettség bónusz: Sasszem	Szintenként 5%-kal növeli a Sasszem képzettséget.
+Lélekelementál	EgységBónusz: Lélekelementál	A Lélek/Mágia Elementálok Támadása és Védekezése +3-al növekszik.
+Föld Elementál	EgységBónusz: Föld Elementál	"A Föld/Láva Elementálok a következo módosítókat kapják +2 Támadás, +1 Védelem, +5 Sebzés."
+Tûz Elementál	Egység Bónusz: Tûz Elementál	"A Tûz/Energia Elementálok a következo módosítókat kapják +1 Támadás, +2 Védelem, +2 Sebzés."
+Víz Elementál	Egység Bónusz: Víz Elementál	A Víz/Jég Elementál Támadása +2-vel növekszik.
+Lélekelementál	EgységBónusz: Lélekelementál	A Lélek/Mágia Elementálok Támadása és Védekezése +2-vel növekszik.
+Föld Elementál	EgységBónusz: Föld Elementál	"A Föld/Láva Elementálok a következo módosítókat kapják +2 Támadás, +1 Védelem, +5 Sebzés."
+Tûz Elementál	Egység Bónusz: Tûz Elementál	"A Tûz/Energia Elementálok a következo módosítókat kapják +1 Támadás, +2 Védelem, +2 Sebzés."
+Víz Elementál	Egység Bónusz: Víz Elementál	A Víz/Jég Elementál Támadása +2-vel növekszik.
+Tûz Pajzs	Varázslat bónusz: Tûz Pajzs 	A Tûz Pajzs Sebzését megkétszerezi.
+Gyorsítás	Varázslat bónusz: Gyorsítás	"A Gyorsítás varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Varázsnyíl	Varázslat bónusz: Varázsnyíl	"50%-kal növeli a varázslat sebzését."
+Kõbõr	Varázslat bónusz: Kõbõr	"+3-al növekszik a varázslat ereje."
+Vérszomj	Varázslat bónusz: Vérszomj	"A Vérszomj varázslat megnövelt hatóerõvel jön létre, ami a karakter szintjétõl és a célpont lények szintjétõl függ (A hatás nagyobb, gyengébb lények esetén)."
+Gyengítõ Sugár	Varázslat bónusz: Gyengítõ Sugár	"A varázslat ereje +2-vel növekszik"
++350 Arany	+350 Arany naponta	Naponta 350 arannyal gyarapítja a királyság vagyonát.
++350 Arany	+350 Arany naponta	Naponta 350 arannyal gyarapítja a királyság vagyonát.
+Gyorsaság	Egység Bónusz: Gyorsaság	Minden lény gyorsasága 2-vel növekszik.
+Tûz Mágia	Másodlagos képzettség bónusz: Felsõfokú Tûz Mágia	Felsõfokú Tûz Mágiával indul.
+Kardforgató	Egység Bónusz: Kardforgató	A 4.szint után szintenként növekszik a Kardforgató és a Keresztes Támadása és Védelme.
+Bûvölõ	Egység Bónusz: Bûvölõ	Bûvölõvé tudja változtatni a Szerzeteseket, Zelótákat, Mágusokat és ÕsMágusokat.
+MesterLövész	Egység Bónusz: MesterLövész	MesterLövésszé tudja változtatni az Íjászokat, Számszeríjászokat, ErdõTündéket és NemesTündéket.
+Behemótok	Egység Bónusz: Behemótok	"A Behemótok és ÕsBehemótok a következõ módosításokat kapják Támadás/Védelem +5 Sebzés +10."
+Fekete Lovagok	Egység Bónusz: Fekete Lovagok	"A Fekete Lovagok és Halállovagok a következõ módosításokat kapják Támadás/Védelem +5 Sebzés +10."
+Sárkányok	Egység Bónusz: Sárkányok	"A Sárkányok Támadása és Védelme +5-el növekszik."
+Kardforgató	Egység Bónusz: Kardforgató	A 4.szint után szintenként növekszik a Kardforgató és a Keresztes Támadása és Védelme.
+Sárkányok	Egység Bónusz: Sárkányok	"Sárkányok Támadása és Védelme +5-el növekszik."
+Ogrék	Egység Bónusz: Ogrék	A 4. szint után szintenként növeli az Ogrék és Ogre Mágusok Támadását és Védelmét.
+Ördög	Egység Bónusz: Ördög	"Az Ördögök és Sátánok a következõ módosításokat kapják: Támadás +4, Védelem +2 és Gyorsaság +1."
+		 

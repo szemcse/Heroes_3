@@ -1,0 +1,22 @@
+===== Térkép neve =====
+Biztos utazás
+
+===== Térkép leírása =====
+A gyõzelemhez Nimbusnak, a nekromantának el kell érnie Fellegvárat az Államférfi Kitüntetésével együtt. Nimbust és 7 legerõsebb hõsödet magaddal viheted majd a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Nimbus, a nekromanta bizonyítani tudja, hogy ki volt Gryphonheart király gyilkosa. Sértetlenül el kell érnie az erõdöt, különben sosem tudjuk meg az igazat. Biztosítsd az útját és juttasd el a kastélyba!
+
+===== Tárgyak =====
+
+(5, 31, 0) ***Castle***
+Név:
+Fellegvár
+
+===== Fájl vége =====

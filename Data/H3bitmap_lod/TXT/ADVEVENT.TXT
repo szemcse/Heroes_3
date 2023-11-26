@@ -1,0 +1,423 @@
+"Belépsz egy arénába, ahol vérszomjas oroszlánokkal nézel szembe.  Könnyedén levered õket, a közönség örömére.  A gladiátorképzõ elámult a képességeidtõl, ezért megtanít neked egy általad választott képzettséget."
+"Az Aréna védõi megakadályozzák, hogy belépj.  ""Már egyszer jártál itt.  Távozz innen!"""
+"Nem veheted fel ezt a varázstárgyat, mert már nem tudod hova rakni!"
+"{Varázstárgy}
+
+Megtaláltad az öreg remete házát.  A remete elmondja, hogy  az elsõ, aki betér hozzá megkapja tõle a(z) %s varázstárgyat."
+"{Varázstárgy}
+
+Egy veterán katonával találkoztál.  A katona elmondja hogy az elsõ igaz vezetõnek, akivel találkozik, nekiadja a(z) %s varázstárgyat."
+"{Varázstárgy}
+
+Egy kobold neked adná a(z) %s varázstárgyat, mindössze 2000 aranyért.  Elfogadod az ajánlatát?"
+"{Varázstárgy}
+
+Egy kobold neked adná a(z) %s varázstárgyat 2500 aranyért és 3 %s-ért.  Elfogadod az ajánlatát?"
+"{Varázstárgy}
+
+Egy kobold neked adná a(z) %s varázstárgyat 3000 aranyért és 5 %s-ért.  Elfogadod az ajánlatát?"
+"Gyõzelem, elnyerted méltó jutalmadat, a(z) %s varázstárgyat."
+"{Varázstárgy}
+
+Ráleltél egy õsi varázstárgyra.  Ahogy nyúlsz érte, egy csapat Kerberosz a bokrok közül rád ront, hogy megakadályozza a varázstárgy elvételét."
+"{Varázstárgy}
+
+Ahogy kiértél a tisztásra, rálelsz az õsi varázstárgyra.  Balszerencsédre ez a közeli %s védelmében áll.  Harcolsz az õrséggel a varázstárgyért?"
+"Megfontolásból úgy döntesz, hogy a mai napon inkább nem keveredsz csatába."
+"Megpróbálod kifizetni a koboldot, de rájössz, hogy nincs elég anyagi fedezeted.  A kobold sarkon fordul és távozik tõled."
+"Mivel figyelembe se vetted a kobold nagylelkû ajánlatát, az sarkon fordult és távozott tõled."
+Biztos vagy benne, hogy ki akarod nyitni a dobozt?
+"Beleskelõdsz.  Megdöbbenve látod, hogy a doboz üres volt."
+Jobban is figyelhettél volna, mert megtámadtak!
+"Egy õr odalép hozzád, és ezt mondja: ""Üdvözöllek.  Már tudunk érkezésedrõl.  Át szeretnél menni?"""
+"""Senki sem mondta, hogy jössz"" mondták a Határõrök.  ""Nem engedhetünk át.  Elõször meg kell keresned a Kulcsár Sátrát."""
+"A Kulcsár örömmel veszi érkezésed.  ""Ó, végre egy nemes ember,"" mondja.  ""Azonnal küldök egy futárt a Határõrségre, hogy mész, ezentúl engedélyezni fogják áthaladásod."""
+"A Kulcsár felismer téged, mikor közeledsz.  ""Már küldtem egy futárt a Határõrségre, hogy mész,."" mondja.  ""Menj és járj szerencsével."""
+"{Bója}
+
+Az egyik embered rámutat egy tájolási bójára, ezzel megerõsít téged abban, hogy jó úton haladsz."
+"{Bója}
+
+Az egyik embered rámutat egy tájolási bójára, ezzel megerõsít téged abban, hogy jó úton haladsz."
+"{Tábortûz}
+
+Kifosztottál egy ellenséges tábort és ráleltél a kincsek rejtekhelyére."
+"Már láttad az összes térképem, távozz innen!"
+Egy öreg halásszal találkozol akinél olyan részletes térképekre lelsz a tengerekrõl, amilyet még soha nem láttál.  Meg akarod vásárolni a térképeket 1000 aranyért?
+Találkozol egy térképésszel aki szárazföldi térképeket árul.  Akarsz vásárolni térképet 1000 aranyért?
+Egy öreg bányásszal találkozol, aki eladná neked az õ összes térképét azokról az alagutakról, amiben dolgozott. A térképek ára 1000 arany.  Megvásárolod tõle?
+"A térképeim ára 1000 arany, de ha jól látom, neked nincs elég pénzed.  Távozz tõlem, ne pazarold az idõmet!"
+"{Hattyúk tava}
+
+Gyerekkori történetek szerint egy a vörös hattyú a jó szerencse elõjele.  Úgy döntesz, hogy a nap hátralévõ részét itt töltöd."
+"{Hattyúk tava}
+
+Gyerekkori történetek szerint egy a vörös hattyú a jó szerencse elõjele.  Még mindig meg vagy áldva jószerencsével, úgyhogy nincs szükséges arra, hogy itt maradj. Távozz innen!"
+"{Sötétség Leple}
+
+Megérintetted a Sötétség Leplét és a földet körülötted sötétség borította be. Csak te vagy képes ezen átlátni."
+%s bejáratához értél.  Belépsz és megtámadod az õrzõket?
+"Találtál valamit, ami egykor egy %s volt, azonban ezt már régen kifosztották."
+"Mivel legyõzted a(z) %s sereget, a tiéd lett a(z) %s."
+"{%s}
+
+Itt %s sorozására van lehetõséged. Szeretnéd ezt most megtenni?"
+"{%s}
+
+Itt %s, %s, %s, vagy %s sorozására van lehetõséged. Szeretnéd ezt most megtenni?"
+"{Csontváz}
+
+Egy szerencsétlenül járt kalandor maradványai mellett sétálsz el.  A szétszórt csontok között az alábbira lelsz "
+"{Csontváz}
+
+Egy szerencsétlenül járt kalandor maradványai mellett sétálsz el.  A szétszórt csontokon kívül semmit sem találsz."
+"{Marletto Torony}
+
+A katonák, akik a toronyban laknak megtanítottak pár védekezési trükkre."
+"{Marletto Torony}
+
+""Sajnálom uram,"" mondja a katonák vezetõje, ""de önnek már megtanítottuk minden fortélyunkat."""
+"{Kísértet Hajó}
+
+Egy sziklának ütközött kalózhajó roncsaira leltél.  Körülnézel a hajón?"
+Miután legyõzted a Víz Elementálokat több órát töltöttél el keresgéléssel a hajón, de nem találtál semmit.  Ez a sikertelen akció csökkentette a harcosaid Hangulatát.
+Miután legyõzted a Víz Elementálokat, több óra keresgélés után találtál valamit!
+"{%s}
+
+A tábor kihaltnak tûnik.  Nézz vissza jövõ héten."
+a(z) %s
+"{Sárkány Utópia}
+
+This text is no longer used.  If you see it, it is a bug."
+"{Sárkány Utópia}
+
+A Sárkány Utópia elõtt állsz, ahova ember nem teheti be a lábát.  Megszeged ezt a szabályt és harcolsz a Sárkányokkal?"
+"Ez a különös szem tanulmányoz téged, ahogy közeledsz. Néhány pillanat múlva visszaáll lassú, fürkészõ mozgásához.  Nem tudod, mi lehetett ez, de úgy érzed valaki vagy valami arra használja ezt a szemet, hogy más területeket feltérképezzen."
+"{Tündér Gyûrû}
+
+A Tündér Gyûrûnek köszönhetõen harcosaid a következõ csatában Szerencsések lesznek."
+"{Tündér Gyûrû}
+
+A várttal ellentétben nem történt semmi."
+"{Tengeri uszadékfa}
+
+A Tengeri uszadékfánál nem találtál semmit."
+"{Tengeri uszadékfa}
+
+A Tengeri uszadékfánál némi fára leltél."
+"{Tengeri uszadékfa}
+
+A Tengeri uszadékfánál némi aranyra és fára leltél."
+"{Tengeri uszadékfa}
+
+A Tengeri uszadékfánál némi fára és aranyra leltél."
+"{Szerencse Szökõkút}
+
+Ha iszol a kút vízébõl szerencséd megnõ."
+"{Szerencse Szökõkút}
+
+Ittál a Szökõkút vízébõl, de nem történt semmi."
+"{Fiatalság forrása}
+
+Te és hadsereged ivott a szökõkút vízébõl és megújult erõvel hagyjátok el a területet! A következõ csatára az egész sereged Hangulata javulni fog."
+"{Fiatalság forrása}
+
+Ittál a Szökõkútból, de nem történt semmi."
+"{Látomások Kertje}
+
+Egy szerzetes a kert közepén ül és meditálásra invitál.  Te szívesen csatlakozol hozzá és egy kis idõ után úgy érzed, egész testedet mágikus erõj járják át. Miután távozol rádöbbensz, hogy Tudásod gyarapodott."
+"{Látomások Kertje}
+
+Belépsz a kertbe és a szerzetes felismer téged, majd ezt mondja, ""Gyermekem, egy ember életében csak egyszer léphetsz be eme kertbe."""
+Belépsz egy roskadozó kunyhóba és az ott lakó varázslóval beszélgetsz.  A varázsló elmondja neked, hogy hol található a közelben olyan hely, ahol utazásaid során segítséget tudnak neked nyújtani.
+"{Szerencse Bálvány}
+
+Egy õsi és mára már széttöredezett Bálványra bukkantál.  A monda szerint aki megcsókolja az szerencsés és boldog lesz.  Te ezt megpróbálod, azonban ahogy közeledsz feléje a kõ olyan fagyosnak bizonyul, hogy nem érinted meg."
+"{Szerencse Bálvány}
+
+Egy õsi és mára már széttöredezett Bálványra bukkantál.  A monda szerint aki megcsókolja az szerencsés és boldog lesz, azonban mikor te ezt megpróbálod nem történik semmi."
+"{Búvóhely}
+
+Egy elhagyatott Búvóhelyre tévedtél.  Körülnéztél és némi nyersanyagot találtál a környéken."
+"{Búvóhely}
+
+A Búvóhelyen jelenleg nem tartózkodik senki."
+"{Megvilágosodás Könyvtára}
+
+A házmester beenged a Könyvtárba.  Rövid idõ alatt sok tudásra tehetsz szert."
+"{Megvilágosodás Könyvtára}
+
+A házmester felismert téged és nem enged be a Könyvtárba.  ""A Megvilágosodás Könyvtárába,"" mondja, ""minden hõs csak egyszer léphet be."""
+"{Megvilágosodás Könyvtára}
+
+A házmester ajtót nyit és alaposan szemügyre vesz.  ""Te se híres, se diplomatikus nem vagy eléggé, hogy belépj a Könyvtárba,"" mondja.  ""Gyere vissza késõbb, mikor erre méltónak érzed magad."""
+"{Világítótorony}
+
+A Világítótorony az irányításod alá került, így a hajóid többet hajózhatnak minden körben."
+"Ez a szerkezet valószínûleg egy utazási kapu volt, de már nem mûködik."
+"{Varázslatok Iskolája}
+
+Egy tanító felajánlja, hogy 1000 aranyért megtanít egy képzettséget neked.  Döntsd el, hogy a Szakértelmed szeretnéd gyarapítani vagy inkább a Varázserõdet növeled."
+"{Varázslatok Iskolája}
+
+Egy öreg mágus tûnik elõ a puszta levegõbõl.  ""Mester,"" mondja, ""Te már mindent megtanultál, amit mi adhatunk neked."""
+"{Varázslatok Iskolája}
+
+Egy tanító felajánlja, hogy 1000 aranyért megtanítana egy képzettséget, de sajnos neked még nincs ennyi aranyad."
+"{Varázsforrás}
+
+Ha iszol a forrás vizébõl, varázslatos erõk szállnak meg!  A normál varázspontjaid készlete megduplázódik."
+"{Varázsforrás}
+
+A Varázsforrásból minden héten csak egyszer lehet inni."
+"{Varázsforrás}
+
+A Varázsforrásnak köszönhetõen megduplázódna a varázspontjaid száma, de te már elérted a legmagasabb szintet."
+"{Varázskút}
+
+Ha iszol a kútból, varázspontjaid a maximumra állnak vissza."
+"{Varázskút}
+
+Hiába próbálkozol kétszer egy nap, az nem segít rajtad."
+"{Varázskút}
+
+Ha iszol a kútból, varázspontjaid a maximumra állnának vissza, de neked jelenleg erre nincs szükséged, mert varázspontjaid már a maximumon vannak."
+"{Zsoldosok Tábora}
+
+A Zsoldosok Táborába tévedtél, ahol a katonák éppen a taktikájukat finomítják.  Örömmel veszik érkezésedet és kérik, hogy Te is csatlakozz hozzájuk."
+"{Zsoldos Tábor}
+
+Ismét a Zsoldosok Táborába tévedtél.  ""Örömmel vettük, hogy visszatértél hozzánk,"" szólt az egyik katona.  ""Sajnos mi már nem tudunk neked semmi újat mutatni."""
+"{Hableány}
+
+A Hableányok csendesen csalogatnak téged, hogy térj majd vissza hozzájuk és ismét áldott leszel."
+"{Hableány}
+
+Az elbûvölõ Hableányok megbabonáznak Téged és a legénységed.  Megáldanak titeket és nekik köszönhetõen a következõ csatában jó szerencsétek lesz."
+Egy elhagyatott bányára leltél, azonban az hemzseg az Ördögfiókáktól.  Biztos vagy benne, hogy belépsz?
+Sikeresen legyõzted az Ördögfiókákat, ezért újra meg tudod nyitni a bányát.
+"{Behódolók}
+
+Egy csapat %s csatlakozni szeretne hozzád. Elfogadod az ajánlatukat? "
+"Mivel elutasítottad ajánlatukat, a behódolók megtámadtak!"
+"Egy csapat %s felajánlja neked, hogy %d aranyért csatlakozik hozzád.  Elfogadod az ajánlatukat?"
+"Az ellenséged csapat felajánlja Neked szolgálatait a következõkért:
+
+"
+Csatlakozik hozzád %d harcos, ha kifizeted nekik az alábbi összeget.  Elfogadod az ajánlatukat?
+"Egy csapat %s megrémülve sereged félelmetes erejétõl megfutamodott a harc elõl.  Üldözõbe veszed õket?"
+"{Misztikus Kert}
+
+A zenét követve egy kis kertbe tévedtél, ahol éppen egy kobold táncolt.  Mivel még senkinek sem sikerült elkapnia, csak Neked, ezért egy apró kis edényt kaptál, teli becses dolgokkal."
+"{Misztikus Kert}
+
+A zenét követve egy kis kertbe tévedtél, ahol éppen egy kobold táncolt.  A monda szerint még senkinek sem sikerült elkapnia, ezért hát úgy döntesz, hogy te is szerencsét próbálsz. Sajnos neked sem sikerült."
+"{Oázis}
+
+Te és sereged isztok az Oázis vizébõl, de a várva várt felfrissülés elmarad.  Nézz vissza egy csata után, talán akkor hat rátok a varázslatos víz."
+"{Oázis}
+
+Egy-egy korty az Oázis vizébõl felfrissíti az egész sereged.  A mai nap egy kicsivel többet tudtok haladni a varázslatos víznek köszönhetõen."
+"{Obeliszk}
+
+Egy olyan Obeliszkhez érkeztél, ami nem evilági anyagból készült.  Miközben megmerevedve bámulod, a felületén egy szabályosnak mondható ábrát vélsz felfedezni.  Ez az ábra az õsi térkép egy darabja!  Szerencsére még idõben ráeszméltél erre, és le tudtad másolni, mert amint végeztél az írás egy szempillantás alatt eltûnt."
+"{Obeliszk}
+
+Már jártál az Obeliszknél."
+"{Vörösfenyõ Kilátótorony}
+
+A Kilátótorony tetejérõl távoli vidékekre is ellátsz."
+"{Tûz Pillére}
+
+Egy magas tornyot fedeztél fel a sötétben.  Felmész egészen a legtetejére, ahol egy hatalmas lámpásra lelsz, amit nyomban meg is gyújtasz. Hatalmas fényével az egész vidéket beborítja, ezáltal segít neked a tájékozódásban."
+"{Csillagpont}
+
+A világ legjobb csillagjósai a Csillagpontnál dolgoznak.  Örülnek társaságodnak és megtanítanak a csillagokból olvasni, ennek köszönhetõen nõ a varázslási képességed."
+"{Csillagpont}
+
+A világ legjobb csillagjósai a Csillagpontnál dolgoznak.  Ismét örömmel veszik érkezésedet, egy jót beszélgettek, majd távozol tõlük."
+"Soha nem látott merészséggel betörsz a város börtönébe, kiszabadítod az ott bebörtönzött hõst és amint biztonságban tudjátok már magatokat õ megjutalmaz Téged tetteidért."
+"Már rendelkezésedre áll nyolc hõs, ezért sajnos az itt bebörtönzött hõst nem viheted magaddal."
+A börtönõr elmondja neked, hogy a király felszabadíttatta azt a hõst, akit annak idején még õ maga börtönöztetett be.
+"A halott király piramisára leltél.  Az õsi varázslatot szívesen megtanulnád a falakról, de ugyanakkor tartasz a régi jóslatok és átkok beteljesedésétõl is. Engedsz csábításodnak és belépsz a piramisba?"
+"Miután legyõzted a szörnyeket, ráleltél a falra írt varázslatra:"
+Az õsi király piramisára leltél.  Körülnézel a piramisban, de az teljesen üres.
+"  Sajnos még nem vagy elég bölcs, hogy megtanulhasd a varázslatot."
+"  Sajnos nincs Varázskönyved, ahova lejegyezhetnéd, hogy hogyan kell varázsolni ezt az õsi varázslatot."
+"{Zászló}
+
+Összegyûjtheted harcosaid a zászló köré."
+"{Zászló}
+
+Összegyûjtheted harcosaid a zászló köré, továbbá itt ki tudjátok pihenni magatokat és ezáltal a mai napon egy kicsit többet tudtok elõrehaladni."
+"{%s}
+
+Szeretnél %s harcosokat sorozni?"
+Egy kisebb %s halomra leltél.
+Amint beléptél a Szentélybe nagy kõ esett le a szívedrõl.  Itt biztonságban érezheted magad.
+"Ahogy a tisztásra érsz, észreveszed, hogy egy tudós pihen a lova mellett. Miután összebarátkoztok, beleegyezik, hogy megtanít téged valami olyasmire, amit õ tud."
+"{Tengerészláda}
+
+Miután órákat töltöttél azzal, hogy kifogd a Tengerészládát a vízbõl, sikerül felhúznod a hajóra, de az teljesen üresnek bizonyul."
+"{Tengerészláda}
+
+Miután órákat töltöttél azzal, hogy kifogd a Tengerészládát a vízbõl, sikerül felhúznod a hajóra. A láda 1000 aranyat és a(z) %s varázstárgyat rejti."
+"{Tengerészláda}
+
+Miután órákat töltöttél azzal, hogy kifogd a Tengerészládát a vízbõl, sikerül felhúznod a hajóra. A láda 1500 aranyat rejt."
+"{Kripta}
+
+Az az ötleted támad, hogy felnyitod ezt a kriptát, hátha rejt némi kincset.  Biztos vagy benne, hogy ezt akarod?"
+Miután legyõzted az élõhalott szörnyeket körülnézel a Kriptában, de nem találtál semmit, ráadásul a csapatod hangulata is csökkent.
+Miután legyõzted az élõhalott szörnyeket körülnézel a Kriptában és találtál valamit!
+"{Hajóroncs}
+
+Egy kalózhajó roncsaira leltél.  Körülnézel a hajó maradványain?"
+Miután legyõzted a félelmetes Hárpiákat és körülnéztél a hajó roncsain, nem találtál semmit, ráadásul a csapatod hangulata is csökkent.
+Miután legyõzted a Hárpiákat körülnéztél a hajó roncsain és találtál valamit!
+"{Túlélõ}
+
+Egy embert megmentettél a biztos haláltól, ezért õ hálája jeléül neked adja a(z) %s varázstárgyat."
+"{Túlélõ}
+
+Egy embert megmentettél a biztos haláltól, ezért õ hálája jeléül neked adna egy varázstárgyat, de már nincs hely a hátizsákodban."""""
+"{Bûbájos Hely}
+
+A Bûbájos Helyen szívesen vették érkezésedet és megtanították neked a következõ varázslatot:  "
+"{Varázslatos Hely}
+
+A Varázslatos Helyen szívesen vették érkezésedet és megtanították neked a következõ varázslatot:  "
+"{Varázslatos Tanító Hely}
+
+A Varázslatos Tanító Helyen szívesen vették érkezésedet és megtanították neked a következõ varázslatot:  "
+"  Sajnos még nem vagy elég bölcs, hogy megtanulhasd a varázslatot."
+"  Sajnos nincs Varázskönyved, ahova lejegyezhetnéd, hogy hogyan kell varázsolni ezt a varázslatot."
+"Egy kísérteties, jajgató hang hallatszik a sziklák felõl.  A legénységed nagy részét a vízbe csalogatta egy ismeretlen varázserõ majd megfojtotta õket.  Most már tudod, hogy soha többet nem szabad erre jönni, ezért %d tapasztalati ponttal gazdagodsz."
+Még idõben kiadtad legénységednek a parancsot, hogy kenjék be fülüket viasszal, ezért ennek köszönhetõen a szirének nem tudták õket a vízbe csalogatni, ahol minden bizonnyal meghaltak volna.
+"Amint a szirének hallatták a hangjukat a sereged parancsnokai fejvesztve kiadták az utasítást a támadásra. Seregeid amint a vízbe értek szörnyethaltak, mert a szirének varázsereje vízbefojtotta õket."
+Egy varázstekercset találtál amiben a(z) %s varázslat pontos leírása szerepel.
+"{Istálló}
+
+Már jártál az Istállóban ezen a héten."
+"{Istálló}
+
+Az Istálló vezetõje néhány lovat ajánl fel neked, hogy harcosaid napi mozgástávja megnõjön."
+"{Istálló}
+
+Az Istálló vezetõje néhány lovat ajánl fel neked, hogy harcosaid napi mozgástávja megnõjön, továbbá Lovagjaidból Bajnokokat képez."
+"{Istálló}
+
+Az Istálló vezetõje néhány lovat ajánl fel neked, hogy harcosaid napi mozgástávja megnõjön, továbbá Lovagjaidból Bajnokokat képez."
+"{Templom}
+
+Egy látogatás és egy imádság a Templomban megnöveli harcosaid Hangulatát."
+"{Templom}
+
+Ha kétszer imádkozol egymás után egy csata elõtt, az nem segít rajtad.  Gyere vissza máskor."
+"{Tolvajtanya}
+
+Miközben a bozótban keresgélsz megtalálod a Tolvajtanya titkos bejáratát.  Egy régi ""ismerõsöd"" átadja neked összes tapasztalatát, amit csak az utolsó találkozásotok óta szerzett."
+"{Tudás Köve}
+
+Amint közelebb léptél a Tudás Kövéhez, annak felszíne hirtelen elkezdett örvényleni. Belenéztél ebbe az örvénybe és csodával határos módon, mintha választ kaptál volna megválaszolatlan kérdéseidre. A csoda után a kõ felszíne ismét simává és egyenletessé vált."
+"{Tudás Köve}
+
+Ismételten megpróbáltad a Tudás Kövét használni, de az már csak a nap fényét tükrözte vissza ruhádra. Minden hõs életében csak egyszer nyílik meg a kõ."
+"{Kincsesláda}
+
+Miután feltérképezted a környezõ területeket, egy rejtett ládára bukkantál, ami az õsi %s varázstárgyat tartalmazta."
+"{Kincsesláda}
+
+Miután feltérképezted a környezõ területeket, egy rejtett ládára bukkantál, ami számos kinccsel van teli.  Elrakod magadnak a benne található aranyat, vagy szétosztod harcosaid között, hogy a hõs tapasztalati pontjai növekedjenek?  Melyiket választod?"
+"{Tudás Fája}
+
+Amint megközelítetted a Tudás Fáját, az kinyitotta szemeit és így szólt:  ""Jó újra látni téged, tanítványom.  Remélem az én tanításom segített rajtad."""
+"{Tudás Fája}
+
+Amint megközelítetted a Tudás Fáját, az kinyitotta szemeit és így szólt:  ""Ó, egy kalandor!  Engedd meg, hogy átadjam Neked tudásom egy részét, amit sok száz év alatt én szereztem."""
+"{Tudás Fája}
+
+Amint megközelítetted a Tudás Fáját, az kinyitotta szemeit és így szólt:  ""Ó, egy kalandor!  Engedd meg, hogy átadjam Neked tudásom egy részét 2000 aranyért, amit sok száz év alatt én szereztem.""  (A gyökereimet szeretném az aranyadból betemettetni.)"
+"{Tudás Fája}
+
+Könnyes szemekkel a fa így szólt:  ""Szükségem lenne 2000 aranyra a tanításodhoz..."" suttogta.  ""Nézz vissza ha már tudsz fizetni és átadom tudásom legjavát!"""
+"{Tudás Fája}
+
+Amint megközelítetted a Tudás Fáját, az kinyitotta szemeit és így szólt:  ""Ó, egy kalandor!  Engedd meg, hogy átadjam Neked tudásom egy részét 10 drágakõért, amit sok száz év alatt én szereztem.""  (A gyökereimet szeretném a drágakövek árából betemettetni.)"
+"{Tudás Fája}
+
+Könnyes szemekkel a fa így szólt:  ""Szükségem lenne 10 drágakõre a tanításodhoz..."" suttogta.  ""Nézz vissza ha már tudsz fizetni és átadom tudásom legjavát!"""
+Amint beléptél a kapun észrevetted, hogy az alagút beomlott.
+"{Szekér}
+
+Egy magára hagyott Szekér mellett haladsz el.  Úgy döntesz, hogy eltulajdonítod a rakományt."
+"{Szekér}
+
+Egy magára hagyott Szekér mellett haladsz el.  Miközben megnézed a rakományt, a(z) '%s' varázstárgyra bukkansz, amit azon nyomban el is viszel a Szekérrõl."
+"{Szekér}
+
+Egy magára hagyott Szekér mellett haladsz el.  Úgy döntesz, hogy eltulajdonítod annak rakományát, de balszerencsédre a Szekér teljesen üres."
+"{Harci Gépek Gyára}
+
+Szeretnél Harci Gépeket vásárolni?"
+"{Háború Iskolája}
+
+Az iskola veterán oktatójának egy ajánlata van a számodra. 1000 aranyért megtanít téged egy általad választott Támadási vagy Védekezési képzettségre."
+"{Háború Iskolája}
+
+A veterán oktató elutasít, amint újabb képzettségeket szeretnél tõle tanulni.  ""Neked kéne már itt tanítanod nem nekem! Én már túl fáradt vagyok a sok tanításhoz!"" mondja."
+"{Háború Iskolája}
+
+Az iskola veterán oktatója szívesen megtanítana neked egy Támadási vagy egy Védekezési képzettséget, de sajnos Neked nincs meg az ehhez szükséges 1000 arany."
+A névtelen hõs nyughelyéhez érkeztél, ahol -egyes mondák szerint- az õ kincsei is el vannak temetve.  Felforgatod a harcos sírhelyét, hátha rálelsz a kincsekre?
+"Harcosaid a több órás keresés után ráleltek a(z) %s varázstárgyra, de ezért az aljas tettért az összes katonád Hangulata csökkent."
+"Harcosaid nem találtak semmit, ráadásul ezért az aljas tettért az összes katonád Hangulata csökkent."
+"{Vízmalom}
+
+A Vízmalom dolgozói így szólnak érkezésedkor: ""Milord, Nagyon keményen megdolgozunk ezért az aranyért, amiket alázatunk jeléül Önnek adunk."""
+"{Vízmalom}
+
+A Vízmalom dolgozói így szólnak érkezésedkor: ""Milord, Sajnáljuk, de jelenleg nincs több aranyunk.  Kérjük Önt, hogy jöjjön vissz a következõ héten."""
+"{Gyógygödör}
+
+A Gyógygödör vize felfrissítette katonáid, ezért a mai nap egy kicsivel többet tudtok haladni az átlagosnál."
+"{Gyógygödör}
+
+A Gyógygödör vize felfrissít."
+"{Örvény}
+
+Az Örvény elnyeli a hajódat.  Ez akár néhány harcosod életébe is kerülhet."
+"{Szélmalom}
+
+A Szélmalom dolgozói így szólnak érkezésedkor: ""Milord, Sajnáljuk, de jelenleg nincs több nyersanyagunk.  Kérjük Önt, hogy jöjjön vissz a következõ héten."""
+"{Szélmalom}
+
+A Szélmalom dolgozói így szólnak érkezésedkor: ""Milord, Nagyon keményen megdolgozunk ezekért a nyersanyagokért, amiket alázatunk jeléül Önnek adunk."""
+"{Boszorkány Kunyhó}
+
+A Boszorkányok üdvözölnek téged, Vándor! Hatalmas nagy lelkünknek köszönhetõen megtanítjuk neked a(z) %s másodlagos képzettséget."
+"{Boszorkány Kunyhó}
+
+Üdv néked Vándor! Sajnos már nem taníthatunk Téged! Távozz tõlünk, és járj szerencsével!  """"
+"{Boszorkány Kunyhó}
+
+Üdv néked Vándor!  ""Hmm!"" mormogott az öreg boszorkány, ""Nem taníthatok egy olyas valakit, aki bölcsebb nálam."""
+"  Balszerencsédre korábban már elsajátítottad ezt a varázslatot, szóval már nincs semmi, amit itt taníthatnának neked."
+%s megtanult valamit.
+%s varázslatos energiákat vesztett.
+%s varázslatos energiákat szerzett.
+%s hangulata csökkent.
+%s hangulata nõtt.
+%s szerencséje rossz fordulatot vett.
+%s szerencséje nõtt.
+%s elvesztette a kincset.
+%s megtalálta a kincset.
+%s megtanult egy varázslatot.
+Egy sereg %s csatlakozott %s seregéhez.
+Egy csapat %s csatlakozott %s seregéhez.
+"Balszerencsédre, úgy tûnik, hogy az egykori tulaj hagyott hátra némi õrséget.  Meg akarsz küzdeni velük?"
+%s megtanult pár varázslatot.
+"Ez egy elhagyatott hajógyár.  Balszerencsédre a kikötõ már nem alkalmas hajók fogadására."
+"{Boszorkány Kunyhó}
+
+Amint megközelítetted a kunyhót észrevetted, hogy az már lakatlan."

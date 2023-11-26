@@ -1,0 +1,107 @@
+//Campaign Map Names
+Sokáig éljen a királynõ
+Felszabadítás
+Ének Apámról
+Börtönök és Ördögök
+Éljen a Király
+A háború zsákmányai
+Az elégedetlenség csírái
+Bracada
+Szigetek
+Krewlod
+Nighon
+Tatalia
+Armageddon
+
+
+//Good 1 Map Region Names
+Southport
+Angel Gate
+Gryphon Cliff
+
+
+//Good 2 Map Region Names
+Battlestead
+Frostland
+Marshland and Hillbridge
+Grainrich and Firecoast
+
+
+//Good 3 Map Region Names
+Forestlow
+"E.hills, S.willow, W.grove, F.bury"
+Marbel Garden
+
+
+//Evil 1 Map Region Names
+Rionpoint
+Grainrich
+Battlestead
+Fire Coast
+Southport
+Angel Gate
+Gryphon Cliff
+
+
+//Evil 2 Map Region Names
+Marble Garden
+Emerald Hills
+Strongwillow and Woodgrove
+"F.don, F.bury and Forestlow"
+
+
+//Neutral 1 Map Region Names
+Marshland
+Minewell
+Hillbridge
+
+
+//Secret 1 Map Region Names
+Cloverfield
+Mosswood
+Forestdale
+
+
+// Bracada Map Region Names
+Bracada A
+Bracada B
+Bracada C
+Bracada D
+
+
+// Islands Map Region Names
+Islands A
+Islands B
+Islands C
+Islands D
+
+
+// Krewlod Map Region Names
+Krewlod A
+Krewlod B
+Krewlod C
+Krewlod D
+
+
+// Nighon Map Region Names
+Nighon A
+Nighon B
+Nighon C
+Nighon D
+
+
+// Tatalia Map Region Names
+Tatalia A
+Tatalia B
+Tatalia C
+
+
+// Armageddon Map Region Names
+Armageddon A
+Armageddon B
+Armageddon C
+Armageddon D
+Armageddon E
+Armageddon F
+Armageddon G
+Armageddon H

@@ -1,0 +1,168 @@
+Credits
+"{Created By:}
+Jon Van Caneghem
+
+
+
+{Executive Producer:}
+Mark Caldwell
+
+
+
+{Producer:}
+Jeff Blattner
+
+
+
+{Director:}
+David Mullich
+
+
+{Designers:}
+Gregory Fulton
+Jon Van Caneghem
+
+
+{Assistant Designer:}
+Jennifer Bullard
+
+
+
+{Lead Programmer:}
+Gus Smedstad
+
+
+{Programmer:}
+David Richey
+
+
+
+{Lead Artist:}
+Bonita Long-Hemsath
+
+
+{Artists:}
+George Almond
+Rebecca Christel
+Brian DeMetz
+Edward Hudson
+Tracy Iwata
+Brian Kemper
+April Lee
+Adam McCarthy
+Julia Ulano
+Steve Wasaff
+
+
+
+{Level Designers:}
+Dave Botan
+Ryan Den
+Walter Johnson
+Marcus Pregent
+Mike Wolf
+
+
+
+{Music Producer:}
+Rob King
+
+
+{Music and Conflux Town Theme:}
+Paul Romero
+
+
+{Sound Design:}
+Rob King
+Steve Baca
+Chuck Russom
+
+
+{Voice Production:}
+Rob King
+Green Street Studios
+South Pasadena, Ca.
+
+
+{Voice Talent:}
+Wendee Lee
+Mona Marshall
+Mark Arnott
+Mari Devon
+Laird Macintosh
+Aric Devone
+Danny Fehsenfield
+Lex Lang
+
+
+
+{Lead Tester:}
+Karl Drown
+
+
+{Testers:}
+Joseph Buron
+Devin Chapman
+Derek Chester
+Tony Evans
+Ernie Gallardo
+Chris Miller
+Todd Smailes
+Nicco Wargon
+Eric Williamson
+Tom Zeliff
+
+
+
+{Special Thanks:}
+Hypnotix
+Rad Game Tools
+Sonic Foundry
+Sound Forge
+Soundscape
+Jack Russell
+John Machin
+Scott McDaniel
+Robert Alvarez
+
+
+{Webmaster:}
+Joshua “Guthwulf” Milligan
+
+
+{Web Artist:}
+Aaron F. Castro
+
+
+{Web Programmers:}
+Robert Belknap
+Peter Hillier
+
+{Magyar fordítás:}
+László Viktor
+Márton Zsolt
+Menyhárt László
+{Új zenék:}
+
+Farkas Gergely
+
+
+
+{Külön köszönet:}
+Szabó Árpád
+Kiss Attila László
+dr. Kiss Krisztián
+Németh Gábor
+Kelemen Gábor
+Kovács Orsolya
+Bíró Bertold
+Tanács Károly
+Dr. Duke
+Bonizag
+Credo
+
+{Visit us on the Web:}
+www.3do.com
+
+"
+"Copyright 1999, The 3DO Company. All Rights Reserved. Heroes of Might and Magic, Armageddon's Blade, New World Computing, 3DO, and their respective logos are trademarks, and/or service marks of The 3DO Company in the U.S. and other Countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company."

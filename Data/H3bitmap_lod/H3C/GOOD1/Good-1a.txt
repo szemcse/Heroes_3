@@ -1,0 +1,201 @@
+===== Térkép neve =====
+Hazatérés
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod Terraneus városát. Hõseid 6. szintig juthatnak el, de 4 legerõsebb hõsöd veled utazik a hadjárat következõ küldetésébe.
+
+===== Események =====
+
+Név:
+Bebörtönzött erathiai hõsök
+Szöveg:
+Mielõtt a Nighon Nagyurak lerohanták, ezt a földet Erathia legnagyobb hõsei védték. Senki sem tudja, hová tûnhettek.
+
+Név:
+Igaz, hogy Catherine királynõ visszatért Erathiába?
+Szöveg:
+Igaz, hogy Catherine királynõ visszatért Erathiába?
+
+Név:
+Grier lovag
+Szöveg:
+Úgy hallottam, Griert, a lovagot Mirhamtól északnyugatra tartják fogva.
+
+Név:
+Örvények
+Szöveg:
+Sok hajó roncsa kering az óceán örvényei körül. A túlélõ kapitányok úgy tartják, a megpróbáltatás csak erõsebbé tette õket, de a legénység jó része nem ért egyet.
+
+Név:
+Köszönet 
+Szöveg:
+Nagyon köszönjük, hogy megmentetted a városunkat.
+
+Név:
+Nighon megszállás
+Szöveg:
+A vidék sok városa van még mindig Nighon megszállás alatt.
+
+Név:
+Steadwick
+Szöveg:
+Hallottál valami hírt Steadwickrõl?
+
+Név:
+Steadwick elesett?
+Szöveg:
+Steadwick elesett? A nemzetünk fõvárosa Nighon megszállás alatt van?
+
+Név:
+Erathia mekkora része esett el?
+Szöveg:
+Igaz, hogy Erathiának több mint a fele Nighon, Kreegan és Tatalia megszállása alatt van?
+
+Név:
+Eeofol és Nighon szövetkezett
+Szöveg:
+Alagútásókat és ördögöket is láttunk. Eofol bizonyára szövetkezett Nighonnal.
+
+Név:
+Gryphonheart királyt meggyilkolták
+Szöveg:
+Talán Enrothban még nem hallották. Gryphonheart király nem természetes halállal halt meg.
+
+Név:
+Gryphonheart királyt megmérgezték
+Szöveg:
+Úgy hallottam, Gryphonheart király az ételébe tett méregtõl halt meg.
+
+Név:
+Griff Torony Caryatidtól északra
+Szöveg:
+Egy Griff Torony található Caryatidtól északra. Ez volt az invázió egyik elsõ célpontja. 
+
+Név:
+Õrház Caryatidtól északra
+Szöveg:
+Egyik rokonom egy õrházban szolgál lándzsásként, Caryatidtól északra. Remélem, túlélte a támadást.
+
+Név:
+Íjászok tornya Plinthtõl északkeletre
+Szöveg:
+Úgy hallottam, hogy a Plinthtõl északkeletre található íjászok tornyát könnyedén bevette egy barlanglakó-horda.
+
+Név:
+Monostor Mirhamtõl északnyugatra
+Szöveg:
+Bár mostanában semmit nem hallottunk a Mirhamtól északnyugatra lévõ monostorról, állítólag az ellenség erõsítést küldött oda.
+
+Név:
+Kaszárnya Trailiától délnyugatra
+Szöveg:
+Erathia legjobb kardforgatóit a Trailiától északnyugatra levõ kaszárnyában képzik.
+
+Név:
+A Mágus kunyhója
+Szöveg:
+Mirhamtól keletre egy mágus lakik kunyhójában. Az egyik itteni hõs szerint "rajta tartja a szemét" a Bracada nyugati hegyei mögött folyó hadmûveleteken.
+
+Név:
+Bracada Hegyövezet
+Szöveg:
+Enrothiként tudnod kellene, hogy a nyugati hegyvidék a határ Bracada és az országunk között.
+
+Név:
+Invázió: figyelmeztetés nélkül jöttek
+Szöveg:
+Nem figyelmeztettek. Az éjszaka közepén hirtelen alagútásók és ördögök vettek körül minket. Egyesek szerint a seregek egy "tömegportálon" keresztül jöttek.
+
+Név:
+Invázió: honnan jöttek
+Szöveg:
+Nighon az óceán túlsó partján fekszik, de hajókat nem láttunk.
+
+Név:
+Lándzsás - Mirham
+Szöveg:
+Mirhamtól nyugatra van egy õrház, ahol Erathia seregének újoncait kiképzik.
+
+===== Idõzített események =====
+
+Név:
+Háttérsztori 1
+Üzenet:
+Enroth királynõjétõl, Catherine Ironfisttõl: "Tábornok, partraszállásunkkal bizonyítékot szereztünk Nighon Dungeon Nagyurainak inváziójáról."
+
+Név:
+Háttérsztori 2
+Üzenet:
+ "Ezek az emberek az elmúlt harminc napban a nighoni katonaság uralma alatt éltek. Feltételezzük, hogy a Plinth, Mirham és Trailia melletti városok is Nighon vagy Eofol megszállása alatt állnak."
+
+Név:
+Háttérsztori 3
+Üzenet:
+ "Más tábornokok is vizsgálják a területet, hogy meghatározhassuk a határáthágás mértékét. Erre a vidékre nézve egyszerû a feladatod. Létesíts egy bázist, gyûjtsd össze a helyi seregeket, határozd meg a Nighon invázió méretét és találd meg a támadás útvonalát."
+
+Név:
+Háttérsztori 4
+Üzenet:
+ "Ha megtalálod az ellenség hadmûveleteinek fõ bázisát, gyorsan meg tudjuk majd semmisíteni a megmaradt haderõket. Sok szerencsét."
+
+Név:
+Felderítés: Mirham
+Üzenet:
+Egy Mirhambõl érkezõ felderítõ lép be Caryatid udvarába, és jelenti: "Mirham Nighon és Eofol megszállása alatt van."
+
+Név:
+Felderítés: Plinth
+Üzenet:
+Egyik segítõd lép eléd, és egy tekercset nyújt át. Azt mondja, hogy a felderítõ, aki a tekercset hozta, számos komoly sérülést szenvedett. Kibontod és elolvasod: "Eofol seregei elfoglalták Plinthet."
+
+Név:
+Felderítés: Trailia
+Üzenet:
+Griffje hátán érkezik egy nyílhegyektõl, hárpiakarmoktól megsebesült felderítõ. Letérdel elõtted, és átadja a tudósítását: "Tábornok, Trailia Nighon szörnyeinek uralma alatt áll."
+
+===== Tárgyak =====
+
+(8, 54, 0) ***Castle***
+Név:
+Plinth
+
+(66, 56, 0) ***Castle***
+Név:
+Caryatid
+
+(33, 35, 0) ***Castle***
+Név:
+Mirham
+
+(58, 8, 0) ***Castle***
+Név:
+Trailia
+
+(26, 41, 0) ***Jel***
+Üzenet:
+Plinth: délnyugat.   Mirham: északkelet.
+
+(41, 23, 0) ***Jel***
+Üzenet:
+Trailia: északkelet.  Mirham: délnyugat.
+
+(48, 35, 0) ***Jel***
+Üzenet:
+Mirham: nyugat.  Caryatid: kövesd a hegyeket keletre, majd délre.
+
+(18, 35, 0) ***Esemény***
+Üzenet:
+A barlanglakók legyõzése után embereid felszabadítják az õrházat. A lándzsások szívesen harcolnak az oldaladon.
+
+(33, 35, 1) ***Dungeon***
+Név:
+Terraneus
+
+Idõzített események:
+
+Név:
+Fa a számítógépnek
+Üzenet:
+Egy karaván érkezik a felszínrõl heti faadagoddal.
+
+===== Fájl vége =====

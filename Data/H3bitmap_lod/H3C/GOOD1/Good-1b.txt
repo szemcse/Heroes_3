@@ -1,0 +1,27 @@
+===== Térkép neve =====
+Õrangyalok
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod az összes ellenséges várat és le kell gyõznöd az összes ellenséges hõst. Hõseid 12. szintig juthatnak el, de 8 legerõsebb hõsöd veled utazik majd a hadjárat utolsó küldetésébe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1
+Üzenet:
+El kell érnünk Tiszta Tollt még Nighon és Eofol erõi elõtt. Ha támogatni tudjuk õket, talán meggyõzhetjük az angyalokat, hogy legyenek segítségünkre Erathia visszaszerzésében. Meg kell erõsítenünk ezt a területet, mielõtt Steadwick felé indulunk.
+
+Név:
+Hírek 
+Üzenet:
+Felderítõink jelentik, hogy számos barlangbejárat található a vidéken. Valószínûleg jó pár nighoni és eofoli erõdítményt fogunk találni a föld alatt.
+
+===== Tárgyak =====
+
+(17, 18, 0) ***Castle***
+Név:
+Tiszta Toll
+
+===== Fájl vége =====

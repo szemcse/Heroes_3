@@ -1,0 +1,1128 @@
+			School				Cost				Effect					% Chance to gain									AI value				Right Click Text						
+Name	Abbreviated Name	Level	Earth	Water	Fire	Air	None	Basic	Advanced	Expert	Power 	None	Basic	Advanced	Expert	Castle	Rampart	Tower	Inferno	Necropolis	Dungeon	Stronghold	Fortress	Conflux	None	Basic	Advanced	Expert	Normal	Basic	Advanced	Expert	Attributes (reference only, do not change)		
+																																			
+Kaland Varázslatok																																			
+																																			
+Hajóidézés	Hajóidézés	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Hajóidézés}
+
+A Hajóidézés egy már létezõ hajót idéz meg a kívánt helyre.
+
+50% az esély, hogy sikerül.
+"	"{Alap Hajóidézés}
+
+A Hajóidézés egy már létezõ hajót idéz meg a kívánt helyre.
+
+50% az esély, hogy sikerül.
+"	"{Haladó Hajóidézés}
+
+A Hajóidézés egy már létezõ hajót idéz meg a kívánt helyre. Ha nincs ilyen, akkor egy újat hoz létre.
+
+75% az esély, hogy sikerül.
+"	"{Mester Hajóidézés}
+
+A Hajóidézés egy már létezõ hajót idéz meg a kívánt helyre. Ha nincs ilyen, akkor egy újat hoz létre.
+"	 ADV_SPELL		
+Hajólékelés	Hajólékelés	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Hajólékelés}
+
+Megsemmisíti a kiválasztott hajódat. 
+
+50% az esély, hogy sikerül.
+"	"{Alap Hajólékelés}
+
+Megsemmisíti a kiválasztott hajódat. 
+
+50% az esély, hogy sikerül.
+"	"{Haladó Hajólékelés}
+
+Megsemmisíti a kiválasztott hajódat. 
+
+75% az esély, hogy sikerül.
+"	"{Mester Hajólékelés}
+
+Megsemmisíti a kiválasztott hajódat.
+"	 ADV_SPELL		
+Látomás	Látomás	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Látomás}
+
+A Látomás a Kaland Térképen lévõ seregek vagy helyõrségek erejét mutatja meg.
+"	"{Alap Látomás}
+
+A Látomás a Kaland Térképen lévõ seregek vagy helyõrségek erejét mutatja meg, továbbá azt, hogy az ellenséges lények hajlandóak e hozzád csatlakozni.
+"	"{Haladó Látomás}
+
+A Látomás a Kaland Térképen lévõ seregek vagy helyõrségek erejét, számát és típusát mutatja meg, továbbá azt, hogy az ellenséges lények hajlandóak e hozzád csatlakozni. 
+"	"{Mester Látomás}
+
+A Látomás a Kaland Térképen lévõ seregek vagy helyõrségek erejét, számát és típusát mutatja meg, továbbá azt, hogy az ellenséges lények hajlandóak e hozzád csatlakozni. A közelben lévõ 
+városokról is információkat kapsz.
+"	 ADV_SPELL		
+Látkép	Látkép	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Látkép}
+
+Megmutatja az összes nyersanyag elhelyezkedését a már felderített térképen.
+"	"{Alap Látkép}
+
+Megmutatja az összes nyersanyag elhelyezkedését a már felderített térképen.
+"	"{Haladó Látkép}
+
+Megmutatja az összes nyersanyag elhelyezkedését a már felderített térképen.
+"	"{Mester Látkép}
+
+Megmutatja az összes nyersanyag és bánya elhelyezkedését a már felderített térképen.
+"	 ADV_SPELL		
+Álca 	Álca 	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Álca}
+
+Hamis információkat ad az ellenséges csapatoknak a csapatodról.
+"	"{Alap Álca}
+
+Az összes egységedet úgy tünteti fel az ellenség számára, hogy az a te legerõsebb sereged. A számok nem változnak egyik csoportban sem.
+"	"{Haladó Álca}
+
+Az összes egységedet úgy tünteti fel az ellenség számára, hogy az a te legerõsebb sereged.  A számok 0-ra változnak az összes csoportban.
+"	"{Mester Álca}
+
+Az összes egységedet úgy tünteti fel az ellenség számára, hogy az a te legerõsebb sereged.  A számok 0-ra változnak az összes csoportban.
+"	 ADV_SPELL		
+Madártávlat 	Madártávlat	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Levegõ megtekintése}
+
+Megmutatja az összes varázstárgy elhelyezkedését a már felderített térképen. 
+"	"{Alap Madártávlat}
+
+Megmutatja az összes varázstárgy elhelyezkedését a már felderített térképen. 
+"	"{Haladó Madártávlat}
+
+Megmutatja az összes varázstárgy, ellenséges hõs elhelyezkedését a már felderített térképen. 
+"	"{Mester Madártávlat}
+
+Megmutatja az összes varázstárgy, ellenséges hõs és ellenséges város elhelyezkedését a már felderített térképen. 
+"	 ADV_SPELL		
+Repülés 	Repülés 	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Repülés}
+
+A hõsödnek lehetõsége lesz a pálya akadályai felett átrepülni.
+"	"{Alap Repülés}
+
+A hõsödnek lehetõsége lesz a pálya akadályai felett átrepülni. A mozgáspontjaid csak egy részét használhatod fel.
+"	"{Haladó Repülés}
+
+A hõsödnek lehetõsége lesz a pálya akadályai felett átrepülni. A mozgáspontjaid jelentõs részét felhasználhatod.
+"	"{Mester Repülés}
+
+A hõsödnek lehetõsége lesz a pálya akadályai felett átrepülni. Az összes mozgáspontod felhasználhatod
+"	 ADV_SPELL		
+Vízen járás	Vízen járás	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Vízen járás}
+
+A hõseid mozgáspontjaik egy részét felhasználhatják arra, hogy átlovagolhassanak a vízen. A mozgást a szárazföldön kell befejezned.
+"	"{Alap Vízen Járás}
+
+A hõseid mozgáspontjaik egy részét felhasználhatják arra, hogy átlovagolhassanak a vízen.  A mozgást a szárazföldön kell befejezned.
+"	"{Haladó Vízen Járás}
+
+A hõseid mozgáspontjaik jelentõs részét felhasználhatják arra, hogy átlovagolhassanak a vízen.  A mozgást a szárazföldön kell befejezned.
+"	"{Mester Vízen Járás}
+
+A hõseid az összes mozgáspontjaikat felhasználhatják arra, hogy átlovagolhassanak a vízen. A mozgást a szárazföldön kell befejezni.
+"	 ADV_SPELL		
+Dimenzió Kapu	Dimenzió Kapu	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Dimenzió Kapu}
+
+Naponta átteleportálhatod a hõsödet  a Kaland Térkép egy másik pontjára.
+"	"{Alap Dimenzió Kapu}
+
+Kétszer egy nap átteleportálhatod a hõsödet a Kaland Térkép egy másik pontjára.
+"	"{Haladó Dimenzió Kapu}
+
+Egy nap háromszor átteleportálhatod a hõsödet a Kaland Térkép egy másik pontjára.
+"	"{Mester Dimenzió Kapu}
+
+Naponta négyszer átteleportálhatod a hõsödet a Kaland Térkép egy másik pontjára.
+"	 ADV_SPELL		
+Várkapu	Várkapu	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Várkapu}
+
+A Várkapu a hõsödet a legközelebbi váradba helyezi.
+"	"{Alap Várkapu}
+
+A Várkapu a hõsödet a legközelebbi váradba helyezi.
+"	"{Haladó Várkapu}
+
+A Várkapu a hõsödet a legközelebbi váradba helyezi.
+"	"{Mester Várkapu}
+
+A Várkapu a hõsödet a legközelebbi váradba helyezi.
+"	 ADV_SPELL		
+																																			
+Harci varázslatok																																			
+																																			
+Futóhomok	Futóhomok	2	x	 	 	 	8	6	6	6	0	0	0	0	0	4	4	6	4	4	4	6	6	4	1	1	1	1	"{Futóhomok}
+
+Véletlenszerûen elhelyez négy kicsi futóhomok foltot a csatamezõn, amik csak a varázsló és a terep lényei számára láthatók.  Ha egy lény belesétál ebbe, akkor annak a mozgása befejezõdik (az adott körben) és mindenki számára láthatóvá válnak a futóhomok foltok.
+"	"{Alap Futóhomok}
+
+Véletlenszerûen elhelyez négy kicsi futóhomok foltot a csatamezõn, amik csak a varázsló és a terep lényei számára láthatók.  Ha egy lény belesétál ebbe, akkor annak a mozgása befejezõdik (az adott körben) és mindenki számára láthatóvá válnak a futóhomok foltok.
+"	"{Haladó Futóhomok}
+
+Véletlenszerûen elhelyez hat kicsi futóhomok foltot a csatamezõn, amik csak a varázsló és a terep lényei számára láthatók.  Ha egy lény belesétál ebbe, akkor annak a mozgása befejezõdik (az adott körben) és mindenki számára láthatóvá válnak a futóhomok foltok.
+"	"{Mester Futóhomok}
+
+Véletlenszerûen elhelyez nyolc kicsi futóhomok foltot a csatamezõn, amik csak a varázsló és a terep lényei számára láthatók.  Ha egy lény belesétál ebbe, akkor annak a mozgása befejezõdik (az adott körben) és mindenki számára láthatóvá válnak a futóhomok foltok.
+"	 COMBAT_SPELL|LOCATION_TARGET		
+Aknásítás 	Aknásítás	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Aknásítás}
+
+Véletlenszerûen elhelyez négy aknát a csatamezõn, amik csak a varázsló és a terep lényei számára láthatók.  Ha egy lény belesétál, akkor annak sebzést okoz.
+"	"{Alap Aknásítás}
+
+Véletlenszerûen elhelyez négy aknát a csatamezõn, amik csak a varázsló és a terep lényei számára láthatók.  Ha egy lény belesétál, akkor annak sebzést okoz.
+"	"{Haladó Aknásítás}
+
+Véletlenszerûen elhelyez hat aknát a csatamezõn, amik csak a varázsló és a terep lényei számára láthatók.  Ha egy lény belesétál, akkor annak sebzést okoz.
+
+A sebzett érték 25-tel nagyobb, mint az Alap Aknásításnak.
+"	"{Mester Aknásítás}
+
+Véletlenszerûen elhelyez nyolc aknát a csatamezõn, amik csak a varázsló és a terep lényei számára láthatók.  Ha egy lény belesétál, akkor annak sebzést okoz.
+
+A sebzett érték 75-tel nagyobb, mint a 
+Haladó Aknásításnak.
+"	 COMBAT_SPELL|LOCATION_TARGET		
+Erõtér	Erõtér	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Erõtér}
+
+Elhelyez egy kisebb Erõteret a csatamezõn oda, ahova a varázsló kívánja. 
+"	"{Alap Erõtér}
+
+Elhelyez egy kisebb Erõteret a csatamezõn oda, ahova a varázsló kívánja. 
+"	"{Haladó Erõtér}
+
+Elhelyez egy közepes méretû Erõteret a csatamezõn oda, ahova a varázsló kívánja. 
+"	"{Mester Erõtér}
+
+Elhelyez egy nagyobb Erõteret a csatamezõn oda, ahova a varázsló kívánja. 
+"	 COMBAT_SPELL|LOCATION_TARGET		
+Tûz Fal	Tûz Fal	2	 	 	x	 	8	6	6	6	10	10	10	20	50	4	4	4	12	4	4	4	4	8	1	1	1	1	"{Tûz Fal}
+
+Elhelyez egy kisebb futótüzet a csatamezõn oda, ahova a varázsló kívánja. Az összes lény, aki ezen áthalad sérül.
+"	"{Alap Tûz Fal}
+
+Elhelyez egy kisebb futótüzet a csatamezõn oda, ahova a varázsló kívánja. Az összes lény, aki ezen áthalad sérül.
+"	"{Haladó Tûz Fal}
+
+Elhelyez egy közepes méretû futótüzet a csatamezõn oda, ahova a varázsló kívánja. Az összes lény, aki ezen áthalad sérül.
+"	"{Mester Tûz Fal}
+
+Elhelyez egy nagyobb futótüzet a csatamezõn oda, ahova a varázsló kívánja. Az összes lény, aki ezen áthalad sérül.
+"	 COMBAT_SPELL|LOCATION_TARGET		
+Földrengés	Földrengés	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Földrengés}
+
+Véletlenszerûen kárt okoz a kastély falának két részén.
+"	"{Alap Földrengés}
+
+Véletlenszerûen kárt okoz a kastély falának két részén.
+"	"{Haladó Földrengés}
+
+Véletlenszerûen kárt okoz a kastély falának három részén.
+"	"{Mester Földrengés}
+
+Véletlenszerûen kárt okoz a kastély falának négy részén.
+"	 COMBAT_SPELL		
+Varázsnyíl	Varázsnyíl	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Varázsnyíl}
+
+Varázslatos energiákkal sérülést okoz a kijelölt ellenfelen.
+"	"{Alap Varázsnyíl}
+
+Varázslatos energiákkal sérülést okoz a kijelölt ellenfelen.
+"	"{Haladó Varázsnyíl}
+
+Varázslatos energiákkal sérülést okoz a kijelölt ellenfelen.
+
+10-zel több sebzést okoz, mint az Alap Varázsnyíl.
+"	"{Mester Varázsnyíl}
+
+Varázslatos energiákkal sérülést okoz a kijelölt ellenfelen.
+
+20-szal több sebzést okoz, mint az Alap Varázsnyíl.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Jégcsapás	Jégcsapás	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{Jégcsapás}
+
+Lecsökkenti a kiválasztott ellenséges egység testhõmérsékletét, ezáltal sebzést okoz neki.
+"	"{Alap Jégcsapás}
+
+Lecsökkenti a kiválasztott ellenséges egység testhõmérsékletét, ezáltal sebzést okoz neki.
+"	"{Haladó Jégcsapás}
+
+Lecsökkenti a kiválasztott ellenséges egység testhõmérsékletét, ezáltal sebzést okoz neki.
+
+10-zel több sebzést okoz, mint az Alap Jégcsapás.
+"	"{Mester Jégcsapás}
+
+Lecsökkenti a kiválasztott ellenséges egység testhõmérsékletét, ezáltal sebzést okoz neki.
+
+40-nel több sebzést okoz, mint a Haladó Jégcsapás.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Villámcsapás	Villámcsapás	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Villámcsapás}
+
+A villámcsapás sebzi a kiválasztott egységet.
+"	"{Alap Villámcsapás}
+
+A villámcsapás sebzi a kiválasztott egységet.
+"	"{Haladó Villámcsapás}
+
+A villámcsapás sebzi a kiválasztott egységet.
+
+10-zel több sebzést okoz, mint az Alap Villámcsapás.
+"	"{Mester Villámcsapás}
+
+A villámcsapás sebzi a kiválasztott egységet.
+
+40-nel több sebzést okoz, mint az Alap Villámcsapás.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Összeomlás	Összeomlás	5	x	 	 	 	30	25	25	25	75	100	100	200	300	0	16	14	16	20	12	0	0	13	75	75	75	75	"{Összeomlás}
+
+Súlyos sérüléseket okoz a kiválasztott egységeken.
+"	"{Alap Összeomlás}
+
+Súlyos sérüléseket okoz a kiválasztott egységeken.
+"	"{Haladó Összeomlás}
+
+Súlyos sérüléseket okoz a kiválasztott egységeken.
+
+100-zal több sebzést okoz, mint az Alap Összeomlás.
+"	"{Mester Összeomlás}
+
+Súlyos sérüléseket okoz a kiválasztott egységeken.
+
+200-zal több sebzést okoz, mint az Alap Összeomlás.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Láncvillám	Láncvillám	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Láncvillám}
+
+A Láncvillám az elsõ célpontra teljes sebzést mér, a másodikra ennek felét, a harmadikra a negyedét, a negyedikre a nyolcadát.
+"	"{Alap Láncvillám}
+
+A Láncvillám az elsõ célpontra teljes sebzést mér, a másodikra ennek felét, a harmadikra a negyedét, a negyedikre a nyolcadát, az ötödikre a tizenhatodát.
+"	"{Haladó Láncvillám}
+
+A Láncvillám az elsõ célpontra teljes sebzést mér, a másodikra ennek felét, a harmadikra a negyedét, a negyedikre a nyolcadát, az ötödikre a tizenhatodát.
+
+25-tel több sebzést okoz, mint az Alap Láncvillám.
+"	"{Mester Láncvillám}
+
+A Láncvillám az elsõ célpontra teljes sebzést mér, a másodikra ennek felét, a harmadikra a negyedét, a negyedikre a nyolcadát, az ötödikre a tizenhatodát.
+
+75-tel több sebzést okoz, mint az 
+Alap Láncvillám.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Fagy Gyûrû	Fagy Gyûrû	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Fagy Gyûrû}
+
+Lecsökkenti a kiválasztott ellenséges egység területében lévõ lények testhõmérsékletét.
+"	"{Alap Fagy Gyûrû}
+
+Lecsökkenti a kiválasztott ellenséges egység területében lévõ lények testhõmérsékletét.
+"	"{Haladó Fagy Gyûrû}
+
+Lecsökkenti a kiválasztott ellenséges egység területében lévõ lények testhõmérsékletét.
+
+15-tel több sebzést okoz, mint az Alap Fagy Gyûrû.
+"	"{Mester Fagy Gyûrû}
+
+Lecsökkenti a kiválasztott ellenséges egység területében lévõ lények testhõmérsékletét.
+
+45-tel több sebzést okoz, mint az Alap Fagy Gyûrû.
+"	 COMBAT_SPELL|LOCATION_TARGET		
+Tûzlabda	Tûzlabda	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Tûzlabda}
+
+A kiválasztott cél lángra lobban és a tûz sebzést okoz a célpont közelében álló lényeken is.
+"	"{Alap Tûzlabda}
+
+A kiválasztott cél lángra lobban és a tûz sebzést okoz a célpont közelében álló lényeken is.
+"	"{Haladó Tûzlabda}
+
+A kiválasztott cél lángra lobban és a tûz sebzést okoz a célpont közelében álló lényeken is.
+
+15-tel több sebzést okoz, mint az Alap Tûzlabda.
+"	"{Mester Tûzlabda}
+
+A kiválasztott cél lángra lobban és a tûz sebzést okoz a célpont közelében álló lényeken is.
+
+45-tel több sebzést okoz, mint az Alap Tûzlabda.
+"	 COMBAT_SPELL|LOCATION_TARGET		
+Pokoltûz 	Pokoltûz 	4	 	 	x	 	16	12	12	12	10	20	20	40	80	5	5	5	10	5	5	0	0	10	20	20	20	20	"{Pokoltûz}
+
+A Pokoltûz egy nagy körben okoz sebzést. Próbálj meg nem a közelben lenni!
+"	"{Alap Pokoltûz}
+
+A Pokoltûz egy nagy körben okoz sebzést. Próbálj meg nem a közelben lenni!
+"	"{Haladó Pokoltûz}
+
+A Pokoltûz egy nagy körben okoz sebzést. Próbálj meg nem a közelben lenni!
+
+20-szal több sebzést okoz, mint az Alap Pokoltûz.
+"	"{Mester Pokoltûz}
+
+A Pokoltûz egy nagy körben okoz sebzést. Próbálj meg nem a közelben lenni!
+
+60-nal több sebzést okoz, mint az Alap Pokoltûz.
+"	 COMBAT_SPELL|LOCATION_TARGET		
+Meteorzápor	Meteorzápor	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Meteorzápor}
+
+A kiválasztott területre meteorzápor zúdul.
+"	"{Alap Meteorzápor}
+
+A kiválasztott területre meteorzápor zúdul.
+"	"{Haladó Meteorzápor}
+
+A kiválasztott területre meteorzápor zúdul.
+
+25-tel több sebzést okoz, mint az Alap Meteorzápor.
+"	"{Mester Meteorzápor}
+
+A kiválasztott területre meteorzápor zúdul.
+
+75-tel több sebzést okoz, mint az Alap Meteorzápor.
+"	 COMBAT_SPELL|LOCATION_TARGET		
+Halál Fodrok 	Halál Fodrok	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Halál Fodrok}
+
+A Halál Fodrok minden nem-halott egységben sebzést okoznak a csatamezõn.
+"	"{Alap Halál Fodrok}
+
+A Halál Fodrok minden nem-halott egységben sebzést okoznak a csatamezõn.
+"	"{Haladó Halál Fodrok}
+
+A Halál Fodrok minden nem-halott egységben sebzést okoznak a csatamezõn.
+
+10-zel több sebzést okoz az Alap Halál Fodroknál.
+"	"{Mester Halál Fodrok}
+
+A Halál Fodrok minden nem-halott egységben sebzést okoznak a csatamezõn.
+
+20-szal több sebzést okoz az Alap Halál Fodroknál.
+"	 COMBAT_SPELL		
+Élõhalott Ölõ 	Élõhalott Ölõ	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Élõhalott Ölõ}
+
+Megkísérli megölni az összes élõhalottat a csatamezõn.
+"	"{Alap Élõhalott Ölõ}
+
+Megkísérli megölni az összes élõhalottat a csatamezõn.
+"	"{Haladó Élõhalott Ölõ}
+
+Megkísérli megölni az összes élõhalottat a csatamezõn.
+
+10-zel több sebzést okoz az Alap Élõhalott Ölõnél.
+"	"{Mester Élõhalott Ölõ}
+
+Megkísérli megölni az összes élõhalottat a csatamezõn.
+
+40-nel több sebzést okoz az Alap Élõhalott Ölõnél.
+"	 COMBAT_SPELL		
+Armageddon	Armageddon	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Armageddon}
+
+Az Armageddon olyan halálos viharfelhõket idéz meg, mely a csatatéren lévõ összes sereget megsebzi. 
+"	"{Alap Armageddon}
+
+Az Armageddon olyan halálos viharfelhõket idéz meg, mely a csatatéren lévõ összes sereget megsebzi. 
+"	"{Haladó Armageddon}
+
+Az Armageddon olyan halálos viharfelhõket idéz meg, mely a csatatéren lévõ összes sereget megsebzi. 
+
+30-cal több sebzést okoz, mint az Alap Armageddon.
+"	"{Mester Armageddon}
+
+Az Armageddon olyan halálos viharfelhõket idéz meg, mely a csatatéren lévõ összes sereget megsebzi. 
+
+90-nel több sebzést okoz, mint az Alap Armageddon.
+"	 COMBAT_SPELL		
+Pajzs	Pajzs	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Pajzs}
+
+Megerõsíti a kiválasztott lény védekezõ képességét, csökkenti a közelharc során kapott ütések sebzését.
+"	"{Alap Pajzs}
+
+Megerõsíti a kiválasztott lény védekezõ képességét, csökkenti a közelharc során kapott ütések sebzését.
+"	"{Haladó Pajzs}
+
+Megerõsíti a kiválasztott lény védekezõ képességét, csökkenti a közelharc során kapott ütések sebzését.
+
+A védelem az Alap Pajzsnál kétszer erõsebb.
+"	"{Mester Pajzs}
+
+Megerõsíti a kiválasztott lény védekezõ képességét, csökkenti a közelharc során kapott ütések sebzését.
+
+A védelem az Alap Pajzsnál kétszer erõsebb.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Levegõ Pajzs	Levegõ Pajzs	3	 	 	 	x	12	9	9	9	0	75	75	50	50	4	8	8	2	4	4	8	4	4	20	20	50	50	"{Levegõ Pajzs}
+
+Megerõsíti a kiválasztott lény védekezõ képességét, csökkenti a távolsági lövések során kapott sebzések értékét.
+"	"{Alap Levegõ Pajzs}
+
+Megerõsíti a kiválasztott lény védekezõ képességét, csökkenti a távolsági lövések során kapott sebzések értékét.
+"	"{Haladó Levegõ Pajzs}
+
+Megerõsíti a kiválasztott lény védekezõ képességét, csökkenti a távolsági lövések során kapott sebzések értékét.
+
+A védelem az Alap Levegõ Pajzsnál kétszer erõsebb.
+"	"{Mester Levegõ Pajzs}
+
+Megerõsíti a kiválasztott lény védekezõ képességét, csökkenti a távolsági lövések során kapott sebzések értékét.
+
+A védelem az Alap Levegõ Pajzsnál kétszer erõsebb.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Tûz Pajzs	Tûz Pajzs	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Tûz Pajzs}
+
+Tûz sebzéssel minden olyan egységet sebez, aki a célt közelharccal megtámadja.
+"	"{Alap Tûz Pajzs}
+
+Tûz sebzéssel minden olyan egységet sebez, aki a célt közelharccal megtámadja.
+"	"{Haladó Tûz Pajzs}
+
+Tûz sebzéssel minden olyan egységet sebez, aki a célt közelharccal megtámadja.
+
+5%-kal nagyobb sebzést okoz, mint az Alap Tûz Pajzs
+"	"{Mester Tûz Pajzs}
+
+Tûz sebzéssel minden olyan egységet sebez, aki a célt közelharccal megtámadja.
+
+10%-kal nagyobb sebzést okoz, mint az 
+Alap Tûz Pajzs
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Levegõ Hárító	Levegõ Hárító	2		 	 	x	7	5	5	5	0	70	70	50	50	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Levegõ Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Levegõ varázslatok sebzését.
+"	"{Alap Levegõ Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Levegõ varázslatok sebzését.
+"	"{Haladó Levegõ Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Levegõ varázslatok sebzését.
+
+Megvédi a kiválasztott egységet, csökkenti a Levegõ varázslatok sebzését.
+"	"{Mester Levegõ Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Levegõ varázslatok sebzését.
+
+A védelem közel kétszerese az Alap Levegõ Hárítónak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Tûz Hárító	Tûz Hárító	1	 		x	 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Tûz Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Tûz varázslatok sebzését.
+"	"{Alap Tûz Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Tûz varázslatok sebzését.
+"	"{Haladó Tûz Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Tûz varázslatok sebzését.
+
+A védelem közel kétszerese az Alap Tûz Hárítónak.
+"	"{Mester Tûz Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Tûz varázslatok sebzését.
+
+A védelem közel kétszerese az Alap Tûz Hárítónak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Víz Hárító	Víz Hárító	1	 	x		 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Víz Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Víz varázslatok sebzését.
+"	"{Alap Víz Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Víz varázslatok sebzését.
+"	"{Haladó Víz Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Víz varázslatok sebzését.
+
+A védelem közel kétszerese az Alap Víz Hárítónak.
+"	"{Mester Víz Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Víz varázslatok sebzését.
+
+A védelem közel kétszerese az Alap Víz Hárítónak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Föld Hárító	Föld Hárító	3	x	 	 		12	9	9	9	0	70	70	50	50	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Föld Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Föld varázslatok sebzését.
+"	"{Alap Föld Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Föld varázslatok sebzését.
+"	"{Haladó Föld Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Föld varázslatok sebzését.
+
+A védelem közel kétszerese az Alap Föld Hárítónak.
+"	"{Mester Föld Hárító}
+
+Megvédi a kiválasztott egységet, csökkenti a Föld varázslatok sebzését.
+
+A védelem közel kétszerese az Alap Föld Hárítónak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Anti-mágia	Anti-mágia	3	x	 	 	 	15	12	12	12	0	4	4	5	6	12	8	8	4	8	8	12	10	12	10	10	15	20	"{Anti-mágia}
+
+Megvédi a kiválasztott egységet az összes alacsonyabb szintû varázslattól.
+"	"{Alap Anti-mágia}
+
+Megvédi a kiválasztott egységet az összes alacsonyabb szintû varázslattól.
+"	"{Haladó Anti-mágia}
+
+Megvédi a kiválasztott egységet az összes varázslattól, kivéve a legerõsebbektõl.
+"	"{Mester Anti-mágia}
+
+Megvédi a kiválasztott egységet az összes  varázslattól.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Eloszlatás	Eloszlatás	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Eloszlatás}
+
+Az Eloszlatás minden, a célseregre helyezett varázslatot megszüntet.
+"	"{Alap Eloszlatás}
+
+Az Eloszlatás minden, a célseregre helyezett varázslatot megszüntet.
+"	"{Haladó Eloszlatás}
+
+Az Eloszlatás minden, a célseregre helyezett varázslatot megszüntet.
+"	"{Mester Eloszlatás}
+
+Az összes varázslatot megszünteti a csatamezõn.
+"	 COMBAT_SPELL|CREATURE_TARGET_1		
+Mágikus Tükör	Mágikus Tükör	5	 	 	 	x	25	20	20	20	0	20	20	30	40	0	16	14	0	0	12	0	0	13	12	12	18	24	"{Mágikus Tükör}
+
+A Mágikus Tükör az ártó varázslatot veri vissza az ellenség egy véletlenszerû lényére, 20%-os gyakorisággal.
+"	"{Alap Mágikus Tükör}
+
+A Mágikus Tükör az ártó varázslatot veri vissza az ellenség egy véletlenszerû lényére, 20%-os eséllyel.
+"	"{Haladó Mágikus Tükör}
+
+A Mágikus Tükör az ártó varázslatot veri vissza az ellenség egy véletlenszerû lényére, 30%-os eséllyel.
+"	"{Mester Mágikus Tükör}
+
+A Mágikus Tükör az ártó varázslatot veri vissza az ellenség egy véletlenszerû lényére, 40%-os eséllyel.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Gyógyítás	Gyógyítás	1	 	x	 	 	6	5	5	5	5	10	10	20	30	10	10	5	5	0	5	5	10	5	4	4	4	4	"{Gyógyítás}
+
+Az összes ártó varázslatot eltávolítja a kiválasztott egységrõl és egy kis százalékban visszaállítja az életpontjait.
+"	"{Alap Gyógyítás}
+
+Az összes ártó varázslatot eltávolítja a kiválasztott egységrõl és egy kis százalékban visszaállítja az életpontjait.
+"	"{Haladó Gyógyítás}
+
+Az összes ártó varázslatot eltávolítja a kiválasztott egységrõl és egy kis százalékban visszaállítja az életpontjait.
+
+A sérülés gyógyítás 10-zel több, mint az Alap Gyógyításé.
+"	"{Mester Gyógyítás}
+
+Az összes ártó varázslatot eltávolítja a kiválasztott egységrõl és egy kis százalékban visszaállítja az életpontjait.
+
+A sérülés gyógyítás 20-szal több, mint az Alap Gyógyításé.
+"	 COMBAT_SPELL|CREATURE_TARGET_1		
+Feltámasztás 	Feltámasztás	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Feltámasztás}
+
+Feltámasztja a kiválasztott élõlényt.
+"	"{Alap Feltámasztás}
+
+Feltámasztja a kiválasztott élõlényt.
+"	"{Haladó Feltámasztás}
+
+Feltámasztja a kiválasztott élõlényt.
+
+Az Alap Feltámasztásnál hatékonyabban használható.
+"	"{Mester Feltámasztás}
+
+Feltámasztja a kiválasztott élõlényt.
+
+A Haladó Feltámasztásnál hatékonyabban használható.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Halott élesztés	Halott élesztés	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Halott élesztés}
+
+A Halott élesztés egy bizonyos számú lényt éleszt fel bármelyik élõhalott lénybõl.
+"	"{Alap Halott élesztés}
+
+A Halott élesztés egy bizonyos számú lényt éleszt fel bármelyik élõhalott lénybõl.
+"	"{Haladó Halott élesztés}
+
+A Halott élesztés egy bizonyos számú lényt éleszt fel bármelyik élõhalott lénybõl.
+
+A felélesztés során 30-cal több életpontot használ fel, mint az Alap Halott élesztés.
+"	"{Mester Halott élesztés}
+
+A Halott élesztés egy bizonyos számú lényt éleszt fel bármelyik élõhalott lénybõl.
+
+A felélesztés során 130-cal több életpontot használ fel, mint az Alap Halott élesztés.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Áldozás	Áldozás	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Áldozás}
+
+Az Áldozás elõször egy saját sereget pusztít el, azután egy másikat kiválasztva annak ÉletPontjai számát növeli meg.  Ez a szám függ a varázsló varázserejétõl és a feláldozott sereg életpontjaitól.
+"	"{Alap Áldozás}
+
+Az Áldozás elõször egy saját sereget pusztít el, azután egy másikat kiválasztva annak ÉletPontjai számát növeli meg.  Ez a szám függ a varázsló varázserejétõl és a feláldozott sereg életpontjaitól.
+"	"{Haladó Áldozás}
+
+Az Áldozás elõször egy saját sereget pusztít el, azután egy másikat kiválasztva annak ÉletPontjai számát növeli meg.  Ez a szám függ a varázsló varázserejétõl és a feláldozott sereg életpontjaitól.
+
+"	"{Mester Áldozás}
+
+Az Áldozás elõször egy saját sereget pusztít el, azután egy másikat kiválasztva annak ÉletPontjai számát növeli meg.  Ez a szám függ a varázsló varázserejétõl és a feláldozott sereg életpontjaitól.
+
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Áldás	Áldás	1	 	x	 	 	5	4	4	4	0	0	0	1	1	10	5	5	0	0	3	3	5	5	10	10	11	11	"{Áldás}
+
+Az Áldás segítségével a kiválasztott lény maximális sebzést okoz.
+"	"{Alap Áldás}
+
+Az Áldás segítségével a kiválasztott lény maximális sebzést okoz.
+"	"{Haladó Áldás}
+
+Az Áldás segítségével a célsereg maximális sebzést okoz.
+"	"{Mester Áldás}
+
+A Mester Áldás segítségével a sereged összes lénye maximális sebzést okoz.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Átok 	 Átok	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Átok}
+
+Az Átok segítségével a kiválasztott lény minimális sebzést okoz.
+"	"{Alap Átok}
+
+Az Átok segítségével a kiválasztott lény minimális sebzést okoz.
+"	"{Haladó Átok}
+
+Az Átok segítségével az összes ellenséges lény minimális sebzést okoz.
+"	"{Mester Átok}
+
+A Mester Átok segítségével az összes ellenséges lény a minimális sebzési értéke alatt sebez.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Vérszomj	Vérszomj	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{Vérszomj}
+
+A Vérszomj a közelharcban a kiválasztott lény számára nagyobb sebzést garantál.
+"	"{Alap Vérszomj}
+
+A Vérszomj a közelharcban a kiválasztott lény számára nagyobb sebzést garantál.
+"	"{Haladó Vérszomj}
+
+A Vérszomj a közelharcban a kiválasztott lény számára nagyobb sebzést garantál.
+
+A Haladó Vérszomj kétszer nagyobb sebzést garantál, mint az Alap Vérszomj.
+"	"{Mester Vérszomj}
+
+A Vérszomj a közelharcban a kiválasztott lény számára nagyobb sebzést garantál.
+
+A Mester Vérszomj kétszer nagyobb sebzést garantál, mint a Haladó Vérszomj.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Pontosság	Pontosság	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Pontosság}
+
+A Pontosság a távoli támadás során a kiválasztott lény számára nagyobb sebzést garantál.
+"	"{Alap Pontosság}
+
+A Pontosság a távoli támadás során a kiválasztott lény számára nagyobb sebzést garantál.
+"	"{Haladó Pontosság}
+
+A Pontosság a távoli támadás során a kiválasztott lény számára nagyobb sebzést garantál.
+
+A Haladó Pontosság kétszer nagyobb sebzést garantál, mint az Alap Pontosság.
+"	"{Mester Pontosság}
+
+A Pontosság a távoli támadás során a kiválasztott lény számára nagyobb sebzést garantál.
+
+A Mester Pontosság kétszer nagyobb sebzést garantál, mint a Haladó Pontosság.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Gyengeség	Gyengeség	2	 	x	 	 	8	6	6	6	0	3	3	6	6	2	2	2	8	4	4	4	4	4	7	7	15	15	"{Gyengeség}
+
+A Gyengeség a kiválasztott lény sebzését csökkenti.
+"	"{Alap Gyengeség}
+
+A Gyengeség kiválasztott lény sebzését csökkenti.
+"	"{Haladó Gyengeség}
+
+A Gyengeség a kiválasztott lény sebzését csökkenti.
+
+A Haladó Gyengeségnek kétszer nagyobb a hatása, mint az Alap Gyengeségnek.
+"	"{Mester Gyengeség}
+
+A Gyengeség a kiválasztott lény sebzését csökkenti.
+
+A Mester Gyengeségnek kétszer nagyobb a hatása, mint a Haladó Gyengeségnek.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Kõbõr	Kõbõr	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"{Kõbõr}
+
+Növeli a kiválasztott lény védelmét. 
+"	"{Alap Kõbõr}
+
+Növeli a kiválasztott lény védelmét.
+"	"{Haladó Kõbõr}
+
+Növeli a kiválasztott lény védelmét.
+
+A Haladó Kõbõrnek kétszer nagyobb a hatása, mint az Alap Kõbõrnek.
+"	"{Mester Kõbõr}
+
+Növeli a kiválasztott lény védelmét.
+
+A Mester Kõbõrnek kétszer nagyobb a hatása, mint a Haladó Kõbõrnek.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Gyengítõ Sugár	Gyengítõ Sugár	2	 	 	 	x	10	8	8	8	0	3	3	4	5	6	4	6	12	4	6	6	6	8	7	7	15	15	"{Gyengítõ Sugár}
+
+A Gyengítõ Sugár a kiválasztott lény védelmét csökkenti. Fontos: egy lényre többször is lehet használni ezt a varázslatot.
+"	"{Alap Gyengítõ Sugár}
+
+A Gyengítõ Sugár a kiválasztott lény védelmét csökkenti.
+"	"{Haladó Gyengítõ Sugár}
+
+A Gyengítõ Sugár a kiválasztott lény védelmét csökkenti. Fontos: egy lényre többször is lehet használni ezt a varázslatot.
+
+A hatása jóval nagyobb, mint az Alap Gyengítõ Sugárnak.
+"	"{Mester Gyengítõ Sugár}
+
+A Gyengítõ Sugár a kiválasztott lény védelmét csökkenti. Fontos: egy lényre többször is lehet használni ezt a varázslatot.
+
+A hatása jóval nagyobb, mint a Haladó Gyengítõ Sugárnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Imádság	Imádság	4	 	x	 	 	16	12	12	12	0	2	2	4	4	10	5	5	0	0	0	0	0	5	8	8	16	16	"{Imádság}
+
+Megnöveli a kiválasztott lény sebzési és védekezési képességeit, valamint felgyorsítja azt.
+"	"{Alap Imádság}
+
+Megnöveli a kiválasztott lény sebzési és védekezési képességeit, valamint felgyorsítja azt.
+"	"{Haladó Imádság}
+
+Megnöveli a kiválasztott lény sebzési és védekezési képességeit, valamint felgyorsítja azt.
+
+A hatása kétszer nagyobb, mint az Alap Imádságnak.
+"	"{Mester Imádság}
+
+Megnöveli a sereged összes egységének a sebzési és védekezési képességeit, valamint felgyorsítja azt.
+
+A hatása kétszer nagyobb, mint az Alap Imádságnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Jókedv	Jókedv	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Jókedv}
+
+Javítja a kiválasztott lény hangulatát.
+"	"{Alap Jókedv}
+
+Javítja a kiválasztott lény hangulatát.
+"	"{Haladó Jókedv}
+
+Javítja a kiválasztott lény hangulatát.
+
+A hatása kétszer nagyobb, mint az Alap Hangulaté.
+"	"{Mester Jókedv}
+
+Javítja a sereged összes egységének a hangulatát.
+
+A hatása kétszer nagyobb, mint az Alap Hangulaté.
+"	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL		
+Bánat	Bánat	4	x	 	 	 	16	12	12	12	0	1	1	2	2	5	5	5	5	5	5	0	0	5	1	1	2	2	"{Bánat}
+
+Rontja a kiválasztott lény hangulatát.
+"	"{Alap Bánat}
+
+Rontja a kiválasztott lény hangulatát.
+"	"{Haladó Bánat}
+
+Rontja a kiválasztott lény hangulatát.
+
+A hatása kétszer nagyobb, mint az Alap Bánaté.
+"	"{Mester Bánat}
+
+Rontja az összes ellenséges lény hangulatát.
+
+A hatása kétszer nagyobb, mint az Alap Bánaté.
+"	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL		
+Szerencse	Szerencse	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{Szerencse}
+
+A Szerencse a kiválasztott egység szerencséjét növeli.
+"	"{Alap Szerencse}
+
+A Szerencse a kiválasztott egység szerencséjét növeli.
+"	"{Haladó Szerencse}
+
+A Szerencse a kiválasztott egység szerencséjét növeli.
+
+A hatása kétszer nagyobb, mint az Alap Szerencséjé.
+"	"{Mester Szerencse}
+
+A Szerencse sereged összes egységének szerencséjét növeli.
+
+A hatása kétszer nagyobb, mint az Alap Szerencséjé.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Balszerencse	Balszerencse	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Balszerencse}
+
+A Balszerencse a kiválasztott lény szerencséjét csökkenti.
+"	"{Alap Balszerencse}
+
+A Balszerencse a kiválasztott lény szerencséjét csökkenti.
+
+Fele annyi varázspontot kell csak felhasználni, mint a normál Balszerencse varázslásánál.
+"	"{Haladó Balszerencse}
+
+A Balszerencse a kiválasztott lény szerencséjét csökkenti.
+
+A hatása kétszer nagyobb, mint az Alap Balszerencséjé.
+"	"{Mester Balszerencse}
+
+A Balszerencse az összes ellenséges lény szerencséjét csökkenti.
+
+A hatása kétszer nagyobb, mint az Alap Balszerencséjé.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Gyorsítás	Gyorsítás	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Gyorsítás}
+
+Növeli a kiválasztott egység sebességét.
+"	"{Alap Gyorsítás}
+
+Növeli a kiválasztott egység sebességét.
+"	"{Haladó Gyorsítás}
+
+Növeli a kiválasztott egység sebességét.
+
+A hatása kétszer nagyobb, mint az Alap Gyorsításé.
+"	"{Mester Gyorsítás}
+
+Növeli az összes egységed sebességét.
+
+A hatása kétszer nagyobb, mint az Alap Gyorsításé.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Lassítás	Lassítás	1	x	 	 	 	6	5	5	5	0	75	75	50	50	5	10	10	10	5	5	5	5	10	5	5	15	15	"{Lassítás}
+
+Csökkenti a kiválasztott egység sebességét.
+"	"{Alap Lassítás}
+
+Csökkenti a kiválasztott egység sebességét.
+"	"{Haladó Lassítás}
+
+Csökkenti a kiválasztott egység sebességét.
+
+A hatása kétszer nagyobb, mint az Alap Lassításé.
+"	"{Mester Lassítás}
+
+Csökkenti az összes ellenséges egység sebességét.
+
+A hatása kétszer nagyobb, mint az Alap Lassításé.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Mészárlás	Mészárlás	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Mészárlás}
+
+Megnövelt sebzést tesz lehetõvé a Sárkányok, Behemótok és Hidrák elleni harcok során.
+"	"{Alap Mészárlás}
+
+Megnövelt sebzést tesz lehetõvé a Sárkányok, Behemótok és Hidrák elleni harcok során.
+"	"{Haladó Mészárlás}
+
+Megnövelt sebzést tesz lehetõvé a Sárkányok, Behemótok, Hidrák, Ördögök és Angyalok elleni harcok során.
+"	"{Mester Mészárlás}
+
+Megnövelt sebzést tesz lehetõvé a Sárkányok, Behemótok, Hidrák, Ördögök, Angyalok és Titánok elleni harcok során.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Dühöngés	Dühöngés	4	 	 	x	 	16	12	12	12	0	100	100	150	200	5	5	5	5	5	5	0	0	5	10	10	20	30	"{Dühöngés}
+
+A kiválasztott lény védekezését csökkentve megnöveli a lény támadási értékét.
+"	"{Alap Dühöngés}
+
+A kiválasztott lény védekezését csökkentve megnöveli a lény támadási értékét.
+"	"{Haladó Dühöngés}
+
+A kiválasztott lény védekezését csökkentve megnöveli a lény támadási értékét.
+
+A támadási értékhez 50%-kal több adódik hozzá, mint az Alap Dühöngésnél.
+"	"{Mester Dühöngés}
+
+A kiválasztott lény védekezését csökkentve megnöveli a lény támadási értékét.
+
+A támadási értékhez 100%-kal több adódik hozzá, mint az Alap Dühöngésnél.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL		
+Félelem ( kikapcsolt )	Félelem ( kikapcsolt )	4	 	 	 	 	16	8	8	8	0	75	75	50	25	0	0	0	0	0	0	0	0	0	50	50	50	50	{Félelem}
+Amely ellenséges lényen alkalmazzuk, az képtelenné válik félelmében a támadásra és nem tud mozdulni sem.
+"	"{Alap Félelem}Amely ellenséges lényen alkalmazzuk, az képtelenné válik félelmében a támadásra és nem tud mozdulni sem
+.Vartázspont költsége, fele a normálnak.
+"	"{Haladó Félelem}
+
+Amely ellenséges lényen alkalmazzuk, az képtelenné válik félelmében a támadásra és nem tud mozdulni sem.
+Mozgáspont büntetés az Alap Félelem kétszerese.
+"	"{Mester Félelem}
+
+Amely ellenséges lényen alkalmazzuk, az képtelenné válik félelmében a támadásra és nem tud mozdulni sem.
+Mozgáspont büntetés az Alap Félelem háromszorosa.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Visszatámadás	Visszatámadás	4	 	 	 	x	24	20	20	20	0	1	1	2	2	5	10	5	5	5	5	0	0	5	20	20	30	30	"{Visszatámadás}
+
+A kiválasztott sereg körönként +1 támadást viszonozhat a támadóknak.
+"	"{Alap Visszatámadás}
+
+A kiválasztott sereg körönként +1 támadást viszonozhat a támadóknak.
+"	"{Haladó Visszatámadás}
+
+A kiválasztott sereg körönként +2 támadást viszonozhat a támadóknak.
+"	"{Mester Visszatámadás}
+
+Az összes egységünk körönként +2 támadást viszonozhat a támadóknak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2		
+Õrjöngés	Õrjöngés	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Õrjöngés}
+
+Az Õrjöngéssel a célsereget a hozzá legközelebbi sereg (mindegy, hogy ellenséges vagy saját) megtámadására késztetjük.
+"	"{Alap Õrjöngés}
+
+Az Õrjöngéssel a célsereget a hozzá legközelebbi sereg (mindegy, hogy ellenséges vagy saját) megtámadására késztetjük.
+"	"{Haladó Õrjöngés}
+
+Az Õrjöngéssel a célsereget a hozzá legközelebbi sereg (mindegy, hogy ellenséges vagy saját) megtámadására késztetjük.
+
+A hatása hat egységnyi távolsággal nagyobb, mint az Alap Õrjöngésnek.
+"	"{Mester Õrjöngés}
+
+Az Õrjöngéssel a célsereget a hozzá legközelebbi sereg (mindegy, hogy ellenséges vagy saját) megtámadására késztetjük.
+
+A hatása tizennyolc egységnyi távolsággal nagyobb, mint az Alap Õrjöngésnek.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL		
+Hipnotizálás	Hipnotizálás	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hipnotizálás}
+
+Hipnotizálással a célsereget irányításunk alá vonhatjuk.
+"	"{Alap Hipnotizálás}
+
+Hipnotizálással a célsereget irányításunk alá vonhatjuk.
+"	"{Haladó Hipnotizálás}
+
+Hipnotizálással a célsereget irányításunk alá vonhatjuk.
+"	"{Mester Hipnotizálás}
+
+Hipnotizálással a célsereget irányításunk alá vonhatjuk.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL		
+Feledékenység	Feledékenység	3	 	x	 	 	12	9	9	9	0	0	0	0	0	8	8	4	4	4	4	4	4	8	1	1	1	1	"{Feledékenység}
+
+A Feledékenység az ellenség egy távolsági egységét akadályozhatja meg abban, hogy a csata folyamán távolról támadjon.
+"	"{Alap Feledékenység}
+
+A Feledékenység a kiválasztott egység felét megakadályozza abban, hogy a csata folyamán távolról támadjon. 
+"	"{Haladó Feledékenység}
+
+A Haladó Feledékenység a kiválasztott egységet akadályozza meg abban, hogy a csata folyamán távolról támadjon. 
+"	"{Mester Feledékenység}
+
+A Mester Feledékenység az összes ellenséges egységet megakadályozza abban, hogy a csata folyamán távolról támadjon. 
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL		
+Vakítás	Vakítás	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Vakítás}
+
+Ha a Vakítást használod a kiválasztott egységre, akkor az nem képes mozdulni, és visszatámadni is csak a normál erejének a felével tud. Egy lény addig vak, amíg azt meg nem támadják vagy nem alkalmazzák rajta az Eloszlatás varázslatot.
+"	"{Alap Vakítás}
+
+Ha a Vakítást használod a kiválasztott egységre, akkor az nem képes mozdulni, és visszatámadni is csak a normál erejének a felével tud. Egy lény addig vak, amíg azt meg nem támadják vagy nem alkalmazzák rajta az Eloszlatás varázslatot.
+"	"{Haladó Vakítás}
+
+Ha a Haladó Vakítást használod a kiválasztott egységre, akkor az nem képes mozdulni, és visszatámadni is csak a normál erejének a negyedével tud. Egy lény addig vak, amíg azt meg nem támadják vagy nem alkalmazzák rajta az Eloszlatás varázslatot.
+"	"{Mester Vakítás}
+
+Ha a Haladó Vakítást használod a kiválasztott egységre, akkor az nem képes mozdulni, és visszatámadni. Egy lény addig vak, amíg azt meg nem támadják vagy nem alkalmazzák rajta az Eloszlatás varázslatot.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Teleportálás	Teleportálás	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Teleportálás}
+
+A Teleportálás a kijelölt sereget azonnal átviszi a csatatér egyik pontjáról a másik megadott pontra.
+"	"{Alap Teleportálás}
+
+A Teleportálás a kijelölt sereget azonnal átviszi a csatatér egyik pontjáról a másik megadott pontra.
+
+A sereget nem lehet fal vagy sánc mögé teleportálni.
+"	"{Haladó Teleportálás}
+
+A Teleportálás a kijelölt sereget azonnal átviszi a csatatér egyik pontjáról a másik megadott pontra.
+
+A sereget nem lehet fal mögé teleportálni.
+"	"{Mester Teleportálás}
+
+A Teleportálás a kijelölt sereget azonnal átviszi a csatatér egyik pontjáról a másik megadott pontra.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Akadály Törlés	Akadály Törlés	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Akadály Törlés}
+
+Bármely normál akadályt (fák, sziklák, stb.) el tudod távolítani ezzel a varázslattal a csatamezõrõl.
+"	"{Alap Akadály Törlés}
+
+Bármely normál akadályt (fák, sziklák, stb.) el tudod távolítani ezzel a varázslattal a csatamezõrõl.
+"	"{Haladó Akadály Törlés}
+
+Bármely normál akadályt (fák, sziklák, stb.) illetve a Tûz Pajzsokat  el tudod távolítani ezzel a varázslattal a csatamezõrõl.
+"	"{Mester Akadály Törlés}
+
+Bármely normál illetve varázsolt akadályt el tudod távolítani ezzel a varázslattal a csatamezõrõl.
+"	 COMBAT_SPELL|OBSTACLE_TARGET		
+Fantomkép	Fantomkép	4	 	x	 	 	24	20	20	20	0	5	5	6	7	5	5	10	5	5	5	0	0	10	20	20	40	50	"{Fantomkép}
+
+A Fantomkép egy lényrõl készít másolatot. A másolat megszûnik, ha azt megtámadják.
+
+1-5. szintû lényekrõl készíthetõ Fantomkép ezzel a varázslattal.
+"	"{Alap Fantomkép}
+
+A Fantomkép egy lényrõl készít másolatot. A másolat megszûnik, ha azt megtámadják.
+
+1-5. szintû lényekrõl készíthetõ Fantomkép ezzel a varázslattal.
+"	"{Haladó Fantomkép}
+
+A Fantomkép egy lényrõl készít másolatot. A másolat megszûnik, ha azt megtámadják.
+
+1-6. szintû lényekrõl készíthetõ Fantomkép ezzel a varázslattal.
+"	"{Mester Fantomkép}
+
+A Fantomkép egy lényrõl készít másolatot. A másolat megszûnik, ha azt megtámadják.
+
+Az összes lényekrõl készíthetõ Fantomkép ezzel a varázslattal.
+"	 COMBAT_SPELL|CREATURE_TARGET		
+Tûz Elementál	Tûz Elementál	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Tûz Elementál Idézés}
+
+A varázslattal Tûz Elementálokat lehet idézni.
+"	"{Alap Tûz Elementál Idézés}
+
+A varázslattal Tûz Elementálokat lehet idézni.
+"	"{Haladó Tûz Elementál Idézés}
+
+A varázslattal Tûz Elementálokat lehet idézni.
+
+Körülbelül másfélszer több Tûz Elementál idézhetõ a Haladó Tûz Elementál Idézéssel, mint az Alap Tûz Elementál Idézéssel.
+"	"{Mester Tûz Elementál Idézés}
+
+A varázslattal Tûz Elementálokat lehet idézni.
+
+Körülbelül kétszer annyi Tûz Elementál idézhetõ a Mester Tûz Elementál Idézéssel, mint az Alap Tûz Elementál Idézéssel.
+"	 COMBAT_SPELL		
+Föld Elementál	Föld Elementál	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Föld Elementál Idézés}
+
+A varázslattal Föld Elementálokat lehet idézni.
+"	"{Alap Föld Elementál Idézés}
+
+A varázslattal Föld Elementálokat lehet idézni.
+"	"{Haladó Föld Elementál Idézés}
+
+A varázslattal Föld Elementálokat lehet idézni.
+
+Körülbelül másfélszer több Föld Elementál idézhetõ a Haladó Föld Elementál Idézéssel, mint az Alap Föld Elementál Idézéssel.
+"	"{Mester Föld Elementál Idézés}
+
+A varázslattal Föld Elementálokat lehet idézni.
+
+Körülbelül kétszer annyi Föld Elementál idézhetõ a Mester Föld Elementál Idézéssel, mint az Alap Föld Elementál Idézéssel.
+"	 COMBAT_SPELL		
+Víz Elementál	Víz Elementál	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Víz Elementál Idézés}
+
+A varázslattal Víz Elementálokat lehet idézni.
+"	"{Alap Víz Elementál Idézés}
+
+A varázslattal Víz Elementálokat lehet idézni.
+"	"{Haladó Víz Elementál Idézés}
+
+A varázslattal Víz Elementálokat lehet idézni.
+
+Körülbelül másfélszer több Víz Elementál idézhetõ a Haladó Víz Elementál Idézéssel, mint az Alap Víz Elementál Idézéssel.
+"	"{Mester Víz Elementál Idézés}
+
+A varázslattal Víz Elementálokat lehet idézni.
+
+Körülbelül kétszer annyi Víz Elementál idézhetõ a Mester Víz Elementál Idézéssel, mint az Alap Víz Elementál Idézéssel.
+"	 COMBAT_SPELL		
+Levegõ Elementál	Levegõ Elementál	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Levegõ Elementál Idézés}
+
+A varázslattal Levegõ Elementálokat lehet idézni.
+"	"{Alap Levegõ Elementál Idézés}
+
+A varázslattal Levegõ Elementálokat lehet idézni.
+"	"{Haladó Levegõ Elementál Idézés}
+
+A varázslattal Levegõ Elementálokat lehet idézni.
+
+Körülbelül másfélszer több Levegõ Elementál idézhetõ a Haladó Levegõ Elementál Idézéssel, mint az Alap Levegõ Elementál Idézéssel.
+"	"{Mester Levegõ Elementál Idézés}
+
+A varázslattal Levegõ Elementálokat lehet idézni.
+
+Körülbelül kétszer annyi Levegõ Elementál idézhetõ a Mester Levegõ Elementál Idézéssel, mint az Alap Levegõ Elementál Idézéssel.
+"	 COMBAT_SPELL		
+																																	
+Creature Abilities																																			
+																																			
+Kõvé Dermesztés	Kõvé Dermesztés	3					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL		
+Mérgezés	Mérgezés	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL		
+Földhöz Kötés	Földhöz Kötés	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL		
+Megbetegítés 	Megbetegítés	2					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL		
+Paralizálás	Paralizálás	4					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL		
+Öregítés	Öregítés	5					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL		
+Halál Felhõ	Halál Felhõ	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL		
+Villámcsapás	Villámcsapás	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL		
+Segítõ Varázslatok Törlése	Segítõ Varázslatok Törlése	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1							
+Halálra Dermszetés	Halálra Dermesztés	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1							
+Acid breath	Acid Breath	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1						

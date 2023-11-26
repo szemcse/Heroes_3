@@ -1,0 +1,24 @@
+"Note: Do not change the headings in this file, they are used to detect problems"	
+Status Bar Message	Tool Tip
+"Segítségért nyomd meg az F1-et"	
+Új hadjárat létrehozása	Új hadjárat
+Egy már létezõ hadjárat megnyitása	Hadjárat megnyitása
+A jelenlegi hadjárat elmentése	Hadjárat elmentése
+A jelenlegi hadjárat elmentése új néven	Hadjárat elmentése más néven
+"Program, verziószám és copyright információk megjelenítése"	A Hadjárat szerkesztõrõl
+Kilépés a hadjárat szerkesztõbõl	Kilépés
+Súgótémakörök megjelenítése	Súgótémák
+Segítség a jelenlegi parancssorhoz vagy feladathoz	Segítség
+Hadjárat megnyitása	
+Az ablak méretének megváltoztatása	
+Az ablak pozíciójának megváltoztatása	
+Kis méret	
+Az ablak megjelenítése teljes képernyõs módban	
+Ablak bezárása	
+Ablak méretének visszaállítása	
+Az összes küldetés frissítése a jelenlegi hadjáratban	
+Az összes küldetés exportálása a jelenlegi hadjáratból	
+Hadjárat tulajdonságainak módosítása 	Hadjárat tulajdonságai
+Küldetés tulajdonságainak módosítása 	Küldetés tulajdonságai
+Szövegek exportálása a jelenlegi hadjáratból egy szöveges fájlba	
+Szövegek importálása egy szöveges fájlból a jelenlegi hadjáratba

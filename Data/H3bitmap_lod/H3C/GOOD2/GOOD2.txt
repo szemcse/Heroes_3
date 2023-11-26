@@ -1,0 +1,42 @@
+Név:
+Felszabadítás
+
+Leírás:
+Sikerült megvetni a lábunkat Erathiában, de a nemzet szinte romokban hever. A fõváros, Steadwick felszabadításával kezdjük, és nem állunk meg, amíg minden hódítót ki nem verünk a földjeinkrõl.
+
+
+Steadwick felszabadítása - Battlestead
+
+Jobb-kattintásos szöveg:
+A szabad Erathiáért folytatott harc elsõ lépése a fõváros, Steadwick felszabadítása lesz a Nighon uralom alól. Nem lesz egyszerû feladat, mert a Dungeon Nagyurak eltorlaszolták a Steadwick Völgybe vezetõ hegyi ösvényeket.
+
+Bevezetõ:
+Hírszerzésünk szerint Nighon és Eofol erõi Steadwickben barikádozták el magukat. Minden megközelítési lehetõséget eltorlaszoltak. Erõsítéseik azonban föld alatti alagutakon át érkeznek. A nyugati seregek a csatatéren fognak találkozni velünk. Nincsmás mondanivalóm. Nem állunk meg, míg Steadwick fel nem szabadul.
+
+
+Bánj el az ördöggel - Frostland
+
+Jobb-kattintásos szöveg:
+III. Lucifer Kreegan, Eofol Fõparancsnoka levelet küld Catherine királynõ kastélyába. Azt állítja, hogy van egy túsza: Catherine férje, Roland Ironfist Enrothból, és csak egymillió arany váltságdíj mentheti meg az életét. 
+
+Bevezetõ:
+A nevem Dorrel, AvLee nagykövete. Catherine királynõtõl hozok üzenetet. Steadwick felszabadítása után egy Kreegan követ jelent meg a királyi udvarban. Azt állította, hogy van egy túszok: Enroth királya, Roland Ironfist. Egymillió aranyat kérnek váltságdíjként. Nem tudjuk igazolni az állítását. Igaz vagy sem, Catherine királynõ nem hajlandó fizetni. A követ kihallgatása után megtudtuk, hogy Rolandot a Kreelah klán tartja fogva Eofol belsejében. Találd meg a Kreelah klán bázisát és szabadítsd ki Rolandot. Erathiai sereged mellé támogatást küldünk AvLeebõl. Ez a küldetés halálosan komoly. Talán megmented Rolandot, talán csapdában találod magad.
+
+
+Semleges viszonyok - Marshland and Hillbridge
+
+Jobb-kattintásos szöveg:
+Nagykövet érkezik Bracadából üzenettel Gavin Magnustól, aki segítséget ajánl, és magának követeli Nyugat-Erathiát a harcoló tataliai és krewlodi haderõktõl. Itt az ideje, hogy emlékeztesd a szomszédaidat, hol is vannak a határok. 
+
+Bevezetõ:
+A nevem Winston Langer, a Gavin Magnus nagyvezír uralta Bracada nagykövete. Tatalia és Krewlod erõi harcolnak Nyugat-Erathiában. A több hónapos viszály után még mindig folynak a harcok. Bár kimerítette már a sok háború, uram mégis erõsítéseket küld számodra. Nem a briliáns taktika fogja megnyerni ezt a csatát, hanem az erõfölény határozza meg a gyõztest. Sok szerencsét.
+
+
+Alagutak és barlanglakók - Grainrich and Firecoast
+
+Jobb-kattintásos szöveg:
+Már tudjuk, miért esett el Erathia. Nighon és Eofol haderõi szó szerint aláásták a Nighon Szorost, és betörtek az Erathia partjai alatt húzódó Törp Tárnákba. Most arra kényszerítjük õket, hogy újra használják ezeket az alagutakat - ezúttal menekülési útvonalként, mert örökre kiûzzük õket Erathiából!
+
+Bevezetõ:
+Már tudjuk, hogyan foglalta el Nighon és Eofol Erathiát. A Nagyurak seregei által ásott kiterjedt barlanghálózaton keresztül támadtak egyszerre több helyen elsöprõ erõvel. Becsüld meg a katonaságot, amiért a fél országot megmentették. Felfedeztük azt az ütõeret, amin át a seregek nagy része érkezett Nighonból Erathiába; az óceán alatt húzódik, összekötve a nighoni alvilágot az erathiai szárazfölddel. Bracada és AvLee támogatást küldött a harchoz. Elõször meg kell semmisítenünk a szárazföldön maradt Kreegan és Nighon haderõket, majd üldöznünk kell õket a föld alá, és vissza kell ûznünk az ellenséget Nighon partjáig.
+
