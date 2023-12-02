@@ -1,0 +1,181 @@
+===== Térkép neve =====
+Egy penge a hátban
+
+===== Térkép leírása =====
+Gelunak le kell gyõznie Eeofol összes seregét a régióban, és el kell zárnia minden menekülési útvonalat. Nélküle a küldetés megbukik. Gelu a 24. szintig fejlõdhet, illetve megtartja tapasztalatát, képességeit és varázslatait a következõ pályára.
+
+===== Pletykák =====
+
+Név:
+Félszerzetek támadásai
+Szöveg:
+Egy magát Tavin Gerilláinak hívó csoport elkezdte megtámadni a kreeganiak karavánjait és kaszárnyáit Kreelah körül.
+
+Név:
+Félszerzetek 2
+Szöveg:
+Számos félvér holttestet találtak egy Moortanishoz közeli harcmezõn.
+
+Név:
+Erebus fiai
+Szöveg:
+Lucifer király elit serege, az Erebus Fiai készen áll az indulásra.
+
+Név:
+Xeron és a Penge
+Szöveg:
+Xeron, Lucifer király jobb keze, elkészítette a Végítélet Pengéjét… vagy legalábbis azt állítják.
+
+Név:
+Lucifer 1
+Szöveg:
+Lucifer király állítólag nem fogja elhagyni Kreelaht, valószínûleg a nagy terve miatt.
+
+Név:
+Lucifer 2
+Szöveg:
+Lucifer király a világ elpusztítására tör.
+
+===== Idõzített Események =====
+
+Név:
+Nyitás
+Üzenet:
+A tegnap éjjel küldött üzenet ezt tartalmazta:		"Gelu, eddig mindent a legnagyobb rendben végzel a gerilla támadásaidban, de eljött az idõ, hogy elinduljunk az Eeofol fõvárosa, Kreelah felé, és véget vessünk ennek a háborúnak egyszer s mindenkorra. Amíg a férjem és én délrõl, te AvLeen keresztül támadod meg õket, elzárva minden menekülési útvonalat. Nem szeretnék az eeofoli vidéken Lucifer király után kutatni. Nem engedhetjük meg, hogy használja a Végítélet Pengéjét. Sem most, sem soha! Ne okozz csalódást, hûséges Gelum. Túl sok forog kockán."
+
+Név:
+Politikai nyugtalanság
+Üzenet:
+Egy levél érkezett Catherine királynõtõl, melyet egy Griff lovas hozott, akin egyértelmûen látszik, hogy siet, mivel még le sem száll a nagy szárnyas jószágról. Ahogy feltéped a levelet, teljesen sokkban olvasod a tartalmát.		"Gelu, hûséges szolgálóm, azért küldöm ezt a levelet, mivel az erathiai nemesség egyre nehezebbé teszi az életemet a háborúban. Kezdik megtagadni a támogatásom. A katonákat már szinte egyáltalán nem küldik, vagy csak nagy késéssel. Azt mondják, hogy szerintük már vége a háborúnak. Keveset értenek hozzá azok a rövidlátású bolondok, s nem látják át a helyzet súlyosságát, amivel szembenézünk. Ezért azt javaslom, hogy mozgósítsuk újdonsült szövetségesünk, mivel szükségünk lesz rájuk a háború megnyeréshez. Van egy tervem, hogy intézzem el a nemeseket, de az idõzítésnek tökéletesnek kell lennie.		Sok sikert, számítunk rád." -- Catherine
+
+Név:
+Sleen elfogva
+Üzenet:
+A menekültek kiszûrése nem egyszerû feladat, amikor az ellenséget keresed. A seregeid átfésülik a vidéket azok után kutatva, akik elhagyják otthonukat, így becsapva a sorsot. Azt a parancsot kaptad, hogy északról gyakorolj nyomást a kreeganiakra, ezért így fogsz tenni.		A vége felé felállítottál számos csapatot, akiknek az a feladata, hogy az áradatot nézzék és keressenek benne lehetséges célpontokat. Az egyik ilyen csapat üzenetet küldött, hogy elfogtak egy igencsak fontos "menekültet", a Sleen nevû bírójelöltet. A parancsodra eléd hozták kikérdezésre.		Jó néhány óra faggatás után Sleen végre megtört, és a következõ információkat nyögte ki: Xeronnak valóban birtokában van a Penge és mihamarabb használni is fogja. Sleen említett még egy nagy kovácsot, aki meg lett "gyõzve", hogy elkészítse a fegyvert. A kovács nevét nem volt hajlandó elárulni. Úgy véled, hogy már amúgy sem fontos. A lényeg, hogy a Penge valódi és rászabadult a világra. Megtalálni nehéz lesz, fõképp elpusztítani.		Sleent Steadwickbe viszik, ahol bíróság elé fog állni.
+
+Név:
+Gerilla rajtaütés
+Üzenet:
+Egy futár egy furcsa üzenetet hozott neked, egy fára szögezett holttesttõl. Amikor megkaptad a levelet, akkor elmondták, hogy miként érkezett. Ettõl egy kicsit összerezzensz, mivel ez tényleg kegyetlen volt.		A levélben ez áll: "A gyilkos Gelunak, ez az egyetlen figyelmeztetés, amit kapsz, és tudd, hogy meg foglak ölni téged és mindenkit, akit szeretsz, amiért ezt tetted velem. Az üzenet bosszú az anyámért, Te szörnyeteg." -- Xeron, Erebus Fiainak vezetõje és a Végítélet Pengéjének viselõje.		Összezavarodva visszagondolsz azokra, akiket nemrégiben öltél meg. Semmilyen nõ nem jut az eszedbe. Volt egy parázna az egyik rajtaütés során 2 hete, de a gondolat, hogy az valaki anyja volt az utolsó dolog, ami eszedbe jut, mivel meg akarta enni a lelked.
+
+Név:
+Félszerzet gerillák
+Üzenet:
+Kieran, az egyik legmegbízhatóbb felderítõd jelentése alapján a csapata tegnap õrzõ-védõ járõrön voltak Moortanis közelében.  Ott látták, hogy egy csoport démon próbált átszökni a határon AvLeebe, de mielõtt a csapat levághatta volt õket, egy helyi apró emberszerû csapat lemészárolta õket, akiknél parittyák és apró kardok voltak. Bár számban nem voltak sokan, de a démonoknak esélyük sem volt. Egy párat meg tudtak ölni, de közel sem eleget.		Amikor a démonok már mind halottak voltak, a kis emberek eltûntek egy jól elrejtett alagútba. Kieran és csapata le volt nyûgözve a támadók vadságán és fürgeségén, de a végén azért odament a harctérre körbenézni. A kis emberek Félvérek voltak. Sokan azt hitték, hogy az Eeofolban élõ Félvérek már mind kihaltak, de úgy tûnik, hogy ez nem igaz. Érdekes.
+
+Név:
+Megjegyzés Rolandtól
+Üzenet:
+Reggel egy griff lovas hozott egy levelet a számodra, melyen Enroth királyának pecsétje található. Gyorsan kinyitod, kétszer átolvasod, hogy biztosra menj, utána pedig elégeted. Ez állt benne:		"Gelu, azért írok, hogy a seregeim úton vannak. Kendal tábornok visszatér Steadwickbe, hogy elintézzen egy kisebb politikai problémát, de a jelenlétét még most is érezzük. Kitûnõ munkát végeztél eddig a gerillatámadásaiddal, és ezért az ellenség szét van szóródva. Folytasd a jó munkát, és a fény oltalmazzon utadon." -- Roland
+
+Név:
+Gelu futárt küld
+Üzenet:
+A sok beszéd Erebus Fiairól elgondolkoztatott, így odahívtál egy futárt magadhoz, hogy látogassa meg Fairweather bírót, és vigyen el egy üzenetet. Mivel tudod, hogy a bíró a legbölcsebb ember egész Antagarichban, kérdések hosszú listájával indítod útjára a futárt. A prioritásod az, hogy megakadályozd a démoni seregek elmenekülését, de azért az sosem árt, ha megismered az ellenséged.
+
+Név:
+Félszerzetek visszavágnak
+Üzenet:
+A kémeid jelentése alapján számos gerilla félvér apró gyõzelmet aratott, és elvett egy déli ellátmány útvonalat a kreeganiaktól. Nem fogják tudni sokáig megtartani, mivel Erebus Fiai megkezdték munkájukat. Ha sietsz, segítségükre lehetsz, hogy visszaszerezzék szülõföldjüket. Nagyon félénkek, ezért ne számíts rá, hogy könnyen melléd állnak majd.
+
+Név:
+A futár visszatér
+Üzenet:
+Kora reggel a futár, akit Fairweather bíróhoz küldtél, visszatért. Fáradt, gyenge és alváshiánytól szenved, de mégis visszatért. A levél a holmija között volt, melyre azután találtál rá, hogy összeesett. Ez áll benne:		"A kérdéseidre válaszolva ennyit mondhatok, fiatal Gelu az Erdõ Õrségbõl. Erebus Fiainak Szentségtelen Rendje már lassan egy démoni szerzetesrend, melynek egy vágya van, hogy véghez vigyék Lucifer király kívánságát.		Mind jól képzett és harcedzett veterán. A leggonoszabb és legfondorlatosabb tagjuk az, akit Xeronnak hívnak. Az alapján, amit megtudtam róla, hogy jelenleg õ a vezetõjük, Lucifer király által személyesen kiválasztva.		Bár az idõ kegyetlennek tûnhet, sose becsülj alá egyet se, mivel szeretnek csalni. Mindig van új trükk a tarsolyukban. Akkor se bízz bennük, ha megadják magukat. Sok szerencsét a küldetésedhez." 	-- Fairweather bíró, döntéshozó és bölcs
+
+Név:
+Smith neve kiderült
+Üzenet:
+Tegnap hajnalban egy kisfiú jött futva a táborodba, az Ördög Csapása nevû sápadt harcost keresve. Ránézésre alultáplált és szikár. Bebotladozott, majd térdre esett a lábad elõtt. Felnézett, bele a szemedbe, majd elájult.		Néhány órával késõbb magához tért, és arról beszélt, hogy a Khazandar nevû Nagy Kovács tanítványa volt. Õ csak egy egyszerû fiú volt egy egyszerû kovácsmûhelyben, amikor is betoppantak ezek a rejtélyes, meseszerû lények. Sugdolózva beszéltek Khazandarral, majd kék füst kíséretében egy szempillantás alatt mind eltûntek. 		Hetekkel késõbb újra munkába hívták, hogy õ legyen az elsõdleges tanítványa Khazandarnak, melyet õ nagy tiszteletnek vett. Most azonban az emberek Khazandar körül nem a meseszerûek, hanem ijesztõek és démonikusak voltak. Egy magas, félelmetes tekintetû démon naphosszat Õt bámulta. Amikor befejezték azt, amit meg kellett csinálniuk, a Xeron nevû démon azt parancsolta, hogy vigyék el Õket Jagosba kivégzésre. Khazandart elvitték, a fiút pedig egy cellába hagyták meghalni. Azóta nem látta Õt. Csak néhány nappal késõbb tudott elmenekülni, és csak most ért ide. Azt hallotta, hogy ez a sápadt harcos folyamatosan gyõzi le a démonokat az elmúlt pár hónapban, így úgy döntött, hogy megkeresi. A fiú figyelmeztetni akart téged arról a dologról, amit segített elkészíteni, melynek a neve: Végítélet Pengéje.
+
+===== Tárgyak =====
+
+(6, 7, 0) ***Erdõvár***
+Név:
+Asha's Cairn
+
+(38, 2, 0) ***Famulus***
+Üzenet:
+"A csúnya gonosz Erebus Fiai áldozatává fogsz válni. Meg fogjuk elõbb kóstolni a húsod."
+
+(2, 13, 0) ***Famulus***
+Üzenet:
+"Erebus Fiai mindjárt itt lesznek. Le fognak gyõzni, amiért megtámadtál minket."
+
+(66, 64, 0) ***Pokolbéli Erõd***
+Név:
+Jagos
+
+(58, 12, 0) ***Pokolbéli Erõd***
+Név:
+Moortanis
+
+(39, 12, 0) ***Magóg***
+Üzenet:
+"Mi, Erebus kisebb fiai nem fogunk átengedni. Maradj itt, és halj meg, vagy fordulj meg, és menekülj. Nem kértünk segítséget és nem is adunk."
+
+(38, 9, 0) ***Famulus***
+Üzenet:
+"Ha meglátod a nagy Erebus Fiait, akkor meg fogsz ijedni, ahogy mi is."
+
+(33, 35, 0) ***Pokolbéli Erõd***
+Név:
+Zaridon
+
+(8, 23, 0) ***Konflux***
+Név:
+Flann
+
+(30, 5, 0) ***Konflux***
+Név:
+Caledoorn
+
+(2, 1, 0) ***Góg***
+Üzenet:
+"Nem tetszel nekünk. Most meghalsz."
+
+(10, 36, 0) ***Góg***
+Üzenet:
+"Mi vagyunk Erebus kisebb Fiai. Készülj a halálra."
+
+(15, 59, 0) ***Pokolbéli Erõd***
+Név:
+Ultana
+
+(13, 19, 0) ***Démon***
+Üzenet:
+"Kétségbeesett vagy és reszketsz azért, mert az Erebus Fiai lakmározni fognak a testedbõl."
+
+(25, 10, 0) ***Famulus***
+Üzenet:
+"Megesszük az izületeid!" Kiálltja a vezetõjük. "IZÜLETEK! IZÜLETEK!" kántálja a többi kísérõ a vezetõjük háta mögött, kinézve a válla fölött. Tényleg bátor harcosok.
+
+(20, 18, 0) ***Magóg***
+Üzenet:
+"Soha többé ne sétálj a fényben. Erebus Fiai úton vannak."
+
+(9, 2, 0) ***Magóg***
+Üzenet:
+"Megállj! A tisztító lángunk lesz a végzeted, ha megtagadsz minket!"
+
+(14, 3, 0) ***Famulus***
+Üzenet:
+"Erebus Fiai érkeznek. Vigyázz! Megfognak enni téged!"
+
+(21, 1, 0) ***Góg***
+Üzenet:
+"A beleid fogják díszíteni az odúnkat. Menekülj, amíg teheted, mivel az az egyetlen esélyed a megváltásra."
+
+(66, 65, 0) ***Esemény***
+Üzenet:
+Ahogy a seregeid elérik Jargos városát, egy különös dolgot veszel észre. Számtalan ember keresztre feszítve áll a harctéren. Egy különösen feltûnõ. Hosszú, szürke haja van, nagy szakálla, bajusza és egy különös aura veszi körül még így, holtan is. Úgy tûnik, hogy Nagy Kovács Khazandar sorsa beteljesült, és nem éppen kellemesen. Nem elég, hogy megölték, de meg is becstelenítették, és kiállították, hogy mindenki lássa és gúnyolódhasson rajta.
+
+(43, 17, 0) ***Esemény***
+Üzenet:
+Elõtted egy harctér látható számtalan holttesttel mindkét oldalon. A halott démonok szaga megtölti a reggeli levegõt, míg a másik oldal arra utal, hogy a Félvérek tényleg vissza akarják foglalni szülõföldjüket.		A több ezer halott Félvér felforgatja a gyomrod, így kénytelen vagy elhagyni a helyszínt. Az embereid nem ilyen szerencsések, mivel nem mindegyiknek jutott olyan agilis ló, mint a tiéd, ezért a mészárlás helyszínét sokkal lassabban tudják csak elhagyni. Jó néhány kiüríti gyomra tartalmát, ezzel is fokozva a már amúgy is elviselhetetlen bûzt.
+
+(9, 29, 0) ***Esemény***
+Üzenet:
+A démonok egy csoportja menekülni látszik. Vagy az, vagy öngyilkos küldetésre küldték õket. Milyen szánalmas egy csapat; esélyük sincs a seregeid ellen.
+
+===== Fájl vége =====

@@ -1,0 +1,72 @@
+===== Térkép neve =====
+Határvidékek
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod az összes bányát. Ezen a térképen hõseid csak tizenkettes szintig fejlõdhetnek, de a közülük a nyolc legerõsebb veled lehet a kampány utolsó térképén.
+
+===== Pletykák =====
+
+===== Idõzített Események =====
+
+Név:
+Bevezetõ elsõ rész
+Üzenet:
+Az elsõ parancsok Tralossk királytól elég egyszerûek: foglald el az összes bányát a vidéken, hogy a Tataliai seregeknek elég nyersanyaguk legyen egy nagyobb hadjáratra Erathia ellen.
+
+Név:
+Bevezetõ második rész
+Üzenet:
+De van egy jó és egy rossz hírem. A jó hír az, hogy a keleten zajló háború miatt az itteni három Erathiai helyõrség szinte teljesen kiürült. A rossz hír viszont az, hogy õk seregük gyorsabban nõ, mint a miénk, tehát gyorsan kell cselekedned.
+
+Név:
+Bevezetõ harmadik rész
+Üzenet:
+Természetesen, ha elõször legyõzöd az ellenfeleidet, a feladatodat már könnyûszerrel teljesítheted...
+
+===== Tárgyak =====
+
+(48, 25, 0) ***Útjelzõ tábla***
+Üzenet:
+Isten hozott Tataliaban.
+
+(49, 28, 0) ***Útjelzõ tábla***
+Üzenet:
+Isten hozott Erathiaban.
+
+(27, 24, 0) ***Útjelzõ tábla***
+Üzenet:
+Tatalia Hatodik Temploma
+
+(9, 28, 0) ***Útjelzõ tábla***
+Üzenet:
+Abdul Ostromgép-gyára. Nincs visszatérítés senkinek
+
+(60, 11, 0) ***Útjelzõ tábla***
+Üzenet:
+Gyíkok Faluja - Vendégeket nem fogadunk
+
+(32, 8, 0) ***Gnoll Martalóc***
+Üzenet:
+A Gnolloknak elegük van a sátor õrzésébõl , és rövid tárgyalás után eldöntötték, hogy csatlakoznak hozzád.
+
+(10, 9, 0) ***Útjelzõ tábla***
+Üzenet:
+Fenséges Vitorlás - Csak követeknek!
+
+(42, 19, 0) ***Esemény***
+Üzenet:
+Gnollok kis csoportja tûnik fel az úton. Ahogy odaérnek hozzád (nem fenyegetõleg), a vezetõjük átad neked egy hivatalos papírt: "Ezek a csapatok Tatalia dicsõségét szolgálják, használd õket akaratod szerint. Tralossk király."
+
+(44, 64, 0) ***Útjelzõ tábla***
+Üzenet:
+Abdul Védekezõ Edzése - Üdvözlünk mindenkit
+
+(57, 71, 0) ***Esemény***
+Üzenet:
+Ez az út mélyen Erathiába vezet, de elõbb talán biztosítsd ezt a vidéket mielõtt továbbhaladnál.
+
+(31, 47, 0) ***Útjelzõ tábla***
+Üzenet:
+Mocsári Tündék - Ne zavarj!
+
+===== Fájl vége =====

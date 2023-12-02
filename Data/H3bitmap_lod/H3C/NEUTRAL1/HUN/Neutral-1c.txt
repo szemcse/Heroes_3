@@ -1,0 +1,75 @@
+===== Térkép neve =====
+Kapzsiság
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod minden falut és várat és le kell gyõznöd minden elleséges hõst. Akármelyik oldalt is válaszd, a másik szemében örökre áruló leszel.
+
+===== Pletykák =====
+
+===== Idõzített Események =====
+
+Név:
+Tataliai bevezetõ elsõ rész
+Üzenet:
+Üzenetet kaptál Tralossk királytól: "Örömmel tölt el, hogy a mi oldalunkat választottad. A tapasztalataid az ostoba barbárok harcmodoráról elõnyt jelentenek számodra, bár több mint valószínû, hogy Boragus nagyúr vérdíjat tûzött ki rád az árulásod miatt."
+
+Név:
+Tataliai bevezetõ második rész
+Üzenet:
+"Ez a csata lesz a végsõ. Ki akarjuk terjeszteni határainkat egészen a Krewlodi hegyekig, de õk meg akarnak majd állítani. A megmaradt Erathiai erõk valószínûleg köztünk ragadnak majd, de ez ellen egyszerûen nem tudunk és nem is akarunk tenni semmit."
+
+Név:
+Tataliai bevezetõ harmadik rész
+Üzenet:
+"Gyõzedelmeskedj, és egész Tataliában bálványozni fognak. Ha elbuksz... ,de ezt még ráérünk megbeszélni." A levél csupán csak a Tralossk ház pikkelyes jelvényével volt lepecsételve.
+
+Név:
+Krewlodi bevezetõ elsõ rész
+Üzenet:
+A parancsaidat Boragus nagyúr egyik hadurától kapod. "Személy szerint soha nem szerettem a zsoldosokat, de Te bizonyítottad rátermettségedet egy második szolgálatra. Hallottam, hogy az öreg Tralossk mily dühös volt rád, hogy cserbenhagytad és megparancsolta, hogy kosárban vigyék a fejedet a színe elé."
+
+Név:
+Krewlodi bevezetõ második rész
+Üzenet:
+"Egyéként, ha nem tudnád magad is, ez egy háború a határokért. Tralossk a fejébe vette, hogy a mi területünkre fáj a foga. A Te feladatod, hogy megállítsd! Boragus nagyúr szeret téged, de az életed egy fabatkát sem ér majd, ha a Tataliaiak megjelennek a nagyúr palotája ajtajában."
+
+Név:
+Krewlodi bevezetõ harmadik rész
+Üzenet:
+"Most már a feladatod egyértelmû. Állíts meg a Tataliai elõrehaladást, aztán zavard vissza ezeket a hitvány gyíkembereket a határon, hogy még csak ne is gondoljanak többet a száraz fölre! Ó, hamár úgy is itt vagy, szabadulj meg ezektõl a bosszantó Erathiai helyõrségektõl! Jó szórakozást!"
+
+===== Tárgyak =====
+
+(46, 66, 0) ***Útjelzõ tábla***
+Üzenet:
+Déli Út
+
+(60, 16, 0) ***Útjelzõ tábla***
+Üzenet:
+Északi Út
+
+(96, 43, 0) ***Útjelzõ tábla***
+Üzenet:
+Goblin Villa
+
+(87, 57, 0) ***Útjelzõ tábla***
+Üzenet:
+Orc Villa
+
+(43, 66, 0) ***Esemény***
+Üzenet:
+Banditák bújtak elõ a bozótból és támadnak!
+
+(76, 15, 0) ***Esemény***
+Üzenet:
+Banditák bújtak elõ a bozótból és támadnak!
+
+(50, 14, 0) ***Esemény***
+Üzenet:
+Banditák bújtak elõ a bozótból és támadnak!
+
+(27, 60, 0) ***Esemény***
+Üzenet:
+Banditák bújtak elõ a bozótból és támadnak!
+
+===== Fájl vége =====

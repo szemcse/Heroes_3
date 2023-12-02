@@ -1,0 +1,179 @@
+===== Térkép neve =====
+A bánatok okozója
+
+===== Térkép leírása =====
+Xeronnak meg kell találnia a Nagy kovácsot, Khazandart, és kényszerítenie kell, hogy elkészítse az Végítélet Pengéjét. Ha Xeron elbukik, mindennek vége. Xeron a 24. szintig fejlõdhet.
+
+===== Pletykák =====
+
+Név:
+Xeron édesanyja
+Szöveg:
+Xeron egy erathiai lovag és egy parázna egybekelésébõl született.
+
+Név:
+Xeron édesapja
+Szöveg:
+Xeron apját elcsábította egy parázna, aki ugyan nem ölte meg Õt. Inkább megfertõzte, de így Õ soha többé nem volt már a régi...
+
+Név:
+Khazandar szülõföldje
+Szöveg:
+Khazandar valaha egy alkimista volt Bracadaban.
+
+Név:
+Khazandar, a zsoldos katona életútja
+Szöveg:
+Khazandar valaha egy varázsló volt, akit azért rúgtak ki Bracadaból, mert túlságosan korruptan viselkedett.
+
+Név:
+Khazandar korábbi szakmája
+Szöveg:
+A kovács valaha egy varázsló volt, de sohasem fejezte be a tanulmányait.
+
+Név:
+Khazandar érkezett hír
+Szöveg:
+Azt mondják Khazandarról, hogy attól a Galentõl tanult kovácsnak, aki Lord Haart kardját is készítette.
+
+Név:
+Khazandarról érkezett újabb hír
+Szöveg:
+Úgy hallottam, hogy Khazandar egyszer Tarach Öblében élt, ahol meg lett bízva, hogy készítsen egy törhetetlen adamantium kalapácsot a Baa Templomának fõpapja számára.
+
+Név:
+Tarach öböl
+Szöveg:
+Tarach Öble egy kikötõ város Bracadaban, ahol a hírek szerint olyan emberek laknak, akik a törvény másik oldalán állnak. Nem egy kellemes hely.
+
+Név:
+Xeron kegyence
+Szöveg:
+Xeron gyermekkori barátja Xex. Hûséges követõje már hosszú, hosszú ideje.
+
+Név:
+Kreeganiek dolgai
+Szöveg:
+A kreeganiak olyan sötét isteneket éltetnek, mint például Erebus, a Sötétség és Pusztítás Istene.
+
+===== Idõzített Események =====
+
+Név:
+Bevezetés
+Üzenet:
+"Sleen elhozta nekem a nevét annak az embernek, akit meg fogsz keresni. A nagy hírnévvel bíró Khazandar, a Nagy kovács, alkimista és fegyverkovács az egyetlen ember egész Antagarichban, aki rendelkezik azzal a tudással és képességgel, hogy elkészítse a Végítélet Pengéjét. Találd meg Xeron. Találd meg, és kényszerítsd, hogy elkészítse a Pengét. Amennyiben nem mûködne együtt, kínozd meg, amíg meg nem teszi. A látomásom valósággá fog válni, és te fogod véghez vinni a nevemben.		Sleen szerint valahol ezeken a Vitatott Földeken tartják fogva a Confluxosok. Pusztítsd el õket. Szenvedjenek, amiért szembe mertek szállni a végzettel. Túl közel állsz a gyõzelemhez ahhoz, hogy ilyen csõcselék megakadályozon. Gyõzedelmeskedj, és a jutalmad fenséges lesz. Viszont amennyiben elbuknál, úgy a bõrödet köpenyként, a szemeidet pedig gyûrûként fogom viselni."		Ahogy a látomás elhalványul a vörös kõkristály szilánkból, Sleenért küldesz. Hûséges szolgád, Xex elteleportál, majd pillanatokkal késõbb megjelenik az emberrel.		"Nos Sleen, itt a feladatom számodra. Találd meg nekem ezt a kovácsot. A kudarc nem elfogadható."
+
+Név:
+Gerilla támadások hírei
+Üzenet:
+Xex eléd teleportál egy üzenetet hozva. Letérdel nagyura és mestere elõtt, és belekezd jelentésébe.		"Mesterem, sajnálattal kell közölnöm, hogy az ellenségünk ismételten lecsapott az ellátmányainkra ugyanazt a rajtaütéses taktikát használva. További 3 karavánt elvesztettünk, és az egyik támadón rajta volt annak az átkozott harcosnak a szimbóluma."		"Kelj fel Xex, hûséges társam. Megbízatásom van a számodra. Keresd meg Sleent és mondd neki, hogy derítse ki, ki ez a rejtélyes harcos. Tudni akarom a nevét, hogy amikor megölöm, akkor biztos legyek a dolgomban."
+
+Név:
+Számítógép akadályozva
+Üzenet:
+
+
+Név:
+Khazandar tartózkodási helye
+Üzenet:
+Sleen bebotladozik a találkozási pontra, ahova Xex lökdöste. Odafordulsz az emberhez, aki már számtalan hasznos információval látott el. Láthatóan izzad, és tudod, hogy az ereiben a vér helyett a félelem van jelen. Egyértelmû, hogy Sleen még azon aggódik, hogy beteljesíted-e a fenyegetésed, miként meg fogod enni a szívét.		"Híreket hozok Felségednek," Kezdett bele Sleen reszketõ hangon. "A Nagy kovácsot, Khazandart egy egyszerû kunyhóban tartják fogva valamelyik alagútban, melyet a nighoni nagyurak hagytak maguk után, amikor megszállták Erathiát nem olyan régen. Könnyû lesz majd rátalálni, mivel fokozott õrség figyel rá."		"Gratulálok Sleen, sikerült túlszárnyalnod minden várakozásomat, hogy mennyire hatékony és hasznos tudsz lenni! Talán nem is kell majd megennem téged. Azonban, nem terveznék hosszútávra, ha a helyedben lennék."
+
+Név:
+Új hír Catherinerõl
+Üzenet:
+A kora hajnali órákban egy démon hírnök zavar meg, miközben tervezgetsz. Feldühödve azon, hogy megzavart, megragadod a démont a torkánál, és felemeled a föld fölé. A bûzös leheleted az arcát éri, miközben megkérdezed Tõle, miért zavart meg.		"Mesterem, üzenetet hozok a Vitatott Földön tartozkodó kémeinktõl. Egy találkozóról beszélnek, mely a Conflux várak és Catherine királynõ között zajlik. Arról is beszélnek, hogy a 2 hatalom szövetséget kötött egymással." Ennyit tudott kinyögni a démon, mielõtt összezúztad a légycsövét.		Miután ledobod a földre élettelen testét, dühbe törsz ki.		"Hozd elém Sleent! Tudni akarom, hogy ez az aprócska információ miért kerülte el a figyelmét. Tudni akarom, hogy Catherine királynõ miért van még életben! Tudni akarom, hogy miért vagyok KÖRBEVÉVE ilyen hozzá nem értõkkel! Xex! Takarítsd el ezt a hasznavehetetlen griffürüléket elõlem. Gondolkoznom kell."
+
+Név:
+Gelu megöli Xeron anyját
+Üzenet:
+A kétségbeesett kinézetû Xex belép hozzád. Egyértelmûen Õ a rossz hírek hordozója. Letérdel, mint ahogy azt szokás, de azonnal intést kap, hogy álljon fel, és kezdjen bele a jelentésébe.		"Mesterem, sajnálattal közlöm, hogy édesanyádat megölték egy harc folyamán. Az a sápadt harcos volt, aki már oly régóta gyötör minket. Édesanyád bátran küzdött, de mégis felülkerekedett rajta az az átkozott az egyik rajtaütése által. Fogadd õszinte részvétem Nagyuram." Xex egy lépést hátrál, ahogy ezt kimondja.		"Hagyj magamra."		Amikor elhagyta a sátrat, a térdedre zuhansz és zokogni kezdesz. Hamarosan azonban a zokogást felváltja a nevetés. Nevetés humor nélkül; olyan nevetés, melyet az örült düh tölt meg. Pillanatokkal késõbb, a sátorból folyamatos káromkodás és törés-zúzás hallatszik.
+
+Név:
+Halottak szellemei
+Üzenet:
+Kísértõ álmaid vannak éjszakánként. Az álmaidban szellemeket látsz, akik figyelmeztetnek Téged, miszerint a jelenlegi célod a pusztulásodhoz fog vezetni. Természetesen az arcukba nevetsz, de a látomások egyre rosszabbak. Persze Te így is kineveted Õket, hogy így akarnak eltéríteni a küldetésedtõl. Volt már sokkal rosszabban részed, mint egy pár unalmas szellem, aki álmodban zaklat.
+
+Név:
+Catherine felsorakozása Kreelah-nál
+Üzenet:
+Xex oda teleportál, majd letérdel eléd, amíg Te mélyen el vagy merülve a taktikai térképek tanulmányozásában. Megfordulsz és Xex vállára teszed a kezed.		"Mi hírt hozol hûséges barátom? Jó vagy rossz híreid vannak számomra? Kicsit lazíthatsz, amikor velem beszélsz."		"Szörnyûséges híreim vannak a számodra Mester. A kémeink jelentése szerint Catherine királynõ seregei már elérték Kreelaht is. Az északi csapatainknak nem sikerült áttörniük a védelmeit annyira, hogy betehessük a lábunkat Erathia földjére, és okom van azt hinni, hogy Roland király megerõsítette a pozícióját mielõtt õ maga is Eeofolba vonult volna. Nagyuram, félek, hogy vesztésre állunk."		"SOHA!"		Visszakézbõl megütötted Xexet az arcán annyira, hogy Õ a földön csúszik keresztbe a termen.		"Nem tudom elhinni, hogy mire kényszerítenek Engem. Nem fogom tovább eltûrni a kudarcot. Mindegyiket holtan akarom látni. Mészároljátok le mind! Ne hagyjatok 1 túlélõt sem. GYERÜNK!!!"		Xex ugyanolyan gyorsan elhagyja mestere sátrát, mint ahogy Te szabadjára engeded a dühödet az asztallal szembe. A térképek és a jelölõk szanaszét repülnek, mint spórák a szélben, mikor az asztalt felborítod.		"Jól vésd a fejedbe Catherine Vasököl, bosszút fogok állni rajtad. Erebus, a Sötétre esküszöm, hogy lenyúzom a gyereked bõrét, amint Te azt tétlenül végig fogod nézni. Ezen szemtelen tettedért meg fogod érezni a haragom súlyát."
+
+===== Tárgyak =====
+
+(97, 79, 0) ***Pokolbéli Erõd***
+Név:
+Scorch
+
+(56, 67, 0) ***Konflux***
+Név:
+Soal
+
+(99, 48, 0) ***Pokolbéli Erõd***
+Név:
+Dagger Peak
+
+(73, 13, 0) ***Pokolbéli Erõd***
+Név:
+Azrael Field
+
+(20, 94, 0) ***Konflux***
+Név:
+Frelin
+
+(21, 62, 0) ***Konflux***
+Név:
+Kaffinar
+
+(13, 9, 0) ***Konflux***
+Név:
+Diacara
+
+(48, 96, 0) ***Konflux***
+Név:
+Ciara
+
+(65, 43, 0) ***Konflux***
+Név:
+Shelindria
+
+(102, 16, 0) ***Pokolbéli Erõd***
+Név:
+Vandal Hall
+
+(34, 62, 0) ***Esemény***
+Üzenet:
+Elõtted található a régi nighoni alagút rendszer. Végre Sleen információi kifizetõdõnek tûnnek.
+
+(27, 50, 1) ***Látnok Kunyhója***
+Üzenet:
+Ahogy a kunyhóhoz közeledsz, egy furcsa fütyülésre leszel figyelmes, mely bentrõl jön. Egy szomorú, mérges hanglejtésû dal, mely tele van keserûséggel és aggodalommal. Különös módon érdekesnek találod a dalt, ezért odalépsz az ajtóhoz, és berúgod. Egy fehér szakállú idõs ember nyugodtan ül egy hintaszékben pipáját szívva. A szemei a semmibe tekintenek, még csak nem is pislog. Megköszörülöd a torkod, hogy magadra vond a figyelmét, mely csak nagyjából sikerül.		"Igen? Mit akarsz?" kérdezte bosszúsan az öregember. "Mondd gyorsan, elfoglalt vagyok."		"Hosszú utat tettem meg. Úgy hallottam, hogy Te vagy az, akit Khazandarnak hívnak, a nagy kovács, és Te vagy az, aki megalkothatja a Végítélet Pengéjét. Elhoztam a legendás varázstárgyakat, ami szükséges a rituáléhoz. Azt szeretném, hogy elkészítsd nekem a Végítélet Pengéjét."		Az öregember rád néz, megfontolja minden szavát, és szív egyet a pipájából. "Nos, végre eljöttél, hogy megalkossam az utolsó nagy mûvemet. Igen, én vagyok Khazandar, és igen, elkészítem a Pengédet. Azonban egy pár feltétel. Elõször is, kímélj meg, miután elkészült a fegyver. Másodszor, meg kell fizetned... bõségesen. Úgy gondolom, hogy 30000 arany tallér elég lesz. Amint megkapom azt, akkor elviheted a varázstárgyakat a tanítványomhoz, és akkor elkészítem a kardodat."
+Mélyen a szemedbe nézve Khazandar zihál, köhög, és valami zöldes folyadékot köp a lábad elé. "Amikor megvan a 30000 aranyam, akkor elkészítem a Pengédet. Az elõtt egy pillanattal sem hamarabb. Most eredj innen!"
+"Végre! Tessék, add ide a 30000 aranyat! Amúgy, ha már úgy is oda mész, vidd ezt el a tanítványomnak, már régóta keresi. Nemsokára én is csatlakozom hozzád, amint készen vagyok itt. Utána elkészítem a fegyvered."
+
+(45, 63, 1) ***Esemény***
+Üzenet:
+A sárkánytrágya dohos, penészes szaga tölti meg a levegõt. Talán nem erre kellene jönnöd.
+
+(58, 67, 1) ***Esemény***
+Üzenet:
+Elektromos kisüléseket hallani elõttünk és több emberednek is feláll a haja. Valóban furcsa érzés.
+
+(62, 68, 1) ***Esemény***
+Üzenet:
+Meleg levegõt érzel ebbõl az átjáróból. Talán egy kellemes kis lávató van elõtted. Ott legalább megpihenhetsz és kinyújtóztathatod az izmaidat. Azonban amilyen szerencsés vagy, nem fûzöl ehhez sok reményt.
+
+(44, 72, 1) ***Esemény***
+Üzenet:
+A dohos szag idelent fojtogató. A bizonytalanság érzése rágja a koponyád hátulját. Nagy kár, hogy Sleen nem tudta megtalálni azt az nyavalyás kunyhót. Ez pattogó láng, amit hallasz?
+
+(54, 53, 1) ***Esemény***
+Üzenet:
+A barlang faláról vízhangozva hallasz egy hangot, melyet ezelõtt még soha korábban. Olyan jajgatásszerû hang recsegéssel keverve. Nem vagy benne biztos, hogy mi okozza, talán csak a szél tréfája ez idelent… vagy talán mégsem.
+
+(21, 67, 1) ***Látnok Kunyhója***
+Üzenet:
+"A Mesterem mondta, hogy jönni fogsz. Azt mondta, hogy itt találkozzak veled és számítsak jó néhány varázstárgyra is. Birtokodban van a Pokoltûz Kardja, a Hárpiák Vértje és Az Átkozottak Pajzsa? Ja igen, azt is említette, hogy elhozod nekem a Állandóság Varázsgömbjét. Hónapok óta hiányolom már. Minden nálad van?"
+"Ha nem hozol el mindent, amire szükség van, akkor hogy várod el, hogy elkészítsük neked a Pengét? Mindent tökéletesen kell csinálnunk, különben a Penge hasznavehetetlen lesz."
+Khazandar és a tanítványa hátra megy, s pillanatokkal késõbb varázslatokat, kovácsolás kalapácsütéseinek hangját, és egy kis káromkodást hallasz. Kis idõ múlva, Khazandar elõjön kezében tartva egy pengét, melyet vastag ruhába csavart.		Lassan kitekeri a ruhát és egy pulzáló fény árad a fegyverbõl, melyet frissen kovácsoltak. A penge furcsán néz ki, még soha sem láttál hasonlót egész Antagarichban. A markolat sas formájú és a pengének furcsa alakja van, azonban a fegyvernek összetéveszthetetlenül visszataszító külleme van.		"Tessék, itt a pengéd, Sötét Harcos. Köszönjük a fizetséget. Most távozz, kérlek."
+
+===== Fájl vége =====

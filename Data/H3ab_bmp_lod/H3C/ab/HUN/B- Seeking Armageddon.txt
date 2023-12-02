@@ -1,0 +1,102 @@
+===== Térkép neve =====
+Végítélet Pengéjének keresése
+
+===== Térkép leírása =====
+Xeronnak meg kell szerezni a Pokoltûz Kardját, a Hárpiák Vértjét és Az Átkozottak Pajzsát. Ha meghal, Eeofol reménye is vele hal. A 12. szintig fejlõdhet és megtartja tapasztalatait, képességeit és varázslatait a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+"Te, hûséges Xeronom, megkaptad eme dicsõséges feladatot, hogy megtaláld a varázstárgyakat, amikre szükségem van, hogy elkészítsem a Végítélet Pengéjét. A múltbéli kudarcaid ellenére is Te vagy a legalkalmasabb eme feladatra. A látomásom valósággá fog válni, és te fogod véghez vinni a nevemben. " Lucifer gyengéden,de erõteljesen, nyájasan beszél.		"A három elementál hõst megtaláltuk, kik legyõztek Téged a múltban, és úgy tûnik, hogy jelenleg elfoglaltak. Bár felbõszítettek azzal, hogy összegyûjtötték a varázstárgyakat, mielõtt megérkeztél, de Neked a küldetésedre kell koncentrálnod. Ne hagyd, hogy olyan jelentéktelen dolgok, mint a büszkeség az utadba álljon. Xenofex egy arrogáns bolond volt. Ez vezetett a végzetéhez az erathiai hõsök által."		"Megkaptad a Háború Béklyóit azért, hogy biztosan egyik hõs se meneküljön el elõled. Szorítsd sarokba õket, találd meg a varázstárgyakat és büntesd meg õket. Hogy mernek az utunkba állni."		"A hûségedért és a kitartásodért lettél kiválasztva. Ne okozz csalódást. Figyelni fogom utazásod." Ezzel az alak elhalványul, és egyedül maradsz a saját eszközeiddel és a tervezéssel. Megesküszöl mindenre, ami sötét és szentségtelen, hogy a vereség nem elfogadható. A vereség egyenlõ a halállal. A gyõzelem az egyetlen célod az életben.
+
+Név:
+Sleen látogatása
+Üzenet:
+Egy robbanásszerû hang és egy kénköves felhõ kíséretében Xex teleportálva megérkezik, a küldönc, akit azért küldtek, hogy megtaláljon egy bölcset. Xex a karmai között tart egy bozótos bajszú apró embert. A férfi leporolja magát, mintha csak simán le tudná söpörni a démoni teleportálás kártékony szagát.		"Te vagy az, amit keresek, ember?"		Sleen egy kicsit idegesnek tûnik, de mélyen meghajol, majd így szól: "Én vagyok Sleen bíró, bölcs mester és arkániai történész."		"Mondj el mindent, amit tudsz a három Conflux hõsrõl, akik oly sok hétig elkerültek. Megtudom, amit tudsz róluk, vagy kitépem a szíved a mellkasodból, és megeszem."		Sleen nyelt egyet, mielõtt reagált volna: "A nevük Fiur a Tûz Birodalmáról, Ciele a Végtelen Óceánból és Erdamon a Föld Világából. Fiur õrzi az Átkozottak Pajzsát, Ciele a Pokoltûz Kardját és Erdamon a Hárpiák Vértjét. A három helyesen kombinálva megalkotja egy óriási hatalommal bíró fegyvert, melyet találóan az Végítélet Pengéjének hívnak."		"Kitûnõ munka, ember. Talán még élhetsz egy darabig. Mondd meg, hol találom meg ezeket a hõsöket?" Ez után elkezdesz dobolni az ujjaiddal, amolyan elmélkedõ stílusban.		"Fiurt dél nyugaton találod. A másik kettõ helyzetét nem tudom, ó szentségtelensége, de megtisztelõ lenne, ha megengednéd nekem, hogy kiderítsem a hollétét ennek a ravasz párosnak."		"Rendben, de ha nem hozod el, amit keresek 1 hét alatt, akkor utánad küldöm Xext, hogy hozza el a még dobogó szíved vacsorára. Most menj!"		Xex elkapja a rémült bölcset, és elteleportál. Egy gonosz mosoly után a kapitányaid után küldetsz. Fiur ismét a kezeid között van, és most nem fog tudni hova menekülni.
+
+Név:
+Kincs!!!
+Üzenet:
+Az egyik kémed jelentése alapján egy hatalmas láda arany és nyersanyagok találhatóak északra.
+
+Név:
+Sleen visszatér
+Üzenet:
+A sátrad bejáratához egy emberi alakot dobnak. Odafordulsz egy vigyorral, és ránézel erre az embernek is szánalmas lényre, aki ott fekszik, összetörve és rongyosan.		"Jó reggelt Sleen, mi hozott az ajtómhoz ezen a szép sivár napon?"		Sleen átfordul a hátára, és próbál fókuszálni a szemeivel, amik üvegesek egy sérülés miatt, melyet a túlbuzgó õrök okoztak.		"Híreket hozok Hatalmasságodnak a két Conflux hõsrõl, akiket keresel. Ciele a Végtelen Óceánból egy Phaedral nevû várban található, melyet erõsen megerõsítettek. Erdamon a Föld Világából délkeletre található attól a vártól és nem is túlságosan messze." jelenti a földön csúszva az ember, szemei a sátor felé tekintenek kiutat keresve, ha esetleg a Sötét nagyúr nem lenne elégedett a jelentéssel.		"Rendben ember, visszatérhetsz a nyomorult kis életedhez. Megkíméllek, ahogy megígértem. Most menj, tûnj el, mielõtt meggondolom magam. XEX! Tüntesd el ezt a szánalmas férget innen… vidd el valami… kellemetlen helyre."		Xex megragadja Sleent a csuklójánál, és elteleportál. Pillanatokkal késõbb visszatér, és jelenti, hogy kidobta Sleent valami csata közepére, ahol egy fiatal varázsló mágusai küzdenek egy csoport lila pillangószárnyú sárkánnyal. Úgy gondolta, hogy ez volt a legkellemetlenebb anélkül, hogy megölje Õt.
+
+Név:
+Gerilla rajtaütés
+Üzenet:
+A szolgáid jelentették, hogy jó néhány kulcsfontosságú ellátmányt szállító karavánunkon rajtaütöttek, a tartalmát kirabolták, a szekereket szétzúzták. Sajnálatos módon a banditák elmenekültek, mielõtt akár egyet is elfogtunk volna. Ez egy drága probléma lesz.
+
+Név:
+Rossz hírek a gerillákról
+Üzenet:
+A jelentések csak úgy özönlenek a terület minden pontjáról. Valaki a kis táborainkat fosztogatja, míg néhány vakmerõ még a városainkat is megtámadja. Kevesen vannak, mégis erõsek. Ezen rajtaütések ellen nehéz védekezni, de meggyõzted a szolgáidat, hogy valójában hogyan lehetséges véget vetni ezeknek a támadásoknak.
+
+Név:
+Kém elfogása
+Üzenet:
+A múlt éjjel a sötétségben lépkedtéll, töprengve a lehetõségeken, amikor hírtelen valami zajt hallottál balról. Lassan a hang irányába fordultál. Nagy örömödre egy apró tündét vettél észre egy fa tetején egy távcsõvel és egy tegez nyíllal. Mosolyogtál, majd a férfi mögé teleportáltál. A kénkõ szaga megtöltötte a tünde orrát, aki ettõl köhögött. Gonoszan rámosolyogtál a kémre és magaddal vitted kihallgatásra.		A kihallgatás hosszú és gyötrelmesen fájdalmas volt a tünde számára, de ennek ellenére sem beszélt. Az earthiaiak jól képzik az Erdõõreiket, legalábbis úgy néz ki. A fosztogatások vezetõjét el kell fogni, és el kell intézni.
+
+Név:
+Sit Rep
+Üzenet:
+"Lucifer király tudni szeretné, hogy mit teszel azért, hogy összegyûjtsd a varázstárgyakat, amik a Végítélet Pengéjéhez kellenek, mirõl már hetek óta álmodik." Mély hang érkezett ekkor a Beszéd Kamrájában lévõ bíbor kõkristályból. A szíved a torkodban dobogott.		"Megtudtam a három hõs helyét, akiket keresel Mesterem. Már csak az maradt hátra, hogy elpusztítsam ezeket a szánalmas seregeket. Nemsokára a birtokomban lesznek a varázstárgyak. Ne aggódj, mivel a kudarc nem elfogadható számomra."		"Gondoskodj róla Xeron. Szörnyû lenne belegondolni, hogy mi történne veled, ha csalódást okoznál." A hang elhalkul, a bíbor kõkristály furcsa módon csendes és unalmas színû. Egyedül maradtál.
+
+Név:
+Unió létrejötte
+Üzenet:
+Egy fiatal Aknaszörny a tábor közepébe masíroz, és odalép Hozzád. Ezen a ponton tiszteleg, és tájékoztat arról, hogy Catherine királynõ és ezek az átkozott Elementál Conflux hõsök szövetségre léptek Eeofol hatalma ellen.		"Semmilyen probléma nem számít most. Amint elkészül a Penge, semmi sem állhat majd az utamba. Mindenki a vértavakba fog fulladni, és csak a tûz lesz a sírfeliratuk."
+
+===== Tárgyak =====
+
+(64, 21, 0) ***Inferno***
+Név:
+Mourningdale
+
+(26, 63, 0) ***Inferno***
+Név:
+Havoc Peak
+
+(64, 64, 0) ***Inferno***
+Név:
+Blackpool
+
+(27, 6, 0) ***Conflux***
+Név:
+Sevenar
+
+(28, 35, 0) ***Conflux***
+Név:
+Tieldis
+
+(3, 44, 0) ***Conflux***
+Név:
+Shantalla
+
+(4, 55, 0) ***Esemény***
+Üzenet:
+
+
+(11, 25, 0) ***Hárpiák Vértje***
+Üzenet:
+A mellvért egy kísérteties narancs fényben csillog a napsütésben. Ahogy közelebb lépsz, észre veszed, hogy lángok kezdtek el táncolni a fémen belül, a felszíne alatt. Ez egy igencsak furcsa látvány, az egyszer biztos. Azonnal felismered, hogy ez az, ami után már régóta kutatsz. A Hárpiák Vértje.
+
+(1, 56, 0) ***Átkozottak Pajzsa***
+Üzenet:
+Ahogy a föld csillogni kezd az áramló mágikus energiáktól, észreveszel egy pajzsot, melyen pokoli lángok találhatóak. Piros és fekete lángok terítik be a pajzs felületét, olyan baljósló módon.
+
+(1, 7, 0) ***Pokoltûz Kard***
+Üzenet:
+Egy kis oltár tetején fekszik egy kard, melynek pengéjét bûzõs pokol tüzében kovácsolták. Téged hívogat, és engedelmeskedsz gonosz kívánságának, miszerint mészárolni szeretne, hogy az oldaladra kösd fel a fegyvert.
+
+(4, 4, 0) ***Conflux***
+Név:
+Phaedral
+
+===== Fájl vége =====

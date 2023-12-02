@@ -1,0 +1,140 @@
+===== Térkép neve =====
+A Király visszatér
+
+===== Térkép leírása =====
+Rolandnak le kell gyõzni a Nagy Tó túloldalán táborozó démoni seregeket. Roland nélkül az emberei külön utakra mennének. Roland a 24. szintig fejlõdhet. Minden tapasztalatát, képességeit és varázslatait megtartja a következõ pályára.
+
+===== Pletykák =====
+
+Név:
+Feketepiac
+Szöveg:
+A Nagy Tó közepén elrejtve van egy sziget, a tolvajok kikötõje, ahol lopott, mágikus tárgyak nagy választéka található.
+
+Név:
+Aranybánya
+Szöveg:
+A közelben található egy kimeríthetetlen mennyiségû kincs, melyet a Regnan kalózok rejtettek el, a Faler-on-tengertõl keletre található.
+
+Név:
+Regnan Kalózok 1
+Szöveg:
+A Nagy Tó valaha búvóhelyül szolgált a Regnan kalózok számára, akik az erathiai hadiflotta elõl menekültek. Rengeteg hajó lehet még ott, csak arra várva, hogy valaki kifossza azokat.
+
+Név:
+Regnan Kalózok 2
+Szöveg:
+Az erathiai Magnus Bon admirális sarokba szorította és legyõzte a Pirouette nevû nõi kalózt ezen a tavon. Azóta a regnaniak nem használják ezt a búvóhelyet.
+
+Név:
+Félszerzetek 1
+Szöveg:
+Nemrég láttam néhány Félszerzetet és idegesnek tûntek, mintha harcba indulnának vagy ilyesmi.
+
+Név:
+Félszerzetek 2
+Szöveg:
+Eeofol régen a Félvérek otthona volt. Legalábbis a Hullócsillagok Éjszakájáig, amikor az ördögök megérkeztek.
+
+Név:
+Félszerzetek 3
+Szöveg:
+Egy kreegani ellátmány karavánt megmagyarázhatatlanul elpusztítottak a múlt héten. Az egyetlen jel, ami arra utal, hogy ki tette egy fába vésett felirat volt: "Tavin Gerillái jártak itt."
+
+Név:
+Xeron segítõje
+Szöveg:
+Valami nagy tudású ember támogatja a kreegani Xeron tábornokot. Úgy hallottam, hogy valamikor vitában állt valami bíróval valahol.
+
+===== Idõzített Események =====
+
+Név:
+Bevezetés
+Üzenet:
+A Nagy Tó szélén állva Te, Enroth királya elmélkedsz a helyzeten. A sereged a nyugati parton áll, szemlélve az eeofoliak által birtokolt parázsló földeket a tó keleti oldalán. Kendal tábornok és a Te kombinált sereged, megérkeztetek egy fontos küldetésre.		Itt találkoztál az új Conflux szövetségeseiddel, hogy elzárjátok a kreeganiak ellátmány vonalát, és visszaszorítsátok Eeofol seregeit az Erathia/Eeofol határról Catherine és Gelu seregei irányába. Ha sikerrel jártok, az eeofoli kreeganiaknak egy védekezõ háborút kell majd vívniuk.		Muszáj egyben tartanod ezt a szövetséget, mivel az erathiai sereget egyre nehezebb fenntartani. Még maga Catherine is növekvõ nyomás alatt van, hogy minél elõbb véget vessen a háborúnak. Egyértelmûen látszik, hogy azoknak a bolondoknak elképzelésük sincs, hogy milyen következményekkel járna, ha elveszítenék ezt a háborút. Ha nem sikerülne megállítanod az õrült Lucifer királyt és a küldetését a világ elpusztítását, akkor nem csak Erathia, hanem egész Antagarich megsínylené a haragját. Talán még az imádott Enrothod is a lángok áldozatává válna, ha ez az átkozott démon király sikerrel járna.		Megrémülve a gondolattól, összeszeded magad, megigazítod a ruhád, és visszalépsz a tisztjeidhez. Meglovagolva hatalmas erathiai csõdörödet, kiadod a parancsot az indulásra. Egy megnyerendõ háború és egy megmentendõ világ vár rád.
+
+Név:
+Levél Catherinetõl
+Üzenet:
+Tegnap éjjel egy levél érkezett Catherinetõl a táborodba. Megörülsz neki, mint egy kisgyermek a Napforduló alkalmával. A papírnak mindenféle illata volt, de fõleg az Õ különleges parfümét lehetett rajta érezni, melyet annyira imádsz.		"Legkedvesebb Rolandom, rossz hírek miatt írok neked. A kémeim jelentése alapján a Xeron névre hallgató kreegani hõsnek sikerült az elképzelhetetlen, létrehozta a Végítélet Pengéjét. Figyelmeztetlek, mivel úgy hallottam, hogy egy hatalmas sereget küldött ellened. Vigyázz magadra és add át üdvözletem Kendal tábornoknak. Tudom, hogy diadalmat fogtok aratni, mivel bízom mindkettõtökben." -- Catherine
+
+Név:
+A kémek aranyat találnak
+Üzenet:
+Egy késõ este érkezõ üzenet alapján a felderítõid kiszúrtak egy szigetet keletre Faler-on-tengertõl, ami megközelíthetetlen volt. Az arany ragyogását még a partról is jól lehetett látni. Talán ez az a hely, ahol a rettegett Regnan kalózok kincsei találhatóak. A gond csak az, hogy milyen módon jussunk át a szigetre? Kell lennie megoldásnak, mint például egy alagút vagy egy monolit.
+
+Név:
+A földmûves gazda
+Üzenet:
+Ahogy Kendal tábornok a katonáinak reggeli megszólításra készül, egy félénk földmûvest hoztak elé. A gazda mesél a nemes tábornoknak az ördögfajzatokról, és hogy Õk a felelõsek a jószágai eltûnéséért. 		Kendal tábornok, mint egy diplomata, biztosította a gazdát, hogy személyesen fogja garantálni, hogy az állatai visszakerüljenek hozzá vagy amennyiben már nem élnek, úgy meg legyenek bosszulva. A gazda elégedetten távozik, mivel tudja, hogy Morgan Kendal mindig betartja a szavát.
+
+Név:
+Kentaur hírnök
+Üzenet:
+Kora reggel egy fiatal kentaur hírnök érkezik a reggelim után, egy üzenetet hozva Gelutól. Megköszönöd neki, majd a kentaur elvágtat, hogy visszatérjen a mesteréhez. Kinyitod a levelet és elkezded olvasni.		"Nagyuram és királynõm férje, azért küldtem el Hrisleaghot ezzel az üzenettel, hogy tudassam veled állásunkat. A gerilla támadásaink nagyon jól haladnak, az ellenség érzi a veszteségek mértékét. Kezdenek folyamatosan visszavonulni, de nagyon sok embert veszítettem e közben. Elkezdtem bevonni az új szövetségesünk seregeit is, és nagyon hatékonynak találom õket. Keményen és jól küzdenek. Javaslom, hogy bízz bennük, mivel hûségesek és erõszakosok. Jó szerencsét kívánok neked Nagyuram. A fény segítse utadat." -- Gelu, az Erdõ Õrség kapitánya
+
+Név:
+Roland rémálma
+Üzenet:
+Képek és hangok örvénylenek át az elmédben, amikor alszol. Szörnyû képek, amiket a sérült lelked okoz, mely csak egy kis megnyugvásra vágyna. Majdnem hét évig voltál fogva tartva, és a kínzás, melyet neked okoztak, elképzelhetetlen volt. Így most a hét év rémálmaitól szenvedsz.		Az álom minden nap ugyanaz. Egy cellába zárva találod magad, a falak valami sötét nyirkos kõbõl vannak, egy ajtó van, ami az egyetlen kijárat. Egy ágyhoz vagy láncolva, a húsod tele van valamiféle bogárral és arra vagy kényszerítve, hogy a megkínzott lelkek sikolyait hallgasd, akik elkísérnek téged a pokolba vezetõ úton. Az ostor csattanásának hangja, ahogy minden egyes ütésnél letépi a húst az áldozatáról, illetve jajveszékelése szét akar tépni belülrõl. Küzdesz, hogy megszabadulj ettõl a rémálomtól, de még inkább csak jobban elemészt téged.		Ahogy a szenvedések hangjai folytatódnak, a cellád ajtaja kinyílik és számos groteszk alak lép be hozzád. Leveszik a láncaidat, majd végighúzzák a használhatatlan tested az udvaron. Odahelyeznek a többiek mellé, ahol szép lassan lehámozzák a bõrödet. Kétségbeesetten próbálsz nem sírni, de ezt csak egy rövid ideig bírod megállni. Miközben élve megnyúznak, egy pillanatra kiszúrod a démonok vezetõjét, aki csak nevet a magatehetetlen királyon. Összeszorítod a fogaidat a fájdalomtól és megpróbálod visszatartani a könnyeket, amik már annyira kicsordulni szeretnének. 		Miután kiélték magukat, visszadobnak a celládba. Sebeid begyógyítják, de a fájdalmat nem szüntetik meg. Mivel a puszta kíntól mozdulni nem bírsz, így csak fekszel ott eme halál közeli állapotban. Felemeled a fejed a hideg kõrõl, hogy az ütésektõl feldagadt szemeddel ránézz a megbolondult testvéred kísérteties arcképére, aki épp rajtad nevet. Archibald szelleme rád mutogat és közben rajtad vihog, olyan módon, ami annyira felidegesít, hogy el sem hiszed. Sose voltál még ilyen tehetetlen egész életedben. Az Örökösödési Háborúk óta nem érezted magad ennyire egyedül.		Megakarsz halni, egyszerûen nem akarsz létezni, de a démonok ismét eljöttek érted, hogy egy újabb verésre vigyenek. Ahogy a karodért nyúlnak, a szemeid kinyíltak, és még jobban becsavarod magad az ágynemûdbe. Nem ez az elsõ éjszaka, hogy átélted ezt a rémálmot, de az elsõ alkalom az elmúlt pár hétben. Találnod kell megoldást arra, hogy elcsendesítsd ezeket a belsõ démonokat és elûzd õket egyszer és mindenkorra.
+
+Név:
+Nicolai születésnapja
+Üzenet:
+Egy kis dombon állsz és átnézel a Nagy Tó fölött, szemeidben könnyek, mivel ma van Nicolai fiad születésének 16. évfordulója, Te pedig itt állsz és egy háborút vívsz. A hiányolt fiad utáni gyötrelem és bánat még jobban erõsíti a bánatodat, fõleg így, hogy a rémálmok is visszatértek. Az élet nem tûnik könnyûnek.
+
+===== Tárgyak =====
+
+(65, 7, 0) ***Pokolbéli Erõd***
+Név:
+Végzet címere
+
+(58, 29, 0) ***Pokolbéli Erõd***
+Név:
+Halál kapuja
+
+(66, 67, 0) ***Pokolbéli Erõd***
+Név:
+Glen bánata
+
+(8, 33, 0) ***Kastély***
+Név:
+Keventry
+
+(34, 44, 0) ***Pokolbéli Erõd***
+Név:
+Hideg vizet
+
+(37, 4, 0) ***Pokolbéli Erõd***
+Név:
+Bane híd
+
+(54, 53, 0) ***Pokolbéli Erõd***
+Név:
+Kalóz-öböl
+
+(22, 4, 0) ***Konflux***
+Név:
+Gelliston
+
+(3, 7, 0) ***Kastély***
+Név:
+Magas vár
+
+(5, 68, 0) ***Kastély***
+Név:
+Faler-on-tenge
+
+(18, 44, 0) ***Konflux***
+Név:
+Shaynda
+
+(4, 8, 0) ***Lovag***
+Név:
+Kendal tábor
+
+(17, 56, 0) ***Esemény***
+Üzenet:
+Ez a kis medence valóban a nyughelye az egykor hatalmas Aquamancernek. Ahogy feltárod utolsó nyughelyét, az õrzõk, kiket sírja védelmére varázsolt el megkezdik mesterük védelmét, és rád támadnak.
+
+===== Fájl vége =====

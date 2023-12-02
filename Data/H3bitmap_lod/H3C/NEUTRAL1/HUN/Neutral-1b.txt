@@ -1,0 +1,33 @@
+===== Térkép neve =====
+Aranyláz
+
+===== Térkép leírása =====
+A gyõzelemhez össze kell szedned 200,000 aranyat. Ezen a térképen hõseid csak tizenkettes szintig fejlõdhetnek, de a közülük a nyolc legerõsebb veled lehet a kampány utolsó térképén.
+
+===== Pletykák =====
+
+===== Idõzített Események =====
+
+Név:
+Bevezetõ elsõ rész
+Üzenet:
+Hosszú ideje csatározunk az Erathiai seregekkel a keleti határon. Nagy részünk van a harcosaik megedzésében, hogy oly erõssé váljanak, mint amilyenek. Nemrégiben egy támadásunk gyõzelmet és meglepõen sok hadifoglyot hozott.
+
+Név:
+Bevezetõ második rész
+Üzenet:
+Ezen foglyok kihallgatásakor beigazolódott az a gyanúnk, miszerint a királya nélkül Erathiának nincs szíve. Nem célunk háború indítása, hanem a közeli területek gyors és könnyû kifosztása. Ha meglesznek a forrásaink..., akkor majd beszélhetünk háborúról. 
+
+Név:
+Bevezetõ harmadik rész
+Üzenet:
+De addig is független részvételt várunk el tõled, hogy kifoszd a közeli keleti Erathiai földeket. Ha elfognak, számunkra csupán egy vérszomjas klánvezér leszel, aki az ország érdekei ellen és tudta nélkül cselekszik. 
+
+Név:
+Bevezetõ negyedik rész
+Üzenet:
+Busásan megfizetünk, de meg kell dolgoznod a fizetségedért. A nagyúr elhatározta, hogy Krewlodnak  legalább 200,000 aranyra lesz szüksége, hogy felkészüljön a továbbiakra. Indulj, és sok szerencsét!
+
+===== Tárgyak =====
+
+===== Fájl vége =====

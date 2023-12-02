@@ -1,0 +1,195 @@
+===== Térkép neve =====
+Megölni egy hõst
+
+===== Térkép leírása =====
+Catherinenek, Gelunak és Rolandnak le kell gyõznie a démoni Xeront. Ha bármelyikük vereséget szenved, mindennek vége. Catherine, Roland és Gelu a 36. szintig fejlõdhet és megtartják tapasztalataikat, képességeiket és varázslataikat a következõ pályára.
+
+===== Pletykák =====
+
+Név:
+Félszerzetek 1
+Szöveg:
+A Félszerzet kémek behatoltak a palotába.
+
+Név:
+Félszerzetek 2
+Szöveg:
+Xeron számos Félszerzetet fogott el rabszolgának. Ezek a rabszolgák valójában beépített kémek.
+
+Név:
+Xeron 1
+Szöveg:
+Gelu megölte Xeron anyját, és ezért Õ bosszút akar állni.
+
+Név:
+Xeron 2
+Szöveg:
+Xeron anyja, egy parázna, elcsábított egy Erathiai lovagot, aki a találkozásuk eredményeként megváltozott. A lelke visszafordíthatatlanul megfertõzõdött.
+
+Név:
+Xeron 3
+Szöveg:
+Xeron a hátán hordja a Pengét szinte minden alkalommal, ráadásul még azzal is alszik.
+
+Név:
+A Végítélet Pengéje 1
+Szöveg:
+A Végítélet Pengéje lehetõvé teszi a viselõjének, hogy használja a Végítélet varázslatot.
+
+Név:
+A Végítélet Pengéje 2
+Szöveg:
+Azt mondják, hogy Penge viselõje immunis a Végítélet varázslatra.
+
+Név:
+A Végítélet Pengéje 3
+Szöveg:
+Akinél a Penge van, közel sebezhetetlen.
+
+Név:
+Félszerzetek 3
+Szöveg:
+Tavin gerillái titokban mûködnek a területen.
+
+Név:
+A Végítélet Pengéje 4
+Szöveg:
+A Végítélet Pengéje káoszban született, mágia által formálódott, az acél a hússal van összekovácsolva.
+
+Név:
+A Végítélet Pengéje 5
+Szöveg:
+A Penge a halottak lelkével táplálkozik.
+
+Név:
+A Végítélet Pengéje 6
+Szöveg:
+A Pengét a 4 elem démoni vérrel való összekeverésébõl kovácsolták.
+
+Név:
+Xeron 4
+Szöveg:
+Xeron a káosz magjainak elvetésével eteti a Pengét. A nyugtalanság és a küzdelmek éltetik.
+
+===== Idõzített Események =====
+
+Név:
+Nyitás
+Üzenet:
+A háború iránti támogatás nagyon megapadt az Erathiai nemesek között az elmúlt pár hónapban. Ez költséges volt aranyban és életekben, értékes árucikkekben minden bizonnyal. Azonban ez a törekvés a legnagyobb fontossággal bír, ha a jövendõmondó állítása valódi. Ha tényleg náluk van A Végítélet Pengéje, Lucifer királyt mindenképpen meg kell állítani. A határt itt és most meg kell húzni.		Mivel az Erathiaiak szerint ennek a háborúnak már vége van, ezért megtagadták a további támogatást. Elcsüggedve ugyan, de kinevezted Morgan Kendal tábornokot kormányzónak a helyedre. Azzal az elsõdleges feladattal bíztad meg, hogy találjon egy új vezetõt a királyság számára, melyet atyád olyan nagyszerûvé tett. Úgy döntöttél, hogy lemondasz az Erathiai trónról és szövetséget kötsz a Conflux seregekkel annak érdekében, hogy elpusztítsátok ezt az õrült király és a démoni seregeit egyszer és mindenkorra.		Könnyes szemmel, mégis keményen átadtad szülõfölded irányítását Kendal tábornoknak és ellovagoltál a végzeted felé. Amikor minden befejezõdött, Te és Roland visszatértetek volna Nicolai fiatokhoz Enrothba. Erathia szabadon irányíthatta volna magát, bármilyen Enrothi beavatkozás nélkül. A végzete a sajátja lett volna. Egy háborút kell nyerned, egy világot megmentened és nem érsz rá gyászolni a szörnyû döntéseket, amiket meg kellett hoznod.
+
+Név:
+Nyitás II. rész
+Üzenet:
+Az elõtted álló napok tele lesznek nehéz tereppel és álmatlan éjszakákkal. Roland és a sereged átmasírozott Eeofol felperzselt mezõin a fõváros, Kreelah irányába. Érkezésed híre gyorsan terjedt, így hamar nagy ellenállásba ütköztél. Habár a harc rémes volt, a taktikai bátorságod és Roland kitartása meghozta a gyümölcsét, így kis híján a fõvárosig visszaszorítottad õket. Most, hogy kemény befolyásod van Eeofol döntõ részén, Conflux erõdítmények tûnnek fel mindenhol.		A probléma akkor kezdõdött, amikor Xeron, Eeofol briliáns hadura megérkezett helyszínre, magával hozva Eeofol elit õrségét, a teljes Erebus Fiait. Ami még rosszabb, hogy a kém jelentése alapján egy óriási erejû kardot visel. Úgy tûnik, hogy a legrosszabb félelmed valóra válni látszik, nemcsak hogy A Végítélet Pengéje létezik, de itt van a csatatéren is.		Xeronnak buknia kell, a Pengét pedig meg kell szerezni, hogy az ostrom sikeres legyen. Amint legyõzted õt, a többi már gyerekjáték lesz.
+
+Név:
+Catherine megtudja, hogy itt van Gelu
+Üzenet:
+Egy futár érkezik a táborodba északról nagy óvatossággal. A ruhája alapján az Erdõ Õrség tagja és a kezében hordoz egy tekercset.		Intesz neki, elveszed a levelet, kinyitod és elkezded olvasni. Gyorsan átfutod, majd szólsz a futárnak, hogy Roland királyt is tájékoztassa errõl. A futár elmegy Roland király irányába, hogy szóljon neki, hogy Gelut is ide küldték, méghozzá Kendal tábornok. Erathia még mindig támogatja a küldetésedet, csak nem úgy, ahogy a múltban. Jó érzéssel tölt el, hogy tudod, ezt a háborút meg fogod nyerni, és így, hogy Gelu és a seregei is melletted lesznek, még könnyebb dolgod lesz. Azonban az érzés, hogy Xeront nem lesz könnyû legyõzni, folyamatosan fertõzi az elmédet. Ez egy veszélyes idõ, egy lehetséges forduló pont, ezért most nem hátrálhatsz meg. A Pengét meg kell szerezni a szörnyûséges kéztõl, mely jelenleg viseli, nem számít, milyen áron.
+
+Név:
+Conflux Figyelmeztetés
+Üzenet:
+Egy árnyalak lép be a terembe, ahol a tanácsadóiddal ülsz. Emberi alakot ölt, olyat, amit tiszta szél alkot. A hangja, mint az égzengés és villámcsapás, hatalmasat szól a teremben, így vonva magára mindenki figyelmét.		"A Nagy Conflux Elementál Nagyurait képviselem. Azért jöttem, hogy figyelmeztesselek. A Végítélet Pengéje hamarosan kettészakítja a világot. Muszáj kordában tartani, különben mindnyájunkat elemészt. Ne várakozz Xeronnal. Ravasz és hûtlen. Óvakodj a hatalmától, félj az erejétõl."		Az üzenetet átadta; így az elementál szétoszlik és visszatér mestereihez. Akik jelen voltak, még mindig sokk alatt állnak. A félelemtõl nem tudnak hozzászólni az itt hallottakhoz. Megköszörülöd a torkod és magadra vonod a figyelmüket.		"Barátaim és honfitársaim, most már valóban láttunk bizonyítékot, hogy a Conflux Nagyurak a mi és a világ javát szolgálják. Meg kell fogadnunk a figyelmeztetést, és megszereznünk A Végítélet Pengéjét. Így mi irányítjuk majd a fegyvert és az ellenséget is. Ha meg tudjuk találni és legyõzzük ezt a Xeront, akkor kordában tudjuk tartani ezt a szörnyûséges pusztító fegyvert, mielõtt lehetõsége nyílna, hogy a teljes erejét ránk eressze. Most, menjünk vissza dolgozni, és találjuk ki, hogy állítsuk meg ezt az õrültet."
+
+Név:
+Roland félig gonosz beszéde
+Üzenet:
+Roland megállt, hogy megszólítsa katonáit, oda vissza lovagolva az emelvényen, amit külön erre a célra építetett. Szükség volt hangulatfokozásra, mert a feszültség már-már tapinthatóságig fokozódott és belharcok is felléptek. Semmilyen jelentõsebb probléma nem történt, de volt néhány összetûzés. Gyorsan kellett cselekednie, hogy összegyûjtse seregét.		"Jó néhány hónapja már, hogy elõre haladunk, vánszorogva ennek az átkozott földnek a sivár, elhagyatott régióin. Eljött az idõ, hogy ismét Mi támadjunk. Az ellenség látóhatáron belül van, a lehetõség pedig adott, hogy megsemmisítõ csapást mérjük ezekre az eltorzult szörnyszülöttekre. Ahogy mindannyian tudjátok, jó pár évig raboskodtam ezeknél az állatoknál, szóval tudom, mirõl beszélek, amikor azt mondom, hogy nem engedhetjük meg, hogy TOVÁBB létezzenek a világunkban. Meg kell szabadítanunk Antagarichot tõlük! Ehhez szükségem van az erõtökre és a bátorságotokra. Elõre kell nyomulnunk Kreelahba, és el kell törölnünk ezeket a szörnyeket egyszer és mindenkorra, küldjük vissza õket a Pokolba! Nincs számukra hely, nem hagyunk túlélõt!"		A tömeg ujjongása lelkesítõ véget ad Roland fajirtási beszédének. Amint elhagyja az emelvényt, Roland láthatóan remeg. A düh a szívében végre az arcán is látszik, ezzel elcsúnyítva a valaha még ragyogó szemeit. Egy sötét felhõ mutatja a sérülést a lelkében. A fogva tartás annyira elrontotta a lelkét, hogy a teljes gyõzelmen kívül semmi nem nyugtatná meg. A Kreeganiaknak meg kell fizetniük azért, amit vele tettek, függetlenül attól, hogy ez mibe fog neki és a lelkének kerülni.
+
+Név:
+Kendal titkos segítséget küld
+Üzenet:
+Egy kis ellátmányos kocsi tûnik fel egy jegyzettel, miszerint ez egy ajándék egy baráttól. Ahogy elolvasod, elmosolyodsz, és elkalandozol vissza Steadwickbe egy öreg baráthoz.
+
+Név:
+A végzet elõjelei
+Üzenet:
+"Királynõm," kezdi a jelentést a kisinas "látogatód érkezett. Azt állítja, hogy a Conflux Nagyurakat képviseli."		Intesz a fiúnak, hogy kísérje be a látogatót, így Õ el is szalad érte. Pillanatokkal késõbb visszatér egy magas, karcsú emberrel, ki palástot visel, arcát pedig égszínû csuklya takarja. A sötétkék palástjának ezüst rúnás varrása felragyog, ezzel elvonva figyelmed az arckifejezésérõl. Az egyetlen, amit látsz ebbõl a rejtélyes emberbõl, az a rövidre nyírt szakálla és erõs állkapcsa. Halkan, alig észrevehetõ akcentussal beszél, épphogy érteni, amit mondd.		"Üdvözöllek Enrothi Catherine Vasököl. Tamar vagyok, a Vándor. A világok bejárója, a tudás kutatója és az életek védelmezõje vagyok. Én vagyok a Levegõ Elementál Nagyura. Azért jöttem ma ide, hogy megosszam veled egy látomásom. Ebben láttam lehetséges jövõket, a fény és az árny jövõjét. Most hagytál el egy elágazást, ahol a fényt választottad. A szeretteid, és akik iránt aggódsz, egy hasonló elágazásnál kell döntést hozzanak. Elkezdtek egy olyan ösvényt követni, ami eltér a tiédtõl. Meg lehet õket gyõzni arról, hogy visszatérjenek a nap által kivájt ösvényre ahelyett, hogy az árny által elsáncolt utat válasszák. Bölcs döntést hozz Catherine, mivel ha nem segítesz azokon, akiket szeretsz, akkor nagyon sok gyászban lesz részed."	Egy fény villanás tölti be a látóteret és mire a szemed kitisztul a pillanatig tartó vakságból, Tamar, a Vándor már sehol sincs. Az állítólagos Elementál Nagyúr figyelmeztetése kavarog a fejedben, ezért megállsz egy pillanatra. Talán Rolandra gondolt? A fájdalom és a szenvedés, amit átél, talán túl sok a számára. Lehet, hogy beszélned kellene vele errõl a háborúról és az annak az Õ elméjére gyakorolt hatásairól. Félsz, hogy utat ad a bosszúnak, ami végül elemészti õt. 		Azonnal küldesz egy levelet Rolandnak. Amint elküldöd a futárt, a lelked megnyugszik egy kicsit, így tudsz egy kicsit aludni, habár nem jól.
+
+Név:
+Rémtettek
+Üzenet:
+Egy jelentés érkezik Rolandhoz. A hírvivõ azt állítja, hogy a Kreeganiak szörnyûséges rémtetteket vittek véghez. Történetek rabszolgákról, kiket levetkõztettek, megkínoztak, és karóba húztak szimplán szórakozásból, felhasználva a fekete mágiát a förtelmes rituáléhoz, még szörnyûséges vadállatok étkeként is.		Ahogy elolvassa, a bosszú tüzei mélyen égnek Roland szívében. Ezek a szörnyek az elképzelhetetlent csinálják. A kínzások emléke és a sikolyok hangja ismét elárasztja az elméjét, hozva magával ennek szagát és hangjait. Amikor a nyomás már túl nagy benne, dühében elkiáltja magát: "Mindet megölöm! Nem számít, hol rejtõznek, nem számít, merre menekülnek. Nincs menekvés a haragom elõl. Tudd ezt Lucifer király, a szolgáig egytõl egyik a saját vérük tavában fognak megfulladni. Bosszút fogok állni!"		Miután lehajítja a papírt a hamuszürke talajra, kiviharzik, hogy összeszedje páncélját és fegyvereit az elkövetkezendõ összecsapásra.
+
+Név:
+Catherine levele Rolandnak
+Üzenet:
+Roland kora reggel arra ébred, hogy egy futár üzenetet hozott neki, melyen érezni lehetett azt a különleges parfümöt, amirõl azonnal tudta, hogy Catheriné. Széttépve kinyította a pecsétet és azonnal beleolvasott.		"Drága férjem, Roland! 	 Nemrégiben meglátogatott valaki, aki egy figyelmeztetést hozott nekem. Arról beszélt, hogy mindannyiunk egy elágazáshoz fogunk érni, és Én nemrég kiválasztottam az ösvényemet. Arról is beszélt, hogy akiket szeretek, õk is választás elé állnak, és más utat választanak, mint az enyém. Félek, hogy rólad és az elmúlt fogvatartásodról beszél. Remélem, hogy nem az árnyékba burkolt ösvényt választod, hanem arra készülsz, hogy csatlakozol hozzám a fényben. Kérlek, írj vissza és nyugtass meg, hogy a bosszú miatt nem veszítettelek el. Nem szeretném egyedül bejárni ezt az ösvényt. Szeretlek férjem és mindig is foglak, mindegy, melyik utat választod, de ne számíts arra, hogy harc nélkül elengedlek erre a sötét ösvényre. Az utad még változtatható. Ha elemésztene a bosszú és a gyûlölet, én ott leszek a számodra, hogy segítselek, ahogy csak tudlak. Vigyázz magadra szerelmem. Találkozunk, amint legyõztük ezt a Xeront és az Erebus Fiait."		Roland összetekeri a papírt és visszatér a sátrába, szemeiben könnyekkel, mivel kezdte úgy érezni, hogy feleségének igaza lehet.
+
+===== Tárgyak =====
+
+(33, 35, 0) ***Pokolbéli Erõd***
+Név:
+Kelvishen
+
+Idõzített Események:
+
+Név:
+Fresh troops
+Üzenet:
+Ide.
+
+(33, 57, 0) ***Pokolbéli Erõd***
+Név:
+Shadowden
+
+Idõzített Események:
+
+Név:
+Fresh Troops
+Üzenet:
+Here
+
+(6, 65, 0) ***Konflux***
+Név:
+Reyn Tarrina
+
+(13, 46, 0) ***Pokolbéli Erõd***
+Név:
+Tormentalis
+
+(25, 12, 0) ***Pokolbéli Erõd***
+Név:
+Xent'a
+
+Idõzített Események:
+
+Név:
+Fresh troops
+Üzenet:
+
+
+(61, 43, 0) ***Pokolbéli Erõd***
+Név:
+Xent'ara
+
+Idõzített Események:
+
+Név:
+Fresh Troops
+Üzenet:
+Neki.
+
+(60, 9, 0) ***Konflux***
+Név:
+Shanimar
+
+(17, 67, 0) ***Konflux***
+Név:
+Fayadon
+
+(33, 38, 0) ***Végítélet Pengéje***
+Üzenet:
+Tessék Xeron, itt a csúnya nagy kardod.
+
+(59, 10, 0) ***Mesterlövész***
+Üzenet:
+"Felfegyverkezve és készenlétben, uram. Mik a parancsaid?"
+
+(61, 10, 0) ***Mesterlövész***
+Üzenet:
+"Felfegyverkezve és készenlétben, uram. Mik a parancsaid?"
+
+===== Fájl vége =====
