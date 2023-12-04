@@ -1,0 +1,11 @@
+[Data]
+Type=7
+Shadow Type=0
+Group0=gttutorn.bmp|gttutors.bmp|gttutorh.bmp|gttutorh.bmp|
+Groups Number=1
+Generate Selection=0
+ColorsBox.Colors=$FFFF00|$FFFF00|$040403|$070906|$FF00FF|$090B07|$02020E|$060909|
+ShadowColorsBox.Colors=$FFFF00|$FFFF00|$040403|$070906|$FF00FF|$090B07|$02020E|$060909|
+ColorsBox.PlayerColors=$AED1D8|$B7D7DE|$9AEDCE|$88D7E9|$9BDBEA|$B8D6E3|$B7D4E8|$A5E4F0|$A9E7F2|$BDF1F8|$C1CBCD|$C9CDCF|$C5CFD4|$CCD6D8|$D3DADD|$D6DFE2|$C5E3E8|$D0E1E5|$DAE4E7|$CBE5F0|$D5F2F5|$D0FCFF|$DBFDFD|$E8ECED|$E5F0F4|$EBF5F9|$EFFBFE|$99680E|$41690E|$C0F518|$000000|$000000|
+ColorsBox.ColorChecks=1|0|0|0|0|0|0|0|0|
+ShadowColorsBox.ColorChecks=1|1|1|1|1|1|1|1|

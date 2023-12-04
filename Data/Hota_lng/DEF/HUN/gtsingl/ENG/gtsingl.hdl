@@ -1,0 +1,11 @@
+[Data]
+Type=7
+Shadow Type=0
+Group0=gtsingln.bmp|gtsingls.bmp|gtsinglh.bmp|gtsinglh.bmp|
+Groups Number=1
+Generate Selection=0
+ColorsBox.Colors=$FFFF00|$FFFF00|$080707|$120C0C|$FF00FF|$0E120F|$12120E|$090C13|
+ShadowColorsBox.Colors=$FFFF00|$FFFF00|$080707|$120C0C|$FF00FF|$0E120F|$12120E|$090C13|
+ColorsBox.PlayerColors=$87D9E9|$9ADCE9|$AFDBE5|$A4E8F3|$BBF3F8|$C3C4C5|$C2C9C9|$D0C8C4|$CCD3CA|$D0D5CA|$C6CFD1|$D9CFD0|$CDD6D7|$D9DAD9|$E2DDDC|$DCE4D4|$E9EEDA|$ECF0DA|$D6DEE0|$C6E5E8|$DCE4E6|$D5F9FA|$E5EAE6|$ECF4E8|$F7F7E7|$E8F1F4|$E5FEFE|$EBF8FA|$41690E|$C0F518|$000000|$000000|
+ColorsBox.ColorChecks=1|0|0|0|0|0|0|0|0|
+ShadowColorsBox.ColorChecks=1|1|1|1|1|1|1|1|

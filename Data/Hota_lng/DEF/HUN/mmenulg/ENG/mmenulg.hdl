@@ -1,0 +1,11 @@
+[Data]
+Type=7
+Shadow Type=0
+Group0=mmenulgn.bmp|mmenulgs.bmp|mmenulgh.bmp|mmenulgh.bmp|
+Groups Number=1
+Generate Selection=0
+ColorsBox.Colors=$FFFF00|$FFFF00|$060605|$150C06|$FF00FF|$0C150B|$12130C|$050A14|
+ShadowColorsBox.Colors=$FFFF00|$FFFF00|$060605|$150C06|$FF00FF|$0C150B|$12130C|$050A14|
+ColorsBox.PlayerColors=$A2C6CE|$A7C9D0|$B5D5DA|$86D6E9|$B6DAE0|$A3E5F1|$BBF2F8|$C0C8C8|$D4CDCA|$CED1CA|$DDDEC9|$C7D2D5|$D3DCDB|$E4DBD7|$E3E0C4|$F6EFC7|$F8F2C9|$E1E2D1|$F7F4D5|$D4DCE4|$C6E5E9|$DBE5E6|$CAF8FC|$D6F9FB|$E8ECED|$FAF7E4|$EFF8F9|$FFFFFF|$41690E|$C0F518|$000000|$000000|
+ColorsBox.ColorChecks=1|0|0|0|0|0|0|0|0|
+ShadowColorsBox.ColorChecks=1|1|1|1|1|1|1|1|
