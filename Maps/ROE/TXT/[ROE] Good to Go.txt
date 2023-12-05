@@ -4,9 +4,9 @@ Nyomás!
 ===== Térkép leírása =====
 Hogy csökkentse a különbözõ népek közti háborút, a Császár kijelölt egy kis területet, amely az ellenséges Lordok közti nézeteltérések levezetésére szolgál. A várad teljesen kiépítve indul, így csak az ellenfél legyõzésére kell koncentrálnod. Sok szerencsét!
 
-===== Pletykák =====
+===== Események =====
 
-===== Idõzített Események =====
+===== Idõzített események =====
 
 Név:
 Induló nyersanyagok

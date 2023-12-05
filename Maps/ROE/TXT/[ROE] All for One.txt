@@ -1,0 +1,48 @@
+===== Térkép neve =====
+Mindenki egyért
+
+===== Térkép leírása =====
+Három jóbarát ellenséggé vált, mikor a király halála után mindhárman egy-egy területet örököltek. Mutasd meg régi barátaidnak, hogyan kell uralkodni... hódítások által.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1
+Üzenet:
+Te és két barátod elválaszthatatlanok voltatok fiatalkorotokban, mindent együtt csináltatok. Késõbb a király szolgálatába álltál, és bár sok feladatot bízott rád, a jól végzett munkát mindig barátaiddal ünnepelted.
+
+Név:
+Bevezetés 2
+Üzenet:
+Mikor a király meghalt, a barátságotok megváltozott. Mindhárman a királyság egy-egy részét örököltétek, de mikor az ország irányítására került a sor, mindannyiótoknak eltérõ elképzelése volt.
+
+Név:
+Bevezetés 3
+Üzenet:
+Tegnap eldöntöttétek, hogy többé nem beszéltek egymással. Egyetlen módja a kommunikációnak a totális háború.
+
+===== Tárgyak =====
+
+(17, 41, 0) ***Palack-posta***
+Üzenet:
+A Grál az egyetlen reményed!
+
+(20, 30, 0) ***Esemény***
+Üzenet:
+Egy öregember jelenik meg, és így szól: "Állítólag Verdish, a boszorkány hordozza az Ellenállás Csizmáját, de õt börtönben tartják!"
+
+(12, 15, 1) ***Ördögfióka***
+Üzenet:
+Drágaszágom, hehe...
+
+(34, 57, 1) ***Ördögfióka***
+Üzenet:
+Aki kapja, marja, hehe...
+
+(50, 53, 1) ***Pandora Szelencéje***
+Üzenet:
+Hogy az a *&@#>+!
+
+===== Fájl vége =====
