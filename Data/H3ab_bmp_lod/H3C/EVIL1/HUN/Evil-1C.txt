@@ -1,0 +1,61 @@
+===== Térkép neve =====
+Steadwick eleste
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod Steadwick városát 3 hónap alatt.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1
+Üzenet:
+Gratulálunk az eddigi elõmeneteledhez. Letaroltad Kelet-Erathiát, és végre közvetlen közel kerültél az erathiai fõvároshoz, Steadwickhez. Gyorsan el kell foglalnod a fõvárost!
+
+Név:
+Bevezetés 2
+Üzenet:
+Nemcsak Bracada és AvLee küldött erõsítést, de híreket kaptunk, hogy Catherine Ironfist királynõ is jókora sereggel közelít dél felõl. Nekünk kell irányítanunk a várat és a helyõrséget, mire megérkezik.
+
+Név:
+hírek
+Üzenet:
+Épp most kaptál hírt Catherine királynõ továbbhaladásáról. Nighon és Eofol erõi megpróbálják késleltetni, de két-három hónapnál tovább nem tudják feltartani.
+
+Név:
+hírek 
+Üzenet:
+Jelentést kapsz délrõl. Catherine királynõ erõit megfelelõen késleltetik, így még két hónapod marad a fõváros elérésére, de seregeink jelentõs veszteségeket szenvedtek. Ne hagyd, hogy áldozataik hiábavalóak legyenek.
+
+Név:
+Hírek
+Üzenet:
+Jelentést kapsz délrõl. Seregeink továbbra is Catherine királynõ útját állják, de õ mégis halad észak felé. Legfeljebb három-négy heted maradt, mielõtt eléri a fõvárost.
+
+Név:
+Figyelmeztetés 
+Üzenet:
+Catherine királynõ tovább haladt - seregei már csak két hétre vannak. Ha nem sietsz, nem lesz elegendõ idõnk a fõváros megerõsítésére, mielõtt megérkezik.
+
+Név:
+Figyelmeztetés
+Üzenet:
+Felderítõid jelentik, hogy látták Catherine királynõ seregeit egy heti járásra délnyugatra. Ha elõtted éri el a fõvárost, minden elveszett.
+
+Név:
+Befejezés
+Üzenet:
+Ma reggel Catherine Ironfist hatalmas serege megérkezett Steadwickbe. Nincs más választásunk: vissza kell vonulnunk. Nyomorultul cserbenhagytál minket.
+
+===== Tárgyak =====
+
+(34, 42, 0) ***Castle***
+Név:
+Steadwick
+
+(34, 44, 0) ***Lovag***
+Név:
+Kendal tábor
+
+===== Fájl vége =====

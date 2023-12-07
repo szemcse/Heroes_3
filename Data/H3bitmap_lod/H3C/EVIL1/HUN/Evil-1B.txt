@@ -1,0 +1,37 @@
+===== Térkép neve =====
+Feltörés
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod az összes ellenséges várat és le kell gyõznöd az összes ellenséges hõst. Hõseid a 12. szintig juthatnak el ebben a küldetésben, de 8 legerõsebb hõsöd elérhetõ lesz a hadjárat utolsó küldetésében.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap - Bevezetés 1. rész
+Üzenet:
+Ahogy alagutat fúrtunk a terület alá, felfedeztünk egy kis kolóniát, amit rég elveszettnek hittünk. Ha "meg tudnánk gyõzni" õket, hogy csatlakozzanak az ügyünkhöz, elláthatnának minket további egységekkel a felszíni várak megerõsítéséhez.
+
+Név:
+1. nap - Bevezetés 2. rész 
+Üzenet:
+Egy ügynökünk is van, aki a terület várai után kémkedik egy félreesõ szigetrõl. Találd meg, és megosztja veled tudását a térségrõl.
+
+Név:
+Hírek
+Üzenet:
+Egy tanácsadó közeledik: "Jelentést kaptunk, hogy enrothi hadihajók kötöttek ki Erathia déli partján. Egyelõre nem tudjuk, ki vezényli a sereget, sem a sereg méretét. Eofoli forrásaink szerint Roland Ironfist nem vezetheti a flottát."
+
+Név:
+hírek
+Üzenet:
+Egy tanácsadó közeledik: "Nem jó híreket hozok. Az enrothi flottát a néhai Gryphonheart király lánya, Catherine Ironfist vezeti. Nagy sereget irányít, és egy támaszpontot létesített a parton. Ha nem sietünk, elérheti Steadwicket elõttünk."
+
+===== Tárgyak =====
+
+(45, 32, 0) ***Esemény***
+Üzenet:
+Egy hang morajlik a felhõkbõl: "Hitetlenek! Megsértettetek egy szent helyet, és ezért bûnhõdni fogtok!" Rájössz, hogy nem volt olyan jó ötlet küldetésed helyett a kapzsiságodat követni. 
+
+===== Fájl vége =====

@@ -1,0 +1,97 @@
+===== Térkép neve =====
+Vérszomjas
+
+===== Térkép leírása =====
+Ismét le kell gyõznöd az ellenfeleidet, mielõtt Õk gyõznének le Téged. Ha Mutare meghal, minden odavész. Ez még a két legerõsebb segédeddel is nehéz harc lesz.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Ha legyõzöm a nagyurakat, akik a felszín és a nighoni határok elérésében akadályoznak, akkor minden nighoni nagyúr látni fogja a hatalmam. Az elkövetkezendõ harcok mosolyt csalnak az arcodra. Egy pillanatra megállsz, hogy megcsodáld az új karmaidat, majd egy hírnökért kiáltasz, hogy idézze meg a két legjobb hõsödet az elõzõ hadjáratokból. Itt az idõ megmutatni a kételkedõknek, hogy méltó vagyok arra, hogy csatlakozzak a nighoni hatalmas nemesek köréhez. Szóval a vérem kell nekik, mi? Majd én iszok az övékbõl!
+
+Név:
+Hadinapló 1.
+Üzenet:
+Hadinapló: Minden a terv szerint halad. Létrehoztam egy bázist az ellenségeim alatti alagutakban, és nem hiszem, hogy tudnák, hogy itt vagyok. A helyiek szerint még két kastély van a környéken. Azt tervezem, hogy gyorsan elfoglalom õket, majd egy meglepetés támadást indítok a földalatti átjárókon keresztül.
+
+Név:
+Felderítés jelentés: Aranybánya és Kobold
+Üzenet:
+Hadinapló: A Felderítõk Mestere szerint a Bat Fang Kastély közelében lévõ Földalatti Átjáró egy mágikus területre vezet, ahol egy Ír Kobold és egy aranybánya is található.
+
+Név:
+Felderítés jelentés: ÉNY kastély
+Üzenet:
+Hadinapló: A Felderítõk Mestere jelentette, hogy ma talált egy semleges várat az északnyugati barlangokban. Még mindig további kastélyok után kutatnak.
+
+Név:
+Felderítés jelentés: DK kastély
+Üzenet:
+Hadinapló: A felderítõim egy újabb semleges kastély nyomára bukkantak a kiinduló váramtól délkeletre.
+
+Név:
+Hadinapló 2.
+Üzenet:
+Hadinapló: Egy hírnök érkezett Miah tábornoktól a minap. Információkat szerzett, hogy az utamban álló nighoni nagyurak közül legalább ketten szövetséget kötöttek. Nem lepõdnék meg, ha ez igaz lenne. Egyik nagyúr sem bolond, akikkel most harcolok. Mindegy, így is legyõzöm Õket. Kicsit nehezebb lesz, de legalább a gyõzelem édesebb lesz.
+
+Név:
+Felderítés jelentés: Erõsítések a mély barlangokból
+Üzenet:
+Hadinapló: A Felderítõk Mestere jó hírekkel és rossz hírekkel egyaránt szolgált ma. A jó hír, hogy a Mély Barlangokban található seregeim egy része a segítségünkre jött. A rossz hír, hogy nem tudnak elérni minket, amíg néhány szörnyet el nem takarítunk az útból, amely a Mély Barlangokba vezet. Szerencsére az út Bat Fang váránál ér véget.
+
+Név:
+Felderítés jelentés: Sárkány Utópia
+Üzenet:
+Hadinapló: Nemrég a felderítõim találtak egy Sárkány Utópiát északnyugatra, közel a földalatti átjáróhoz. Egy pár napja találtak még egyet a délnyugatra található földalatti átjáró másik oldalán. A Sárkány Utópia körülbelül egy napi járásra van az átjárótól.
+
+Név:
+Hadinapló 3.
+Üzenet:
+Hadinapló: Vissza kell vágnom Ordwald hazugságai ellen. Ha az emberek elkezdik elhinni, hogy sárkánnyá változnak, ha isznak a vérembõl, minden egyes nagyúr a világon engem akar majd megölni. A legokosabb hazugság az, amit az emberek hallani akarnak.
+
+Név:
+Hadinapló 4.
+Üzenet:
+Hadinapló: Egy hírnököt küldtem ma a Sinkhole Kastély melletti bölcshöz. Megkértem, hogy kutasson kicsit az ügyben, hogy csak akkor változik az ember sárkánnyá, ha a Sárkány Apa vérét issza meg, nem az enyémet. Elég aranyat ajánlottam neki, szóval ajánlom, hogy bebizonyítsa.
+
+Név:
+Hadinapló 5.
+Üzenet:
+Hadinapló: Üzenetet kaptam a bölcstõl, miszerint hajlandó elvégezni a kutatást. Sajnálatos módon szüksége van további értékes nyersanyagokra, hogy elvégezhesse a kutatást, bla, bla, bla. Rendben, megkapja õket! De ha bármi mást kér még, megeszem vacsorára. A többi földem kifizeti az aranyat, Én pedig kifizetem a nyersanyagokat.
+
+Név:
+Hadinapló 6.
+Üzenet:
+Hadinapló: Üzenetet küldtem Miah tábornoknak, hogy híresztelje el, hogy aki iszik a vérembõl az csak beteg lesz. Azt kell mondania, hogy néhány hõsöm ivott a vérembõl, és csak annyit értük el, hogy 1 hétig betegek voltak. A pletyka bejárja majd egész Nighont, így remélhetõleg kevésbé leszek az emberek célpontja.
+
+===== Tárgyak =====
+
+(107, 2, 0) ***Jel***
+Üzenet:
+A Felszíni Alagutakba
+
+(5, 107, 0) ***Jel***
+Üzenet:
+A Felsõ Alagutakba
+
+(35, 87, 0) ***Druida***
+Név:
+Ordwald
+
+(55, 52, 1) ***Dungeon***
+Név:
+Bat Fang
+
+(72, 58, 1) ***Esemény***
+Üzenet:
+A Mély Barlangi földjeidrõl erõsítések érkeztek.
+
+(62, 58, 1) ***Jel***
+Üzenet:
+A Mély Barlangokba
+
+===== Fájl vége =====

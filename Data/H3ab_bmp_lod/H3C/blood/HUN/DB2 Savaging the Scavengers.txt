@@ -1,0 +1,113 @@
+===== Térkép neve =====
+A dögevõk marcangolása
+
+===== Térkép leírása =====
+Semmisítsd meg az ellenfeleidet, de ismét vigyázz Mutarera. Ha elveszted, akkor azonnali pusztulás következik be. Mutare a 18. szintig fejlõdhet, azonban megtartja a Sárkánypikkely Pajzsot a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+A Sárkányvér Fiola meg fogja adni azt a kezdõ löketet, amivel bejuthatok a hatalmas Nighon nagyurak körébe. Hogy megszerezzem a Fiolát, elõször le kell gyõznöm a Fiola õrzõit, vagy Ordwaldot, vagy mindkettõt. Azt is meg kell akadályoznom, hogy Caomham és Preuet nagyurak követni és hátba támadni tudjanak, amikor megszerzem a Fiolát. Ha bármi földet elveszítenék, miközben a Fiolát kutatom... bosszantó lenne. A jelenlegi seregeimnek meg kell tudnia védeni Rauric és Ordwald régi földjeit, különösképp, ha minden varázstárgyat, kivéve a Mana Amulettjét, a tábornokaimnál hagyok.
+
+Név:
+Bevezetés folytatása
+Üzenet:
+Miah tábornok felmossa az Ordwald régi földjein található maradék ellenállásokat, majd újraépíti a kastélyok védelmét és a helyi helyõrségeket. Sengana tábornok az otthoni védelem parancsnoka lesz. Amikor meghallják az emberek a Sárkányvér Fiola hírét, a határok özönleni fognak Nighon nagyurainak seregeitõl. Amíg Miah és Sengana lelassítja a többi nighoni nagyurat, én egy kis sereggel bázist építek a Mély Barlangok bejáratához közel, és elûzöm Caomhamot és Preuetet a területrõl, hogy ne tudjanak követni. Ezalatt a felderítõim megkeresik Ordwaldot. Amint Caomham és Preuet halott, követem Ordwaldot a Fiolához, és elveszem magamnak.
+
+Név:
+Mana varázsa
+Üzenet:
+Hadinapló: Megtartottam a Mana Amulettjét, egy hasznavehetetlen bizsut, mert a Látó, a Sinkhole Kastély közelében azt mondta, hogy a közel jövõben szükségem lesz rá. Remélem is, az Õ érdekében. Ha nem lesz semmi haszna, fel fogom köttetni.
+
+Név:
+Felderítés jelentés: No Quarter kastélyról
+Üzenet:
+Hadinapló: A felderítõim találtak egy második, No Quarter nevû kastélyt északnyugatra a Homály Tavától. Még mindig nincs semmi jele Caomham és Preuet nagyurak seregeinek.
+
+Név:
+Felderítés jelentés: Cser színû nagyúrról
+Üzenet:
+Hadinapló: Néhány felderítõm megtalálta Preuet nagyúr bázisát. A csapatai a barna zászló alatt vonulnak, és úgy tûnik, hogy elfoglaltak egy nyugatra található várat, melyet Dank Rocknak hívnak. Dank Rock a mûveleteink központja.
+
+Név:
+Felderítés jelentés:Zöld nagyúrról
+Üzenet:
+Hadinapló: Néhány nappal ezelõtt a felderítõim megtalálták Caomham nagyúr zöld zászlós seregeit a Fetid Cavern nevû kastélynál. Fetis Cavern pár napi járásra található északkeletre a Homály Tavától.
+
+Név:
+Felderítés jelentés: Helyõrségrõl
+Üzenet:
+Hadinapló: Ma a Felderítõk Mestere talált egy furcsa helyõrséget, ahol azt mondták, hogy csak azt engedik át, akinél nála van a Mana Amulettje. A felderítõ szerint a helyõrség a földalatti kapun túl van a No Quarter Kastély közelében. Úgy tûnik, hogy mégsem kell felköttetnem a Látót.
+
+Név:
+Taktika
+Üzenet:
+Hadinapló: Sokkal nehezebb lenne legyõzni Preuetet és Caomhamot, ha lenne annyi eszük, hogy összefogjanak. Nem hiszem, hogy összefogtak. Mindkettõ arra számít, hogy a másik elég nagy sebzést okoz rajtam, így neki könnyû gyõzelme lesz mindkettõnkön. Ha nem szövetségesek, akkor elõször elintézem az egyiket, majd a másikat, és elkerülöm, hogy egyszerre kelljen harcolnom velük.
+
+Név:
+Halott felderítõ
+Üzenet:
+Hadinapló: Ma meg kellett ölnöm egy felderítõt. Nyávogott amiatt, hogy kettõ az egy elleni túlerõben volt az ellenség. Hallottam, ahogy errõl beszélt, és mögé lopóztam. Az ütés tökéletes volt, a fej tisztán lerepült pont a teste mellé. Aztán elmagyaráztam, hogy a kettõ az egy ellen kétszer annyi zsákmányt jelent. Ez felvidította az embereket.
+
+Név:
+Ordwald erõi
+Üzenet:
+Hadinapló: A felderítõim megtalálták Ordwald seregének egy részét a Mély Barlangokban. A kihallgatásból kiderült, hogy nem tudja pontosan, hol van a Fiola. Mégis, nem hagyhatom, hogy túl elõre jusson. Be kell fejeznem itt mindent, és tovább kell mennem.
+
+Név:
+Befûtés
+Üzenet:
+Hadinapló: Hírt kaptam Miah tábornoktól. Nighon határmentén ki van adva a hír, hogy Ordwald, Caomham, Preuet és Én a Fiolát keressük, de egyikünk se tudja, hogy merre jár a másik. Miah visszaverte számtalan nagyúr felderítõ egységét. Nem a földjeimet próbálják megszerezni, azt mondják, információt akarnak.
+
+Név:
+Idõ kérdése
+Üzenet:
+Hadinapló: Miah jelentése alapján a nagyurak taktikát változtattak. Elözönlik a területet felderítõkkel. Több tucatot fogott el közülük, de úgy gondolja, hogy csak idõ kérdése, míg megtalálják a mûveleteimnek a központját. Úgy tûnik, hogy Caomham és Preuet nagyurak földjeit lerohanták. Talán küldök nekik részvétnyilvánítást.
+
+===== Tárgyak =====
+
+(90, 87, 0) ***Dungeon***
+Név:
+Gloom Cave
+
+(10, 92, 0) ***Dungeon***
+Név:
+Dank Rock
+
+(70, 13, 0) ***Dungeon***
+Név:
+Red Spider
+
+(19, 61, 0) ***Dungeon***
+Név:
+Gruen Point
+
+(97, 12, 0) ***Dungeon***
+Név:
+Fetid Cavern
+
+(60, 53, 0) ***Dungeon***
+Név:
+No Quarter
+
+(100, 100, 0) ***Jel***
+Üzenet:
+Út a Homály Barlang Kastélyba
+
+(104, 107, 0) ***Jel***
+Üzenet:
+A Felsõ Alagutakba
+
+(105, 1, 0) ***Jel***
+Üzenet:
+A Felsõ Alagutakba
+
+(0, 100, 0) ***Jel***
+Üzenet:
+A Felsõ Alagutakba
+
+===== Fájl vége =====

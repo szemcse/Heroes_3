@@ -1,0 +1,154 @@
+===== Térkép neve =====
+A sárkány Apa vére 
+
+===== Térkép leírása =====
+Találd meg a Sárkányvér Fiolát Ordwald elõtt, vagy elveszíted a versenyt. Továbbá Mutare elvesztése azonnali vereséggel jár. Mutare és a két legerõsebb hõse szintkorlátozás nélkül továbbmegy a következõ pályára.
+
+===== Események =====
+
+Név:
+Rozsdasárkány
+Szöveg:
+Állítólag valahol a Mély Barlangokban található egy újfajta sárkány, aminek a neve Rozsda Sárkány. Ez a sárkány állítólag még a Fekete Sárkánynál is erõsebb.
+
+Név:
+Kristálysárkány
+Szöveg:
+Azt mondják, hogy egy különösfajta sárkány õriz egy hatalmas kincset a Mély Barlangokban. A sárkány állítólag kristályból van.
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Mindig is azt hittem, hogy egy nap egy hatalmas nemes lesz belõlem. Rauric földjeinek kisajátítása csak az elsõ lépés volt. De azt hittem, hogy ez nem lehetséges, amíg nem vagyok legalább 26 vagy 27 éves. A Fiola minden számításom megváltoztatja. Bárki is változik át sárkánnyá, nem lesz akadálya, hogy bejusson a nighoni nemességek legmagasabb köreibe.
+
+Név:
+Bevezetés folytatása
+Üzenet:
+Miah tábornok fogja átvenni a csapataim és új váraim irányítását a régi kiindulópontomnál, a Mély Barlangok bejáratának közelében. Nem fog gondot jelenteni neki, hogy megkeserítse bárki életét, aki követni próbálná, például úgy, hogy kifosztja Õket, megöli a felderítõjüket, vagy hamis jeleket hagyva eltapos bármilyen túlságosan bátor nagyurat. Ezalatt Én fogok egy kis sereget, és tábort verek a Mély Barlangokban, közel ahhoz a ponthoz, ahol felderítõim Ordwald csapatait látták. Egy kis sereg be tud úgy jutni, hogy senki se vegye õket észre.
+
+Név:
+Felderítés jelentés: 1. kastély
+Üzenet:
+Hadinapló: Ma néhány felderítõm azt jelentette, hogy Ordwald seregei egy nyugatra található várban vannak és a kék zászló alatt vonulnak. Azt mondják, hogy négy átjáró vezet a kastélyhoz, és mindet vad szörnyek õrzik. A felderítõk szerint az ellenség még nem tud az ittlétünkrõl.
+
+Név:
+Hadinapló 1.
+Üzenet:
+Hadinapló: Úgy vélem, hogy Ordwald közelemben lévõ seregei csak õrjárat vagy elõõrsként szolgálnak. Amint legyõzöm õket, azonnal tudni fogja, hogy itt vagyok a Mély Barlangokban. A Fiola megszerzése az elsõdleges szempont, de nem hiszem, hogy Ordwald hagyni fogja, hogy harc nélkül kisétáljak innen.
+
+Név:
+Felderítés jelentés: Folyó
+Üzenet:
+Hadinapló: A felderítõim nyugatra találtak egy földalatti folyót és egy helyõrséget, túl az ellenség elsõ kastélyán. Úgy tûnik, hogy ez a folyó jelenti az egyetlen kiutat ezekbõl a barlangsorozatokból. A Felderítõk Mestere meg van gyõzõdve, hogy Ordwald seregei 6-8 hónappal ezelõtt átmentek itt.
+
+Név:
+Felderítés jelentés: Börtön
+Üzenet:
+Hadinapló: A felderítõim találtak egy börtönt a folyó mentén. Egy Alamar nevû boszorkánymester raboskodik ott. Bárki mellé hajlandó csatlakozni, aki kiszabadítja. Azt mondja, hogy még a Végtelen Arany Erszényét is felajánlja a megmentõjének.
+
+Név:
+Hadinapló 2.
+Üzenet:
+Hadinapló: A minap beszéltem a kastély csaposával. Miután dobtam neki pár aranytallért, és megcsiklandoztam az álla alatt a tõrömmel, egy érdekes történetet mesélt nekem. Állítólag egy pletyka azt mondja, hogy létezik egy újfajta sárkány faj, mely a "Tündérsárkány" névre hallgat. Állítólag Ír Kobold lelkük van miközben az erejük egy rendes sárkányéval vetekszik. 
+
+Név:
+Hadinapló 2. folytatása
+Üzenet:
+Lenyûgözött. Imádom a Vörös és Fekete Sárkányaimat és még a Zöld és az Arany fajták is egész jól engedelmeskednek nekem (csak kár, hogy a Világos Földeken élnek). Kíváncsi vagyok, hogy az affinitásom vajon mûködne-e ezekkel a Tündérsárkányokkal?
+
+Név:
+Hadinapló 3.
+Üzenet:
+Hadinapló: Bizonyos nyersanyagok szûkösen vannak a Mély Barlangok e részén. Nem tudtam még egy darab drágakõ- vagy kristálybányát sem találni. Kéndûnét sem látni egyet sem, de legalább a Várbörtönöknek van nyersanyagraktára. Utálok kereskedõkkel egyezkedni. Megölném mindet, de utána ki kereskedne velem?
+
+Név:
+Hadinapló 4.
+Üzenet:
+Hadinapló: Gondolkodtam azokon a mágikus sík területeken, ahol fák és más Fényföldi dolgok találhatók. Kíváncsi vagyok, hogy át tudnék-e költöztetni néhány Zöld, vagy Arany Sárkányt azokra a területekre. Némi vigaszt nyújtana azért a förtelmes zöld színért. A növények legyenek barnák, ne zöldek.
+
+Név:
+Hadinapló 5.
+Üzenet:
+Hadinapló: Azon gondolkozom, hogy vajon a Sárkányok Apja valaha élt-e itt a Mély Barlangokban. Az egy igazán nemes kutatás lenne - megtalálni a Sárkányok Apját. Szerintem még mindig élhet, talán korszakokat átaludva. Én is el tudnék viselni hasonló életmódot, ha megöregszem.
+
+Név:
+Hadinapló 6.
+Üzenet:
+Hadinapló: A jó parancsnok minden eshetõségre felkészül. Így bármi is történik, mindig nyer, vagy legalábbis túléled a vereséget. Rauric nem értette ezt meg. Éppen ezért volt oly könnyû megölni Õt, és elvenni a földjeit. Ha Ordwald megszerzi elõttem a Fiolát, akkor lehet, hogy el kell majd menekülnöm Nighonból.
+
+Név:
+Hadinapló 7.
+Üzenet:
+Hadinapló: Miah üzent, hogy három hatalmas Nighon nagyúr tart a határaink felé. Úgy tûnik, hogy hallottak a Fioláról. Esélyem sincs nyerni, ha két tûz közé kerülök, hacsak nincs nálam a Fiola. Mindenesetre bele telik majd egy kis idõbe, mire megtalálják a levezetõ utat, majd utána engem.
+
+===== Tárgyak =====
+
+(32, 25, 0) ***Druida***
+Név:
+Ordwald
+Életrajz:
+Apja harcos nevet adott neki, de Ordwald elutasította a harc mûvészetét, és a mágia felé fordult. Öreg, de hatalmas varázsló egy olyan országban, ahol az urak szinte soha nem élnek elég sokáig ahhoz, hogy megöregedjenek.
+
+(88, 50, 1) ***Esemény***
+Üzenet:
+Egy csoport felderítõ szerint Ordwald és a seregei közel járnak. Ordwald fõbázisa a Földalatti Kapun túl van. A Sárkányvér Fiolának is bizonyosan a kapu túloldalán kell lennie.
+
+(18, 22, 1) ***Küldetésõrzõk***
+Üzenet:
+Az erathiai Fehér Öves Lovagok õrzik ezt a tornyot. Csakis a közülük valókat engedik át. Hogy belépj a rendbe, elõször le kell gyõznöd az északnyugati földalatti részen található Szellemsárkányokat.
+A Fehér Öves Lovagok nem fognak átengedni, amíg nem gyõzedelmeskedsz az északnyugati földalatti részen található Szellemsárkányok felett.
+Az északnyugati földalatti részen található Szellemsárkányok felett aratott gyõzelmed híre gyorsan terjedt. Szeretnél átkelni, Fehér Öves Lovagok legújabb tagja?
+
+(29, 13, 1) ***Küldetésõrzõk***
+Üzenet:
+Az erathiai Zöld Öves Lovagok õrzik ezt a tornyot. Csakis a közülük valókat engedik át. Hogy belépj a rendbe, elõször le kell gyõznöd az északnyugati földalatti részen található Zöldsárkányokat.
+A Zöld Öves Lovagok nem fognak átengedni, amíg nem gyõzedelmeskedsz az északnyugati földalatti részen található Zöldsárkányok felett.
+Az északnyugati földalatti részen található Zöldsárkányok felett aratott gyõzelmed híre gyorsan terjedt. Szeretnél átkelni, Zöld Öves Lovagok legújabb tagja?
+
+(36, 15, 1) ***Küldetésõrzõk***
+Üzenet:
+Az erathiai Arany Öves Lovagok õrzik ezt a tornyot. Csakis a közülük valókat engedik át. Hogy belépj a rendbe, elõször le kell gyõznöd az északnyugati földalatti részen található Aranysárkányokat.
+Az Arany Öves Lovagok nem fognak átengedni, amíg nem gyõzedelmeskedsz az északnyugati földalatti részen található Aranysárkányok felett.
+Az északnyugati földalatti részen található Aranysárkányok felett aratott gyõzelmed híre gyorsan terjedt. Szeretnél átkelni, Arany Öves Lovagok legújabb tagja?
+
+(26, 30, 1) ***Küldetésõrzõk***
+Üzenet:
+Az erathiai Vörös Öves Lovagok õrzik ezt a tornyot. Csakis a közülük valókat engedik át. Hogy belépj a rendbe, elõször le kell gyõznöd az északnyugati földalatti részen található Vörös Sárkányokat.
+A Vörös Öves Lovagok nem fognak átengedni, amíg nem gyõzedelmeskedsz az északnyugati földalatti részen található Vörös Sárkányok felett.
+Az északnyugati földalatti részen található Vörös Sárkányok felett aratott gyõzelmed híre gyorsan terjedt. Szeretnél átkelni, Vörös Öves Lovagok legújabb tagja?
+
+(32, 32, 1) ***Küldetésõrzõk***
+Üzenet:
+Az erathiai Fekete Öves Lovagok õrzik ezt a tornyot. Csakis a közülük valókat engedik át. Hogy belépj a rendbe, elõször le kell gyõznöd az északi földalatti részen található Feketesárkányokat.
+A Fekete Öves Lovagok nem fognak átengedni, amíg nem gyõzedelmeskedsz az északi földalatti részen található Feketesárkányok felett.
+Az északi földalatti részen található Feketesárkányok felett aratott gyõzelmed híre gyorsan terjedt. Szeretnél átkelni, Fekete Öves Lovagok legújabb tagja?
+
+(40, 22, 1) ***Küldetésõrzõk***
+Üzenet:
+Gonosz lelkek õrzik ezt a tornyot. Csak akkor engednek át, ha legyõzöd a Tündérsárkányokat az északnyugati földalatti részen.
+Addig nem léphetsz át, amíg le nem gyõzöd a Tündérsárkányokat az északnyugati földalatti részen.
+Az alku az alku. Szeretnél átkelni?
+
+(41, 31, 1) ***Küldetésõrzõk***
+Üzenet:
+Vérzõ szemû szörnyek õrzik ezt a tornyot. Csak azt engedik át, aki legyõzi a Rozsdasárkányokat az északi földalatti részen.
+Nem léphetsz át. Menj és gyõzd le a Rozsdasárkányokat az északi földalatti részen.
+A Rozsdasárkányok felett aratott gyõzelmed híre gyorsan terjedt. Szeretnél most átkelni?
+
+(8, 22, 1) ***Pandora Szelencéje***
+Üzenet:
+Úgy tûnik, hogy a barlang benõtt egy õsi díszes dobozt.
+
+(7, 21, 1) ***Küldetésõrzõk***
+Üzenet:
+Legendás lovagok lelkei õrzik ezt a tornyot. Csak az arra érdemest engedik át. Hogy bebizonyítsd rátermettséged, elõször le kell gyõznöd az északi földalatti részen található Kristálysárkányokat.
+Még nem bizonyítottad be rátermettséged. Menj és gyõzd le az északi földalatti részen található Kristálysárkányokat. Csakis utána léphetsz át.
+Hírt kaptunk a Kristálysárkányok felett aratott gyõzelmedrõl. Rokon lélek, szeretnél átlépni?
+
+(5, 6, 1) ***Esemény***
+Üzenet:
+Hadinapló: A felderítõim egy új, különösfajta sárkányt fedeztek fel. Megnézem majd, hogy be tudom-e õket sorozni magamhoz, ha ennek a hadjáratnak vége.
+
+===== Fájl vége =====

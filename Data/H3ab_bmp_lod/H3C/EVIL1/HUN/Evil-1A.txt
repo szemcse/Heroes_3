@@ -1,0 +1,32 @@
+===== Térkép neve =====
+Egy ördögi terv
+
+===== Térkép leírása =====
+A gyõzelemhez meg kell találnod és meg kell ölnöd az Arany Sárkány Királynõt. Hõseid 12. szintig juthatnak el ebben a küldetésben, de 8 legerõsebb hõsöd elérhetõ lesz a hadjárat utolsó küldetésében.
+
+===== Események =====
+
+Név:
+Célzás 
+Szöveg:
+Délnyugatra van egy ember, aki hozzáférhet a Sárkányok Völgyéhez.
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Alárendeltjeink jól dolgoztak. Sikerült egy vulkánt ébreszteniük és erõdöt emelniük egy ritkán lakott erdõben, éppen Erathia határán kívül. Amíg a Dungeon Nagyurak a föld alatt haladnak az erathiai fõváros felé, neked Erathia szövetségeseire, az avleei tündékre kell lecsapnod.
+
+Név:
+Bevezetés 2. rész
+Üzenet:
+Az Arany Sárkány Királynõ erõs szövetségese AvLeenek. Meg kell találnod a fészkét, és gondoskodnod kell elhalálozásáról. Ez nagyon meggyengíti majd a tündéket, és így kevésbé lesznek veszélyesek Erathia elleni terveinkre. Indulj, és tégy büszkévé minket!
+
+===== Tárgyak =====
+
+(61, 54, 0) ***Esemény***
+Üzenet:
+Felderítõid jelentik, hogy közvetlen környezeted gazdag nyersanyagokban, és hogy délre él egy sámán, aki talán hajlandó lesz segíteni nekünk.
+
+===== Fájl vége =====
