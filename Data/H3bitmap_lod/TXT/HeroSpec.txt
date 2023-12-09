@@ -51,7 +51,7 @@ Gyorsítás	Varázslat bónusz: Gyorsítás	"A Gyorsítás varázslat megnövelt hatóerõve
 Pokolkutyák	Egységbónusz: Pokolkutyák	A 3.szint után szintenként növeli a Pokolkutyák és Kerberoszok Támadását és Védelmét.
 Efreetek	Egységbónusz: Efreetek	A 6. szint után szintenként növeli az Efreetek és EfreetSzultánok Támadását és Védelmét.
 Démonok	Egységbónusz: Démonok	A 4.szint után szintenként növeli a Démonok és a SzarvasDémonok Támadását és Védelmét.
-Ördögfióka	EgységBónusz: Ördögfióka	Az 1. szint után szintenként növeli az Ördögfiókák és Kísérõk Támadását és Védelmét.
+Ördögfióka	EgységBónusz: Ördögfióka	Az 1. szint után szintenként növeli az Ördögfiókák és Kísértõk Támadását és Védelmét.
 +350 Arany	+350 Arany naponta	Naponta 350 arannyal gyarapítja a királyság vagyonát.
 Gógok	EgységBónusz: Gógok	A 2. szint után szintenként növeli a Gógok és Magógok Támadását és Védelmét.
 Nyílvetõ	Tüzérségi bónusz: Nyílvetõ	A 4. szint után szintenként növeli a Nyílvetõ Támadását és Védelmét.

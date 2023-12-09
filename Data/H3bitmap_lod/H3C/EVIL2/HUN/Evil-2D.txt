@@ -1,0 +1,31 @@
+===== Térkép neve =====
+Nappalból éjszakába
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod az összes ellenséges várat és le kell gyõznöd az összes ellenséges hõst. Néhány Határõr csak úgy enged át, ha a hõs egy elõzõ küldetésbõl hozott varázstárgyat birtokol, de a jutalmad igazán nagy lesz.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1
+Üzenet:
+Parancsaidat személyesen Gryphonheart királytól kaptad. A támadást három, az erathiai határ menti erõdbõl fogod indítani. Az ellenállás elõször bizonyára erõs lesz, de gyorsan biztosítanod kell a területet, mielõtt az utánpótlás megérkezik.
+
+Név:
+Bevezetés 2
+Üzenet:
+Nyilvánvaló, hogy Gryphonheart király vissza akar térni Erathia Trónjára, de ezúttal hódítóként. Még innen is érzed a betakarításra váró életek illatát. Indulj, eljött az idõ.
+
+===== Tárgyak =====
+
+(56, 79, 0) ***Titánok Kardja***
+Üzenet:
+Elõtted fekszik a híres Titánok Kardja, amirõl a Látnok már oly régen megjósolta, hogy egyszer a tiéd lesz. Magadnak akarod követelni?
+
+(50, 79, 0) ***Titánok Páncélja***
+Üzenet:
+Elõtted fekszik a híres Titánok Páncélja, amirõl a Látnok már oly régen megjósolta, hogy egyszer a tiéd lesz. Magadnak akarod követelni?
+
+===== Fájl vége =====

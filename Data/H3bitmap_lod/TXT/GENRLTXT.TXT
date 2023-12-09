@@ -856,7 +856,7 @@ Yog szakított a mágia minden formájával.  További életének nyugalmát harci tudás
 "Megszerezted barbár testvéreidtõl mind a három alkatrészt."			
 Véletlenszerû pálya beállításai			
 Válaszd ki a létrehozandó pálya tulajdonságait			
-Véletlen Pálya			
+Véletlenszerû pálya			
 Játék a véletlenszerûen létrehozott pályával			
 "A Tanító fájl ""tutorial.tut"" hiányzik a \maps könyvtárból.  E nélkül nem tudsz a Tanító pályával játszani."			
 Ezzel a mentéssel való játékhoz minden játékosnak %s verziót kell futtatnia.  Egyes csatlakozott játékosok nem fognak tudni játszani ezzel.			

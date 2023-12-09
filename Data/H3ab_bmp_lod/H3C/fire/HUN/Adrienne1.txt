@@ -1,0 +1,217 @@
+===== Térkép neve =====
+Mezõgazdasági Városok
+
+===== Térkép leírása =====
+Hozz létre egy bázist, majd szabadítsd fel a többi települést a határ mindkét oldalán. Pusztíts el minden élõholtat a területen, és gyõzd le a Nekromantákat, akik ezt teszik. Adrienne és a három legerõsebb hõsöd a 12. szintig fejlõdhet, és továbbmennek a következõ pályára.
+
+===== Események =====
+
+Név:
+Sir Michael
+Szöveg:
+Sir Michaelt északkeleten tartják fogja az Éjjeli Orvvadászok.
+
+Név:
+Az Élet Ünnepe
+Szöveg:
+A krewlodi Élet Ünnepét át kellene nevezni a Vérontás és Döfés Ünnepére!
+
+Név:
+Élõholtak
+Szöveg:
+Élõholtak õrzik az összes átjárót Erathia és Tatalia között
+
+Név:
+Nosferatu
+Szöveg:
+Néhány Nosferatu õr nagy vagyonnal bíró kincset õríz.
+
+Név:
+Adrienne
+Szöveg:
+Adrienne, a Boszorkány Tûzvarázslatot használ!
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Belépsz a régióba, nem messze a Tatalian határtól és örülsz, hogy már majdnem otthon vagy. Az idõ hasznos és termékeny volt, amit Steadwickben tanulással töltöttél a papokkal, de túl hosszú is, melyet az imádott mocsaradtól voltál távol, melyet otthonnak hívsz. A Tûzboszorkány, ahogyan már hívnak, aki ugyan nem tudja elviselni az otthonától való távollétet, mégsem látják szívesen otthon, mivel Tatalia népe fél a Tûzmágiától, és megveti annak használóit. Ismerve annak erejét, és akarva azt magadnak, feladtad az életet, amiben elfogadnak téged, cserébe a hatalomért.
+
+Név:
+Kérlek, segíts nekünk!
+Üzenet:
+A bokrok susognak és Te harcra készülsz. Még Erathiában is vannak vadállatok, akiktõl félni kell. Ezek azonban nem az állatok, hanem  a parasztok hangjai. A vér rászáradt az arcukra és a kísértet-szerû testükre. Rémület tartja fogságában ezeket a parasztokat. Alig tudják elmotyogni a szörnyûségeket, amiknek tanúi voltak. Végül egy kis víz és némi hízelgés után az egyikül elmesél egy történetet már majdnem értelmezhetetlen, zûrzavaros szavakkal.		"É-én dolgoztam a földemen, az asszony pedig bogyókat volt szedni a gyerekekkel." Becsukja a szemét, hogy elképzelje a történteket, majd egy mély levegõt vesz. "Ma-majd nem sokkal késõbb egy jajveszékelésre lettünk figyelmesek, melyet ezelõtt még egyikünk sem hallott. Megfagyva a rettegéstõl, végignéztem, ahogy ezek a kísérteties dolgok a feleségem és a gyerekeim felé repültek." Zokogni kezd, amitõl egy pillanatra nem tud szóhoz jutni. "Majd futottam és futottam és futottam. Egyszer sem néztem hátra. Mortimer talált rám két nappal késõbb. De azóta Õ is meghalt már, legalábbis nagyjából. Mozog, de már nem hallja vagy látja, hogy Mi a barátai vagyunk. Megölte a saját fiát!" 	Az ember végül nem bírja tovább, és kisgyerekhez hasonlóan bõgni kezd. Ez sokkal, sokkal rosszabb. Másoktól kapott jelentések igazolják a legrosszabb félelmeidet.
+
+Név:
+Élõholt
+Üzenet:
+Valaki mészárolja a parasztságot, hogy élõholt sereget csináljon belõlük.
+
+Név:
+Figyelmeztetés a háborúra
+Üzenet:
+Most itt az idõ, hogy beszéljek Tatalia vezetõjével, mivel egy új fenyegetés fertõzi Erathiát. A hatalom emögött a pestis mögött egyelõre ismeretlen, de úgy véled, hogy sokkal nagyobb, mint ahogyan az erathiaiak gondolják. Tataliát figyelmeztetni kell, hogy támogassa Erathiát, ha az esetleg elbukna. Elhessegetve egy újabb háború gondolatát, inkább csak arra vágysz, hogy egyszerûen haza térj.
+
+Név:
+Hírnökök
+Üzenet:
+Gyorsan üzeneteket küldesz a tataliai vezetõkhöz és a keletre található erathiai nagyúrhoz. Az elsõben ez áll: 	"Erathiát egy új, különös ellenség támadta meg. Rendkívül hatalmasak. Fel kell készülnünk, ha esetleg Erathia nem tudna ellenállni az áradatnak."
+
+Név:
+Második hírnök
+Üzenet:
+Mielõtt elküldenéd a hírnököt az erathiai kormánynak, még egyszer gyorsan átnézed. "A nevem Adrienne, Tatalia boszorkánya. Tisztában vagyok vele, hogy nemrég még háborúban álltunk, de itt az idõ, hogy földjeink együtt mûködjenek. Nemrég, a Steadwickbõl hazafelé vezetõ utamon, találkoztam egy csoport brastletoni paraszttal. Az embereim megerõsítették a hírt, hogy az élõholtak lerohanták a területet. Erathiát megtámadták ezek a hitvány lények. Én vagyok az egyetlen, aki válaszolt a könyörgésükre. Tudom, hogy gondot okoz eme új fenyegetés, de minden segítséget értékelnénk."	Megelégedve, hogy az üzenet közvetíti a helyzet sürgõsségét, elküldöd, reménykedve, hogy az erathiaiak komolyan veszik egy tataliai segítségkérését. Reménykedve a szerencsédben, a fontosabb dolgok felé irányítod figyelmed.
+
+Név:
+Tanácsadó
+Üzenet:
+A legmegbízhatóbb barátod és tanácsadód, Baltron belép a sátradba.	"Adrienne, Erathia semmiképp sem fog minket támogatni, még könyörögsz nekik, hogy segítsenek. Valószínûleg még mindig idegesek a háború miatt, és valószínûleg jelenleg is harcban állnak. Miért töröd magadat?"	"Nos, meg kell próbálnom."	Egy apró mosoly ül ki az arcodra. 	"Így legalább minden tõlem telhetõt megtettem. Ha elbukunk, akkor senki se mondhatja, hogy nem próbáltam meg. Mi van, ha nem utasítják el? Amíg a lehetõsége megvan, addig nem fogom elutasítani. Te nem vagy harcos. Seregekre és más harcosokra vagy varázslókra van szükségem. Értékelem a segítségedet, de egyszerûen az nem elég. Ez nem lesz egy könnyû harc és ezt te is tudod."	A szemöldököd visszatér szokásos helyére.
+
+Név:
+Hírnök visszatérése
+Üzenet:
+A hírnökök közül, akiket Tataliába küldtél, csupán egyetlen egy tér vissza, aki igazolja a legnagyobb félelmed. Az élõholtak fertõzése bejutott Tataliába és végigsöpört a határ mentén. Esélytelen, hogy a vezetõkhöz eljusson egyhamar a hír. Hõn szeretett hazád segítsége nélkül kell megoldanod ezt a problémát.
+
+Név:
+Válasz
+Üzenet:
+Egy hírnök tér vissza a lovagok kastélyából. Nem hivatalos az üzenet, de jó hírekkel nem szolgál. A lovag, aki az üzenetet küldte, azt írja, 	" Erathia nem fog segítséget biztosítani. Hatalmas fegyvereket viselõ förtelmes szörnyek támadtak meg minket. Minden lovagunk és papunk Erathiát védi ezektõl a démoni szörnyektõl. Sok szerencsét." 	A szavai õszinték, de nem segítik elõ az ügyedet. Legalább van egy kevés erathiai, akiket be tudsz sorozni, hogy segítsék az ügyedet.
+
+Név:
+Hivatalos válasz
+Üzenet:
+Végül jó néhány nap elteltével megérkezik a hírnök a hivatalos válasszal: "Sajnálkozva tájékoztatunk téged, hogy képtelenek vagyunk ily módon segíteni. Az új és méltó fenyegetés miatt egyetlen lovagot vagy papot sem tudunk nélkülözni. Mivel a zavargások az Erathia-Talalia határán vannak, nagyon hálásak lennék, ha az embereiddel meg tudnád ezt oldani. Van azonban egy lovag, akit talán be tudnál sorozni. Egy magát Éjjeli Orvvadászoknak hívó csoport váltságdíjat kér érte. Ha kiszabadítod, és megmutatod neki ezt a levelet, akkor fel fogja ajánlani a szolgálatait.	" Alig tudod visszafogni az égetõ dühöt, mely feltörni próbál, összegyûröd a levelet, és elrakod a zsebedbe. Váratlanul elkezdesz parancsokat kiadni, hogy osszák fel a tábort, nem szólva egy szót sem a rossz hírekrõl. Az ösztöneid azt súgják, hogy ez több, mint egy kis nyûg, de a bolondok sosem hallgatnak rád.
+
+Név:
+Baltron véleménye
+Üzenet:
+"Legkedvesebb fiatal boszorkányom" már most tudod, hogy ez egy ilyen 'Én megmondtam' beszélgetés lesz. 	"Figyelmeztettelek, hogy ne kérj segítséget az erathiaiaktól. Még a tatalianiak sem érhetõek el. Azon is csodálkozom, hogy egyáltalán vették a fáradtságok, hogy visszaírjanak…"		Idegesen közbe vágsz.	"Csend! Én hozom a döntéseket errefelé. Ne add nekem ezt az 'Én megmondtam' marhaságot. Tisztában voltam, hogy milyen válaszra számíthatok. Meg kellett próbálnom, és most már visszatérhetünk az élõholtak fertõzésének kiirtásához a területrõl." 	Tudat alatt ökölbe szorítottad a kezeidet, majd egy erõ kezdett el végigcsúszni és körbetekeredni a testeden, mint egy kígyó, ami lecsapni készül. Látva a rettegést a szemeiben utánamész, és megátkozod, amiért ennyire felmérgesített.
+
+Név:
+A halottak égetése
+Üzenet:
+Múlt éjjel rengeteg rothadó húsba botlottál. Nem mozogtak, viszont így is biztosra állítottad, hogy ez egy csapda. Ahelyett, hogy veszélyeztess egy újabb összecsapást, rájuk eresztetted a Tûzmágiád teljes hatalmát, megtisztítva ezzel a földet a rothadó testektõl. Elõször elszörnyülködtek az embereid a tüzes varázslat bemutatójától. Hátra lépve a pusztítástól, melyet a jövõbeli zombikon demonstráltál, jó messze álltak meg tõled. Egész éjjel megvetettek téged az embereid, reszketve a Tûzmágiádtól, elkerültek téged. Reggelre fekete füst gomolygott az ég felé. A holttestek elégették. Úgy tûnik, hogy kiegyeztek a tûzzel és rájöttek jelenlegi értékére. Ha a testek nem lennének teljesen elpusztítva, akkor idõvel csatlakoznának az élõholtak soraihoz. Ez a legjobb megoldás.
+
+Név:
+Problémák
+Üzenet:
+Baltron berohan a sátradba, felébresztve egy nagyon mély álomból. "Adrienne! Gond van az emberekkel! Gyere gyorsan!" Felkapva a ruháidat, álmos szemmel kibotladozol a táborba, rögtön bele egy verekedésbe. Tataliaiak és erathiaiak veszekednek, aminek eredményeképpen hatalmas verekedések alakultak ki. 	"Elég legyen!"	A hangod mindenki meghallja, de senkit se érdekel. Hiábavalóan kiáltasz még egyet, és rájössz, hogy csak a torkod fog megfájdulni. Mélyen belülrõl elõhívod a dühöt, mely a tûz erejének szabadon eresztéséhez kell.	A lángok magasra csapnak az éjszakai égbolton, az embereid gyorsan fedezéket keresnek. Hagyod, hogy kicsit lenyugodj, mindenki félve tartja tõled a távolságot, ahogy végigsétálsz a táboron, a felbujtókat keresve. Könnyen megtalálod Õket. Két forrófejû lovagot már kétszer fegyelmezni kellett, mert felbujtották a Hatalmas Gorgonokat - azzal, hogy megpróbálták meglovagolni Õket. Az egyik bajkeverõ holtan fekszik, miután rájött, hogy miért nem szabad a Hatalmas Gorgonok szemébe nézni. Hidegen bámulva a lovag maradványait, szó nélkül egy kézzel felemeled a bolondot.		Összeszorított fogakkal ennyit tudsz mondani: 	"Soha - többé - nem - lesz - ilyen - HARC!" 	A tábor felpattan, amikor kihangsúlyozod az utolsó szót egy kisebb láng robbanássával kísérve a kezedbõl. A lovagnak fehérnemût kell cserélnie. Ledobod a földre, és visszasétálsz a sátradba. Baltron átveszi innen, tovább szidja Õket, majd elintézi a sebesültek ellátását és a halottak eltemetését.
+
+Név:
+Virágok
+Üzenet:
+Ez egy hosszú és fárasztó nap volt. Olyan ismerõs területen végig utazni, ami tele van rothadó hullák kupacával mindenkibõl kihozza a legrosszabbat. Erõsen sóhajtva visszatérsz a sátradba, hogy egy pár órát tudj aludni. Észreveszed, hogy a bejárat nincs bezárva, óvatosan belépsz, azon gondolkozva, hogy az élõholtak ismerik-e az orgyilkos fogalmát. Ha igen, akkor ma nem fogod megtudni a választ. Egy tucatnyi virág szórja tele illattal a sátrad belsejét, amiknek mennyei kellemes illata van. Mély levegõt veszel, és rájössz, hogy ez nem egy katona vagy Baltron mûve. Kacagást hallasz kintrõl, amibõl megtudod, hogy ki a felelõs ezért a gesztusért. Gyerekek nézik, akiket nemrég mentettél ki, hogy mennyire élvezel olyan apróságot, mint a virágok okozta élvezet a háború szörnyûségei közepette. Rájuk mosolyogsz, és elhessegeted Õket aludni. Legalább ma éjszaka jól fogsz aludni és csak a gyermekkorodról fogsz álmodni.
+
+Név:
+Halállovag
+Üzenet:
+Néhány nappal ezelõtt látták a vezetõt. Egy Halállovag, aki egy nagy Fekete Paripán jár. Hûséges követõi lesik minden kívánságát és utasítását. Mélyebbre vonult Tatalia szíve felé, amirõl tudod, hogy nem jelent jót a szülõföldednek. Az idõ pénz. El kell pusztítanod ezt a fenyegetést!
+
+Név:
+Halállovag
+Üzenet:
+Ez a különös Halállovag erõsebbnek tûnik, mint a többi. Nem tudva, hogy ki is Õ és miért nem zavarja a jelenléted, aggodalommal tölt el. Tudva, hogy semmi jó nem sülhet ki abból, ha nem ismered az ellenséget, elküldesz felderítõket Tataliába és Erathiába, hogy kiderítsd, Õk mit tudnak.
+
+Név:
+Tatalia
+Üzenet:
+Egy válasz érkezett vissza Tataliától. Nem tudják, hogy ki ez a Halállovag. Jelenleg van saját gondjuk is, és rád hagyják, hogy gondoskodj a néhány nekromantáról, akiket a völgyben láttak. Mivel a terület legalább fele erathiai terület, tudod, hogy Tatalia nagyon keveset fog tenni, hogy segítsen téged.
+
+Név:
+Pénz
+Üzenet:
+Egy hírvivõ érkezik Erathiából. Pénzre van szükségük, hogy a háborút fenntudják tartani. Mivel elfoglaltak a saját gondjaikkal, elhanyagolják a tényt, hogy a határon is gondok vannak. A futár azt mondja, hogy ha nem tér vissza a terület dézsmájával, akkor el kell mondania az erathiai hadseregnek, hogy egy tataliai boszorkány irányítja a területet, és az nagy valószínûséggel nem lenne túl jó neked. Összeszorítod a fogaid és átadod a dézsmát, minthogy politizálni kezdj.
+
+Név:
+Ki is Õ?
+Üzenet:
+Felderítõk követték a Halállovagot, és végre visszatértek válasszal, hogy mégis ki lehet Õ. Az itt látott Halállovagok és Nekromanták valaha Lord Haart kultuszának élõ tagjai voltak. A hír meg lett erõsítve Earthiából - Lord Haartot feltámasztották a sírból. Õ utána feltámasztotta a kultuszának tagjait, akik most teljes hûséggel szolgálják Õt. Õ a halál hatalma, aki végigsöpör egy élettel teli, nagyszerû földön.
+
+===== Tárgyak =====
+
+(62, 62, 0) ***Castle***
+Név:
+Brastleton
+
+(36, 70, 0) ***Titok Kunyhó***
+Üzenet:
+Szánalmasak a képességeid. Ha legalább tizes támadási képességet szerzel, csak akkor térj vissza hozzám. Csak akkor leszel méltó arra, hogy megtanuld egy nagy harcos igazi taktikáját.
+
+(60, 67, 0) ***Lélek***
+Üzenet:
+A lények sorai közt látod az egykor élõ parasztok halovány formáját, meggyötört lelkük képtelen elhagyni eme poklot, s túllépni a másvilágra. Zord elhatározással elkezded megszabadítani lelkeiket az egyetlen módszerrel, amit ismersz.
+
+(7, 2, 0) ***Vámpírúr***
+Üzenet:
+A kulcsár talán azt mondta, hogy átmehetsz, de elfelejtetted kérni a Mi engedélyünket. Engedély megtagadva!
+
+(58, 10, 0) ***Fekete Lovag***
+Üzenet:
+Ááá, odanézz! Újoncok!
+
+(14, 6, 0) ***Esemény***
+Üzenet:
+Elõtted fekszik egy õrizetlen kincs. Amikor elõrerohansz, hogy begyûjtsd a már réges-régen várt ellátmányt a csapataid részére, nem veszed észre a bokorból leskelõdõ szempárt. Amikor minden embered besétált már a csapdába, a csapda hirtelen aktiválódik.
+
+(12, 71, 0) ***Lich***
+Üzenet:
+Örülök, hogy csatlakozol erõinkhez. Kérlek, gyere be. Isten hozott.
+
+(55, 9, 0) ***Jel***
+Üzenet:
+Óvakodj az Éjjeli Orvvadászoktól!
+
+(56, 8, 0) ***Vámpír***
+Üzenet:
+"Nocsak, mi van itt? Egy csürhe ember, akik a vacsoráink szeretnének lenni. Hmmm, hmmm finom. Annyira, hogy megnyalod utána az ujjaid. Lássunk neki fiúk, itt a leves!"
+
+(58, 3, 0) ***Vámpír***
+Üzenet:
+Odanézzetek! Ebéd!
+
+(52, 3, 0) ***Vámpír***
+Üzenet:
+"Látjátok fiúk, én mondtam, hogy ez az õrmunka érdekes lesz. Ezek a kedves emberek szórakoztatnak minket!"
+
+(69, 6, 0) ***Vámpír***
+Üzenet:
+"Nocsak, nocsak, nocsak! Nézzétek mi érkezett az ajtóhoz. Úgy gondolod, hogy legyõzhetsz minket? Mi nem így gondoljuk."
+
+(71, 7, 0) ***Vámpírúr***
+Üzenet:
+Szóval az erathiaiak nem szeretnék kifizetni az árat? Hát legyen. Pont jókor jöttetek egy éjszakai falatozásra. A többieket elraktározzuk, amíg le nem járnak. Akkor majd mindenki tudni fogja, hogy ne packázzon az Éjjeli Orvvadászokkal.
+
+(71, 8, 0) ***Esemény***
+Üzenet:
+Ahogy közel érsz a börtönhöz, egy csoport erathiai sürget, hogy kiszabadítsd Õket. Sir Michaelért kiáltasz, aki ettõl elõre lép. Megmutatod neki a levelet elolvassa, és egy lábbal letérdel.	"Megfogadom saját hûségemet és az embereimét."	Elégedetten elõre lépsz, hogy kiszabadítsd Õket a börtönbõl.
+
+(70, 9, 0) ***Börtön***
+Név:
+Sir Michael
+
+(47, 24, 0) ***Esemény***
+Üzenet:
+A halál bûze megtölti a tüdõd, és érzed a rothadás szagát a levegõben. Az élõholtak büdösítik a területet, olyan mocskot teremtve, amiben senki sem tud élni. Összegyûjtve a sereged újult lelkesedéssel nyomultok tovább. A morál az egekben.
+
+(17, 71, 0) ***Esemény***
+Üzenet:
+Elõtted van egy hangos tábortûz. Banditák ülik körül, iszogatva és a zsákmányukkal játszva. A balodról susogást hallasz, ami bámészkodókra utal. Egy szegény család, akik elvesztették társaikat, félnek, hogy bántani fogod Õket. Megnyugtatással küldöd Õket biztonságba. Most már foglalkozhatsz a banditákkal.
+
+(41, 41, 0) ***Esemény***
+Üzenet:
+Az utadon belebotlasz egy fiatal lányba. A ruhája szakadt és rongyos, a lány pedig alultáplált. Ételt és vizet hozol neki, amit Õ el is fogyaszt. Bátor története van, mivel megszámolta a helyõrség tagjait, amíg napokig bujkált az õrjáratok elõl. Legutoljára öt embert számolt nagy, fekete lovon. Tíznek világító botjai voltak, a vérszívókból pedig húsz darabot számolt. Harmincöt világító szemû nõt számolt rongyokban, akik lebegtek. Ötven darab lassú mozgású, rothadó holttest, és száz törött páncélos csontváz mászkált fel-alá. Amint végzett a történettel, megállíthatatlanul sírni kezd az örömtõl, hogy végre távol lehet a bajtól és távol a szörnyûségektõl, amiket egy gyereknek sosem kellene átélnie.
+
+(71, 4, 0) ***Esemény***
+Üzenet:
+Átkelsz egy kis völgyön a seregeiddel, ahol egy nagy csata eredményeképpen az egész völgy fel lett perzselve. Testek, fegyverek és lovak hevernek mindenhol, amik komoran emlékeztetnek a harcra. Nem messze a megkínzott és haldokló emberek sikolya visszhangzik a fák között. A felderítõid meglátják, hogy a vámpírok lakomáznak a túlélõkön. A sereg rongyos túlélõi eledelként szolgálnak ezeknek a lélektelen lényeknek. A vezetõjük kiáltása jól hallható. Sir Michael él.
+
+(27, 28, 0) ***Titok Kunyhó***
+Üzenet:
+Nagyon szívesen megtanítom neked a Láncvillám varázslatot, de elõbb össze kell gyûjtened az alapanyagokat egy másik varázslatomhoz. Amint ezzel megvagy, elárulom neked a Láncvillám titkait.
+
+(55, 29, 0) ***Esemény***
+Üzenet:
+Egy sziklán a következõ üzenet áll, melyet vérrel festettek fel: 	"Hacsak a vércsoportod nem A+, B- vagy AB+, akkor nem szeretnénk, hogy az ebédünk legyél. Mindenki más hagyjon minket békén. Viszont azok, akik a jó vércsoportba tartoznak, pihenjenek le a kristálybányánknál."
+
+===== Fájl vége =====

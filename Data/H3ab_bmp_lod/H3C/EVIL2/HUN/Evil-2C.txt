@@ -1,0 +1,37 @@
+===== Térkép neve =====
+Testi fenyítés
+
+===== Térkép leírása =====
+A gyõzelemhez le kell gyõznöd a Halállovagot... Motot. Néhány Határõr csak úgy fog átengedni, ha a hõs egy elõzõ küldetésbõl hozott varázstárgyat birtokol, de a Határõrség mögötti varázstárgyat továbbviheted a következõ küldetésbe.
+
+===== Események =====
+
+Név:
+Az örvény becélzása
+Szöveg:
+Az örvény a Holtak Barlangjának kapuja, de az Idézés Nyakörve a Kulcs.
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Levelet kapsz Gryphonheart lich királytól. 	"Parancsnok! Úgy tûnik, egy Mot nevû Halállovag nem kívánja követni az utasításaimat, és azt hiszi, hogy nem támadjuk meg Erathiát. Ez rendben is van, hiszen nincs rá szükségünk a terveinkhez."
+
+Név:
+Bevezetés folytatása 1
+Üzenet:
+"Azonban szükségünk van a seregeire, és nem engedhetem, hogy engedetlensége büntetlenül maradjon. A Te feladatod, hogy megtaláld Motot és meggyilkold. Aztán felélesztjük, hogy a seregedben szolgáljon. Légy sikeres, és új tábornokomként léphetsz a helyébe."
+
+Név:
+Bevezetés folytatása 2
+Üzenet:
+Az élõhalott királynak még az aláírása is megdermeszt. Gyorsan megírod a választ, egészen egyszerûen: 	"Meglesz." 	Mot nem gyõzhet le!
+
+===== Tárgyak =====
+
+(62, 66, 0) ***Halállovag***
+Név:
+Mot
+
+===== Fájl vége =====

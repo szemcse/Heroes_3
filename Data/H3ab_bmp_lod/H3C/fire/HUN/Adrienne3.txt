@@ -1,0 +1,578 @@
+===== Térkép neve =====
+Tatalia felgyújtása
+
+===== Térkép leírása =====
+Gyõzd le Lord Haartot és minden követõjét, szabadítsd fel Tataliát a halálos gonosz fogságából. Ha Adrienne meghal, elveszíted a háborút a szörnyûséges gonosz ellen. Keresd meg a Látó Kunyhóját, hogy megtaláld a Tûz- és Földvarázslatok Nagykönyvét, ami segítségedre lesz Lord Haart elpusztításásában.
+
+===== Események =====
+
+Név:
+Víz Elementálok
+Szöveg:
+A Víz Elementálok kihasználják ezt a kaotikus helyzetet, és megszállják a földjeinket!
+
+===== Idõzített események =====
+
+Név:
+Égetés
+Üzenet:
+Napokig utaztál, követve a vastagon gomolygó füstfelhõket. Végre, napokkal azután, hogy a tûz megállíthatatlanul égett, a füst elvékonyodik, és meglátod a pusztítást. Itt vájt utat magának Lord Haart Tatalián keresztül, létrehozva egy seregnyi élõholtat azokból, akik a tûz áldozatai lettek.
+
+Név:
+Követõk
+Üzenet:
+Lord Haart követõi szétváltak, és három felé mentek. Õk is felégettek a valamikor nedves mocsarakat. Habár a felperzselés csak egy hete volt, a mocsár már elkezdte helyreállítani magát.
+
+Név:
+Segítség!
+Üzenet:
+Egy hírvivõ jó hírekkel tér vissza, miszerint néhány vár sikeresen ellen tudott állni az élõholtaknak. Azonban, sokáig már nem fogják kibírni. Lord Haart élõholt követõi szép lassan lefarigcsálják a seregeiket. Segítségért könyörögnek, mielõtt élõhalott nem lesz belõlük. A déli tengernél találhatóak.
+
+Név:
+Thanel-vízesés
+Üzenet:
+Egy üzenet érkezik az északra található Thanel-vízesés polgáraitól. Még kitartanak egy ideig, de nem tudják, hogy mikorra fogynak ki az ellátmányokból. Ha tudnál küldeni egy keveset, akkor talán tovább kitartanának. Mivel rájössz, hogy nem veszíthetsz több területet, így küldesz nekik nyersanyagot.
+
+Név:
+Kiálts segítségért
+Üzenet:
+Keresztülvágva magad az aljnövényzeten, egy kis lény szedi a lábát elõtted. Az embereid elõhúzzák fegyvereiket, bekészítik varázslataikat, és miután kiirtják a környéken a növényzetet, sarokba szorítják a gonosz Gnoll gyermeket egy kis kiálló sziklán. Megnyugodva, óvatosan megközelíted a fiatal gyermeket. Ütött-kopott állapotban van, tele zúzódásokkal, az arca és ruhája pedig hamufoltokkal szennyezett. Amint rájön, hogy szövetséges vagy, azonnal gügyögni kezd.	"Északra innen van egy vár, Terisan a neve. Pár hónapja tartjuk magunkat az élõholtak ellen, de hamarosan fordulni fog a kocka. Könyörgünk, szabadíts fel minket ettõl a fenyegetéstõl. Kérlek, nem akarom, hogy a családom meghaljon. Megígérjük, hogy követünk téged, ha segítesz rajtunk. Én egyedül éltem túl a környékünk támadását. Könyörgöm, segíts."	Tenned kell valamit gyorsan, mielõtt ez a város is az élõholtak birtokába kerülne.
+
+Név:
+Üzenet
+Üzenet:
+Hírvivõket küldesz a várakba, amiket még elérsz. Az üzenetben ez áll:	"Kérlek, egy kicsit tartsatok még ki. Haladunk keresztül a mocsáron, amilyen gyorsan csak tudunk. Kis szerencsével nemsokára odaérünk."	Remélhetõleg ki fognak tudni tartani a élõholtak hullámai ellen.
+
+Név:
+Egy üzenet
+Üzenet:
+Egy hírvivõ, levegõ után kapkodva és kimerülve berohan a táborodba, Adrienne után kiáltva. Elveszed az üzenetet, gyorsan átfutod, és elmosolyodsz. A vezetõk észrevették az Észak-Tataliában történõ eseményeket. Most már tudják, hogy mennyire értékes vagy számukra - legalábbis egyelõre. A segítség nemsokára megérkezik.
+
+Név:
+Készpénz
+Üzenet:
+Négy lovas, gyorsan keresztülvágtatva a mocsáron a táborodba érkezik. Minden lovat másik kettõ követ, azokon is nyereg és táskák. Gyorsan leszállnak, leszedik a nyergeket a lovakról, és erõteljesen a földre dobják õket. Gyorsan kiderül, hogy ellátmány van bennük. Az egyik lovas így szól:	"Üdvözlet Adrienne, a vezetõktõl hoztunk üzenetet. Csapatokat nem tudnak jelenleg küldeni, de ellátmányt küldtek azért, hogy segítsék az itteni várak fejlesztését. A katonák nemsokára megérkeznek."
+
+Név:
+Lassú kocsik
+Üzenet:
+Lassan a táborodba gurul két letakart szekér. Mindegyiket négy leizzadt ló húzza, akik tágra nyílt szemmel lépkednek a félelmetes út miatt, melyet az ellenség területén tettek meg. Leveszed a takarást, és megörülsz, hogy a várva várt érc és fa szállítmány megérkezett.
+
+Név:
+Csapatok!
+Üzenet:
+Végre! Katonák érkeznek a fõtáborodba. Besorozhatod azokat, akikre szükséged van, és pihentetheted a többit. Ezek a seregek hasznos tagjai lesznek a csapataidnak.
+
+===== Tárgyak =====
+
+(68, 39, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Csapatok
+Üzenet:
+A számítógép fog most kapni katonákat a seregeidbõl.
+
+(51, 91, 0) ***Fortress***
+Név:
+Nylstroom
+
+(87, 5, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Csapatok
+Üzenet:
+A számítógép fog most kapni katonákat a seregeidbõl.
+
+(17, 128, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Csapatok
+Üzenet:
+A számítógép fog most kapni katonákat a seregeidbõl.
+
+(139, 22, 0) ***Fortress***
+Név:
+Ghanzi
+
+(71, 125, 0) ***Fortress***
+Név:
+Kuruman
+
+(98, 136, 0) ***Fortress***
+Név:
+Rakops
+
+Idõzített események:
+
+Név:
+Csapatok
+Üzenet:
+Rakopsban csapatok állnak rendelkezésre.
+
+(135, 120, 0) ***Fortress***
+Név:
+Sehithwa
+
+Idõzített események:
+
+Név:
+Csapatok
+Üzenet:
+A csapatok Sehithwában készen állnak a csatlakozásra.
+
+(127, 94, 0) ***Fortress***
+Név:
+Aseranton
+
+Idõzített események:
+
+Név:
+Csapatok
+Üzenet:
+Aserantonban csapatok állnak rendelkezésre.
+
+(115, 72, 0) ***Fortress***
+Név:
+Terisan
+
+(105, 6, 0) ***Fortress***
+Név:
+Bangassou
+
+(16, 5, 0) ***Fortress***
+Név:
+Caprivi
+
+(4, 31, 0) ***Fortress***
+Név:
+Andara
+
+(119, 47, 0) ***Fortress***
+Név:
+Thanel-vízesés
+
+(15, 83, 0) ***Fortress***
+Név:
+Nokaneng
+
+(4, 32, 0) ***Lich***
+Üzenet:
+Az Erõdben összebújva vannak a parasztok, akik semmi mást nem szeretnének, mint visszatérni az otthonaikba, és újrakezdeni az életüket. A szabadságuk útjában áll egy csoport Lich. A Lichek nincsenek se tárgyaló, se visszavonuló hangulatban, amivel neked semmi gondod nincs.
+
+(132, 142, 0) ***Jel***
+Üzenet:
+<------- Óceán
+
+(127, 119, 0) ***Küldetésõrzõk***
+Üzenet:
+Arra lettünk kényszerítve, hogy itt éljük. Ahelyett, hogy a forráshoz közeli otthonunkban lennénk. Amíg a Csontsárkányok nem lettek elpusztítva, nem hagyjuk el ezt a helyet, és addig senki se mehet át.
+
+(40, 103, 0) ***Fortress***
+Név:
+Warrenton
+
+(27, 67, 0) ***Fortress***
+Név:
+Plumtree
+
+(124, 70, 0) ***Esemény***
+Üzenet:
+Elõtted szabadon álló nyersanyagok várják, hogy valaki begyûjtse õket. Mivel legyõzted az élõholtakat a helyõrségben, így nem számítasz rajtaütésre. Víz Elementálok érkeznek minden irányból a seregeid ellen, hogy megvédjék a zsákmányukat!
+
+(140, 57, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Csapatok
+Üzenet:
+A számítógép fog most kapni katonákat a seregeidbõl.
+
+(41, 39, 0) ***Fortress***
+Név:
+Zipfel
+
+(67, 113, 0) ***Titok Kunyhó***
+Üzenet:
+Az élõholtak elpusztításának egy jobb módját kutatom a földünkön. Hozz nekem 200 Csontváz Harcost, és megtanítom neked mindazt, amit az élõholtakról tudok.
+Végre, a 200 Csontváz Harcos elõsegíti majd a harcunkat. Add õket nekem, és kapsz 20.000 tapasztalatot. 
+
+(74, 89, 0) ***Titok Kunyhó***
+Üzenet:
+Hallottam az igényeidrõl, de nekem is vannak szükségleteim. Hogy elhagyjam szerény otthonom, jó alaposan meg kell tudnom magamat védenem, mielõtt feladom egyetlen védelmem - a Földvarázslatok Nagykönyvét. Hozd el nekem a Csodák Páncélját, és odaadom neked a Nagykönyvet.
+
+(84, 76, 0) ***Titok Kunyhó***
+Üzenet:
+Hogy befejezzem a Tûzvarázslatok Nagykönyvét, szükségem van a Pokoltûz Kardjára. Hozd el nekem, és neked ajándékozom a Nagykönyvet.
+
+(115, 86, 0) ***Titok Kunyhó***
+Üzenet:
+Szellemek elfoglalták az otthonainkat! Ha legyõzöd õket, akkor a férfijaink csatlakoznak hozzád a háborúban. Délkeletre vannak innen, túl a Helyõrségen.
+Kitûnõ! A feleségeink és gyermekeink hazatérhetnek, mi pedig segítünk téged a háború erõfeszítéseiben.
+
+(95, 59, 0) ***Titok Kunyhó***
+Üzenet:
+Ha bebizonyítod, hogy érsz valamit, akkor adok pénzt, hogy támogassam a háborús alapot. Érd el a 32. szintet, és adok neked 10.000 aranytallért. Addig viszont ne is zaklass!
+Gondoltam, hogy betartod amit megígértél. Valóban elérted a 32. szintet. Gyere, csak gyere. Itt a pénz, amit ígértem. 
+
+(110, 41, 0) ***Titok Kunyhó***
+Üzenet:
+Segíthetek neked elkészíteni a Pokoltûz Kardját. Hogy ezt megtegyem, vissza kell térned 20 fával és érccel, illetve 10 higannyal, kénnel, drágakõvel és kristállyal, valamint 5.000 arannyal. Ha ez megvan, elkészítem a fegyvert a szolgálatodért.
+Végre! Add nekem a 20 fát és ércet, illetve a 10 ként, higanyt, drágakövet és kristályt, valamint a 5.000 aranyat, s akkor elkészítem a kardot a számodra. 
+
+(83, 24, 0) ***Titok Kunyhó***
+Üzenet:
+Qenay egy gonosz és szörnyûséges állati teremtmény. Õ ennek a földnek a csapása, ki mindenkit megöl, akit csak lát. Valaha szeretõ férjem volt, de elesett, és azzá a förtelmes valamivé vált. Megtanítom neked a Repülés varázslatot, ha nyugalomra helyezed a lelkét.
+Qenay végre nyugalomra tért. Hálásan köszönöm neked. Örülök, hogy a lelke megváltásra lelhet nekromantaként az elkövetett bûneiért. Tanulmányozd a tekercset, és tudni fogod, hogyan kell repülni.
+
+(113, 59, 0) ***Titok Kunyhó***
+Üzenet:
+Photima elárulta a népét, és csatlakozott a sötétség és gonoszság erõihez. Holtan szeretném tudni. 20 higanyt fizetek annak, aki a lelkét a pokolra küldi, ahová való.
+Azt hittem, ez a nap már soha sem jön el! Photima nincs többé. Megérdemled a 20 higanyt.
+
+(143, 137, 0) ***Gnoll Martalóc***
+Üzenet:
+Már mondták eljöveteled, s megvédtük ezt a területet Lord Haarttól és a követõitõl. Továbbálltak, de mi itt maradtunk - a biztonság kedvéért. Néhány élõholt keresztüljutott rajtunk, de nem sok. Segíteni fogunk megtisztítani a földet.
+
+(137, 135, 0) ***Gnoll Martalóc***
+Üzenet:
+A társaink említették az érkezésed. Örülünk, hogy itt vagy. A háború nehéz volt a számunkra, és minden vezetõnk a Halállovagok áldozatául esett. Engedd meg, hogy csatlakozzunk hozzád a fertõzés elleni harcban.
+
+(143, 130, 0) ***Gnoll Martalóc***
+Üzenet:
+A többiek, akik csatlakozni szeretnének, a kunyhóban várnak. Csak menj be, és szólj nekik.
+
+(133, 128, 0) ***Gnoll Martalóc***
+Üzenet:
+Elért minket a hír, és készen állunk, hogy csatlakozzunk hozzád. Többen bent vannak még, csak menj oda, és gyûjtsd össze õket.
+
+(124, 127, 0) ***Gnoll Martalóc***
+Üzenet:
+Kiváló! Reménykedtünk, hogy erre jársz, és csatlakozhatunk a seregeidhez. Alig várom, hogy megszabaduljak az élõholtaktól, akik fertõzik a földjeinket.
+
+(119, 125, 0) ***Gnoll Martalóc***
+Üzenet:
+Hallottunk rólad, és szeretnénk csatlakozni a seregeidhez. Az egyetlen vágyunk, hogy megtisztítsuk otthonunkat ettõl a gonosztól, és visszaállítsuk korábbi dicsõségét és szépségét.
+
+(111, 122, 0) ***Gnoll Martalóc***
+Üzenet:
+Van valami, amit el kell mondanunk neked. Néhány emberünknek északra sikerült kitartania az élõholtak ellen, de már nem sokáig fogják bírni. Siess, vagy biztosan elbuknak. Hajlandóak vagyunk csatlakozni hozzád, hogy legyõzd az ellenségeinket.
+
+(133, 105, 0) ***Gyíkharcos***
+Üzenet:
+Szerencsére az élõholtak eléggé jelentéktelennek tekintenek minket ahhoz, hogy békén hagyjanak. Szeretnénk csatlakozni hozzád a becsületért, hogy mi szabadíthassuk fel Tataliát az ellenségeitõl.  
+
+(141, 97, 0) ***Gyíkharcos***
+Üzenet:
+Üdvözöllek! Hallottuk, hogy erre jössz, és szerettük volna, ha megállsz, hogy csatlakozhassunk hozzád. Ne feledd az innen északra levõket sem, Õk is alig várják, hogy csatlakozhassanak a háborúhoz.
+
+(142, 92, 0) ***Gyíkharcos***
+Üzenet:
+A déli barátaink biztosan említették, hogy szeretnénk csatlakozni hozzád. A felderítõk szerint néhány ördögfióka épp most költözött be innen északra. Úgy tûnik, hogy elmenekültek otthonaikból, miután Erathia legyõzte õket, és így ide jöttek. Meg kellene szabadulnunk tõlük, mielõtt még több érkezne!
+
+(118, 92, 0) ***Esemény***
+Üzenet:
+Egy öregember a földön ül, egy kis játékot farigcsálva fából. Rád néz, majd így szól:	"Még jó, hogy az élõholtak az utolsó betûig követik a parancsokat. A Lich azt mondta, hogy 'Senkit ne engedjetek át' és ezután még a sajátjukat se engedték át! Eszetlen lények, én mondom, eszetlenek."
+
+(119, 98, 0) ***Gyíkharcos***
+Üzenet:
+Jó látni, hogy a hõsök végre messzebbre mennek az ellenség területén. Szedjük fel a társainkat északnyugatra innen és menjünk kiszabadítani ezeket a szegény Kígyólegyeket. Úgy tûnik, hogy elég erõsek ahhoz, hogy az élõholtaknak feltûnjenek.
+
+(111, 95, 0) ***Gyíkharcos***
+Üzenet:
+Megengeded, hogy csatlakozzunk a seregeidhez? Mi is meg szeretnénk tisztítani Tataliát ettõl a csapástól.
+
+(135, 111, 0) ***Gyíkharcos***
+Üzenet:
+Kérlek! A Kígyólegyek elõl próbálunk menekülni, de nem tudunk. Had csatlakozzunk hozzád, és talán együtt fel tudjuk szabadítani Tataliát!
+
+(137, 141, 0) ***Esemény***
+Üzenet:
+Lord Haart és az élõholt követõi pusztítást hagytak maguk után, mely azóta már elkezdett helyreállni. A hegyeken egy-két helyen megjelent már a zöld. A lenyûgözõ helyreállító képességgel rendelkezõ tataliai mocsár hamarosan fel fog épülni ebbõl a kiterjedt felégetésbõl. Tudod, hogy ha Lord Haart és követõi nem lesznek hamarosan legyõzve, akkor Tatalia gyönyörû mocsárvidékébõl az Élõholtak kopár vidéke marad csak. Még a mocsárnak is szüksége van egy kis érintetlen területre, hogy újra tudjon nõni.
+
+(113, 137, 0) ***Esemény***
+Üzenet:
+Mivel nem tudja teljesen áttörni a vad tataliai védelmet, Lord Haart körbe zárta õket egy kis területen. Amint Lord Haart követõi letelepedtek az új otthonukban, visszatérnek ide befejezni a munkát. Nemsokára a nyersanyag készletek leapadnak, és a tataliai védelem elbukik.
+
+(45, 110, 0) ***Esemény***
+Üzenet:
+A tataliaiak azért küldenek, hogy visszatartsák Lord Haartot és a követõit a földjeitõl, de szépen lassan elveszítik a harcot és lemorzsolódnak. Amikor meglátják, hogy elesett bajtársaik feltámadnak, és az ellenség oldalán harcolnak tovább, akkor minden reményük szertefoszlik.
+
+(120, 81, 0) ***Lich***
+Üzenet:
+Szóval el akarod lopni a higanyunkat? Senki sem állhat ellen a varázslatunknak. Készülj fel, hogy csatlakozol hozzánk, Te bolond élõ szörnyszülött.
+
+(98, 73, 0) ***Lélek***
+Üzenet:
+Úgy gondolod, hogy értéktelen õrzõi vagyunk a völgynek, de a látvány megtévesztõ. Ha túl is jutsz rajtunk, akkor nagyobb õrzõk várnak rád, hogy letépjék a húst a csontjaidról!
+
+(3, 62, 0) ***Szellemsárkány***
+Üzenet:
+Itt kísértenek a sárkányok szellemei az õsi búvóhelyük bejáratánál. Hiába lettek több száz éve legyõzve a Hõsök által, a mohóságuk itt tartja a lelküket. Itt az idõ elhajózni a túlvilágra, és kideríteni, hogy milyen kincseket õriztek több száz éven át.
+
+(55, 96, 0) ***Aranygólem***
+Üzenet:
+Egy elhagyatott és elfeledett Alkimista itt hagyta a készítményét, hogy õrizze a laboratóriumának bejáratát. Most önmûködõen senkit nem engednek át harc nélkül. Hogy le tudd szüretelni a laboratórium javait, le kell gyõznöd ezeket az eszetlen lényeket.
+
+(46, 84, 0) ***Nagyobb Baziliszkusz***
+Üzenet:
+Találkozol egy Nagyobb Baziliszkuszokból álló csoporttal kik úgy döntöttek, hogy maguk haladnak. Helybéli lakosok támadása által átvették az irányítást egy helyi kénbánya felett, és felhalmoztak egy kevés vagyont. Itt az idõ megmutatni nekik, hogy Tatalia csak akkor gyõzhet, ha mindent egyesítenek.
+
+(45, 84, 0) ***Esemény***
+Üzenet:
+Ahogy a Nagyobb Baziliszkuszok területe mellett haladsz el, észreveszed, hogy több tucat Baziliszkusz tart feléd, jelezve megadási szándékukat.	"Nem szeretnénk Tatalia ellen menni, de kénytelenek voltunk. Kérlek, engedd meg, hogy csatlakozzunk hozzád és melletted harcolhassunk."
+
+(36, 81, 0) ***Esemény***
+Üzenet:
+A levegõ recsegni kezd, összeállva néhány apróbb tornádóvá. Egy korai monszuntól félve visszafordulsz a partról, hogy egy fedett helyet keress az erdõben, de valami megállít. Úgy tûnik, hogy ezek a tornádók valójában Levegõ Elementálok, akik készen állnak a véred kiontására!
+
+(23, 56, 0) ***Gyémántgólem***
+Üzenet:
+Szükségünk van a gyémántra ebbõl a drágakõtóból. Ha hagyjuk, hogy megszerezd, meghalunk. Szóval logika szerint nem fogjuk hagyni. Nem értjük, hogy miért nem hagysz minket békén a tavunkkal, de ha ragaszkodsz hozzá, akkor engedelmeskedünk, és szétzúzunk téged.
+
+(139, 47, 0) ***Gyíkharcos***
+Üzenet:
+Rengeteg évig ki voltunk téve mások hóbortjainkat. Soha többé! Találtunk egy otthont, és harcolni fogunk érte. Semmilyen szörnymester vagy boszorkány nem fog többé parancsolni nekünk. Inkább meghalunk, minthogy újra a szerzõdött takarmányaid legyünk!
+
+(131, 1, 0) ***Fa***
+Üzenet:
+Egy nagy kupac fa fekszik elõtted az úton, a kupac mellett pedig a favágók holtestei. Meghaltak, miközben saját tataliai feladatukat látták el. Ahogy elkezded összegyûjteni a fát, megtalálod a gyilkosokat...
+
+(111, 38, 0) ***Esemény***
+Üzenet:
+A fertõzés széles körben elterjedt errefelé. A haldokló tataliaiak sírását gyengén hallani, ahogy egyesével meghalnak. Az élõholtak különös, természetellenes hangjai, ahogy szép lassan becserkészik áldozatukat, elnyomják a pár életben maradt vadállat hangját.
+
+(114, 38, 0) ***Esemény***
+Üzenet:
+Ahogy a seregeid a kanyar körül mennek, észreveszel egy helyõrséget nem túl messze. A halál és rothadás bûze megtölti a levegõt, amitõl páran hányni kezdenek. A terület alig tudja megtartani az élet utolsó emlékeit. Nemsokára már csak a rothadó hús marad.
+
+(115, 39, 0) ***Esemény***
+Üzenet:
+Egy fa mögül rothadó holttestek másznak elõ. Az emberek megdermednek a félelemtõl, ahogy a bomló testek feléjük botladoznak. Mivel gyorsan rájössz a csapdára, visszavonulót parancsolsz a seregeidnek, de az utad gyorsan elállják az élõholtak. Körülzárva nincs választásod, mint kiállni a szörnyûségekkel.
+
+(57, 78, 0) ***Nekromanta***
+Név:
+Sethe
+
+(68, 40, 0) ***Halállovag***
+Név:
+Kajitianna
+
+(72, 41, 0) ***Nekromanta***
+Név:
+Nuzrath
+
+(48, 137, 0) ***Halállovag***
+Név:
+Obekan
+
+(16, 129, 0) ***Nekromanta***
+Név:
+Tejveer
+
+(52, 138, 0) ***Halállovag***
+Név:
+Jelan
+
+(15, 131, 0) ***Nekromanta***
+Név:
+Ajorn
+
+(50, 17, 0) ***Nekromanta***
+Név:
+Hortensia
+
+(54, 19, 0) ***Halállovag***
+Név:
+Godomir
+
+(85, 7, 0) ***Halállovag***
+Név:
+Mihalis
+
+(86, 10, 0) ***Nekromanta***
+Név:
+Qenay
+
+(142, 59, 0) ***Halállovag***
+Név:
+Vellore
+
+(55, 121, 0) ***Esemény***
+Üzenet:
+A bástyák tele vannak az embereid megszáradt vérével. Rothadó holttestek darabjai szennyezik be a környéket. A bûz elõhozza a múlt heti vacsorákat, melyek így a földön kötnek ki. Amikor az embereid helyrerázódtak, zord elhatározottsággal nyomulsz tovább elõre.
+
+(34, 120, 0) ***Esemény***
+Üzenet:
+Olybá tûnik, hogy a rothadó hús és a bûzlõ holttestek lassacskán mindennapossá válnak a Tataliát sújtó fenyegetés elleni küzdelemben. A tudat, hogy ha elbuksz, Lord Haart egy akkora sereget támaszt majd fel, hogy soha, senki sem fogja tudni megállítani, hajt elõre téged és seregeidet minden nap.
+
+(93, 138, 0) ***Vámpírúr***
+Üzenet:
+Kiváló! Megérkezett az ebédünk, örökké hálásak leszünk ezért a gyors ellátásért. Üdvözlet a séfnek.
+
+(140, 109, 0) ***Esemény***
+Üzenet:
+Az elõtted lévõ tisztáson látsz egy barlangbejáratot, ami a földalatti területekre vezet. Ott még több élõholt szivárgott be a földalatti lakókhoz. Szóbeszédek suttogását hallod; elsüllyedt városok, amik még a mai napig léteznek a felszín alatt. Itt az idõ, hogy valaki megerõsítse ezeket a mítoszokat.
+
+(130, 95, 0) ***Esemény***
+Üzenet:
+A déli barátaink biztosan említették, hogy szeretnénk csatlakozni hozzád. A felderítõk szerint néhány ördögfióka épp most költözött be innen északra. Úgy tûnik, hogy elmenekültek otthonaikból, miután Erathia legyõzte õket, és így ide jöttek. Meg kellene szabadulnunk tõlük, mielõtt még több érkezne!
+
+(134, 80, 0) ***Esemény***
+Üzenet:
+Az eme követõ által hagyott pusztítás követése túlságosan könnyû feladat volt. Kár, hogy nem volt nehezebb. Ilyen pusztítás nagyon könnyen megbéníthatja Tataliát egy jó hosszú idõre. A mocsárlények elfeketedett testei és a tataliai polgárok törött végtagjainak látványa összetöri a szívedet.
+
+(122, 57, 0) ***Esemény***
+Üzenet:
+Valószínûleg az élõholtak eredetileg itt mentek le a föld alá. Az ösvény a barlangba és visszavezetõ út is jól kitaposott. Semmi nem kerülte el a figyelmüket, a terület semelyik része. Félelmetes belegondolni, hogy mennyire alaposak ezek a Halálovagok és Nekromanták.
+
+(129, 57, 0) ***Esemény***
+Üzenet:
+Ez a kis tisztás érintetlen az élõholtaktól, tiszta a szorításuktól. Hogy miért maradt ez a hely ki, nem tudod, de nem is érdekel. Hálás vagy, hogy nem hagytak hátra bestiális kísérteteik közül több százat. Gyorsan elõre mész, hogy átfésüld a területet, és tovább állj.
+
+(129, 54, 0) ***Esemény***
+Üzenet:
+Egy tisztásra érve hirtelen legalább száz, a sötét mestert szolgáló szörnyûséggel találod szembe magad. Precíz fürgeséggel felveszitek a harci felállást, és felkészültök az istenkáromló élõholtak elpusztítására.
+
+(131, 22, 0) ***Esemény***
+Üzenet:
+Az aljnövényzetben rejtõzik egy fiatal férni. Bátran megközelíti a seregedet. Mosolyog és vicceket mesél, így enyhíti a feszültséget az embereiden. Óvatosan azért rajta tartod az egyik szemed. Az egész esti étkezés alatt barátságos volt, utána pedig jó utat kívánt. Miután már messze jár, észreveszed, hogy jó pár tárgyat is magával vitt.
+
+(9, 22, 0) ***Esemény***
+Üzenet:
+Eme kis sziget felfedezése egy próbatétel volt számodra. A nedves mocsár között halálból feltámasztott szörnyûségek rejtõznek. Harcedzett katonák beleremegnek, ha egy harc kezdõdik, de mindig megtalálják a bátorságot, hogy visszaverjék ezt a pestist. A büszkeséged az embereidben nõ, megnövelve a moráljukat.
+
+(122, 11, 0) ***Esemény***
+Üzenet:
+A lebegõ roncsok között észreveszel egy fémes csillogást épphogy a mocsár homályos vize alatt. Az egyik embered kihalássza a vízbõl. Úgy tûnik, hogy a szerencséd jóra fordul.
+
+(107, 8, 0) ***Esemény***
+Üzenet:
+Egy kis pihenõt tartasz az egész napos menetelésbõl egy pár bokor közelében, amikor az embereid megtalálnak egy pár, régebben elveszett tárgyat. Méghozzá nem is olyan rossz dolgokat.
+
+(22, 51, 0) ***Esemény***
+Üzenet:
+Egy a kis tataliai terület érintetlenül maradt a haláltól és pusztítástól. A távolban egy gyönyörû szökõkút vidáman bugyborékol, ahogy a madarak is csiripelnek és énekelnek maguknak. Egy pillanatra minden békés a világban. Talán, csak talán, a szerencséd végre jóra fordul.
+
+(127, 130, 0) ***Gnoll Martalóc***
+Üzenet:
+Épp ideje, hogy ideértél! Már egy örökkévalóság óta vártunk rád. Remélem méltónak tekintesz minket, hogy csatlakozzuk a seregeidhez!
+
+(99, 73, 0) ***Esemény***
+Üzenet:
+A semmibõl elõtûnik néhány réges-régen halott sárkány szellemi maradványa. Ordítanak és üvöltenek, ahogy az embereid félelmükben meglapulnak és befogják a fülüket, hiábavalóan próbálva meggátolni a szörnyûséges hangokat. Mivel körül vagy véve bosszúszomjas kiáltásokkal, így nincs választásod, mint hogy harcolj.
+
+(50, 15, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Csapatok
+Üzenet:
+A számítógép fog most kapni katonákat a seregeidbõl.
+
+(54, 74, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Csapatok
+Üzenet:
+A számítógép fog most kapni katonákat a seregeidbõl.
+
+(51, 136, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Csapatok
+Üzenet:
+A számítógép fog most kapni katonákat a seregeidbõl.
+
+(71, 91, 0) ***Káosz Hidra***
+Üzenet:
+Soha senki nem fog legyõzni minket! Nem vagyunk olyanok, mint azok a nyüzsgõ gnollok vagy gyíkemberek, akik felborulnak a kemény szélben. Nagyok vagyunk, dögösek és kemények – és erõs páncélunk van!
+
+(139, 60, 0) ***Nekromanta***
+Név:
+Photima
+
+(26, 50, 1) ***Fortress***
+Név:
+Tougane
+
+(60, 134, 1) ***Fortress***
+Név:
+Rundu
+
+(25, 15, 1) ***Fortress***
+Név:
+Djibo
+
+(127, 100, 1) ***Arany***
+Üzenet:
+Úgy tûnik, hogy a tandíjról gondoskodnak.
+
+(119, 99, 1) ***Medúza Királynõ***
+Üzenet:
+Mi vagyunk az Alagsor Õrzõi. Senki nem jut át rajtunk.
+
+(123, 101, 1) ***Kristály***
+Üzenet:
+Nem csoda, hogy õrizték ezt a területet!
+
+(120, 104, 1) ***Drágakõ***
+Üzenet:
+Ez majd szépen fedez némi költséget.
+
+(123, 104, 1) ***Érc***
+Üzenet:
+Sose lesz érc hiányod ezután.
+
+(119, 104, 1) ***Fa***
+Üzenet:
+Most már végre felépítheted azt a faházat, amit a Gnollok annyira szeretnének.
+
+(122, 104, 1) ***Kén ***
+Üzenet:
+Mit fogsz csinálni ezzel a rengeteg kénnel?
+
+(120, 102, 1) ***Higany***
+Üzenet:
+Úgy tûnik, hogy okkal az õrség okkal védte ezt a területet. Rengeteg higany van itt.
+
+(101, 3, 1) ***Ogre Pajzs***
+Üzenet:
+Szerinted elveheti tõlünk egy ilyen csekély jelenség, mint amilyen Te vagy? Menj innen! Ha nem hagysz el minket, összeropogtatjuk a csontjaidat és megisszuk a véredet! Azt kérdezed magadtól: 	"El akarok menni, vagy maradni akarok?" 	(Igen=Küzdelem, Nem=Futás!)
+
+(80, 51, 1) ***Vörös Sárkány***
+Üzenet:
+Az otthonainkat ellopták, de az aranyunkat nem fogják!
+
+(56, 59, 1) ***Medúza***
+Üzenet:
+A Kulcsmester nem akarja, hogy olyanok zavarják, mint Te. Csak azok mehetnek át, akik megérdemlik a figyelmét. Bizonyítsd, hogy érdemes vagy a figyelemre, gyõzz le minket a harcban!
+
+(59, 68, 1) ***Vörös Sárkány***
+Üzenet:
+Mi vagyunk a fajtánk utolsó tagjai. A tüzes leheletünkkel megtisztítjuk a földet a hitetlenektõl. Készülj fel az Uraddal való találkozásra, bolond halandó.
+
+(6, 90, 1) ***Fortress***
+Név:
+Hounde
+
+(122, 9, 1) ***Halállovag***
+Név:
+Zartaj
+
+(124, 11, 1) ***Halállovag***
+Név:
+Dikisha
+
+===== Fájl vége =====

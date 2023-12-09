@@ -1,0 +1,27 @@
+===== Térkép neve =====
+Egy griff szíve
+
+===== Térkép leírása =====
+A gyõzelemhez 3 hónapon belül a Kõkastélyba kell vinned a Zsarnokság Szelleme varázstárgyat. Keresd fel a Látnokot - ha teljesíted a Látnok küldetését, a jutalmat átviheted a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1. rész
+Üzenet:
+Kémeink szerint Gryphonheart király sírja Kõkastély várában, Erathia északi határához közel található. Ezt a helyet nem érintették Nighon és Eofol csapatai. Keresd meg ezt a helyet és foglald el, hogy feltámaszthassuk a király holttestét.
+
+Név:
+Bevezetés 2. rész
+Üzenet:
+A Zsarnokság Szelleme varázstárgyat meg kell találnod és Kõkastélyba kell vinned, mert szükségünk van rá a halott király felélesztési szertartásához. De gyorsnak kell lenned - semmi hasznunk nem lesz a testbõl, ha a lélek már elhagyta.
+
+===== Tárgyak =====
+
+(16, 23, 0) ***Castle***
+Név:
+Kõkastély
+
+===== Fájl vége =====

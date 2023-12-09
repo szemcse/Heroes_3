@@ -1,0 +1,43 @@
+===== Térkép neve =====
+A betakarítás ideje
+
+===== Térkép leírása =====
+A gyõzelemhez 2500 csontvázat kell összegyûjtened 3 hónap alatt. Néhány Határõr csak úgy enged át, ha a hõs egy elõzõ küldetésbõl hozott varázstárgyat birtokol, de a Határõrség mögötti varázstárgyat továbbviheted majd a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1. rész
+Üzenet:
+Hogy igazán meglepjük Erathiát, három hónapon belül kell támadnunk. Azonban seregeink még nem elég erõsek egy nagyméretû bevetéshez. Be kell takarítanod az erathiai határ menti teremtményeket, elegendõ élõhalottat teremtve ezzel hadjáratunkhoz.
+
+Név:
+Bevezetés 2. rész 
+Üzenet:
+Mint mindig, most is gyorsnak kell lenned. A meglepetés erejével kell rajtaütnünk Erathián, ezért három hónapnál többet nem késhetünk. Ez idõ alatt legalább 2500 csontvázat kell gyûjtened. Ha elbuksz, nincs esélyünk Erathia ellen. 	Ne bukj el!
+
+Név:
+Hírek Sandróról
+Üzenet:
+Egyik tanácsadód közeledik feléd, majd a következõ információt ossza meg veled: 	"Értesültünk róla, hogy Sandrót és csapatait ezen a területen tartják fogva. Ha megtalálod és kiszabadítod, bizonyára segíteni fogja a küldetésedet."
+
+Név:
+Figyelmeztetés - még három hét
+Üzenet:
+Levelet kapsz a feletteseidtõl: 	"Kezdeti elõrehaladásod megfelelõ, de már csak három heted maradt a feladat teljesítésére."
+
+Név:
+Figyelmeztetés - még két hét 
+Üzenet:
+Levelet kapsz a feletteseidtõl: 	"Bízom benne, hogy haladsz. Emlékezz, 2500 csontvázra van szükségünk, és már csak két heted maradt a támadás indításáig."
+
+Név:
+Figyelmeztetés - még egy hét 
+Üzenet:
+Levelet kapsz a feletteseidtõl: 	"Egy hét múlva megindítjuk a támadást Erathia ellen. A Te 2500 csontvázad a gyõzelem kulcsa. Bízom benne, hogy megértetted: a kudarc nem lehetséges."
+
+===== Tárgyak =====
+
+===== Fájl vége =====

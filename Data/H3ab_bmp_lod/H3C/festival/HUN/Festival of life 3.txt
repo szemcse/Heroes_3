@@ -1,0 +1,67 @@
+===== Térkép neve =====
+Klán háborúk
+
+===== Térkép leírása =====
+Három másik klán is harcol a jogért, hogy a jelöltjük király lehessen. Gyõzd le mindet Kilgor és három kezdõ szövetségesének elvesztése nélkül, különben vége a játéknak. Csak Kilgor és három kezdõ szövetségese megy tovább a következõ, és egyben utolsó pályára. A szintek 30-ra vannak korlátozva.
+
+===== Események =====
+
+Név:
+Varázstárgy középen
+Szöveg:
+Egy minõségi varázstárgy várja az elsõt, aki elér középre.
+
+Név:
+Kazamata város
+Szöveg:
+Azt beszélik, hogy egy sárkányok által õrzött Kazamata a területen van valahol.
+
+===== Idõzített események =====
+
+Név:
+Elsõ nap eseménye.
+Üzenet:
+Kezdõdjék hát a harmadik próbatétel. A három ellenfeled ellened rendezõdött el, továbbá mindegyik harcedzett és erõs, mivel több hasonló próbán vettek már részt. Ha legyõzöd õket, akkor eléggé bebizonyosodik tüzességed ahhoz, hogy kihívd magát a királyt!
+
+Név:
+Telez ház üzenete
+Üzenet:
+Egy üzenet érkezik Telez Háztól:	"Add fel most, mielõtt eltaposunk, mint egy kupac Ork trágyát"
+
+Név:
+Degab ház gúnyolódása
+Üzenet:
+Degab ház a következõt üzeni Neked: 	"Azonnal add meg magad nekünk, s cserébe gyors és fájdalommentes halálban lesz részed, melyet a Végzet Hangyabolya fog végrehajtani. Máskülönben egy átlagos hangyaboly lesz a végzeted."
+
+Név:
+Vilmit ház üzenete
+Üzenet:
+Vilmit Ház is üzent neked:	"<Huh> ...eltaposunk, mint egy bogarat.. <Huh>"
+
+===== Tárgyak =====
+
+(94, 59, 0) ***Stronghold***
+Név:
+Kilgor ház
+
+(57, 98, 0) ***Stronghold***
+Név:
+Vilmit ház
+
+(56, 13, 0) ***Stronghold***
+Név:
+Telez ház
+
+(9, 56, 0) ***Stronghold***
+Név:
+Degab ház
+
+(10, 105, 0) ***Tûz Varázslat Kötet***
+Üzenet:
+Degab Ház katonái a könyv védelmére kelnek. Szeretnél megküzdeni velük?
+
+(91, 54, 0) ***Titok Kunyhó***
+Üzenet:
+Ahogy belépsz a kunyhóba, egy õsi kinézetû harci mágus felnéz az éppen olvasott könyvébõl. 	"A versenyháború miatt vagy itt, ugye?" - Vihogott a mágus. 	"Nos, az egyik bolond ellopta az egyik könyvemet, had gondolkodjak… ja igen, a Tûzvarázslatok Nagykönyvét. Ha visszahozod nekem, odaadom neked a Behemót porontyaim, amit évek óta nevelek.	" Egy pillanatra megáll, hogy tanulmányozzon téged. 	" NA! Mire vársz még? Menj, és keresd meg a könyvemet!"
+
+===== Fájl vége =====

@@ -1,0 +1,66 @@
+===== Térkép neve =====
+A trónért
+
+===== Térkép leírása =====
+Három hónapod van, hogy megszabadulj a királytól, miközben életben tartod Kilgort. Ez már Krewlod trónjáért megy, szóval ne bukd el.
+
+===== Események =====
+
+Név:
+Hátsó bejárat
+Szöveg:
+A király palotájának van egy hátsó bejárata, de azt erõs védelemmel látták el.
+
+===== Idõzített események =====
+
+Név:
+Elsõ nap eseménye
+Üzenet:
+Boragus fejedelem kivételével minden ellenséged a lábad elõtt fekszik. Megkezdõdik az Élet Ünnepének utolsó próbája, mely Krewlod trónjáért megy. Itt a pillanat, Boragus herceg bukása a Hatalmas Kilgor felemelkedésének jele lesz, ki saját kardja által lett király. A kudarc nem megengedett.
+
+Név:
+Elsõ nap eseményeinek folytatása
+Üzenet:
+Mindössze három hónapod van, hogy legyõzd a fejedelmet, vagy ennek az elmaradása esetén Õ nyer (Mivel ugye tudod, hogy Õ Krewlod uralkodója). Siess, mivel az idõ is ellened dolgozik!
+
+Név:
+Duke üzenetet küldött.
+Üzenet:
+Boragus fejedelem üzenetet küldött:	"Gyõzzön a hatalmasabb harcos, fiatal barátom. Megpróbállak nem túlságosan megalázni, ha a három bajtársam nem teszi ezt meg elõttem."
+
+Név:
+A második üzenet
+Üzenet:
+Boragus fejedelem újabb üzenetet küld:	"A gyávaság nem olyan szörnyû valakinek, mint jómagad. Az öngyilkosság mindig ott van, mint lehetõség számodra."
+
+Név:
+Cáfolat.
+Üzenet:
+Visszaküldesz egy eléggé forró üzenetet Boragus fejedelemnek, amiben közlöd, hogy mit csináljon a fenyegetéseivel; remélhetõleg ez elhallgattatja.
+
+Név:
+Nincs több üzenet.
+Üzenet:
+Nem érkeznek újabb üzenetek. Helyes, így legalább oda tudsz figyelni ennek a bolondnak a legyõzésére.
+
+===== Tárgyak =====
+
+(62, 10, 0) ***Barbár***
+Név:
+Duke Boragus
+Életrajz:
+Winston Boragus herceg azután vált híressé, hogy egymaga megölte faluja fõnökét (és annak õreit). Brutalitása és gyors észjárása révén gyorsan egyesített maga alá más törzseket. Nem sokkal hatalomra kerülése után 30 éve könnyedén megnyerte az Élet Fesztiválját. Duke Boragus affinitással rendelkezik az ogrék irányításához a csatában, ezért bónuszt kap velük.
+
+(66, 5, 0) ***Küldetésõrzõk***
+Üzenet:
+Az õrhelynél álló õr azt állítja, hogy a kedvenc horgászhelyét megszállta egy csoport Víz Elementál. Az elsõ ember, aki eltakarítja õket onnan, átmehet a kapun.
+
+(1, 26, 0) ***Paraszt***
+Üzenet:
+Rámutatsz a paraszt seregre, akik a vacak keresetüket õrzik, és kineveted õket.
+
+(63, 10, 0) ***Esemény***
+Üzenet:
+Ez egy különleges jutalom Krewlod királya számára.
+
+===== Fájl vége =====

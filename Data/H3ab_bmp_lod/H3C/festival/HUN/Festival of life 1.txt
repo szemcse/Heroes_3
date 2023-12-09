@@ -1,0 +1,119 @@
+===== Térkép neve =====
+Borotvakarom
+
+===== Térkép leírása =====
+Azt a feladatot kaptad, hogy megöld Borotvakarom nevû behemótot. Bizonyíts magadnak azáltal, hogy legyõzöd az Õsi Behemótot 3 hónapon belül, vagy elbukod az esélyed, hogy Király lehess. Ha Kilgor elvész, szintén elveszíti a lehetõségét, hogy királlyá váljon. Kilgor a 12. szintig fejlõdhet.
+
+===== Események =====
+
+Név:
+A behemót áldozatainak szellemei.
+Szöveg:
+Azt mondják, hogy Borotvakarom múltbéli áldozatainak szellemei még mindig a barlangjában kísértenek.
+
+Név:
+A föld alatt
+Szöveg:
+Azt mondják, hogy Borotvakarom barlangja a föld alatt található és õrzõ kutyaként tart sárkányokat.
+
+Név:
+Borotvakarom a családjával
+Szöveg:
+Azt mondják, hogy Borotvakarom néha a családjával van (egy tucat másik Behemóttal) és néha Fekete Sárkányokat tart háziállatnak.
+
+===== Idõzített események =====
+
+Név:
+1. nap eseménye.
+Üzenet:
+Kezdõdjék hát az elsõ próba. Borotvakarom generációk óta rettegésben tartja ezt a területet; az uralmának lassan vége. Már az is egy kihívás lesz, hogy odaérj hozzá, mielõtt lejár az idõ, és kizárnak az Élet Ünnepérõl, de eltökélt vagy a gyõzelmedben a bestia fölött.
+
+Név:
+Felderítõi jelentés
+Üzenet:
+Haladó felderítõim szerint három út vezet át a hegyeken, egyet Küklopszok, egyet Keselyûk, és egyet pedig Ogrék õriznek. A tengert nem nézték át, de a pletyka szerint örvényekben bõvelkedik. 
+
+Név:
+Borotvakarom üvöltése.
+Üzenet:
+Borotvakarom üvöltése úgy zengte be a környéket, mintha húst tépnének le a csontról.
+
+===== Tárgyak =====
+
+(7, 2, 0) ***Teleszkóp***
+Üzenet:
+Megmentesz egy öreg matrózt az Orkok karmai közül, és cserébe neked adja a Távcsövét.
+
+(20, 48, 0) ***Jel***
+Üzenet:
+Nem használhatod a csónakot...illetve a hajót, mert Yogé. 	Érintsd csak meg és halj meg azonnal!
+
+(36, 68, 0) ***Kardforgató***
+Üzenet:
+Az õrök az iskolájuk védelmére kelnek.
+
+(27, 21, 0) ***Ogre Mágus***
+Üzenet:
+Találsz egy csoport ogrét, amely barátságos a csapatoddal.
+
+(34, 2, 0) ***Arany Íj***
+Üzenet:
+Egy öreg íjász odaadja az egyik tartalék íját.
+
+(36, 11, 0) ***Ogre***
+Üzenet:
+Egyes renegát ogrék úgy döntenek, hogy az Õ érdeküket szolgálja, ha nem harcolnak veled.
+
+(43, 20, 0) ***Esemény***
+Üzenet:
+Csapda!
+
+(33, 6, 0) ***Esemény***
+Üzenet:
+Csapda!
+
+(30, 42, 0) ***Esemény***
+Üzenet:
+Egy nagy csoportnyi barátságos Hobgoblin hirtelen megjelenik a hegyekbõl, és csatlakoznak hozzád.
+
+(57, 3, 0) ***Esemény***
+Üzenet:
+Fekete Sárkányok repülnek köréd, és megkérdezik, hogy csatlakozhatnak-e hozzád a rég-gyûlölt ellenségük, Borotvakarom ellen (Õk egyszer a házállataik voltak).
+
+(44, 33, 0) ***Esemény***
+Üzenet:
+Egy barátságos Farkaslovas Fosztogatóból álló nagy csoport hirtelen megjelenik a fák közül.
+
+(4, 5, 0) ***Esemény***
+Üzenet:
+A felderítõim szerint nem messze délre található egy Erõdítmény (csak kövesd az utat), ami nagyon jó lenne kiindulópontnak.
+
+(44, 4, 0) ***Hatalmas Gorgon***
+Üzenet:
+Úgy tûnik, hogy a Gorgonok éppen isznak. Felnéznek, és úgy döntenek, hogy egy kis harapni való is jól esne nekik.
+
+(54, 15, 0) ***Jel***
+Üzenet:
+Emlékezz meg Gorról a Vakmerõrõl, kit ezen a ponton temettek el, megküzdött Borotvakarommal, de Borotvakarom nyert.
+
+(20, 5, 0) ***Esemény***
+Üzenet:
+Úgy tûnik, hogy egy Ogre Mágus család õriz három különbözõ varázstárgyat. Felbátorítanak téged, hogy próbáld ki és vedd el õket.
+
+(1, 3, 0) ***Barbár***
+Név:
+Kilgor
+
+(68, 3, 0) ***Esemény***
+Üzenet:
+Borotvakarom bûze (ami rosszabb, mint az átlagos Behemót bûz) száll fel a mélybõl. Más Behemótok hangjait is hallod lentrõl, mely talán a családja lehet (ami a pletykák alapján meglehetõsen nagy valószínûségû), akik úgy döntöttek, hogy csatlakoznak hozzá a barlangjába. Nem számít, mind meg fognak halni. Egy pillanatra beleremegsz, amikor a bejárat közelébe érsz...
+
+(64, 4, 1) ***Esemény***
+Üzenet:
+Az Õsi Behemót múltbéli áldozatainak dühös szellemei felkelnek, és megtámadnak.
+
+(62, 5, 1) ***Õsi Behemót***
+Üzenet:
+Borotvakarom és a családja megtámad!
+
+===== Fájl vége =====

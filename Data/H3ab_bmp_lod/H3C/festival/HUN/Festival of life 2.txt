@@ -1,0 +1,116 @@
+===== Térkép neve =====
+A vadon megszelídítése
+
+===== Térkép leírása =====
+Bizonyításul, hogy biztonságban tudod tartani a földet a polgárok számára, le kell gyõznöd a területen jelenleg lakó lényeket 4 hónapon belül. Ha Kilgort vagy bármelyik hadnagyát megölik, veszítesz. Mindegyik hõs a 20. szintig fejlõdhet.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Hadnagyok
+Üzenet:
+Hogy bebizonyítsd vezetõképességed, három hadnagyot bocsájtottak irányításod alá. Használd õket bölcsen, mivel Õk a kulcsai ezen terület kitakarításának. Négy hónapot kaptál, hogy teljesítsd a feladatot, úgyhogy ne pazarold az idõd! Jó vadászatot és sok szerencsét!
+
+Név:
+Felderítés jelentés 1.
+Üzenet:
+A felderítõk jelentése alapján rengeteg helyen területenként csak egyféle lény található: a Griffektõl a Farkaslovasokig bármi lehetséges. A felderítõk szerint úgy néz ki, hogy valószínûleg egyik lény sem fog csatlakozni a seregedhez. Mindegyik valóban "vad". 
+
+Név:
+Felderítés jelentés 2.
+Üzenet:
+A felderítõk szerint a három hadnagy csapdába esett a területükön egy határõr által, akik csak a megfelelõ utasítássokkal engedi Õket át. Rajtad múlik, hogy megtaláld azokat az utasításokat.
+
+===== Tárgyak =====
+
+(8, 55, 0) ***Kentaur Fejsze***
+Üzenet:
+Megmentesz egy mocsárlakót pár szitakötõtõl, hálából odaadja a tartalék fejszéjét.
+
+(52, 61, 0) ***Kentaur Fejsze***
+Üzenet:
+Egy kisebb Griff fészekben találsz egy fejszét és néhány tojást.
+
+(71, 52, 0) ***Törpe Király Pajzsa***
+Üzenet:
+Egy idõs barbárba botlasz egy barlangban, és úgy döntesz, hogy megosztod vele elemózsiád és történeteid egy részét. Cserébe a harcos neked adja öreg (de rendkívül jól megkovácsolt) pajzsát.
+
+(36, 38, 0) ***Teleszkóp***
+Üzenet:
+Egy öreg távcsõ hever félig eltemetve a homokba.
+
+(68, 4, 0) ***Sírásó Amulettje***
+Üzenet:
+Egy furcsa, feketébe öltözött férfi amulettet dob neked, meghajol, majd eltûnik.
+
+(69, 4, 0) ***Vámpír Csuklya***
+Üzenet:
+Úgy tûnik, egy óvatlan vámpír hagyhatta el ezt a csuklyát.
+
+(9, 60, 0) ***Jel***
+Üzenet:
+Ne etesd a Sárkánylegyeket.
+
+(5, 6, 0) ***Jel***
+Üzenet:
+"Élõ" fa használata tábortûzhöz tilos.
+
+(54, 5, 0) ***Jel***
+Üzenet:
+Óvakodj a kutyától.
+
+(13, 26, 0) ***Jel***
+Üzenet:
+Küklopsz terület… mindig tartsd nyitva az egyik szemed.
+
+(19, 50, 0) ***Jel***
+Üzenet:
+Manticore és Scorpicore teremtmények, vigyázz a fullánkkal! A páncél mindig jól ellenálló védelmi eszköz ellenük.
+
+(48, 54, 0) ***Jel***
+Üzenet:
+Behemót terület, ha mozdulatlanul állsz, talán nem támadnak meg.
+
+(57, 63, 0) ***Jel***
+Üzenet:
+Griff terület, vigyázz, mert szeretnek lovakat enni.
+
+(30, 65, 0) ***Jel***
+Üzenet:
+Kismit Ork törzs a betolakodókat se nem üdvözlik, se nem viselik el.
+
+(32, 10, 0) ***Jel***
+Üzenet:
+Treth Farkaslovasai üdvözölnek téged a végzetedben.
+
+(33, 38, 0) ***Jel***
+Üzenet:
+Most a Goblin törzs területén tartózkodsz, aminek a neve, Utópia. 	"Barbárokat eszünk reggelire" 	Ez az Õ mottójuk.
+
+(67, 16, 0) ***Jel***
+Üzenet:
+Óvakodj a Pokolkutyától.
+
+(37, 23, 0) ***Jel***
+Üzenet:
+A "Plith" nevû Ogre törzs üdvözöl téged.
+
+(41, 38, 0) ***Kentaur Fejsze***
+Üzenet:
+Egy öreg, visszavonult harcos úgy döntött, hogy neked adja az egyik tartalék fejszéjét.
+
+(67, 3, 0) ***Halottak Csizmája***
+Üzenet:
+A csizmán a következõ felirat olvasható: 	„A halottak nem mesélnek mesét.”
+
+(28, 25, 0) ***Kristály***
+Üzenet:
+A talált kristályér különösen vastagnak tûnik.
+
+(33, 37, 1) ***Jel***
+Üzenet:
+Óvakodj a hölgy tekintetétõl! Egy nõ tekintete halálos is lehet.
+
+===== Fájl vége =====

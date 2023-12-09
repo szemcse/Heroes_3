@@ -47,7 +47,7 @@ Démon kapu 	A Démon kapunál Démonokat vásárolhatsz.
 Alvilág verme	Az Alvilág verménél Aknaszörnyeket vásárolhatsz.
 Tûztó	A Tûztónál Efreeteket vásárolhatsz.
 Elhagyatott palota	Az Elhagyatott palotában Ördögöket vásárolhatsz.
-Fejl. Olvasztótengely	A Fejlesztett Olvasztótengelyben Kísérõket vásárolhatsz.
+Fejl. Olvasztótengely	A Fejlesztett Olvasztótengelyben Kísértõket vásárolhatsz.
 Fejl. Bûn csarnoka	A Fejlesztett Bûn csarnokánál Magógokat vásárolhatsz.
 Fejl. Kutyaól	A Fejlesztett Kutyaólnál Kerberoszokat vásárolhatsz.
 Fejl. Démon kapu	A Fejlesztett Démon kapunál Szarvas Démonokat vásárolhatsz.
@@ -68,14 +68,14 @@ Fejl. Uradalom	A Fejlesztett Uradalomnál Vámpírurakat vásárolhatsz.
 Fejl. Mauzóleum	A Fejlesztett Mauzóleumban Hatalmas Licheket vásárolhatsz.
 Fejl. Sötétség csarnoka	A Fejlesztett Sötétség csarnokánál Halállovagokat  vásárolhatsz.
 Fejl. Sárkány pince	A Fejlesztett Sárkány pincében Szellemsárkányokat  vásárolhatsz.
-Nyomortelep 	A Nyomortelepen Barlanglakókat vásárolhatsz.
+Gomba gyûrûk 	A Gomba gyûrûknél Barlanglakókat vásárolhatsz.
 Hárpia padlás	A Hárpia padláson Hárpiákat vásárolhatsz.
 Szemek pillére	A Szemek pillérénél Szemlélõket vásárolhatsz.
 Némaság kápolnája	A Némaság kápolnájában Medúzákat vásárolhatsz.
 Labirintus	A Labirintusban Minotauruszokat vásárolhatsz.
 Manticore barlang	A Manticore barlangban Manticore-okat vásárolhatsz.
 Sárkány barlang	A Sárkány barlangban Vörös Sárkányokat vásárolhatsz.
-Fejl. Nyomortelep	A Fejlesztett Nyomortelepen Pokoli barlanglakókat vásárolhatsz.
+Fejl. Gomba gyûrû	A Fejlesztett Gomba gyûrûknél Pokoli barlanglakókat vásárolhatsz.
 Fejl. Hárpia padlás	A Fejlesztett Hárpia padláson Hárpia banyákat vásárolhatsz.
 Fejl. Szemek pillére	A Fejlesztett Szemek pillérénél Gonosz szemeket vásárolhatsz.
 Fejl. Némaság kápolnája	A Fejlesztett Némaság kápolnájában Medúza királynõt vásárolhatsz.

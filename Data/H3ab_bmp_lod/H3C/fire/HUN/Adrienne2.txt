@@ -1,0 +1,373 @@
+===== Térkép neve =====
+Az élõholtak menete
+
+===== Térkép leírása =====
+Hogy megnyerd a pályát, el kell foglalnod minden lénytermelõ helyszínt 7 hónapon belül. Vigyázz, mindet hatalmas élõholt sereg õrzi. Ha elveszíted Adriennet, akkor mindennek vége. A hõsök a 32. szintig fejlõdhetnek, de a 6 legerõsebb hõsöd továbbmegy veled a következõ pályára.
+
+===== Események =====
+
+Név:
+Conflux
+Szöveg:
+Különös lények érkeztek egy másik síkról.
+
+Név:
+Conflux
+Szöveg:
+Hatalmas lények érkeztek a segítségünkre!
+
+Név:
+Adrienne
+Szöveg:
+Adrienne egy Tûzboszorkány.
+
+Név:
+Adrienne
+Szöveg:
+Adrienne valaha démonokkal gyakorolt!
+
+Név:
+Kincs
+Szöveg:
+Hatalmas kincs található északra.
+
+Név:
+Fa
+Szöveg:
+Egy Erõd felépítéséhez fából minden nyersanyagnál több kell.
+
+Név:
+Christian
+Szöveg:
+Egy bolond enrothi katona egyszer egy 3 órás túrát tett.
+
+Név:
+Sárkányölõ
+Szöveg:
+Itt található egy Azúr Sárkány - vigyázz, mivel nagyon hatalmas!
+
+Név:
+Sárkányölõ
+Szöveg:
+Egy fiatal fiú le szeretné gyõzni az Azúr Sárkányt!
+
+Név:
+Sárkányvér
+Szöveg:
+Egy nighoni fõvezér szeretne királynõ lenni!
+
+Név:
+Sárkányvér
+Szöveg:
+A Sárkányvér Fiolája minden Sárkány Nagyapjától származik.
+
+Név:
+Sárkányvér
+Szöveg:
+Ha megiszod a Sárkányvér Fioláját, akkor sárkánnyá változol.
+
+Név:
+Tündérsárkányok
+Szöveg:
+Ha egy Tündérsárkány lepisil, akkor lilává változol.
+
+Név:
+Christian
+Szöveg:
+Csak egy enrothiai törekszik arra, hogy Parfüm alkimista legyen.
+
+===== Idõzített események =====
+
+Név:
+Történelem
+Üzenet:
+Miután felszabadítod az erathiai-tataliai határt az élõholtak fogságából, mélyebbre nyomulsz Tataliába, ahol szörnyûséges látvány fogad. A Halállovag jócskán elõtted és a seregeid elõtt jár. S nem is pazarolta el azt az elõnyt. Nemrég itt még parázsló romok voltak. Most azonban a föld regenerálódik, de rengeteg idõ kell majd, mire a buja mocsár begyógyítja a sebeket. Most fák és növények kezdtek el gyorsan nõni bizonyos helyeken, máshol viszont még mindig nagyon kopár. Az elsõ tiszted megkérdezi, hogy miért mosolyogsz.	"Nagyon nehéz felégetni ezeket a mocsarakat, mivel rengeteg a víz, ami eloltja a tüzet. A tûz nagy területen felégette a erdõket és hegyeket, de a föld gyorsabban gyógyul, mint amire számítottak. Csak a külvilágiak nem értik, hogy milyen gyorsan javul a mocsarunk."	A mosolyod grimasszá változik, amikor meglátod a rothadó holttesteket.
+
+Név:
+Célpont
+Üzenet:
+Körbenézel, keresve egy helyet, ahol kialakíthatnád a bázisodat. A jelentések alapján egy alkalmas vár található keletre, de az utat elzárják az élõholtak. Felderítõket küldesz, hogy kiderítsék az ellenség erejét. A sereged többi részének szét kell szóródnia, megkeresni a várat, és kiirtani az élõholtakat.
+
+Név:
+Jelentések
+Üzenet:
+A felderítõk kezdenek visszatérni, és a hírek, amiket hoznak, nem jók. Az elsõ, aki visszatért, nem jutott túl messzire, mielõtt belefutott egy csoport élõholtba. Úgy tûnik, hogy a Halállovagnak volt egy elmés ötlete. A seregeit itt hagyta, hogy õrizzék az összes tataliai lénylakást. Amikor az újoncok minden héten készen álltak a besorozásra, az élõholtak megtámadták Õket. Hatalmas varázslatokkal biztosították, hogy az élõholtak egyhelyben maradjanak, így a nagyságuk elérte, hogy a halott tataliaiak feltámadjanak a halálból, és Õket szolgálják. Ezzel a taktikával a Halállovag serege minden héten csak dagad, és lassan megállíthatatlanok lesznek. A többi felderítõ azt mondja, hogy ez a taktika széles körben elterjedt. Az élõholtakat ki kell irtani errõl a vidékrõl és fel kell szabadítani a tataliaiakat a szorításukból.
+
+Név:
+Tudósok
+Üzenet:
+Azt mondják, hogy a Tudósoknak hatalmas varázslatokról van tudásuk, de nagyon keményen õrzik Õket. Úgy tûnik, hogy ezek a Tudósok nem akarják, hogy vajmi gyengeszívû zavarja Õket. Csak azok tanulhatják meg a hatalmas varázslatokat, amiket ezek a Tudósok birtokolnak, akik hajlandók legyõzni az utat elálló Gyémántgólemeket.
+
+Név:
+Felderítõk
+Üzenet:
+Pár utolsó felderítõ további hírekkel tér vissza. Egyik sem jó. A Menekülõ tataliaiak a földalatti mocsáros alagutakba menekültek, melyek eme föld alatt futnak. Az élõholtak vakon követték Õket, és továbbra is az utasítások alapján cselekedtek. A föld alatt számos tataliai állampolgár lénylakása található, akiket levágnak, és feltámasztanak élõholttá. Összerezzensz a hírek hallatán, és az aggódó arcodat nem tudod eltakarni az embereid elõl. Azt beszélik, hogy egy nagy Élõholt sereg fog elõtörni a lábuk alól. Sok idõ lesz, mire a pletykák elhalkulnak majd.
+
+Név:
+Intelligencia
+Üzenet:
+Lehet, hogy az élõholtak seregei nem túl okosak, de úgy tûnik, hogy az egyik Halállovagnak vagy Lichnek remek ötlete támadt. Mivel a tataliaiak nagyon függnek a fától és érctõl, hogy felépítsék a váraikat és városaikat, amiket erõteljesebb teremtések õriznének. Gyengébb lényekkel õriztetik a bányákat, míg az erõsebbek védik a fa és ércbányákat. Úgy tûnik, hogy ezek az élõholtak még nyomorultabbak, mint képzelted.
+
+Név:
+Pletykák
+Üzenet:
+A pletykák szerint egy pár Baziliszkusz csapdába esett az egyik Nagy Tónál. Úgy tûnik, hogy az élõholtak seregei elõl menekültek, amikor is megjelentek a Víz Elementálok, akik nem értékelték a területük megszállását. Egy kis szerencsével néhány még életben lehet.
+
+Név:
+Lord Haart
+Üzenet:
+Egy felderítõ visszatér, és azt mondja, hogy Lord Haart bizonyosan elment a területrõl, és csak két szolgáját hagyta hátra, hogy õrizzék a területet. Le kell gyõznöd mindkettejüket, hogy felszabadítsd egész Tataliát. Az egyikük messze északra és nyugatra található, míg a másik nem olyan messze keletre van. Az utóbbi lesz a nehezebb falat.
+
+Név:
+Baj
+Üzenet:
+"Úrnõm, baj van. Egy külsõs boszorkány érkezett a területre, hogy segítsen nekünk. Örült, hogy látta, hogy néhányan keményen dolgoznak, hogy megtisztítsák Tataliát ettõl a pestistõl, amíg nem hallott rólad, Adriennerõl. A Tûzvarázslatod azt okozta, hogy visszament a vezetõkhöz, és jelenteni fogja a szabályszegésedet. A félelme azt okozhatja, hogy az erõfeszítéseink hiábavalók lesznek."	A tanácsadó arca komor. Jó tanácsadó Õ, õszinte és nyílt. Várod a rosszhíreket.	"Ha el is jut a vezetõkhöz, akkor az még jó néhány hét múlva lesz csak. Utána várnia kell, hogy benyújthassa az ügyét a vezetõknek. A krewlodi Élet Ünnepének eljövetelével a vezetõink megvárják, hogy ki lesz az új király, ha egyáltalán lesz új. Amíg Krewlod új vezetõjét meg nem választják, a vezetõink a seregeket a határon akarják majd tartani."	Egy pillanatra megáll, majd folytatja.	"De amint ez kiderül, a vezetõk rád fogják irányítani a tekintetüket. Ha elbukunk, téged fognak hibáztatni, még akkor is, ha semmi közöd az egészhez. Mivel Tûzmágiát használsz, a tataliaiak meg fognak vetni, hacsak nincs az életük veszélyben."	A földre köp, undorodva a saját népének a Tûzmágiához való hozzáállásához. Csak ezzel a tudással tudtad megtisztítani a határt az élõholtaktól és most felszabadítani a polgárokat. Az embereknek olyan rövid a memóriájuk.	"Addigra már rég nem leszünk a területen, és nyomon fogjuk követni az igazi fenyegetést."	"Egyetértek, barátom. A döntésem a hatalom iránt egy teher a vállamon. De nem olyan, amit neked kell viselned."	Mondod neki, tudva a válaszát.	"Ez butaság, és Te is tudod."	Válaszol.	"Térjünk vissza a jelenlegi problémához - pusztítsuk el ezeket a szörnyszülötteket."	Egyetértõen bólogatsz.
+
+Név:
+Információ
+Üzenet:
+Hogy megtudd, hogy mennek a dolgok, egy felderítõt küldesz Krewlod határához. Ott kideríthetik, ki áll nyerésre, már ha van ilyen, az Élet Ünnepén. Amint a király megszületik, Tatalia tudni fogja, hogyan viszonyuljon a királyhoz, és lesz ideje másfelé fordítani a figyelmét. Jó lenne, ha felszabadítanál egy újabb területet, mielõtt meghallgatják a másik Hõs ügyét.
+
+Név:
+Nagy Kincs
+Üzenet:
+Egy pletyka kering a táborban, miszerint hatalmas kincsek találhatóak északkeletre. Nagyon szükséges ellátmányokat találhatnál ott, és még  egyéb más vagyont is, ami a legvadabb képzeletedet is túlszárnyalhatja. Ebben nem vagy teljesen biztos, mivel elég sokat el tudsz képzelni. Akármelyik is legyen, megérné megnézni.
+
+Név:
+Kincs
+Üzenet:
+A pletykák megerõsítést nyertek. Hatalmas kincs található északon. Természetesen keresztül kell menned a Nekromantákon. Persze, van egy kis csapda. Meg kell látogatnod egy Kulcsár nevû személyt - vagyis ami azt illeti; kettõt kell meglátogatnod. Két nagy kincsekkel teli terület van, de mindkettõt kemények õrzik. Csak a Kulcsár szavára engednek át.
+
+Név:
+Lent
+Üzenet:
+A föld alatt az élõholtak száma csak nõ, ahogyan az új lények elhagyják otthonaikat minden héten. Számtalan Hidra lénylakás található ott, így legalább a Sárkányok nem tudnak többet létrehozni magukból. Végre ez egy jó hír.
+
+Név:
+Kilgor
+Üzenet:
+Megerõsítetett. Kilgor lett Krewlod új királya, miután kiállta a Négy Próbát. Nem tudsz semmit errõl a barbárról, de valószínûleg kiváló harcos lehet. Nem számít. Nemsokára a vezetõknek lesz ideje, hogy a Te tevékenységeid felé fordítsák tekintetüket. Figyelemelterelésre lesz szükséged.
+
+Név:
+Születésnap
+Üzenet:
+A mai nap egy lehangoló nap a számodra. A születésnapod. Másokkal ellentétben Te nem ünnepelhetsz a családoddal, és még a vidéki embereid sem ünnepelnének veled egy ilyen eseményt. Csendesen bemész az erdõbe, hogy egyedül legyél és gondolkodj. Egy csendes nap jó lenne, de egy pár, kora reggeli órával kell most beérned.
+
+Név:
+Születésnapi ajándék
+Üzenet:
+"Elnézést"	Az egyik hadnagyod közelít meg óvatosan, tudva, hogy az elmúlt napokban rossz kedved volt.	"Megtudtuk, hogy a születésnapod volt néhány nappal ezelõtt. Összedobtunk neked egy kis apróságot."	Kíváncsian átveszed az összecsavart tekercset. Ez áll benne:		Vezetõk:		A helyzet súlyos. Lerohantak minket az élõholtak. Minden falu elesett a környéken. Nagyon kevesen vagyunk, az ellenség pedig kétszer annyian. Megerõsítették, hogy Lord Haartot feltámasztották a halálból, és Õ vezeti a követõit, akik Lichek és Halállovagok. Felégetik a mocsarakat, hogy semmi se maradjon. Segítsetek, vagy egész Tatalia égni fog.		Tiva		Tetszik a születésnapi ajándékod.
+
+Név:
+Mûködött!
+Üzenet:
+Az üzenettel a vezetõknek nem volt választásuk, mint kinyomozni az állításokat. Ha Lord Haart ténylegesen szabadon mászkál, akkor az elsõbbséget élvez a fölött, hogy egy boszorkány tüzet használ. A vezetõk megrekedtek - legalábbis egy idõre.
+
+Név:
+Vezetõk
+Üzenet:
+A vezetõk válaszoltak:		Kiértékeltük a helyzetet. Bizonyosan Lord Haart és követõi, akik felégetik Tataliát, nem a Tûzboszorkány. Ezért mindenféle neveletlenség az Õ részérõl késõbb lesz kiértékelve. Küldünk segítséget, amint tudunk. Folytasd a hibátlan elõremeneteled.		A Vezetõk.		Hangosan felnevetsz. Bármilyen más válasz csúnyán végzõdött volna.
+
+Név:
+Szavukhoz híven
+Üzenet:
+Állva a szavukat, a vezetõk segítséget küldtek. Néhány csapat jelenleg összeáll Scarlumban, akik nemrég tértek vissza a határról. Ezek harcedzett és kemény csapatok lesznek, csatára készen.
+
+===== Tárgyak =====
+
+(61, 103, 0) ***Fortress***
+Név:
+Scarlum
+
+Idõzített események:
+
+Név:
+Csapatok!
+Üzenet:
+Készen áll uram?
+
+Név:
+További csapatok
+Üzenet:
+Újabb csapatok kezdtek szállingózni a határ felõl, eleinte beszivárogva, most pedig még többen érkeztek. Szerencsével hamarosan újabbak érkeznek.
+
+Név:
+Csapatok
+Üzenet:
+Ez lesz az utolsó erõsítés.
+
+(96, 81, 0) ***Fortress***
+
+Idõzített események:
+
+Név:
+Lények!
+Üzenet:
+
+
+(26, 7, 0) ***Fortress***
+
+Idõzített események:
+
+Név:
+Lények!
+Üzenet:
+
+
+(106, 37, 0) ***Titok Kunyhó***
+Üzenet:
+Gnoll Fosztogatók táborára bukkansz, ahol bányászati felszerelések vannak. Amikor meglátják, hogy milyen erõteljes hõs vagy, felugranak, és feléd rohannak. Egy Gnoll elõrelép, és megkérdezi:	"Meg tudsz szabadulni a Víz Elementáloktól, akik átvették a hatalmat a bányáink felett? Ha megteszed, csatlakozunk soraidba." 
+
+(7, 107, 0) ***Gnoll Martalóc***
+Üzenet:
+Segítség! Kérlek, segíts rajtunk! Néhány Halállovag erre járt egy pár hete, felégetve a mocsarat. Szerencsére a mocsár gyorsan regenerálódik, de még mindig keresztülhalad Tatalián, elégetve a földet. Csatlakozunk hozzád, hogy elpusztítsd ezeket a gonosz erõket.
+
+(25, 103, 0) ***Gyíkharcos***
+Üzenet:
+"Megállj! Csak azok léphetnek át, akik hûségesek Tataliához."	Egy Gyíkember lép elõ, és amikor észreveszi, hogy tataliai zászlót hordasz magadnál, nagy hõsként tekint rád. 	"Kiválló! Végre megjött a segítség. Csatlakozunk hozzád, hogy megtisztítsuk a földjeinket az élõholt fertõzéstõl."
+
+(67, 18, 0) ***Szellemsárkány***
+Üzenet:
+Ennek a csoport sárkánynak valaha olyan nagy kincstáruk volt, amit még sosem láttál. Mostanra már csak árnyai önmaguknak, így már csak egy szánalmas bányát õriznek. Már lassan sajnálod ezeket a szegény lelkeket, csapdába esve egy mohó, elmúlt dicsõség emlékképében.
+
+(7, 88, 0) ***Titok Kunyhó***
+Üzenet:
+Bizonyítsd be nekem, hogy méltó vagy arra, hogy megtanulj egy hatalmas varázslatot. Térj vissza hozzám a Vitézség Címerével, és megtanítom neked a Ellencsapás varázslatot.
+
+(9, 74, 0) ***Titok Kunyhó***
+Üzenet:
+Egy gonosz varázsló nem akarja, hogy másokat beavassak az Arkán mûvészetek rejtelmeibe. Végül, Õ kirakott engem a völgyem bejáratához, és õröket helyezett oda. Semmisítsd meg ezeket a Gólemeket, és adok neked egy címert a vitézségedért.
+
+(5, 53, 0) ***Esemény***
+Üzenet:
+A tanár meglát, és ezt mondja:	"Áh, köszönöm, hogy megengedted, hogy visszatérjek az iskolámba. Gyere be, és megtanítom neked, hogy fejleszd azt, amit már tudsz."
+
+(40, 103, 0) ***Titok Kunyhó***
+Üzenet:
+Tudtam, hogy hamarosan eljössz, Adrienne. Meg fogom tanítani neked, amit tudni akarsz - egy erõteljes Tûzvarázslatot. De elõször bizonyítsd be nekem, hogy olyan képességeid vannak, mint amiket mondanak. Északra Tûz Elementálok tömege tartja rettegésben a helybélieket. Gyõzd le ezeket a lényeket, és térj vissza hozzám.
+
+(40, 65, 0) ***Titok Kunyhó***
+Üzenet:
+Tehát a nagy Tûzboszorkány elérkezett végre az Én küszöbömhöz. Pont jól jött most ez nekem. El kell mennem meglátogatni a távolabbi nyugaton élõ családomat, de látni akarom a veszélyt, mielõtt Õ lát meg engem. Úgyhogy szükségem van egy Teleszkópra. Add nekem, és Én cserébe megtanítok egy kis varázslatot, ami segíteni fogja az utazásaid.
+
+(69, 43, 0) ***Titok Kunyhó***
+Üzenet:
+Ahogy belépsz a Látó kunyhójába, Õ már vigyorogva fogad.	"Úgy tûnik, hogy szükségem van valamire, amit Te meg tudsz szerezni nekem és neked kell valami, ami nekem van. Neked adom a Távcsövet, ha adsz nekem 50 kristályt. Ne kérdezd, hogy mire kell, Te jellemtelen patkány! Csak csináld, amit mondok!"
+
+(29, 18, 0) ***Titok Kunyhó***
+Üzenet:
+Itt az idõ, hogy az embereink kompromisszumot kössenek a Víz Elementálokkal, akik nagyszámban a földjeinken élnek. Bizonyítsd be nekem, hogy békét kötöttél ezekkel a lényekkel. Hozz vissza harmincat belõlük, és Én megtanítom neked a Várkapu varázslatot.
+
+(104, 65, 0) ***Esemény***
+Üzenet:
+Itt látható a pont, ahol néhány tataliai polgár a föld alá menekült az élõholtak elõl, akik megszállták a földjüket. Sajnálatos módon úgy tûnik, hogy követték õket.
+
+(8, 28, 0) ***Esemény***
+Üzenet:
+Itt található a pont, ahol rengeteg tataliai menekült le a föld alá. Most fel kell szabadítanod õket, mivel az élõholtak vakon követték õket. A seregeid megacélozzák magukat, ahogy belépsz a sötét, mocsaras alvilágba. Nem lehet megmondani, hogy mi lakik itt.
+
+(71, 23, 0) ***Esemény***
+Üzenet:
+Itt található a pont, ahol rengeteg tataliai menekült le a föld alá. Most fel kell szabadítanod õket, mivel az élõholtak vakon követték õket.
+
+(24, 97, 0) ***Repülõ Áspis***
+Üzenet:
+Felszabadítottad már Greenvillet innen északra? Egy élõholt elõõrs védi, de az ott lakók szívesen csatlakoznak bárkihez, aki felszabadítja õket. Megmutatjuk az utat, ha szeretnéd.
+
+(43, 0, 0) ***Arany***
+Üzenet:
+Sok aranyat fedeztetek fel itt és a katonáid szívesen szedegették fel azt a földrõl fizetésüknek gondolva. Az elsõ néhány halottunk nem is tudta, hogy megfigyelték õket közben. Nem az élõholtak jelentik itt az egyetlen veszélyt a mocsarak mély vadonjában.
+
+(39, 25, 0) ***Esemény***
+Üzenet:
+Meglátsz néhány tataliait hordalékfát szorongatva. Felvontatod õket a fedélzetre, majd ezt mondják: 	"Köszönjük, hogy megmentettél minket! A hajónk nemrég süllyedt el, és úgy tûnik, hogy senki sem tudott megmenteni minket. Rendkívül hálásak vagyunk, és szívesen csatlakozunk a csapataidhoz."
+
+(37, 105, 0) ***Esemény***
+Üzenet:
+Ezek a bástyák általában a tataliai sereget védik. Most azonban a rothadás és halál bûzét hordozzák. Még akkor is, ha az elmúlt néhány hónap azzal telt, hogy óriási méretû élõholt seregen püfölted keresztül magad, semmi sem tud felkészíteni a rothadó hús látványára, ahogy az a vacsorájára bámul.
+
+(86, 28, 0) ***Esemény***
+Üzenet:
+Ezen a területen ez volt a legnagyobb városok közül az egyikhez vezetõ bejárata. Ez büszkélkedett a civilizáció kényelmei közül mindegyikkel, és idevonzott több száz embert, hogy itt éljen és dolgozzon. Most ez az épületek elszórt gyûjteménye, ami elveszíti a csatát az élõhaloltak ellen.
+
+(9, 101, 0) ***Esemény***
+Üzenet:
+Egyszer, nem olyan régen ez egy kedves kis város volt, ahol az utazó megpihentethette a fejét a fogadóban. Mára már nem sok maradt belõle. Azt a maradék néhány lakost, aki itt maradt, azonnal lemészárolják, ahogy elõjön a otthonából,  mindazért, hogy tovább növeljék a borzalmas rothadó sereg számát a városukban.
+
+(31, 72, 0) ***Esemény***
+Üzenet:
+Ahogy a félig elpusztított Basdar nevû vár közelébe érsz, sustorgás hallatszik a seregeidbõl. Aggódnak a családjaikért és az otthonaikért, elkezdenek töprengeni, hogy valaha is visszatérhetnek, illetve ha igen, akkor lesz-e valami, amihez visszatérjenek. Ez a beszéd lehúzza az emberek morálját. Valamit tenned kell gyorsan. Jó hírt kell kapnod, mivel ha nem kapsz, akkor biztosan elveszíted a háborút.
+
+(41, 47, 0) ***Esemény***
+Üzenet:
+Egy kis halászfalut elpusztítottak. Csak néhány lénylakás maradt épen, és el vannak azok is szórva. Az élõholtak mindenféle termelést felfüggesztettek a várban, és pusztítást hoznak a földre. Az emberek összebújnak sarkokban, a legrosszabbtól félve. Itt az idõ, hogy felszabadítsd a tataliaiakat.
+
+(6, 7, 0) ***Esemény***
+Üzenet:
+Hogy használhasd a talaliai nyersanyagokat, elõször meg kell kapnod egy bölcs áldását. Amint meglátogattad a sátrát, üzenni fog, hogy átmehess a kapun, melynek túloldalán biztonságban tartja hatalmas kincseit. Ami itt található, nagy valószínûséggel az elkövetkezendõ harchoz szükséges csapatok kifizetésére fog kelleni.
+
+(44, 0, 0) ***Esemény***
+Üzenet:
+Ez a terület csendes és békés, az élõholt invázió még nem uralkodik itt. Még így is, minden egyes zörrenésre aggódó tekintetek szegezõdnek a zajok irányába. Ahogy az embereid elõremennek összeszedni az aranyat, ugyanannyi figyeli egy esetleges támadást, ami nem érkezik most meg. Végre egyszer megnyugvás lehet a sok feszültségtõl.
+
+(26, 25, 0) ***Esemény***
+Üzenet:
+Ahogy az embereid botladoznak, kimerülve a hosszú harcoktól, Te örülsz, mivel nemsokára felszabadítasz egy újabb tataliai várat. Mielõtt az embereid még egy lépést tehetnének, rájuk lõnek - Rajtaütés! Gyorsan felveszi mindenki az alakzatot, és szembe találod magad az ellenséggel.
+
+(6, 67, 0) ***Esemény***
+Üzenet:
+A szelek déliesen fújnak ma, magukkal hozva a bomló testek és rothadó szörnyûségek szagát. Õrjáratoznak a néhai Tataliai Helyõrségnél. Most már csak az élõholtak ürüléke, mocska szivárog és egy halvány jajgatás hallgató, ahogy közelebb érsz.
+
+(12, 90, 0) ***Esemény***
+Üzenet:
+Egy gyerek törött babája fekszik az úton. Megállsz, hogy felvedd, az egyik embered közben megbámulja a babát, mielõtt összetörik a kezedben. A mellkasához szorítja a játékot, sírva a háború áldozatául esett gyerekek iránti fájdalmától. A többiekkel együtt látott és megölt elég nagy számú élõholt gyereket, akik akaratlanul keverednek bele a harcokba. A borzalom, hogy egy gyermek sétáló holttestét meg kell gyilkolni, még a legerõsebb és leghidegebb katonának is sok.
+
+(74, 99, 0) ***Esemény***
+Üzenet:
+Néhány rongyos ruhájú gyerek játszik csendesen a szökõkútnál. A vidám nevetésük megmelengeti a szíveket. Hosszú, vörös sebhelyek láthatóak a rongyaik között. Ezek a gyerekek a halál árnyékában is boldognak tûnnek. A parancsaid alapján az árvákat megetetik és ellátják, egy 12 év körüli fiú odalép hozzád.	"Köszönjük az ellátást. Fogd ezt a jelvényt, nekünk bátorságot adott, de úgy vélem, hogy neked nagyobb szükséged lesz rá a jövõben."
+
+(58, 106, 0) ***Esemény***
+Üzenet:
+Megkönnyebbülve a seregeid Scarlum felé nyomulnak. A várnak hírneve van, hogy kemény és mindenre készen áll. Tudod, hogy az ittlévõ élõholtaknak nem volt könnyû dolga a városban tartani a helyieket. Ebbõl a várból született meg néhány a legkeményebb szörnymesterek közül. A Helyreállítási Háborúk hõsei Scarlumot hívták otthonnak. Scarlum polgárainak ugyan nincs túl sok értékük, de büszkék arra, amit elértek, és nem az élet sallangjait, hanem az erõs szíveket és testeket dédelgetik. Scarlum polgárai hasznos tagjai lesznek a seregeidnek.
+
+(93, 105, 0) ***Esemény***
+Üzenet:
+Ahogy az iskola közelébe érsz, megörülsz, hogy az ajtainak sosem kellett bezárniuk. Itt felfrissítheted a tudásod, és jobb harcossá válhatsz az élõholtak fenyegetés elleni küzdelemben. Valahogy az eszetlen rothadó lények kihagyták ezt a helyet, megkímélve a ittlévõ tanárokat a borzalomtól, hogy az ellenség seregében szolgáljanak.
+
+(80, 77, 0) ***Esemény***
+Üzenet:
+A Nagy Tó derûs vizére tekintve azt kívánod, hogy napokig ilyen békesség és nyugalom legyen. Mikor visszafordulsz, egy fiatal gyerek közelít meg, aki bölcsebb a korához képest.	"Akik belépnek a védett öblömbe és tiszta a szívûk, annak rengeteg jutalmat ajánlok."	A gyerek eltûnik, de hátrahagy egy jutalmat.
+
+(97, 46, 0) ***Esemény***
+Üzenet:
+Ebben a szakadékban nem érezni az élõholtak bûzét. Minden természetellenes szörnyûség nyoma eltûnt, mintha sose lett volna ott. Ki tudja, lehet, hogy véletlenül kihagyták ezt a területet. Ha így van, akkor az egy áldás az itt élõ lényeknek. A támadás félelme elmosódik, lefolyik a folyón, mint a tegnapi szemét. Egy megnyugtató sóhaj után óvatosan választod meg az utad a folyó mentén. Most az egyszer nyugalom van.
+
+(41, 36, 0) ***Esemény***
+Üzenet:
+Több száz megijedt Gnoll van összebújva a bokrok alatt. Csak akkor mernek elõjönni, ha a szörnyûséges lényeket legyõzték. Látva, hogy a fenyegetés megszûnt, vidáman köszöntenek téged, és megmutatják az ellátmányokat, amit egy jó ideje rejtegetnek már. Azonnal a seregeid közé rakod õket.
+
+(20, 106, 0) ***Gnoll Martalóc***
+Üzenet:
+Segítség! Kérlek, segíts rajtunk! Néhány Halállovag erre járt egy pár hete, felégetve a mocsarat. Szerencsére a mocsár gyorsan regenerálódik, de még mindig keresztülhalad Tatalián, elégetve a földet. Csatlakozunk hozzád, hogy elpusztítsd ezeket a gonosz erõket.
+
+(13, 101, 0) ***Gyíkharcos***
+Üzenet:
+"Megállj! Csak azok léphetnek át, akik hûségesek Tataliához."	Egy Gyíkember lép elõ, és amikor észreveszi, hogy tataliai zászlót hordasz magadnál, nagy hõsként tekint rád.	"Kiválló! Végre megjött a segítség. Csatlakozunk hozzád, hogy megtisztítsuk a földjeinket az élõholt fertõzéstõl."
+
+(39, 101, 0) ***Esemény***
+Üzenet:
+Egy paraszt jön elõ, és azt mondja, hogy vigyázz az egy irányú monolitokkal. A nekromanták használják õket, hogy gyorsan ideérjenek, és elnyomják a lázadásokat. Ha nem vigyázol, akkor olyankor fognak megtámadni, amikor a legkevésbé számítasz rá.
+
+(29, 67, 1) ***Esemény***
+Üzenet:
+Követve a folyót egy olyan területre érsz, ahol lekopott az alapkõzet, és egy olyan területet hozott létre, ahol az élet újra kialakulhat. Itt lent a bûz óriási, mivel nincs szél, ami elfújja a rothadó holttestek állandó szagát. Meg kell találnod és felszabadítanod a csapdába esett tataliaiakat.
+
+(25, 81, 1) ***Esemény***
+Üzenet:
+Itt lent a Hidrák elmenekültek, ideiglenesen elmenekülve az élõholtak seregei elõl. Most a legerõsebb lények, a Sárkányok várnak az ajtójuk elõtt, és lemészárolják azokat, akik elõjönnek a lakásból. Ez egy olyan harc, amit csak elveszíteni tudnak, hacsak valaki nem segít rajtuk gyorsan.
+
+(15, 88, 1) ***Esemény***
+Üzenet:
+Az élõholtak válogatás nélkül mindenkit megölnek, hogy feltöltsék soraikat. A Víz Elementálok ugyanazt a taktikát szenvedik el, mint Tatalia. Ha el tudnád pusztítani az élõholtakat, akik megszállják az otthonukat, akkor valószínûleg a Víz Elementálok csatlakozni fognak hozzád.
+
+===== Fájl vége =====

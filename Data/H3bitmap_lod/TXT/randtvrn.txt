@@ -77,7 +77,7 @@ A Ent Harcosok gyökerei földhöz bilincselik az ellenfeleiket.
 "Ha meg akarod védeni magad a varázslatoktól állj közel egy Unikornishoz."
 "Habár nem olyan immunisak, mint az Arany Sárkányok, a Zöld Sárkányok is ellenállnak a legtöbb varázslatnak."
 "Az Arany Sárkányok több varázslatnak állnak ellen, mint a Zöld Sárkányok, de nem olyan soknak, mint a Fekete Sárkányok."
-"A Kísérõk az ellenség varázslatából csennek el, amit átadnak a Te sereged vezetõjének."
+"A Kísértõk az ellenség varázslatából csennek el, amit átadnak a Te sereged vezetõjének."
 "A Magógok robbanó tûzlabdákat dobnak, felégetve mindent a célpontjuk körül."
 Lehetetlenség visszatámadni a háromfejû Kerberosz gonosz támadása ellen.
 Egyszer láttam, hogy az Aknaurak Démonokat élesztenek az elesett szövetségeseikbõl.
@@ -163,7 +163,7 @@ A városok Citadellával több egységet adnak, mint a városok Erõddel.
 "Egy jövendõmondó egyszer így szólt, ""Ne osztd meg a bölcsességedet senkivel."""
 A skarlátvörös hattyú apró tavakon él.
 A vér nem válik vízzé.
-"Az Ördögfiókák és Kísérõk hiányában vannak az erõnek, de kárpótolja õket sokaságuk."
+"Az Ördögfiókák és Kísértõk hiányában vannak az erõnek, de kárpótolja õket sokaságuk."
 Te saját magad légy igazságos.
 A Sötétség Füstje használatával elbújhatsz az ellenfeleid elõl.
 Találd meg a Grált - nagyobb lesz a hatalmad, mint gondolnád.
@@ -238,7 +238,7 @@ A Ent Harcosok gyökerei földhöz bilincselik az ellenfeleiket.
 "Ha meg akarod védeni magad a varázslatoktól állj közel egy Unikornishoz."
 "Habár nem olyan immunisak, mint az Arany Sárkányok, a Zöld Sárkányok is ellenállnak a legtöbb varázslatnak."
 "Az Arany Sárkányok több varázslatnak állnak ellen, mint a Zöld Sárkányok, de nem olyan soknak, mint a Fekete Sárkányok."
-"A Kísérõk elvonják a manát bármely varázslatból, melyet idéztél és átadják a tábornokaiknak."
+"A Kísértõk elvonják a manát bármely varázslatból, melyet idéztél és átadják a tábornokaiknak."
 "A Magógok robbanó tûzlabdákat dobnak, felégetve mindent a célpontjuk körül."
 Lehetetlenség visszatámadni a háromfejû Kerberosz gonosz támadása ellen.
 Egyszer láttam, hogy az Aknaurak Démonokat élesztenek az elesett szövetségeseikbõl.
@@ -250,7 +250,7 @@ A Jó Szerencse nem az Ördög jelenléte miatt van.
 "Egy jövendõmondó egyszer így szólt, ""Ne osztd meg a bölcsességedet senkivel."""
 A skarlátvörös hattyú apró tavakon él.
 A vér nem válik vízzé.
-"Az Ördögfiókák és Kísérõk hiányában vannak az erõnek, de kárpótolja õket sokaságuk."
+"Az Ördögfiókák és Kísértõk hiányában vannak az erõnek, de kárpótolja õket sokaságuk."
 Te saját magad légy igazságos.
 A Sötétség Füstje használatával elbújhatsz az ellenfeleid elõl.
 Találd meg a Grált - nagyobb lesz a hatalmad, mint gondolnád.
