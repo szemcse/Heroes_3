@@ -1,0 +1,177 @@
+===== Térkép neve =====
+Tündérsárkányok
+
+===== Térkép leírása =====
+Hat hónapod van, hogy megtaláld, és legyõzd a Tündérsárkányokat, ezzel megtisztítva a területet. Ha Dracon meghal, a küldetésnek vége. Dracon 24. szintig fejlõdhet, a tapasztalatát, képességeit, és varázslatait továbbviszi a következõ történetre.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Megtudtad, hogy valamerre a nyugati határon Tündérsárkányok találhatóak. Mivel úgy érzed, hogy jól jönne a gyakorlás, mielõtt megtámadod az Azúr Sárkányokat, úgy döntesz, hogy segítesz a bracadai embereknek megszabadulni a fenyegetéstõl. Ha a Tündérsárkányok nem tûnnek el hat hónapon belül, akkor minden falut elpusztítanak a part mentén.
+
+Név:
+Nyaklánc
+Üzenet:
+Ahogy az úton haladsz lefelé, Te és a sereged belebotlotok egy öreg hölgybe, aki azt állítja, hogy meg tudja jósolni a jövõdet. Nem vagy ünneprontó, ezért adsz az öreg hölgynek pár aranyat egy tenyérjóslásért cserébe.
+
+Név:
+Nyaklánc 2
+Üzenet:
+Az öreg hölgy története felettébb meglepõ, "A Mennyei Boldogság Nyaklánca hatalmas segítséget fog neked nyújtani a közeljövõben." Mivel úgy gondolod, hogy az öreg hölgy megdolgozott a pénzéért, ezért végignézed, ahogy mosolyogva távozik.
+
+Név:
+Szerezz nyakéket
+Üzenet:
+Valaha az Élet Nyakékét használták, hogy távol tartsák a gonoszt. Nemrég azonban ellopták. A pletyka szerint, aki visszahozza az Élet Nyakékét a tulajdonosának, az hatalmas kincseket kap jutalmul.
+
+===== Tárgyak =====
+
+(104, 0, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(106, 0, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(105, 0, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(105, 1, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(75, 34, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(74, 34, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(75, 35, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(91, 51, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(14, 12, 0) ***Esemény***
+Üzenet:
+Ahogy a város bejárata felé sétálsz, észreveszed, hogy elhagyatott. Talán széppé tudnád változtatni ezt a várost, gondolod magadban. Sajnálatos módon annyira mélyen elgondolkozol, hogy nem veszed észre, hogy Tündérsárkányok vesznek körül.
+
+(14, 11, 0) ***Esemény***
+Üzenet:
+Miután legyõzted a Tündérsárkányokat, körbenézel, és egy lebegõ képet látsz magad körül, lebegve. Amilyen gyorsan jött ez az illúzió, úgyan olyan gyorsan tûnt tova. Ismét körbe nézel, és észreveszed, hogy a város egyáltalán nem volt üres. Sõt, ez ténylegesen egy virágzó város volt.
+
+(19, 19, 0) ***Pandora Szelencéje***
+Üzenet:
+Választottál...
+
+(19, 18, 0) ***Pandora Szelencéje***
+Üzenet:
+Választottál...
+
+(83, 68, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(81, 69, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(22, 17, 0) ***Jel***
+Üzenet:
+Az egyik doboz gazdagságot ad, a másik...?
+
+(72, 98, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(45, 59, 0) ***Pandora Szelencéje***
+Üzenet:
+Ahogy végigmész az erdõn, látsz egy nagy dobozt, ahogy az elzárja az elõtte lévõ tisztásba vezetõ bejáratot. Emlékezve, hogy mi történt legutoljára, amikor kinyitottál egy ehhez hasonló dobozt, elbizonytalanít annak eldöntése, hogy kinyisd a dobozt vagy békén hagyd.
+
+(102, 54, 0) ***Esemény***
+Üzenet:
+Több órányi séta után odaérsz egy Vörösfenyõ Kilátóhoz. A torony lábánál néhány Kardforgatót figyelsz meg. Ahogy közelebb mész hozzájuk, észreveszed, hogy az íjászok már felhúzták nyilaikat, és készen állnak a tüzelésre. Azon gondolkozol, vajon mi olyat tettél, amivel magadra haragítottad õket.
+
+(104, 55, 0) ***Esemény***
+Üzenet:
+Amikor elérted a Vörösfenyõ Kilátó lábát, meglátod, hogy miért támadtak meg az emberek, ahogyan azt Õk megtették. A tenyeredbe temeted az arcod, mert neked tudnod kellett volna, hogy õriztek valamit.
+
+(93, 1, 0) ***Pandora Szelencéje***
+Üzenet:
+Óvatosan nyisd ki!
+
+(84, 3, 0) ***Pandora Szelencéje***
+Üzenet:
+Áú! Ez fájni fog!
+
+(6, 51, 0) ***Esemény***
+Üzenet:
+HÉ! MIT CSINÁLSZ? EZ NEM A MEGFELELÕ.
+
+(8, 51, 0) ***Esemény***
+Üzenet:
+HA, HA, HA... Ez sem a megfelelõ!
+
+(11, 53, 0) ***Esemény***
+Üzenet:
+Miután a teleportáló felkavaró érzése elmúlik, elindulsz az úton. Szembetalálod magad egy ír manóval, aki mintha egy öreg tuskón ülne.	"Üdv újra." - mondja az ír manó egy vigyorral az arcán.	"Üdv." - szólalsz meg azon tûnõdve, hogy miért nem ideges, hogy le akartad venni a fejét a puszta kezeddel. Minden tûnõdésed elmúlik, amikor is az ír manó felvillan, és eltûnik. Ahol egykor az ír manó ült, ott most három Tündérsárkány ül. Mivel rájössz, hogy ez a sárkány játszott veled egész idõ alatt, ránézel a Tündérsárkányokra csodálkozván, hogy melyik lehet a valódi.
+
+(10, 51, 0) ***Esemény***
+Üzenet:
+Már éppen megtámadnád a sárkányt, amikor egy ír manó hangját hallod a füledben: 	"Biztos vagy benne, hogy ez az igazi… ?"
+
+(72, 12, 0) ***Pandora Szelencéje***
+Üzenet:
+Ahogy a szél keresztülfúj a fákon, azt hiszed, hogy egy nevetést hallasz, de megrázod a fejed, azt gondolva, hogy csak képzelõdtél.
+
+(98, 72, 0) ***Pandora Szelencéje***
+Üzenet:
+Ahogy az erdõben sétálsz, szembetalálkozol egy dobozzal. Láttál már ilyen dobozt korábban, és gyorsan úgy döntesz, hogy nem nyitod ki. Miután pár lépést hátralépsz, rájössz, hogy a kíváncsiság úrrá lett rajtad. Így tehát megfordulsz, és már nyúlnál is a dobozhoz, hogy kinyisd, amikor egy ír manó ugrik elõ az erdõbõl, és ráül, ezzel meggátolva abban, hogy kinyisd. Nem igazán érthetõ, hogy éppen mi történik, és hogy egy ezelõtt sosem látott ír manóval van dolgod, ezért csak ott ülsz és tanulmányozod Õt. Néhány hosszú pillantás után a csendet Õ töri meg:	"Erik vagyok! És Te ki vagy?"	Miközben elmondod neki a neved, azon gondolkozol, hogy ez a kisember mi is akar.	"Tudom, mi folyik errefelé. És mivel tudom, gondoltam adok neked egy kis tanácsot… Soha, semmilyen körülmények között ne nyisd ki ezt a dobozt" - mondja az ír manó, miközben megütögeti a dobozt. És még mielõtt megkérdeznéd, hogy miért ne nyisd ki a dobozt, a manó egy hatalmas füst kíséretében eltûnik, hátrahagyva téged és a dobozt.
+
+(98, 58, 0) ***Esemény***
+Üzenet:
+Nem sokkal azután, hogy elhagytad a kastélyt, egy férfiba botlasz, aki a földön fekszik, próbálva visszajutni a kastélyba. Mivel egy becsületes ember vagy, úgy döntesz, hogy segítesz neki. Körülbelül egy óra alatt sikerül visszavinned a házához, s amint megbizonyosodtál, hogy biztonságban van, már távozol is. Ahogy a kilincsért nyúlsz, a férfi visszanyeri eszméletét, és elmeséli, hogyan sérült meg. Azt mondja, hogy rajta és a csapatán, akik azóta már halottak, rajtaütöttek a hatalmas Vörösfenyõhöz vezetõ úton.
+
+(98, 73, 0) ***Esemény***
+Üzenet:
+Mivel szeretnél minél távolabb kerülni a Tündérsárkányoktól, gyorsan elrohansz az úton. Hátrafordulsz, hogy megnézd, milyen messze kerültél attól az… az… izétõl, látod, hogy már körülbelül 50 lépésnyire vagy tõle. Amikor visszafordítod a fejed az útra, majdnem elesel, amikor meglátod, hogy az ír manó ott áll pontosan elõtted.	"Én megmondtam!" - mondta a manó.	"Gyerünk. Mit mondtam? Mondd velem most egyszerre - mondja a manó...'Semmilyen körülmények között ne nyisd ki ezt a dobozt'. Nos hát ugye nem hallgattál rám, mi? Haha, majd legközelebb hallgatni fogsz.	" Az ír manó nevet. Ismételten, mielõtt még tudnál bármit is kérdezni a manótól, majd eltûnik, hátrahagyva egy négylevelû lóherét.
+
+(53, 68, 0) ***Pandora Szelencéje***
+Üzenet:
+"Rendben, próbáljuk meg újra" - mondja az ír manó, ahogyan tõled kicsit balra megjelenik. Már meg sem lepõdsz, hogy a manó csak úgy megjelenik. Így hát úgy beszélsz vele, mintha egész nap ott lett volna.	"Had találjam ki. 'Ne nyisd ki a dobozt.' "	"Hé, gyorsan tanulsz." - mondja az ír manó, majd újra köddé válik. 	Megrázod a fejed, és azon gondolkozol, hogy mennyire furcsa ez az egész. Úgy döntesz, hogy beletörõdsz a kis manó megjegyzéseibe, mert eszedbe jut, hogy a végsõ célod az, hogy megöld a Tündérsárkányt.
+
+(53, 67, 0) ***Esemény***
+Üzenet:
+Az ír manó megjelenik elõtted, közben megrázza a fejét, és felnevet. Azt várva az ír manó, hogy most ránézel, és megkérdezed, hogy min nevet annyira.	"Te szándékosan nem fordítasz figyelmet senkire? - kérdezi az ír manó ismételten nevetve. Mivel nem igazán akarsz rá figyelni, ezért elsétálsz mellette, azt gondolva, hogyha majd figyelmen kívül hagyod Õt, akkor majd el fog menni. Megdöbbenésedre azonban nem ment el. Helyette inkább elkezdett veled sétálni és elõadást tartani arról, hogy miért is kellene ráfigyelned. Hosszú-hosszú órák elõadása után arra jutottál, hogy már nagyon unod a bohóckodását. Így mérgesen megfordulsz, és megkíséreled levenni a fejét a kezeddel. Azonban abban a pillanatban, hogy a kezed hozzáér a testéhez, eltûnik. Annyira felidegesített, hogy motyogni kezdesz magadban, amikor folytatod az utad, hogy megtaláld a Tündérsárkányt.
+
+(85, 10, 0) ***Esemény***
+Üzenet:
+Ahogy a helyõrség közelébe érsz, észreveszed, hogy semmilyen mozgás nincs a környéken. A bokrokban állsz nem messze a helyõrségtõl azt lesve, hogy mi történik. Végül észreveszed, hogy kinyitják a helyõrség kapuját, és két Tündérsárkány lép ki rajta, majd eltûnnek. "Áh" gondolod magadban. Tudhattad volna. Megindulsz a helyõrség felé azt mondogatva magadnak, hogy itt az idõ, hogy megtisztítsd ezt a földet a Tündérsárkányoktól egyszer s mindenkorra. Amint elkezdesz a helyõrség felé menni, megállsz, és azon gondolkozol, hogy vajon most hol lehet az a mihaszna ír manó.
+
+(88, 7, 0) ***Esemény***
+Üzenet:
+Ahogy keresztülmész a helyõrségen, egy gyenge villásra leszel figyelmes, mely egy kis dombról jött, ami elõtted fekszik. Tudod, ki van ott. Csak azon gondolkozol, hogy van-e másik út, hogy megkerüld a dombot. Mivel rájössz, hogy nincs, elõre haladsz. Ahogy felérsz a tetejére, meglátod az ír manót, és észre veszed, hogy neked integet. Az ír manó gyorsan elõre szalad, hogy pont elõtted álljon meg.	"Mivel gondoltam, úgysem hallgatnál rám, ezért nem is figyelmeztettelek a Tündérsárkányokról, akik õrizték a helyõrséget." - mondja a manó.	"Köszönöm szépen. Igazából egész kellemes volt, hogy Te nem voltál ott." - szólalsz meg, miközben a türelmed csúcsán jársz az ír manóval szemben.	"Ha ilyen leszel, akkor nem fogom elmondani, hogy az egyik Tündérsárkány elmenekült, és nemsokára visszatér az erõsítéssel." - mondja a kobold, majd ismét eltûnik, mintha ott se lett volna.
+
+(78, 1, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(84, 44, 0) ***Pandora Szelencéje***
+Üzenet:
+Ahogy közelebb lépsz a dobozhoz, egy gyenge hangot hallasz a bal füledben.	"Sok sikert ehhez…" 	Megvonod a vállad a hangra, mint a szél, és úgy döntesz, hogy kinyitod a dobozt.
+
+(93, 52, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+===== Fájl vége =====

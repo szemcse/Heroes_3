@@ -1,0 +1,98 @@
+===== Map name =====
+Rust Dragons
+
+===== Map description =====
+Rust dragons have invaded the area, halting mine production.  Flag all of the mines within six months, but do not lose the Dragon Slayer or your cause will be lost.  Dracon, his skills, spells and Experience up to level 24 will carry over to the next scenario.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+The people of Bracada have kept the Krewlodians at bay by controlling the mines.  Now Rust Dragons have taken control and all of this lands resources will be gone in six months.  The people are in need of help and your skills could use some sharpening. 
+
+Name:
+Stuff for Enemy
+Message:
+Here
+
+Name:
+Collar CarryOver
+Message:
+After a few drinks you and your troops start to exchange war stories.  One of the tales that was told stuck out in your head.  Unfortunately after all of the drinking you only remember some of it.  The words that stuck out in your head were "...Collar of Conjuring...great riches."
+
+Name:
+Carry over of Crown
+Message:
+Not wanting to make a habit of getting drunk every night you decide to go to sleep early.  Your night was anything but restful. Sometime in the night you started to have a dream.  You surprisingly remembered much of it. 
+
+Name:
+carry over of crown 2
+Message:
+You remember seeing yourself fighting a Blue Dragon, awesome in size.  What really caught your eye though was the crown you were wearing.  It was the Crown of Dragontooth.  Realizing what you must do you set out in search for the crown. 
+
+===== Objects =====
+
+(98, 44, 0) ***Tower***
+Name:
+Asenius
+
+(93, 102, 0) ***Sign***
+Message:
+Castle Asenius------- North	Castle Talirindë------ East
+
+(50, 69, 0) ***Event***
+Message:
+Hidden behind an unused part of the Water Mill is what looks like a very old book. 
+
+(58, 53, 0) ***Tower***
+Name:
+Ochre
+
+(98, 73, 0) ***Sign***
+Message:
+Crystal Valley
+
+(20, 93, 0) ***Tower***
+Name:
+ Talirindë
+
+(16, 46, 0) ***Event***
+Message:
+As you walk towards the entrance you notice it is unusually quiet.  Then just before you enter the cave two dragons appear out of nowhere and block you from pressing on.  Then as you turn to back up a little to give yourself some fighting room you are surrounded from behind.  
+
+(64, 53, 0) ***Rust Dragon***
+Message:
+It took you all day to get to the sawmill.  Then again, the people in the nearby village said it would. The sun was just setting below the horizon when you spotted the dragons that put all the people in the nearby village out of work. After taking a hefty breath you set out to kill the dragons.  
+
+(2, 74, 0) ***Rust Dragon***
+Message:
+As you enter the crystal mine you hear death filled screams that would make any other man go mad.  You head towards a faint light that looks to be deep within the cave.   As you approach the light you see a dragons holding a man, who turns his head toward you and in a faint whisper says "Help us". 
+
+(32, 53, 0) ***Rust Dragon***
+Message:
+On your travels you come across a very old man lying on the ground.  With a bandage over his head and a sling around his neck, he looks to be unconscious if not dead.  Closing your eyes and shaking your head you decide to rid the land of the dragons that did this. 
+
+(2, 104, 0) ***Rust Dragon***
+Message:
+It has been a long trek through the mountains and trees.  Up ahead of you is the gem pond that the dragons are said to have taken control of.  Just as you are about to break through the trees you feel the sting of acid on your shoulder.   You look up just in time to see that the dragons are attacking you.
+
+(82, 34, 0) ***Rust Dragon***
+Message:
+The smell is excruciatingly bad.  The sun is beating down on the blood covering the sulfur.   The dragons have done a number here.  It was time to find the dragons and rectify the situation. 
+
+(23, 57, 0) ***Rust Dragon***
+Message:
+While you are hiking through the mountains you see a glint of reddish orange in the not too distant sky.  As you walk up to the gold mine you feel a slight breeze.  Seeing the dragons land you smile at your precise timing. " Nobody but the dragons will get hurt this time,  you tell yourself." 
+
+(100, 106, 0) ***Rust Dragon***
+Message:
+As you approach the pond you are almost run down by an avalanche of prospectors.  At a quick glance you take notice of how battered and broken the people are.  Not wanting the people to suffer any longer you quickly run in to slay the dragons who are tormenting them.     
+
+(16, 47, 0) ***Event***
+Message:
+As you approach the mine you notice that it is very very quite. 
+
+===== End of file =====

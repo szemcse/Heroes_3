@@ -1,0 +1,98 @@
+===== Térkép neve =====
+Rozsda Sárkányok
+
+===== Térkép leírása =====
+Rozsda Sárkányok szállták meg a területet, megállítva a bányák termelését. Foglalj el minden bányát hat hónapon belül, de ne veszítsd el a Sárkányölõt, különben a küldetésednek vége. Dracon 24. szintig fejlõdhet, a tapasztalatát, képességeit, és varázslatait továbbviszi a következõ történetre.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Bracada lakói sikeresen távol tartották a krewlodiaiakat a bányák irányításával. Most azonban Rozsda Sárkányok támadták meg azokat, és hat hónap múlva a föld minden nyersanyaga elfogy. Az embereknek segítségre van szükségük, és a Te képességeidre pedig amúgy is ráfér a fejlesztés.
+
+Név:
+Dolgok az ellenség számára
+Üzenet:
+Itt lesznek
+
+Név:
+Nyakörv felidézése
+Üzenet:
+Néhány ital után Te és a csapatod elkezdtek háborús történeteket mesélni. Az egyik történet szöget ütött a fejedben. Sajnálatos módon a sok ital miatt csak egy részére emlékszel. A szavak, amik megmaradtak a fejedben, azok az: 	"...Idézés Nyakörve… nagy gazdagság."
+
+Név:
+Korona felidézése
+Üzenet:
+Mivel nem szeretnél minden éjjel lerészegedni, ezért úgy döntesz, hogy ma korán lefekszel. Az éjszakád minden volt, csak nem pihentetõ. Valamikor éjjel elkezdtél álmodni. Meglepõ módon a legtöbb részére emlékszel.
+
+Név:
+Korona keresése
+Üzenet:
+Eszedbe jut, hogy láttad magadat harcolni egy Kék Sárkánnyal, mely hatalmas méretû volt. Ami azonban ténylegesen megfogta a tekinteted, az a korona volt, amit viseltél. A Sárkányfog Korona volt az. Feleszmélsz, hogy mit is kell tenned, így elindulsz megkeresni a koronát.
+
+===== Tárgyak =====
+
+(98, 44, 0) ***Tower***
+Név:
+Asenius
+
+(93, 102, 0) ***Jel***
+Üzenet:
+Asenius kastély------- Észak	Talirindë kastély------ Kelet
+
+(50, 69, 0) ***Esemény***
+Üzenet:
+A Vízimalom egy használaton kívüli része mögött egy nagyon régi könyv rejtõzött.
+
+(58, 53, 0) ***Tower***
+Név:
+Ochre
+
+(98, 73, 0) ***Jel***
+Üzenet:
+Kristályvölgy
+
+(20, 93, 0) ***Tower***
+Név:
+ Talirindë
+
+(16, 46, 0) ***Esemény***
+Üzenet:
+Ahogy a bejárat felé sétálsz, azt veszed észre, hogy feltûnõen nagy a csend. Éppen belépnél a barlangba, amikor két sárkány tûnik elõ a semmibõl, eltorlaszolva az utadat. Ahogy azonban hátralépsz, hogy legyen egy kis harcterületed, azzal találod magad szembe, hogy hátulról is körbevettek már.
+
+(64, 53, 0) ***Rozsdasárkány***
+Üzenet:
+Az egész napod ráment, hogy eljuss a fûrésztelepig. Persze a falu lakói megmondták, hogy ez lesz. A nap már éppen nyugovóban volt, amikor észrevetted a sárkányokat, akik munkanélkülivé tették a közeli falu lakóit. Miután veszel egy mély levegõt, nekiállsz, hogy megöld a sárkányokat.
+
+(2, 74, 0) ***Rozsdasárkány***
+Üzenet:
+Ahogy belépsz a kristálybányába, távoli halálsikolyokat hallasz, melytõl mindenki más megõrülne. Egy halovány fény felé indulsz, ami mélyen a barlang szívébõl jön. Ahogy közelítesz a fényhez, egy sárkányt látsz, ahogy egy férfit szorongat. Az ember feléd fordul, majd alig hallhatóan csak ennyit szól:	"Segíts rajtunk!"
+
+(32, 53, 0) ***Rozsdasárkány***
+Üzenet:
+Az utazásaid során belefutsz egy nagyon öreg emberbe, aki a földön fekszik. A fején kötés, a nyakára tekeredve pedig egy parittya található, úgy néz ki, mintha eszméletlen lenne, hacsak nem halott. Becsukod a szemed, megrázod a fejed, és úgy döntesz, hogy megszabadítod a földet a sárkányoktól, amik ezt tették.
+
+(2, 104, 0) ***Rozsdasárkány***
+Üzenet:
+Ez egy hosszú vándorlás volt, túl a fákon-hegyeken keresztül. Elõtted található a Drágakövek tava, amirõl azt mondák, hogy a sárkányok birtokolják. Már éppen áttörnél a fákon, amikor sav marását érzed a válladon. Még éppen idõben nézel fel, hogy észrevedd, hogy a sárkányok megtámadtak.
+
+(82, 34, 0) ***Rozsdasárkány***
+Üzenet:
+A bûz gyötrelmesen szörnyû. A nap a vérre tûz, ami a ként fedi be. A sárkányok mindenkit megöltek itt. Itt az idõ megtalálni a sárkányokat, és helyrehozni a dolgokat.
+
+(23, 57, 0) ***Rozsdasárkány***
+Üzenet:
+Miközben átszeled a hegyeket, egy vöröses narancssárga villanásra leszel figyelmes a nem túl távoli égbolton. Ahogy odasétálsz az aranybányához, egy hûvös szellõ fúj keresztül a ruhádon. Amint észreveszed a sárkányok területét, elmosolyodsz a pontos idõzítéseden. 	"Most csak a sárkányok fognak megsérülni." - mondod magadban.
+
+(100, 106, 0) ***Rozsdasárkány***
+Üzenet:
+Ahogy a tó közelébe érsz, egy csoport drágakõ kutató majdnem eltipor téged rohanásukban. Egy pillanat alatt észreveszed, hogy mennyire viharvertek ezek az emberek. Nem akarod, hogy az emberek tovább szenvedjenek ezért, gyorsan elõrerohansz, hogy megöld az õket kínzó sárkányokat.
+
+(16, 47, 0) ***Esemény***
+Üzenet:
+Ahogy a bánya közelébe érsz, észreveszed, hogy nagyon, nagyon csendes.
+
+===== Fájl vége =====

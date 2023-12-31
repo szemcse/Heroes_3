@@ -1,0 +1,67 @@
+===== Térkép neve =====
+Azúr Sárkányok
+
+===== Térkép leírása =====
+Gyõzd le a hatalmas Azúr Sárkányokat hat hónapon belül az örökkévaló dicsõségért. Amint elpusztítottad ezt az õsi vadállatot, bizonyítani fogod, hogy egy különleges Sárkányölõ vagy. A kudarc egyenlõ a halállal Dracon számára és egy örökké tartó megbélyegezés bolond gyereknek.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+"Itt az idõ." - mondod magadnak, ahogy épp felkészülsz a hosszú utazásra. Régóta vársz már erre a pillanatra. Miközben összegyûjtötted minden bátorságod, amit fel tudsz sorakoztatni, elkezdesz szembenézni az utolsó kihívással, ami minden idõk legjobb Sárkányölõjévé fog tenni téged... az Azúr Sárkány a célpontod.
+
+Név:
+Mágia nélkül
+Üzenet:
+Ahogy sétálgatsz, észreveszed, hogy városok lábánál a hegyek elég primitívek. Nincs bennük mágus szövetség, vagy ilyesmi. Ekkor jöttél rá, hogy okosan kell használnod a varázserõdet, mivel nincs rá mód, hogy visszatöltsd a manád.
+
+===== Tárgyak =====
+
+(99, 88, 0) ***Jel***
+Üzenet:
+Óvakodj a Sárkány Dombjaitól.
+
+(38, 0, 0) ***Esemény***
+Üzenet:
+Ahogyan elsétálsz a medúzakövek mellett, észreveszed, hogy néhány medúza a kövek mögött alszik arra várva, hogy valami naiv idegen elhaladjon elõttük.
+
+(84, 81, 0) ***Esemény***
+Üzenet:
+Becsukod a szemed, és elmondasz egy imát az Istenedhez, felismerve, hogy talán ezek lesznek az utolsó lépéseid sík terepen… feltéve, ha lesz még.
+
+(23, 71, 0) ***Esemény***
+Üzenet:
+A harc után azonnal leülsz, hogy megpihenj.	"Ez nehezebb lesz, mint gondoltam" - gondolod magadban.
+
+(89, 2, 0) ***Esemény***
+Üzenet:
+Ez egy hosszú utazás volt. És ennek most már majdnem vége van. Az egyetlen dolog, mely közted és a végzeted között áll, az Azúr Sárkány. Elmosolyodsz magadban, és elõrelovagolsz, hogy bezsebeld a réges-régen várt gyõzelmet.
+
+(26, 11, 0) ***Esemény***
+Üzenet:
+Jó néhány hegyen töltött nap után, a sereged kezd nyughatatlan lenni. Rengeteg nehéz küzdelmen vagy túl és rengeteg katonád vesztette életét. A sereged morálja eddig jó volt. Most azonban elkezdtek félni a katonáid. A soron következõ harc talán túl sok lesz nekik. Egy kis pihenõ után beleegyeztek, hogy folytatják útjukat veled.
+
+(41, 33, 0) ***Esemény***
+Üzenet:
+Te és a sereged elértetek eddig a pontig. A morál nem túl jó, de a seregednek van egy újdonsült magabiztossága. A földön vérrel átitatott kék pikkelyek fekszenek. "Ha tud vérezni, akkor meg tud halni is" gondolod magadban, tudva, hogy mindenki más is hasonlóak gondolkozik.
+
+(87, 32, 0) ***Esemény***
+Üzenet:
+A sereged darabokra szedte a pikkelyeket és elosztották maguk között. Most szerencsehozóként hordják a pikkelyeket a nyakukon és fegyverzetükön. Még mindig félnek, de tudják, hogy a megölhetetlen megölése felpezsdítette a moráljukat.
+
+(104, 4, 0) ***Azúrsárkány***
+Üzenet:
+Mi vagyunk a vezetõnk utolsó védõi. Nem jutsz át rajtunk.
+
+(11, 32, 0) ***Jel***
+Üzenet:
+Próbálkozz, tudni fogod, mikor érsz oda.
+
+(107, 3, 0) ***Azúrsárkány***
+Üzenet:
+Egy ideje már figyelem az elõremeneteledet. Nézzük, hogy valójában milyen fából faragtak…
+
+===== Fájl vége =====

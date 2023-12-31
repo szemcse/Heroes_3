@@ -1,0 +1,60 @@
+===== Térkép neve =====
+Kristály Sárkányok
+
+===== Térkép leírása =====
+Hogy átmenj a próbán, le kell gyõznöd a Kristály Sárkányt. Ha eme tett két hónapon belül nem teljesül, akkor nem válsz Sárkányölõvé. Dracon tapasztalatával, képességeivel, varázslataival, megmaradt seregével és a Diplomata Gyûrûjével továbbmegy a következõ pályára. Dracon a 8. szintig fejlõdhet.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Édesanyád azóta képez Sárkányölõket, amióta csak az eszét tudja. Eljött az idõ, hogy kiképezze egyetlen fiát is. Édesanyád tudja, hogy milyen okos vagy, és ezért nem adhat neked egyszerû feladatot. Körülbelül 30 évvel ez elõtt édesanyád elment az Élet Ünnepére. Az ott történt események megihlették Õt. Fogott egy vörös kristályt és egy gólem ötlettel a fejében létrehozta a Kristály Sárkányokat, majd szabadon engedte õket ebben a kis völgyben. Az egyetlen jó dolog a számodra, hogy továbbfejlesztheted a papokat és a mágusokat varázslókká. Egy kis falut irányítasz. A feladatod az, hogy menj, és öld meg a Kristály Sárkányokat a sereggel, amiket kaptál, hogy bebizonyítsd édesanyádnak és mindenki másnak, hogy készen állsz a Sárkányölõ címre. A feladat nem lesz könnyû, úgyhogy légy óvatos.
+
+Név:
+Elveszetten
+Üzenet:
+Ahogy leülsz a reggeli tûz mellé, eszedbe jutnak édesanyád szavai: 	"Ha eltévedsz, akkor rakd a jobb és bal kezed a falra, és kövesd azt mindaddig, amíg el nem jutsz a célodig."
+
+Név:
+Diplomata Gyûrû
+Üzenet:
+Valami eszedbe jutott tegnap éjjel. Nem tudtál aludni, így hát úgy döntöttél, hogy sétálsz egy kicsit. Út közben eszedbe jutott édesanyád utolsó tanácsa amit adott neked. Azt mondta, hogy a Diplomata Gyûrûje bearanyozza majd a jövõdet.
+
+===== Tárgyak =====
+
+(14, 3, 0) ***Tower***
+Név:
+Dracon tábora
+
+(65, 57, 0) ***Esemény***
+Üzenet:
+A Feketepiacra vezetõ utadon belebotlasz egy táborba. Ahogy közelebb érsz, észreveszed, hogy a tábor lakói nem valami barátságosak. Mivel túl késõn veszed észre, hogy nem látnak szívesen a táboruk közelében, s mire körbe nézel, azt látod, hogy körülvettek. Mivel nem akarsz harcolni, ezért inkább lefizeted õket.
+
+(7, 48, 0) ***Jel***
+Üzenet:
+Nem minden teleportáló vezet arra a helyre, amit keresel.
+
+(57, 11, 0) ***Esemény***
+Üzenet:
+Ahogy a tisztásra érsz, észreveszed, hogy több irányba is folytathatod utad. Mivel nem tudod, hogy melyik út a helyes, úgy döntesz, hogy megpörgetsz egy üveget, és arra mész, amerre az üveg megáll.
+
+(6, 15, 0) ***Esemény***
+Üzenet:
+A földön vörös kristály kis törött szilánkjai találhatóak. Felismered a szilánkokat, és arra gondolsz, hogy a Kristály Sárkányok valószínûleg nem örültek, hogy a szolgáiknak nem sikerült megállítaniuk téged. Mosolyogsz egyet, s így nõ az önbizalmad is. Készen állok... legalábbis magadnak ezt mondod.
+
+(59, 61, 0) ***Esemény***
+Üzenet:
+Közvetlenül elõtted vannak a Kristály Sárkányok. Édesanyád elégedett lenne, ezt gondolod magadról, miközben a harcba rohansz.
+
+(25, 5, 0) ***Esemény***
+Üzenet:
+A földön vörös kristály kis törött szilánkjai találhatóak. Felismered a szilánkokat, és arra gondolsz, hogy a Kristály Sárkányok valószínûleg nem örültek, hogy a szolgáiknak nem sikerült megállítaniuk téged. Mosolyogsz egyet, s így nõ az önbizalmad is. Készen állok... legalábbis magadnak ezt mondod.
+
+(11, 5, 0) ***Jel***
+Üzenet:
+A kapzsiság az egyik a hét fõbûn közül.
+
+===== Fájl vége =====

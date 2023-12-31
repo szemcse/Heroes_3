@@ -1,0 +1,60 @@
+===== Map name =====
+Crystal Dragons
+
+===== Map description =====
+To pass the test you must kill the Crystal Dragon.  Fail to kill the dragon within two months and you will not become a Dragon Slayer. Dracon, his skills, spells, experience and remaining troops will transfer to the next scenario along with the Diplomat's Ring. Dracon will be limited to level eight.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Your mother has been training Dragon Slayers for as long as she can remember. It is now time that she train her only son. Your mother knows how smart you are and therefore she can't give you any ordinary task.  Approximately 30 or so years ago your mother went to the Festival of Life. The events of the festival inspired her.  She took red crystal and, with the idea of a Golem in her head, created Crystal Dragons.  She then set them loose in this little valley.  The only thing going for you is your ability to train priests and mages into enchanters.  You have control of a small village.   Your task is to kill the Crystal Dragons with the troops given to you so you can prove to your mother and to everyone else you are ready to be a Dragon Slayer.  The task is great so be careful.
+
+Name:
+Lost
+Message:
+As you are sitting down by the morning fire you remember the words of your mother, "If you get lost, put your right or left hand on the wall and follow the wall until you get to your destination."
+
+Name:
+Diplomat's Ring
+Message:
+Something came to you last night.  You couldn't sleep and so you decided to take a little walk.  On your walk you remembered the last piece of advice that your mom gave you. She said that the Ring of a Diplomat will brighten your future. 
+
+===== Objects =====
+
+(14, 3, 0) ***Tower***
+Name:
+Camp Dracon
+
+(65, 57, 0) ***Event***
+Message:
+On your way to the Black Market you stumble across a camp. As you approach,  you notice that the people in the camp aren't friendly.  Realizing only too late you aren't welcome anywhere near their camp, you look around to see that you are surrounded.  Not wanting to fight you bribe your way out.
+
+(7, 48, 0) ***Sign***
+Message:
+Not all teleporters lead to the place you seek.
+
+(57, 11, 0) ***Event***
+Message:
+As you approach the clearing you notice there are several ways to go.  Not knowing which way is the correct way you decide to spin a bottle and go the way the bottle stops.    
+
+(6, 15, 0) ***Event***
+Message:
+Lying on the ground are small cracked shards of red crystal.   Recognizing the shards you figure the Crystal Dragons must not have been pleased that their minions failed to stop you.  Smirking to yourself, your confidence grows.  You are ready for this...so you tell yourself. 
+
+(59, 61, 0) ***Event***
+Message:
+Straight ahead you see the crystal dragons.  Mother will be pleased, you think to yourself as you charge into battle.  
+
+(25, 5, 0) ***Event***
+Message:
+Lying on the ground are small cracked shards of red crystal.   Recognizing the shards you figure the Crystal Dragons must not have been pleased that their minions failed to stop you.  Smirking to yourself, your confidence grows.  You are ready for this...so you tell yourself. 
+
+(11, 5, 0) ***Sign***
+Message:
+Greed is one of the seven deadly sins.
+
+===== End of file =====
