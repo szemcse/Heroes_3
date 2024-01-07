@@ -1,20 +1,21 @@
 Név:
-Mélység kürtje
+ A Mélység kürtje
 
 Leírás:
-Bidley és Jeremy kalózok igyekeznek visszaszerezni a Mélység kürtjét, amelyet a trükkös Casmetra lopott el, aki otthagyta Õket meghalni. Meg kell találniuk a módját, hogy visszatérjenek Raegnába, majd bosszút álljanak a boszorkányon.	
+Bidley és Jeremy kalózok igyekeznek visszaszerezni a Mélység kürtjét, amelyet a trükkös Casmetra lopott el, aki otthagyta Õket meghalni. Meg kell találniuk a módját, hogy visszatérjenek Raegnába, majd bosszút álljanak a boszorkányon.
+	
 
 
-Frontier - Bracada A
+Határ - Bracada A
 
 Jobb-kattintásos szöveg:
 
 
 Bevezetõ:
-Jeremy ismét egy homokos parton találta magát, távol otthonától. Elvesztette a testvérét, de nem a hitét. Csakúgy, mint annak az ostoba sztorinak az elején az Utópiánál és Alkinnel. De most Jeremy Albatross égett a vágytól, hogy bosszút álljon Casmetrán trükkjei miatt.
+Jeremy ismét egy homokos parton találta magát, távol otthonától. Elvesztette a testvérét, de nem a hitét. Csakúgy, mint annak az ostoba sztorinak az elején Utópiánál, Alkinnel. De most Jeremy Albatross égett a vágytól, hogy bosszút álljon Casmetrán trükkjei miatt.
 
 
-Heart of Water - Bracada B
+A víz szíve - Bracada B
 
 Jobb-kattintásos szöveg:
 
@@ -23,7 +24,7 @@ Bevezetõ:
 Bidley elméjében örökre rejtély marad, hogy az álom, amelyben vizet lélegzett, prófétai volt-e, vagy csak egy átlagos álom. Mert most mélyen a vízben állt, lélegzett, és a mellette úszó halakat és teknõsöket nézte.
 
 
-Horn of the Abyss - Bracada C
+Mélység kürtje - Bracada C
 
 Jobb-kattintásos szöveg:
 
@@ -32,7 +33,7 @@ Bevezetõ:
 Elõbb-utóbb minden ravaszságnak vége szakad. Miután Casmetra hûtlenül megfosztotta Bidleyt a Mélység kürtjétõl, rájött, hogy a férfi utána fog jönni. Sajnálhatta is a figyelmetlenségét, de már késõ volt. Bidley, Jeremy és Tark arra készültek, hogy megtámadják a szigetét, és véget vessenek terveinek.
 
 
-All hands on board! - Bracada D
+Minden kéz a fedélzeten! - Bracada D
 
 Jobb-kattintásos szöveg:
 
