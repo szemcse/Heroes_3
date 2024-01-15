@@ -1,0 +1,24 @@
+"{Fûrésztelep}
+
+Átveheted az irányítást a Fûrésztelep felett. Ez napi két egység fát fog termelni neked."
+"{Alkimista Labor}
+
+Átveheted az irányítást az Alkimista Labor felett. Ez napi egy egységnyi higanyt fog termelni neked."
+"{Érc bánya}
+
+Átveheted az irányítást az Érc bánya felett. Ez napi két egységnyi ércet fog termelni neked."
+"{Kénbánya}
+
+Átveheted a Kénbánya birtoklását. Innen napi egy egységnyi ként termelhetsz ki."
+"{Kristálybarlang}
+
+Átveheted a Kristálybarlang birtoklását. Innen napi egy egységnyi kristályt termelhetsz ki."
+"{Drágakövek tava}
+
+Átveheted a Drágakõvek tava birtoklását. Innen napi egy egységnyi drágakövet termelhetsz ki."
+"{Aranybánya}
+
+Átveheted az Arany bánya birtoklását. Innen napi 1000 aranyat tudsz kitermelni."
+"{Elhagyott bánya}
+
+Átveheted az Elhagyott bánya birtoklását. Kis szerencsével napi 1000 aranyat tudsz kitermelni innen."
