@@ -40,8 +40,8 @@ Kobold	Kobold	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0
 Manó	Manó	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Lövész.	SHOOTING_ARMY
 Kõ Vízköpõ	Kõ Vízköpõ	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30	Repül. Élettelen.	FLYING_ARMY
 Obszidián Vízköpõ	Obszidián Vízköpõ	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25	Repül. Élettelen.	FLYING_ARMY
-Kõgólem	Kõgólem	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	A rá varázsolt varázslatok 50%-a hat csak.	0
-Vasgólem	Vasgólem	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	A rá varázsolt varázslatok 75%-a hat csak.	0
+Kõ gólem	Kõ gólem	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	A rá varázsolt varázslatok 50%-a hat csak.	0
+Acél gólem	Acél gólem	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	A rá varázsolt varázslatok 75%-a hat csak.	0
 Mágus	Mágus	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	"Lövész. Nincs közelharci/akadály büntetés.
 Csökkenti a varázslás költségét."	SHOOTING_ARMY | const_no_melee_penalty
 Fõmágus	Fõmágus	0	0	0	0	0	0	450	467	680	4	0	30	7	12	9	7	9	24	0	10	16	"Lövész. Nincs közelharci/akadályi büntetés.
@@ -75,7 +75,7 @@ Sátán	Sátán	0	2	0	0	0	0	4500	5243	7115	1	0	200	17	26	28	30	40	0	0	3	8	Teleportál
 																								
 																								
 Csontváz	Csontváz	0	0	0	0	0	0	60	75	60	12	6	6	4	5	4	1	3	0	0	20	50	Élõhalott.	IS_UNDEAD
-Csontvázharcos	Csontvázharcos	0	0	0	0	0	0	70	85	85	12	6	6	5	6	6	1	3	0	0	20	30	Élõhalott.	IS_UNDEAD
+Csontváz harcos	Csontváz harcos	0	0	0	0	0	0	70	85	85	12	6	6	5	6	6	1	3	0	0	20	30	Élõhalott.	IS_UNDEAD
 Feltámasztott	Feltámasztott	0	0	0	0	0	0	100	140	98	8	0	15	3	5	5	2	3	0	0	16	30	Élõhalott.	IS_UNDEAD
 Zombi	Zombi	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	"Élõhalott.
 Betegségeket terjeszt."	IS_UNDEAD
@@ -195,6 +195,6 @@ Troll	Troll	0	0	0	0	0	0	500	1024	1024	3	0	40	7	14	7	10	15	0	0	8	12	Regenerálódik
 																								
 Katapult	Katapult	0	0	0	0	0	0	1	10	500	0	0	1000	0	10	10	0	0	24	0	0	0	Ostromnál a falat lehet vele lõni.	DOUBLE_WIDE | SHOOTING_ARMY | CATAPULT | SIEGE_WEAPON
 Nyílvetõgép	Nyílvetõgép	0	0	0	0	0	0	2500	650	600	0	0	250	0	10	10	2	3	24	0	0	0	Löveg.	DOUBLE_WIDE | SHOOTING_ARMY | SIEGE_WEAPON
-Elsõsegélysátor	Elsõsegélysátor	0	0	0	0	0	0	750	10	300	0	0	75	0	0	0	0	0	0	0	0	0	Katonáid tudod vele gyógyítani.	DOUBLE_WIDE | SIEGE_WEAPON
+Elsõsegély-sátor	Elsõsegély-sátor	0	0	0	0	0	0	750	10	300	0	0	75	0	0	0	0	0	0	0	0	0	Katonáid tudod vele gyógyítani.	DOUBLE_WIDE | SIEGE_WEAPON
 Lõszeresszekér	Lõszeresszekér	0	0	0	0	0	0	1000	5	400	0	0	100	0	0	5	0	0	0	0	0	0	A távolra támadó katonáid nem fogynak ki lõszerbõl.	SIEGE_WEAPON
 Lövegtorony	Lövegtorony	0	0	0	0	0	0	1000	5	400	0	0	100	0	10	5	2	4	99	0	0	0	Löveg. Végtelen lõszer. Nincs távolsági/akadály büntetés. Ignorálja a célpont védelmét.	SIEGE_WEAPON

@@ -102,9 +102,9 @@ Vízköpõk	Egység Bónusz: Vízköpõk	"{Kõ és Obszidián Vízköpõk}
 Dzsinnek	Egység Bónusz: Dzsinnek	"{Dzsinnek és a Mesterdzsinnek}
 
 5 szintenként növeli a Dzsinnek és a Mesterdzsinnek Támadását, és Védelmét 5%-kal."
-Gólemek	Egység Bónusz: Gólemek	"{ Kõ és Vasgólemek}
+Gólemek	Egység Bónusz: Gólemek	"{ Kõ és acél gólemek}
 
-5 szintenként növeli a Kõ és Vasgólemek Támadását, és Védelmét 5%-kal."
+5 szintenként növeli a kõ és acél gólemek támadását, és védelmét 5%-kal."
 Páncélzat	Másodlagos képzettség bónusz: Páncélzat	"{ Páncélzat}
 
 Szintenként 5%-kal növeli a Páncélzat képzettséget."

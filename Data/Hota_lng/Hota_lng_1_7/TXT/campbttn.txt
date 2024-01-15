@@ -77,9 +77,9 @@ A kincstárad +10000 arannyal lesz gazdagabb kezdéskor"
 
 35 Királyi Griffet kapsz kezdéskor
 (helyõrségben elhelyezve)"
-"{Vasgólemek}
+"{Acél gólemek}
 
-35 Vasgólemet kapsz kezdéskor
+35 Acél gólemet kapsz kezdéskor
 (helyõrségben elhelyezve)"
 "{Nemestündék}
 

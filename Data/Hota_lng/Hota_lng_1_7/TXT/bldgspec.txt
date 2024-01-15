@@ -44,7 +44,7 @@ A Tûz Istene	A Tûz Istene növeli a heti lényszaporulatot 50%-kal, napi további 5
 Nyersanyagraktár	A Nyersanyagraktár napi +1 higanyt ad.	
 A Sötétség Fátyla	A Sötétség Fátyla tartósan eltakarja a várad környékét a többi játékos elõl.	
 Kihantolt Sírok	A Kihantolt Sírok növelik a heti Csontváz-szaporulatot 6-tal.	
-Kihantolt Sírok	A Kihantolt Sírok növelik a heti Csontvázharcos-szaporulatot 6-tal.	
+Kihantolt Sírok	A Kihantolt Sírok növelik a heti Csontváz harcos-szaporulatot 6-tal.	
 Hajógyár	A Hajógyárban hajókat vásárolhatsz.	
 Nekromancia Erõsítõ	Minden Nekromanciával rendelkezõ hõsödnek növeli ezt a szakértelmét 10%-kal.	
 Csontváz-átalakító	A Csontváz-átalakítóban bármilyen lényt csontvázzá alakíthatsz át.	

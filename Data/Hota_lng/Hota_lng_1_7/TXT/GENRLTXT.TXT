@@ -459,7 +459,7 @@ Egység Információ
 Egységek		
 Varázslatok		
 Katapult		
-Elsõsegélysátor		
+Elsõsegély-sátor		
 Minden statisztika		
 Csak a varázslatok		
 Hexarács mutatása		

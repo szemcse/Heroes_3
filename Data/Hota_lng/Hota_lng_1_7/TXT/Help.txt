@@ -610,7 +610,7 @@ AUTO_BALLISTA_ID,	"{Nyílvetõ}
 A harc során a támadógép csapatai eldöntik, hogy mely ellenséges egységeket veszik célba. Ha a tüzérségi készséged elég magas, képes leszel saját magad irányítani a támadógép tüzét.
 
 Ezzel a beállítással automatikus harcban a gép fogja kiválasztani a Nyílvetõ célpontját, még ha a hõsöd rendelkezik is a Tüzérség tudással."	
-AUTO_FIRST_AID_TENT_ID,	"{Elsõsegélysátor}
+AUTO_FIRST_AID_TENT_ID,	"{Elsõsegély-sátor}
 
 A harc során az elsõsegélynyújtó csapatok választják ki, kit kell meggyógyítani. Ha az elsõsegélynyújtási készséged elég magas, akkor magad irányíthatod az elsõsegélynyújtó sátrat.
 

@@ -915,18 +915,18 @@ A Víz Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 3) Víz Elemen
 
 A Víz Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 4) Víz Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Víz Elementálok a csata végéig szolgálnak majd.
 "	 COMBAT_SPELL
-Levegõ Elementál	Levegõ Elementál	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Levegõ Elementál Idézés}
+Lég Elementál	Lég Elementál	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Lég Elementál Idézés}
 
-A Levegõ Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Levegõ Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Levegõ Elementálok a csata végéig szolgálnak majd.
-"	"{Alap Levegõ Elementál Idézés}
+A Lég Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Lég Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Lég Elementálok a csata végéig szolgálnak majd.
+"	"{Alap Lég Elementál Idézés}
 
-A Levegõ Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Levegõ Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Levegõ Elementálok a csata végéig szolgálnak majd.
-"	"{Haladó Levegõ Elementál Idézés}
+A Lég Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Lég Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Lég Elementálok a csata végéig szolgálnak majd.
+"	"{Haladó Lég Elementál Idézés}
 
-A Levegõ Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 3) Levegõ Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Levegõ Elementálok a csata végéig szolgálnak majd.
-"	"{Mester Levegõ Elementál Idézés}
+A Lég Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 3) Lég Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Lég Elementálok a csata végéig szolgálnak majd.
+"	"{Mester Lég Elementál Idézés}
 
-A Levegõ Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 4) Levegõ Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Levegõ Elementálok a csata végéig szolgálnak majd.
+A Lég Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 4) Lég Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Lég Elementálok a csata végéig szolgálnak majd.
 "	 COMBAT_SPELL
 																																	
 Egység képességek																																	

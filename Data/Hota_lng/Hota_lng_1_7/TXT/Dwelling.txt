@@ -35,7 +35,7 @@ Arany pavilon	Az Arany pavilonban Nagákat vásárolhatsz.
 Fellegvár	A Fellegvárban Óriásokat vásárolhatsz.
 Fejl. Mûhely	A Fejlesztett Mûhelyben Manókat vásárolhatsz.
 Fejl. Korlátfal 	A Fejlesztett Korlátfalnál Obszidián Vízköpõket vásárolhatsz.
-Fejl. Gólem gyár	A Fejlesztett Gólem gyárban Vasgólemeket vásárolhatsz.
+Fejl. Gólem gyár	A Fejlesztett gólem gyárban vasgólemeket vásárolhatsz.
 Fejl. Varázsló torony	A Fejlesztett Varázsló toronyban Fõmágusokat vásárolhatsz.
 Fejl. Kívánság oltára	A Fejlesztett Kívánság oltáránál Mesterdzsinneket vásárolhatsz.
 Fejl. Arany pavilon	A Fejlesztett Arany pavilonban Naga királynõt vásárolhatsz.
@@ -61,7 +61,7 @@ Sírkamra	A Sírkamránál Vámpírokat vásárolhatsz.
 Mauzóleum	A Mauzóleumban Licheket vásárolhatsz.
 Sötétség csarnoka	A Sötétség csarnokánál Fekete Lovagokat vásárolhatsz.
 Sárkány pince 	A Sárkány pincében Csontsárkányokat vásárolhatsz.
-F. Átkozottak temploma	A Fejlesztett Átkozottak templománál Csontvázharcosokat vásárolhatsz.
+F. Átkozottak temploma	A Fejlesztett átkozottak templománál csontváz harcosokat vásárolhatsz.
 Fejl. Sírkert	A Fejlesztett Sírkertben Zombikat vásárolhatsz.
 Fejl. Lelkek sírboltja	A Fejlesztett Lelkek sírboltjánál Kísérteteket vásárolhatsz.
 Fejl. Uradalom	A Fejlesztett Uradalomnál Vámpírurakat vásárolhatsz.
