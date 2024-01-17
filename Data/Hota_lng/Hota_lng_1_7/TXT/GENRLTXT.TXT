@@ -704,7 +704,7 @@ A hõsöd nem tanulhat több szakértelmet.
 A(z) %s %s %d aranyba fog kerülni		
 "Felhúzott szemöldökkel és egy apró mosollyal az arcán, a tanító tájékoztatott:, ""A(z) %s %s oktatásának tandíja %d arany."""		
 %s vásárlása		
-"%s, hatóidõ: %d kör."		
+"%s, hatásának ideje: %d kör."		
 Világtérkép		
 Város		
 Hõs		
@@ -777,7 +777,7 @@ Nincs aktív varázslat
 Rangod"		
 A tó még semmit sem állított elõ.		
 A tó ezen a héten %d %s-t állított elõ.		
-"%s, hatóidõ: %s."		
+"%s, hatásának ideje: %s."		
 az Ent elmozdulásáig vagy haláláig		
 a következõ támadásig		
 a csata végéig		

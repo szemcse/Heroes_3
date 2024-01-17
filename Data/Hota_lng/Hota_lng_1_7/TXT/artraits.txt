@@ -18,9 +18,9 @@ A Nyílvetõvel a csata során tudod sebezni az ellenségeid."
 Muníció Szekér	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Muníció Szekér}
 
 Ha a Muníció Szekér a csata közben a rendelkezésedre áll, akkor a távolsági támadás során nem fogysz ki a lõszerbõl."
-Elsõsegély Sátor 	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Elsõsegély Sátor}
+Elsõsegély-sátor 	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Elsõsegély-sátor}
 
-Az Elsõsegély Sátorral a csata során minden körben gyógyítani tudod a harcosaidat."
+Az Elsõsegély-sátorral a csata során minden körben gyógyítani tudod a harcosaidat."
 Kentaur Fejsze	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	T	"{Kentaur Fejsze}
 
 Ez a jobb kezes fegyver növeli a Támadási Értéked +2-vel."

@@ -1,7 +1,7 @@
 Campaign Choice Button Right Click
-"{Elsõsegély Sátor}
+"{Elsõsegély-sátor}
 
-A kezdõ hõsöd Elsõsegély Sátorral kezd"
+A kezdõ hõsöd Elsõsegély-sátorral kezd"
 "{Lándzsások}
 
 A kezdõ hõsöd +14 Lándzsással kezd"

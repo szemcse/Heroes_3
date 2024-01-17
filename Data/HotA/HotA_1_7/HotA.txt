@@ -29,8 +29,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "pirt"
 Text 2: "CPR3UP.def"
-Text 3: "Tengeri Medve"
-Text 4: "Tengeri Medve"
+Text 3: "Tengeri medve"
+Text 4: "Tengeri medve"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -52,8 +52,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "lcrs"
 Text 2: "clcbow.def"
-Text 3: "Elektromos Torony"
-Text 4: "Elektromos Torony"
+Text 3: "Elektromos torony"
+Text 4: "Elektromos torony"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -259,8 +259,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "sorc"
 Text 2: "cpriest.def"
-Text 3: "Tengeri Boszorka"
-Text 4: "Tengeri Boszorka"
+Text 3: "Tengeri boszorka"
+Text 4: "Tengeri boszorka"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -328,8 +328,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "nixx"
 Text 2: "cnixwarr.DEF"
-Text 3: "Nix Harcos"
-Text 4: "Nix Harcos"
+Text 3: "Nix harcos"
+Text 4: "Nix harcos"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -351,8 +351,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "aspi"
 Text 2: "cserpent.DEF"
-Text 3: "Tengeri Kígyó"
-Text 4: "Tengeri Kígyó"
+Text 3: "Tengeri kígyó"
+Text 4: "Tengeri kígyó"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -466,8 +466,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "SLGL"
 Text 2: "Cstlgole.def"
-Text 3: "Acél Gólem"
-Text 4: "Acél Gólem"
+Text 3: "Acél gólem"
+Text 4: "Acél gólem"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -489,8 +489,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "half"
 Text 2: "CHALFB.def"
-Text 3: "Félszerzet Gránátos"
-Text 4: "Félszerzet Gránátos"
+Text 3: "Félszerzet gránátos"
+Text 4: "Félszerzet gránátos"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -581,8 +581,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "arma"
 Text 2: "CBLWARM.def"
-Text 3: "Vezér Tatu"
-Text 4: "Vezér Tatu"
+Text 3: "Vezér tatu"
+Text 4: "Vezér tatu"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -604,8 +604,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "auto"
 Text 2: "CAUTO.def"
-Text 3: "Robot Bogár"
-Text 4: "Robot Bogár"
+Text 3: "Robot"
+Text 4: "Robot"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -627,8 +627,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "auto"
 Text 2: "CHAUTO.def"
-Text 3: "Õrszem Robot Bogár"
-Text 4: "Õrszem Robot Bogár"
+Text 3: "Õrrobot"
+Text 4: "Õrrobot"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -673,8 +673,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "worm"
 Text 2: "COLGOI.def"
-Text 3: "Mongol Halálféreg"
-Text 4: "Mongol Halálféreg"
+Text 3: "Mongol halálféreg"
+Text 4: "Mongol halálféreg"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -696,8 +696,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "guns"
 Text 2: "CGNSLING.def"
-Text 3: "Fegyverforgató"
-Text 4: "Fegyverforgató"
+Text 3: "Mesterlövész"
+Text 4: "Mesterlövész"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -765,8 +765,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "cñot"
 Text 2: "RCOUATL.def"
-Text 3: "Bíbor Tollaskígyó"
-Text 4: "Bíbor Tollaskígyó"
+Text 3: "Bíbor tollaskígyó"
+Text 4: "Bíbor tollaskígyó"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -899,7 +899,8 @@ Text 5: "{Viharmadarak és Ayssidek}
 4 szintenként növeli a Viharmadarak vagy az Ayssidek Támadását és Védelmét 5%-kal.(felfelé kerekítve)"
 Text 6: "Illor"
 Text 7: "Illor elmenekült AvLee-bõl, miután a rokonai nem bírták tovább elviselni a nagyképû viselkedését. Az égbolt imádata a légi lények megszállottságához vezetett. Egy kalózhajó kapitányaként találta magát, de viselkedését hamar megunta a legénység. Egy olyan szigeten rekedt, ahol óriási repülõ fenevadak tettek fészket, Illor végül néhány év után megszelídítette az églakókat.
-"Text 8: ""
+"
+Text 8: ""
 Has FilS: "true"
 FilS size: 92
 FilS: "00 00 00 00 03 00 00 00 12 00 00 00 17 00 00 00 01 00 00 00 13 00 00 00 01 00 00 00 00 00 00 00 ff ff ff ff 99 00 00 00 9f 00 00 00 9d 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 0f 00 00 00 19 00 00 00 03 00 00 00 05 00 00 00 04 00 00 00 07 00 00 00"
@@ -1507,7 +1508,7 @@ Text 5: "{Félszerzetek és Félszerzet gránátosok}
 
 Növeli bármely Félszerzetek vagy Félszerzet gránátosok sebességét 1-gyel, és 5%-kal támadási és védekezési képességeiket minden szinten (felfelé kerekítve)."
 Text 6: "Henrietta"
-Text 7: "Even a humble Félszerzet from the Eeofol backwoods is capable of a feat when an unprecedented calamity knocks at the door. The new world, devoid of thatched roofs, carrot beds, or the incessant grumbling of geezers, has changed Henrietta, and she is now ready to change it herself. Kreegan fire reduced her homeland to ashes and scorched her heart, but she used it to forge herself a steel will."
+Text 7: "Még egy szerény Eeofol-hátországából származó Félszerzet is képes a bravúrra, amikor is egy példátlan csapás kopogtat az ajtaján. Az új világ, melyben nincsenek nádtetõk, répaágyások, vagy a vénemberek szüntelen morgása, megváltoztatta Henriettát, és Õ most már kész arra, hogy maga is megváltozon. A kreegani tûz hamuvá tette a hazáját, és megperzselte a szívét is, de Õ arra használta e fájdalmat, hogy acélos akaratot kovácsoljon magának."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1534,9 +1535,9 @@ Text 3: "Szerelõk"
 Text 4: "Egység bónusz: Szerelõk"
 Text 5: "{Szerelõk és Mérnökök}
 
-Increases Speed of any Szerelõ or Mérnök by 1 and their Attack and Defense skills by 5% for every 2 levels (rounded up)."
+Növeli bármely Szerelõ vagy Mérnök sebességét 1-gyel, és 5%-kal támadási és védekezési képességeiket minden szinten (felfelé kerekítve)."
 Text 6: "Sam"
-Text 7: "Since ancient times, earth oil had wreaked havoc on the farmers of Jadame, erupting in fountains and laying waste to their crops and pastures. Sam, the daughter and apprentice of a skilled blacksmith, was the first to tame this black beast by forcing it into a pipe and making it heat her forge. Her inventions made earth oil into Burton's blood, food, and arms."
+Text 7: "A földolaj õsidõk óta pusztítást végzett Jadame földmûvesei között, szökõkutakban tört ki, és pusztította el a termést és a legelõket. Sam, egy képzett kovács lánya és tanítványa volt. Az elsõ, aki megszelídítette ezt a fekete szörnyeteget, amikor egy csõbe kényszerítette azt, és azzal fûtötte a kovácsmûhelyét. Találmányaival földi olajat csinált Burton vérébe, ételébe és fegyverébe."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -1737,7 +1738,7 @@ Text 3: "Tatuk"
 Text 4: "Egység bónusz: Tatuk"
 Text 5: "{Tatuk és Vezér Tatuk}
 
-Increases Speed of any Tatu or Vezér Tatu by 1 and their Attack and Defense skills by 5% for every 3 levels (rounded up)."
+Növeli bármely Tatu or Vezér tatu by 1 and their Attack and Defense skills by 5% for every 3 levels (rounded up)."
 Text 6: "Celestine"
 Text 7: "The AvLeean druid, who had lost his grove, traversed the world, imparting knowledge on anyone who sought it. He left the secrets of natural magic and his daughter Mirlanda in Tatalia, while in Eeofol, Celestine was born, inheriting another facet of his talent. Her father taught her how to tame the most violent beasts, offering them friendship, rather than the Tatalian beastmasters' trademark ruthless treatment."
 Text 8: ""
@@ -1766,7 +1767,7 @@ Text 3: "Robot Bogarak"
 Text 4: "Egység bónusz: Robot Bogarak"
 Text 5: "{Robot Bogarak és Õrszem Robot Bogarak}
 
-Increases Speed of any Robot Bogár or Õrszem Robot Bogár by 1 and their Attack and Defense skills by 5% for every 4 levels (rounded up)."
+Növeli bármely Robot or Õrrobot by 1 and their Attack and Defense skills by 5% for every 4 levels (rounded up)."
 Text 6: "Todd"
 Text 7: "Few Bracada scientists have actually seen, let alone handled, a hammer or a furnace. Todd, however, had to learn how to use them, unable to convey his esoteric ideas to blacksmiths and coppersmiths. There was also a scarcity of instruments and materials vital to his research in Bracada; Todd journeyed halfway around the world in search of them before finding what he sought in Burton."
 Text 8: ""
@@ -1795,7 +1796,7 @@ Text 3: "Homokférgek"
 Text 4: "Egység bónusz: Homokférgek"
 Text 5: "{Homokférgek és Mongol Halálférgek}
 
-Increases Speed of any Homokféreg and Mongol Halálféreg by 1 and their Attack and Defense skills by 5% for every 5 levels (rounded up)."
+Növeli bármely Homokféreg and Mongol halálféreg by 1 and their Attack and Defense skills by 5% for every 5 levels (rounded up)."
 Text 6: "Agar"
 Text 7: "Many thought the warlock Agar a madman, and then a dead man. While the latter has been proven incorrect, there is still no unanimity in Enroth's scientific community on the former. Indeed, Agar's creations are undeniably viable and functional - but could a scientist in his right mind think of instilling such nasty inclinations and proclivities in a living being?"
 Text 8: ""
@@ -1965,11 +1966,11 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Robot Bogár"
-Text 4: "Egység bónusz: Robot Bogár"
-Text 5: "{Robot Bogár and Õrszem Robot Bogár}
+Text 3: "Robot"
+Text 4: "Egység bónusz: Robot"
+Text 5: "{Robot and Õrrobot}
 
-Increases damage dealt by explosion of Robot Bogár and Õrszem Robot Bogár by 5% for every level (rounded up)."
+Increases damage dealt by explosion of Robot and Õrrobot by 5% for every level (rounded up)."
 Text 6: "Frederick"
 Text 7: "Frederick have been living a life of an ordinary Bracadian mage and alchemist, even if he has been a bit more curious than his fellows. Such curiosity made him experiment with mechanisms first, and then conduct forbidden research. As a result, Frederick had to flee from Bracada, and now he searches for a better place to devote himself to what he wants."
 Text 8: ""
@@ -2063,13 +2064,13 @@ Fészek
 Tengerek tornya
 Nix erõd
 Örvény
-Fejl. Nimfa vízesés
-Fejl. Kunyhó
-Fejl. Fregatt
-Fejl. Fészek
-Fejl. Tengerek tornya
-Fejl. Nix erõd
-Fejl. Örvény"
+Fejl. nimfa vízesés
+Fejl. kunyhó
+Fejl. fregatt
+Fejl. fészek
+Fejl. tengerek tornya
+Fejl. nix erõd
+Fejl. örvény"
 Text 8: "A Nimfa vízesésben Nimfákat toborozhatsz.
 A Kunyhóban Matrózokat toborozhatsz.
 A Fregattban Kalózokat toborozhatsz.
@@ -2077,13 +2078,13 @@ A Fészekben Viharmadarakat toborozhatsz.
 A Tengerek tornyában Tengeri Boszorkákat toborozhatsz.
 A Nix erõdben Nixeket toborozhatsz.
 Az Örvényben Tengeri Kígyókat toborozhatsz.
-A Fejl. Nimfa vízesésben Ókeaniszokat toborozhatsz.
-A Fejl. Kunyhóban Tengerészeket toborozhatsz.
-A Fejl. Fregattban Privatéreket toborozhatsz.
-A Fejl. Fészekben Ayssidokat toborozhatsz.
-A Fejl. Tengerek tornyában Boszorkányokat toborozhatsz.
-A Fejl. Nix erõdben Nix Harcosokat toborozhatsz.
-A Fejl. Örvényben Áspisokat toborozhatsz."
+A Fejl. nimfa vízesésben Ókeaniszokat toborozhatsz.
+A Fejl. kunyhóban Tengerészeket toborozhatsz.
+A Fejl. fregattban Privatéreket toborozhatsz.
+A Fejl. fészekben Ayssidokat toborozhatsz.
+A Fejl. tengerek tornyában Boszorkányokat toborozhatsz.
+A Fejl. nix erõdben Nix Harcosokat toborozhatsz.
+A Fejl. örvényben Áspisokat toborozhatsz."
 Has FilS: "true"
 FilS size: 392
 FilS: "05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 2c 01 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 d0 07 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 b8 0b 00 00 05 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 0f 00 00 0f 00 00 00 00 00 00 00 0f 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 98 3a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 dc 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 dc 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 d0 07 00 00 05 00 00 00 00 00 00 00 05 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 b8 0b 00 00 0f 00 00 00 00 00 00 00 0f 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 98 3a 00 00"
@@ -2112,8 +2113,8 @@ Hajógyár
 Puskapor raktár
 Tolvajok céhe
 Barlang
-Kakasülõ
-Kakasülõ
+Fészkelõhelyek
+Fészkelõhelyek
 Vezércsillag
 Nyersanyagraktár"
 Text 8: "Unused.
@@ -2123,8 +2124,8 @@ A Hajógyárban hajókat vásárolhatsz.
 A Puskapor raktár lehetõvé teszi Tengeri medvék toborozását.
 A tolvajok céhe további információkat árul el a kocsmában lévõ ellenségrõl.
 A barlang lehetõvé teszi, hogy lényeket vagy tárgyakat áldozz fel tapasztalatért cserébe.
-A Kakasülõ növeli a heti Viharmadár-szaporulatot 3-mal.
-A Kakasülõ növeli a heti Ayssid-szaporulatot 3-mal.
+A Fészkelõhelyek növelik a heti Viharmadár-szaporulatot 3-mal.
+A Fészkelõhelyek növelik a heti Ayssid-szaporulatot 3-mal.
 A Vezércsillag növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba és továbbá minden földet honossá tesz a Cove teremtményei számára.
 A Nyersanyagraktár napi +1 ként ad."
 Has FilS: "true"
@@ -2155,13 +2156,13 @@ Gyár
 Katakombák
 Õrtorony
 Tollaskígyó fészek
-Fejl. Félszerzet vályogház
-Fejl. Öntöde
-Fejl. Tanya
-Fejl. Gyár
-Fejl. Katakombák
-Fejl. Õrtorony
-Fejl. Tollaskígyó fészek"
+Fejl. félszerzet vályogház
+Fejl. öntöde
+Fejl. tanya
+Fejl. gyár
+Fejl. katakombák
+Fejl. õrtorony
+Fejl. tollaskígyó fészek"
 Text 8: "A Félszerzet vályogházban Félszerzeteket toborozhatsz.
 Az Öntödében Szerelõket toborozhatsz.
 A Tanyán Tatukat toborozhatsz.
@@ -2169,13 +2170,13 @@ A Manufaktúrában Robot Bogarakat toborozhatsz.
 A Katakombákban Homokférgeket toborozhatsz.
 Az Õrtoronyban Fegyverforgatókat toborozhatsz.
 A Tollaskígyó fészekben Tollaskígyókat toborozhatsz.
-A Fejl. Félszerzet vályogházban Félszerzet Gránátosokat toborozhatsz.
-A Fejl. Öntödében Mérnököket toborozhatsz.
-A Fejl. Tanyán Vezér Tatukat toborozhatsz.
-A Fejl. Manufaktúrában Õrszem Robot Bogarakat toborozhatsz.
-A Fejl. Katakombákban Mongol Halálférgeket toborozhatsz.
-A Fejl. Õrtoronyban Fejvadászokat toborozhatsz.
-A Fejl. Tollaskígyó fészekben Bíbor Tollaskígyókat toborozhatsz."
+A Fejl. félszerzet vályogházban Félszerzet Gránátosokat toborozhatsz.
+A Fejl. öntödében Mérnököket toborozhatsz.
+A Fejl. tanyán Vezér Tatukat toborozhatsz.
+A Fejl. manufaktúrában Õrszem Robot Bogarakat toborozhatsz.
+A Fejl. katakombákban Mongol Halálférgeket toborozhatsz.
+A Fejl. õrtoronyban Fejvadászokat toborozhatsz.
+A Fejl. tollaskígyó fészekben Bíbor Tollaskígyókat toborozhatsz."
 Has FilS: "true"
 FilS size: 392
 FilS: "05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 90 01 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 b8 0b 00 00 05 00 00 00 05 00 00 00 05 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 a0 0f 00 00 0a 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 10 27 00 00 00 00 00 00 02 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 05 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 d0 07 00 00 0a 00 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 b8 0b 00 00 0a 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 98 3a 00 00"
@@ -2203,18 +2204,18 @@ Text 7: "Mûtárgykereskedõ
 Mana Generátor
 Bank
 Mûhely
-A Fejl. Mûhely
+A Fejl. mûhely
 Unused
 Unused
 Villámhárító
 Nyersanyagraktár"
 Text 8: "For a nominal fee, you can purchase artifacts from the Mûtárgykereskedõ.
 The Ólak increases Tatu production by 3 per week.
-The Ólak increases Vezér Tatu production by 3 per week.
+The Ólak increases Vezér tatu production by 3 per week.
 The Mana Generátor gives a garrison hero 20 additional spell points during any siege defense (these spell points do not follow a hero who leaves the town).
 A Bank lehetõvé teszi, hogy egyszerre 2500 arany kölcsönt lehessen felvenni, de 500-al csökkenti a város aranybevételét használatakor 5 napon belül.
 The Mûhely allows you to recruit Rettenthetetlen.
-The A Fejl. Mûhely allows you to recruit Pusztító.
+The A Fejl. mûhely allows you to recruit Pusztító.
 Unused
 Unused
 The Villámhárító increases weekly creature generation by 50% and provides your kingdom with an additional 5000 Arany naponta, also striking all enemies with the lightning at the first round of every battle (the damage is based on town building count).
@@ -2303,7 +2304,7 @@ Name: "class21"
 Path: "Classes\class21.str"
 Texts count: "9"
 Text 0: ""
-Text 1: "Irányító"
+Text 1: "Fegyvermester"
 Text 2: ""
 Text 3: ""
 Text 4: ""
@@ -2794,9 +2795,9 @@ Exploded %s
 #191
 Exploded %s
 #192
-You enter the bank. A banker sees you and says: """"We have made a special offer for you. You can take a loan of %d gold from us for %d days. You will have to repay %d gold every day"""".
+Amint belépsz a bankba észrevesz a bankár, majd odasiet hozzád készségesen. Azt mondja: """"Üdvözlöm újra nálunk! Volna egy különleges ajánlatunk az Ön számára! Most %d arany kamatmentes kölcsönt vehet fel %d napos futamidõvel. Így Önnek naponta %d aranyat kell csak visszafizetnie"""".
 #193
-You enter the bank. A banker sees you and says: """"You have already got your loan. Pay it back before taking a new one.""""
+Amint belépsz a bankba észrevesz a bankár, majd odasiet hozzád készségesen. Azt mondja: """"Üdvözlöm újra nálunk! Már megkapta a kölcsönt. Fizesse vissza, mielõtt újat venne fel.""""
 #194
 Scroll %s
 #195
@@ -7176,7 +7177,7 @@ Decreases enemy's Luck by 1.""
 
 5
 154
-""Shaman's Puppet
+""Vudu baba
 Class: Minor.
 Decreases enemy's Luck by 2.""
 
@@ -7265,18 +7266,18 @@ Allows hero to fly over water and obstacles.""
 16
 22
 ""Temple of the Sea
-- 30% Fight 8 Hydras, 6 Tengeri Kígyó, 3 Chaos Hydras, and 2 Áspis for 10000 gold and 2 Treasure Artifacts, 1 Minor Artifact, and 1 Relic Artifact.
-- 30% Fight 8 Hydras, 7 Tengeri Kígyó, 4 Chaos Hydras, and 3 Áspis for 15000 gold and 1 Treasure Artifact, 1 Minor Artifacts, 1 Major Artifact, and 1 Relic Artifact.
-- 30% Fight 8 Hydras, 7 Tengeri Kígyó, 5 Chaos Hydras, and 4 Áspis for 20000 gold and 1 Minor Artifact, 2 Major Artifacts, and 1 Relic Artifact.
-- 10% Fight 10 Hydras, 9 Tengeri Kígyó, 6 Chaos Hydras, and 5 Áspis for 30000 gold and 2 Major Artifacts, and 2 Relic Artifacts.""
+- 30% Fight 8 Hydras, 6 Tengeri kígyó, 3 Chaos Hydras, and 2 Áspis for 10000 gold and 2 Treasure Artifacts, 1 Minor Artifact, and 1 Relic Artifact.
+- 30% Fight 8 Hydras, 7 Tengeri kígyó, 4 Chaos Hydras, and 3 Áspis for 15000 gold and 1 Treasure Artifact, 1 Minor Artifacts, 1 Major Artifact, and 1 Relic Artifact.
+- 30% Fight 8 Hydras, 7 Tengeri kígyó, 5 Chaos Hydras, and 4 Áspis for 20000 gold and 1 Minor Artifact, 2 Major Artifacts, and 1 Relic Artifact.
+- 10% Fight 10 Hydras, 9 Tengeri kígyó, 6 Chaos Hydras, and 5 Áspis for 30000 gold and 2 Major Artifacts, and 2 Relic Artifacts.""
 
 16
 23
 ""Kalóz Cavern
-- 30% Fight 20 Kalóz and 20 Privatér to receive 1 Tengeri Kígyó into your army's ranks.
-- 30% Fight 40 Kalóz and 40 Privatér to receive 2 Tengeri Kígyó into your army's ranks.
-- 30% Fight 60 Kalóz and 60 Privatér to receive 3 Tengeri Kígyó into your army's ranks.
-- 10% Fight 80 Kalóz and 80 Privatér to receive 4 Tengeri Kígyó into your army's ranks.""
+- 30% Fight 20 Kalóz and 20 Privatér to receive 1 Tengeri kígyó into your army's ranks.
+- 30% Fight 40 Kalóz and 40 Privatér to receive 2 Tengeri kígyó into your army's ranks.
+- 30% Fight 60 Kalóz and 60 Privatér to receive 3 Tengeri kígyó into your army's ranks.
+- 10% Fight 80 Kalóz and 80 Privatér to receive 4 Tengeri kígyó into your army's ranks.""
 
 16
 24
@@ -7328,10 +7329,10 @@ Fight 90 Zombies for 2500 gold and 1 Minor Artifact.
 16
 30
 ""Experimental Shop
-- 30% Fight 25 Acél Gólem to receive 1 Giant into your army's ranks.
-- 30% Fight 50 Acél Gólem to receive 2 Giants into your army's ranks.
-- 30% Fight 75 Acél Gólem to receive 3 Giants into your army's ranks.
-- 10% Fight 100 Acél Gólem to receive 4 Giants into your army's ranks.""
+- 30% Fight 25 Acél gólem to receive 1 Giant into your army's ranks.
+- 30% Fight 50 Acél gólem to receive 2 Giants into your army's ranks.
+- 30% Fight 75 Acél gólem to receive 3 Giants into your army's ranks.
+- 10% Fight 100 Acél gólem to receive 4 Giants into your army's ranks.""
 
 16
 31
@@ -7354,7 +7355,7 @@ If Ruins are already visited, shroud is removed anyway.""
 17
 91
 ""Maelstrom
-Tengeri Kígyó egységek lakása.""
+Tengeri kígyó egységek lakása.""
 
 17
 92
@@ -7379,7 +7380,7 @@ Viharmadár egységek lakása.""
 17
 96
 ""Tower of the Seas
-Tengeri Boszorka egységek lakása.""
+Tengeri boszorka egységek lakása.""
 
 17
 97
@@ -7389,7 +7390,7 @@ Nix egységek lakása.""
 17
 98
 ""Maelstrom
-Tengeri Kígyó egységek lakása.""
+Tengeri kígyó egységek lakása.""
 
 17
 99
@@ -7429,7 +7430,7 @@ Tatu egységek lakása.""
 17
 106
 ""Gyár
-Robot Bogár egységek lakása.""
+Robot egységek lakása.""
 
 17
 107
@@ -7439,7 +7440,7 @@ Homokféreg egységek lakása.""
 17
 108
 ""Watchtower
-Fegyverforgató egységek lakása.""
+Mesterlövész egységek lakása.""
 
 17
 109
@@ -7468,7 +7469,7 @@ Factory might hero.""
 
 34
 21
-""Irányító 
+""Fegyvermester 
 Factory magic hero.""
 
 35
@@ -7498,7 +7499,7 @@ Points a place of a final battle on an arena map. The defending hero must stay a
 
 54
 151
-""Tengeri Medve
+""Tengeri medve
 Additional upgrade of level 3 Cove creature.
 Quantity: 12-20.""
 
@@ -7552,7 +7553,7 @@ Quantity: 10-16.""
 
 54
 161
-""Tengeri Boszorka
+""Tengeri boszorka
 Level 5 Cove creature.
 Quantity: 8-16.""
 
@@ -7570,13 +7571,13 @@ Quantity: 5-12.""
 
 54
 164
-""Nix Harcos
+""Nix harcos
 Upgraded level 6 Cove creature.
 Quantity: 5-10.""
 
 54
 165
-""Tengeri Kígyó
+""Tengeri kígyó
 Level 7 Cove creature.
 Quantity: 4-10.""
 
@@ -7606,13 +7607,13 @@ Quantity: 16-25.""
 
 54
 170
-""Acél Gólem	
+""Acél gólem	
 Level 4 Neutral creature.
 Quantity: 10-16.""
 
 54
 171
-""Félszerzet Gránátos
+""Félszerzet gránátos
 Upgraded level 1 Factory creature.
 Quantity: 20-30.""
 
@@ -7636,19 +7637,19 @@ Quantity: 12-25.""
 
 54
 175
-""Vezér Tatu
+""Vezér tatu
 Upgraded level 3 Factory creature.
 Quantity: 12-20.""
 
 54
 176
-""Robot Bogár
+""Robot
 Level 4 Factory creature.
 Quantity: 10-20.""
 
 54
 177
-""Õrszem Robot Bogár
+""Õrrobot
 Upgraded level 4 Factory creature.
 Quantity: 10-16.""
 
@@ -7660,13 +7661,13 @@ Quantity: 8-16.""
 
 54
 179
-""Mongol Halálféreg
+""Mongol halálféreg
 Upgraded level 5 Factory creature.
 Quantity: 8-12.""
 
 54
 180
-""Fegyverforgató
+""Mesterlövész
 Level 6 Factory creature.
 Quantity: 5-12.""
 
@@ -7684,7 +7685,7 @@ Quantity: 4-10.""
 
 54
 183
-""Bíbor Tollaskígyó
+""Bíbor tollaskígyó
 Upgraded level 7 Factory creature.
 Quantity: 3-8.""
 
@@ -8060,7 +8061,7 @@ Artifacts except Spell Scrolls may be sold to Junkman (at the efficiency of 7 ma
 
 144
 8
-""Derrick
+""Fúrótorony
 Week 1 gives 500 gold.
 Each subsequent week is set to give 1000 gold.""
 
@@ -8071,7 +8072,7 @@ Allows exchanging Mercury, Sulfur, Crystal, and Gems in the ratio of one to one.
 
 144
 10
-""Prospector
+""Talajkutató
 - 50% chance to get 500 Gold.
 - 50% chance to get 5 Sulfur.
 
@@ -8626,7 +8627,7 @@ Text 7: "# Stay anim frame period|Fidget anim frame period|Stay&fidget anim véle
 160 130 200 1 -1 # Kõ Vízköpõ
 170 140 200 1 -1 # Obszidián Vízköpõ
 200 190 200 1 -1 # Kõ Gólem
-200 190 200 1 -1 # Acél Gólem
+200 190 200 1 -1 # Acél gólem
 170 160 200 1 -1 # Mágus
 180 165 200 1 -1 # Fõmágus
 90 90 200 1 -1 # Dzsinn
@@ -8745,7 +8746,7 @@ Text 7: "# Stay anim frame period|Fidget anim frame period|Stay&fidget anim véle
 100 100 200 1 -1 # Lövõtorony
 100 100 200 1 -1 # Ágyú
 160 130 200 1 -1 # Tengeri farkas
-145 125 200 1 -1 # Elektromos Torony
+145 125 200 1 -1 # Elektromos torony
 95 95 200 1 -1 # Nimfa
 95 95 200 1 -1 # Ókeanisz
 130 120 200 1 -1 # Matróz
@@ -8754,29 +8755,29 @@ Text 7: "# Stay anim frame period|Fidget anim frame period|Stay&fidget anim véle
 150 140 200 1 -1 # Privatér
 140 130 200 1 -1 # Viharmadár
 150 135 200 1 -1 # Ayssid
-140 130 200 1 -1 # Tengeri Boszorka
+140 130 200 1 -1 # Tengeri boszorka
 140 130 200 1 -1 # Boszorkány
 150 130 200 1-1 # Nix
-150 130 200 1 -1 # Nix Harcos
-150 160 200 1 -1 # Tengeri Kígyó
+150 130 200 1 -1 # Nix harcos
+150 160 200 1 -1 # Tengeri kígyó
 150 165 200 1 -1 # Áspis
 115 75 100 1 -1 # Szatír
 140 100 200 1 -1 # Polipfej
 180 110 200 1 -1 # Kobold
-100 100 200 1 -1 # Acél Gólem
+100 100 200 1 -1 # Acél gólem
 110 100 200 1 95 # Gránátos Félszerzet
 180 100 200 1 -1 # Szerelõ
 180 100 200 1 -1 # Mérnök
 140 85 200 1 -1 # Tatu
-140 85 200 1 -1 # Vezér Tatu
-120 115 200 1 -1 # Robot Bogár
-120 115 200 1 -1 # Õrszem Robot Bogár
+140 85 200 1 -1 # Vezér tatu
+120 115 200 1 -1 # Robot
+120 115 200 1 -1 # Õrrobot
 165 110 200 1 -1 # Homokféreg
-165 110 200 1 -1 # Mongol Halálféreg
-120 100 200 1 -1 # Fegyverforgató
+165 110 200 1 -1 # Mongol halálféreg
+120 100 200 1 -1 # Mesterlövész
 120 100 200 1 -1 # Fejvadász
 125 110 200 1 -1 # Tollaskígyó
-125 110 200 1 -1 # Bíbor Tollaskígyó
+125 110 200 1 -1 # Bíbor tollaskígyó
 150 115 200 1 -1 # Rettenthetetlen
 150 115 200 1 -1 # Pusztító"
 Text 8: " 
@@ -8985,8 +8986,8 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	4	Ágyú
-1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Tengeri Medve
-1.00	1.00	1.00	1.00	38	-65	36	-59	21	-50	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Elektromos Torony
+1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Tengeri medve
+1.00	1.00	1.00	1.00	38	-65	36	-59	21	-50	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Elektromos torony
 1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Nimfa
 1.00	1.00	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Ókeanisz
 1.00	0.87	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Matróz
@@ -8995,29 +8996,29 @@ Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	
 1.00	0.90	1.00	1.00	38	-93	45	-64	21	-35	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Privatér
 1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Viharmadár
 1.00	0.72	1.00	0.80	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Ayssid
-1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	9	Tengeri Boszorka
+1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	9	Tengeri boszorka
 1.00	1.00	1.00	1.00	41	-72	54	-75	29	-14	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	8	Boszorkány
 1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Nix
-1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Nix Harcos
-1.00	0.95	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Tengeri Kígyó
+1.00	1.07	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Nix harcos
+1.00	0.95	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Tengeri kígyó
 1.00	0.95	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Áspis
 1.50	1.00	2.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Szatír
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Polipfej
 1.00	1.20	2.50	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Kobold
-1.00	1.20	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Acél Gólem
+1.00	1.20	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Acél gólem
 1.00	1.40	1.50	1.00	32	-77	36	-36	18	-55	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	10	Gránátos Félszerzet
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Szerelõ
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mérnök
 1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Tatu
-1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Vezér Tatu
-1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Robot Bogár
-1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Õrszem Robot Bogár
+1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Vezér tatu
+1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Robot
+1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Õrrobot
 1.00	1.00	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Homokféreg
-1.00	1.00	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mongol Halálféreg
-1.00	1.80	1.50	1.00	38	-99	60	-78	30	-58	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Fegyverforgató
+1.00	1.00	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mongol halálféreg
+1.00	1.80	1.50	1.00	38	-99	60	-78	30	-58	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Mesterlövész
 1.00	1.80	1.50	1.00	38	-85	46	-70	21	-60	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	7	Fejvadász
 1.00	1.00	0.50	1.30	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Tollaskígyó
-1.00	1.00	2.50	1.30	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Bíbor Tollaskígyó
+1.00	1.00	2.50	1.30	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Bíbor tollaskígyó
 1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Rettenthetetlen
 1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Pusztító
 "
@@ -9731,8 +9732,8 @@ Ice spells can do no harm to the Ókeanisz.
 Ice spells can do no harm to the Ókeanisz.
 Privatér is not the end of what a true Kalóz can achieve!
 Privatér is not the end of what a true Kalóz can achieve!
-Tengeri Medve are accurate shooters. They can slay even a Dragon with one shot.
-Tengeri Medve are accurate shooters. They can slay even a Dragon with one shot.
+Tengeri medve are accurate shooters. They can slay even a Dragon with one shot.
+Tengeri medve are accurate shooters. They can slay even a Dragon with one shot.
 Ayssid are dangerous creatures. Once they feel the taste of blood, they cannot stop.
 Ayssid are dangerous creatures. Once they feel the taste of blood, they cannot stop.
 Boszorkány often cast weakening spells in battle.
@@ -9749,8 +9750,8 @@ They say that the Thieves Guild is cooperating with the Kalóz.
 They say that the lodestars are seen best from the maritime cities.
 They say that the lodestars are seen best from the maritime cities.
 
-They say that Tengeri Kígyó have awakened from the depths and emerged on the lands. They crush everything in their way.
-They say that Tengeri Kígyó have awakened from the depths and emerged on the lands. They crush everything in their way.
+They say that Tengeri kígyó have awakened from the depths and emerged on the lands. They crush everything in their way.
+They say that Tengeri kígyó have awakened from the depths and emerged on the lands. They crush everything in their way.
 Black-sailed ships are being traded in the shore-side Coves.
 Black-sailed ships are being traded in the shore-side Coves.
 Deep in the seas, on the very bottom, a mysterious Horn lies still. It will give you unmatched power.
@@ -9764,12 +9765,12 @@ I've heard the residents of the Factory will build a Villámhárító to honor any h
 
 I've heard the bombs thrown by Félszerzet can break through any armor.
 I've heard the bombs thrown by Félszerzet can break through any armor.
-Szerelõ can rebuild Robot Bogár and Rettenthetetlen even from scrap!
-Szerelõ can rebuild Robot Bogár and Rettenthetetlen even from scrap!
-Some Robot Bogár defeated in battle explode!
-Some Robot Bogár defeated in battle explode!
-Mongol Halálféreg devour the corpses of those fallen in battle.
-Mongol Halálféreg devour the corpses of those fallen in battle.
+Szerelõ can rebuild Robot and Rettenthetetlen even from scrap!
+Szerelõ can rebuild Robot and Rettenthetetlen even from scrap!
+Some Robot defeated in battle explode!
+Some Robot defeated in battle explode!
+Mongol halálféreg devour the corpses of those fallen in battle.
+Mongol halálféreg devour the corpses of those fallen in battle.
 Fejvadász always shoot first.
 Fejvadász always shoot first.
 Tollaskígyó may enter into meditation state becoming invulnerable but only few of them can attack in this state.
@@ -12134,7 +12135,7 @@ Text 7: "# AI values
 25 -1 # Enemy luck bonus, -1 point
 -1
 
-# Shaman's Puppet
+# Vudu baba
 154
 25 -2 # Enemy luck bonus, -2 point
 -1
@@ -12563,13 +12564,13 @@ Name: "art154"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Shaman's Puppet"
+Text 1: "Vudu baba"
 Text 2: "The day looked not so great from the beginning. You walked under the ladder, met a woman with an empty bucket and stepped on a black cat. Apparently, it is not your misfortune, but the guy in rugs who has been following you. You order to seize the loser, but he runs away. As he vanishes, you notice a strange doll that he dropped."
-Text 3: "Enemy has Shaman's Puppet: -2"
+Text 3: "Enemy has Vudu baba: -2"
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "{Shaman's Puppet}
+Text 7: "{Vudu baba}
 
 Decreases enemy's Luck by 2."
 Text 8: "4000 # cost
@@ -14945,17 +14946,17 @@ Name: "actobj008"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Derrick"
+Text 1: "Fúrótorony"
 Text 2: "Genie.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Derrick}
+Text 8: """{Fúrótorony}
 
 The drilling foreman rolls out a cart of valuables. """"We managed to sell our yield at a healthy profit. Hope we'll take in at least as much the next time - come for your share in a week.""""""
-""{Derrick}
+""{Fúrótorony}
 
 The drilling foreman is very busy. You are able to decipher his muttering as a claim that he has nothing to show yet. You've got to drop by again next week."""
 Has FilS: "false"
@@ -14999,19 +15000,19 @@ Name: "actobj010"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Prospector"
+Text 1: "Talajkutató"
 Text 2: "Expernce.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Prospector}
+Text 8: """{Talajkutató}
 
-The tired prospector makes an effort to look tough, but you can see he is afraid of you after all. He is willing to pay you a small sum regularly for the permission to continue mining here.""
-""{Prospector}
+The tired Talajkutató makes an effort to look tough, but you can see he is afraid of you after all. He is willing to pay you a small sum regularly for the permission to continue mining here.""
+""{Talajkutató}
 
-The prospector curses the depleted vein, then wails and begs. Obviously, there's nothing else he can do for you this week."""
+The Talajkutató curses the depleted vein, then wails and begs. Obviously, there's nothing else he can do for you this week."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -18305,3 +18306,4 @@ Val 1: "0"
 Val 2: "0"
 Val 3: "0"
 ------------------------------------------------
+
