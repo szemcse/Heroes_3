@@ -1,0 +1,24 @@
+===== Térkép neve =====
+Tartományok
+
+===== Térkép leírása =====
+A kicsiny és erõforrásokban szegény tartományt hosszú évek óta háború dúlja. Négy fõúr küzd egymással. Ez a föld szûkös és nincs értéke, de egyik fél sem akar lemondani a másiknak a javára. Talán ez most elvi kérdés már mindenki számára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetõ
+Üzenet:
+Ezek a háború által feldúlt, szûkös földek nem valószínû, hogy egy nagy hadsereget el tudnának tartani. Jobb, ha kihasználod az alkalmat, hogy ellenségeid csetepatékkal gyengítik egymást, és csak azután mérj döntõ csapást rájuk, ha már mindenki kivéreztette a másikat.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(22, 12, 0) ***Jel***
+Üzenet:
+A kapu zárva van!
+
+===== Fájl vége =====

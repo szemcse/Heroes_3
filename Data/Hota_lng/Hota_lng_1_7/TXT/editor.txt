@@ -236,7 +236,7 @@ Egy örvény esetén a hajóknak nem tudnak eljutni a kijárathoz. Ez esetben az örvé
 Vigyázz arra, hogy az összes objektum elérhetõ legyen a térképen.
 "	
 OK	
-Elvet	
+Mégse	
 Segítség	
 Általános	
 Nyeremény	
@@ -269,7 +269,7 @@ Hõs osztályának kiválasztása
 Varázslat kiválasztása	
 Egyéni	
 Ecset	
-Felszín típus	
+Felszín típusa	
 Folyó típus	
 Út típus	
 Hatósugár (négyzet):	
@@ -497,7 +497,7 @@ T&apasztalt
 &Két szintû térkép	
 Térkép &neve:	
 &Leírás:	
-&Hõsök tapasztalati szintjének korlátozása:	
+&Hõsök TP szintjének korlátozása:	
 Térkép verzió	
 The &Restoration of Erathia	
 &Armageddon's Blade	
@@ -505,14 +505,14 @@ The &Shadow of Death
 Map Specs Player Specs Page	
 &Játékos:	
 &Hõs generálása a fõvárosnál	
-Csapat tulajdonsága	
+Csapat tulajdonságai	
 &Emberi	
 Számítógép	
 &Viselkedés:	
-Fõvárost birtokol:	
+Fõvárost birtokolja:	
 Megengedett városok:	
-&egyéni	
-&véletlenszerû	
+&Egyéni	
+&Véletlenszerû	
 Cast&le	
 R&ampart	
 &Tower	
@@ -543,7 +543,7 @@ E&semények:
 Felfelé &mozgat	
 Lefelé &mozgat	
 Térkép specifikációk spec. gyõzelmi feltételek oldal	
-gyõzelmi feltétel kiválasztása:	
+Gyõzelmi feltétel kiválasztása:	
 &Nincs speciális gyõzelmi feltétel	
 Egy varázstárgy &megszerzése	
 Lények &felhalmozása	
@@ -575,7 +575,7 @@ H&õs:
 Lé&ny:	
 &Célállomás:	
 Map Specs Special Loss Condition Page	
-vereségi feltétel kiválasztása:	
+Vereségi feltétel kiválasztása:	
 &Nincs speciális vereségi feltétel	
 Egy kijelölt város &elvesztése	
 Egy kijelölt hõs &elvesztése	

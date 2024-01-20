@@ -289,17 +289,17 @@ csapat ({10-19})
 Sok (20-49)
 sok ({20-49})
 50-99
-Horda (50-99) of
-horda ({50-99}) of
+Horda (50-99) -
+horda ({50-99}) -
 100-249
 Tömegével(100-249)
 tömegével ({100-249})
 250-499
-Hadsereg (250-499) of
-hadsereg ({250-499}) of
+Hadsereg (250-499) -
+hadsereg ({250-499}) -
 500-999
 Ezred (500-999)
-ezred ({500-999}) of
+ezred ({500-999}) -
 1000+
 Légió (1000 vagy több)
 légió ({1000 vagy több})
