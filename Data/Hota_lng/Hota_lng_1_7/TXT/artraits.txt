@@ -15,9 +15,9 @@ A Katapultot az ellenséges ostromban a vár ostromához tudod használni."
 Nyílvetõ	2500	 	 	 	 	x		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Nyílvetõ}
 
 A Nyílvetõvel a csata során tudod sebezni az ellenségeid."
-Muníció Szekér	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Muníció Szekér}
+Muníciós Szekér	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Muníciós Szekér}
 
-Ha a Muníció Szekér a csata közben a rendelkezésedre áll, akkor a távolsági támadás során nem fogysz ki a lõszerbõl."
+Ha a Muníciós Szekér a csata közben a rendelkezésedre áll, akkor a távolsági támadás során nem fogysz ki a lõszerbõl."
 Elsõsegély-sátor 	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Elsõsegély-sátor}
 
 Az Elsõsegély-sátorral a csata során minden körben gyógyítani tudod a harcosaidat."
@@ -390,7 +390,7 @@ Végítélet Kard	50000																x				R	"{Végítélet Kard}
 Angyali Szövetség																	x				R	"{Angyali Szövetség}
 
 A Rampart, Tower, Fortress, Stronghold, és a Castle várak teremtményei keverhetõvé válnak Morál Büntetés nélkül, illetve minden csata elején Mester Imádság-ot varázsol."
-Halott király Köpönyege																			x		R	"{Halott király Köpenye}
+Halott Király Köpönyege																			x		R	"{Halott Király Köpenye}
 
 +30% a csatamezõn meghalt lény/skeleton támasztódik fel. Ha a hõs már rendelkezik  Nekromancia Képzettséggel, akkor +30% és szintenként más és más az eredmény. Alap: Zombik
 Haladó: Lelkek
@@ -425,13 +425,13 @@ Mágus Gyûrû													x	x							R	"{Mágus Gyûrû}
 Bõségszaru							x	x	x	x	x										R	"{Bõségszaru}
 
 Naponta minden ásványból +négyet generál."
-Diplomata köpenye																			x		R	"{Diplomata köpenye}
+Diplomata Köpenye																			x		R	"{Diplomata Köpenye}
 
 Ez egy szuperjó tárgy."
-Visszatükrözés medálja															x						R	"{Visszatükrözés medálja}
+Visszatükrözés Medálja															x						R	"{Visszatükrözés Medálja}
 
 Ez egy szuperjó tárgy."
-Ogre vasököl																	x				R	"{Ogre vasököl}
+Ogre Vasököl																	x				R	"{Ogre Vasököl}
 
 Ez egy szuperjó tárgy."
 																						

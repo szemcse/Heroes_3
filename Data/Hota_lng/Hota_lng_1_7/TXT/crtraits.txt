@@ -196,5 +196,5 @@ Troll	Troll	0	0	0	0	0	0	500	1024	1024	3	0	40	7	14	7	10	15	0	0	8	12	Regenerálódik
 Katapult	Katapult	0	0	0	0	0	0	1	10	500	0	0	1000	0	10	10	0	0	24	0	0	0	Ostromnál a falat lehet vele lõni.	DOUBLE_WIDE | SHOOTING_ARMY | CATAPULT | SIEGE_WEAPON
 Nyílvetõgép	Nyílvetõgép	0	0	0	0	0	0	2500	650	600	0	0	250	0	10	10	2	3	24	0	0	0	Löveg.	DOUBLE_WIDE | SHOOTING_ARMY | SIEGE_WEAPON
 Elsõsegély-sátor	Elsõsegély-sátor	0	0	0	0	0	0	750	10	300	0	0	75	0	0	0	0	0	0	0	0	0	Katonáid tudod vele gyógyítani.	DOUBLE_WIDE | SIEGE_WEAPON
-Lõszeresszekér	Lõszeresszekér	0	0	0	0	0	0	1000	5	400	0	0	100	0	0	5	0	0	0	0	0	0	A távolra támadó katonáid nem fogynak ki lõszerbõl.	SIEGE_WEAPON
+Lõszeresszekér	Lõszeresszekér	0	0	0	0	0	0	1000	5	400	0	0	100	0	0	5	0	0	0	0	0	0	A távolra támadó katonáid nem fogynak ki a lõszerbõl.	SIEGE_WEAPON
 Lövegtorony	Lövegtorony	0	0	0	0	0	0	1000	5	400	0	0	100	0	10	5	2	4	99	0	0	0	Löveg. Végtelen lõszer. Nincs távolsági/akadály büntetés. Ignorálja a célpont védelmét.	SIEGE_WEAPON

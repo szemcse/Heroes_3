@@ -731,7 +731,7 @@ Tapasztalati &szint:
 T&ámadási szint:	
 &Védekezési szint:	
 &Varázserõ:	
-&Szakértelem:	
+&Tudás:	
 Hõ&s:	
 L&ény:	
 Varázstárgyak	
@@ -841,7 +841,7 @@ Primary Skills Dialog
 &Támadás:	
 &Védekezés:	
 &Varázserõ:	
-&Szakértelem:	
+&Tudás:	
 Spells Dialog	
 &Varázslatok:	
 Map Specs Secondary Skills Page	

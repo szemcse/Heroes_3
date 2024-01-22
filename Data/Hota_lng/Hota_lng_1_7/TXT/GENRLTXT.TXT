@@ -164,9 +164,9 @@ A varázslat nem sikerült! A hõsnek szárazföldön kell lennie ennek a varázslatnak
 "%s megállnak, és jobb idõre várnak a cselekvéshez."		
 "%s, %d. szintû %s"		
 "%s, aki alaposan tanulta a varázslást, "		
-megtanulja		
- és		
- %s-tól		
+megtanulja: 		
+ és 		
+ varázslatot %s-tól		
 hárítja		
 hárítja		
 "A Nekromancia sötét mûvészetét gyakorolva, a hõsöd képes %d ellenséges holttestet %sként feltámasztani."		
@@ -398,7 +398,7 @@ A Harci bilincsek jelenlétében %s nem adhatja meg magát!
 %d egységnyi sebzést okoz."		
 ingyen		
 -		
-"Ár/fõ"		
+"Ár/egység"		
 %s a látnok		
  (%s után kutat)		
 Feketepiac		
