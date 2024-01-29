@@ -14,11 +14,11 @@ Tábortûz
 Térképész	
 Hattyúk Tava	
 Sötétség Fátyla	
-Lény Bank	
-1. lény generátor	
-2. lény generátor	
-3. lény generátor	
-4. lény generátor	
+Egység Bank	
+1. egység generátor	
+2. egység generátor	
+3. egység generátor	
+4. egység generátor	
 Átkozott talaj	
 Holttest	
 Marletto Torony	
@@ -52,7 +52,7 @@ Az idõ Vásártere
 Zsoldosok Tábora	
 Hableányok	
 Bánya	
-Lény	
+Egység	
 Misztikus Kert	
 Oázis	
 Obeliszk	
@@ -214,7 +214,7 @@ Határállomás
 Zsoldosok Céhe	
 Hõs Placeholder	
 Küldetésõrzõk	
-Véletlenszerû Lénylakás	
+Véletlenszerû egység lakása	
 	
 	
 Helyõrség	

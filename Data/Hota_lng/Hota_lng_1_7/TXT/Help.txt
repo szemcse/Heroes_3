@@ -594,7 +594,7 @@ EFFECTS_VOLUME_9_ID,	Hangeffektek hangerejének 9-re állítása
 MUSIC_TYPE_NONE_ID,	MUSIC_TYPE_NONE_ID,	
 MUSIC_TYPE_CD_ID,	MUSIC_TYPE_CD_ID,	
 MUSIC_TYPE_MIDI_ID,	MUSIC_TYPE_MIDI_ID,	
-AUTO_CREATURES_ID,	"{Lények}
+AUTO_CREATURES_ID,	"{Egységek}
 
 Automatikus harcban a gép irányítja az egységeidet."	
 AUTO_SPELLS_ID,	"{Varázslatok}
@@ -638,7 +638,7 @@ ANIMATE_SPELLBOOK_ID,	"{Varázskönyv animálása}
 Megjeleníti a lapozás animációját a varázskönyvben."	
 		
 Egység megtekintése	Egység megtekintése	
-Név	Lény neve	
+Név	Egység neve	
 Létszám	Az egység létszáma	
 Támadási Érték	Támadási Érték	
 Védekezési Érték	Védekezési Érték	

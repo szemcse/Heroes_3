@@ -40,8 +40,8 @@ Semmi
 A jó Hangulat lehetõvé tesz a %s-nak egy újabb támadást.		
 A rossz Hangulat miatt a %s képtelenek mozdulni a pániktól.		
 Szabadíts fel helyet csapatodban a  %s számára		
-%s megtámadása (%s sebzés)		
-"%s meglövése (1 lövés van hátra, %s sebzés)"		
+%s megtámadása (%s meghal)		
+"%s meglövése (1 lövés van hátra, %s meghal)"		
 Hadjárat leírása:		
 %s aktív.		
 Session neve		
@@ -345,7 +345,7 @@ Minden bányán az ellenséged zászlaja lobog. Vesztettél!
 Az ellenség sértetlenül eljutatta a célpontba a szállítmányt, így Õ a gyõztes!		
 %s küldése ide.		
 %s reptetése ide.		
-"%s meglövése (%d lövés maradt, %s sebzés)"		
+"%s meglövése (%d lövés maradt, %s meghal)"		
 %s infók megtekintése.		
 Nincs több töltényed!		
 %s feltámasztása		

@@ -24,8 +24,8 @@ Varázstárgy
 Varázstárgyak	
 Varázslat	
 Varázslatok	
-Lény	
-Lények	
+Egység	
+Egységek	
 Másodlagos képzettség	
 Másodlagos képzettségek	
 Játékos: %d (%s)	
@@ -242,7 +242,7 @@ Segítség
 Nyeremény	
 Nyersanyagok	
 Épületek	
-Lények	
+Egységek	
 Másodlagos képzettségek	
 Speciális vereségi feltételek	
 Játékosok leírása	
@@ -257,7 +257,7 @@ Varázslatok
 Varázstárgyak	
 A pályakészítõrõl	
 Varázstárgyak szerkesztése	
-Lény cellák szerkesztése	
+Egység celláinak szerkesztése	
 Õrzõk szerkesztése	
 Másodlagos képzettségek szerkesztése	
 Keresés	
@@ -361,7 +361,7 @@ Garrison Properties Dialog
 Tulajdonos	
 &Nincs	
 Játékos %d (%s)	
-Lények	
+Egységek	
 A csapatok eltávolíthatóak	
 Varázstárgyak tulajdonságai (általános oldal)	
 Típus:	
@@ -382,7 +382,7 @@ Fekete doboz tulajdonságai
 &Eltávolít	
 Összes törlése	
 Varázstárgyak	
-Lény &típusa	
+Egység &típusa	
 Mennyiség	
 &Tapasztalati bónusz:	
 Szerencse bónusz	
@@ -420,7 +420,7 @@ Szint
 &Alap	
 &Haladó	
 &Mester	
-Lény cellák szerkesztése	
+Egység celláinak szerkesztése	
 &Típus:	
 &Mennyiség:	
 Idõzített esemény szerkesztése	
@@ -546,7 +546,7 @@ Térkép specifikációk spec. gyõzelmi feltételek oldal
 Gyõzelmi feltétel kiválasztása:	
 &Nincs speciális gyõzelmi feltétel	
 Egy varázstárgy &megszerzése	
-Lények &felhalmozása	
+Egységek &felhalmozása	
 Nyersanyagok felhalmozása	
 &Egy kijelölt város fejlesztése	
 &Grál felépítése	
@@ -600,14 +600,14 @@ Természet
 (nem szeret csatlakozni)"	
 "&Vad
 (soha nem csatlakozik)"	
-A lények & nem menekülnek el	
+Az egységek & nem menekülnek el	
 Egyéni &üzenet:	
 Monster Properties Treasure Page	
 Nyersanyagok	
 &Fa:	
 &Higany:	
 &Érc:	
-&Kénkõ:	
+&Kén:	
 &Kristály:	
 D&rágakõ:	
 &Arany:	
@@ -632,7 +632,7 @@ Véletlenszerû
 Nincs	
 Átlagos	
 Szigetek	
-Lényeg ereje	
+Egységek ereje	
 Véletlenszerû	
 Gyenge	
 Átlagos	
@@ -739,7 +739,7 @@ H&ozzáad...
 Sz&erkeszt...	
 El&távolít	
 Öss&zes törlése	
-Lény típusa	
+Egység típusa	
 Mennyiség	
 &Fa:	
 Higa&ny:	
@@ -766,7 +766,7 @@ Varázspontok
 Másod&lagos képz.	
 &Varázstárgy	
 &Varázslat	
-&Lényeg	
+&Egységek	
 Tapasztalati bónusz értéke:	
 Varázspont értéke:	
 Hangulat bónusz értéke:	
@@ -779,7 +779,7 @@ Másodlagos képzettség:
 Szint:	
 Varázstárgy:	
 Varázslat:	
-Lény típusa:	
+Egység típusa:	
 Hero Placeholder Properties Dialog	
 &Tulajdonos:	
 Azonosítás	
@@ -798,7 +798,7 @@ Engedélyezett hõsök:
 &Tulajdonságok…	
 Random Generator Properties Dialog	
 &Tulajdonos:	
-Lény szintje	
+Egység szintje	
 M&inimum:	
 M&aximum:	
 Igazodás	
@@ -941,7 +941,7 @@ O&bjektumok föld alatti talajra	U
 &Objektumok vízi talajra	[
 &Az összes objektum	A
 &Városok	S
-&Lények	D
+&Egységek	D
 &Hõsök	F
 Var&ázstárgyak	G
 Ki&ncsek	H

@@ -74,7 +74,7 @@ Edit Starting Bonus Type Dialog
 Kezdõ bónusz szerkesztése	
 Bónusz típus kiválasztása:	
 &Varázslat	
-&Lény	
+&Egység	
 &Épület	
 &Varázstárgy	
 Va&rázstekercs	
@@ -83,7 +83,7 @@ Más&odlagos képzettség
 &Nyersanyag	
 Fogadó:	
 Varázstárgy:	
-Lény típusa:	
+Egység típusa:	
 Mennyiség:	
 Épület:	
 Varázslat:	
@@ -112,7 +112,7 @@ Hõsök átviszik az alábbiakat:
 Más&odlagos képzettségek	
 &Varázslatok	
 &Varázstárgyak	
-&Lény típusok:	
+&Egység típusok:	
 Ö&sszes	
 &Nincs	
 Átvihetõ v&arázstárgyak:	
