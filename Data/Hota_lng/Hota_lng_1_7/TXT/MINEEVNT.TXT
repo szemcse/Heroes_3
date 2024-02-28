@@ -4,9 +4,9 @@
 "{Alkimista Labor}
 
 Átveheted az irányítást az Alkimista Labor felett. Ez napi egy egységnyi higanyt fog termelni neked."
-"{Érc bánya}
+"{Ércbánya}
 
-Átveheted az irányítást az Érc bánya felett. Ez napi két egységnyi ércet fog termelni neked."
+Átveheted az irányítást az Ércbánya felett. Ez napi két egységnyi ércet fog termelni neked."
 "{Kénbánya}
 
 Átveheted a Kénbánya birtoklását. Innen napi egy egységnyi ként termelhetsz ki."

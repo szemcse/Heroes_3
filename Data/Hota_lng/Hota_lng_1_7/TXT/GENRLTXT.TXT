@@ -97,7 +97,7 @@ Legalább két játékosra van szükség többjátékos módban való játékhoz. Válassz egy
 {Nyersanyag bónusz}		
 {Véletlenszerû bónusz}		
 500-1000		
-Az Armageddon %d pontnyit sebez.		
+A Végítélet %d pontnyit sebez.		
 5-10 fa / 5-10 érc		
 A kezdõ hõsöd egy véletlenszerûen kiválasztott varázstárggyal felszerelve kezd		
 A gyengítõ sugár csökkenti a védekezési értéket %d egységnyivel.		
@@ -563,7 +563,7 @@ Szintlépéshez szükséges tapasztalat
 Teljes tapasztalati érték az oltáron		
 Varázstárgyak feláldozása tapasztalatért		
 Helyezd a varázstárgyakat az oltárra		
-Az Áldozat Oltára		
+Áldozati oltár		
 "Harcosok feláldozásához helyezd azokat az oltárra, majd nyomd meg az Áldozás gombot"		
 %s kiválasztása		
 Ezt nem áldozhatod fel!		

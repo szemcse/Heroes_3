@@ -125,7 +125,7 @@ Domb
 Lyuk	
 Tengeri Hínár	
 Tó	
-Láva Folyam	
+Lávafolyam	
 Láva Tó	
 Gombák	
 Fatuskó	
@@ -176,7 +176,7 @@ Domb
 Lyuk	
 Tengeri Hínár	
 Tó	
-Láva Folyam	
+Lávafolyam	
 Láva Tó	
 Gombák	
 Tönk	
@@ -219,14 +219,14 @@ Véletlenszerû egység lakása
 	
 Helyõrség	
 Bánya	
-Kereskedelmi Állomás	
-Lóhere Mezõ	
-Elátkozott Talaj	
-Veszedelmes Köd	
-Kedvezõ Szelek	
-Tüzes Talaj	
-Szent Talaj	
+Kereskedelmi állomás	
+Lóhere mezõ	
+Elátkozott föld	
+Veszedelmes köd	
+Kedvezõ szelek	
+Tüzes talaj	
+Szent talaj	
 Tavacskák	
 Varázsfelhõk	
 Varázssíkság	
-Sziklás Terep	
+Sziklás terep	

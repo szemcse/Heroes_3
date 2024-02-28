@@ -3087,15 +3087,15 @@ Kétirányú monolit / Portál
 # 11
 Ezek a feltételek kölcsönösen kizárják egymást.
 # 12
-""# objektum sprite neve #""
+""# objektum Tündér neve #""
 # 13
-Sprite neve:
+Tündér neve:
 # 14
 Típus:
 # 15
 Altípus:
 # 16
-Sprite:
+Tündér:
 # 17
 Objektum panel
 # 18
@@ -3468,10 +3468,10 @@ Text 5: ""
 Text 6: ""
 Text 7: "2
 -1
-""Áldozat Oltár
-A jó hõsök feláldozhatják a Mûtárgyakot a tapasztalatért.
-A gonosz hõsök feláldozhatják az egységeket a tapasztalatért.
-A semleges hõsök feláldozhatják a Mûtárgyakot vagy a egységeket a tapasztalatért.""
+""Áldozati oltár
+A jó hõsök feláldozhatják a mûtárgyakat tapasztalatért cserébe.
+A gonosz hõsök feláldozhatják az egységeket tapasztalatért cserébe.
+A semleges hõsök feláldozhatják a mûtárgyakat vagy az egységeket tapasztalatért cserébe.""
 
 4
 -1
@@ -3528,7 +3528,7 @@ Elveszít minden jelenlegi mozgáspontját.""
 
 15
 -1
-""Sötétség Fátyla
+""Sötétség fátyla
 Regenerálja a leplet az ellenséges hõsök felé, 20 egységnyi sugárral.""
 
 21
@@ -3545,7 +3545,7 @@ Ez a natív terep, a szerencsére és a hangulatra nincs hatással.""
 
 23
 -1
-""Marletto Torony
+""Marletto torony
 +1 Védelem.""
 
 24
@@ -3560,7 +3560,7 @@ Ez a natív terep, a szerencsére és a hangulatra nincs hatással.""
 
 25
 -1
-""Sárkány Utópia
+""Sárkány utópia
 - 30% Küzdj meg 8 Zöld Sárkánnyal, 5 Vörös Sárkánnyal, 2 Arany Sárkánnyal, és 1 Fekete Sárkánnyal 20000 Aranyért és 1 Kincs Mûtárgyért, 1 Kisebb Mûtárgyért, 1 Jelenõsebb Mûtárgyért, és 1 Ereklye Mûtárgyért cserébe.
 - 30% Küzdj meg 8 Zöld Sárkánnyal, 6 Vörös Sárkánnyal, 3 Arany Sárkánnyal, és 2 Fekete Sárkánnyal 30000 Aranyért és 1 Kisebb Mûtárgyért, 1 Jelentõsebb Mûtárgyért, és 2 Ereklye Mûtárgyért cserébe.
 - 30% Küzdj meg 8 Zöld Sárkánnyal, 6 Vörös Sárkánnyal, 4 Arany Sárkánnyal, és 3 Fekete Sárkánnyal 40000 Aranyért és 1 Jelentõsebb Mûtárgyért, valamint 3 Ereklye Mûtárgyért cserébe.
@@ -3574,7 +3574,7 @@ A térképen elhelyezett eseményeket csak hõsök válthatják ki.""
 
 27
 -1
-""Mágusok Szeme
+""Mágusok szeme
 Nem interaktív elem, a Mágusok szeme megvilágít meghatározott lepellel fedett területeket, amikor a hõs meglátogatja a Mágusok Kunyhóját.""
 
 28
@@ -3592,7 +3592,7 @@ Nem interaktív elem, a Mágusok szeme megvilágít meghatározott lepellel fedett te
 
 30
 -1
-""Szerencse Szökõkút
+""Szerencse szökõkút
 -1-tõl +3-ig szerencse a következõ csatáig.""
 
 31
@@ -3603,48 +3603,48 @@ Nem interaktív elem, a Mágusok szeme megvilágít meghatározott lepellel fedett te
 
 32
 -1
-""Garden of Revelation
-+1 Knowledge.""
+""Látomások kertje
++1 Tudás.""
 
 35
 0
 ""Hegyi erõd
-Upgrade base grade creatures.""
+Fejlesztheted az alapszintû egységeidet.""
 
 36
 -1
-""Grail
-Customizable.
-Buried Mûtárgy found via the Puzzle Map.
-Placing this object determines the location of grail.
-Otherwise, a véletlenszerû location is chosen when an Obeliszk is placed.""
+""Grál
+Testreszabható.
+Eltemetett Mûtárgy a Puzzle térkép segítségével található meg.
+Ennek az objektumnak az elhelyezése határozza meg a Grál helyét.
+Ettõl eltérõ esetben véletlenszerû helyet is választhatnak az obeliszk elhelyezésekor.""
 
 37
 -1
-""Kunyhó of the Magi
-Visiting a Kunyhó of the Magi illuminates locations around an Mágusok szeme.""
+""Mágusok kunyhója
+A Mágusok Kunyhójának meglátogatása megvilágítja a Mágusok Szeme körüli helyeket.""
 
 38
 -1
-""Idol of Fortune
-+1 Luck until the next battle, on odd days of the week not Day 7.
-+1 Morale until next battle, on even days of the week.
-+1 Luck és Morale until next battle, on Day 7.""
+""Szerencse bálvány
++1 Szerencse a következõ csatáig, a hét páratlan napjain, nem a 7. napon.
++1 Hangulat a következõ csatáig, a hét páros napjain.
++1 Szerencse és Hangulat a következõ csatáig, a 7. napon.""
 
 39
 -1
-""Lean To
-+1-4 of any resource other than Arany.""
+""Búvóhely
++1-4 az Aranyon kívüli bármely erõforrásból.""
 
 41
 -1
-""Könyvtár of Enlightenment
-Possibly gives visiting hero +2 Attack, +2 Defense, +2 Power, +2 Knowledge.""
+""Megvilágosodás könyvtára
+Esetleg ad a látogató hõsnek +2 támadást, +2 védelmet, +2 varázserõt, +2 tudást.""
 
 42
 -1
 ""Világítótorony
-+500 Tengeri mobility for your ships for each Világítótorony you own.""
++500 tengeri mozgást ad a hajóid számára minden elfoglalt világítótorony után.""
 
 43
 -1
@@ -3659,34 +3659,34 @@ Kilépési pont egy Monolit/Portál egyirányú bejáratton keresztül teleportáló hõs 
 45
 -1
 ""Kétirányú monolit/Portál
-Teleports a hero to another Kétirányú monolit/Portál, with the ability to return to the gate of origin.""
+Teleportál egy hõst egy másik Kétirányú monolitba/Portálba, azzal a képességgel, hogy vissza is térhet a kiindulási kapuhoz.""
 
 46
 -1
-""Magic Plains
-All Adventure és Combat spells are cast at Expert proficiency.""
+""Mágikus síkságok
+Minden Kaland és Harci varázslatot mester készséggel tudsz használni.""
 
 47
 -1
-""School of Magic
-Pay 1000 Arany to increase the Power vagy Knowledge of your hero by +1.""
+""Varázslatok iskolája
+Fizess 1000 aranyt, hogy hõsöd varázsereje vagy tudása +1-gyel növekedjen.""
 
 48
 -1
-""Magic Spring
-Replenishes spell pont, then doubles the amount.
+""Varázsforrás
+Feltölti a varázspontot, majd megduplázza az összeget.
 
-Replenishes on Day 1 of each week.""
+Minden hét 1. napján újratöltõdik.""
 
 49
 -1
-""Magic Well
-Replenishes spell pont.""
+""Varázskút
+Feltölti a varázspontot.""
 
 50
 -1
-""Market of Time
-Not used.""
+""Idõ piaca
+Nem használt.""
 
 51
 -1
@@ -3695,8 +3695,8 @@ A hõs +1 támadást kap.""
 
 52
 -1
-""Mermaids
-+1 Luck until next battle.""
+""Hableány
++1 szerencse a következõ csatáig.""
 
 #54
 #-1
@@ -3704,184 +3704,184 @@ A hõs +1 támadást kap.""
 
 55
 -1
-""Mystical Garden
+""Misztikus kert
 - 50% esély 500 Arany megtalálására.
 - 50% esély 5 Drágakõ megtalálására.
 
-Replenishes on Day 1 of each week.""
+Minden hét 1. napján feltöltõdik.""
 
 56
 -1
-""Oasis
-+1 Morale until the next battle.
-+800 Movement until the end of the day.""
+""Oázis
++1 hangulat a következõ csatáig.
++800 mozgáspont a nap végéig.""
 
 57
 -1
 ""Obeliszk
-Reveals portion of the Puzzle Map.""
+Feltárja a Puzzle térkép egy részletét.""
 
 58
 0
-""Redwood Obszervatórium
-Shroud is removed from all tiles within 20 tiles of the Obszervatórium.""
+""Vörösfenyõ kilátótorony
+A lepel a kilátótorony 20 egységnyi területén belül mindenhannon eltávolításra kerül.""
 
 59
 -1
-""Ocean Bottle
-Acts like a Sign, but on the water.""
+""Palackpósta
+Úgy viselkedik, mint egy jel, de a vízen.""
 
 60
 -1
-""Pillar of Fire
-Shroud is removed from all tiles within 20 tiles.""
+""Tûz pillére
+A lepel 20 egységnyi területen belül mindenhonnan eltávolításra kerül.""
 
 61
 -1
-""Star Axis
-Hero receives +1 Power.""
+""Csillagpont
+A hõs +1 Varázserõt kap.""
 
 62
 -1
-""Prison
-Free a specific hero.  Joins you for free.""
+""Börtön
+Szabadíts ki egy adott hõst innen. Ingyen csatlakozik hozzád.""
 
 63
 -1
-""Pyramid
-Defeat 40 Arany Golems és 20 Diamond Golems for a véletlenszerû 5th level spell.
-If hero doesn't have the wisdom to learn the spell, the spell is lost.
-Visiting the Pyramid after defeating the guardians results in -2 Luck until next battle.""
+""Piramis
+Gyõzz le 40 Arany gólemet és 20 gyémánt gólemet egy véletlenszerû 5. szintû varázslatért.
+Ha a hõsnek nincs elég bölcsessége a varázslat megtanulásához, a varázslat elvész.
+A piramis meglátogatása az õrzõk legyõzése után -2 szerencsét eredményez a következõ csatáig.""
 
 64
 -1
-""Rally Flag
-+1 Luck és Morale until the next battle.
-+400 adventure movement until the end of the day.""
+""Rally zászló
++1 szerencse és hangulat a következõ csatáig.
++400 mozgáspont a nap végéig.""
 
 65
 -1
 ""Véletlenszerû Mûtárgy
-Places a véletlenszerû Mûtárgy on the Adventure Map.  Mûtárgy can be Kincs, Kisebb vagy Jelentõsebb.""
+Véletlenszerû mûtárgyat helyez el a kalandtérképen. Ez lehet Kincs, Kisebb vagy Jelentõsebb mûtárgy is.""
 
 66
 -1
 ""Véletlenszerû Kincs Mûtárgy
-Places a véletlenszerû Kincs class Mûtárgy on the Adventure Map.""
+Véletlenszerû Kincs osztályú Mûtárgyat helyez el a Kalandtérképen.""
 
 67
 -1
 ""Véletlenszerû Kisebb Mûtárgy
-Places a véletlenszerû Kisebb class Mûtárgy on the Adventure Map.""
+Véletlenszerû Kisebb osztályú Mûtárgyot helyez el a Kalandtérképen.""
 
 68
 -1
 ""Véletlenszerû Jelentõsebb Mûtárgy
-Places a véletlenszerû Jelentõsebb class Mûtárgy on the Adventure Map.""
+Véletlenszerû Jelentõsebb osztályú Mûtárgyot helyez el a Kalandtérképen..""
 
 69
 -1
 ""Véletlenszerû Ereklye
-Places a véletlenszerû Ereklye class Mûtárgy on the Adventure Map.""
+Véletlenszerû Ereklye osztályú Mûtárgyot helyez el a Kalandtérképen.""
 
 70
 -1
-""Véletlenszerû Hero
-At the start of the game, a véletlenszerû hero is chosen from all classes.
-If a város alignment is chosen, choices are limited to those classes associated with the város alignment.""
+""Véletlenszerû Hõs
+A játék elején minden játékos véletlenszerû hõst választ.
+Ha a várost kiválasztja a játékos, a választási lehetõségek a városhoz társított hõsökre korlátozódik.""
 
 71
 -1
 ""Véletlenszerû Egység
-At the start of the game, this object is replaced with a véletlenszerû Egység, chosen from all the potential Egységek.""
+A játék elején ezt az objektumot egy véletlenszerû egység váltja fel, amelyet az összes potenciális egység közül választanak ki.""
 
 72
 -1
-""Véletlenszerû Egység 1
-At the start of the game, this object is replaced with a véletlenszerû level 1 Egység, chosen from all the potential level 1 Egységek.""
+""Véletlenszerû 1. szintû egység
+A játék elején ezt az objektumot egy véletlenszerû 1. szintû egység váltja fel, amelyet az összes lehetséges 1. szintû egység közül választanak ki.""
 
 73
 -1
-""Véletlenszerû Egység 2
-At the start of the game, this object is replaced with a véletlenszerû level 2 Egység, chosen from all the potential level 2 Egységek.""
+""Véletlenszerû 2. szintû egység
+A játék elején ezt az objektumot egy véletlenszerû 2. szintû egység váltja fel, amelyet az összes lehetséges 2. szintû egység közül választanak ki.""
 
 74
 -1
-""Véletlenszerû Egység 3
-At the start of the game, this object is replaced with a véletlenszerû level 3 Egység, chosen from all the potential level 3 Egységek.""
+""Véletlenszerû 3. szintû egység
+A játék elején ezt az objektumot egy véletlenszerû 3. szintû egység váltja fel, amelyet az összes lehetséges 3. szintû egység közül választanak ki.""
 
 75
 -1
-""Véletlenszerû Egység 4
-At the start of the game, this object is replaced with a véletlenszerû level 4 Egység, chosen from all the potential level 4 Egységek.""
+""Véletlenszerû 4. szintû egység
+A játék elején ezt az objektumot egy véletlenszerû 4. szintû egység váltja fel, amelyet az összes lehetséges 4. szintû egység közül választanak ki.""
 
 76
 -1
-""Véletlenszerû Resource
-At the start of the game, this object is replaced with one of the seven resource types.""
+""Véletlenszerû erõforrás
+A játék elején ezt az objektumot a hét erõforrástípus egyikével helyettesítik.""
 
 77
 -1
 ""Véletlenszerû város
-With this object, a player may choose a specific város type, vagy let the computer choose it for them.""
+Ezzel az objektummal a játékos kiválaszthat egy adott várostípust, vagy hagyhatja, hogy a számítógép válassza ki azt számára.""
 
 78
 -1
-""Refugee tábor
-Véletlenszerû creature type available for recruiting every 7 days.""
+""Menekülttábor
+Véletlenszerû egység, amelyet 7 naponta lehet toborozni.""
 
 #79
 #-1
-#""Resource""
+#""Erõforrás""
 
 80
 -1
-""Sanctuary
-Hero residing here cannot be attacked.""
+""Szentély
+Az itt lakó hõst nem lehet megtámadni.""
 
 81
 -1
-""Scholar
-Learn 1 spell, one secondary skill, vagy one primary skill.
-Scholar then disappears.""
+""Tudós
+Megtanulsz 1 varázslatot, egy másodlagos készséget vagy egy elsõdleges készséget.
+A tudós ezután eltûnik.""
 
 82
 -1
-""Tengeri Chest
-- 20% for nothing.
-- 70% chance for 1500 Arany.
-- 10% chance for 1500 Arany és 1 véletlenszerû Kincs Mûtárgy. If backpack is full, get 1500 Arany.""
+""Tengerészláda
+- 20% esély arra, hogy semmi nem lesz benne.
+- 70% esély 1500 Aranyra.
+- 10% esély 1500 Aranyra és 1 véletlenszerû Kincs Mûtárgyra. Ha a hátizsák tele van, akkor 1500 Aranyat kap.""
 
 83
 -1
-""Látnok kunyhója
-Heroes may complete a Látnok küldetés for a reward.
-Map Makers must specify the küldetés.""
+""Titok kunyhó
+A hõsök jutalomért teljesíthetnek itt egy küldetést.
+A térkép készítõjéknek meg kell határoznia a küldetés paramétreit.""
 
 84
 -1
-""Crypt
-- 30% chance to fight 30 Skeletons és 20 Walking Dead for 1500 Arany.
-- 30% chance to fight 25 Skeletons, 20 Walking Dead, és 5 Wights for 2000 Arany.
-- 30% chance to fight 20 Skeletons, 20 Walking Dead, 10 Wights, és 5 Vampires for 2500 Arany és 1 Kincs Mûtárgy.
-- 10% chance to fight 20 Skeletons, 20 Walking Dead, 10 Wights, és 10 Vampires for 5000 Arany és 1 Kincs Mûtárgy.
+""Kripta
+- 30% esély arra, hogy 30 Csontváz és 20 Feltámasztott fog harcolni ellened 1500 Aranyért cserébe.
+- 30% esély arra, hogy 25 Csontváz, 20 Feltámasztott, és 5 Lélek fog harcolni ellened 2000 Aranyért cserébe.
+- 30% esély arra, hogy 20 Csontváz, 20 Feltámasztott, 10 Lélek, és 5 Vámpír fog harcolni ellened 2500 Aranyért és 1 Kincs Mûtárgyért cserébe.
+- 10% esély arra, hogy 20 Csontváz, 20 Feltámasztott, 10 Lélek, és 10 Vámpír fog harcolni ellened 5000 Aranyért és 1 Kincs Mûtárgyért cserébe.
 
--1 Morale if you visit the crypt és the guardians have already been defeated.""
+-1 Hangulat, ha már meglátogattad a kriptát, és az õrzõit már legyõzték egyszer.""
 
 85
 -1
-""Shipwreck
-- 30% chance to fight 10 Wights for 2000 Arany.
-- 30% chance to fight 15 Wights for 3000 Arany.
-- 30% chance to fight 25 Wights for 4000 Arany és 1 véletlenszerû Kincs Mûtárgy.
-- 10% chance to fight 50 Wights for 5000 Arany és 1 véletlenszerû Kisebb Mûtárgy.
+""Hajóroncs
+- 30% esély arra, hogy 10 Lélek fog harcolni ellened 2000 Aranyért cserébe.
+- 30% esély arra, hogy 15 Lélek fog harcolni ellened 3000 Aranyért cserébe.
+- 30% esély arra, hogy 25 Lélek fog harcolni ellened 4000 Aranyért és 1 véletlenszerû Kincs Mûtárgyért cserébe.
+- 10% esély arra, hogy 50 Lélek fog harcolni ellened 5000 Aranyért és 1 véletlenszerû Kisebb Mûtárgyért cserébe.
 
--1 Morale if you visit the shipwreck és the guardians have already been defeated.""
+-1 Hangulat, ha már meglátogattad a hajóroncsot, és az õrzõit már legyõzték egyszer.""
 
 86
 -1
-""Shipwreck Survivor
-Receive 1 véletlenszerû Mûtárgy.
+""Túlélõ
+Kapsz 1 véletlenszerû Mûtárgyat.
 - 55% Kincs Mûtárgy.
 - 20% Kisebb Mûtárgy.
 - 20% Jelentõsebb Mûtárgy.
@@ -3889,155 +3889,155 @@ Receive 1 véletlenszerû Mûtárgy.
 
 87
 0
-""Shipyard
-Purchase a ship.""
+""Hajógyár
+Hajó vásárlásának helye.""
 
 88
 0
-""Shrine of Magic Incantation
-Learn level 1 spell.""
+""Mágikus Igék Szentélye
+Megtanulsz egy 1. szintû varázslatot.""
 
 89
 -1
-""Shrine of Magic Gesture
-Learn level 2 spell.""
+""Mágikus Mozdulatok Szentélye
+Megtanulsz egy 2. szintû varázslatot.""
 
 90
 -1
-""Shrine of Magic Thought
-Learn level 3 spell.""
+""Mágikus Gondolatok Szentélye
+Megtanulsz egy 3. szintû varázslatot.""
 
 91
 -1
-""Sign
-Displays a message when visited.
-Customizable.""
+""Jel
+Meglátogatáskor üzenetet jelenít meg.
+Testreszabható.""
 
 92
 -1
-""Sirens
-Lose 30% of each army és gain 1 experience pont for each pont of életerõ for the lost creatures.""
+""Szirének
+Veszítsd el a hadsereged 30%-át, és szerezz érte 1 tapasztalati pontot minden elvesztett egység életerõ pontjáért cserébe.""
 
 93
 -1
 ""Varázstekercs
-This scroll contains a spell, which is added into a hero's Varázskönyv for as long as you carry the scroll.""
+Ez a tekercs egy varázslatot tartalmaz, amely mindaddig bekerül a hõs varázskönyvébe, amíg a tekercset hordozza.""
 
 94
 -1
-""Istállók
+""Istálló
 +300 mozgás naponta a hét végéig. 
 A Lovagokat automatikusan bajnokká léptetik elõ.""
 
 95
 -1
-""Tavern
-Recruit heroes.  Listen to rumors.""
+""Kocsma
+Toborozz hõsöket. Hallgasd meg a pletykákat.""
 
 96
 -1
-""Temple
-+1 Morale until next battle.
-+2 Morale until next battle, on Day 7.""
+""Templom
++1 hangulat a következõ csatáig.
++2 hangulat a következõ csatáig, minden 7. napon.""
 
 97
 -1
-""Den of Thieves
-Gives complete thieves' guild information.""
+""Tolvajtanya
+Teljes körû információt ad a tolvajok céhérõl.""
 
 99
 -1
-""Trading Post
-Trade nyersanyag at the efficiency of 5 markets.""
+""Kereskedelmi állomás	
+Kerskedõhely nyersanyagra 5 piac hatékonyságával.""
 
 100
 -1
-""Learning Stone
-+1000 experience pont.""
+""Tudás Köve
++1000 tapasztalati pont.""
 
 101
 -1
-""Kincs Chest
-- 32% chance for 1000 Arany vagy 500 experience.
-- 32% chance for 1500 Arany vagy 1000 experience.
-- 31% chance for 2000 Arany vagy 1500 experience.
-- 5% chance for véletlenszerû Kincs Mûtárgy.  If backpack is full, get choice of 1000 Arany vagy 500 experience.""
+""Kincsesláda
+- 32% esély arra, hogy 1000 Aranyat vagy 500 tapasztalati pontot szerezz.
+- 32% esély arra, hogy 1500 Aranyat vagy 1000 tapasztalati pontot szerezz.
+- 31% esély arra, hogy 2000 Aranyat vagy 1500 tapasztalati pontot szerezz.
+- 5% esély arra, hogy véletlenszerû Kincs Mûtárgyat szerezz.  Ha a hátizsák tele van, választhatunk 1000 Arany vagy 500 tapasztalati pont közül.""
 
 102
 -1
-""Tree of Knowledge
-- 34% Chance of paying 0 Arany for a hero to advance to his next level of experience.
-- 33% Chance of paying 2000 Arany for a hero to advance to his next level of experience.
-- 33% Chance of paying 10 Drágakõ for a hero to advance to his next level of experience.""
+""Tudás Fája
+- 34% esély arra, hogy 0 Aranyat kell fizetnie a hõsnek, hogy a következõ tapasztalati szintre léphessen.
+- 33% esély arra, hogy 2000 Aranyat kell fizetnie a hõsnek, hogy a következõ tapasztalati szintre léphessen.
+- 33% esély arra, hogy 10 Drágakõvel kell fizetnie a hõsnek, hogy a következõ tapasztalati szintre léphessen.""
 
 103
 -1
-""Subterranean Gate
-Entering the Subterranean Gate leads to the Underground Map, if any.""
+""Világok közti átjáró
+A földalatti kapun való belépés a földalatti térképhez vezet, ha van ilyen.""
 
 104
 -1
-""University
-Pay 2000g for a 'new' Secondary Skill of four taught.""
+""Egyetem
+Fizessen 2000 Aranyat egy "új" másodlagos készségért, négy tanított.""
 
 105
 -1
-""Wagon
-- 10% chance for nothing.
-- 40% chance for 1 véletlenszerû Kincs vagy Kisebb Mûtárgy.  If backpack is full, you get nothing.
-- 50% chance for 2-5 of any resource but Arany.""
+""Szekér
+- 10% esély arra, hogy semmit sem találsz.
+- 40% esély arra, hogy 1 véletlenszerû kincs vagy kisebb mûtárgyat találsz.  Ha a hátizsák tele van, nem kapsz semmit.
+- 50% esély arra, hogy 2-5 közötti bármely erõforrást találsz kivéve Aranyat.""
 
 #106
 #-1
-#""War Machine Factory
-#Purchase any of the three war machines: Nyílvetõ, Elsõsegély-sátor és Muníciós szekér.""
+#""Harci Gépek Gyára
+#Vásárold meg a három hadigép bármelyikét: Nyílvetõ, Elsõsegély-sátor és Muníciós szekér.""
 
 107
 -1
-""School of War
-Pay 1000 Arany to increase the Attack vagy Defense of the visiting hero by +1.""
+""Háború Iskolája
+Fizess 1000 Aranyat, hogy +1-gyel növeld a látogató hõs támadását vagy védelmét.""
 
 108
 -1
-""Harcos Síremléke
-Ransack Sír for 1 véletlenszerû Mûtárgy és -3 morale.
+""Harcos Sírja
+Foszd ki a sírt 1 véletlenszerû mûtárgyért és -3 hangulati pontért cserébe.
 - 30% Kincs Mûtárgy.
 - 50% Kisebb Mûtárgy.
 - 15% Jelentõsebb Mûtárgy.
 - 5% Ereklye Mûtárgy.
 
-In case of empty síremlék hero gets -3 morale anyway.""
+Üres, már kifosztott síremlék kifosztása esetén, a hõs amúgy is kap -3 hangulati pontot.""
 
 109
 -1
-""Water Wheel
-Week 1 gives 500 Arany.
-Each subsequent week is set to give 1000 Arany.""
+""Vízmalom
+Az 1. héten 500 Aranyat ad.
+Minden további héten 1000 Aranyat ad.""
 
 110
 -1
-""Watering Lyuk
-+1 Morale until next battle.
-+400 Adventure movement until the end of the day.""
+""Gyógygödör
++1 hangulat a következõ csatáig.
++400 kaland mozgáspontot ad a nap végéig""
 
 111
 -1
-""Whirlpool
-Teleports hero to another Whirlpool at the Költség of 50% of the weakest troop in the hero's army.""
+""Örvény
+Teleportálja a hõst egy másik örvénybe. A hõs leggyengébb seregének 50%-ának költségével.""
 
 112
 -1
-""Windmill
-+3-6 of any véletlenszerû resource other than Fa vagy Arany.""
+""Szélmalom
++3-6 véletlenszerû erõforrás, kivéve a Fa vagy az Arany.""
 
 113
 -1
-""Witch Kunyhó
-Véletlenszerû Secondary Skill other than Leadership vagy Necromancy.""
+""Boszorkány Kunyhó
+Véletlenszerû másodlagos képképzettség, kivéve a Vezetés vagy a Nekromancia.""
 
 114
 -1
-""Brush
+""Ecset
 Dekoráció.""
 
 115
@@ -4062,7 +4062,7 @@ Dekoráció.""
 
 119
 -1
-""Halott vegetáció
+""Korhadt Fa
 Dekoráció.""
 
 120
@@ -4092,7 +4092,7 @@ Dekoráció.""
 
 125
 -1
-""Hínár
+""Tengeri Hínár
 Dekoráció.""
 
 126
@@ -4102,72 +4102,72 @@ Dekoráció.""
 
 127
 -1
-""Lava Flow
+""Lávafolyam
 Dekoráció.""
 
 128
 -1
-""Lava Tó
+""Láva Tó
 Dekoráció.""
 
 129
 -1
-""Mushrooms
+""Gombák
 Dekoráció.""
 
 130
 -1
-""Log
+""Fatuskó
 Dekoráció.""
 
 131
 -1
-""Mandrake
+""Mandragóra
 Dekoráció.""
 
 132
 -1
-""Moss
+""Moha
 Dekoráció.""
 
 133
 -1
-""Mound
+""Bucka
 Dekoráció.""
 
 134
 -1
-""Mountain
+""Hegy
 Dekoráció.""
 
 135
 -1
-""Oak Trees
+""Tölgyfa
 Dekoráció.""
 
 136
 -1
-""Outcropping
+""Kitüremkedés
 Dekoráció.""
 
 137
 -1
-""Pine Trees
+""Fenyõfák
 Dekoráció.""
 
 138
 -1
-""Plant
+""Növény
 Dekoráció.""
 
 143
 -1
-""River Delta
+""Delta Torkolat
 Dekoráció.""
 
 147
 -1
-""Rock
+""Szikla
 Dekoráció.""
 
 148
@@ -4177,87 +4177,87 @@ Dekoráció.""
 
 149
 -1
-""Homok Pit
+""Homokgödör
 Dekoráció.""
 
 150
 -1
-""Shrub
+""Cserje
 Dekoráció.""
 
 151
 -1
-""Skull
+""Koponya
 Dekoráció.""
 
 152
 -1
-""Stalagmite
+""Állócsepkõ
 Dekoráció.""
 
 153
 -1
-""Stump
+""Tönk
 Dekoráció.""
 
 154
 -1
-""Tar Pit
+""Szurok gödör
 Dekoráció.""
 
 155
 -1
-""Trees
+""Fák
 Dekoráció.""
 
 156
 -1
-""Vine
+""Inda
 Dekoráció.""
 
 157
 -1
-""Volcanic Vent
+""Tûzhányókürtõ
 Dekoráció.""
 
 158
 -1
-""Volcano
+""Vulkán
 Dekoráció.""
 
 159
 -1
-""Willow Trees
+""Fûzfa
 Dekoráció.""
 
 160
 -1
-""Yucca Trees
+""Jukka
 Dekoráció.""
 
 161
 -1
-""Reef
+""Zátony
 Dekoráció.""
 
 162
 -1
-""Véletlenszerû Egység 5
-At the start of the game, this object is replaced with a véletlenszerû level 5 Egység, chosen from all the potential level 5 Egységek.""
+""Véletlenszerû egység 5. szint
+A játék kezdetén ezt az objektumot egy véletlenszerû 5. szintû egységgel helyettesítjük, amelyet az összes lehetséges 5. szintû egység közül választunk ki.""
 
 163
 -1
-""Véletlenszerû Egység 6
-At the start of the game, this object is replaced with a véletlenszerû level 6 Egység, chosen from all the potential level 6 Egységek.""
+""Véletlenszerû egység 6. szint
+A játék kezdetén ezt az objektumot egy véletlenszerû 6. szintû egységgel helyettesítjük, amelyet az összes lehetséges 6. szintû egység közül választunk ki.""
 
 164
 -1
-""Véletlenszerû Egység 7
-At the start of the game, this object is replaced with a véletlenszerû level 7 Egység, chosen from all the potential level 7 Egységek.""
+""Véletlenszerû egység 7. szint
+A játék kezdetén ezt az objektumot egy véletlenszerû 7. szintû egységgel helyettesítjük, amelyet az összes lehetséges 7. szintû egység közül választunk ki.""
 
 165
 -1
-""Brush
+""Ecset
 Dekoráció.""
 
 166
@@ -4282,7 +4282,7 @@ Dekoráció.""
 
 170
 -1
-""Halott vegetáció
+""Korhadt Fa
 Dekoráció.""
 
 171
@@ -4302,7 +4302,7 @@ Dekoráció.""
 
 174
 -1
-""Hegy
+""Domb
 Dekoráció.""
 
 175
@@ -4312,7 +4312,7 @@ Dekoráció.""
 
 176
 -1
-""Hínár
+""Tengeri Hínár
 Dekoráció.""
 
 177
@@ -4322,72 +4322,72 @@ Dekoráció.""
 
 178
 -1
-""Lava Flow
+""Lávafolyam
 Dekoráció.""
 
 179
 -1
-""Lava Tó
+""Láva Tó
 Dekoráció.""
 
 180
 -1
-""Mushrooms
+""Gombák
 Dekoráció.""
 
 181
 -1
-""Log
+""Fatuskó
 Dekoráció.""
 
 182
 -1
-""Mandrake
+""Mandragóra
 Dekoráció.""
 
 183
 -1
-""Moss
+""Moha
 Dekoráció.""
 
 184
 -1
-""Mound
+""Bucka
 Dekoráció.""
 
 185
 -1
-""Mountain
+""Hegy
 Dekoráció.""
 
 186
 -1
-""Oak Trees
+""Tölgyfa
 Dekoráció.""
 
 187
 -1
-""Outcropping
+""Kitüremkedés
 Dekoráció.""
 
 188
 -1
-""Pine Trees
+""Fenyõfák
 Dekoráció.""
 
 189
 -1
-""Plant
+""Növény
 Dekoráció.""
 
 190
 -1
-""River Delta
+""Delta Torkolat
 Dekoráció.""
 
 191
 -1
-""Rock
+""Szikla
 Dekoráció.""
 
 192
@@ -4397,103 +4397,103 @@ Dekoráció.""
 
 193
 -1
-""Homok Pit
+""Homokgödör
 Dekoráció.""
 
 194
 -1
-""Shrub
+""Cserje
 Dekoráció.""
 
 195
 -1
-""Skull
+""Koponya
 Dekoráció.""
 
 196
 -1
-""Stalagmite
+""Állócsepkõ
 Dekoráció.""
 
 197
 -1
-""Stump
+""Tönk
 Dekoráció.""
 
 198
 -1
-""Tar Pit
+""Szurok gödör
 Dekoráció.""
 
 199
 -1
-""Trees
+""Fák
 Dekoráció.""
 
 200
 -1
-""Vine
+""Inda
 Dekoráció.""
 
 201
 -1
-""Volcanic Vent
+""Tûzhányókürtõ
 Dekoráció.""
 
 202
 -1
-""Volcano
+""Vulkán
 Dekoráció.""
 
 203
 -1
-""Willow Trees
+""Fûzfa
 Dekoráció.""
 
 204
 -1
-""Yucca Trees
+""Jukka
 Dekoráció.""
 
 205
 -1
-""Reef
+""Zátony
 Dekoráció.""
 
 206
 -1
-""Desert Hegyek
+""Sivatagi Dombok
 Dekoráció.""
 
 207
 -1
-""Dirt Hegyek
+""Dombok
 Dekoráció.""
 
 208
 -1
-""Grass Hegyek
+""Füves Dombok
 Dekoráció.""
 
 209
 -1
-""Rough Hegyek
+""Törmelékes Dombok
 Dekoráció.""
 
 210
 -1
-""Subterranean Rocks
+""Föld alatti Sziklák
 Dekoráció.""
 
 211
 -1
-""Swamp Foliage
+""Mocsári Levél
 Dekoráció.""
 
 212
 -1
-""Border Gate
-Usually placed at choke pont, a hero must visit the keymaster of the associated color in order to get the password.  Each player must visit the keymaster, as the Border Gate will not disappear after the first player visits it.""
+""Határállomás
+Általában a szûkített átjárópontoknál helyezik el, a hõsnek a jelszó megszerzéséhez meg kell látogatnia a megfelelõ színû kulcsmestert.  Minden játékosnak meg kell látogatnia a kulcsmestert, mivel a Határállomás nem fog eltûnni, miután az elsõ játékos meglátogatta.""
 
 213
 -1
@@ -4502,8 +4502,8 @@ Az épület lehetõvé teszi, hogy egységekért cserébe erõforrásokat szerezz (5 piac
 
 214
 -1
-""Crossover Hero Placeholder
-This allows you to have a hero crossover from one scenario of a Hadjárat to another.""
+""Továbbvihetõ hõs helyörzõ
+Ez lehetõvé teszi, hogy a hõs továbbvihetõ legyen a hadjárat egyik forgatókönyvébõl a másikba.""
 
 215
 -1
@@ -4513,63 +4513,63 @@ This allows you to have a hero crossover from one scenario of a Hadjárat to anot
 216
 -1
 ""Véletlenszerû egység lakása
-Can be linked with specific towns.""
+Konkrét városokkal kapcsolható össze.""
 
 221
 -1
-""Trading Post
-Trade resources at the efficiency of 5 markets.""
+""Kereskedelmi állomás	
+Kerskedõhely nyersanyagra 5 piac hatékonyságával.""
 
 222
 -1
-""Clover Field
-Gives all Neutral aligned troops +2 Luck.""
+""Lóhere mezõ
+Minden semlegesen összehangolt csapatnak +2 szerencsét ad.""
 
 223
 -1
-""Cursed Ground
-All but first level spells can not be cast while on Cursed Ground.
-Native terrain, luck és moral have no effect.""
+""Elátkozott föld
+Az elsõ szintû varázslatok kivételével nem lehet varázsolni, amíg az elátkozott földön jársz.
+Az õshonos terepen, a szerencse és a hangulat hatástalan.""
 
 224
 -1
-""Evil Fog
-Gives all Evil aligned troops +1 Morale, és Good troops -1 Morale.""
+""Veszedelmes köd
+Minden gonosz irányultságú csapatnak +1 hangulatot, és minden jó irányultságú csapatnak -1 hangulatot ad.""
 
 225
 -1
-""Favorable Winds
-Reduces movement Költség of sailing by 34%.""
+""Kedvezõ szelek
+Csökkenti a tengeri mozgás költésgét 34%-kal.""
 
 226
 -1
-""Fiery Fields
-Causes all Fire Spells to be cast at Expert Level.""
+""Tüzes talaj
+Minden tûz varázslatot mester szinten tudsz használni.""
 
 227
 -1
-""Holy Ground
-Gives all Good aligned troops +1 Morale, és Evil troops -1 Morale.""
+""Szent talaj
+Minden jó irányultságú csapatnak +1 hangulatot, és minden gonosz irányultságú csapatnak -1 hangulatot ad.""
 
 228
 -1
-""Lucid Pools
-Causes all Water Spells to be cast at Expert Level.""
+""Tavacskák
+Minden vízvarázslatot mester szinten tudsz használni.""
 
 229
 -1
-""Magic Clouds
-Causes all Air Spells to be cast at Expert Level.""
+""Varázsfelhõk
+Minden levegõ varázslatot mester szinten tudsz használni.""
 
 230
 -1
-""Magic Plains
-All Adventure és Combat spells are cast at Expert proficiency.""
+""Varázssíkság
+Minden Kaland és Harc varázslatot mester szinten tudsz használni.""
 
 231
 -1
-""Rocklands
-Causes all Earth Spells to be cast at Expert Level.""
+""Sziklás terep
+Minden föld varázslatot mester szinten tudsz használni.""
 
 5
 1
@@ -4580,73 +4580,73 @@ Ez a tekercs egy varázslatot tartalmaz, amely mindaddig belekerül a hõs Varázskö
 7
 ""Kentaur Fejsze
 Osztály: Kincs
-Ez a jobb kezes fegyver növeli a Támadási Értéked +2-vel.""
+Ez a jobbkezes fegyver növeli a Támadási Értéked +2-vel.""
 
 5
 8
 ""Halállovag Kardja
 Osztály: Kisebb.
-Ez a jobb kezes fegyver növeli a Támadási Értéked +3-mal.""
+Ez a jobbkezes fegyver növeli a Támadási Értéked +3-mal.""
 
 5
 9
 ""Gnoll Buzogány
 Osztály: Kisebb.
-Ez a jobb kezes fegyver növeli a Támadási Értéked +4-gyel.""
+Ez a jobbkezes fegyver növeli a Támadási Értéked +4-gyel.""
 
 5
 10
 ""Ogrék Furkósbotja
 Osztály: Jelentõsebb.
-Ez a jobb kezes fegyver növeli a Támadási Értéked +5-tel.""
+Ez a jobbkezes fegyver növeli a Támadási Értéked +5-tel.""
 
 5
 11
 ""Pokoltûz Kard
 Osztály: Jelentõsebb.
-Ez a jobb kezes fegyver növeli a Támadási Értéked +6-tal.""
+Ez a jobbkezes fegyver növeli a Támadási Értéked +6-tal.""
 
 5
 12
 ""Titánok Kardja
 Osztály: Ereklye.
-Ez a jobb kezes hatalmas erejû ereklye növeli a Támadási Értéked +12-vel, de csökkenti a Védekezési Értéked -3-mal.""
+Ez a jobbkezes hatalmas erejû ereklye növeli a Támadási Értéked +12-vel, de csökkenti a Védekezési Értéked -3-mal.""
 
 5
 13
 ""Törpe Király Pajzsa
 Osztály: Kincs
-Ez a bal kezes fegyver növeli a Védekezési Értéked +2-vel.""
+Ez a balkezes fegyver növeli a Védekezési Értéked +2-vel.""
 
 5
 14
 ""Halottak Pajzsa
 Osztály: Kisebb.
-Ez a bal kezes fegyver növeli a Védekezési Értéked +3-mal.""
+Ez a balkezes fegyver növeli a Védekezési Értéked +3-mal.""
 
 5
 15
 ""Gnoll Királyi Pajzs
 Osztály: Kisebb.
-Ez a bal kezes fegyver növeli a Védekezési Értéked +4-gyel.""
+Ez a balkezes fegyver növeli a Védekezési Értéked +4-gyel.""
 
 5
 16
 ""Ogre Pajzs
 Osztály: Jelentõsebb.
-Ez a bal kezes fegyver növeli a Védekezési Értéked +5-tel.""
+Ez a balkezes fegyver növeli a Védekezési Értéked +5-tel.""
 
 5
 17
 ""Átkozottak Pajzsa
 Osztály: Jelentõsebb.
-Ez a bal kezes fegyver növeli a Védekezési Értéked +6-tal.""
+Ez a balkezes fegyver növeli a Védekezési Értéked +6-tal.""
 
 5
 18
 ""Õrszemek Pajzsa
 Osztály: Ereklye.
-Ez a bal kezes hatalmas erejû ereklye növeli a Védekezési Értéked +12-vel, de csökkenti a Támadási Értéked -3-mal.""
+Ez a balkezes hatalmas erejû ereklye növeli a Védekezési Értéked +12-vel, de csökkenti a Támadási Értéked -3-mal.""
 
 5
 19
@@ -5246,76 +5246,76 @@ Amennyiben birtokoljuk az Arannyal Teli Tarsolyt, az gyarapítja a kincstáradat 5
 118
 ""Harcos Szobra - Láb
 Osztály: Kincs
-This item, when equipped by a hero in a város, increases the growth of your 2nd level units (in that város) by 5 / hetente.""
+Ez a Szobor növeli az összes 2. szintû egységed szaporulatát 5-tel hetente. Abban a városban, ahol az a hõsöd tartózkodik, amelyiknél a Szobor van.""
 
 5
 119
 ""Harcos Szobra - Derék
 Osztály: Jelentõsebb.
-This item, when equipped by a hero in a város, increases the growth of your 3rd level units (in that város) by 4 / hetente.""
+Ez a Szobor növeli az összes 3. szintû egységed szaporulatát 4-gyel hetente. Abban a városban, ahol az a hõsöd tartózkodik, amelyiknél a Szobor van.""
 
 5
 120
 ""Harcos Szobra - Mellkas
 Osztály: Jelentõsebb.
-This item, when equipped by a hero in a város, increases the growth of your 4th level units (in that város) by 3 / hetente.""
+Ez a Szobor növeli az összes 4. szintû egységed szaporulatát 3-mal hetente. Abban a városban, ahol az a hõsöd tartózkodik, amelyiknél a Szobor van.""
 
 5
 121
 ""Harcos Szobra - Karok
 Osztály: Jelentõsebb.
-This item, when equipped by a hero in a város, increases the growth of your 5th level units (in that város) by 2 / hetente.""
+Ez a Szobor növeli az összes 5. szintû egységed szaporulatát 2-vel hetente. Abban a városban, ahol az a hõsöd tartózkodik, amelyiknél a Szobor van.""
 
 5
 122
 ""Harcos Szobra - Fej
 Osztály: Jelentõsebb.
-This item, when equipped by a hero in a város, increases the growth of your 6th level units (in that város) by 1 / hetente.""
+Ez a Szobor növeli az összes 6. szintû egységed szaporulatát 1-gyel hetente. Abban a városban, ahol az a hõsöd tartózkodik, amelyiknél a Szobor van.""
 
 5
 123
 ""Tengerészkapitány Kalapja
 Osztály: Ereklye.
-When worn, this hat increase your movement at Tengeri by 500 pont, allows you to summon és destroy boats, és protects you from whirlpools.""
+A Tengerészkapitány Kalapja növeli a hõsöd tengeri mozgástávját 500 mozgásponttal, segítségével tudsz megidézni és megsemmisíteni hajókat valamint megvédi hõsöd hajóját az örvényektõl.""
 
 5
 124
 ""Fõvarázsló Kalapja
 Osztály: Ereklye.
-When worn, this hat allows you to cast all 5th level spells.""
+Ha hõsöd a Fõvarázsló Kalapját viseli, az összes 5. szintû varázslatot használhatja.""
 
 5
 125
 ""Háború Béklyói
 Osztály: Jelentõsebb.
-When these shackles are wielded in combat between two heroes, neither you nor your opponent may Visszavonulás vagy surrender.""
+Ha a Háború Béklyói akár nálad, akár az ellenfelednél van, a csatát végig kell játszani. Nem tud sem az ellenséged, sem a Te hõsöd elmenekülni visszavonulás vagy megadás nélkül.""
 
 5
 126
 ""Tilalom Varázsgömb
 Osztály: Ereklye.
-This powerful orb prevents all spell casting in combat.""
+Ez az erõs gömb megakadályoz minden varázslatot a csata során.""
 
 5
 127
 ""Sárkányvér Fiola
 Osztály: Ereklye.
-This powerful vial gives all dragons under your command +5 Attack és +5 Defense.""
+A fiola tartalma parancsnokságod alatt álló összes sárkánynak +5 támadást és +5 védelmet ad.""
 
 5
 128
 ""Végítélet Pengéje
 Osztály: Ereklye.
-This powerful sword gives your hero + 3 Attack. + 3 Defense. + 6 Knowledge. + 3 Power.  Places the Expert Armageddon Spell in your hero's Varázskönyv. All allied creatures become immune to Armageddon""
+Ez a hatalmas erejû kard + 3 támadás. + 3 védekezés. + 6 tudás. + 3 varázserõt ad hõsödnek. Továbbá elhelyezi a Mester Végítélet varázslatot a varázskönyvben, amely varázslatra minden egységed immunis lesz.""
 
 5
 129
 ""Angyali Szövetség
-In addition to component effect the Angyali Szövetség grants each army of player to mix good és neutral város creatures without morale penalty. At the beginning of each combat the Angyali Szövetség will cast Expert Prayer for 10 rounds.
-Requires the following Mûtárgyak to create: 
+Az Angyali Szövetség a komponensek hatásai mellett minden egységednek hangulatbüntetés nélkül ad lehetõséget arra, hogy jó és semleges városi egységeket keverj a csatában. Minden harc elején az Angyali Szövetség 10 körön keresztül mester Imádság varázslatot hajt végre.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Felvilágosodás Sisak
 +Gyönyör Nyaklánca
-+Sword of Judgment
++Igazság Pallosa
 +Csodák Páncélja
 +Szentek Bocskora
 +Oroszlánbátorság Pajzsa""
@@ -5323,11 +5323,11 @@ Requires the following Mûtárgyak to create:
 5
 130
 ""Halott Király Köpönyege
-If hero does not have the Necromancy skill The Halott Király Köpönyege will raise 15% of the battlefield dead enemies as Skeletons. If hero already has the Necromancy skill then, in addition to component effect, this cloak allows to raise stronger undead units. The level of skill determines what type is resurrected.  
-Basic: Zombies
-Advanced: Wights
-Expert: Liches
-Requires the following Mûtárgyak to create:
+Ha a hõs nem rendelkezik a nekromancia képességgel, a Halott Király Köpönyege a csatatéren halott ellenségek 15% -át csontvázként fogja feltámasztani. Ha a hõs már rendelkezik a nekromancia képességgel, akkor az összetevõk hatása mellett ez a köpeny lehetõvé teszi erõsebb élõhalott egységek feltámasztását. A készségszint határozza meg, hogy milyen típus támad fel.  
+Alap: Zombik
+Haladó: Lelkek
+Mester: Lichek
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Sírásó Amulettje
 +Vámpír Csuklya
 +Halottak Csizmája""
@@ -5335,17 +5335,17 @@ Requires the following Mûtárgyak to create:
 5
 131
 ""Életelixír
-In addition to component effect the Életelixír will give all creatures in the Hero's ranks a 25% bonus to their életerõ és gain the ability to regenerate 50 hit pont each round. Does not work on the undead vagy unliving creatures.
-Requires the following Mûtárgyak to create:
+A komponensek hatásai mellett az Életelixír a hõs soraiban lévõ összes egységnek 25% bónuszt ad az életerejéhez, és minden körben 50 sebzés pontot regenerál. Nem mûködik az élõhalottakon vagy az élettelen lényeken.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Élet Gyûrû
-+Vial of Life Blood
++Életerõ Fiola
 +Életerõ Gyûrû""
 
 5
 132
 ""Elátkozott Csodamellvért
-In addition to component effect the Elátkozott Csodamellvért casts these spells on expert level at the beginning of combat on all of your opponent's creatures for fifty rounds: Slow, Curse, Gyengeség, és Misfortune.
-Requires the following Mûtárgyak to create:
+Az Elátkozott Csodamellvért komponenshatásek hatásai mellett ezeket a varázslatokat szakértõi szinten a harc elején 50 körön keresztül az ellenfél összes egységére varázsolja: Lassítás, Átok, Gyengeség és Balszerencse.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Koponya Sisak 
 +Halállovag Kardja 
 +Csont Mellvért
@@ -5354,10 +5354,10 @@ Requires the following Mûtárgyak to create:
 5
 133
 ""Légió Szobra
-In addition to component effect the Légió Szobra gives you +50% creature growth based off of the Castle creature generation level for all towns, does not include flagged structures vagy other like bonuses.
-Requires the following Mûtárgyak to create:
+A Légió Szobra komponenshatásain kívül +50% teremtménynövekedést ad a vár teremtménygenerálási szintje alapján minden városra, nem tartalmazza a zászlós építményeket vagy más hasonló bónuszokat.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Harcos Szobra - Láb
-+Hips of Legion
++Harcos Szobra - Derék
 +Harcos Szobra - Mellkas
 +Harcos Szobra - Karok
 +Harcos Szobra - Fej""
@@ -5365,8 +5365,8 @@ Requires the following Mûtárgyak to create:
 5
 134
 ""Sárkányvezéri Erõ
-In addition to component effect the Sárkányvezéri Erõ gives you +6 to all primary skills, és the hero's troops become immune to all level 1-4 spells except Dispel.
-Requires the following Mûtárgyak to create:
+A Sárkányvezéri Erõ komponenshatás mellett +6-ot ad minden elsõdleges képességhez, valamint a hõs egységei immunisak lesznek minden 1-4. szintû varázslatra, kivéve az Eloszlatás varázslatot.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Sárkányfog Korona
 +Sárkányfog Nyaklánc
 +Sárkányszárny Kabát
@@ -5380,8 +5380,8 @@ Requires the following Mûtárgyak to create:
 5
 135
 ""Titáni Mennydörgés
-In addition to component effect the Titáni Mennydörgés gives the hero the Titan's Villámcsapás Bolt that causes 600 pont of Sérülés és does not Költség any spell pont. If the hero does not have a Varázskönyv, then one will be permanently added.
-Requires the following Mûtárgyak to create:
+A Titáni Mennydörgés a komponenshatásai mellett a Titáni Menydörgést ad a hõsnek, amely 600 pont Sérülést okoz és varázspontot nem használ fel. Ha a hõsnek nincs Varázskönyve, akkor állandóra ad egyet ebbõl.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Mennydörgés Sisak
 +Titánok Kardja
 +Titánok Páncélja
@@ -5390,16 +5390,16 @@ Requires the following Mûtárgyak to create:
 5
 136
 ""Admirális Kalap
-In addition to component effect Admirális Kalap will remove the Boarding és Unboarding ship penalty, converting the hero's movement pont between Land és Water.
-Requires the following Mûtárgyak to create:
+Az Admirális Kalap komponenshatásai mellett megszünteti a hajóra szállás és a hajóról leszállás büntetést, konvertálodik a mozgáspont, amit a hõsünk tud használni vízen illetve szárazöldön is.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Tengerészkapitány Kalapja
 +Tengeri Irányítás Nyakék""
 
 5
 137
 ""Mesterlövész Íj
-In addition to component effect the Mesterlövész Íj allows ranged shooters fire projectiles while adjacent to an enemy creature. Removes Íjászat penalty for range vagy obstacle.
-Requires the following Mûtárgyak to create:
+A Mesterlövész Íj komponenshatásai mellett lehetõvé teszi a távolsági lövészeknek, hogy lõjenek, miközben egy ellenséges egység mellett vannak. Eltávolítja az íjászat büntetését a távolság vagy akadály esetén.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Tünde Íj
 +Unikornis-Sörény Húr
 +Angyalszárnytollas Nyilak""
@@ -5407,17 +5407,17 @@ Requires the following Mûtárgyak to create:
 5
 138
 ""Varázslók Kútja
-The Varázslók Kútja will regenerate all spell pont naponta.
-Requires the following Mûtárgyak to create:
-+Orb of Mana
+A Varázslók Kútja minden nap maximumra regenerálja a varázspontokat.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
++Misztikus Varázsgömb
 +Bûvös Talizmán
 +Bûvös Nyaklánc""
 
 5
 139
 ""Mágus Gyûrû
-In addition to component effect the Mágus Gyûrû will add 50 rounds to spell duration.
-Requires the following Mûtárgyak to create:
+A komponensek hatásai mellett a Mágus Gyûrû 50 körrel növeli a varázslatok idõtartamát.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Idézés Nyakörv
 +Idézés Gyûrû
 +Idézés Köpeny""
@@ -5425,248 +5425,248 @@ Requires the following Mûtárgyak to create:
 5
 140
 ""Bõségszaru
-In addition to component effect the Bõségszaru will generate 4 of each precious resource, naponta.
-Requires the following Mûtárgyak to create:
-+Everflowing Cloak of Kristály
+A komponensek hatásai mellett naponta minden ásványból +4-gyet hoz raktárunkba.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
++Kristály Köpeny
 +Higany Fiola
 +Kén Gyûrû
 +Drágakõ Gyûrû""
 
 16
 0
-""Cyclops Stockpile
-- 30% Fight 20 Cyclops for 4 of each resource other than Arany.
-- 30% Fight 30 Cyclops for 6 of each resource other than Arany.
-- 30% Fight 40 Cyclops for 8 of each resource other than Arany.
-- 10% Fight 50 Cyclops for 10 of each resource other than Arany.""
+""Küklopszok raktára
+- 30% esély arra, hogy 20 Küklopsz fog harcolni ellened 4 bármely erõforrásért cserébe az Aranyon kívül.
+- 30% esély arra, hogy 30 Küklopsz fog harcolni ellened 6 bármely erõforrásért cserébe az Aranyon kívül.
+- 30% esély arra, hogy 40 Küklopsz fog harcolni ellened 8 bármely erõforrásért cserébe az Aranyon kívül.
+- 10% esély arra, hogy 50 Küklopsz fog harcolni ellened 10 bármely erõforrásért cserébe az Aranyon kívül""
 
 16
 1
-""Dwarven Kincstár
-- 30% Fight 50 Dwarves for 2500 Arany és 2 Kristály.
-- 30% Fight 75 Dwarves for 4000 Arany és 3 Kristály.
-- 30% Fight 100 Dwarves for 5000 Arany és 5 Kristály.
-- 10% Fight 150 Dwarves for 7500 Arany és 10 Kristály.""
+""Törpék kincstára
+- 30% esély arra, hogy 50 Törpe fog harcolni 2500 Aranyért és 2 Kristályért cserébe.
+- 30% esély arra, hogy 75 Törpe fog harcolni 4000 Aranyért és 3 Kristályért cserébe.
+- 30% esély arra, hogy 100 Törpe fog harcolni 5000 Aranyért és 5 Kristályért cserébe.
+- 10% esély arra, hogy 150 Törpe fog harcolni 7500 Aranyért és 10 Kristályért cserébe.""
 
 16
 2
-""Griffin Conservatory
-- 30% Fight 50 Griffins to receive 1 Angel into your army's ranks.
-- 30% Fight 100 Griffins to receive 2 Angel into your army's ranks.
-- 30% Fight 150 Griffins to receive 3 Angel into your army's ranks.
-- 10% Fight 200 Griffins to receive 4 Angel into your army's ranks.""
+""Griffek konzervatóriuma
+- 30% esély arra, hogy 50 Griff fog harcolni ellened azért, hogy 1 Angyal kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 100 Griff fog harcolni ellened azért, hogy 2 Angyal kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 150 Griff fog harcolni ellened azért, hogy 3 Angyal kerülhessen a sereged soraiba.
+- 10% esély arra, hogy 200 Griff fog harcolni ellened azért, hogy 4 Angyal kerülhessen a sereged soraiba.""
 
 16
 3
-""Imp Cache
-- 30% Fight 100 Imps for 1000 Arany és 2 Higany.
-- 30% Fight 150 Imps for 1500 Arany és 3 Higany.
-- 30% Fight 200 Imps for 2000 Arany és 4 Higany.
-- 10% Fight 300 Imps for 3000 Arany és 6 Higany.""
+""Ördögfiókák rejtekhelye
+- 30% esély arra, hogy 100 Ördögfióka fog harcolni 1000 Aranyért és 2 Higanyért cserébe.
+- 30% esély arra, hogy 150 Ördögfióka fog harcolni 1500 Aranyért és 3 Higanyért cserébe.
+- 30% esély arra, hogy 200 Ördögfióka fog harcolni 2000 Aranyért és 4 Higanyért cserébe.
+- 10% esély arra, hogy 300 Ördögfióka fog harcolni 3000 Aranyért és 6 Higanyért cserébe.""
 
 16
 4
-""Medusa Stores
-- 30% Fight 20 Medusa for 2000 Arany és 5 Kén.
-- 30% Fight 30 Medusa for 3000 Arany és 6 Kén.
-- 30% Fight 40 Medusa for 4000 Arany és 8 Kén.
-- 10% Fight 50 Medusa for 5000 Arany és 10 Kén.""
+""Medúzák raktára
+- 30% esély arra, hogy 20 Medúza fog harcolni 2000 Aranyért és 5 Kénért cserébe.
+- 30% esély arra, hogy 30 Medúza fog harcolni 3000 Aranyért és 6 Kénért cserébe.
+- 30% esély arra, hogy 40 Medúza fog harcolni 4000 Aranyért és 8 Kénért cserébe.
+- 10% esély arra, hogy 50 Medúza fog harcolni 5000 Aranyért és 10 Kénért cserébe.""
 
 16
 5
-""Naga Bank
-- 30% Fight 10 Nagas for 4000 Arany és 8 Drágakõ.
-- 30% Fight 15 Nagas for 6000 Arany és 12 Drágakõ.
-- 30% Fight 20 Nagas for 8000 Arany és 16 Drágakõ.
-- 10% Fight 30 Nagas for 12000 Arany és 24 Drágakõ.""
+""Nagák bankja
+- 30% esély arra, hogy 10 Naga fog harcolni 4000 Aranyért és 8 Drágakõért cserébe.
+- 30% esély arra, hogy 15 Naga fog harcolni 6000 Aranyért és 12 Drágakõért cserébe.
+- 30% esély arra, hogy 20 Naga fog harcolni 8000 Aranyért és 16 Drágakõért cserébe.
+- 10% esély arra, hogy 30 Naga fog harcolni 12000 Aranyért és 24 Drágakõért cserébe.""
 
 16
 6
-""Dragon Fly Hive
-- 30% Fight 30 Dragonflies to receive 4 Wvyerns into your army's ranks.
-- 30% Fight 45 Dragonflies to receive 6 Wvyerns into your army's ranks.
-- 30% Fight 60 Dragonflies to receive 8 Wvyerns into your army's ranks.
-- 10% Fight 90 Dragonflies to receive 12 Wvyerns into your army's ranks.""
+""Sárkánylegyek kaptára
+- 30% esély arra, hogy 30 Sárkánylégy fog harcolni ellened azért, hogy 4 Sárkánygyík kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 45 Sárkánylégy fog harcolni ellened azért, hogy 6 Sárkánygyík kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 60 Sárkánylégy fog harcolni ellened azért, hogy 8 Sárkánygyík kerülhessen a sereged soraiba.
+- 10% esély arra, hogy 90 Sárkánylégy fog harcolni ellened azért, hogy 12 Sárkánygyík kerülhessen a sereged soraiba.""
 
 17
 0
-""Basilisk Pit
-Basilisk egység lakása.""
+""Baziliszkusz akna
+Baziliszkusz egység lakása.""
 
 17
 1
-""Behemoth Crag
-Behemoth egység lakása.""
+""Behemót odú
+Behemót egység lakása.""
 
 17
 2
-""Pillar of Eyes
-Beholder egység lakása.""
+""Szemek pillére
+Szemlélõ egység lakása.""
 
 17
 3
-""Hall of Darkness
-Black Knight egység lakása.""
+""Sötétség csarnoka
+Fekete Lovag egység lakása.""
 
 17
 4
-""Dragon Vault
-Csont Dragon egység lakása.""
+""Sárkány pince
+Csontsárkány egység lakása.""
 
 17
 5
-""Training Grounds
-Cavalier egység lakása.""
+""Lovarda
+Lovag egység lakása.""
 
 17
 6
-""Centaur Istállók
-Centaur egység lakása.""
+""Kentaur istállók
+Kentaur egység lakása.""
 
 17
 7
-""Altar of Air
-Air Elemental egység lakása.""
+""Levegõ oltár
+Lég elementál egység lakása.""
 
 17
 8
-""Portál of Glory
-Angel egység lakása.""
+""Fény oltára
+Angyal egység lakása.""
 
 17
 9
-""Cyclops Cave
-Cyclops egység lakása.""
+""Küklopsz barlang
+Küklopsz egység lakása.""
 
 17
 10
-""Forsaken Palace
-Devil egység lakása.""
+""Elhagyatott palota
+Ördög egység lakása.""
 
 17
 11
-""Serpent Fly Hive
-Serpent Fly egység lakása.""
+""Kígyólégy kaptár
+Kígyólégy egység lakása.""
 
 17
 12
-""Dwarf Cottage
-Dwarf egység lakása.""
+""Törpe kunyhó
+Törpe egység lakása.""
 
 17
 13
-""Altar of Earth
-Earth Elemental egység lakása.""
+""Föld oltár
+Föld Elementál egység lakása.""
 
 17
 14
-""Fire Tó
-Efreeti egység lakása.""
+""Tûztó
+Efreet egység lakása.""
 
 17
 15
-""Homestead
-Fa Elf egység lakása.""
+""Tanya
+Erdõtünde egység lakása.""
 
 17
 16
-""Altar of Fire
-Fire Elemental egység lakása.""
+""Tûz oltár
+Tûz Elementál egység lakása.""
 
 17
 17
-""Parapet
-Stone Gargoyle egység lakása.""
+""Korlátfal
+Kõ Vízköpõ egység lakása.""
 
 17
 18
-""Altar of Wishes
-Genie egység lakása.""
+""Kívánság oltára
+Dzsinn egység lakása.""
 
 17
 19
-""Wolf Tanya
-Wolf Rider egység lakása.""
+""Farkas karám
+Farkaslovas egység lakása.""
 
 17
 20
-""Gnoll Kunyhó
+""Gnoll kunyhó
 Gnoll egység lakása.""
 
 17
 21
-""Goblin Barracks
+""Goblin kaszárnya
 Goblin egység lakása.""
 
 17
 22
-""Hall of Sins
-Gog egység lakása.""
+""Bûn csarnoka
+Góg egység lakása.""
 
 17
 23
-""Gorgon Lair
+""Gorgon karám
 Gorgon egység lakása.""
 
 17
 24
-""Dragon Cliffs
-Green Dragon egység lakása.""
+""Sárkány szirt
+Zöld Sárkány egység lakása.""
 
 17
 25
-""Griffin Tower
-Griffin egység lakása.""
+""Griff torony
+Griff egység lakása.""
 
 17
 26
-""Harpy Loft
-Harpy egység lakása.""
+""Hárpia padlás
+Hárpia egység lakása.""
 
 17
 27
-""Kenelek
-Hell Hound egység lakása.""
+""Kutyaól
+Pokol Kutya egység lakása.""
 
 17
 28
-""Hydra Pond
-Hydra egység lakása.""
+""Hidra tó
+Hidra egység lakása.""
 
 17
 29
-""Imp Crucible
-Imp egység lakása.""
+""Olvasztótégely
+Ördögfióka egység lakása.""
 
 17
 30
-""Lizard Den
-Lizardman egység lakása.""
+""Gyíkember tanya
+Gyíkember egység lakása.""
 
 17
 31
-""Mage Tower
-Mage egység lakása.""
+""Varázsló torony
+Mágus egység lakása.""
 
 17
 32
-""Manticore Lair
+""Manticore barlang
 Manticore egység lakása.""
 
 17
 33
-""Chapel of Stilled Voices
-Medusa egység lakása.""
+""Némaság kápolnája
+Medúza egység lakása.""
 
 17
 34
-""Labyrinth
-Minotaur egység lakása.""
+""Labirintus
+Minotaurusz egység lakása.""
 
 17
 35
-""Monastary
-Monk egység lakása.""
+""Kolostor
+Barát egység lakása.""
 
 17
 36
@@ -5675,343 +5675,343 @@ Naga egység lakása.""
 
 17
 37
-""Demon Gate
-Demon egység lakása.""
+""Démon kapu
+Démon egység lakása.""
 
 17
 38
-""Ogre Fort
+""Ogre erõd
 Ogre egység lakása.""
 
 17
 39
-""Orc Tower
-Orc egység lakása.""
+""Ork torony
+Ork egység lakása.""
 
 17
 40
-""Hell Lyuk
-Pit Fiend egység lakása.""
+""Alvilág verme
+Aknaszörny egység lakása.""
 
 17
 41
-""Dragon Cave
-Red Dragon egység lakása.""
+""Sárkány barlang
+Vörös Sárkány egység lakása.""
 
 17
 42
-""Cliff Fészek
-Roc egység lakása.""
+""Sziklafészek
+Keselyû egység lakása.""
 
 17
 43
-""Workshop
-Gremlin egység lakása.""
+""Mûhely
+Tanonc egység lakása.""
 
 17
 44
-""Cloud Temple
-Giant egység lakása.""
+""Fellegvár
+Óriás egység lakása.""
 
 17
 45
-""Dendroid Arches
-Dendroid Guard egység lakása.""
+""Ent Õrség
+Ent Fapásztor egység lakása.""
 
 17
 46
-""Warren
-Troglodyte egység lakása.""
+""Nyomortelep
+Barlanglakó egység lakása.""
 
 17
 47
-""Altar of Water
-Water Elemental egység lakása.""
+""Víz oltár
+Víz Elementál egység lakása.""
 
 17
 48
-""Lelkek Síremléke
-Wight egység lakása.""
+""Lelkek sírboltja
+Lélek egység lakása.""
 
 17
 49
-""Wyvern Fészek
-Wyvern egység lakása.""
+""Sárkánygyík fészek
+Sárkánygyík egység lakása.""
 
 17
 50
-""Enchanted Spring
-Pegasus egység lakása.""
+""Varázslatos vízesés
+Pegazus egység lakása.""
 
 17
 51
-""Unicorn Glade
-Unicorn egység lakása.""
+""Unikornis tisztás
+Unikornis egység lakása.""
 
 17
 52
-""Mausoleum
+""Mauzóleum
 Lich egység lakása.""
 
 17
 53
-""Estate
-Vampire egység lakása.""
+""Sírkamra
+Vámpír egység lakása.""
 
 17
 54
-""Cursed Temple
-Skeleton egység lakása.""
+""Átkozottak temploma
+Csontváz egység lakása.""
 
 17
 55
-""Graveyard
-Walking Dead egység lakása.""
+""Sírkert
+Feltámasztott egység lakása.""
 
 17
 56
-""Guardhouse
-Pikeman egység lakása.""
+""Õrház
+Lándzsás egység lakása.""
 
 17
 57
-""Archers' Tower
-Archer egység lakása.""
+""Íjász torony
+Íjász egység lakása.""
 
 17
 58
-""Barracks
-Swordsman egység lakása.""
+""Kaszárnya
+Kardforgató egység lakása.""
 
 17
 59
-""Flower of Life
-Pixie egység lakása.""
+""Varázs laterna
+Tündérke egység lakása.""
 
 17
 60
-""Altar of Thought
-Psychic Elemental egység lakása.""
+""Lélek oltár
+Lélek Elementál egység lakása.""
 
 17
 61
-""Pyre
-Firebird egység lakása.""
+""Halotti máglya
+Tûzmadár egység lakása.""
 
 17
 62
-""Frozen Peaks
-Azure Dragon egység lakása.""
+""Fagyott hegycsúcsok
+Azúrsárkány egység lakása.""
 
 17
 63
-""Kristály Cave
-Kristály Dragon egység lakása.""
+""Kristálybarlang
+Kristálysárkány egység lakása.""
 
 17
 64
-""Magic Forest
-Faerie Dragon egység lakása.""
+""Varázserdõ
+Tündérsárkány egység lakása.""
 
 17
 65
-""Kénous Lair
-Rust Dragon egység lakása.""
+""Kénköves búvóhely
+Rozsdasárkány egység lakása.""
 
 17
 66
-""Enchanter's Hollow
-Enchanter egység lakása.""
+""Varázsló üreg
+Varázsló egység lakása.""
 
 17
 67
-""Treetop Tower
-Sharpshooter egység lakása.""
+""Fák tetején álló torony
+Mesterlövész egység lakása.""
 
 17
 68
-""Unicorn Glade
-Unicorn egység lakása.""
+""Unikornis tisztás
+Unikornis egység lakása.""
 
 17
 69
-""Altar of Air
-Air Elemental egység lakása.""
+""Levegõ oltár
+Lég Elementál egység lakása.""
 
 17
 70
-""Altar of Earth
-Earth Elemental egység lakása.""
+""Föld oltár
+Föld Elementál egység lakása.""
 
 17
 71
-""Altar of Fire
-Fire Elemental egység lakása.""
+""Tûz oltár
+Tûz Elementál egység lakása.""
 
 17
 72
-""Altar of Water
-Water Elemental egység lakása.""
+""Víz oltár
+Víz Elementál egység lakása.""
 
 17
 73
-""Thatched Kunyhó
+""Nádfedeles kunyhó
 Félszerzet egység lakása.""
 
 17
 74
-""Hovel
-Peasant egység lakása.""
+""Viskó
+Paraszt egység lakása.""
 
 17
 75
-""Boar Glen
-Boar egység lakása.""
+""Vaddisznó szurdok
+Vaddisznó egység lakása.""
 
 17
 76
-""Tomb of Curses
-Mummy egység lakása.""
+""Átkok sírja
+Múmia egység lakása.""
 
 17
 77
-""Nomad Tent
-Nomad egység lakása.""
+""Nomád sátor
+Nomád egység lakása.""
 
 17
 78
-""Hidden Cavern
-Rogue egység lakása.""
+""Rejtett barlang
+Zsivány egység lakása.""
 
 17
 79
-""Troll Híd
+""Troll híd
 Troll egység lakása.""
 
 20
 0
-""Elemental Conflux
-Air, Earth, Fire és Water elementals egységek lakása.""
+""Elementál Conflux
+Lég, föld, tûz és víz elementál egységek lakása.""
 
 20
 1
-""Golem Factory
-Kõ, Iron, Arany, és Diamond Golem egység lakása.""
+""Gólem gyár
+Kõ, acél, arany, és gyémánt gólem egység lakása.""
 
 33
 0
-""Garrison
-Location for storing troops at a choke pont.""
+""Helyõrség
+Csapatok tárolásának helye egy átjáróponton.""
 
 33
 1
-""Anti-magic Garrison
-Location for storing troops at a choke pont.
-Spells cannot be cast in combat.""
+""Anti-mágia helyõrség
+Csapatok tárolásának helye egy átjáróponton.
+Harc közben itt nem lehet varázsolni.""
 
 34
 0
-""Knight
-Castle might hero.""
+""Lovag
+Castle hõs.""
 
 34
 1
-""Cleric
-Castle magic hero.""
+""Pap
+Castle mágikus hõs.""
 
 34
 2
-""Ranger
-Rampart might hero.""
+""Kósza
+Rampart hõs.""
 
 34
 3
-""Druid
-Rampart magic hero.""
+""Druida
+Rampart mágikus hõs.""
 
 34
 4
-""Alchemist
-Tower might hero.""
+""Alkimista
+Tower hõs.""
 
 34
 5
-""Wizard
-Tower magic hero.""
+""Igézõ
+Tower mágikus hõs.""
 
 34
 6
-""Demoniac
-Inferno might hero.""
+""Pokolfajzat
+Inferno hõs.""
 
 34
 7
-""Heretic
-Inferno magic hero.""
+""Eretnek
+Inferno mágikus hõs.""
 
 34
 8
-""Death Knight
-Necropolis might hero.""
+""Halállovag
+Necropolis hõs.""
 
 34
 9
-""Necromancer
-Necropolis magic hero.""
+""Nekromata
+Necropolis mágikus hõs.""
 
 34
 10
-""Overlord
-Dungeon might hero.""
+""Nagyúr
+Dungeon hõs.""
 
 34
 11
-""Warlock
-Dungeon magic hero.""
+""Varázsló
+Dungeon mágikus hõs.""
 
 34
 12
-""Barbarian
-Stronghold might hero.""
+""Barbár
+Stronghold hõs.""
 
 34
 13
-""Battle Mage
-Stronghold magic hero.""
+""Harci mágus
+Stronghold mágikus hõs.""
 
 34
 14
-""Beastmaster
-Fortress might hero.""
+""Állatszelidítõ
+Fortress hõs.""
 
 34
 15
-""Witch
-Fortress magic hero.""
+""Boszorkány
+Fortress mágikus hõs.""
 
 34
 16
-""Planeswalker
-Conflux might hero.""
+""Síkjáró
+Conflux hõs.""
 
 34
 17
-""Elementalist 
-Conflux magic hero.""
+""Elementalista 
+Conflux mágikus hõs.""
 
 53
 0
-""Sawmill
+""Szélmalom
 Termel számodra 2 Fát naponta.""
 
 53
 1
-""Alchemist's Lab
+""Alkimista labor
 Termel számodra 1 Higanyt naponta.""
 
 53
 2
-""Ore Pit
+""Ércbánya
 Termel számodra 2 Ércet naponta.""
 
 53
@@ -6021,12 +6021,12 @@ Termel számodra 1 Ként naponta.""
 
 53
 4
-""Kristály Cavern
+""Kristálybarlang
 Termel számodra 1 Kristályt naponta.""
 
 53
 5
-""Gem Pond
+""Drágakõ tó
 Termel számodra 1 Drágakövet naponta.""
 
 53
@@ -6037,888 +6037,888 @@ Termel számodra 1000 Aranyat naponta.""
 53
 7
 ""Elhagyott bánya
-Fight 100-200 Troglodytes to restore the bánya back to production.""
+100-200 Troglodytes harcol to restore the bánya back to production.""
 
 54
 0
-""Pikeman
-Level 1 Castle creature.
+""Lándzsás
+1. szintû Castle egység.
 Mennyiség: 20-50.""
 
 54
 1
-""Halberdier
-Upgraded level 1 Castle creature.
+""Alabárdos
+Fejlesztett 1. szintû Castle egység.
 Mennyiség: 20-30.""
 
 54
 2
-""Archer
-Level 2 Castle creature.
+""Íjász
+2. szintû Castle egység.
 Mennyiség: 16-30.""
 
 54
 3
-""Marksman
-Level 2 Castle creature.
+""Számszeríjász
+2. szintû Castle egység.
 Mennyiség: 16-25.""
 
 54
 4
-""Griffin
-Level 3 Castle creature.
+""Griff
+3. szintû Castle egység.
 Mennyiség: 12-25.""
 
 54
 5
-""Royal Griffin
-Upgraded level 3 Castle creature.
+""Királyi griff
+Fejlesztett 3. szintû Castle egység.
 Mennyiség: 12-20.""
 
 54
 6
-""Swordsman
-Level 4 Castle creature.
+""Kardforgató
+4. szintû Castle egység.
 Mennyiség: 10-20.""
 
 54
 7
-""Crusader
-Upgraded level 4 Castle creature.
+""Keresztes
+Fejlesztett 4. szintû Castle egység.
 Mennyiség: 10-16.""
 
 54
 8
-""Monk
-Level 5 Castle creature.
+""Barát
+5. szintû Castle egység.
 Mennyiség: 8-16.""
 
 54
 9
-""Zealot
-Upgraded level 5 Castle creature.
+""Zelóta
+Fejlesztett 5. szintû Castle egység.
 Mennyiség: 8-12.""
 
 54
 10
-""Cavalier
-Level 6 Castle creature.
+""Lovag
+6. szintû Castle egység.
 Mennyiség: 5-12.""
 
 54
 11
-""Champion
-Upgraded level 6 Castle creature.
+""Bajnok
+Fejlesztett 6. szintû Castle egység.
 Mennyiség: 5-10.""
 
 54
 12
-""Angel
-Level 7 Castle creature.
+""Angyal
+7. szintû Castle egység.
 Mennyiség: 4-10.""
 
 54
 13
-""Archangel
-Upgraded level 7 Castle creature.
+""Arkangyal
+Fejlesztett 7. szintû Castle egység.
 Mennyiség: 3-8.""
 
 54
 14
-""Centaur
-Level 1 Rampart creature.
+""Kentaur
+1. szintû Rampart egység.
 Mennyiség: 20-50.""
 
 54
 15
-""Centaur Kapitány
-Upgraded level 1 Rampart creature.
+""Kentaur Kapitány
+Fejlesztett 1. szintû Rampart egység.
 Mennyiség: 20-30.""
 
 54
 16
-""Dwarf
-Level 2 Rampart creature.
+""Törpe
+2. szintû Rampart egység.
 Mennyiség: 16-30.""
 
 54
 17
-""Battle Dwarf
-Level 2 Ramart creature.
+""Törpe harcos
+2. szintû Ramart egység.
 Mennyiség: 16-25.""
 
 54
 18
-""Fa Elf
-Level 3 Rampart creature.
+""Erdõtünde
+3. szintû Rampart egység.
 Mennyiség: 12-25.""
 
 54
 19
-""Grand Elf
-Upgraded level 3 Rampart creature.
+""Nemestünde
+Fejlesztett 3. szintû Rampart egység.
 Mennyiség: 12-20.""
 
 54
 20
-""Pegasus
-Level 4 Rampart creature.
+""Pegazus
+4. szintû Rampart egység.
 Mennyiség: 10-20.""
 
 54
 21
-""Silver Pegasus
-Upgraded level 4 Rampart creature.
+""Ezüst pegazus
+Fejlesztett 4. szintû Rampart egység.
 Mennyiség: 10-16.""
 
 54
 22
-""Dendroid Guard
-Level 5 Rampart creature.
+""Ent fapásztor
+5. szintû Rampart egység.
 Mennyiség: 8-16.""
 
 54
 23
-""Dendroid Soldier
-Upgraded level 5 Rampart creature.
+""Ent harcos
+Fejlesztett 5. szintû Rampart egység.
 Mennyiség: 8-12.""
 
 54
 24
-""Unicorn
-Level 6 Rampart creature.
+""Unikornis
+6. szintû Rampart egység.
 Mennyiség: 5-12.""
 
 54
 25
-""War Unicorn
-Upgraded level 6 Rampart creature.
+""Harci unikornis
+Fejlesztett 6. szintû Rampart egység.
 Mennyiség: 5-10.""
 
 54
 26
-""Green Dragon
-Level 7 Rampart creature.
+""Zöld sárkány
+7. szintû Rampart egység.
 Mennyiség: 4-10.""
 
 54
 27
-""Arany Dragon
-Upgraded level 7 Rampart creature.
+""Arany sárkány
+Fejlesztett 7. szintû Rampart egység.
 Mennyiség: 3-8.""
 
 54
 28
-""Gremlin
-Level 1 Tower creature.
+""Tanonc
+1. szintû Tower egység.
 Mennyiség: 20-50.""
 
 54
 29
-""Master Gremlin
-Upgraded level 1 Tower creature.
+""Kiváló tanonc
+Fejlesztett 1. szintû Tower egység.
 Mennyiség: 20-30.""
 
 54
 30
-""Kõ Gargoyle
-Level 2 Tower creature.
+""Kõ vízköpõ
+2. szintû Tower egység.
 Mennyiség: 16-30.""
 
 54
 31
-""Obsidian Gargoyle
-Level 2 Tower creature.
+""Obszidián vízköpõ
+2. szintû Tower egység.
 Mennyiség: 16-25.""
 
 54
 32
-""Kõ Golem
-Level 3 Tower creature.
+""Kõgólem
+3. szintû Tower egység.
 Mennyiség: 12-25.""
 
 54
 33
-""Iron Golem
-Upgraded level 3 Tower creature.
+""Acél gólem
+Fejlesztett 3. szintû Tower egység.
 Mennyiség: 12-20.""
 
 54
 34
-""Mage
-Level 4 Tower creature.
+""Mágus
+4. szintû Tower egység.
 Mennyiség: 10-20.""
 
 54
 35
-""Arch Mage
-Upgraded level 4 Tower creature.
+""Fõmágus
+Fejlesztett 4. szintû Tower egység.
 Mennyiség: 10-16.""
 
 54
 36
-""Genie
-Level 5 Tower creature.
+""Dzsinn
+5. szintû Tower egység.
 Mennyiség: 8-16.""
 
 54
 37
-""Master Genie
-Upgraded level 5 Tower creature.
+""Masterdzsinn
+Fejlesztett 5. szintû Tower egység.
 Mennyiség: 8-12.""
 
 54
 38
 ""Naga
-Level 6 Tower creature.
+6. szintû Tower egység.
 Mennyiség: 5-12.""
 
 54
 39
-""Naga Queen
-Upgraded level 6 Tower creature.
+""Naga királynõ
+Fejlesztett 6. szintû Tower egység.
 Mennyiség: 5-10.""
 
 54
 40
-""Giant
-Level 7 Tower creature.
+""Óriás
+7. szintû Tower egység.
 Mennyiség: 4-10.""
 
 54
 41
-""Titan
-Upgraded level 7 Tower creature.
+""Titán
+Fejlesztett 7. szintû Tower egység.
 Mennyiség: 3-8.""
 
 54
 42
-""Imp
-Level 1 Inferno creature.
+""Ördögfióka
+1. szintû Inferno egység.
 Mennyiség: 20-50.""
 
 54
 43
-""Familiar
-Upgraded level 1 Inferno creature.
+""Kisérõ
+Fejlesztett 1. szintû Inferno egység.
 Mennyiség: 20-30.""
 
 54
 44
-""Gog
-Level 2 Inferno creature.
+""Góg
+2. szintû Inferno egység.
 Mennyiség: 16-30.""
 
 54
 45
-""Magog
-Upgraded Level 2 Inferno creature.
+""Magóg
+Fejlesztett 2. szintû Inferno egység.
 Mennyiség: 16-25.""
 
 54
 46
-""Hell Hound
-Level 3 Inferno creature.
+""Pokolkutya
+3. szintû Inferno egység.
 Mennyiség: 12-25.""
 
 54
 47
-""Cerberus
-Upgraded level 3 Inferno creature.
+""Kerberosz
+Fejlesztett 3. szintû Inferno egység.
 Mennyiség: 12-20.""
 
 54
 48
-""Demon
-Level 4 Inferno creature.
+""Démon
+4. szintû Inferno egység.
 Mennyiség: 10-20.""
 
 54
 49
-""Horned Demon
-Upgraded level 4 Inferno creature.
+""Szarvas démon
+Fejlesztett 4. szintû Inferno egység.
 Mennyiség: 10-16.""
 
 54
 50
-""Pit Fiend
-Level 5 Inferno creature.
+""Aknaszörny
+5. szintû Inferno egység.
 Mennyiség: 8-16.""
 
 54
 51
-""Pit Lord
-Upgraded level 5 Inferno creature.
+""Aknaúr
+Fejlesztett 5. szintû Inferno egység.
 Mennyiség: 8-12.""
 
 54
 52
-""Efreeti
-Level 6 Inferno creature.
+""Efreet
+6. szintû Inferno egység.
 Mennyiség: 5-12.""
 
 54
 53
-""Efreet Sultan
-Upgraded level 6 Inferno creature.
+""Efreet Szultán
+Fejlesztett 6. szintû Inferno egység.
 Mennyiség: 5-10.""
 
 54
 54
-""Devil
-Level 7 Inferno creature.
+""Ördög
+7. szintû Inferno egység.
 Mennyiség: 4-10.""
 
 54
 55
-""Arch Devil
-Upgraded level 7 Inferno creature.
+""Sátán
+Fejlesztett 7. szintû Inferno egység.
 Mennyiség: 3-8.""
 
 54
 56
-""Skeleton
-Level 1 Necropolis creature.
+""Csontváz
+1. szintû Necropolis egység.
 Mennyiség: 20-50.""
 
 54
 57
-""Skeleton Harcos
-Upgraded level 1 Necropolis creature.
+""Csontváz harcos
+Fejlesztett 1. szintû Necropolis egység.
 Mennyiség: 20-30.""
 
 54
 58
-""Walking Dead
-Level 2 Necropolis creature.
+""Feltámasztott
+2. szintû Necropolis egység.
 Mennyiség: 16-30.""
 
 54
 59
-""Zombie
-Upgraded Level 2 Necropolis creature.
+""Zombi
+Fejlesztett 2. szintû Necropolis egység.
 Mennyiség: 16-25.""
 
 54
 60
-""Wight
-Level 3 Necropolis creature.
+""Lélek
+3. szintû Necropolis egység.
 Mennyiség: 12-25.""
 
 54
 61
-""Wraith
-Upgraded level 3 Necropolis creature.
+""Kísértet
+Fejlesztett 3. szintû Necropolis egység.
 Mennyiség: 12-20.""
 
 54
 62
-""Vampire
-Level 4 Necropolis creature.
+""Vámpír
+4. szintû Necropolis egység.
 Mennyiség: 10-20.""
 
 54
 63
-""Vampire Lord
-Upgraded level 4 Necropolis creature.
+""Vaámpírúr
+Fejlesztett 4. szintû Necropolis egység.
 Mennyiség: 10-16.""
 
 54
 64
 ""Lich
-Level 5 Necropolis creature.
+5. szintû Necropolis egység.
 Mennyiség: 8-16.""
 
 54
 65
-""Power Lich
-Upgraded level 5 Necropolis creature.
+""Hatalmas lich
+Fejlesztett 5. szintû Necropolis egység.
 Mennyiség: 8-12.""
 
 54
 66
-""Black Knight
-Level 6 Necropolis creature.
+""Fekete Lovag
+6. szintû Necropolis egység.
 Mennyiség: 5-12.""
 
 54
 67
-""Dread Knight
-Upgraded level 6 Necropolis creature.
+""Halállovag
+Fejlesztett 6. szintû Necropolis egység.
 Mennyiség: 5-10.""
 
 54
 68
-""Csont Dragon
-Level 7 Necropolis creature.
+""Csontsárkány
+7. szintû Necropolis egység.
 Mennyiség: 4-10.""
 
 54
 69
-""Ghost Dragon
-Upgraded level 7 Necropolis creature.
+""Szellemsárkány
+Fejlesztett 7. szintû Necropolis egység.
 Mennyiség: 3-8.""
 
 54
 70
-""Troglodyte
-Level 1 Dungeon creature.
+""Barlanglakó
+1. szintû Dungeon egység.
 Mennyiség: 20-50.""
 
 54
 71
-""Infernal Troglodyte
-Upgraded level 1 Dungeon creature.
+""Pokoli barlanglakó
+Fejlesztett 1. szintû Dungeon egység.
 Mennyiség: 20-30.""
 
 54
 72
-""Harpy
-Level 2 Dungeon creature.
+""Hárpia
+2. szintû Dungeon egység.
 Mennyiség: 16-30.""
 
 54
 73
-""Harpy Hag
-Upgraded Level 2 Dungeon creature.
+""Hárpia banya
+Fejlesztett 2. szintû Dungeon egység.
 Mennyiség: 16-25.""
 
 54
 74
-""Beholder
-Level 3 Dungeon creature.
+""Szemlélõ
+3. szintû Dungeon egység.
 Mennyiség: 12-25.""
 
 54
 75
-""Evil Eye
-Upgraded level 3 Dungeon creature.
+""Gonosz szem
+Fejlesztett 3. szintû Dungeon egység.
 Mennyiség: 12-20.""
 
 54
 76
-""Medusa
-Level 4 Dungeon creature.
+""Medúza
+4. szintû Dungeon egység.
 Mennyiség: 10-20.""
 
 54
 77
-""Medusa Queen
-Upgraded level 4 Dungeon creature.
+""Medúza királynõ
+Fejlesztett 4. szintû Dungeon egység.
 Mennyiség: 10-16.""
 
 54
 78
-""Minotaur
-Level 5 Dungeon creature.
+""Minotaurusz
+5. szintû Dungeon egység.
 Mennyiség: 8-16.""
 
 54
 79
-""Minotaur King
-Upgraded level 5 Dungeon creature.
+""Minotaurusz király
+Fejlesztett 5. szintû Dungeon egység.
 Mennyiség: 8-12.""
 
 54
 80
-""Manticore
-Level 6 Dungeon creature.
+""Mantikor
+6. szintû Dungeon egység.
 Mennyiség: 5-12.""
 
 54
 81
-""Scorpicore
-Upgraded level 6 Dungeon creature.
+""Skorpiko
+Fejlesztett 6. szintû Dungeon egység.
 Mennyiség: 5-10.""
 
 54
 82
-""Red Dragon
-Level 7 Dungeon creature.
+""Vörös sárkány
+7. szintû Dungeon egység.
 Mennyiség: 4-10.""
 
 54
 83
-""Black Dragon
-Upgraded level 7 Dungeon creature.
+""Fekete sárkány
+Fejlesztett 7. szintû Dungeon egység.
 Mennyiség: 3-8.""
 
 54
 84
 ""Goblin
-Level 1 Stronghold creature.
+1. szintû Stronghold egység.
 Mennyiség: 20-50.""
 
 54
 85
 ""Hobgoblin
-Upgraded level 1 Stronghold creature.
+Fejlesztett 1. szintû Stronghold egység.
 Mennyiség: 20-30.""
 
 54
 86
-""Wolf Rider
-Level 2 Stronghold creature.
+""Farkaslovas
+2. szintû Stronghold egység.
 Mennyiség: 16-30.""
 
 54
 87
-""Wolf Raider
-Upgraded Level 2 Stronghold creature.
+""Farkaslovas fosztogató
+Fejlesztett 2. szintû Stronghold egység.
 Mennyiség: 16-25.""
 
 54
 88
-""Orc
-Level 3 Stronghold creature.
+""Ork
+3. szintû Stronghold egység.
 Mennyiség: 12-25.""
 
 54
 89
-""Orc Chieftain
-Upgraded level 3 Stronghold creature.
+""Ork Törzsfõnök
+Fejlesztett 3. szintû Stronghold egység.
 Mennyiség: 12-20.""
 
 54
 90
 ""Ogre
-Level 4 Stronghold creature.
+4. szintû Stronghold egység.
 Mennyiség: 10-20.""
 
 54
 91
-""Ogre Mage
-Upgraded level 4 Stronghold creature.
+""Ogre Mágus
+Fejlesztett 4. szintû Stronghold egység.
 Mennyiség: 10-16.""
 
 54
 92
-""Roc
-Level 5 Stronghold creature.
+""Keselyû
+5. szintû Stronghold egység.
 Mennyiség: 8-16.""
 
 54
 93
-""Thunderbird
-Upgraded level 5 Stronghold creature.
+""Villámmadár
+Fejlesztett 5. szintû Stronghold egység.
 Mennyiség: 8-12.""
 
 54
 94
-""Cyclops
-Level 6 Stronghold creature.
+""Küklopsz
+6. szintû Stronghold egység.
 Mennyiség: 5-12.""
 
 54
 95
-""Cyclops King
-Upgraded level 6 Stronghold creature.
+""Küklopsz király
+Fejlesztett 6. szintû Stronghold egység.
 Mennyiség: 5-10.""
 
 54
 96
-""Behemoth
-Level 7 Stronghold creature.
+""Behemót
+7. szintû Stronghold egység.
 Mennyiség: 4-10.""
 
 54
 97
-""Ancient Behemoth
-Upgraded level 7 Stronghold creature.
+""Õsi behemót
+Fejlesztett 7. szintû Stronghold egység.
 Mennyiség: 3-8.""
 
 54
 98
 ""Gnoll
-Level 1 Fortress creature.
+1. szintû Fortress egység.
 Mennyiség: 20-50.""
 
 54
 99
-""Gnoll Marauder
-Upgraded level 1 Fortress creature.
+""Gnoll martalóc
+Fejlesztett 1. szintû Fortress egység.
 Mennyiség: 20-30.""
 
 54
 100
-""Lizardman
-Level 2 Fortress creature.
+""Gyíkember
+2. szintû Fortress egység.
 Mennyiség: 16-30.""
 
 54
 101
-""Lizard Harcos
-Upgraded Level 2 Fortress creature.
+""Gyíkharcos
+Fejlesztett 2. szintû Fortress egység.
 Mennyiség: 16-25.""
 
 54
 102
 ""Gorgon
-Level 5 Fortress creature.
+5. szintû Fortress egység.
 Mennyiség: 8-16.""
 
 54
 103
-""Mighty Gorgon
-Upgraded level 5 Fortress creature.
+""Hatalmas gorgon
+Fejlesztett 5. szintû Fortress egység.
 Mennyiség: 8-12.""
 
 54
 104
-""Serpent Fly
-Level 3 Fortress creature.
+""Kígyólégy
+3. szintû Fortress egység.
 Mennyiség: 12-25.""
 
 54
 105
-""Dragon Fly
-Upgraded level 3 Fortress creature.
+""Repülõ áspis
+Fejlesztett 3. szintû Fortress egység.
 Mennyiség: 12-20.""
 
 54
 106
-""Basilisk
-Level 4 Fortress creature.
+""Baziliszkusz
+4. szintû Fortress egység.
 Mennyiség: 10-20.""
 
 54
 107
-""Greater Basilisk
-Upgraded level 4 Fortress creature.
+""Nagyobb baziliszkusz
+Fejlesztett 4. szintû Fortress egység.
 Mennyiség: 10-16.""
 
 54
 108
-""Wyvern
-Level 6 Fortress creature.
+""Sárkánygyík
+6. szintû Fortress egység.
 Mennyiség: 5-12.""
 
 54
 109
-""Wyvern Monarch
-Upgraded level 6 Fortress creature.
+""Sárkánygyík fejedelem
+Fejlesztett 6. szintû Fortress egység.
 Mennyiség: 5-10.""
 
 54
 110
-""Hydra
-Level 7 Fortress creature.
+""Hidra
+7. szintû Fortress egység.
 Mennyiség: 4-10.""
 
 54
 111
-""Chaos Hydra
-Upgraded level 7 Fortress creature.
+""Káosz Hidra
+Fejlesztett 7. szintû Fortress egység.
 Mennyiség: 3-8.""
 
 54
 112
-""Air Elemental
-Level 2 Conflux creature.
+""Lég elementál
+2. szintû Conflux egység.
 Mennyiség: 8-12.""
 
 54
 113
-""Earth Elemental
-Level 5 Conflux creature.
+""Föld elementál
+5. szintû Conflux egység.
 Mennyiség: 16-30.""
 
 54
 114
-""Fire Elemental
-Level 4 Conflux creature.
+""Tûz elementál
+4. szintû Conflux egység.
 Mennyiség: 10-20.""
 
 54
 115
-""Water Elemental
-Level 3 Conflux creature.
+""Víz elementál
+3. szintû Conflux egység.
 Mennyiség: 12-25.""
 
 54
 116
-""Arany Golem
-Level 5 Neutral creature.
+""Aranygólem
+5. szintû semleges egység.
 Mennyiség: 10-16.""
 
 54
 117
-""Diamond Golem
-Level 6 Neutral creature.
+""Gyémántgólem
+6. szintû semleges egység.
 Mennyiség: 8-12.""
 
 54
 118
-""Pixie
-Level 1 Conflux creature.
+""Tündérke
+1. szintû Conflux egység.
 Mennyiség: 20-50.""
 
 54
 119
-""Sprite
-1. szintre fejlesztett Conflux egység.
+""Tündér
+1. szintû fejlesztett Conflux egység.
 Mennyiség:  20-30.""
 
 54
 120
-""Psychic Elemental
-Level 6 Conflux creature.
+""Lélek elementál
+6. szintû Conflux egység.
 Mennyiség:  5-12.""
 
 54
 121
-""Magic Elemental
-6. szintre fejlesztett Conflux egység.
+""Varázslat elementál
+6. szintû fejlesztett Conflux egység.
 Mennyiség:  5-10.""
 
 54
 123
-""Ice Elemental
-3. szintre fejlesztett Conflux egység.
+""Jég elementál
+3. szintû fejlesztett Conflux egység.
 Mennyiség:  12-20.""
 
 54
 125
-""Magma Elemental
-5. szintre fejlesztett Conflux egység.
+""Magma elementál
+5. szintû fejlesztett Conflux egység.
 Mennyiség:  16-25.""
 
 54
 127
-""Storm Elemental
-2. szintre fejlesztett Conflux egység.
+""Vihar elementál
+2. szintû fejlesztett Conflux egység.
 Mennyiség:  6-12.""
 
 54
 129
-""Energy Elemental
-4. szintre fejlesztett Conflux egység.
+""Enegia elementál
+4. szintû fejlesztett Conflux egység.
 Mennyiség:  10-16.""
 
 54
 130
-""Firebird
-Level 7 Conflux creature.
+""Tûzmadár
+7. szintû Conflux egység.
 Mennyiség:  4-10.""
 
 54
 131
-""Phoenix
-7. szintre fejlesztett Conflux egység.
+""Fõnix
+7. szintû fejlesztett Conflux egység.
 Mennyiség: 3-8.""
 
 54
 132
-""Azure Dragon
-Level 7 Neutral creature.
+""Azúrsárkány
+7. szintû semleges egység.
 Mennyiség:  1-3.""
 
 54
 133
-""Crystal Dragon
-Level 7 Neutral creature.
+""Kristálysárkány
+7. szintû semleges egység.
 Mennyiség:  1-3.""
 
 54
 134
-""Faerie Dragon
-Level 7 Neutral creature.
+""Tündérsárkány
+7. szintû semleges egység.
 Mennyiség:  1-3.""
 
 54
 135
-""Rust Dragon
-Level 7 Neutral creature.
+""Rozsdasárkány
+7. szintû semleges egység.
 Mennyiség:  1-3.""
 
 54
 136
-""Enchanter
-Level 6 Neutral creature.
+""Szemfényvesztõ
+6. szintû semleges egység.
 Mennyiség:  5-12.""
 
 54
 137
-""Sharpshooter
-Level 4 Neutral creature.
+""Mesterlövész
+4. szintû semleges egység.
 Mennyiség:  5-12.""
 
 54
 138
 ""Félszerzet
-1. szintû Factory egység..
+1. szintû Factory egység.
 Mennyiség:  20-50.""
 
 54
 139
-""Peasant
-Level 1 Neutral creature.
+""Paraszt
+1. szintû semleges egység.
 Mennyiség:  20-50.""
 
 54
 140
-""Boar
-Level 2 Neutral creature.
+""Vaddisznó
+2. szintû semleges egység.
 Mennyiség:  16-30.""
 
 54
 141
-""Mummy
-Level 3 Neutral creature.
+""Múmia
+3. szintû semleges egység.
 Mennyiség:  12-25.""
 
 54
 142
-""Nomad
-Level 3 Neutral creature.
+""Nomád
+3. szintû semleges egység.
 Mennyiség:  12-25.""
 
 54
 143
-""Rogue
-Level 2 Neutral creature.
+""Zsivány
+2. szintû semleges egység.
 Mennyiség:  16-30.""
 
 54
 144
 ""Troll 
-Level 5 Neutral creature.
+5. szintû semleges egység.
 Mennyiség: 8-12.""
 
 79
 0
-""Wood
-This Kincsek gives 5-10 wood.""
+""Fa
+Ez az erõforrás 5-10 fához juttat.""
 
 79
 1
-""Mercury
-This Kincsek gives 3-6 mercury.""
+""Higany
+Ez az erõforrás 3-6 higanyhoz juttat.""
 
 79
 2
-""Ore
-This Kincsek gives 5-10 ore.""
+""Érc
+Ez az erõforrás 5-10 érchez juttat.""
 
 79
 3
-""Sulfur
-This Kincsek gives 3-6 sulfur.""
+""Kén
+Ez az erõforrás 3-6 kénhez juttat.""
 
 79
 4
-""Crystal
-This Kincsek gives 3-6 crystal.""
+""Kristály
+Ez az erõforrás 3-6 kristályhoz juttat.""
 
 79
 5
-""Gems
-This Kincsek gives 3-6 gems.""
+""Drágakõ
+Ez az erõforrás 3-6 drágakõhöz juttat.""
 
 79
 6
 ""Arany
-This Kincsek gives 500-1000 Arany.""
+Ez az erõforrás 500-1000 aranyhoz juttat.""
 
 98
 0
@@ -6967,139 +6967,139 @@ Conflux város.""
 
 106
 0
-""War Machine Factory
-Purchase any of the three war machines: Nyílvetõ, Elsõsegély-sátor and Muníciós szekér.""
+""Harci gépek gyára
+Itt megvásárolható a három harci gép bármelyike: Nyílvetõ, Elsõsegély-sátor és Muníciós szekér is.""
 
 217
 0
-""Véletlenszerû egységek lakása 1
+""Véletlenszerû egységek lakása 1. szint
 Véletlenszerû 1. szintû egység lakása.""
 
 217
 1
-""Véletlenszerû egységek lakása 2
+""Véletlenszerû egységek lakása 2. szint
 Véletlenszerû 2. szintû egység lakása.""
 
 217
 2
-""Véletlenszerû egységek lakása 3
+""Véletlenszerû egységek lakása 3. szint
 Véletlenszerû 3. szintû egység lakása.""
 
 217
 3
-""Véletlenszerû egységek lakása 4
+""Véletlenszerû egységek lakása 4. szint
 Véletlenszerû 4. szintû egység lakása.""
 
 217
 4
-""Véletlenszerû egységek lakása 5
+""Véletlenszerû egységek lakása 5. szint
 Véletlenszerû 5. szintû egység lakása.""
 
 217
 5
-""Véletlenszerû egységek lakása 6
+""Véletlenszerû egységek lakása 6. szint
 Véletlenszerû 6. szintû egység lakása.""
 
 217
 6
-""Véletlenszerû egységek lakása 7
+""Véletlenszerû egységek lakása 7. szint
 Véletlenszerû 7. szintû egység lakása.""
 
 218
 0
 ""Véletlenszerû Castle egységekek lakása
-At the start of the game, this object is replaced with a véletlenszerû Castle egység lakása.""
+A játék elején ezt a tárgyat egy véletlenszerû Castle egység lakása helyettesíti.""
 
 218
 1
 ""Véletlenszerû Rampart egységek lakása
-At the start of the game, this object is replaced with a véletlenszerû Rampart egység lakása.""
+A játék elején ezt a tárgyat egy véletlenszerû Rampart egység lakása helyettesíti.""
 
 218
 2
 ""Véletlenszerû Tower egységek lakása
-At the start of the game, this object is replaced with a véletlenszerû Tower egység lakása.""
+A játék elején ezt a tárgyat egy véletlenszerû Tower egység lakása helyettesíti.""
 
 218
 3
 ""Véletlenszerû Inferno egységek lakása
-At the start of the game, this object is replaced with a véletlenszerû Inferno egység lakása.""
+A játék elején ezt a tárgyat egy véletlenszerû Inferno egység lakása helyettesíti.""
 
 218
 4
 ""Véletlenszerû Necropolis egységek lakása
-At the start of the game, this object is replaced with a véletlenszerû Necropolis egység lakása.""
+A játék elején ezt a tárgyat egy véletlenszerû Necropolis egység lakása helyettesíti.""
 
 218
 5
 ""Véletlenszerû Dungeon egységek lakása
-At the start of the game, this object is replaced with a véletlenszerû Dungeon egység lakása.""
+A játék elején ezt a tárgyat egy véletlenszerû Dungeon egység lakása helyettesíti.""
 
 218
 6
 ""Véletlenszerû Stronghold egységek lakása
-At the start of the game, this object is replaced with a véletlenszerû Stronghold egység lakása.""
+A játék elején ezt a tárgyat egy véletlenszerû Stronghold egység lakása helyettesíti.""
 
 218
 7
 ""Véletlenszerû Fortress egységek lakása
-At the start of the game, this object is replaced with a véletlenszerû Fortress egység lakása.""
+A játék elején ezt a tárgyat egy véletlenszerû Fortress egység lakása helyettesíti.""
 
 218
 8
 ""Véletlenszerû Conflux egység lakása
-At the start of the game, this object is replaced with a véletlenszerû Conflux egység lakása.""
+A játék elején ezt a tárgyat egy véletlenszerû Conflux egység lakása helyettesíti.""
 
 219
 0
-""Garrison
-Location for storing troops at a choke point.""
+""Helyõrség
+A csapatok átjárónál történõ tárolásának helye.""
 
 219
 1
-""Anti-magic Garrison
-Location for storing troops at a choke point.
-Spells cannot be cast in combat.""
+""Anti-varázslat helyõrség
+A csapatok átjárónál történõ tárolásának helye.
+Itt a varázslatokat nem lehet használni.""
 
 220
 0
-""Sawmill
+""Szélmalom
 Termel számodra 2 Fát naponta.""
 
 220
 1
-""Alchemist's Lab
+""Alkimista labor
 Termel számodra 1 Higanyt naponta.""
 
 220
 2
-""Ore Pit
+""Ércbánya
 Termel számodra 2 Ércet naponta.""
 
 220
 3
-""Sulfur Dune
+""Kéndûne
 Termel számodra 1 Ként naponta.""
 
 220
 4
-""Crystal Cavern
+""Kristálybarlang
 Termel számodra 1 kristályt naponta.""
 
 220
 5
-""Gem Pond
+""Drágakõ tó
 Termel számodra 1 Drágakövet naponta.""
 
 220
 6
-""Arany Bánya
+""Arany bánya
 Termel számodra 1000 Arany naponta.""
 
 220
 7
-""Elhagyott Bánya
-Fight 100-200 Troglodytes to restore the mine back to production.""
+""Elhagyott bánya
+Harcolj 100-200 Barlanglakóval, hogy helyreállítsd a bánya termelését.""
 
 
 # Új objektumok
@@ -7107,8 +7107,8 @@ Fight 100-200 Troglodytes to restore the mine back to production.""
 5
 141
 ""Diplomata Köpenye
-In addition to component effect this cloak allows your hero to retreat vagy surrender when battling neutral Egységek vagy defending a város as well as when attacking and casting a spell in the first round of a combat. It also multiplies your hero army strength by 3 (for neutral armies and Thieves guild).
-Requires the following Mûtárgyak to create:
+A komponenshatások mellett ez a köpeny lehetõvé teszi a hõsöd számára, hogy visszavonuljon vagy megadja magát, amikor semleges egységek ellen harcol vagy várost véd, valamint amikor támad és varázslatot ad le a harc elsõ körében. Emellett a hõs hadseregének erejét 3-mal megszorozza (semleges hadsereg és tolvajok céhe esetén).
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Államférfi Kitüntetése
 +Diplomaták Gyûrûje
 +Nagykövetek Vállszalagja""
@@ -7116,8 +7116,8 @@ Requires the following Mûtárgyak to create:
 5
 142
 ""Visszatükrözés Medálja
-In addition to component effect this item increases your chance to resist a hostile spell by 20%.
-Requires the following Mûtárgyak to create:
+A komponenshatások mellett ez a medál 20% -kal növeli az ellenséges varázslatnak való ellenállás esélyét.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Térzavar Medál
 +Egyensúly Köpönyeg
 +Ellenállás Csizma""
@@ -7125,8 +7125,8 @@ Requires the following Mûtárgyak to create:
 5
 143
 ""Ogre Vasököl
-In addition to component effect the Ogre Vasököl casts these spells on expert level at the beginning of combat on all of your creatures for fifty rounds: Haste, Bloodlust, Fire Shield, and Counterstrike.
-Requires the following Mûtárgyak to create:
+A komponenshatások mellett az Ogre Vasököl ezeket a varázslatokat mester szinten dobja a harc elején az összes egységedre ötven körön keresztül: Gyorsítás, Vérszomj, Tûz Pajzs és Visszatámadás.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Fõmágus Koronája
 +Ogrék Furkósbotja
 +Küklopsz Királyi Vért
@@ -7136,13 +7136,13 @@ Requires the following Mûtárgyak to create:
 147
 ""Uralkodás Szigonya
 Osztály: Jelentõsebb.
-Ez a jobb kezes fegyver növeli a Támadási Értéked +7-tel.""
+Ez a jobbkezes fegyver növeli a Támadási Értéked +7-tel.""
 
 5
 148
 ""Haditengerészeti Dicsõség Pajzsa
 Osztály: Jelentõsebb.
-This left-handed item increases your Defense skill by +7.""
+Ez a balkezes fegyver növeli a védekezési értéked +7-tel.""
 
 5
 149
@@ -7160,19 +7160,19 @@ Ez a sisak a fejeden viselve növeli a Tudásod +6-tal.""
 151
 ""Vándor Csizmája
 Osztály: Jelentõsebb.
-A lábakon viselt csizmák allow your hero to move over rough terrain without penalty.""
+A lábakon viselt csizmák lehetõvé teszik hõsöd számára, hogy büntetés nélkül mozogjon egyenetlen terepen.""
 
 5
 152
 ""Közvetlenség Rúnái
 Osztály: Kincs
-Decrease enemy's Luck by 1.""
+Csökkenti az ellenségek szerencséjét 1-gyel.""
 
 5
 153
 ""Démon Patkója
 Osztály: Kincs
-Csökkenti az ellenség szerencséjét 1-el.""
+Csökkenti az ellenség szerencséjét 1-gyel.""
 
 5
 154
@@ -7184,37 +7184,37 @@ Csökkenti az ellenség szerencséjét 2-vel.""
 155
 ""Vasálarc
 Osztály: Kisebb.
-Decreases enemy's Morale by 1.""
+Csökkenti az ellenség hangulatát 1-gyel.""
 
 5
 156
 ""Elnyomás Gyûrûje
 Osztály: Kincs
-Az ujjadon viselve, this ring decreases enemy's Morale by 1.""
+Az ujjadon viselve, ez a gyûrû csökkenti az ellenség hangulatát 1-gyel.""
 
 5
 157
 ""Bukás Medálja
 Osztály: Jelentõsebb.
-A nyakadon viselve, this item decreases enemy's Morale by 2.""
+A nyakadon viselve, ez a nyaklánc csökkenti az ellenség hangulatát 2-vel.""
 
 5
 158
 ""Feledés Gyûrûje
 Osztály: Jelentõsebb.
-When worn, makes all losses in the battle irrevocable: corpses disappear right after unit's death, spells that may revitalize creatures are banned for use, vampirism does not bring back dead units, and undead cannot be raised using necromancy after battle.""
+Ha viselik ezt a gyûrût, visszavonhatatlanná teszi a csatában elszenvedett összes veszteséget: a holttestek azonnal eltûnnek az egység halála után, az egységeket újjáélesztõ varázslatok használata hatástalan, a vámpírizmus nem hozza vissza a halott egységeket, és az élõhalottakat nem lehet nekromanciával feltámasztani a csata után.""
 
 5
 159
 ""Csend Foka
 Osztály: Jelentõsebb.
-While wearing this cape, neither you nor your opponent will be able to cast level 1-2 spells during combat.""
+A köpeny viselése közben sem te, sem ellenfeled nem lesz képes 1-2 szintû varázslatot használni a harc során.""
 
 5
 160
 ""Aranylúd
-In addition to component effect when equipped, the Aranylúd increases your income by 4750 Arany per day.
-Requires the following Mûtárgyak to create:
+A komponensek haása mellett az Aranylúd napi 4750 Aranyral növeli a kincstárad jövedelmét.
+Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Arannyal Teli Zsák
 +Arannyal Teli Erszény
 +Arannyal Teli Tarsoly""
@@ -7223,192 +7223,192 @@ Requires the following Mûtárgyak to create:
 161
 ""A Mélység Kürtje
 Osztály: Ereklye.
-After a stack of living creatures is slain, a stack of Polipfej will rise in their stead and will stay loyal to the hero after the battle concludes. Total Hit Points of this stack will be equal to half of the slain stack's total Hit Points, but mennyiség of the Polipfej summoned thus should not exceed half of mennyiség of creatures in the slain stack. Slaying Polipfej will not trigger the Horn effect.""
+Miután megöltek pár élõ egységet, pár darab Polipfej emelkedik fel helyettük, és hû marad a hõsödhöz a csata befejezése után. Ennek a mennyiségnek az összes életerõpontja megegyezik a megölt egységek összes életerõpontjának felével, de az így megidézett Polipfejek mennyisége nem haladhatja meg a megölt egységek mennyiségének felét. Polipfej megölése nem váltja ki a kürt effektusát újra.""
 
 5
 162
 ""Napfogyatkozás Varázsa
 Osztály: Kisebb.
-This item reduces the Power skill of enemy hero by 10% during combat.""
+Ez a tárgy 10%-kal csökkenti az ellenséges hõs erejét a harc közben.""
 
 5
 163
 ""Naplemente Pecsétje
 Osztály: Kisebb.
-Az ujjon viselve this item reduces the Power skill of enemy hero by 10% during combat.""
+Az ujjon viselve ez 10%-kal csökkenti az ellenséges hõs erejét a harc közben.""
 
 5
 164
 ""Haldokló Fény Mellvért
 Osztály: Ereklye.
-A törzsön viselve this item reduces the Power skill of enemy hero by 25% during combat.""
+A törzsön viselve ez 25%-kal csökkenti az ellenséges hõs erejét a harc közben.""
 
 5
 165
 ""Álomörzõ
 Osztály: Ereklye.
-Gives your units mind spells immunity.""
+Immunitást ad az egységeidnek az elme varázslatok ellen.""
 
 8
 100
 ""Léghajó
-Allows hero to fly over water and obstacles.""
+Lehetõvé teszi a hõs számára, hogy átrepüljön a víz és az akadályok felett.""
 
 16
 21
-""Beholders' Sanctuary
-- 30% Fight 50 Beholders for 3000 Arany and 1 Kisebb Mûtárgy.
-- 30% Fight 75 Beholders for 5000 Arany and 1 Kisebb Mûtárgy.
-- 30% Fight 100 Beholders for 6000 Arany and 1 Jelentõsebb Mûtárgy.
-- 10% Fight 150 Beholders for 9000 Arany and 1 Jelentõsebb Mûtárgy.""
+""Szemlélõk szentélye
+- 30% esély arra, hogy 50 Szemlélõ fog harcolni ellened 3000 aranyért és 1 kisebb mûtárgyért cserébe.
+- 30% esély arra, hogy 75 Szemlélõ fog harcolni ellened 5000 aranyért és 1 kisebb mûtárgyért cserébe.
+- 30% esély arra, hogy 100 Szemlélõ fog harcolni ellened 6000 aranyért és 1 jelentõsebb mûtárgyért cserébe.
+- 10% esély arra, hogy 150 Szemlélõ fog harcolni ellened 9000 aranyért és 1 jelentõsebb mûtárgyért cserébe.""
 
 16
 22
-""Temple of the Tenger
-- 30% Fight 8 Hydras, 6 Tengeri kígyó, 3 Chaos Hydras, and 2 Áspis for 10000 Arany and 2 Kincs Mûtárgyak, 1 Kisebb Mûtárgy, and 1 Ereklye Mûtárgy.
-- 30% Fight 8 Hydras, 7 Tengeri kígyó, 4 Chaos Hydras, and 3 Áspis for 15000 Arany and 1 Kincs Mûtárgy, 1 Kisebb Mûtárgyak, 1 Ereklye Mûtárgy, and 1 Ereklye Mûtárgy.
-- 30% Fight 8 Hydras, 7 Tengeri kígyó, 5 Chaos Hydras, and 4 Áspis for 20000 Arany and 1 Kisebb Mûtárgy, 2 Jelentõsebb Mûtárgyak, and 1 Ereklye Mûtárgy.
-- 10% Fight 10 Hydras, 9 Tengeri kígyó, 6 Chaos Hydras, and 5 Áspis for 30000 Arany and 2 Jelentõsebb Mûtárgyak, and 2 Ereklye Mûtárgyak.""
+""A tenger temploma
+- 30% esély arra, hogy 8 Hidra, 6 Tengeri kígyó, 3 Káosz Hidra, és 2 Áspis fog harcolni ellened 10000 aranyért, 2 kincs mûtárgyért, 1 kisebb mûtárgyért és 1 ereklye mûtárgyért cserébe.
+- 30% esély arra, hogy 8 Hidra, 7 Tengeri kígyó, 4 Káosz Hidra, és 3 Áspis fog harcolni ellened 15000 aranyért, 1 Kincs mûtárgyért, 1 kisebb mûtárgyért, 1 jelentõsebb mûtárgyért és 1 ereklye mûtárgyért cserébe.
+- 30% esély arra, hogy 8 Hidra, 7 Tengeri kígyó, 5 Káosz Hidra, és 4 Áspis fog harcolni ellened 20000 aranyért, 1 kisebb mûtárgyért, 2 jelentõsebb mûtárgyért és 1 ereklye mûtárgyért cserébe.
+- 10% esély arra, hogy 10 Hidra, 9 Tengeri kígyó, 6 Káosz Hidra, és 5 Áspis fog harcolni ellened 30000 aranyért, 2 jelentõsebb mûtárgyért és 2 ereklye mûtárgyért cserébe.""
 
 16
 23
-""Kalóz Cavern
-- 30% Fight 20 Kalóz and 20 Privatér to receive 1 Tengeri kígyó into your army's ranks.
-- 30% Fight 40 Kalóz and 40 Privatér to receive 2 Tengeri kígyó into your army's ranks.
-- 30% Fight 60 Kalóz and 60 Privatér to receive 3 Tengeri kígyó into your army's ranks.
-- 10% Fight 80 Kalóz and 80 Privatér to receive 4 Tengeri kígyó into your army's ranks.""
+""Kalózbarlang
+- 30% esély arra, hogy 20 Kalóz és 20 Privatér fog harcolni ellened azért, hogy 1 Tengeri kígyó kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 40 Kalóz és 40 Privatér fog harcolni ellened azért, hogy 2 Tengeri kígyó kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 60 Kalóz és 60 Privatér fog harcolni ellened azért, hogy 3 Tengeri kígyó kerülhessen a sereged soraiba.
+- 10% esély arra, hogy 80 Kalóz és 80 Privatér fog harcolni ellened azért, hogy 4 Tengeri kígyó kerülhessen a sereged soraiba.""
 
 16
 24
 ""Kúria
-- 30% Fight 40 Vampire Lords for 2500 Arany, 2 mercury, 2 sulfur 2 crystal, 2 gems and 1 Ereklye Mûtárgy.
-- 30% Fight 60 Vampire Lords for 5000 Arany, 3 mercury, 3 sulfur 3 crystal, 3 gems and 1 Ereklye Mûtárgy.
-- 30% Fight 80 Vampire Lords for 7500 Arany, 4 mercury, 4 sulfur 4 crystal, 4 gems and 1 Ereklye Mûtárgy.
-- 10% Fight 100 Vampire Lords for 10000 Arany, 5 mercury, 5 sulfur 5 crystal, 5 gems and 1 Ereklye Mûtárgy.""
+- 30% esély arra, hogy 40 Vámpírúr fog harcolni ellened 2500 aranyért, 2 higanyért, 2 kénért, 2 kristályért, 2 drágakõért és 1 ereklye mûtárgyért cserébe.
+- 30% esély arra, hogy 60 Vámpírúr fog harcolni ellened 5000 aranyért, 3 higanyért, 3 kénért, 3 kristályért, 3 drágakõért és 1 ereklye mûtárgyért cserébe.
+- 30% esély arra, hogy 80 Vámpírúr fog harcolni ellened 7500 aranyért, 4 higanyért, 4 kénért, 4 kristályért, 4 drágakõért és 1 ereklye mûtárgyért cserébe.
+- 10% esély arra, hogy 100 Vámpírúr fog harcolni ellened 10000 aranyért, 5 higanyért, 5 kénért, 5 kristályért, 5 drágakõért és 1 ereklye mûtárgyért cserébe.""
 
 16
 25
-""Spit
-- 30% Fight 16 Basilisks for 3000 Arany.
-- 30% Fight 24 Basilisks for 4500 Arany.
-- 30% Fight 32 Basilisks for 6000 Arany.
-- 10% Fight 48 Basilisks for 9000 Arany.""
+""Zátony
+- 30% esély arra, hogy 16 Baziliszkusz fog harcolni ellened 3000 aranyért cserébe.
+- 30% esély arra, hogy 24 Baziliszkusz fog harcolni ellened 4500 aranyért cserébe.
+- 30% esély arra, hogy 32 Baziliszkusz fog harcolni ellened 6000 aranyért cserébe.
+- 10% esély arra, hogy 48 Baziliszkusz fog harcolni ellened 9000 aranyért cserébe.""
 
 16
 26
 ""Vörös torony
-- 30% Fight 35 Fire Elementals to receive 1 Firebird into your army's ranks.
-- 30% Fight 70 Fire Elementals to receive 2 Firebirds into your army's ranks.
-- 30% Fight 105 Fire Elementals to receive 3 Firebirds into your army's ranks.
-- 10% Fight 140 Fire Elementals to receive 4 Firebirds into your army's ranks.""
+- 30% esély arra, hogy 35 Tûz Elementál fog harcolni ellened azért, hogy 1 Tûzmadár kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 70 Tûz Elementál fog harcolni ellened azért, hogy 2 Tûzmadár kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 105 Tûz Elementál fog harcolni ellened azért, hogy 3 Tûzmadár kerülhessen a sereged soraiba.
+- 10% esély arra, hogy 140 Tûz Elementál fog harcolni ellened azért, hogy 4 Tûzmadár kerülhessen a sereged soraiba.""
 
 16
 27
 ""Fekete torony
-- 30% Fight 1 Green Dragon for 2000 Arany and 1 Kisebb Mûtárgy.
-- 30% Fight 1 Red Dragon for 2250 Arany and 1 Kisebb Mûtárgy.
-- 30% Fight 1 Arany Dragon for 3500 Arany and 1 Kisebb Mûtárgy.
-- 10% Fight 1 Black Dragon for 3750 Arany and 1 Kisebb Mûtárgy.""
+- 30% esély arra, hogy 1 Zöld Sárkány fog harcolni ellened 2000 aranyért és 1 kisebb mûtárgyért cserébe.
+- 30% esély arra, hogy 1 Vörös Sárkány fog harcolni ellened 2250 aranyért és 1 kisebb mûtárgyért cserébe.
+- 30% esély arra, hogy 1 Arany Sárkány fog harcolni ellened 3500 aranyért és 1 kisebb mûtárgyért cserébe.
+- 10% esély arra, hogy 1 Fekete Sárkány fog harcolni ellened 3750 aranyért és 1 kisebb mûtárgyért cserébe.""
 
 16
 28
-""Ivory Tower
-- 30% Fight 35 Arch Magi to receive 3 Enchanters into your army's ranks.
-- 30% Fight 50 Arch Magi to receive 6 Enchanters into your army's ranks.
-- 30% Fight 56 Arch Magi to receive 9 Enchanters into your army's ranks.
-- 10% Fight 80 Arch Magi to receive 12 Enchanters into your army's ranks.""
+""Elefántcsonttorony
+- 30% esély arra, hogy 35 Fõmágus fog harcolni ellened azért, hogy 3 Szemfényvesztõ kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 50 Fõmágus fog harcolni ellened azért, hogy 6 Szemfényvesztõ kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 56 Fõmágus fog harcolni ellened azért, hogy 9 Szemfényvesztõ kerülhessen a sereged soraiba.
+- 10% esély arra, hogy 80 Fõmágus fog harcolni ellened azért, hogy 12 Szemfényvesztõ kerülhessen a sereged soraiba.""
 
 16
 29
 ""Templomkert
-Fight 90 Zombies for 2500 Arany and 1 Kisebb Mûtárgy.
+90 Zombi ellen fogsz harcolni 2500 Aranyért és 1 kisebb mûtárgyért cserébe.
 
--1 Morale if you visit the Templomkert and the guardians have already been defeated.""
+-1 Hangulat, ha már meglátogattad a templomkertet, és az õrzõit már legyõzték egyszer.""
 
 16
 30
-""Experimental Shop
-- 30% Fight 25 Acél gólem to receive 1 Giant into your army's ranks.
-- 30% Fight 50 Acél gólem to receive 2 Giants into your army's ranks.
-- 30% Fight 75 Acél gólem to receive 3 Giants into your army's ranks.
-- 10% Fight 100 Acél gólem to receive 4 Giants into your army's ranks.""
+""Kísérleti bolt
+- 30% esély arra, hogy 25 Acél gólem fog harcolni ellened azért, hogy 1 Óriás kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 50 Acél gólem fog harcolni ellened azért, hogy 2 Óriás kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 75 Acél gólem fog harcolni ellened azért, hogy 3 Óriás kerülhessen a sereged soraiba.
+- 10% esély arra, hogy 100 Acél gólem fog harcolni ellened azért, hogy 4 Óriás kerülhessen a sereged soraiba.""
 
 16
 31
-""Wolf Raider Picket
-- 30% Fight 50 Wolf Raiders to receive 4 Cyclopes into your army's ranks.
-- 30% Fight 75 Wolf Raiders to receive 6 Cyclopes into your army's ranks.
-- 30% Fight 100 Wolf Raiders to receive 8 Cyclopes into your army's ranks.
-- 10% Fight 150 Wolf Raiders to receive 12 Cyclopes into your army's ranks.""
+""Farkaslovas fosztogató õrhely
+- 30% esély arra, hogy 50 Farkaslovas Fosztogató fog harcolni ellened azért, hogy 4 Küklopsz kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 75 Farkaslovas Fosztogató fog harcolni ellened azért, hogy 6 Küklopsz kerülhessen a sereged soraiba.
+- 30% esély arra, hogy 100 Farkaslovas Fosztogató fog harcolni ellened azért, hogy 8 Küklopsz kerülhessen a sereged soraiba.
+- 10% esély arra, hogy 150 Farkaslovas Fosztogató fog harcolni ellened azért, hogy 12 Küklopsz kerülhessen a sereged soraiba.""
 
 16
 32
-""Ruins
-- 30% Fight 20 Skeletons, 3 Wights, 3 Wraiths, 10 Skeleton Harcos, and 1 Power Lich to receive 1000 Arany and remove shroud from all tiles within 12 tiles.
-- 30% Fight 30 Skeletons, 5 Wights, 5 Wraiths, 10 Skeleton Harcos, and 1 Power Lich to receive 2000 Arany and remove shroud from all tiles within 12 tiles.
-- 30% Fight 40 Skeletons, 7 Wights, 7 Wraiths, 20 Skeleton Harcos, and 2 Power Liches to receive 3000 Arany and remove shroud from all tiles within 12 tiles.
-- 10% Fight 50 Skeletons, 9 Wights, 9 Wraiths, 20 Skeleton Harcos, and 3 Power Liches to receive 4000 Arany and remove shroud from all tiles within 12 tiles.
+""Romok
+- 30% esély arra, hogy 20 Csontváz, 3 Lélek, 3 Kísértet, 10 Csontváz harcos és 1 Hatalmas Lich fog harcolni ellened 1000 aranyért és, hogy eltávolításra kerüljön 12 mezõ területen a terület leplezése.
+- 30% esély arra, hogy 30 Csontváz, 5 Lélek, 5 Kísértet, 10 Csontváz harcos és 1 Hatalmas Lich fog harcolni ellened 2000 aranyért és, hogy eltávolításra kerüljön 12 mezõ területen a terület leplezése.
+- 30% esély arra, hogy 40 Csontváz, 7 Lélek, 7 Kísértet, 20 Csontváz harcos és 2 Hatalmas Lich fog harcolni ellened 3000 aranyért és, hogy eltávolításra kerüljön 12 mezõ területen a terület leplezése.
+- 10% esély arra, hogy 50 Csontváz, 9 Lélek, 9 Kísértet, 20 Csontváz harcos és 3 Hatalmas Lich fog harcolni ellened 4000 aranyért és, hogy eltávolításra kerüljön 12 mezõ területen a terület leplezése.
 
-If Ruins are already visited, shroud is removed anyway.""
+Ha a romokat már meglátogatták egyszer, a lepel mindenképpen lekerül.""
 
 17
 91
-""Maelstrom
+""Örvény
 Tengeri kígyó egységek lakása.""
 
 17
 92
-""Nimfa Waterfall
+""Nimfa vízesés
 Nimfa egységek lakása.""
 
 17
 93
-""Shack
+""Kunyhó
 Matróz egységek lakása.""
 
 17
 94
-""Frigate
+""Fregatt
 Kalóz egységek lakása.""
 
 17
 95
-""Nest
+""Fészek
 Viharmadár egységek lakása.""
 
 17
 96
-""Tower of the Seas
+""Tengerek tornya
 Tengeri boszorka egységek lakása.""
 
 17
 97
-""Nix Fort
+""Nix erõd
 Nix egységek lakása.""
 
 17
 98
-""Maelstrom
+""Örvény
 Tengeri kígyó egységek lakása.""
 
 17
 99
-""Nix Fort
+""Nix erõd
 Nix egységek lakása.""
 
 17
 100
-""Wineyard
+""Borászat
 Szatír egységek lakása.""
 
 17
 101
-""Ziggurat
+""Zikkurat
 Polipfej egységek lakása.""
 
 17
 102
-""Alehouse
+""Sörcsarnok
 Kobold egységek lakása.""
 
 17
@@ -7433,17 +7433,17 @@ Robot egységek lakása.""
 
 17
 107
-""Catacombs
+""Katakombák
 Homokféreg egységek lakása.""
 
 17
 108
-""Watchtower
+""Õrtorony
 Mesterlövész egységek lakása.""
 
 17
 109
-""Serpentarium
+""Tollaskígyó fészek
 Tollaskígyó egységek lakása.""
 
 17
@@ -7454,52 +7454,52 @@ Rettenthetetlen egységek lakása.""
 34
 18
 ""Kapitány
-Cove might hero.""
+Cove hõs.""
 
 34
 19
 ""Navigátor 
-Cove magic hero.""
+Cove mágikus hõs.""
 
 34
 20
 ""Zsoldos
-Factory might hero.""
+Factory hõs.""
 
 34
 21
 ""Fegyvermester 
-Factory magic hero.""
+Factory mágikus hõs.""
 
 35
 1
 ""Hegyi erõd
-Upgrade base grade of level 1-5 creatures for double cost.""
+Itt lehetõség van az 1-5 szintû egységek fejlesztésére dupla költséggel.""
 
 36
 1000
-""Combat place
-Points a place of a final battle on an arena map. The defending hero must stay at such place at the end of turn vagy he will be teleported to a véletlenszerû combat place. The attacking hero will be teleported to the cell left of defender and will attack automatically. Before the moment of the battle the cell of attacking hero is impassable.""
+""Harci helyszín
+Egy aréna térképen a végsõ csata helyére mutat. A védekezõ hõsnek ezen a helyen kell maradnia a forduló végéig vagy egy véletlenszerû harci helyszínre teleportálódik. A támadó hõs a védõtõl balra lévõ cellába teleportálódik és automatikusan támad. A csata pillanata elõtt a támadó hõs cellája átjárhatatlan.""
 
 36
 1001
-""Combat place
-Points a place of a final battle on an arena map. The defending hero must stay at such place at the end of turn vagy he will be teleported to a véletlenszerû combat place. The attacking hero will be teleported to the cell up of defender and will attack automatically. Before the moment of the battle the cell of attacking hero is impassable.""
+""Harci helyszín
+Egy aréna térképen a végsõ csata helyére mutat. A védekezõ hõsnek ezen a helyen kell maradnia a forduló végéig vagy egy véletlenszerû harci helyszínre teleportálódik. A támadó hõs a védõtõl felfelé lévõ cellába teleportálódik és automatikusan támad. A csata pillanata elõtt a támadó hõs cellája átjárhatatlan.""
 
 36
 1002
-""Combat place
-Points a place of a final battle on an arena map. The defending hero must stay at such place at the end of turn vagy he will be teleported to a véletlenszerû combat place. The attacking hero will be teleported to the cell right of defender and will attack automatically. Before the moment of the battle the cell of attacking hero is impassable.""
+""Harci helyszín
+Egy aréna térképen a végsõ csata helyére mutat. A védekezõ hõsnek ezen a helyen kell maradnia a forduló végéig vagy egy véletlenszerû harci helyszínre teleportálódik. A támadó hõs a védõtõl jobbra lévõ cellába teleportálódik és automatikusan támad. A csata pillanata elõtt a támadó hõs cellája átjárhatatlan.""
 
 36
 1003
-""Combat place
-Points a place of a final battle on an arena map. The defending hero must stay at such place at the end of turn vagy he will be teleported to a véletlenszerû combat place. The attacking hero will be teleported to the cell down of defender and will attack automatically. Before the moment of the battle the cell of attacking hero is impassable.""
+""Harci helyszín
+Egy aréna térképen a végsõ csata helyére mutat. A védekezõ hõsnek ezen a helyen kell maradnia a forduló végéig vagy egy véletlenszerû harci helyszínre teleportálódik. A támadó hõs a védõtõl lefelé lévõ cellába teleportálódik és automatikusan támad. A csata pillanata elõtt a támadó hõs cellája átjárhatatlan.""
 
 54
 151
 ""Tengeri medve
-Additional upgrade of 3. szintû Cove egység.
+Továbbfejlesztett 3. szintû Cove egység.
 Mennyiség: 12-20.""
 
 54
@@ -7511,7 +7511,7 @@ Mennyiség: 20-50.""
 54
 154
 ""Ókeanisz
-1. szintre fejlesztett Cove egység.
+1. szintû fejlesztett Cove egység.
 Mennyiség: 20-30.""
 
 54
@@ -7523,7 +7523,7 @@ Mennyiség: 16-30.""
 54
 156
 ""Tengerész
-2. szintre fejlesztett Cove egység.
+2. szintû fejlesztett Cove egység.
 Mennyiség: 16-25.""
 
 54
@@ -7535,7 +7535,7 @@ Mennyiség: 12-25.""
 54
 158
 ""Privatér
-3. szintre fejlesztett Cove egység.
+3. szintû fejlesztett Cove egység.
 Mennyiség: 12-20.""
 
 54
@@ -7547,7 +7547,7 @@ Mennyiség: 10-20.""
 54
 160
 ""Ayssid
-4. szintre fejlesztett Cove egység.
+4. szintû fejlesztett Cove egység.
 Mennyiség: 10-16.""
 
 54
@@ -7559,7 +7559,7 @@ Mennyiség: 8-16.""
 54
 162
 ""Boszorkány
-5. szintre fejlesztett Cove egység.
+5. szintû fejlesztett Cove egység.
 Mennyiség: 8-12.""
 
 54
@@ -7571,7 +7571,7 @@ Mennyiség: 5-12.""
 54
 164
 ""Nix harcos
-6. szintre fejlesztett Cove egység.
+6. szintû fejlesztett Cove egység.
 Mennyiség: 5-10.""
 
 54
@@ -7583,121 +7583,121 @@ Mennyiség: 4-10.""
 54
 166
 ""Áspis
-7. szintre fejlesztett Cove egység.
+7. szintû fejlesztett Cove egység.
 Mennyiség: 3-8.""
 
 54
 167
 ""Szatír
-Level 4 Neutral creature.
+4. szintû semleges egység.
 Mennyiség: 10-20.""
 
 54
 168
 ""Polipfej
-Level 5 Neutral creature.
+5. szintû semleges egység.
 Mennyiség: 8-16.""
 
 54
 169
 ""Kobold
-Level 2 Neutral creature.
+2. szintû semleges egység.
 Mennyiség: 16-25.""
 
 54
 170
 ""Acél gólem	
-Level 4 Neutral creature.
+4. szintû semleges egység.
 Mennyiség: 10-16.""
 
 54
 171
 ""Félszerzet gránátos
-1. szintre fejlesztett Factory egység.
+1. szintû fejlesztett Factory egység.
 Mennyiség: 20-30.""
 
 54
 172
 ""Szerelõ
-2. szintû Factory egység..
+2. szintû Factory egység.
 Mennyiség: 16-30.""
 
 54
 173
 ""Mérnök
-2. szintre fejlesztett Factory egység.
+2. szintû fejlesztett Factory egység.
 Mennyiség: 16-25.""
 
 54
 174
 ""Tatu
-3. szintû Factory egység..
+3. szintû Factory egység.
 Mennyiség: 12-25.""
 
 54
 175
 ""Vezér tatu
-3. szintre fejlesztett Factory egység.
+3. szintû fejlesztett Factory egység.
 Mennyiség: 12-20.""
 
 54
 176
 ""Robot
-4. szintû Factory egység..
+4. szintû Factory egység.
 Mennyiség: 10-20.""
 
 54
 177
 ""Õrrobot
-4. szintre fejlesztett Factory egység.
+4. szintû fejlesztett Factory egység.
 Mennyiség: 10-16.""
 
 54
 178
 ""Homokféreg
-5. szintû Factory egység..
+5. szintû Factory egység.
 Mennyiség: 8-16.""
 
 54
 179
 ""Mongol halálféreg
-5. szintre fejlesztett Factory egység.
+5. szintû fejlesztett Factory egység.
 Mennyiség: 8-12.""
 
 54
 180
 ""Mesterlövész
-6. szintû Factory egység..
+6. szintû Factory egység.
 Mennyiség: 5-12.""
 
 54
 181
 ""Fejvadász
-6. szintre fejlesztett Factory egység.
+6. szintû fejlesztett Factory egység.
 Mennyiség: 5-10.""
 
 54
 182
 ""Tollaskígyó
-7. szintû Factory egység..
+7. szintû Factory egység.
 Mennyiség: 4-10.""
 
 54
 183
 ""Bíbor tollaskígyó
-7. szintre fejlesztett Factory egység.
+7. szintû fejlesztett Factory egység.
 Mennyiség: 3-8.""
 
 54
 184
 ""Rettenthetetlen
-7. szintû Factory egység..
+7. szintû Factory egység.
 Mennyiség: 4-10.""
 
 54
 185
 ""Pusztító
-7. szintre fejlesztett Factory egység.
+7. szintû fejlesztett Factory egység.
 Mennyiség: 3-8.""
 
 58
@@ -7788,7 +7788,7 @@ Dekoráció.""
 
 139
 10
-""Hínár
+""Tengeri Hínár
 Dekoráció.""
 
 139
@@ -7978,43 +7978,43 @@ A csatatéren 15-20 láthatatlan futóhomokfolt található. Miután valaki belelép eg
 
 141
 2
-""Fields of Glory
-Gives all troops -2 Luck.""
+""A dicsõség mezõi
+Minden csapatnak -2 szerencsét ad.""
 
 142
 0
 ""Fa raktár
-+10 wood once a week.""
++10 fát ad hetente egyszer""
 
 142
 1
 ""Higany raktár
-+6 Mercury once a week.""
++6 higanyt ad hetente egyszer""
 
 142
 2
 ""Érc raktár
-+10 Ore once a week.""
++10 ércet ad hetente egyszer""
 
 142
 3
 ""Kénraktár
-+6 Sulfur once a week.""
++6 ként ad hetente egyszer""
 
 142
 4
 ""Kristály raktár
-+6 Crystal once a week.""
++6 kristályt ad hetente egyszer""
 
 142
 5
 ""Drágakõ raktár
-+6 Gems once a week.""
++6 drágakövet ad hetente egyszer""
 
 142
 6
 ""Arany raktár
-+2000 Arany once a week.""
++2000 aranyat ad hetente egyszer""
 
 144
 0
@@ -8024,7 +8024,7 @@ Mixed faction morale penalty negated until next turn.""
 144
 1
 ""Skeleton Transformer
-This allows you to convert any creature into a skeleton.""
+This allows you to convert any egység into a skeleton.""
 
 144
 2
@@ -8045,13 +8045,13 @@ Lose all current movement.""
 
 144
 5
-""Hermit's Shack
+""Hermit's Kunyhó
 Improves a véletlenszerû Secondary Skill of the visiting hero.""
 
 144
 6
 ""Gazebo
-+2000 experience points for 1000 Arany.""
++2000 tapasztalati pont for 1000 Arany.""
 
 144
 7
@@ -8113,13 +8113,13 @@ Pay 2000g for studying vagy improving Secondary Skill of three taught. Navigatio
 
 146
 1
-""Obszervatórium
+""Kilátótorony
 +2 scouting radius until the end of the week.""
 
 146
 2
 ""Altar of Mana
-Heroes may sacrifice creatures for spell points, up to 4x the normal cap.""
+Heroes may sacrifice egységek for spell points, up to 4x the normal cap.""
 
 146
 3
@@ -8138,7 +8138,7 @@ Usually placed at choke points, a hero must complete a quest in order to pass.  
 
 212
 1001
-""Grave
+""Sír
 Digging gives 1500-4000 Arany, a véletlenszerû Kincs of Kisebb Mûtárgy, and -3 morale until the next battle.""
 
 218
@@ -8177,15 +8177,15 @@ Text 7: "# További tárgyak az RMG számára
 213 0 100 50 -1 -1 # Szabadúszók céhe
 
 # Crbanks
-16 21 2500 100 -1 -1 # Beholder Sanctuary
-16 22 10000 100 -1 -1 # Temple of the Tengeri
+16 21 2500 100 -1 -1 # Szemlélõk szentélye
+16 22 10000 100 -1 -1 # A tenger temploma
 16 24 5000 50 -1 -1 # Kúria
 16 26 4000 20 -1 1 # Vörös torony
 16 27 1500 100 -1 -1 # Fekete torony
 16 29 1500 100 -1 -1 # Templomkert
-16 30 3500 80 -1 -1 # Experimental Shop
-16 31 9500 70 -1 -1 # Raider Picket
-16 32 1000 100 -1 -1 # Ruins
+16 30 3500 80 -1 -1 # Kísérleti bolt
+16 31 9500 70 -1 -1 # Farkaslovas fosztogató õrhely
+16 32 1000 100 -1 -1 # Romok
 
 # Stores
 142 0 2250 30 -1 1 # Fa raktár
@@ -8212,7 +8212,7 @@ Text 7: "# További tárgyak az RMG számára
 145 3 3000 50 -1 -1 # Vial of mana
 
 146 0 8000 20 -1 1 # Navigációs akadémia
-146 1 500 20 -1 1 # Obszervatórium
+146 1 500 20 -1 1 # Kilátótorony
 146 2 100 20 -1 1 # Mana oltár
 
 144 2 3000 50 32 -1 # Varázslók colosseuma
@@ -8296,19 +8296,19 @@ Text 7: "# Names
 # 0 (212, 1000)
 Quest Gate
 # 1 (36, 1000-1003)
-Combat place
+Harci helyszín
 # 2 (212, 1001)
-Grave
+Sír
 # 3 (8, 100)
 Léghajó
 # 4 (62, 1)
 Hõs tábor"
 Text 8: "# Texts
-# 0 (212, 1001, Grave)
+# 0 (212, 1001, Sír)
 This tomb is fresh, and even the shovel someone dug it with hasn't been stolen yet. You take up the latter, cover your nose with a handkerchief, and manage to extract something valuable from the ground.
-# 1 (212, 1001, Grave)
+# 1 (212, 1001, Sír)
 ""
-Grave Digging -3"""
+Sír Digging -3"""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -8371,7 +8371,7 @@ Béka
 Békáks
 Csirke
 Kakas
-Hínár
+Tengeri Hínár
 Összeomlott tábor
 Összeomlott szökõkút
 Sertés
@@ -8463,48 +8463,48 @@ Text 6: ""
 Text 7: "Not Used
 Not Used
 Not Used
-Maelstrom
-Nimfa Waterfall
-Shack
-Frigate
-Nest
-Tower of the Seas
-Nix Fort
-Maelstrom
-Nix Fort
-Wineyard
-Ziggurat
-Alehouse
+Örvény
+Nimfa vízesés
+Kunyhó
+Fregatt
+Fészek
+Tengerek tornya
+Nix erõd
+Örvény
+Nix erõd
+Borászat
+Zikkurat
+Sörcsarnok
 Félszerzet Hut
 Öntöde
 Tanya
 Gyár
-Catacombs
-Watchtower
-Serpentarium
+Katakombák
+Õrtorony
+Tollaskígyó fészek
 Mûhely"
 Text 8: "-1 -1 # 88 Not Used
 -1 -1 # 89 Not Used
 -1 -1 # 90 Not Used
-165 80 # 91 Maelstrom (wide)
-153 75 # 92 Nimfa Waterfall
-155 76 # 93 Shack
-157 77 # 94 Frigate
-159 4 # 95 Nest
-161 78 # 96 Tower of the Seas 
-163 79 # 97 Nix Fort
-165 80 # 98 Maelstrom (narrow)
-163 79 # 99 Nix Fort (small)
-167 57 # 100 Wineyard
-168 74 # 101 Ziggurat
-169 54 # 102 Alehouse
+165 80 # 91 Örvény (wide)
+153 75 # 92 Nimfa vízesés
+155 76 # 93 Kunyhó
+157 77 # 94 Fregatt
+159 4 # 95 Fészek
+161 78 # 96 Tengerek tornya 
+163 79 # 97 Nix erõd
+165 80 # 98 Örvény (narrow)
+163 79 # 99 Nix erõd (small)
+167 57 # 100 Borászat
+168 74 # 101 Zikkurat
+169 54 # 102 Sörcsarnok
 138 112 # 103 Félszerzet Hut
 172 101 # 104 Öntöde
 174 106 # 105 Tanya
 176 12 # 106 Gyár
-178 7 # 107 Catacombs
-180 114 # 108 Watchtower
-182 113 # 109 Serpentarium
+178 7 # 107 Katakombák
+180 114 # 108 Õrtorony
+182 113 # 109 Tollaskígyó fészek
 184 12 # 110 Mûhely"
 Has FilS: "false"
 Vals count: "4"
@@ -9276,42 +9276,42 @@ CmBkHlMt0.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx"
-Text 8: "dirt halott vegetáció
+Text 8: "dirt Korhadt Fa
 dirt hills
-dirt plants
-sand halott vegetáció
+dirt növények
+sand Korhadt Fa
 sand hills
-sand plants
-grass halott vegetáció
+sand növények
+grass Korhadt Fa
 grass hills
-grass plants
-snow halott vegetáció
+grass növények
+snow Korhadt Fa
 snow hills
-snow plants
-swamp halott vegetáció
+snow növények
+swamp Korhadt Fa
 swamp hills
-swamp plants
-rough halott vegetáció
+swamp növények
+rough Korhadt Fa
 rough hills
-rough plants
-subterr halott vegetáció
+rough növények
+subterr Korhadt Fa
 subterr hills
-subterr plants
-lava halott vegetáció
+subterr növények
+lava Korhadt Fa
 lava hills
-lava plants
-water halott vegetáció
+lava növények
+water Korhadt Fa
 water hills
-water plants
-rock halott vegetáció
+water növények
+rock Korhadt Fa
 rock hills
-rock plants
-highlands halott vegetáció
+rock növények
+highlands Korhadt Fa
 highlands hills
-highlands plants
-wasteland halott vegetáció
+highlands növények
+wasteland Korhadt Fa
 wasteland hills
-wasteland plants"
+wasteland növények"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -9367,42 +9367,42 @@ CmBkHlMt0.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx"
-Text 8: "dirt halott vegetáció undeground
+Text 8: "dirt Korhadt Fa undeground
 dirt hills undeground
-dirt plants undeground
-sand halott vegetáció undeground
+dirt növények undeground
+sand Korhadt Fa undeground
 sand hills undeground
-sand plants undeground
-grass halott vegetáció undeground
+sand növények undeground
+grass Korhadt Fa undeground
 grass hills undeground
-grass plants undeground
-snow halott vegetáció undeground
+grass növények undeground
+snow Korhadt Fa undeground
 snow hills undeground
-snow plants undeground
-swamp halott vegetáció undeground
+snow növények undeground
+swamp Korhadt Fa undeground
 swamp hills undeground
-swamp plants undeground
-rough halott vegetáció undeground
+swamp növények undeground
+rough Korhadt Fa undeground
 rough hills undeground
-rough plants undeground
-subterr halott vegetáció undeground
+rough növények undeground
+subterr Korhadt Fa undeground
 subterr hills undeground
-subterr plants undeground
-lava halott vegetáció undeground
+subterr növények undeground
+lava Korhadt Fa undeground
 lava hills undeground
-lava plants undeground
-water halott vegetáció undeground
+lava növények undeground
+water Korhadt Fa undeground
 water hills undeground
-water plants undeground
-rock halott vegetáció undeground
+water növények undeground
+rock Korhadt Fa undeground
 rock hills undeground
-rock plants undeground
-highlands halott vegetáció undeground
+rock növények undeground
+highlands Korhadt Fa undeground
 highlands hills undeground
-highlands plants undeground
-wasteland halott vegetáció undeground
+highlands növények undeground
+wasteland Korhadt Fa undeground
 wasteland hills undeground
-wasteland plants undeground"
+wasteland növények undeground"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -9422,31 +9422,31 @@ Text 3: "4 5 6 7 13 14 15 16 19 20"
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Green
-Brown
-Violet
-Orange
-Green
-Yellow
-Red
-Cyan
-White
-Pink
-Turquoise
-Yellow
-Black
-Chartreuse
-Turquoise
-Violet
-Orange
-Blue
-Red
-Pink
-Blue
-Red
-Blue
-Chartreuse
-Yellow"
+Text 7: "Zöld
+Barna
+Lila
+Narancs
+Zöld
+Sárga
+Piros
+Ciánkék
+Fehér
+Rózsaszín
+Türkizkék
+Sárga
+Fekete
+Zöldessárga
+Türkizkék
+Ibolyakék
+Narancs
+Kék
+Piros
+Rózsaszín
+Kék
+Piros
+Kék
+Zöldessárga
+Sárga"
 Text 8: "Kétirányú monolit
 Kétirányú monolit
 Kétirányú monolit
@@ -9492,17 +9492,17 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "Blue
-Pink
-Orange
-Yellow
-Purple
-Orange
-Red
-Cyan
-Turquoise
-Violet
-Chartreuse
-White"
+Rózsaszín
+Narancs
+Sárga
+Lila
+Narancs
+Piros
+Ciánkék
+Türkizkék
+Ibolyakék
+Zöldessárga
+Fehér"
 Text 8: "Monolit egyirányú bejárattal
 Monolit egyirányú bejárattal
 Monolit egyirányú bejárattal
@@ -9559,29 +9559,29 @@ Val 3: "0"
 Name: "borderguard0"
 Path: ""
 Texts count: "9"
-Text 0: "Keymaster's Tent"
-Text 1: "Border Gate"
-Text 2: "Border Guard"
+Text 0: "Kulcsmester sátra"
+Text 1: "Határállomás"
+Text 2: "Határõr"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Light Blue
-Green
-Red
-Blue
-Tan
+Text 7: "Világoskék
+Zöld
+Piros
+Kék
+Cserszínû
 Purple
-White
-Black"
-Text 8: "Light Blue
-Green
-Red
-Blue
-Tan
-Purple
-White
-Black"
+Fehér
+Fekete"
+Text 8: "Világoskék
+Zöld
+Piros
+Kék
+Cserszínû
+Lila
+Fehér
+Fekete"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -9662,12 +9662,12 @@ Text 6: ""
 Text 7: "H
 XH
 G"
-Text 8: "View all huge maps
-View all extra huge maps
-View all giant maps
-Create a huge map
-Create an extra huge map
-Create a giant map"
+Text 8: "Összes hatalmas pálya megtekintése
+Összes extrán hatalmas pálya megtekintése
+Összes gigantikus pálya megtekintése
+Hatalmas pálya készítése
+Extrán hatalmas pálya készítése
+Gigantikus térkép készítése"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -9693,8 +9693,8 @@ Phoenixes are the most powerful creature of the Confluxes.
 I've heard the residents of the Conflux will summon an Aurora Borealis to honor any hero who brings them Grál.
 I've heard the residents of the Conflux will summon an Aurora Borealis to honor any hero who brings them Grál.
 
-Sprites are so fast that no one can hope to retaliate them.
-Sprites are so fast that no one can hope to retaliate them.
+Tündérek olyan gyorsak, hogy senki sem remélheti, hogy megtorolhatja õket.
+Tündérek olyan gyorsak, hogy senki sem remélheti, hogy megtorolhatja õket.
 The most powerful Elementals can protect their allies from their very element.
 The most powerful Elementals can protect their allies from their very element.
 Those who fought Magic Elementals say magic cannot do them harm.
@@ -9720,8 +9720,8 @@ I have heard many centuries ago Elementals invaded the lands of Erathia.
 I have heard many centuries ago Elementals invaded the lands of Erathia.
 
 # Cove rumors
-Áspis are the most powerful creature of the Coves.
-Áspis are the most powerful creature of the Coves.
+Áspis are the most powerful egység of the Coves.
+Áspis are the most powerful egység of the Coves.
 I've heard the residents of the Cove will light a Lodestar to honor any hero who brings them Grál.
 I've heard the residents of the Cove will light a Lodestar to honor any hero who brings them Grál.
 
@@ -9824,7 +9824,7 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Világítótorony"
 Text 2: "Lighthouse.wav"
-Text 3: "From the top of the Obszervatórium you are able to see distant lands."
+Text 3: "From the top of the Kilátótorony you are able to see distant lands."
 Text 4: ""
 Text 5: ""
 Text 6: ""
@@ -9851,7 +9851,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Ágyúudvar}
 
-Would you like to purchase Ágyú?"
+Szeretnél ágyút vásárolni?"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -9879,8 +9879,8 @@ város/Terrain Type Generation Error
 Error window text: 
 Errors related to város Rules / Terrain Rules of RMG template occured:
 
-Neutral város szöveg:
-neutral város %1
+Semleges város szöveg:
+Semleges város %1
 
 Player towns text:
 player towns
@@ -9889,13 +9889,13 @@ InvalidZoneId:
 In zone %1: there is condition on zone %2, but zone %2 does not exist.
 
 InvalidNeutralTownId:
-In zone %1: there is condition on neutral város %2 of zone %3, but this város does not exist.
+In zone %1: there is condition on Semleges város %2 of zone %3, but this város does not exist.
 
 NoPlayerTownInZone:
 In zone %1: there is a condtion on player towns of zone %2, but zone %2 does not have player towns.
 
 NoNeutralTownInZone:
-In zone %1: there is a condtion on neutral towns of zone %2, but zone %2 does not have neutral towns.
+In zone %1: there is a condtion on Semleges towns of zone %2, but zone %2 does not have Semleges towns.
 
 NoTownInZone:
 In zone %1: there is a condtion on towns of zone %2, but zone %2 does not have towns.
@@ -9937,7 +9937,7 @@ ViolatesTerrainMatchTown:
 Zone %1 has the option ""Terrain: Match to város"", but at least one város type vagy terrain type rule violates this option.
 
 ReferenceToDensityTown:
-In Zone %1, there is a város type vagy terrain type rule with a condition on neutral város %2 of zone %3, but this város may not always exist, because it can only be generated via ""város density"" mechanism.
+In Zone %1, there is a város type vagy terrain type rule with a condition on semleges város %2 of zone %3, but this város may not always exist, because it can only be generated via ""város density"" mechanism.
 Due to technical restrictions, véletlenszerû map generator cannot handle this situation properly. As a result, some város and/vagy terrain type rules may not be satisfied.
 
 SameTownTypePatternZoneTargetsItself:
@@ -10017,7 +10017,7 @@ Text 4: "AVCCOVE0.DEF"
 Text 5: "AVCCOVX0.DEF"
 Text 6: "AVCCOVZ0.def"
 Text 7: "CoveTown"
-Text 8: "The Blacksmith provides your armies with Ágyú."
+Text 8: "A kovácsmûhely ágyúval látja el seregeidet."
 Has FilS: "true"
 FilS size: 352
 FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 21 48 01 00 00 00 00 00 a1 5b 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 c0 00 00 00 00 80 00 00 c0 40 00 00 00 00 00 00 00 00 00 00 00 80 00 01 c0 81 00 00 00 20 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 80 00 00 c0 02 00 00 00 80 00 00 c0 02 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 00 00 40 00 00 00 00 80 00 01 c0 00 00 00 00 80 00 00 c0 00 00 00 00 81 00 00 c0 00 00 00 00 80 00 00 c0 02 00 00 00 81 00 00 c0 0e 00 00 00 80 00 00 40 00 00 00 00 80 00 00 c0 00 00 00 00 80 00 01 c0 01 00 00 00 80 00 00 c0 02 00 00 00 83 00 00 c0 04 00 00 00 80 00 00 c0 0a 00 00 00 83 00 00 c0 1e 00 00 00"
@@ -10395,7 +10395,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Buildings grades"
+Text 7: "Épületek besorolása"
 Text 8: ""
 Has FilS: "true"
 FilS size: 352
@@ -10879,7 +10879,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Buildings grades"
+Text 7: "Épületek besorolása"
 Text 8: ""
 Has FilS: "true"
 FilS size: 352
@@ -11062,7 +11062,7 @@ Name: "crbank21"
 Path: "Banks\crbank21.str"
 Texts count: "9"
 Text 0: ""
-Text 1: "Beholders' Sanctuary"
+Text 1: "Szemlélõk szentélye"
 Text 2: ""
 Text 3: ""
 Text 4: ""
@@ -11075,7 +11075,7 @@ Text 7: "# Precise guard stack setup
 74 -1 -1 -1 -1 -1 -1 # Guards types
 50 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 3000 # Resources award
+0 0 0 0 0 0 3000 # Erõforrások award
 0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11085,7 +11085,7 @@ Text 7: "# Precise guard stack setup
 74 -1 -1 -1 -1 -1 -1 # Guards types
 75 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 5000 # Resources award
+0 0 0 0 0 0 5000 # Erõforrások award
 0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11095,7 +11095,7 @@ Text 7: "# Precise guard stack setup
 74 -1 -1 -1 -1 -1 -1 # Guards types
 100 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 6000 # Resources award
+0 0 0 0 0 0 6000 # Erõforrások award
 0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11105,7 +11105,7 @@ Text 7: "# Precise guard stack setup
 74 -1 -1 -1 -1 -1 -1 # Guards types
 150 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 9000 # Resources award
+0 0 0 0 0 0 9000 # Erõforrások award
 0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count"
@@ -11123,10 +11123,10 @@ Name: "crbank22"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Temple of the Tengeri"
+Text 1: "A tenger temploma"
 Text 2: "seatempl.wav"
-Text 3: "You stand before the gates of the Temple of the Tengeri. Not a single mortal dared to enter it. Are you bold enough to be the first one?"
-Text 4: "A Temple of the Tengeri was here once. Now it's abandoned and empty."
+Text 3: "You stand before the gates of the A tenger temploma. Not a single mortal dared to enter it. Are you bold enough to be the first one?"
+Text 4: "A A tenger temploma was here once. Now it's abandoned and empty."
 Text 5: ""
 Text 6: ""
 Text 7: "# Precise guard stack setup
@@ -11136,7 +11136,7 @@ Text 7: "# Precise guard stack setup
 110 165 111 166 -1 -1 -1 # Guards types
 8 6 3 2 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 10000 # Resources award
+0 0 0 0 0 0 10000 # Erõforrások award
 2 1 0 1 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11146,7 +11146,7 @@ Text 7: "# Precise guard stack setup
 110 165 111 166 -1 -1 -1 # Guards types
 8 7 4 3 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 15000 # Resources award
+0 0 0 0 0 0 15000 # Erõforrások award
 1 1 1 1 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11156,7 +11156,7 @@ Text 7: "# Precise guard stack setup
 110 165 111 166 -1 -1 -1 # Guards types
 8 7 5 4 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 20000 # Resources award
+0 0 0 0 0 0 20000 # Erõforrások award
 0 1 2 1 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11166,7 +11166,7 @@ Text 7: "# Precise guard stack setup
 110 165 111 166 -1 -1 -1 # Guards types
 10 9 6 5 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 30000 # Resources award
+0 0 0 0 0 0 30000 # Erõforrások award
 0 0 2 2 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count"
@@ -11184,7 +11184,7 @@ Name: "crbank23"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Kalóz Cavern"
+Text 1: "Kalózbarlang"
 Text 2: ""
 Text 3: ""
 Text 4: ""
@@ -11197,7 +11197,7 @@ Text 7: "# Precise guard stack setup
 157 158 158 157 -1 -1 -1 # Guards types
 10 10 10 10 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 165 # Creatures award type
 1 # Creatures award count
@@ -11207,7 +11207,7 @@ Text 7: "# Precise guard stack setup
 157 158 158 157 -1 -1 -1 # Guards types
 20 20 20 20 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 165 # Creatures award type
 2 # Creatures award count
@@ -11217,7 +11217,7 @@ Text 7: "# Precise guard stack setup
 157 158 158 157 -1 -1 -1 # Guards types
 30 30 30 30 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 165 # Creatures award type
 3 # Creatures award count
@@ -11227,7 +11227,7 @@ Text 7: "# Precise guard stack setup
 157 158 158 157 -1 -1 -1 # Guards types
 40 40 40 40 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 165 # Creatures award type
 4 # Creatures award count"
@@ -11258,7 +11258,7 @@ Text 7: "# Precise guard stack setup
 63 -1 -1 -1 -1 -1 -1 # Guards types
 40 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 2 0 2 2 2 2500 # Resources award
+0 2 0 2 2 2 2500 # Erõforrások award
 0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11268,7 +11268,7 @@ Text 7: "# Precise guard stack setup
 63 -1 -1 -1 -1 -1 -1 # Guards types
 60 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 3 0 3 3 3 5000 # Resources award
+0 3 0 3 3 3 5000 # Erõforrások award
 0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11278,7 +11278,7 @@ Text 7: "# Precise guard stack setup
 63 -1 -1 -1 -1 -1 -1 # Guards types
 80 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 4 0 4 4 4 7500 # Resources award
+0 4 0 4 4 4 7500 # Erõforrások award
 0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11288,7 +11288,7 @@ Text 7: "# Precise guard stack setup
 63 -1 -1 -1 -1 -1 -1 # Guards types
 100 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 5 0 5 5 5 10000 # Resources award
+0 5 0 5 5 5 10000 # Erõforrások award
 0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count"
@@ -11306,7 +11306,7 @@ Name: "crbank25"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Spit"
+Text 1: "Zátony"
 Text 2: ""
 Text 3: "You stand in front of an entrance to a mossy, overgrown residence. You hear creeks and growling from inside. Dare to enter?"
 Text 4: "Somebody was here before you, and the Kincstár was pillaged."
@@ -11319,7 +11319,7 @@ Text 7: "# Precise guard stack setup
 106 106 106 106 -1 -1 -1 # Guards types
 4 4 4 4 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 3000 # Resources award
+0 0 0 0 0 0 3000 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11329,7 +11329,7 @@ Text 7: "# Precise guard stack setup
 106 106 106 106 -1 -1 -1 # Guards types
 6 6 6 6 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 4500 # Resources award
+0 0 0 0 0 0 4500 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11339,7 +11339,7 @@ Text 7: "# Precise guard stack setup
 106 106 106 106 -1 -1 -1 # Guards types
 8 8 8 8 0 0 0 # Guards counts
 00 # Upgrade chance (%)
-0 0 0 0 0 0 6000 # Resources award
+0 0 0 0 0 0 6000 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11349,7 +11349,7 @@ Text 7: "# Precise guard stack setup
 106 106 106 106 -1 -1 -1 # Guards types
 12 12 12 12 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 9000 # Resources award
+0 0 0 0 0 0 9000 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count"
@@ -11380,7 +11380,7 @@ Text 7: "# Precise guard stack setup
 114 -1 -1 -1 -1 -1 -1 # Guards types
 35 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 130 # Creatures award type
 1 # Creatures award count
@@ -11390,7 +11390,7 @@ Text 7: "# Precise guard stack setup
 114 -1 -1 -1 -1 -1 -1 # Guards types
 70 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 130 # Creatures award type
 2 # Creatures award count
@@ -11400,7 +11400,7 @@ Text 7: "# Precise guard stack setup
 114 -1 -1 -1 -1 -1 -1 # Guards types
 105 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 130 # Creatures award type
 3 # Creatures award count
@@ -11410,7 +11410,7 @@ Text 7: "# Precise guard stack setup
 114 -1 -1 -1 -1 -1 -1 # Guards types
 140 0 0 0 0 0 0 # Guards counts
 50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 130 # Creatures award type
 4 # Creatures award count"
@@ -11441,7 +11441,7 @@ Text 7: "# Precíz védvédelem beállítása
 -1 -1 -1 -1 26 -1 -1 # Guards types
 0 0 0 0 1 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 2000 # Resources award
+0 0 0 0 0 0 2000 # Erõforrások award
 0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11451,7 +11451,7 @@ Text 7: "# Precíz védvédelem beállítása
 -1 -1 -1 -1 82 -1 -1 # Guards types
 0 0 0 0 1 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 2250 # Resources award
+0 0 0 0 0 0 2250 # Erõforrások award
 0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11461,7 +11461,7 @@ Text 7: "# Precíz védvédelem beállítása
 -1 -1 -1 -1 27 -1 -1 # Guards types
 0 0 0 0 1 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 3500 # Resources award
+0 0 0 0 0 0 3500 # Erõforrások award
 0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11471,7 +11471,7 @@ Text 7: "# Precíz védvédelem beállítása
 -1 -1 -1 -1 83 -1 -1 # Guards types
 0 0 0 0 1 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 3750 # Resources award
+0 0 0 0 0 0 3750 # Erõforrások award
 0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count"
@@ -11489,10 +11489,10 @@ Name: "crbank28"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Ivory Tower"
+Text 1: "Elefántcsonttorony"
 Text 2: "IVORYTOW.wav"
-Text 3: "You stand in front of an Ivory Tower. Mage foes keep the prisoners captured. Taking their side will allow you to gain valuable allies. Are you ready to test your fortune?"
-Text 4: "You enter the Ivory Tower, however nobody is home."
+Text 3: "You stand in front of an Elefántcsonttorony. Mage foes keep the prisoners captured. Taking their side will allow you to gain valuable allies. Are you ready to test your fortune?"
+Text 4: "You enter the Elefántcsonttorony, however nobody is home."
 Text 5: ""
 Text 6: ""
 Text 7: "# Precise guard stack setup
@@ -11502,7 +11502,7 @@ Text 7: "# Precise guard stack setup
 35 -1 -1 -1 -1 -1 -1 # Guards types
 35 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 136 # Creatures award type
 3 # Creatures award count
@@ -11512,7 +11512,7 @@ Text 7: "# Precise guard stack setup
 35 -1 -1 -1 -1 -1 -1 # Guards types
 50 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 136 # Creatures award type
 6 # Creatures award count
@@ -11522,7 +11522,7 @@ Text 7: "# Precise guard stack setup
 35 -1 -1 -1 -1 -1 -1 # Guards types
 65 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 136 # Creatures award type
 9 # Creatures award count
@@ -11532,7 +11532,7 @@ Text 7: "# Precise guard stack setup
 35 -1 -1 -1 -1 -1 -1 # Guards types
 80 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 136 # Creatures award type
 12 # Creatures award count"
@@ -11563,7 +11563,7 @@ Text 7: "# Precise guard stack setup
 59 59 59 59 59 59 -1 # Guards types
 15 15 15 15 15 15 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 2500 # Resources award
+0 0 0 0 0 0 2500 # Erõforrások award
 0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11573,7 +11573,7 @@ Text 7: "# Precise guard stack setup
 59 59 59 59 59 59 -1 # Guards types
 15 15 15 15 15 15 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 2500 # Resources award
+0 0 0 0 0 0 2500 # Erõforrások award
 0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11583,7 +11583,7 @@ Text 7: "# Precise guard stack setup
 59 59 59 59 59 59 -1 # Guards types
 15 15 15 15 15 15 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 2500 # Resources award
+0 0 0 0 0 0 2500 # Erõforrások award
 0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11593,7 +11593,7 @@ Text 7: "# Precise guard stack setup
 59 59 59 59 59 59 -1 # Guards types
 15 15 15 15 15 15 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 2500 # Resources award
+0 0 0 0 0 0 2500 # Erõforrások award
 0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count"
@@ -11612,7 +11612,7 @@ Name: "crbank30"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Experimental Shop"
+Text 1: "Kísérleti bolt"
 Text 2: ""
 Text 3: ""
 Text 4: ""
@@ -11625,7 +11625,7 @@ Text 7: "# Precise guard stack setup
 170 -1 -1 -1 -1 -1 -1 # Guards types
 20 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 40 # Creatures award type
 1 # Creatures award count
@@ -11635,7 +11635,7 @@ Text 7: "# Precise guard stack setup
 170 -1 -1 -1 -1 -1 -1 # Guards types
 40 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 40 # Creatures award type
 2 # Creatures award count
@@ -11645,7 +11645,7 @@ Text 7: "# Precise guard stack setup
 170 -1 -1 -1 -1 -1 -1 # Guards types
 60 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 40 # Creatures award type
 3 # Creatures award count
@@ -11655,7 +11655,7 @@ Text 7: "# Precise guard stack setup
 170 -1 -1 -1 -1 -1 -1 # Guards types
 80 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 40 # Creatures award type
 4 # Creatures award count"
@@ -11686,7 +11686,7 @@ Text 7: "# Precise guard stack setup
 87 -1 -1 -1 -1 -1 -1 # Guards types
 50 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 94 # Creatures award type
 4 # Creatures award count
@@ -11696,7 +11696,7 @@ Text 7: "# Precise guard stack setup
 87 -1 -1 -1 -1 -1 -1 # Guards types
 75 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 94 # Creatures award type
 6 # Creatures award count
@@ -11706,7 +11706,7 @@ Text 7: "# Precise guard stack setup
 87 -1 -1 -1 -1 -1 -1 # Guards types
 100 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 94 # Creatures award type
 8 # Creatures award count
@@ -11716,7 +11716,7 @@ Text 7: "# Precise guard stack setup
 87 -1 -1 -1 -1 -1 -1 # Guards types
 150 0 0 0 0 0 0 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Resources award
+0 0 0 0 0 0 0 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 94 # Creatures award type
 12 # Creatures award count"
@@ -11734,10 +11734,10 @@ Name: "crbank32"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Ruins"
+Text 1: "Romok"
 Text 2: "RUINSVIS.wav"
-Text 3: "Csont rattling and otherworldly howls echo between crumbling walls and towers. Do you wish to explore the ruins?"
-Text 4: "Wind whistling about melodically is the most interesting thing you find in the ruins. Well, at least you manage to take a good look around the place from the tower."
+Text 3: "Csont rattling and otherworldly howls echo between crumbling walls and towers. Do you wish to explore the Romok?"
+Text 4: "Wind whistling about melodically is the most interesting thing you find in the Romok. Well, at least you manage to take a good look around the place from the tower."
 Text 5: "You climb the mound of Csontok to reach the top of the highest standing tower, where you find a heap of ancient coins. You also take some time to read the land lying around."
 Text 6: ""
 Text 7: "# Precise guard stack setup
@@ -11747,7 +11747,7 @@ Text 7: "# Precise guard stack setup
 56 60 61 57 -1 -1 65 # Guards types
 20 3 3 10 0 0 1 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 1000 # Resources award
+0 0 0 0 0 0 1000 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11757,7 +11757,7 @@ Text 7: "# Precise guard stack setup
 56 60 61 57 -1 -1 65 # Guards types
 30 5 5 10 0 0 1 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 2000 # Resources award
+0 0 0 0 0 0 2000 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11767,7 +11767,7 @@ Text 7: "# Precise guard stack setup
 56 60 61 57 -1 -1 65 # Guards types
 40 7 7 20 0 0 2 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 3000 # Resources award
+0 0 0 0 0 0 3000 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count
@@ -11777,7 +11777,7 @@ Text 7: "# Precise guard stack setup
 56 60 61 57 -1 -1 65 # Guards types
 50 9 9 20 0 0 3 # Guards counts
 0 # Upgrade chance (%)
-0 0 0 0 0 0 4000 # Resources award
+0 0 0 0 0 0 4000 # Erõforrások award
 0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
 -1 # Creatures award type
 0 # Creatures award count"
@@ -12166,7 +12166,7 @@ Text 7: "# AI values
 
 # Aranylúd
 160
-16 4750 6 # Add resources growth, 4750, Arany
+16 4750 6 # Add Erõforrások growth, 4750, Arany
 -1
 
 # A Mélység Kürtje
@@ -12230,7 +12230,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Diplomata Köpenye}
 
-In addition to component effect this cloak allows your hero to retreat vagy surrender when battling neutral Egységek vagy defending a város as well as when attacking and casting a spell in the first round of a combat. Multiplies your hero army strength by 3 (for neutral armies and Thieves guild)."
+In addition to component effect this cloak allows your hero to retreat vagy surrender when battling semleges Egységek vagy defending a város as well as when attacking and casting a spell in the first round of a combat. Multiplies your hero army strength by 3 (for semleges armies and Thieves guild)."
 Text 8: "0 # cost
 2 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
 16 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
@@ -12354,7 +12354,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Uralkodás Szigonya}
 
-Ez a jobb kezes fegyver növeli a Támadási Értéked +7-tel."
+Ez a jobbkezes fegyver növeli a Támadási Értéked +7-tel."
 Text 8: "7000 # cost
 4 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
 8 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
@@ -12385,7 +12385,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Haditengerészeti Dicsõség Pajzsa}
 
-This left-handed item increases your Defense skill by +7."
+Ez a balkezes fegyver növeli a védekezési értéked +7-tel."
 Text 8: "7000 # cost
 5 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
 8 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
@@ -12502,7 +12502,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Közvetlenség Rúnái"
-Text 2: "Close by, on a mountain edge you see a mage trying to cast a spell. Fiery symbols are already flashing in the sky, when he, while blinded by the light, trips and falls down. The mage perishes, and you gather the chain of mysterious stones in your backpack."
+Text 2: "Close by, on a Hegy edge you see a mage trying to cast a spell. Fiery symbols are already flashing in the sky, when he, while blinded by the light, trips and falls down. The mage perishes, and you gather the chain of mysterious stones in your backpack."
 Text 3: "Enemy has Közvetlenség Rúnái: -1"
 Text 4: ""
 Text 5: ""
@@ -12626,7 +12626,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Elnyomás Gyûrûje"
-Text 2: "You ordered fried eggs for breakfast. The cook managed to find the eggs for you. He also found a ring in the bird's nest that he passed to you."
+Text 2: "You ordered fried eggs for breakfast. The cook managed to find the eggs for you. He also found a ring in the bird's Fészek that he passed to you."
 Text 3: "Enemy has Elnyomás Gyûrûje: -1"
 Text 4: ""
 Text 5: ""
@@ -12781,7 +12781,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "A Mélység Kürtje"
-Text 2: "This waterfall sounds and looks exactly like a waterfall should. On closer inspection, though, you are amazed to find out the flow is headed upwards. You wonder what it took for such an impressive phenomenon to come into being. Surely a powerful artefact has to be in play? And indeed, an ornate horn is soon found levitating above the crest."
+Text 2: "This vízesés sounds and looks exactly like a vízesés should. On closer inspection, though, you are amazed to find out the flow is headed upwards. You wonder what it took for such an impressive phenomenon to come into being. Surely a powerful artefact has to be in play? And indeed, an ornate horn is soon found levitating above the crest."
 Text 3: ""
 Text 4: ""
 Text 5: ""
@@ -12977,7 +12977,7 @@ Name: "subterr2"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Fields of Glory"
+Text 1: "A dicsõség mezõi"
 Text 2: "cmbkflgl.pcx"
 Text 3: ""
 Text 4: ""
@@ -14672,18 +14672,18 @@ Name: "impobj001"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Obszervatórium"
+Text 1: "Kilátótorony"
 Text 2: "Lighthouse.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Obszervatórium} 
+Text 8: """{Kilátótorony} 
 
 An astronomer offers you to take his apprentice for a shipboy. You might find his lookout skill useful, while the youth could do with a break from studies. However, the astronomer will need him back in a week for the next round of planned observations.""
 (+2 scouting radius until the end of the week)
-""{Obszervatórium}
+""{Kilátótorony}
 
 The astronomer is absent from his tower. A note posted on the door reads: """"Will be back in a week""""."""
 Has FilS: "false"
@@ -14858,26 +14858,26 @@ Name: "actobj005"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Hermit's Shack"
+Text 1: "Hermit's Kunyhó"
 Text 2: "Gazebo.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Hermit's Shack}
+Text 8: """{Hermit's Kunyhó}
 
-On entering the shack you see nobody home, but the walls appear lined with pages from scholarly books. You copy some useful informations from a sheet near the fireplace.""
+On entering the Kunyhó you see nobody home, but the walls appear lined with pages from scholarly books. You copy some useful informations from a sheet near the fireplace.""
 (Véletlenszerû secondary skill upgrade once per hero)
-""{Hermit's Shack}
+""{Hermit's Kunyhó}
 
-On entering the shack you see no renovations have been done since you were here last time. The wallpaper still features familiar writings.""
-""{Hermit's Shack}
+On entering the Kunyhó you see no renovations have been done since you were here last time. The wallpaper still features familiar writings.""
+""{Hermit's Kunyhó}
 
-On entering the shack you see nobody home, but the walls appear lined with pages from scholarly books. There definitely is a lot to be learned here, but the material seems fairly advanced. You will have to get an introductory course elsewhere.""
-""{Hermit's Shack}
+On entering the Kunyhó you see nobody home, but the walls appear lined with pages from scholarly books. There definitely is a lot to be learned here, but the material seems fairly advanced. You will have to get an introductory course elsewhere.""
+""{Hermit's Kunyhó}
 
-On entering the shack you notice the walls are lined with pages from scholarly books. However, there's nothing to be learned, and, on top of that, the hermit owner of the place shows up and sees you out quite rudely."""
+On entering the Kunyhó you notice the walls are lined with pages from scholarly books. However, there's nothing to be learned, and, on top of that, the hermit owner of the place shows up and sees you out quite rudely."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14901,7 +14901,7 @@ Text 7: ""
 Text 8: """{Gazebo}
 
 An old Knight appears on the steps of the gazebo. """"I will teach you all that I know to aid you in your travels. However, I'll let you know a small donation to the Retired Knights' League is required. A thousand Arany will suffice.""""""
-(+2000 experience for 1000 Arany once per hero)
+(+2000 tapasztalati pont for 1000 Arany once per hero)
 ""{Gazebo}
 
 You can hear loud snoring coming from the gazebo. Apparently, the League has already put your donation to good use.""
@@ -14981,9 +14981,9 @@ Text 7: ""
 Text 8: """{Warlock's Lab}
 
 Visiting text (not used).""
-""Resources can be turned into each other, but only rare ones. If you want something transmuted, click on the initial and desired resources.""
-""The process was successful; here are your new resources. Anything else you need transmuted?""
-""Resources for transmutation""
+""Erõforrások can be turned into each other, but only rare ones. If you want something transmuted, click on the initial and desired Erõforrások.""
+""The process was successful; here are your new Erõforrások. Anything else you need transmuted?""
+""Erõforrások for transmutation""
 ""Transmute: get %d %s %s from %d %s %s.""
 Transmute"
 Has FilS: "false"

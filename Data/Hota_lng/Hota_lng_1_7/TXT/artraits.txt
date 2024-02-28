@@ -384,56 +384,57 @@ A Tilalom Varázsgömb letiltja az összes varázslatot a csata során."
 Sárkányvér Fiola	20000						x	x	x	x	x										R	"{Sárkányvér Fiola}
 
 +5-el növeli minden sárkányod Támadási illetve Védekezési Értéked."
-Végítélet Kard	50000																x				R	"{Végítélet Kard}
+Végítélet Pengéje	50000																x				R	"{Végítélet Pengéje}
 
-+ 3 Támadás. + 3 Védekezés. + 6 Tudás. + 3 Varázserõ. Továbbá elhelyezi a Végítélet Kardját a Varázskönyvben, amely varázslatra minden lényed immunis lesz."
+Ez a hatalmas erejû kard + 3 támadás. + 3 védekezés. + 6 tudás. + 3 varázserõt ad hõsödnek. Továbbá elhelyezi a Mester Végítélet varázslatot a varázskönyvben, amely varázslatra minden egységed immunis lesz."
 Angyali Szövetség																	x				R	"{Angyali Szövetség}
 
-A Rampart, Tower, Fortress, Stronghold, és a Castle várak teremtményei keverhetõvé válnak Morál Büntetés nélkül, illetve minden csata elején Mester Imádság-ot varázsol."
+Az Angyali Szövetség a komponensenkénti hatása mellett minden egységednek hangulatbüntetés nélkül ad lehetõséget arra, hogy jó és semleges városi egységeket keverj a csatában. Minden harc elején az Angyali Szövetség 10 körön keresztül mester Imádság varázslatot hajt végre."
 Halott Király Köpönyege																			x		R	"{Halott Király Köpenye}
 
-+30% a csatamezõn meghalt lény/skeleton támasztódik fel. Ha a hõs már rendelkezik  Nekromancia Képzettséggel, akkor +30% és szintenként más és más az eredmény. Alap: Zombik
+Ha a hõs nem rendelkezik a nekromancia képességgel, a Halott Király Köpönyege a csatatéren halott ellenségek 15% -át csontvázként fogja feltámasztani. Ha a hõs már rendelkezik a nekromancia képességgel, akkor az összetevõk hatása mellett ez a köpeny lehetõvé teszi erõsebb élõhalott egységek feltámasztását. A készségszint határozza meg, hogy milyen típus támad fel.  
+Alap: Zombik
 Haladó: Lelkek
-Mester:  Lichek"
+Mester: Lichek"
 Életelixír							x	x	x	x	x										R	"{Életelixír}
 
-Minden lény +25% HP bónuszt és regenerálódási képességet kap. Nem mûködik élõhalott/nem élõ egységeken."
+A komponensek hatása mellett az Életelixír a hõs soraiban lévõ összes egységnek 25% bónuszt ad az életerejéhez, és minden körben 50 sebzés pontot regenerál. Nem mûködik az élõhalottakon vagy az élettelen lényeken."
 Elátkozott Csodamellvért															x						R	"{Elátkozott Csodamellvért}
 
-Minden ellenfélen 50 körig hatnak az általunk varázsolt:  Lassítás, Gyengítõ Sugár, Átok, Gyengeség és Balszerencse varázslatok."
+Az Elátkozott Csodamellvért komponenshatásek hatásai mellett ezeket a varázslatokat szakértõi szinten a harc elején 50 körön keresztül az ellenfél összes egységére varázsolja: Lassítás, Átok, Gyengeség és Balszerencse."
 Légió Szobra							x	x	x	x	x										R	"{Légió Szobra}
 
-Minden lénybõl +50%-al többet vásárolhatsz abban a várban, amelybe a hõsöddel és a szoborral beállsz."
+A Légió Szobra komponenshatásain kívül +50% teremtménynövekedést ad a vár teremtménygenerálási szintje alapján minden városra, nem tartalmazza a zászlós építményeket vagy más hasonló bónuszokat."
 Sárkányvezéri Erõ															x						R	"{Sárkányvezéri Erõ}
 
-+6-al növeli az összes Elsõdleges Képzettséget és minden egységed immunis lesz az 1-4 szintû varázslatokra."
+A Sárkányvezéri Erõ komponenshatás mellett +6-ot ad minden elsõdleges képességhez, valamint a hõs egységei immunisak lesznek minden 1-4. szintû varázslatra, kivéve az Eloszlatás varázslatot."
 Titáni Mennydörgés																	x				R	"{Titáni Mennydörgés}
 
-Hõsünk kap egy 600-at sebzõ Villámcsapás varázslatot, ami bekerül a varázskönyvbe."
+A Titáni Mennydörgés a komponenshatásai mellett a Titáni Menydörgést ad a hõsnek, amely 600 pont Sérülést okoz és varázspontot nem használ fel. Ha a hõsnek nincs Varázskönyve, akkor állandóra ad egyet ebbõl."
 Admirális Kalap																				x	R	"{Admirális Kalap}
 
-Nincs beszállási és kiszállási büntetés hajózáskor. Konvertálodik a mozgáspont amit a hõsünk tud használni vízen illetve szárazöldön."
+Az Admirális Kalap komponenshatásai mellett megszünteti a hajóra szállás és a hajóról leszállás büntetést, konvertálodik a mozgáspont, amit a hõsünk tud használni vízen illetve szárazöldön is."
 Mesterlövész Íj							x	x	x	x	x						 				R	"{Mesterlövész Íj}
 
-Lövészeinket nem blokkolják az elé álló teremtmények és nincs távolsági büntetésük."
+A Mesterlövész Íj komponenshatásai mellett lehetõvé teszi a távolsági lövészeknek, hogy lõjenek, miközben egy ellenséges egység mellett vannak. Eltávolítja az íjászat büntetését a távolság vagy akadály esetén."
 Varázslók Kútja							x	x	x	x	x										R	"{Varázslók Kútja}
 
-Minden nap maximumra regenerálodik  a  varázspont."
+A Varázslók Kútja minden nap maximumra regenerálja a varázspontokat."
 Mágus Gyûrû													x	x							R	"{Mágus Gyûrû}
 
-+50 kör varázslat hatóidõ."
+A komponensek hatásai mellett a Mágus Gyûrû 50 körrel növeli a varázslatok idõtartamát."
 Bõségszaru							x	x	x	x	x										R	"{Bõségszaru}
 
-Naponta minden ásványból +négyet generál."
+A komponensek hatásai mellett naponta minden ásványból +4-gyet hoz raktárunkba."
 Diplomata Köpenye																			x		R	"{Diplomata Köpenye}
 
-Ez egy szuperjó tárgy."
+A komponenshatások mellett ez a köpeny lehetõvé teszi a hõsöd számára, hogy visszavonuljon vagy megadja magát, amikor semleges egységek ellen harcol vagy várost véd, valamint amikor támad és varázslatot ad le a harc elsõ körében. Emellett a hõs hadseregének erejét 3-mal megszorozza (semleges hadsereg és tolvajok céhe esetén)."
 Visszatükrözés Medálja															x						R	"{Visszatükrözés Medálja}
 
-Ez egy szuperjó tárgy."
+A komponenshatások mellett ez a medál 20% -kal növeli az ellenséges varázslatnak való ellenállás esélyét."
 Ogre Vasököl																	x				R	"{Ogre Vasököl}
 
-Ez egy szuperjó tárgy."
+A komponenshatások mellett az Ogre Vasököl ezeket a varázslatokat mester szinten dobja a harc elején az összes egységedre ötven körön keresztül: Gyorsítás, Vérszomj, Tûz Pajzs és Visszatámadás."
 																						
 																						
 																						

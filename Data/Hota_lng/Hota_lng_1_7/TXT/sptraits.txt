@@ -356,18 +356,18 @@ Az Élõhalott Ölõ varázslat megkísérli elpusztítani az összes élõholt egységet a 
 
 Az Élõhalott Ölõ varázslat megkísérli elpusztítani az összes élõholt egységet a csatatéren. Minden élõhalott egység (Varázserõ x 10 + 50) sebzést szenved.
 "	 COMBAT_SPELL
-Armageddon	Armageddon	4	 	 	x	 	24	20	20	20	40	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Armageddon}
+Végítélet	Végítélet	4	 	 	x	 	24	20	20	20	40	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Végítélet}
 
-Az Armageddon varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 30) sebzést okoz.
-"	"{Alap Armageddon}
+A Végítélet varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 30) sebzést okoz.
+"	"{Alap Végítélet}
 
-Az Armageddon varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 30) sebzést okoz.
-"	"{Haladó Armageddon}
+A Végítélet varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 30) sebzést okoz.
+"	"{Haladó Végítélet}
 
-Az Armageddon varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 60) sebzést okoz.
-"	"{Mester Armageddon}
+A Végítélet varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 60) sebzést okoz.
+"	"{Mester Végítélet}
 
-Az Armageddon varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 120) sebzést okoz.
+A Végítélet varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 120) sebzést okoz.
 "	 COMBAT_SPELL
 Pajzs	Pajzs	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Pajzs}
 

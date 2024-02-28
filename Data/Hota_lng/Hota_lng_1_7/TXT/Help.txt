@@ -82,11 +82,11 @@ RATING 	A pálya általános nehézsége (a pálya és a játékos nehézség alapján)
 MAP_SIZE 	A pálya nehézsége Könnyû, Normál, Nehéz, Tapasztalt és Lehetetlen lehet.	
 VICTORY_CONDITION 	Az aktuális pálya gyõzelmi feltétele	
 LOSS_CONDITION 	Az aktuális pálya vereségi feltétele	
-SMALL_FILTER 	Minden kis pálya megmutatása	
-MEDIUM_FILTER 	Minden közepes pálya megmutatása	
-LARGE_FILTER 	Minden nagy pálya megmutatása	
-EXTRALARGE_FILTER 	Minden extra nagy pálya megmutatása	
-ALL_FILTER 	Minden pálya megmutatása	
+SMALL_FILTER 	Összes kis pálya megtekintése	
+MEDIUM_FILTER 	Összes közepes pálya megtekintése	
+LARGE_FILTER 	Összes nagy pálya megtekintése	
+EXTRALARGE_FILTER 	Összes óriási pálya megtekintése	
+ALL_FILTER 	Összes pálya megtekintése	
 SCENARIO_NAME_1 	SCENARIO_NAME_1 	
 SCENARIO_NAME_2 	SCENARIO_NAME_2 	
 SCENARIO_NAME_3 	SCENARIO_NAME_3 	
