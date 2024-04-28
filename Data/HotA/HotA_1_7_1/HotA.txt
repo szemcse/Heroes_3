@@ -9067,8 +9067,8 @@ Repülés. Elme varázslat immunitás. Korlátlan megtorlás. Hipnotizálás.
 Megduplázza a baráti egység szerencse esélyét. Szerencsét hoz.
 Gólem. A varázslatoktól származó Sérülés 80%-kal csökken.
 Pozitív szerencsével lõ. Távolsági támadás figyelmen kívül hagyja az ellenség védelmi képességének 20%-át.
-Légzéses támadása. Javítja a Szerelõ lényeket (10 találatpont Szerelõnként).
-Légzéses támadása. Javítja a Szerelõ lényeket (20 találatpont Mérnökenként).
+Lángszórós támadás. Javítja a mechanikus egységeket (10 találatpont Szerelõnként).
+Lángszórós támadás. Javítja a mechanikus egységeket (20 találatpont Mérnökenként).
  
  
 Megjavítható. Detonáció a halál beálltával.
