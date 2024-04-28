@@ -1,0 +1,46 @@
+Hõs ablak
+Támadás
+Védekezés
+Varázserõ
+Tudás
+{Spec. képesség}
+{Tapasztalat}
+{Varázspontok}
+"Küldetés
+Napló"
+"Hõs
+elbocsátása"
+Áttekintõ ablak
+Napi arany bevétel:
+Hajógyár ablak
+Új hajó készítése
+Nyersanyag ára:
+Tolvajok Céhe ablak
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Városok száma
+Hõsök száma
+Arany
+Fa + Érc
+Higany, Kén, Kristály, Drágakövek
+Obeliszkek feltérképezve
+Varázstárgyak
+Királyi Hadsereg ereje
+Bevétel
+Legjobb hõs
+Személyiség
+Legjobb lény
+Kocsma ablak
+Kocsma
+Bérelhetõ hõsök
+Város kapu ablak
+Város kapu
+Válassz egy várost
+Kovácsmûhely ablak
+Nyersanyag ára:

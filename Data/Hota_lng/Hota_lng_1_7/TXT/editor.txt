@@ -938,7 +938,7 @@ Obje&ktumok mocsaras talajra	T
 &Objektumok törmelékes talajra	Y
 O&bjektumok föld alatti talajra	U
 &Objektumok lávás talajra	I
-&Objektumok vízi talajra	[
+&Objektumok vízi felületre	[
 &Az összes objektum	A
 &Városok	S
 &Egységek	D

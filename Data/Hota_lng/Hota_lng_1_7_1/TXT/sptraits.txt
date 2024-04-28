@@ -1,0 +1,944 @@
+			School				Cost				Effect					% Chance to gain									AI value				Right Click Text				
+Name	Abbreviated Name	Level	Earth	Water	Fire	Air	None	Basic	Advanced	Expert	Power 	None	Basic	Advanced	Expert	Castle	Rampart	Tower	Inferno	Necropolis	Dungeon	Stronghold	Fortress	Conflux	None	Basic	Advanced	Expert	Normal	Basic	Advanced	Expert	Attributes (reference only, do not change)
+																																	
+Kaland Varázslatok																																	
+																																	
+Hajóidézés	Hajóidézés	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Hajóidézés}
+
+A Hajóidézés varázslat egy már létezõ hajót idéz meg a kívánt helyre.
+
+50% az esély, hogy sikerül.
+"	"{Alap Hajóidézés}
+
+A Hajóidézés varázslat egy már létezõ hajót idéz meg a kívánt helyre.
+
+50% az esély, hogy sikerül.
+"	"{Haladó Hajóidézés}
+
+A Hajóidézés varázslat egy már létezõ hajót idéz meg a kívánt helyre.
+
+75% az esély, hogy sikerül.
+"	"{Mester Hajóidézés}
+
+A Hajóidézés varázslat egy már létezõ hajót idéz meg a kívánt helyre. Ha nincs ilyen, akkor egy újat hoz létre.
+"	 ADV_SPELL
+Hajólékelés	Hajólékelés	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Hajólékelés}
+
+A Hajólékelés varázslat megsemmisíti a kiválasztott hajódat. 
+
+50% az esély, hogy sikerül.
+"	"{Alap Hajólékelés}
+
+A Hajólékelés varázslat megsemmisíti a kiválasztott hajódat. 
+
+50% az esély, hogy sikerül.
+"	"{Haladó Hajólékelés}
+
+A Hajólékelés varázslat megsemmisíti a kiválasztott hajódat. 
+
+75% az esély, hogy sikerül.
+"	"{Mester Hajólékelés}
+
+A Hajólékelés varázslat megsemmisíti a kiválasztott hajódat. 
+"	 ADV_SPELL
+Látomás	Látomás	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Látomás}
+
+A Látomás varázslat a kaland térképen lévõ seregek vagy helyõrségek erejét mutatja meg.
+"	"{Alap Látomás}
+
+A Látomás varázslat a kaland térképen lévõ seregek vagy helyõrségek erejét mutatja meg.
+"	"{Haladó Látomás}
+
+A Látomás varázslat a kaland térképen lévõ seregek vagy helyõrségek erejét, számát és típusát mutatja meg, továbbá azt, hogy az ellenséges egységek hajlandóak e hozzád csatlakozni. 
+"	"{Mester Látomás}
+
+A Látomás varázslat a kaland térképen lévõ seregek vagy helyõrségek erejét, számát és típusát mutatja meg, továbbá azt, hogy az ellenséges egységek hajlandóak e hozzád csatlakozni. A közelben lévõ városokról is információkat kapunk.
+"	 ADV_SPELL
+Látkép	Látkép	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Látkép}
+
+A Látkép varázslat megmutatja az összes nyersanyag elhelyezkedését a már felderített térképen.
+"	"{Alap Látkép}
+
+A Látkép varázslat megmutatja az összes nyersanyag elhelyezkedését a már felderített térképen.
+"	"{Haladó Látkép}
+
+A Látkép varázslat megmutatja az összes nyersanyag elhelyezkedését a már felderített térképen.
+"	"{Mester Látkép}
+
+A Látkép varázslat megmutatja az összes nyersanyag és bánya elhelyezkedését a már felderített térképen.
+"	 ADV_SPELL
+Álca	Álca	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Álca}
+
+Az Álca varázslat hamis információkat ad az ellenséges csapatoknak a csapatodról.
+"	"{Alap Álca}
+
+Az Álca varázslat hamis információkat ad az ellenséges csapatoknak a csapatodról.
+"	"{Haladó Álca}
+
+Az Álca varázslat hamis információkat ad az ellenséges csapatoknak a csapatodról. Az összes egységedet úgy tünteti fel az ellenség számára, hogy az a Te legerõsebb sereged. A számok 0-ra változnak az összes csoportban.
+"	"{Mester Álca}
+
+Az Álca varázslat hamis információkat ad az ellenséges csapatoknak a csapatodról. Az összes egységedet úgy tünteti fel az ellenség számára, hogy az a Te legerõsebb sereged. A számok 0-ra változnak az összes csoportban.
+"	 ADV_SPELL
+Madártávlat	Madártávlat	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Madártávlat}
+
+A Madártávlat varázslat megmutatja az összes varázstárgy elhelyezkedését a már felderített térképen. 
+"	"{Alap Madártávlat}
+
+A Madártávlat varázslat megmutatja az összes varázstárgy elhelyezkedését a már felderített térképen. 
+"	"{Haladó Madártávlat}
+
+A Madártávlat varázslat megmutatja az összes varázstárgy, ellenséges hõs elhelyezkedését a már felderített térképen. 
+"	"{Mester Madártávlat}
+
+A Madártávlat varázslat megmutatja az összes varázstárgy, ellenséges hõs és ellenséges város elhelyezkedését a már felderített térképen. 
+"	 ADV_SPELL
+Repülés	Repülés	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Repülés}
+
+A Repülés varázslattal a hõsödnek lehetõsége lesz a pálya akadályai felett átrepülni 40% mozgás büntetéssel.
+"	"{Alap Repülés}
+
+A Repülés varázslattal a hõsödnek lehetõsége lesz a pálya akadályai felett átrepülni 40% mozgás büntetéssel.
+"	"{Haladó Repülés}
+
+A Repülés varázslattal a hõsödnek lehetõsége lesz a pálya akadályai felett átrepülni 20% mozgás büntetéssel.
+"	"{Mester Repülés}
+
+A Repülés varázslattal a hõsödnek lehetõsége lesz a pálya akadályai felett átrepülni. Az összes mozgáspontod felhasználhatod.
+"	 ADV_SPELL
+Vízen Járás	Vízen Járás	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Vízen járás}
+
+A Vízen Járás varázslattal a hõseid mozgáspontjaik egy részét felhasználhatják arra, hogy átlovagolhassanak a vízen 40% mozgás büntetéssel. A mozgást a szárazföldön kell befejezned.
+"	"{Alap Vízen Járás}
+
+A Vízen Járás varázslattal a hõseid mozgáspontjaik egy részét felhasználhatják arra, hogy átlovagolhassanak a vízen 40% mozgás büntetéssel. A mozgást a szárazföldön kell befejezned.
+"	"{Haladó Vízen Járás}
+
+A Vízen Járás varázslattal a hõseid mozgáspontjaik egy részét felhasználhatják arra, hogy átlovagolhassanak a vízen 20% mozgás büntetéssel. A mozgást a szárazföldön kell befejezned.
+"	"{Mester Vízen Járás}
+
+A Vízen Járás varázslattal a hõseid átlovagolhatnak a vízen. Az összes mozgáspont felhasználható rá. A mozgást a szárazföldön kell befejezni.
+"	 ADV_SPELL
+Dimenzió Kapu	Dimenzió Kapu	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Dimenzió Kapu}
+
+A Dimenzió Kapu varázslattal naponta átteleportálhatod a hõsödet  a kaland térkép egy másik pontjára. 300 mozgáspontba kerül.
+"	"{Alap Dimenzió Kapu}
+
+A Dimenzió Kapu varázslattal naponta átteleportálhatod a hõsödet  a kaland térkép egy másik pontjára. 300 mozgáspontba kerül.
+"	"{Haladó Dimenzió Kapu}
+
+A Dimenzió Kapu varázslattal naponta 3 alkalommal átteleportálhatod a hõsödet  a kaland térkép egy másik pontjára. 300 mozgáspontba kerül.
+"	"{Mester Dimenzió Kapu}
+
+A Dimenzió Kapu varázslattal naponta 4 alkalommal átteleportálhatod a hõsödet  a kaland térkép egy másik pontjára. 200 mozgáspontba kerül.
+"	 ADV_SPELL
+Várkapu	Várkapu	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Várkapu}
+
+A Várkapu varázslat a hõsödet a legközelebbi váradba helyezi. 300 mozgáspontba kerül.
+"	"{Alap Várkapu}
+
+A Várkapu varázslat a hõsödet a legközelebbi váradba helyezi. 300 mozgáspontba kerül.
+"	"{Haladó Várkapu}
+
+A Várkapu varázslat a hõsödet a legközelebbi váradba helyezi. 300 mozgáspontba kerül.
+"	"{Mester Várkapu}
+
+A Várkapu varázslat a hõsödet a legközelebbi váradba helyezi. 200 mozgáspontba kerül.
+"	 ADV_SPELL
+																																	
+Harci Varázslatok																																	
+																																	
+Futóhomok	Futóhomok	2	x	 	 	 	8	6	6	6	0	0	0	0	0	4	4	6	4	4	4	6	6	4	1	1	1	1	"{Futóhomok}
+
+A Futóhomok varázslat véletlenszerûen elhelyez négy kicsi futóhomok foltot a csatamezõn, amik csak a varázsló és a terep egységei számára láthatók.  Ha egy egység belesétál ebbe, akkor annak a mozgása befejezõdik (az adott körben) és mindenki számára láthatóvá válnak a futóhomok foltok.
+"	"{Alap Futóhomok}
+
+A Futóhomok varázslat véletlenszerûen elhelyez négy kicsi futóhomok foltot a csatamezõn, amik csak a varázsló és a terep egységei számára láthatók.  Ha egy egység belesétál ebbe, akkor annak a mozgása befejezõdik (az adott körben) és mindenki számára láthatóvá válnak a futóhomok foltok.
+"	"{Haladó Futóhomok}
+
+A Futóhomok varázslat véletlenszerûen elhelyez hat kicsi futóhomok foltot a csatamezõn, amik csak a varázsló és a terep egységei számára láthatók.  Ha egy egység belesétál ebbe, akkor annak a mozgása befejezõdik (az adott körben) és mindenki számára láthatóvá válnak a futóhomok foltok.
+"	"{Mester Futóhomok}
+
+A Futóhomok varázslat véletlenszerûen elhelyez nyolc kicsi futóhomok foltot a csatamezõn, amik csak a varázsló és a terep egységei számára láthatók.  Ha egy egység belesétál ebbe, akkor annak a mozgása befejezõdik (az adott körben) és mindenki számára láthatóvá válnak a futóhomok foltok.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Aknásítás	Aknásítás	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Aknásítás}
+
+Az Aknásítás varázslat véletlenszerûen elhelyez négy aknát a csatamezõn, amik csak a varázsló és a terep egységei számára láthatóak.  Ha egy egység belesétál, akkor annak sebzést okoz (Varázserõ x 10 + 25), amely egység nem látja, és eltûnik. Ellenkezõ esetben az aknák mûködési idõtartama korlátlan.
+"	"{Alap Aknásítás}
+
+Az Aknásítás varázslat véletlenszerûen elhelyez négy aknát a csatamezõn, amik csak a varázsló és a terep egységei számára láthatóak.  Ha egy egység belesétál, akkor annak sebzést okoz (Varázserõ x 10 + 25), amely egység nem látja, és eltûnik. Ellenkezõ esetben az aknák mûködési idõtartama korlátlan.
+"	"{Haladó Aknásítás}
+
+Az Aknásítás varázslat véletlenszerûen elhelyez hat aknát a csatamezõn, amik csak a varázsló és a terep egységei számára láthatóak.  Ha egy egység belesétál, akkor annak sebzést okoz (Varázserõ x 10 + 50), amely egység nem látja, és eltûnik. Ellenkezõ esetben az aknák mûködési idõtartama korlátlan.
+"	"{Mester Aknásítás}
+
+Az Aknásítás varázslat véletlenszerûen elhelyez hat aknát a csatamezõn, amik csak a varázsló és a terep egységei számára láthatóak.  Ha egy egység belesétál, akkor annak sebzést okoz (Varázserõ x 10 + 50), amely egység nem látja, és eltûnik. Ellenkezõ esetben az aknák mûködési idõtartama korlátlan.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Erõtér	Erõtér	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Erõtér}
+
+Az Erõtér varázslat elhelyez egy kisebb 2 hexarácsnyi erõteret 2 körig a csatamezõn oda, ahova a varázsló kívánja. A mozgás ezeken a hexarácsokon keresztül le van tiltva.
+"	"{Alap Erõtér}
+
+Az Erõtér varázslat elhelyez egy kisebb 2 hexarácsnyi erõteret 2 körig a csatamezõn oda, ahova a varázsló kívánja. A mozgás ezeken a hexarácsokon keresztül le van tiltva.
+"	"{Haladó Erõtér}
+
+Az Erõtér varázslat elhelyez egy kisebb 3 hexarácsnyi erõteret 2 körig a csatamezõn oda, ahova a varázsló kívánja. A mozgás ezeken a hexarácsokon keresztül le van tiltva.
+"	"{Mester Erõtér}
+
+Az Erõtér varázslat elhelyez egy kisebb 3 hexarácsnyi erõteret 2 körig a csatamezõn oda, ahova a varázsló kívánja. A mozgás ezeken a hexarácsokon keresztül le van tiltva.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Tûz Fal	Tûz Fal	2	 	 	x	 	8	6	6	6	15	10	10	20	50	4	4	4	12	4	4	4	4	8	1	1	1	1	"{Tûz Fal}
+
+A Tûz Fal varázslat elhelyez egy kisebb 2 hexarácsnyi futótüzet 2 körig a csatamezõn oda, ahová szeretnénk. Az összes egység, aki ezen áthalad (Varázserõ x 15 + 10) értéket sérül.
+"	"{Alap Tûz Fal}
+
+A Tûz Fal varázslat elhelyez egy kisebb 2 hexarácsnyi futótüzet 2 körig a csatamezõn oda, ahová szeretnénk. Az összes egység, aki ezen áthalad (Varázserõ x 15 + 10) értéket sérül.
+"	"{Haladó Tûz fal}
+
+A Tûz Fal varázslat elhelyez egy kisebb 3 hexarácsnyi futótüzet 2 körig a csatamezõn oda, ahová szeretnénk. Az összes egység, aki ezen áthalad (Varázserõ x 15 + 20) értéket sérül.
+"	"{Mester Tûz Fal}
+
+A Tûz Fal varázslat elhelyez egy kisebb 3 hexarácsnyi futótüzet 2 körig a csatamezõn oda, ahová szeretnénk. Az összes egység, aki ezen áthalad (Varázserõ x 15 + 50) értéket sérül.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Földrengés	Földrengés	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Földrengés}
+
+A Földrengés varázslat véletlenszerûen kárt okoz a kastély falának, kapujának vagy tornyának két részén.
+"	"{Alap Földrengés}
+
+A Földrengés varázslat véletlenszerûen kárt okoz a kastély falának, kapujának vagy tornyának két részén.
+"	"{Haladó Földrengés}
+
+A Földrengés varázslat véletlenszerûen kárt okoz a kastély falának, kapujának vagy tornyának három részén.
+"	"{Mester Földrengés}
+
+A Földrengés varázslat véletlenszerûen kárt okoz a kastély falának, kapujának vagy tornyának négy részén.
+"	 COMBAT_SPELL
+Varázsnyíl	Varázsnyíl	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Varázsnyíl}
+
+A Varázsnyíl varázslat egy mágikus energia csapást okoz a kiválasztott ellenséges egységnek. (Varázserõ x 10 + 10) sebzést okoz.
+"	"{Alap Varázsnyíl}
+
+A Varázsnyíl varázslat egy mágikus energia csapást okoz a kiválasztott ellenséges egységnek. (Varázserõ x 10 + 10) sebzést okoz.
+"	"{Haladó Varázsnyíl}
+
+A Varázsnyíl varázslat egy mágikus energia csapást okoz a kiválasztott ellenséges egységnek. (Varázserõ x 10 + 20) sebzést okoz.
+"	"{Mester Varázsnyíl}
+
+A Varázsnyíl varázslat egy mágikus energia csapást okoz a kiválasztott ellenséges egységnek. (Varázserõ x 10 + 30) sebzést okoz.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Jégcsapás	Jégcsapás	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{Jégcsapás}
+
+A Jégcsapás varázslat lecsökkenti a kiválasztott ellenséges egység testhõmérsékletét. (Varázserõ x 20 + 10) sebzést okoz.
+"	"{Alap Jégcsapás}
+
+A Jégcsapás varázslat lecsökkenti a kiválasztott ellenséges egység testhõmérsékletét. (Varázserõ x 20 + 10) sebzést okoz.
+"	"{Haladó Jégcsapás}
+
+A Jégcsapás varázslat lecsökkenti a kiválasztott ellenséges egység testhõmérsékletét. (Varázserõ x 20 + 20) sebzést okoz.
+"	"{Mester Jégcsapás}
+
+A Jégcsapás varázslat lecsökkenti a kiválasztott ellenséges egység testhõmérsékletét. (Varázserõ x 20 + 50) sebzést okoz.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Villámcsapás	Villámcsapás	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Villámcsapás}
+
+A Villámcsapás varázslat sebzi a kiválasztott egységet. (Varázserõ x 25 + 10) sebzést okoz.
+"	"{Alap Villámcsapás}
+
+A Villámcsapás varázslat sebzi a kiválasztott egységet. (Varázserõ x 25 + 10) sebzést okoz.
+"	"{Haladó Villámcsapás}
+
+A Villámcsapás varázslat sebzi a kiválasztott egységet. (Varázserõ x 25 + 20) sebzést okoz.
+"	"{Mester Villámcsapás}
+
+A Villámcsapás varázslat sebzi a kiválasztott egységet. (Varázserõ x 25 + 50) sebzést okoz.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Összeomlás	Összeomlás	5	x	 	 	 	30	25	25	25	75	100	100	200	300	0	16	14	16	20	12	0	0	13	75	75	75	75	"{Összeomlás}
+
+Az Összeomlás varázslatot egyetlen ellenséges egységre helyezve okoz (Varázserõ x 75 + 100) súlyos sérülést. A sérülés nem érinti a hadi gépeket.
+"	"{Alap Összeomlás}
+
+Az Összeomlás varázslatot egyetlen ellenséges egységre helyezve okoz (Varázserõ x 75 + 100) súlyos sérülést. A sérülés nem érinti a hadi gépeket.
+"	"{Haladó Összeomlás}
+
+Az Összeomlás varázslatot egyetlen ellenséges egységre helyezve okoz (Varázserõ x 75 + 200) súlyos sérülést. A sérülés nem érinti a hadi gépeket.
+"	"{Mester Összeomlás}
+
+Az Összeomlás varázslatot egyetlen ellenséges egységre helyezve okoz (Varázserõ x 75 + 300) súlyos sérülést. A sérülés nem érinti a hadi gépeket.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Láncvillám	Láncvillám	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Láncvillám}
+
+A Láncvillám varázslat az elsõ célpontra teljes (Varázserõ x 40 + 25) sebzést mér, a másodikra ennek felét, a harmadikra a negyedét, a negyedikre a nyolcadát. Négy egységet üt.
+"	"{Alap Láncvillám}
+
+A Láncvillám varázslat az elsõ célpontra teljes (Varázserõ x 40 + 25) sebzést mér, a másodikra ennek felét, a harmadikra a negyedét, a negyedikre a nyolcadát. Négy egységet üt.
+"	"{Haladó Láncvillám}
+
+A Láncvillám varázslat az elsõ célpontra teljes (Varázserõ x 40 + 50) sebzést mér, a másodikra ennek felét, a harmadikra a negyedét, a negyedikre a nyolcadát. Öt egységet üt.
+"	"{Mester Láncvillám}
+
+A Láncvillám varázslat az elsõ célpontra teljes (Varázserõ x 40 + 100) sebzést mér, a másodikra ennek felét, a harmadikra a negyedét, a negyedikre a nyolcadát. Öt egységet üt.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Fagy Gyûrû	Fagy Gyûrû	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Fagy Gyûrû}
+
+A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körrül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 15) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
+"	"{Alap Fagy Gyûrû}
+
+A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körrül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 15) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
+"	"{Haladó Fagy Gyûrû}
+
+A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körrül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 30) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
+"	"{Mester Fagy Gyûrû}
+
+A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körrül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 60) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Tûzlabda	Tûzlabda	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Tûzlabda}
+
+A Tûzlabda varázslat a kiválasztott célt lángra lobbantja és (Varázserõ x 10 + 15) tûz sebzést okoz neki és a célpont közelében álló egységeken is.
+"	"{Alap Tûzlabda}
+
+A Tûzlabda varázslat a kiválasztott célt lángra lobbantja és (Varázserõ x 10 + 15) tûz sebzést okoz neki és a célpont közelében álló egységeken is.
+"	"{Haladó Tûzlabda}
+
+A Tûzlabda varázslat a kiválasztott célt lángra lobbantja és (Varázserõ x 10 + 30) tûz sebzést okoz neki és a célpont közelében álló egységeken is.
+"	"{Mester Tûzlabda}
+
+A Tûzlabda varázslat a kiválasztott célt lángra lobbantja és (Varázserõ x 10 + 60) tûz sebzést okoz neki és a célpont közelében álló egységeken is.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Pokoltûz	Pokoltûz	4	 	 	x	 	16	12	12	12	10	20	20	40	80	5	5	5	10	5	5	0	0	10	20	20	20	20	"{Pokoltûz}
+
+A Pokoltûz varázslat hatalmas tûzrobbanást okoz, ami a kiválasztott célpontot és az 1 és 2 hexarácsnyira a célpont helyénél okoz detonációt. Minden egység (Varázserõ x 10 + 20) sebzést szenved. Próbálj meg nem a közelében lenni ennek!
+"	"{Alap Pokoltûz}
+
+A Pokoltûz varázslat hatalmas tûzrobbanást okoz, ami a kiválasztott célpontot és az 1 és 2 hexarácsnyira a célpont helyénél okoz detonációt. Minden egység (Varázserõ x 10 + 20) sebzést szenved. Próbálj meg nem a közelében lenni ennek!
+"	"{Haladó Pokoltûz}
+
+A Pokoltûz varázslat hatalmas tûzrobbanást okoz, ami a kiválasztott célpontot és az 1 és 2 hexarácsnyira a célpont helyénél okoz detonációt. Minden egység (Varázserõ x 10 + 40) sebzést szenved. Próbálj meg nem a közelében lenni ennek!
+"	"{Mester Pokoltûz}
+
+A Pokoltûz varázslat hatalmas tûzrobbanást okoz, ami a kiválasztott célpontot és az 1 és 2 hexarácsnyira a célpont helyénél okoz detonációt. Minden egység (Varázserõ x 10 + 80) sebzést szenved. Próbálj meg nem a közelében lenni ennek!
+"	 COMBAT_SPELL|LOCATION_TARGET
+Meteorzápor	Meteorzápor	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Meteorzápor}
+
+A Meteorzápor varázslat meteorzáport zúdít a kiválasztott célpontra és a célponttal szomszédos bármely egységre. Minden egység sebzõdik (Varázserõ x 25 + 25) sebzést okoz.
+"	"{Alap Meteorzápor}
+
+A Meteorzápor varázslat meteorzáport zúdít a kiválasztott célpontra és a célponttal szomszédos bármely egységre. Minden egység sebzõdik (Varázserõ x 25 + 25) sebzést okoz.
+"	"{Haladó Meteorzápor}
+
+A Meteorzápor varázslat meteorzáport zúdít a kiválasztott célpontra és a célponttal szomszédos bármely egységre. Minden egység sebzõdik (Varázserõ x 25 + 50) sebzést okoz.
+"	"{Mester Meteorzápor}
+
+A Meteorzápor varázslat meteorzáport zúdít a kiválasztott célpontra és a célponttal szomszédos bármely egységre. Minden egység sebzõdik (Varázserõ x 25 + 100) sebzést okoz.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Halál Fodrok	Halál Fodrok	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Halál Fodrok}
+
+A Halál Fodrok varázslat átkúszik a csatatéren, amely az élõhalottak és a hadi gépek kivételével minden egységet megsebez, (Varázserõ x 5 + 10) sérülést okoz.
+"	"{Alap Halál Fodrok}
+
+A Halál Fodrok varázslat átkúszik a csatatéren, amely az élõhalottak és a hadi gépek kivételével minden egységet megsebez, (Varázserõ x 5 + 10) sérülést okoz.
+"	"{Haladó Halál Fodrok}
+
+A Halál Fodrok varázslat átkúszik a csatatéren, amely az élõhalottak és a hadi gépek kivételével minden egységet megsebez, (Varázserõ x 5 + 20) sérülést okoz.
+"	"{Mester Halál Fodrok}
+
+A Halál Fodrok varázslat átkúszik a csatatéren, amely az élõhalottak és a hadi gépek kivételével minden egységet megsebez, (Varázserõ x 5 + 30) sérülést okoz.
+"	 COMBAT_SPELL
+Élõhalott Ölõ	Élõhalott Ölõ	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Élõhalott Ölõ}
+
+Az Élõhalott Ölõ varázslat megkísérli elpusztítani az összes élõholt egységet a csatatéren. Minden élõhalott egység (Varázserõ x 10 + 10) sebzést szenved.
+"	"{Alap Élõhalott Ölõ}
+
+Az Élõhalott Ölõ varázslat megkísérli elpusztítani az összes élõholt egységet a csatatéren. Minden élõhalott egység (Varázserõ x 10 + 10) sebzést szenved.
+"	"{Haladó Élõhalott Ölõ}
+
+Az Élõhalott Ölõ varázslat megkísérli elpusztítani az összes élõholt egységet a csatatéren. Minden élõhalott egység (Varázserõ x 10 + 20) sebzést szenved.
+"	"{Mester Élõhalott Ölõ}
+
+Az Élõhalott Ölõ varázslat megkísérli elpusztítani az összes élõholt egységet a csatatéren. Minden élõhalott egység (Varázserõ x 10 + 50) sebzést szenved.
+"	 COMBAT_SPELL
+Végítélet	Végítélet	4	 	 	x	 	24	20	20	20	40	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Végítélet}
+
+A Végítélet varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 30) sebzést okoz.
+"	"{Alap Végítélet}
+
+A Végítélet varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 30) sebzést okoz.
+"	"{Haladó Végítélet}
+
+A Végítélet varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 60) sebzést okoz.
+"	"{Mester Végítélet}
+
+A Végítélet varázslat olyan halálos viharfelhõket és esõt idéz meg, mely a csatatéren lévõ összes seregen (Varázserõ x 40 + 120) sebzést okoz.
+"	 COMBAT_SPELL
+Pajzs	Pajzs	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Pajzs}
+
+A Pajzs varázslat megerõsíti a kiválasztott egység védekezõ képességét, csökkentve a közelharc során kapott ütések sebzését 15%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Pajzs}
+
+A Pajzs varázslat megerõsíti a kiválasztott egység védekezõ képességét, csökkentve a közelharc során kapott ütések sebzését 15%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Pajzs}
+
+A Pajzs varázslat megerõsíti a kiválasztott egység védekezõ képességét, csökkentve a közelharc során kapott ütések sebzését 30%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Pajzs}
+
+A Pajzs varázslat megerõsíti az összes egység védekezõ képességét, csökkentve a közelharc során kapott ütések sebzését 30%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Levegõ Pajzs	Levegõ Pajzs	3	 	 	 	x	12	9	9	9	0	75	75	50	50	4	8	8	2	4	4	8	4	4	20	20	50	50	"{Levegõ Pajzs}
+
+A Levegõ Pajzs varázslat megerõsíti a kiválasztott egység védekezõ képességét, csökkentve a távolsági lövések során kapott sebzések értékét 25%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Levegõ Pajzs}
+
+A Levegõ Pajzs varázslat megerõsíti a kiválasztott egység védekezõ képességét, csökkentve a távolsági lövések során kapott sebzések értékét 25%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Levegõ Pajzs}
+
+A Levegõ Pajzs varázslat megerõsíti a kiválasztott egység védekezõ képességét, csökkentve a távolsági lövések során kapott sebzések értékét 50%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Levegõ Pajzs}
+
+A Levegõ Pajzs varázslat megerõsíti az összes egység védekezõ képességét, csökkentve a távolsági lövések során kapott sebzések értékét 50%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Tûz Pajzs	Tûz Pajzs	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Tûz Pajzs}
+
+A Tûz Pajzs varázslat a barátságos egységre vetve nem nyújt további védelmet, de minden olyan egységet sebez az okozott sebzés 20%-kával, amely a Tûz Pajzzsal védett egységet közelharccal megtámadja. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Tûz Pajzs}
+
+A Tûz Pajzs varázslat a barátságos egységre vetve nem nyújt további védelmet, de minden olyan egységet sebez az okozott sebzés 20%-kával, amely a Tûz Pajzzsal védett egységet közelharccal megtámadja. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Tûz Pajzs}
+
+A Tûz Pajzs varázslat a barátságos egységre vetve nem nyújt további védelmet, de minden olyan egységet sebez az okozott sebzés 25%-kával, amely a Tûz Pajzzsal védett egységet közelharccal megtámadja. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Tûz Pajzs}
+
+A Tûz Pajzs varázslat a barátságos egységre vetve nem nyújt további védelmet, de minden olyan egységet sebez az okozott sebzés 30%-kával, amely a Tûz Pajzzsal védett egységet közelharccal megtámadja. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Levegõ Hárító	Levegõ Hárító	2		 	 	x	7	5	5	5	0	50	50	25	25	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Levegõ Hárító}
+
+A Levegõ Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Levegõ varázslatok sebzését 50%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Levegõ Hárító}
+
+A Levegõ Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Levegõ varázslatok sebzését 50%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Levegõ Hárító}
+
+A Levegõ Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Levegõ varázslatok sebzését 75%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Levegõ Hárító}
+
+A Levegõ Hárító varázslat megvéd minden barátságos egységünket, csökkentve a Levegõ varázslatok sebzését 75%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Tûz Hárító	Tûz Hárító	1	 		x	 	5	4	4	4	0	50	50	25	25	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Tûz Hárító}
+
+A Tûz Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Tûz varázslatok sebzését 50%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Tûz Hárító}
+
+A Tûz Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Tûz varázslatok sebzését 50%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Tûz Hárító}
+
+A Tûz Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Tûz varázslatok sebzését 75%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Tûz Hárító}
+
+A Tûz Hárító varázslat megvéd minden barátságos egységet, csökkentve a Tûz varázslatok sebzését 75%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Víz Hárító	Víz Hárító	1	 	x		 	5	4	4	4	0	50	50	25	25	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Víz Hárító}
+
+A Víz Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Víz varázslatok sebzését 50%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Víz Hárító}
+
+A Víz Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Víz varázslatok sebzését 50%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Víz Hárító}
+
+A Víz Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Víz varázslatok sebzését 75%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Víz Hárító}
+
+A Víz Hárító varázslat megvéd minden barátságos egységet, csökkentve a Víz varázslatok sebzését 75%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Föld Hárító	Föld Hárító	3	x	 	 		12	9	9	9	0	50	50	25	25	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Föld Hárító}
+
+A Föld Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Föld varázslatok sebzését 50%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Föld Hárító}
+
+A Föld Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Föld varázslatok sebzését 50%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Föld Hárító}
+
+A Föld Hárító varázslat megvédi a kiválasztott egységet, csökkentve a Föld varázslatok sebzését 75%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Föld Hárító}
+
+A Föld Hárító varázslat megvéd minden barátságos egységet, csökkentve a Föld varázslatok sebzését 75%-kal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Anti-mágia	Anti-mágia	3	x	 	 	 	15	12	12	12	0	4	4	5	6	12	8	8	4	8	8	12	10	12	10	10	15	20	"{Anti-mágia}
+
+Az Anti-mágia varázslat megvédi a kiválasztott barátságos egységet minden 1-3 szintû varázslattól, kivéve az Eloszlatás varázslattól. Eltávolítja az 1-3 szintû negatív varázslatokat, kivéve a Gyengítõ Sugár varázslatot. Nem érinti a Fantomkép varázslattal létrehozott ismétlõdéseket. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Anti-mágia}
+
+Az Anti-mágia varázslat megvédi a kiválasztott barátságos egységet minden 1-3 szintû varázslattól, kivéve az Eloszlatás varázslattól. Eltávolítja az 1-3 szintû negatív varázslatokat, kivéve a Gyengítõ Sugár varázslatot. Nem érinti a Fantomkép varázslattal létrehozott ismétlõdéseket. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Anti-mágia}
+
+Az Anti-mágia varázslat megvédi a kiválasztott barátságos egységet minden 1-4 szintû varázslattól, kivéve az Eloszlatás varázslattól. Eltávolítja az 1-4 szintû negatív varázslatokat, kivéve a Gyengítõ Sugár varázslatot. Nem érinti a Fantomkép varázslattal létrehozott ismétlõdéseket. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Anti-mágia}
+
+Az Anti-mágia varázslat megvédi a kiválasztott barátságos egységet minden varázslattól, kivéve az Eloszlatás varázslattól. Eltávolít minden negatív varázslatokat, kivéve a Gyengítõ Sugár varázslatot. Nem érinti a Fantomkép varázslattal létrehozott ismétlõdéseket. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Eloszlatás	Eloszlatás	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Eloszlatás}
+
+Az Eloszlatás varázslat eltávolít minden varázslatot és effektust, kivéve a Gyengítõ Sugár varázslatot és a mérgezést egy barátságos egységrõl. Figyelmen kívül hagyja a cél egységeknek a mágiával szembeni természetes immunitását.
+"	"{Alap Eloszlatás}
+
+Az Eloszlatás varázslat eltávolít minden varázslatot és effektust, kivéve a Gyengítõ Sugár varázslatot és a mérgezést egy barátságos egységrõl. Figyelmen kívül hagyja a cél egységeknek a mágiával szembeni természetes immunitását.
+"	"{Haladó Eloszlatás}
+
+Az Eloszlatás varázslat eltávolít minden varázslatot és effektust, kivéve a Gyengítõ Sugár varázslatot és a mérgezést egy barátságos vagy ellenséges egységrõl. Figyelmen kívül hagyja a cél egységeknek a mágiával szembeni természetes immunitását.
+"	"{Mester Eloszlatás}
+
+Az Eloszlatás varázslat eltávolít minden varázslatot és effektust, kivéve a Gyengítõ Sugár varázslatot és a mérgezést a csatatéren lévõ összes egységrõl és elpusztít minden mágikus akadályt. Figyelmen kívül hagyja a cél egységeknek a mágiával szembeni természetes immunitását.
+"	 COMBAT_SPELL|CREATURE_TARGET_1
+Mágikus Tükör	Mágikus Tükör	5	 	 	 	x	25	20	20	20	0	20	20	30	40	0	16	14	0	0	12	0	0	13	12	12	18	24	"{Mágikus Tükör}
+
+A Mágikus Tükör varázslat az esetek 20%-ában az ellenség egy véletlenszerû egységére veri vissza az ártó varázslatot. Megvéd a Hipnozitálás varázslattól. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Mágikus Tükör}
+
+A Mágikus Tükör varázslat az esetek 20%-ában az ellenség egy véletlenszerû egységére veri vissza az ártó varázslatot. Megvéd a Hipnozitálás varázslattól. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Mágikus Tükör}
+
+A Mágikus Tükör varázslat az esetek 30%-ában az ellenség egy véletlenszerû egységére veri vissza az ártó varázslatot. Megvéd a Hipnozitálás varázslattól. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Mágikus Tükör}
+
+A Mágikus Tükör varázslat az esetek 40%-ában az ellenség egy véletlenszerû egységére veri vissza az ártó varázslatot. Megvéd a Hipnozitálás varázslattól. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Gyógyítás	Gyógyítás	1	 	x	 	 	6	5	5	5	5	10	10	20	30	10	10	5	5	0	5	5	10	5	4	4	4	4	"{Gyógyítás}
+
+A Gyógyítás varázslat eltávolítja az összes negatív varázslatot és effektust, kivéve a Gyengítõ Sugár varázslatot és az Ent Fapásztorok földhöz kötését, és gyógyít (Varázserõ x 5 + 10) sebzés értéket a kiválasztott barátságos egységen. Helyreállítja a méreggel lecsökkentett életerõt.
+"	"{Alap Gyógyítás}
+
+A Gyógyítás varázslat eltávolítja az összes negatív varázslatot és effektust, kivéve a Gyengítõ Sugár varázslatot és az Ent Fapásztorok földhöz kötését, és gyógyít (Varázserõ x 5 + 10) sebzés értéket a kiválasztott barátságos egységen. Helyreállítja a méreggel lecsökkentett életerõt.
+"	"{Haladó Gyógyítás}
+
+A Gyógyítás varázslat eltávolítja az összes negatív varázslatot és effektust, kivéve a Gyengítõ Sugár varázslatot és az Ent Fapásztorok földhöz kötését, és gyógyít (Varázserõ x 5 + 20) sebzés értéket a kiválasztott barátságos egységen. Helyreállítja a méreggel lecsökkentett életerõt.
+"	"{Mester Gyógyítás}
+
+A Gyógyítás varázslat eltávolítja az összes negatív varázslatot és effektust, kivéve a Gyengítõ Sugár varázslatot és az Ent Fapásztorok földhöz kötését, és gyógyít (Varázserõ x 5 + 30) sebzés értéket minden barátságos egységen. Helyreállítja a méreggel lecsökkentett életerõt.
+"	 COMBAT_SPELL|CREATURE_TARGET_1
+Feltámasztás	Feltámasztás	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Feltámasztás}
+
+A Feltámasztás varázslat feltámasztja azokat a kiválasztott egységeket, amelyek élõ egységek a barátságos csoportból. A csata végéig élednek fel úgy, hogy visszaállítja (Varázserõ x 50 + 40) sérülés pontokat a célponton.
+"	"{Alap Feltámasztás}
+
+A Feltámasztás varázslat feltámasztja azokat a kiválasztott egységeket, amelyek élõ egységek a barátságos csoportból. A csata végéig élednek fel úgy, hogy visszaállítja (Varázserõ x 50 + 40) sérülés pontokat a célponton.
+"	"{Haladó Feltámasztás}
+
+A Feltámasztás varázslat feltámasztja azokat a kiválasztott egységeket, amelyek élõ egységek a barátságos csoportból. A csata végéig élednek fel úgy, hogy visszaállítja (Varázserõ x 50 + 80) sérülés pontokat a célponton.
+"	"{Mester Feltámasztás}
+
+A Feltámasztás varázslat feltámasztja azokat a kiválasztott egységeket, amelyek élõ egységek a barátságos csoportból. A csata végéig élednek fel úgy, hogy visszaállítja (Varázserõ x 50 + 160) sérülés pontokat a célponton.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Halott Élesztés	Halott Élesztés	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Halott Élesztés}
+
+A Halott Élesztés varázslat feléleszt minden elpusztított élõhalottat a kiválasztott barátságos egységekben úgy, hogy visszaállít (Varázserõ x 50 + 30) sérülés pontot a célponton.
+"	"{Alap Halott Élesztés}
+
+A Halott Élesztés varázslat feléleszt minden elpusztított élõhalottat a kiválasztott barátságos egységekben úgy, hogy visszaállít (Varázserõ x 50 + 30) sérülés pontot a célponton.
+"	"{Haladó Halott Élesztés}
+
+A Halott Élesztés varázslat feléleszt minden elpusztított élõhalottat a kiválasztott barátságos egységekben úgy, hogy visszaállít (Varázserõ x 50 + 60) sérülés pontot a célponton.
+"	"{Mester Halott Élesztés}
+
+A Halott Élesztés varázslat feléleszt minden elpusztított élõhalottat a kiválasztott barátságos egységekben úgy, hogy visszaállít (Varázserõ x 50 + 160) sérülés pontot a célponton.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Áldozás	Áldozás	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Áldozás}
+
+Az Áldozás varázslat elõször egy saját egységet pusztít el, azután egy másikat kiválasztva a feltámadás erejét használja fel ((Varázserõ + Feláldozott sereg életpontjai + 3) x Feláldozott egységek száma) sérülés értékkel támasztja fel a kijelölt egységet.
+"	"{Alap Áldozás}
+
+Az Áldozás varázslat elõször egy saját egységet pusztít el, azután egy másikat kiválasztva a feltámadás erejét használja fel ((Varázserõ + Feláldozott sereg életpontjai + 3) x Feláldozott egységek száma) sérülés értékkel támasztja fel a kijelölt egységet.
+"	"{Haladó Áldozás}
+
+Az Áldozás varázslat elõször egy saját egységet pusztít el, azután egy másikat kiválasztva a feltámadás erejét használja fel ((Varázserõ + Feláldozott sereg életpontjai + 6) x Feláldozott egységek száma) sérülés értékkel támasztja fel a kijelölt egységet.
+"	"{Mester Áldozás}
+
+Az Áldozás varázslat elõször egy saját egységet pusztít el, azután egy másikat kiválasztva a feltámadás erejét használja fel ((Varázserõ + Feláldozott sereg életpontjai + 10) x Feláldozott egységek száma) sérülés értékkel támasztja fel a kijelölt egységet.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Áldás	Áldás	1	 	x	 	 	5	4	4	4	0	0	0	1	1	10	5	5	0	0	3	3	5	5	10	10	11	11	"{Áldás}
+
+Az Áldás varázslat arra készteti a kiválasztott barátságos egységet, hogy maximális sebzést okozzon a harcban. Eltávolítja az Átok varázslatot. Nincs hatással az élõhalottakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Áldás}
+
+Az Áldás varázslat arra készteti a kiválasztott barátságos egységet, hogy maximális sebzést okozzon a harcban. Eltávolítja az Átok varázslatot. Nincs hatással az élõhalottakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Áldás}
+
+Az Áldás varázslat arra készteti a kiválasztott barátságos egységet, hogy 1-gyel nagyobb sebzést okozzon, mint a normál maximális sebzés a harcban. Eltávolítja az Átok varázslatot. Nincs hatással az élõhalottakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Áldás}
+
+Az Áldás varázslat arra késztet minden barátságos egységet, hogy 1-gyel nagyobb sebzést okozzon, mint a normál maximális sebzés a harcban. Eltávolítja az Átok varázslatot. Nincs hatással az élõhalottakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Átok	Átok	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Átok}
+
+Az Átok varázslat arra készteti a kiválasztott ellenséges egységet, hogy csak minimális sebzést okozzon a harcban. Eltávolítja az Áldás varázslatot. Nincs hatással az élõhalottakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Átok}
+
+Az Átok varázslat arra készteti a kiválasztott ellenséges egységet, hogy csak minimális sebzést okozzon a harcban. Eltávolítja az Áldás varázslatot. Nincs hatással az élõhalottakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Átok}
+
+Az Átok varázslat arra készteti a kiválasztott ellenséges egységet, hogy 1-gyel kisebb sebzést okozzon, mint a minimális sebzés a harcban. Eltávolítja az Áldás varázslatot. Nincs hatással az élõhalottakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Átok}
+
+Az Átok varázslat arra késztet minden ellenséges egységet, hogy 1-gyel kisebb sebzést okozzon, mint a minimális sebzés a harcban. Eltávolítja az Áldás varázslatot. Nincs hatással az élõhalottakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Vérszomj	Vérszomj	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{Vérszomj}
+
+A Vérszomj varázslat 3-mal növeli a kiválasztott barátságos egység közelharci támadás erejét. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Vérszomj}
+
+A Vérszomj varázslat 3-mal növeli a kiválasztott barátságos egység közelharci támadás erejét. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Vérszomj}
+
+A Vérszomj varázslat 6-tal növeli a kiválasztott barátságos egység közelharci támadás erejét. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Vérszomj}
+
+A Vérszomj varázslat 6-tal növeli minden barátságos egység közelharci támadás erejét. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Pontosság	Pontosság	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Pontosság}
+
+A Pontosság varázslat a távoli támadás során a kiválasztott barátságos egység számára +3 támadó erõvel nagyobb sebzést garantál. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Pontosság}
+
+A Pontosság varázslat a távoli támadás során a kiválasztott barátságos egység számára +3 támadó erõvel nagyobb sebzést garantál. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Pontosság}
+
+A Pontosság varázslat a távoli támadás során a kiválasztott barátságos egység számára +6 támadó erõvel nagyobb sebzést garantál. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Pontosság}
+
+A Pontosság varázslat minden barátságos egység számára +6 támadó erõvel nagyobb sebzést garantál. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Gyengeség	Gyengeség	2	 	x	 	 	8	6	6	6	0	3	3	6	6	2	2	2	8	4	4	4	4	4	7	7	15	15	"{Gyengeség}
+
+A Gyengeség varázslat a kiválasztott ellenséges egység támadási erejét -3 támadó erõvel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Gyengeség}
+
+A Gyengeség varázslat a kiválasztott ellenséges egység támadási erejét -3 támadó erõvel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Gyengeség}
+
+A Gyengeség varázslat a kiválasztott ellenséges egység támadási erejét -6 támadó erõvel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Gyengeség}
+
+A Gyengeség varázslat minden ellenséges egység támadási erejét -6 támadó erõvel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Kõbõr	Kõbõr	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"{Kõbõr}
+
+A Kõbõr varázslat növeli a kiválasztott barátságos egység védelmét 3-mal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Kõbõr}
+
+A Kõbõr varázslat növeli a kiválasztott barátságos egység védelmét 3-mal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Kõbõr}
+
+A Kõbõr varázslat növeli a kiválasztott barátságos egység védelmét 6-tal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Kõbõr}
+
+A Kõbõr varázslat növeli minden barátságos egység védelmét 6-tal. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Gyengítõ Sugár	Gyengítõ Sugár	2	 	 	 	x	10	8	8	8	0	3	3	4	5	6	4	6	12	4	6	6	6	8	7	7	15	15	"{Gyengítõ Sugár}
+
+A Gyengítõ Sugár varázslat a kiválasztott ellenséges egység védelmét 3-mal csökkenti. Egyetlen ellenséget többször is célba vehetünk ezzel a varázslattal. Az Eloszlatás varázslat hatástalan ezzel a varázslattal szemben. A hatás az egység halála és feltámadása után is fennmarad. A varázslat idõtartama korlátlan.
+"	"{Alap Gyengítõ Sugár}
+
+A Gyengítõ Sugár varázslat a kiválasztott ellenséges egység védelmét 3-mal csökkenti. Egyetlen ellenséget többször is célba vehetünk ezzel a varázslattal. Az Eloszlatás varázslat hatástalan ezzel a varázslattal szemben. A hatás az egység halála és feltámadása után is fennmarad. A varázslat idõtartama korlátlan.
+"	"{Haladó Gyengítõ Sugár}
+
+A Gyengítõ Sugár varázslat a kiválasztott ellenséges egység védelmét 4-gyel csökkenti. Egyetlen ellenséget többször is célba vehetünk ezzel a varázslattal. Az Eloszlatás varázslat hatástalan ezzel a varázslattal szemben. A hatás az egység halála és feltámadása után is fennmarad. A varázslat idõtartama korlátlan.
+"	"{Mester Gyengítõ Sugár}
+
+A Gyengítõ Sugár varázslat a kiválasztott ellenséges egység védelmét 5-tel csökkenti. Egyetlen ellenséget többször is célba vehetünk ezzel a varázslattal. Az Eloszlatás varázslat hatástalan ezzel a varázslattal szemben. A hatás az egység halála és feltámadása után is fennmarad. A varázslat idõtartama korlátlan.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Imádság	Imádság	4	 	x	 	 	16	12	12	12	0	2	2	4	4	10	5	5	0	0	0	0	0	5	8	8	16	16	"{Alap Imádság}
+
+Az Imádság Varázslat 2-vel megnöveli a kiválasztott barátságos egység támadó és védekezõ képességét és sebességét is. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Imádság}
+
+Az Imádság Varázslat 2-vel megnöveli a kiválasztott barátságos egység támadó és védekezõ képességét és sebességét is. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Imádság}
+
+Az Imádság Varázslat 4-gyel megnöveli a kiválasztott barátságos egység támadó és védekezõ képességét és sebességét is. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Imádság}
+
+Az Imádság Varázslat 4-gyel megnöveli minden barátságos egység támadó és védekezõ képességét és sebességét is. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Jókedv	Jókedv	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Jókedv}
+
+A Jókedv varázslat egy elme varázslat. A kiválasztott barátságos egység hangulatát 1-gyel növeli. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Jókedv}
+
+A Jókedv varázslat egy elme varázslat. A kiválasztott barátságos egység hangulatát 1-gyel növeli. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Jókedv}
+
+A Jókedv varázslat egy elme varázslat. A kiválasztott barátságos egység hangulatát 2-vel növeli. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Jókedv}
+
+A Jókedv varázslat egy elme varázslat. Minden barátságos egység hangulatát 2-vel növeli. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
+Bánat	Bánat	4	x	 	 	 	16	12	12	12	0	1	1	2	2	5	5	5	5	5	5	0	0	5	1	1	2	2	"{Bánat}
+
+A Bánat varázslat egy elme varázslat. A kiválasztott egység hangulatát 1-gyel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Bánat}
+
+A Bánat varázslat egy elme varázslat. A kiválasztott egység hangulatát 1-gyel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Bánat}
+
+A Bánat varázslat egy elme varázslat. A kiválasztott egység hangulatát 2-vel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Bánat}
+
+A Bánat varázslat egy elme varázslat. Minden ellenséges egység hangulatát 2-vel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
+Szerencse	Szerencse	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{Szerencse}
+
+A Szerencse varázslat a kiválasztott barátságos egység szerencséjét 1-gyel növeli. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Szerencse}
+
+A Szerencse varázslat a kiválasztott barátságos egység szerencséjét 1-gyel növeli. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Szerencse}
+
+A Szerencse varázslat a kiválasztott barátságos egység szerencséjét 2-vel növeli. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Szerencse}
+
+A Szerencse varázslat minden barátságos egység szerencséjét 2-vel növeli. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Balszerencse	Balszerencse	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Balszerencse}
+
+A Balszerencse varázslat a kiválasztott ellenséges egység szerencséjét 1-gyel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Balszerencse}
+
+A Balszerencse varázslat a kiválasztott ellenséges egység szerencséjét 1-gyel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Balszerencse}
+
+A Balszerencse varázslat a kiválasztott ellenséges egység szerencséjét 2-vel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Balszerencse}
+
+A Balszerencse varázslat minden ellenséges egység szerencséjét 2-vel csökkenti. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Gyorsítás	Gyorsítás	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Gyorsítás}
+
+A Gyorsítás varázslat növeli a kiválasztott barátságos egység sebességét 3-mal. Eltávolítja a Lassítás varázslatot. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Gyorsítás}
+
+A Gyorsítás varázslat növeli a kiválasztott barátságos egység sebességét 3-mal. Eltávolítja a Lassítás varázslatot. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Gyorsítás}
+
+A Gyorsítás varázslat növeli a kiválasztott barátságos egység sebességét 5-tel. Eltávolítja a Lassítás varázslatot. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Gyorsítás}
+
+A Gyorsítás varázslat növeli minden barátságos egység sebességét 5-tel. Eltávolítja a Lassítás varázslatot. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Lassítás	Lassítás	1	x	 	 	 	6	5	5	5	0	75	75	50	50	5	10	10	10	5	5	5	5	10	5	5	15	15	"{Lassítás}
+
+A Lassítás varázslat csökkenti a kiválasztott ellenséges egység sebességét a következõ képlet szerint (régi sebesség x 0,75); azaz egyszerûbben: csökkenti a kiválasztott egység sebességét 25%-kal az elõzõ sebességéhez képest. Eltávolítja a Gyorsítás hatást. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Lassítás}
+
+A Lassítás varázslat csökkenti a kiválasztott ellenséges egység sebességét a következõ képlet szerint (régi sebesség x 0,75); azaz egyszerûbben: csökkenti a kiválasztott egység sebességét 25%-kal az elõzõ sebességéhez képest. Eltávolítja a Gyorsítás hatást. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Lassítás}
+
+A Lassítás varázslat csökkenti a kiválasztott ellenséges egység sebességét a következõ képlet szerint (régi sebesség x 0,5+1); azaz egyszerûbben: csökkenti a kiválasztott egység sebességét 50%+1-gyel az elõzõ sebességéhez képest. Eltávolítja a Gyorsítás hatást. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Lassítás}
+
+A Lassítás varázslat csökkenti minden ellenséges egység sebességét a következõ képlet szerint (régi sebesség x 0,5+1); azaz egyszerûbben: csökkenti a kiválasztott egység sebességét 50%+1-gyel az elõzõ sebességéhez képest. Eltávolítja a Gyorsítás hatást. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Mészárlás	Mészárlás	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Mészárlás}
+
+A Mészárlás varázslat 8-cal növeli a kiválasztott barátságos egység támadási erejét Sárkányok, Behemótok, Hidrák, Tûzmadarak, Tengeri kígyók és Tollaskígyók ellen. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Mészárlás}
+
+A Mészárlás varázslat 8-cal növeli a kiválasztott barátságos egység támadási erejét Sárkányok, Behemótok, Hidrák, Tûzmadarak, Tengeri kígyók és Tollaskígyók ellen. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Mészárlás}
+
+A Mészárlás varázslat 8-cal növeli a kiválasztott barátságos egység támadási erejét Sárkányok, Behemótok, Hidrák, Tûzmadarak, Tengeri kígyók, Tollaskígyók, Ördögök és Angyalok ellen. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Mészárlás}
+
+A Mészárlás varázslat 8-cal növeli a kiválasztott barátságos egység támadási erejét Sárkányok, Behemótok, Hidrák, Tûzmadarak, Tengeri kígyók, Tollaskígyók, Ördögök, Angyalok és Titánok ellen. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Dühöngés	Dühöngés	4	 	 	x	 	16	12	12	12	0	100	100	150	200	5	5	5	5	5	5	0	0	5	10	10	20	30	"{Dühöngés}
+
+A Dühöngés varázslat egy elme varázslat. A kiválasztott barátságos egység szándékosan 0-ra csökkenti a védelmét, hogy növelje támadási értékét. Így a támadóerõ bónusza megegyezik az egység korábbi védelmével. A varázslat azonnal érvénybe lép, és a legközelebbi fordulóig tart. Ezt követõen a varázslat hatása a célpont következõ fordulójának kezdetéig tart.
+"	"{Alap Dühöngés}
+
+A Dühöngés varázslat egy elme varázslat. A kiválasztott barátságos egység szándékosan 0-ra csökkenti a védelmét, hogy növelje támadási értékét. Így a támadóerõ bónusza megegyezik az egység korábbi védelmével. A varázslat azonnal érvénybe lép, és a legközelebbi fordulóig tart. Ezt követõen a varázslat hatása a célpont következõ fordulójának kezdetéig tart.
+"	"{Haladó Dühöngés}
+
+A Dühöngés varázslat egy elme varázslat. A kiválasztott barátságos egység szándékosan 0-ra csökkenti a védelmét, hogy növelje támadási értékét. Így a támadóerõ bónusza 1,5-szerese az egység korábbi védelmének. A varázslat azonnal érvénybe lép, és a legközelebbi fordulóig tart. Ezt követõen a varázslat hatása a célpont következõ fordulójának kezdetéig tart.
+"	"{Mester Dühöngés}
+
+A Dühöngés varázslat egy elme varázslat. A kiválasztott barátságos egység szándékosan 0-ra csökkenti a védelmét, hogy növelje támadási értékét. Így a támadóerõ bónusza 2-szerese az egység korábbi védelmének. A varázslat azonnal érvénybe lép, és a legközelebbi fordulóig tart. Ezt követõen a varázslat hatása a célpont következõ fordulójának kezdetéig tart.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Titáni Csapás	Titáni Csapás	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{Titáni Csapás}
+
+A Titán Csapás varázslat 600 sérüléspontot okoz a kiválasztott egységen, ráadásul a varázslat nem használ fel varázspontot.
+"	"{Titáni Csapás}
+
+A Titán Csapás varázslat 600 sérüléspontot okoz a kiválasztott egységen, ráadásul a varázslat nem használ fel varázspontot.
+"	"{Titáni Csapás}
+
+A Titán Csapás varázslat 600 sérüléspontot okoz a kiválasztott egységen, ráadásul a varázslat nem használ fel varázspontot.
+"	"{Titáni Csapás}
+
+A Titán Csapás varázslat 600 sérüléspontot okoz a kiválasztott egységen, ráadásul a varázslat nem használ fel varázspontot.
+"	
+Visszatámadás	Visszatámadás	4	 	 	 	x	24	20	20	20	0	1	1	2	2	5	10	5	5	5	5	0	0	5	20	20	30	30	"{Visszatámadás}
+
+A Visszatámadás varázslattal a kiválasztott barátságos egységen azonnal kapunk egy további megtorló támadást, és minden kör elején kapunk egy további megtorló támadást. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Visszatámadás}
+
+A Visszatámadás varázslattal a kiválasztott barátságos egységen azonnal kapunk egy további megtorló támadást, és minden kör elején kapunk egy további megtorló támadást. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Visszatámadás}
+
+A Visszatámadás varázslattal a kiválasztott barátságos egységen azonnal kapunk két további megtorló támadást, és minden kör elején kapunk további két megtorló támadást. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Visszatámadás}
+
+A Visszatámadás varázslattal minden barátságos egységen azonnal kapunk két további megtorló támadást, és minden kör elején kapunk további két megtorló támadást. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Õrjöngés	Õrjöngés	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Õrjöngés}
+
+Az Õrjöngés varázslat egy elme varázslat. A megcélzott egység véletlenszerûen megtámadja a legközelebbi egységet, legyen az barát vagy ellenség. A Hipnotizáló hatás eloszlik a célponttól. A varázslat hatása addig érvényes, amíg a célpont meg nem támad, különben az Õrjöngés varázslat idõtartama korlátlan.
+"	"{Alap Õrjöngés}
+
+Az Õrjöngés varázslat egy elme varázslat. A megcélzott egység véletlenszerûen megtámadja a legközelebbi egységet, legyen az barát vagy ellenség. A Hipnotizáló hatás eloszlik a célponttól. A varázslat hatása addig érvényes, amíg a célpont meg nem támad, különben az Õrjöngés varázslat idõtartama korlátlan.
+"	"{Haladó Õrjöngés}
+
+Az Õrjöngés varázslat egy elme varázslat. A megcélzott egység és vele szomszédos egység véletlenszerûen megtámadja a legközelebbi egységet, legyen az barát vagy ellenség. A Hipnotizáló hatás eloszlik a célponttól. A varázslat hatása addig érvényes, amíg a célpont meg nem támad, különben az Õrjöngés varázslat idõtartama korlátlan.
+"	"{Mester Õrjöngés}
+
+Az Õrjöngés varázslat egy elme varázslat. A megcélzott egység és minden 1 és 2 hexarácsra lévõ egység véletlenszerûen megtámadja a legközelebbi egységet, legyen az barát vagy ellenség. A Hipnotizáló hatás eloszlik a célponttól. A varázslat hatása addig érvényes, amíg a célpont meg nem támad, különben az Õrjöngés varázslat idõtartama korlátlan.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Hipnotizálás	Hipnotizálás	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hipnotizálás}
+
+A Hipnotizálás varázslat egy elme varázslat. A kiválasztott ellenséges egységet legfeljebb (Varázserõ x 25 + 10) életerõig ideiglenesen az irányításunk alá vonhatjuk. Eltávolítja az Õrjöngés hatását. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Hipnotizálás}
+
+A Hipnotizálás varázslat egy elme varázslat. A kiválasztott ellenséges egységet legfeljebb (Varázserõ x 25 + 10) életerõig ideiglenesen az irányításunk alá vonhatjuk. Eltávolítja az Õrjöngés hatását. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Hipnotizálás}
+
+A Hipnotizálás varázslat egy elme varázslat. A kiválasztott ellenséges egységet legfeljebb (Varázserõ x 25 + 20) eéleterõig ideiglenesen az irányításunk alá vonhatjuk. Eltávolítja az Õrjöngés hatását. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Hipnotizálás}
+
+A Hipnotizálás varázslat egy elme varázslat. A kiválasztott ellenséges egységet legfeljebb (Varázserõ x 25 + 50) életerõig ideiglenesen az irányításunk alá vonhatjuk. Eltávolítja az Õrjöngés hatását. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Feledékenység	Feledékenység	3	 	x	 	 	12	9	9	9	0	0	0	0	0	8	8	4	4	4	4	4	4	8	1	1	1	1	"{Feledékenység}
+
+A Feledékenység varázslat egy elme varázslat. A kiválasztott ellenséges távolsági egység felét megakadályozza abban, hogy támadjon. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Feledékenység}
+
+A Feledékenység varázslat egy elme varázslat. A kiválasztott ellenséges távolsági egység felét megakadályozza abban, hogy támadjon. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Feledékenység}
+
+A Feledékenység varázslat egy elme varázslat. A kiválasztott ellenséges távolsági egység elfelejti használni a távolsági támadását a harcban. Az egység fele is elfelejti alkalmazni a közelharcot. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Feledékenység}
+
+A Feledékenység varázslat egy elme varázslat. A kiválasztott összes ellenséges távolsági egység elfelejti használni a távolsági támadását a harcban. Az egység fele is elfelejti alkalmazni a közelharcot. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Vakítás	Vakítás	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Vakítás}
+
+A Vakítás varázslat egy elme varázslat. Ideiglenes elvakítja a kiválasztott ellenséges egységet, hogy ne tudjon mozogni, és visszatámadni is csak a normál erejének a felével tud. A vakság mindaddig fennáll, amíg az egységet meg nem támadják vagy az Eloszlatás varázslatot nem alkalmazzák rajta. A varázslatnak nincs hatása az élõholtakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Alap Vakítás}
+
+A Vakítás varázslat egy elme varázslat. Ideiglenes elvakítja a kiválasztott ellenséges egységet, hogy ne tudjon mozogni, és visszatámadni is csak a normál erejének a felével tud. A vakság mindaddig fennáll, amíg az egységet meg nem támadják vagy az Eloszlatás varázslatot nem alkalmazzák rajta. A varázslatnak nincs hatása az élõholtakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Haladó Vakítás}
+
+A Vakítás varázslat egy elme varázslat. Ideiglenes elvakítja a kiválasztott ellenséges egységet, hogy ne tudjon mozogni, és visszatámadni is csak a normál erejének negyedével tud. A vakság mindaddig fennáll, amíg az egységet meg nem támadják vagy az Eloszlatás varázslatot nem alkalmazzák rajta. A varázslatnak nincs hatása az élõholtakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	"{Mester Vakítás}
+
+A Vakítás varázslat egy elme varázslat. Ideiglenes elvakítja a kiválasztott ellenséges egységet, hogy ne tudjon mozogni és visszatámadni sem. A vakság mindaddig fennáll, amíg az egységet meg nem támadják vagy az Eloszlatás varázslatot nem alkalmazzák rajta. A varázslatnak nincs hatása az élõholtakra. Varázserõ száma szerinti körig van hatása a varázslatnak.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Teleportálás	Teleportálás	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Teleportálás}
+
+A Teleportálás varázslat bármely barátságos egységet elteleportál a csatatér bármely nem foglalt helyére. Eltávolítja az Ent Fapásztor megkötõ hatását. Az egység nem teleportálható a falakon vagy a várárkon kersztül.
+"	"{Alap Teleportálás}
+
+A Teleportálás varázslat bármely barátságos egységet elteleportál a csatatér bármely nem foglalt helyére. Eltávolítja az Ent Fapásztor megkötõ hatását. Az egység nem teleportálható a falakon vagy a várárkon kersztül.
+"	"{Haladó Teleportálás}
+
+A Teleportálás varázslat bármely barátságos egységet elteleportál a csatatér bármely nem foglalt helyére. Eltávolítja az Ent Fapásztor megkötõ hatását. Az egység nem teleportálható a falakon keresztül.
+"	"{Mester Teleportálás}
+
+A Teleportálás varázslat bármely barátságos egységet elteleportál a csatatér bármely nem foglalt helyére. Eltávolítja az Ent Fapásztor megkötõ hatását.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Akadály Törlés	Akadály Törlés	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Akadály Törlés}
+
+Az Akadály Törlés varázslat eltávolít minden normál, nem integrált akadályt (fák, sziklák stb.) a csatamezõrõl.
+"	"{Alap Akadály Törlés}
+
+Az Akadály Törlés varázslat eltávolít minden normál, nem integrált akadályt (fák, sziklák stb.) a csatamezõrõl.
+"	"{Haladó Akadály Törlés}
+
+Az Akadály Törlés varázslat eltávolít minden normál, nem integrált akadályt (fák, sziklák stb.), valamint a varázslattal elhelyezett Tûz Falat a csatamezõrõl.
+"	"{Mester Akadály Törlés}
+
+Az Akadály Törlés varázslat eltávolít minden normál, nem integrált vagy mágikus akadályt a csatamezõrõl.
+"	 COMBAT_SPELL|OBSTACLE_TARGET
+Fantomkép	Fantomkép	4	 	x	 	 	24	20	20	20	0	5	5	6	7	5	5	10	5	5	5	0	0	10	20	20	40	50	"{Fantomkép}
+
+A Fantomkép varázslat létrehoz a kiválasztott barátságos egységrõl egy ideiglenes másolatot. A másolat eltûnik, ha azt megtámadják, vagy ha a prototípus akibõl másolták meghal. Minden egységnek csak egy Fantomképe lehet. A varázslat nem érinti a hadi gépeket. A Fantomkép a hõs varázserejének megfelelõ számú körig él. 1-5. szintû egységekrõl készíthetõ Fantomkép ezzel a varázslattal.
+"	"{Alap Fantomkép}
+
+A Fantomkép varázslat létrehoz a kiválasztott barátságos egységrõl egy ideiglenes másolatot. A másolat eltûnik, ha azt megtámadják, vagy ha a prototípus akibõl másolták meghal. Minden egységnek csak egy Fantomképe lehet. A varázslat nem érinti a hadi gépeket. A Fantomkép a hõs varázserejének megfelelõ számú körig él. 1-5. szintû egységekrõl készíthetõ Fantomkép ezzel a varázslattal.
+"	"{Haladó Fantomkép}
+
+A Fantomkép varázslat létrehoz a kiválasztott barátságos egységrõl egy ideiglenes másolatot. A másolat eltûnik, ha azt megtámadják, vagy ha a prototípus akibõl másolták meghal. Minden egységnek csak egy Fantomképe lehet. A varázslat nem érinti a hadi gépeket. A Fantomkép a hõs varázserejének megfelelõ számú körig él. 1-6. szintû egységekrõl készíthetõ Fantomkép ezzel a varázslattal.
+"	"{Mester Fantomkép}
+
+A Fantomkép varázslat létrehoz a kiválasztott barátságos egységrõl egy ideiglenes másolatot. A másolat eltûnik, ha azt megtámadják, vagy ha a prototípus akibõl másolták meghal. Minden egységnek csak egy Fantomképe lehet. A varázslat nem érinti a hadi gépeket. A Fantomkép a hõs varázserejének megfelelõ számú körig él. Bármilyen szintû egységrõl készíthetõ Fantomkép ezzel a varázslattal.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Tûz Elementál	Tûz Elementál	5			x		25	20	20	20	0	2	2	2	3	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Tûz Elementál Idézés}
+
+A Tûz Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Tûz Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Tûz Elementálok a csata végéig szolgálnak majd.
+"	"{Alap Tûz Elementál Idézés}
+
+A Tûz Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Tûz Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Tûz Elementálok a csata végéig szolgálnak majd.
+"	"{Haladó Tûz Elementál Idézés}
+
+A Tûz Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2,5) Tûz Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Tûz Elementálok a csata végéig szolgálnak majd.
+"	"{Mester Tûz Elementál Idézés}
+
+A Tûz Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 3) Tûz Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Tûz Elementálok a csata végéig szolgálnak majd.
+"	 COMBAT_SPELL
+Föld Elementál	Föld Elementál	5	x				25	20	20	20	0	2	2	2	3	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Föld Elementál Idézés}
+
+A Föld Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Föld Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Föld Elementálok a csata végéig szolgálnak majd.
+"	"{Alap Föld Elementál Idézés}
+
+A Föld Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Föld Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Föld Elementálok a csata végéig szolgálnak majd.
+"	"{Haladó Föld Elementál Idézés}
+
+A Föld Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2,5) Föld Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Föld Elementálok a csata végéig szolgálnak majd.
+"	"{Mester Föld Elementál Idézés}
+
+A Föld Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 3) Föld Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Föld Elementálok a csata végéig szolgálnak majd.
+"	 COMBAT_SPELL
+Víz Elementál	Víz Elementál	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Víz Elementál Idézés}
+
+A Víz Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Víz Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Víz Elementálok a csata végéig szolgálnak majd.
+"	"{Alap Víz Elementál Idézés}
+
+A Víz Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Víz Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Víz Elementálok a csata végéig szolgálnak majd.
+"	"{Haladó Víz Elementál Idézés}
+
+A Víz Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 3) Víz Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Víz Elementálok a csata végéig szolgálnak majd.
+"	"{Mester Víz Elementál Idézés}
+
+A Víz Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 4) Víz Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Víz Elementálok a csata végéig szolgálnak majd.
+"	 COMBAT_SPELL
+Lég Elementál	Lég Elementál	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Lég Elementál Idézés}
+
+A Lég Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Lég Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Lég Elementálok a csata végéig szolgálnak majd.
+"	"{Alap Lég Elementál Idézés}
+
+A Lég Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 2) Lég Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Lég Elementálok a csata végéig szolgálnak majd.
+"	"{Haladó Lég Elementál Idézés}
+
+A Lég Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 3) Lég Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Lég Elementálok a csata végéig szolgálnak majd.
+"	"{Mester Lég Elementál Idézés}
+
+A Lég Elementál Idézés varázslat lehetõvé teszi, hogy (Varázserõ x 4) Lég Elementált lehessen megidézni a csatatér szélének véletlenszerû helyén. A Lég Elementálok a csata végéig szolgálnak majd.
+"	 COMBAT_SPELL
+																																	
+Egység képességek																																	
+																																	
+Kõvé dermesztés	Kõvé dermesztés	3					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Mérgezés	Mérgezés	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Földhöz Kötés	Földhöz Kötés	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Megbetegítés	Megbetegítés	2					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Paralizálás	Paralizálás	4					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Öregítés	Öregítés	5					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Halál Felhõ	Halál Felhõ	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Villámcsapás	Villámcsapás	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Segítõ Varázslatok Törlése	Segítõ Varázslatok Törlése	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Halálra Dermszetés	Halálra Dermszetés	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Savas Lehelet	Savas Lehelet	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					

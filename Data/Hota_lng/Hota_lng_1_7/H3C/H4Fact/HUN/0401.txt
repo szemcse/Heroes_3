@@ -1,0 +1,305 @@
+===== Térkép neve =====
+A világ lángokban áll
+
+===== Térkép leírása =====
+Henriettának és Fredericknek el kell vinnie a viharos tûz gömbjét Frederick Laboratóriumába. Ha Henrietta vereséget szenved, elveszíted a küldetést. Hõseid a 6. szintig fejlõdhetnek, de Henrietta és Frederick a Bûvös Nyakláncot és a Idézés Nyakörvét magukkal vihetik a következõ küldetésre.		
+
+===== Események =====
+
+Név:
+Hullócsillagok
+Szöveg:
+Még soha nem láttam ennyi hullócsillagot, mint ma!
+
+Név:
+Démonok
+Szöveg:
+Úgy tûnik, a démonok visszatértek! Hallottál már arról, hogy felgyújtottak néhány falut délen?
+
+Név:
+Frederick nyomai
+Szöveg:
+Azt beszélik, egy halottidézõ telepedett le a földjeinken.
+
+Név:
+Liston Eeofolba érkezik
+Szöveg:
+Néhány napja varázslók látogattak el a kocsmánkba! Sokat kérdezõsködtek valaki után, majd a hegyek felé vették az irányt.
+
+Név:
+Õrrobotok nyomai
+Szöveg:
+Azt mondják, hogy a hegyekben vaspókok laknak! Esküszöm rá, hogy az az õrült varázsló hozta létre õket, aki a falunk közelében lakott.
+
+Név:
+Közel a vég
+Szöveg:
+A legendák erre figyelmeztettek! A vég közel van!
+
+Név:
+Az óriások földjén
+Szöveg:
+Ha valakik elbánnak az ördögökkel, azok a mi nagy szomszédaink, a  —  titánok	és persze a sárkányok lesznek.
+
+===== Idõzített események =====
+
+Név:
+A hullócsillagok éjszakája - I. fejezet
+Üzenet:
+Úgy tûnt, mintha az az éjszaka soha nem érne véget. Kábultan álltam a falu feletti kopár dombtetõn, és nem tudtam levenni a szememet az égen áthúzó tûzcsíkokról, ahogy átvágtak Eeofol egén; túlságosan lobogóak voltak ahhoz, hogy észrevegyem, némelyik kialszik, mások pedig felizzanak. Aztán rájöttem, hogy egyáltalán nem alszanak ki, még azután sem, hogy leeresztettem a szemhéjamat. A nap mindjárt megvirrad, mégis még mindig csak a sötét és világos vonalak keverékét láttam a szemhélyam hátfalán. Frederick azt mondta, hogy soha ne nézzek közvetlenül a napba, nehogy kárt tegyek a látásomban, de azt nem említette, hogy éjszaka is épp ilyen perzselõ fény zúdulhat az égbõl. Az arcomhoz szorítottam a tenyeremet, és szinte vakon száguldottam lefelé a lejtõn a patak felé. Azt hiszem, sikítottam. Megijedtem.
+
+Név:
+A hullócsillagok éjszakája - II. fejezet
+Üzenet:
+A víz és a hûvösség segített. A látásom kezdett visszatérni, de a félelem nem múlt el - úgy éreztem, mintha azok a vakító fényû tüzek tovább perzselnének belülrõl. Amíg még láttam, észrevettem, hogy a csillagok, amelyeknek a csóvája olyan fényesen lángolt az éjszakai égbolton, nem égtek el a levegõben. Egészen a földig jutottak, mint hatalmas parázsló sziklák, furcsán lassan, és látszólag nem messze innen, közvetlenül az elõttem álló dombokon túl. Aztán a szél gyenge füstszagot hozott felém - nem olyan füstszagot, mint a házak kályháinak reggeli szaga.	Az elmúlt évek során hozzászoktam a kérdezõsködéshez, aztán megtanultam nem kérdezni, és végül újra elsajátítottam a jó kérdések mûvészetét. Amikor találkoztam egy férfival, aki sokkal többet tudott a világról, mint amit én el tudtam képzelni addig. Kérdezni akartam, kérdezni és kérdezni és kérdezni vég nélkül - mindenre kíváncsi voltam. Aztán hirtelen rájöttem, hogy túl sok ostobaságot kérdezek. Frederick igyekezett nem kimutatni, de a nemtetszése néha eluralkodott rajta, és elküldött magától. Nem volt rosszabb büntetés annál, mint amikor egy csodákkal teli laboratóriumból egy törött gereblyékkel és koszos zsákokkal teli pajtába kellett visszatérnem. Elkezdtem gondolkodni, mielõtt kinyitottam a számat - és azt hiszem, lassan megtanultam, hogyan tegyem fel a helyes kérdéseket. Az egyik ilyen kérdést éppen most akartam feltenni: Hullhatnak-e az égbõl a Naphoz hasonló sziklák?
+
+Név:
+Frederick
+Üzenet:
+Fredericket megtalálni! Meg kellett találnom Fredericket. Semmi sem lehet ennél fontosabb most. Nem a távcsõ miatt - nos, minden, ami leeshetett az égbõl, az már leesett... Csak a szívem azt súgta, hogy jobb lenne most mellette lenni. Minden tudása, még az a tudás is, ami miatt a falustársaim annyira féltek tõle, ma hasznos lehet.	Amióta az eszemet tudom, mindig egyedül voltam, és egy pajtában éltem Haye nagyapóval. õ nem volt a saját nagyapám - ezt valahogy tudtam, de azért etetett, ruhát adott, és télen hagyta, hogy a házában a kályha mellett aludjak, de az idõ többi részében inkább egyedül voltam. Frederick akkor lépett az életembe, amikor... hmm, hát, azt sem tudom, hány éves voltam. Nem számít - akkor merészkedtem ki elõször a ligetünk mögötti dombokra, és láttam egy nagy, új házat, mellette pedig egy zavaróan magas embert és két kisebbet, olyanokat, mint a félszerzetek, csak kicsit másmilyeneket, zöldes-szürke bõrûeket. Aztán megtudtam, hogy ezeket a kis emberkéket "gremlineknek" hívják, és hogy valójában nem is emberek, de Frederick nem volt hajlandó válaszolni a további kérdéseimre ezzel kapcsolatban annak idején, és soha többé nem láttam a gremlineket azután. Aztán, talán az ismeretlentõl való félelmemben, megdermedtem, és hagytam, hogy elkapjanak - pedig bárki elõl elbújhattam volna az erdõben. Frederick rájött, hogy nem vagyok az a fajta személy, akit elkergethet az erdõ mélyére, és megengedte, hogy néha meglátogassam. Gondolom, szüksége volt néhány élõ fülre, hogy meghallgassa valaki az õrült hipotéziseit - és nem érdekelte, hogy egy buta kislány vagyok, aki még az ujjait sem tudta megszámolni.	Hetekig a laborban maradtam, mert a faluban úgysem hiányoztam senkinek. A vékony kezeimre gyakran éppen Fredericknek volt szüksége. Néha megkért, hogy másszak be egy bonyolult gép belsejébe, hogy megtaláljam a kiszakadt tömlõt, vagy ellenõrizzem egy fogaskerék kopását. Micsoda örömöt okozott, amikor segíteni tudtam, és az összeszerelt szerkezet sziszegni és pörögni kezdett - még akkor is, ha halvány fogalmam sem volt róla, mi történik. õ azonban mindig tudta, hogy mi fog történni, és miért kell mûködnie.	Hogy megtaláljuk Fredericket nem lesz könnyû. Bár errefelé alig akad valaki, aki szokatlan dolgokkal foglalkozna.
+
+Név:
+Félszerzetek és démonok
+Üzenet:
+Sokan, akik eddig nem hittek a veszélyben, most kinyitották a szemüket, de sokan voltak olyanok is, akik elhárították maguktól a bajt, pedig az az ajtajukon kopogtatott. Mi a különbség? Az elõbbiek már látták, mit tesznek az égi vendégek az élõlényekkel, míg az utóbbiaknak még nem látták. De már késõ volt, hogy bölcsebbek legyenek; a hegyekbõl láttam, ahogy a lények elárasztják a hátrahagyott tanyákat.	A legutóbbi rossz termés óta eltelt évtizedben elõször történt valami nagyobb dolog a félszerzetek életében, mint akár egy új répatál receptjének megjelenése...	Soha nem gondoltam volna, hogy ennyi bánatot fog hordozni magában, ha a nyugalmunk felborul.	Frederick, hol vagy?
+
+Név:
+Kett bácsi
+Üzenet:
+A rémálom napvilágra került. Olyan volt, mintha fel akartál volna ébredni, csak nem tudtál volna, mert már ébren voltál. Teljesen ébren és hitetlenkedve. A dolgok, amiket néhány napja még olyan fontosnak éreztél, mintha csak eltûntek, ködbe burkolóztak volna. A napok során a képzeletbeli veszély nagyon is valóságos rémületté nõtte ki magát. északon több falu eltûnt, mintha sosem léteztek volna - a hírt a szerencsés túlélõk hozták. A tûz és a kén bûze most már mindenütt ott volt, és a bokrokban minden rezdülés rémületet keltett.	Hajnalban összefutottunk néhány menekülttel. A félszerzetek - az egyiket közüllük egy félnapi járóföldre lévõ falu öregjének ismertem fel - kábultan nézelõdtek, nem tudták, mit tegyenek.	“Kett bácsi! Hogy kerültél ide?" - kiáltottam neki. 	"Csak azt ne mondd, hogy egész éjjel futottál ide az erdõn keresztül, egyenesen a tanyádról... vagy mégis?"	"Hát, ha valaki elkezdi döngetni az ajtódat az éjszaka közepén, akkor nemcsak az ágyadból, de a nadrágodból is kipottyansz! Szóval igen, elszaladtunk... össze kell gyûjtenünk mindenkit, azt hiszem!"	"Ki kergetett el titeket? Goblinok, úgy mint öt évvel ezelõtt?"	A választ már tudtam, de valahogy mégis reméltem, hogy Kett mást mond majd.	"Ördögök... valami hatalmas szarvakkal. Nem igazán tudom, mik voltak" - mondta az idõsebbik menekült félénken.	"Megölték a kutyámat... olyan szörnyen nyüszített. Aztán berúgták az ajtót. én meg kiugrottam az ablakon; nem volt idõm felöltözni, ez történt. Gyûrûben álltak a tanya körül. Már nem is emlékszem, hogyan jutottam át rajtuk. Késõbb az erdõben találkoztam valaki mással is. De attól tartok, hogy ennyien voltunk, és a többieket soha nem fogjuk már viszontlátni...”
+
+Név:
+Frederick és Henrietta - I. fejezet
+Üzenet:
+Gyakran szidtak és bélyegeztek meg kalandvágyónak. Mik is azok a kalandok? Történetek dicsõ hõsökrõl és sárkányölõkrõl, amelyeket vándor bárdok énekelnek a kocsmákban? Persze, szívesen hallgattam õket - de sosem említették a fáradtságot, a véres lábakat, a holttestek bûzét vagy az élve felfalt emberek sikolyait, amelyek egész éjjel visszhangoztak az erdõben. A démonok vadásznak. A falvak nem voltak elegek nekik - azok, akik az erdõben kerestek menedéket, most szintén veszélyben voltak. Frederick és én az éjszakát a tûz mellett ülve töltöttük, a lángokat bámulva, ugyanazokat a lassú, értelmetlen megjegyzéseket ismételgetve. Annyira kimerültek voltunk, hogy még aludni sem tudtunk. Ha ez volt a kaland, akkor biztos lehet benne mindenki, hogy én soha többé nem akarok ilyesfajta kalandokat.	Reggelre egyetértettünk: nincs itt semmi keresnivalónk. 	Azonnal el kell hagynunk a völgyet.
+
+Név:
+Frederick és Henrietta - II. fejezet
+Üzenet:
+Ahogy a nap magasan járt, végre elmúlt az elõzõ éjjeli zsibbadtság, amibe belezuhantunk. Frederick legalább olyan gyorsan és lendületesen beszélt, mint korábban, és a szeme élesen figyelt a káosz legapróbb részleteire is. 	"Henrietta, még egyszer köszönetet szeretnék mondani. Tökéletes idõzítés, hogy kijuttattál; úgy tûnik, az idegenek többet tudnak a démonológiáról, mint az egész Bracadiai Akadémia. Már most is elég erõs lényeket idéznek meg a Tûz Elemi Síkjáról, és nem hiszem, hogy ehhez hónapokig tartó rituálékra, ritka reagensekre vagy az égitestek kedvezõ helyzetére lenne szükségük. Ha még tovább késlekedünk... nem szeretném, ha Eeofol egy olyan kellemes meleg hellyé változna, mint ahonnan azok a dolgok jönnek, portálokon és kapukon keresztül. Tudod, néhányan közülük inkább aktív vulkánokban szeretnek élni, és Eeofol tele van tûzokádó hegyekkel, amelyek egyszer már szunnyadtak, de újra életre kelthetõek.
+
+Név:
+Az utolsó nap
+Üzenet:
+Egész éjjel valami zörgött, zúgott és mormogott a tábor körül. A szarvas lények kis szolgái, az Ördögfiókák és a Kísérõk voltak. Megpróbáltuk elijeszteni õket azzal, hogy robbanó lövedékeket lõttünk a sötétségbe, de hiába..... 	Reggelre az aljas lények már szinte szem elõtt szimatoltak, és semmitõl sem féltek. Néhány óra múlva ez a horda elözönlötte volna Eeofol utolsó szegleteit is. Világos volt, mint a nap: ha ma nem hagyjuk el a völgyet, minden elveszik.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(21, 6, 0) ***Küldetésörzõ***
+Üzenet:
+Frederick már régen Henriettára bízta laboratóriumának kulcsát, de ma meglepõdve talál egy másik fülespárt a kapun, amelyen egy nehézkes zár bilincse van átfûzve. Nincs rajta semmi rés látszatra, és minden próbálkozás, hogy valami titkos gombot találjon, hiábavaló. Valószínûleg a titkát csak maga a tudós ismeri.
+A nehéz lakat kinyitására tett minden kísérlet hiábavaló. A bilincs olyan vastag, hogy még ha valaki meg is próbálná lefûrészelni, az órákba, sõt talán napokba telne. Még ha a zárat tömör aranyba öntenék is, hogy jutalmat kapjanak a kitartóbb betörõk... 	Most nincs idõ ilyen ostobaságokra.
+Frederick a tenyerét a zárhoz nyomja, és az megremeg. Ujjai formát formálnak, és újra megérintik a zárat, többször is. Valami kattan odabent; a lakat, mintha folyékonnyá vált volna, eltûnik a kapu tokozásában. 	Frederick kilendíti a kaput, és mindenkit felszólít, hogy kövesse õt.
+
+(14, 20, 0) ***Zsivány***
+Üzenet:
+Követtük a nyomokat, és hamarosan egy tisztásra vezettek, ahol néhány rongyos ember toporgott. Úgy néztek ki, mint a rablók, és aligha lehettek is mások. Sietve szedték össze a holmijukat.	Egy vézna, kócos férfi magyarázott valamit a vezérnek, aki valamivel szebben volt öltözve, mint a többiek. A magas férfi a zajra megfordult, és felkiáltott, ujjával ránk mutatva. A fõkolompos bólintott, és elõrántotta a kardját.	"Én megmondtam!" - kiabálta a ványadt - "Nem kellett volna utánunk jönnöd!".
+
+(13, 26, 0) ***Sátán***
+Üzenet:
+Azt hiszem, elment az eszem, amikor azt hittem, hogy elbánunk ezzel a démoni bandával. Túl késõn jöttem rá, hogy az indulatosságom õrültség volt; kiszúrtak minket, és már túl késõ volt elfutnunk.....
+
+(20, 7, 0) ***Jel***
+Üzenet:
+Kísérleti karbantartó mûhely. A bányavállalat tulajdona. Jelenleg nem veszünk fel munkaerõt.
+
+(17, 13, 0) ***Félszerzet***
+Üzenet:
+"Mit keresel itt, te szuka? Hallottam, hogy szeretsz furcsa dolgokat nézegetni, úgyhogy menj is oda és nézegesd... Tetszik a kinézete? MI? Állandóan itt mászkálsz, egyszer sem nézed meg, mi van a lábad elõtt; Nem... az eget sokkal jobban szereted bámulni, és most onnan esett le egy ajándék nekünk...	Emlékszel arra a lókikötõre ott? Most egy akkora lyuk van a földben, mint egy kapu, ahol az volt, és a lovak mind eltûntek, amik ki voltak kötve hozzá...".	"Õ és a varázslója rossz szerencsét hozott nekünk!... Még az öreg Aiker sem emlékszik arra, hogy bármi is leesett volna onnan fentrõl, pedig elég öreg ahhoz, hogy élõ óriást látott volna... ha a vén ölyv nem csak kitalálná esetleg...".	"Ez fekete mágia, ezt mondom én is! A gonosz felnyúlt a hegyérõl a varázslataival, és letépett egy darabot az égboltozatból! Még szerencse, hogy senkinek sem esett baja közülletek..."
+
+(16, 15, 0) ***Félszerzet***
+Üzenet:
+"Micsoda bumm! Esküszöm, a redõnyöm a falnak ütközött, és leszakadt...."
+
+(14, 12, 0) ***Esemény***
+Üzenet:
+A szarvas démon a földön fekszik, a szemei között néhányszor eltalálták a nehéz parittyagolyók. A feje megrepedt, az egyik szarva letört. Ami tegnap még elképzelhetetlennek tûnt, most bûzös vérével locsolja be a földünket. Egy vadállatnak tûnik; de nem, nem vadállat. A szemei túl intelligensek voltak, amíg el nem halványultak. Nem elemi szellem, nem emberi, és nem varázslény. És csend, mindenütt csend. Semmi több vitatkozni való nincs ezen.	"Azonnal értesítenünk kellene mindenkit errõl az ördögi dologról!"	"Hányan bolyonghatnak most az erdõkben, és tapossák el a szép finom gombáinkat!"	"Csapdát kell készítenünk!" - hallottam a legyõzött lény körül sertepertélõ félszerzetektõl. 	Hirtelen elült a zörgés, és egy tucatnyi intenzív tekintetet éreztem a hátamon.	"Henrietta, te ismered az összes ösvényt errefelé! Te vagy az egyetlen, aki tudja, hol találhatóak a faluk!"	Micsoda megpróbáltatás számukra, hogy a szülõfalujuk peremén túlra kerüljenek. Egész életükben féltek az idegenektõl, és itt megtestesült a félelmük. Még holtan is megizzadtak tõlük eddig, de most felemelt állal álltak, és köpködték a barna tetemet. Mi van ha több is van belõlük odakint...	"Miért, fiúk, ahol gondoljátok, hogy egy van, ott esetleg nem lesznek többen is, vagy rosszul gondolom? Jobb lesz, ha fogunk néhányat a nehéz kövek közül parittyáinkba, és együtt megyünk tovább!" - dobta a földre a kalapját Kosta, a lovait sirató idõs kocsis.	"Meg akarom fizettetni ezekkel az elszenesedett disznókkal a pónijaimat! Mutasd az utat, kislány - nem tudnánk átvágni az erdõn a Magas-rétre?"
+
+(5, 20, 0) ***Titok Kunyhó***
+Üzenet:
+Ide rejtetted el a petárdakészletedet. Igazából az ünnepségre tartogattad õket, de most máshol is hasznát veszed majd. Már csak önkéntesek kellenek, akik élesítik õket.
+Találnod kell még néhány önkéntest.
+Az önkéntesek eleinte kissé óvatosak voltak az új fegyvert illetõen, de most úgy tûnik, még jobban szeretik, mint a hagyományos köveket. 	Ezek határozottan hatékonyabbá tették a lövöldözést!	Szeretnéd felfegyverezni az összes önkéntesed?
+
+(11, 18, 0) ***Démon***
+Üzenet:
+Ezek a lények egyszerûbbnek tûntek, mint a gödörben lévõk - nem voltak fémdíszek a mancsaikon, és csak egy szarvuk volt, vastag és rövid. Rángatózó zsigeri hangokat adtak ki egymásnak, mintha ugatnának, de észrevettem, hogy sokkal jobban megértik egymást, mint a kutyák. Amint azonban a falka észrevett minket, az ugatásuk abbamaradt. A patáikkal a földet kaparva, a lények belerohantak a harcba velünk.
+
+(9, 21, 0) ***Félszerzet***
+Üzenet:
+Ó, el sem hiszem: végre néhány ismerõs arc! Reggel mentünk salétromos vizet szedni, hogy trágyázzuk a kerteket, és ott voltak azok a szarvasfélék - alig úsztuk meg! 	Csatlakozhatunk hozzátok reméljük...
+
+(0, 25, 0) ***Félszerzet***
+Üzenet:
+Úgy tûnt, senki sem törõdik velem ebben a házban. Az öregasszony éppen terített, a gyerekek pedig a kandalló mellett játszottak vonatosat.	"Ez a Feredrich vett rá téged ilyen bolondságokra? Ne bízz abban az ördögben! Mit keresgél a temetõben?	Kiásott sírokra varázsol? El fogsz veszni vele, akárcsak a semmirekellõ anyád. Tu, tú, túúú.	Hé... ülj le és egyél velünk - nem hagyhatom, hogy egy vendég éhen haljon, nemde?	Nem sok mindenem van, csak párolt répám, de azért vacsora. Csak arra ne gondolj, hogy a hülyeségeiddel rábeszélhetsz minket bármire. Nem megyünk sehova, sok dolgunk van. Semmi okunk rá."	Rájöttem, hogy a szavak feleslegesek, de nem utasítottam vissza az ételt. Az öregasszony említett valamit az anyámról, de nincsenek rólla emlékeim, és soha senki egy szót sem szólt róla nekem. Próbáltam rávenni, hogy beszéljen az étkezés közben - de a nõszemély úgy tett, mintha süket lenne.
+
+(6, 32, 0) ***Esemény***
+Üzenet:
+-mozgás az AI számára
+
+(6, 33, 0) ***Esemény***
+Üzenet:
+-mozgás az AI számára
+
+(10, 32, 0) ***Ördög***
+Üzenet:
+Útközben megpróbáltam valamilyen módon szórakoztatni magam, hogy ne engedjek a rémületnek és a csüggedésnek. Gondolatban egy képet festettem magam elé, amint egy szigorú kovács patkolja a sikoltozó szarvú teremtményeket. A valóság messze felülmúlta minden elképzelésemet; ott, a Dry Ryehill egykori falu fõterén megláttam... õt.	Az "ördög" szó jutott eszembe, mert a részeg szerzetes szerint, akinek a szónoklatát egykor a helyi kocsmában hallgattam, miszerint az ördögnél nincs szörnyûbb, sem ezen a világon, sem a másvilágon eszembe jutott. A kétlábú lény csavart szarvakkal koronázott feje teteje még a háztetõk fölött is látszott; úgy tûnt, minden egyes karmos lába képes lenne könnyedén betakarni és eltaposni egy félszerzetet; kezében pedig egy olyan kasza csillogott, amellyel biztosan le tudott volna vágni egy fiatal ligeterdõt is egy suhintással.	Ekkor jöttem rá: a szarvas lényeknek nincsenek is kovácsuk. Az ördög csak az ujját emeli rájuk, és már rohannak is patkolni egymást, vagy akár saját magukat, kalapácsok és szögek miatt viaskodva.	Úgy látszik, amit láttam, megzavarta az elmémet; próbáltam az õrület küszöbén maradni, miközben egyre abszurdabb és abszurdabb látomásokat zúdított rám az elmém. Társaim késõbb elmondták, hogy nevetve kiabáltam, hogy "szerezzetek hosszabb, élesebb szögeket!", miközben az úttól távolabb, a bokrok közé vonszoltak.	"Nyugi, nyugi, kislány - motyogta Kosta, és próbált megnyugtatni. 	"Persze, ez egy nagy dög, igen, egy csúnya állat - de én majd egyenesen a szemébe vágok a petárdámmal, aztán meglátjuk, kinek lesz a legvörösebb orra a faluban! Ürítsétek ki az övtáskáitokat, fiúk! Megtanítjuk az ördögöt, hogyan kell a mi módszereink szerint ünnepelni az újévet!"
+
+(8, 32, 0) ***Esemény***
+Üzenet:
+Frederick üzenetében "nevekrõl és arcokról beszélt a múltból", és dél felé tartott... Feltételeztem, hogy régi ismerõsökkel fog találkozni, és ha ez így van, akkor csakis itt, Dry Ryehillben találkozhattak, egy olyan helyen, ahová a kívülállók kereskedni jártak, és ahol kevésbé kerülték õket, mint a Völgy más falvaiban.	 Egy mérföldre a falutól már világosan látszott, hogy elment. Akik idejöttek, nemcsak gyilkolásra éheztek, hanem pusztításra is... 	Vagy talán valami perverz, idegen szemléletû teremtés volt az, aki ezt tette? Mi van, ha ezek a lények éppoly szívesen szemlélik égett fatörzsek halmait, mint egy félszerzet egy új, szeretettel festett pajtát? És az olvadt kéreggé perzselt föld olyan kedves számukra, mint Haye nagyapónak a kedvenc, kézzel szántott, hatalmas répákkal teli kertjei?	És ha meglepték az itt élõket, mit tehettek velük vajon?
+
+(0, 28, 0) ***Titok Kunyhó***
+Üzenet:
+A családfõ, a tiszteletreméltó Odo Two Aulns meghallgatott, de a szemét sem rebbentette.	"A kalandvágyad nem fog jót tenni neked, Henrietta. Szerintem csak kitalálod az egészet, de ismersz engem - vigyorgott Odo -, nem tudok nemet mondani egy fiatal lánynak...	Én elküldeném veled néhány legényemet, de mivel azt mondod, hogy ilyen szörnyûségek vannak errefelé, nem árt, ha megvédjük magunkat, nem igaz?	Tudod mit, kérd meg a Dry Ryehill vénjét, hogy adja kölcsön nekünk a Nyugalom Függõdíszt, akkor védve maradhatunk, és megkímélhetjük azokat az embereket."
+Nem találod a Nyugalom Függõdíszét? 	Én elküldeném veled néhány legényemet, de mivel azt mondtad, hogy ilyen szörnyûségek vannak errefelé, nem árt, ha megvédjük magunkat, nem igaz?	Látogasd meg a Dry Ryehill vénjét, hogy adja kölcsön nekünk a Nyugalom Függõdíszt, akkor védve maradhatunk, és megkímélhetjük azokat az embereket."
+
+(15, 31, 0) ***Félszerzet***
+Üzenet:
+Az ördög elleni csata után átkutattuk a Dry Ryehill minden szegletét. Féltem, hogy Frederick megégett és szétroncsolt teste hamarosan elõkerül a romok alól. Holttestet azonban nem találtunk a faluban, viszont sok nyomot láttunk, mintha a nagy paták gazdái vonszolnának maguk után valamit. A nyomok a falu keleti peremére vezettek, a közeli erdõ pedig porig égett.	Hirtelen, a fekete, csúf, halott fák között kanyarogva egy kis csapat félszerzet egyenesen felénk rohant.	"Ott! Ott!..." Ordítottak, egyenletes iramban futva.	Nekem sikerült elkapnom egy vörös hajú, õrült tekintetû fiút, társaim pedig a többieket kapták el.	A vörös hajúnak elakadt a lélegzete, és kibökte:	"Elvitték a népünket, és most kivégzik õket, és nem halálra ítélik õket, sõt rosszabbra! Segítség, jó emberek, ne hagyjátok, hogy a gonoszok ilyet tegyenek! Ez a halálnál is rosszabb sors, rosszabb, mint bármi más a világon..." - és könnyekben tört ki.
+
+(28, 15, 0) ***Küldetésörzõ***
+Üzenet:
+Ez a hegyi ösvény Frederick gyárához vezet. Õ az egyetlen, aki tudja, hogyan lehet oda eljutni.
+Ez a hegyi ösvény Frederick gyárához vezet. Õ az egyetlen, aki tudja, hogyan lehet oda eljutni. De ezek szerint még nem találtad meg õt?
+Át akarsz menni?
+
+(23, 31, 0) ***Esemény***
+Üzenet:
+"Te élsz!"	"Igen, élek, és nagyon szeretném tudni, melyik bracadiai démonológust húztam fel. Még csak nem is kereszteztem az utamat egyikükkel sem. Micsoda félreértés.	"	Nem tudtam, mirõl beszél Frederick, de annyira örültem, hogy életben van, hogy meg sem próbáltam kérdezni tõle semmit. õ, mint mindig, most is egy hegynyi gondolattal és feltételezéssel etetett, mintha reggel megjelentem volna a laboratóriumában, és alig várta volna, hogy a fülembe ültesse, hogy megossza velem, mit fõz a fejében...	"Nemrég kaptam egy levelet, amelyet Khazandar személyesen írt alá - azt hiszem, már meséltem róla... a legszabadabb elme Bracadában, amiért elõbb-utóbb biztosan megfizet. Nem hallottam róla, mióta elhagytam azokat a földeket, de néhány évvel ezelõtt egy tõle küldött hírnök talált rám, és levelezésbe kezdtünk. Úgy tûnt, mintha most derült volna ki a kapcsolatunk számára. Az utolsó üzenetében szereplõ aláírás hamisnak tûnt számomra; úgy döntöttem, hogy ha valóban megtaláltak, akkor nekem kell elõször cselekednem. A levél egy találkozót javasolt; Khazandar, állítólag egy bizonyos kísérlethez kulcsfontosságú alkatrészt akart küldeni nekem... de a Dry Ryehillben démonok vártak rám - ezek a lények a létezés egy másik síkjáról jöttek, és az imént láthattad is õket! Valaki megidézte õket, de elhanyagolta az irányítást, ezért elfogtak, és közben megölték a fél falut!"	"Frederick... azokat a lényeket... nem idézték meg. Vagy legalábbis a varázslók biztosan nem."	"Nem a varázslók által? Mibõl gondolod ezt? Azok valami archetipikus démonok voltak - láttam kitömötteket az Akadémia múzeumában!"	"Hullócsillagok. Azokból a sziklákból jöttek ki, amelyek aznap éjjel hullottak le az égbõl."	Frederick arca leesett; vitatkozni kezdett, de én csak elvittem arra a helyre, ahol a lények a rituáléjukat végezték, és megmutattam neki a hatalmas krátert a falu szélén; az a kõ, ami oda zuhant, akkora volt, hogy egy ördög is elférhetett volna benne, talán még néhány is. A szikla felhasadt, és a repedések valami furcsa és természetellenes dolgot mutattak. Vagy egy szögletes csövekbõl álló kuszaságot, vagy...	"Hát, én... Bárcsak Widman és Statten alkimisták látták volna ezt! Nem is akarok belegondolni... Mármint, gyanítottam, hogy ez nem igazi meteorzápor. 	Várj, szóval véletlen egybeesés volt?	Khazandar hírnöke valóban rám várt? 	És azt mondod, hogy azok a valamik már a fél völgyet elfoglalták?! 	Henrietta, azonnal vissza kell mennünk a laboromba! 	Azonnal menj egyenesen oda, és én - ezt nem mondtam neked, de Khazandar egyszer rábeszélt, hogy csatlakozzak egy érdekes projekthez, és én egy másik kutatóhelyet hoztam létre a keletre lévõ hegyekben. 	Most oda kell jutnom, és neked is..."	"Máris egyenesen észak felé tartok. Nem egyedül tartottak fogva itt. Egy másik fogoly azt mondta, hogy a közelben táborozik egy erathi katonákból álló különítmény. Úgy tûnik, valaki megszökött a völgybõl, és képes volt segítséget kérni tõlük. A menekültek mostanában özönlenek hozzájuk. 	"Frederick, figyelj!	Tudom, hogy nem nagyon kedveled a félszerzeteket.	Persze, én magam is idegennek érzem magam néha a saját földemen, de láttam, mit tesznek a szörnyek.	Tennünk kell valamit, különben mindenkit megölnek, és a mocskos húsukká változtatják õket.	Ha nem próbálunk bárkit is megmenteni - nos, abba belehalok."	"...Igen, nos, lehet, hogy nincs elég kéz a segítségünkre... valójában ez lenne a legnagyobb segítség most.	Igen!	Öhm...	Így van, nem állhatunk csak úgy félre! Most figyeljetek: vigyetek mindenkit, akit csak tudtok, a laboromba. Talán sikerülhet rávenni háromszázat, vagy talán ötszázat, meg az öreg Gavin alsónadrágját is, hogy repüljön...	Valakinek segítenie kell letelepedni, ha vége a repülõutunknak."	"Repülés? Úgy fogunk repülni, mint a madarak?"	"Nem egészen, de ez az egyetlen esélyünk, ha az ördögök továbbra is ilyen önfeledten pusztítanak el mindent, ami az útjukba kerül. Bízz bennem, ahogy mindig is bíztál, és hamarosan magad is meglátod. Akkor ennyi volt! Indulok is a hegyekbe."
+
+(31, 20, 0) ***Fõmágus***
+Üzenet:
+A mágusok hirtelen jelentek meg, mintha a láthatatlanság fátyla lehullott volna. Természetesen éreztem a jelenlétüket. Ezek erõs mágusok - az energiájukat nem lehet elrejteni. Nagyon jó. Még az erõsebbek is el tudtnák ezért intézni, ha akarnák.	"Lázadó Frederick!"	A vezetõjük hangja egyszerre jött minden irányból, mintha az égbõl jött volna. Semmi visszhang, semmi levélsusogás vagy szélsuttogás, csak a közömbös beszéd ömlött egyenesen a fülembe.	"Bracada tanácsa tud a sötét tetteidrõl: a halottidézés tiltott gyakorlatáról, az égihajó ellopásáról, a Bracadáról való gyalázatos menekülésedrõl és a lázadó khazandarokkal való kapcsolatodról. Azonban nem ártottál az élõknek, ezért méltányos tárgyalást és igazságos ítéletet érdemelsz - garantáljuk, hogy a büntetés nem halálbüntetés lesz.	Tegyétek le a fegyvert, engedjétek ki a varázserõt a testetekbõl, és közeledjetek felénk.	Jó, ha tudod: azzal, hogy ezt az utat követed, bûnbe estél. A sötét könyvek adhatnak tudást, de az mindig a fájdalom és a halál mérgével lesz átitatva. A kutatónak nem szabad terjesztenie a még tanult dolgokat. 	Még mindig keresõnek tartod magad, ugye?	Váltsd meg magad, Frederick, és élj tovább becsületes emberként."	Az ajkam mosolyra húzódott. Túl sokszor hallottam már ezt.	"Istenemre! Liston, te vagy az, ugye? Még mindig nehézfiúként dolgozol Gavin erkölcsrendõrségének markában? Pedig akkoriban annyi lehetõséged volt. " Lázadó Frederick" még hízelgõ is hallani. De "Lázadó Khazandar"?! Ez nem túl nagy falat a nadrágodnak? Még a feletteseid sem mertek dönteni vele kapcsolatban; jól tudom, igazam van. Túl sok az érdeme, túl sok más elismert varázsló van az Akadémián, akik nem fogják hagyni, hogy ti ostoba gengszterek nevetséges spekulációk alapján elintézzétek Bracada legjobb elméjét - és maga Magnus még nem szólalt meg az ügyben. "Tiltott gyakorlatok"! Felfogtad, hogy ez milyen nevetségesen hangzik? Mondd csak, volt kolléga... tényleg nagy a különbség van a Nagák és a Medusák között? Ó igen, a Medusák egy olyan csavaros folyamat eredménye, amely a túlélõ tárgyakat dühöngésre és gyötrelemre késztetik. Hogy is felejthetném el! A gremlinek pedig csak abban különböznek a barlanglakóktól, hogy a rabszolgaságukat mágikus szerzõdésekkel és pecsétekkel írják alá - nem vagyok félreérthetõ, remélem? Mindenkinek szüksége van szolgákra. És az elesett harcosok lelkét szobrokba helyezni, hogy zsenge titánokat kapjunk, természetesen tisztességes a halottakkal szemben és tisztán tudományos szempontból kifogástalan.	Lám, lám, lám, miért pirulsz ennyire? Kezdjünk el varázslatokat cserélni. Soha nem fogunk egymásra találni, Liston. Az elméd nem szabad..."
+
+(29, 32, 0) ***Démon***
+Üzenet:
+Már megint azok a szarvas szutykos disznók, de most az elsõ lépés az enyém! Hát, lássuk, mit érsz, ha a kezeimet elengedik!
+
+(33, 34, 0) ***Feltámasztott***
+Üzenet:
+Egy pillanatra megálltam, és beleástam magam az emlékeimbe. Nem, a temetõben nem lehet semmi olyan, ami most fontos lenne. Leszámítva néhány... dolgot, ami egyszer még jól jöhet a kísérletekhez, de már jó ideje megváltoztattam a tudományos érdeklõdési körömet ezzel kapcsolatban. Nem mintha bárkit is érdekelne. Csak egyszer tudod... nem. 	Igaz, amit mondanak; csak a halottakat nem érdekli a hírnév.
+
+(18, 27, 0) ***Esemény***
+Üzenet:
+-mozgás az AI számára
+
+(15, 13, 0) ***Esemény***
+Üzenet:
+A falusiak által említett helyen valóban volt egy "lyuk" - egy lyuk, amelynek sima, látszólag megolvadt szélei voltak, de valahogy nem volt túl meleg a közelében, és még csak nem is úgy tûnt, mintha valami égett volna ott. Mit jelenthetett ez? Néhány csillag, amelyik az éjszakában hullott le, nem a közelgõ érkezésüket jelentette be az idegeneknek, hanem egyszerûen csak leesett... oda, ahová kellett...? Gondolataimtól megrémülve megdermedtem, miközben a lármázó parasztok folyton a kezükkel hadonásztak és dorgáltak, mintha mindez valahogy az én mûvem lenne. Visszafordultam hozzájuk, és próbáltam kitalálni, mit mondjak; hirtelen a felháborodásnak az arcukon átadta a helyét a meglepettségnek, majd a rémületnek. 	Döbbenten vettem észre, hogy a falusiak már nem engem néznek, hanem a hátam mögé pillantanak.	 Egy pár éles, félhold alakú szarv jelent meg a lyuk fölött. Aztán két hatalmas vörös mancs, majd gazdájuk hatalmas ugrással kijött a lyukból. Felegyenesedett, gurgulázva belélegzett, és két füstcsíkot eresztett ki. Hatalmas termetû, göcsörtös, friss hús színû bõrrel - vagy egyáltalán nem is volt bõre? - itt, a falu közepén végtelenül idegennek tûnt. A különös látogató szemei tüzes foltok voltak, és a levegõ az alakja körül úgy kavargott, mint egy serpenyõ felett. Hõhullámot éreztem, és furcsa, vasszerû szagot vagy ízt a nyelvemen - és aztán mintha egy kémiai reakció állt volna le, mint Fredericknél, amikor megengedte, hogy egy lombikba cseppentsek némi "im-ge-be-tor"-t. A szörny szeme elhomályosult, a bõre barnává vált, a körülötte lévõ forróság alábbhagyott, és végre jól meg tudtam nézni. Ha valaki elképzelne egy hatalmas vaddisznót, amelynek szarvai nõnek, elveszíti a sörtéit, két lábra áll, mint egy ember, és púpokat kap a hátára és a mellkasára... Na, az még mindig nagyon durva és hízelgõ leírása lenne annak a lénynek, amit én láttam. A rútsága lenyûgözõ volt.	 A lény csóválta hatalmas fejét, és a tömegre nézett. Csapdaszerû szája kinyílt, és egy undorítóan hosszú nyelv esett ki belõle. A szörnyeteg hangos csattanással megtette elsõ lépését Eeofol földjén. 	Vicces, gondoltam, mintha valami jó patkolókovács már meg is patkolta volna õt.....
+
+(21, 4, 0) ***Tower***
+Név:
+Laboratórium
+
+(8, 23, 0) ***Jel***
+Üzenet:
+Délre - Dry Ryehill	Keletre - Wee Cellars	Nyugatra - Magas hegygerincek
+
+(23, 8, 0) ***Küldetésõrzõ***
+Üzenet:
+Ez az út a laboratóriumból indul lefelé, és dél felé vezet az erdõn keresztül Dry Ryehill felé. Nincs értelme most ezen az úton lemenni mivel - meg kell találnunk Fredericket.
+Ez az út a laboratóriumból indul lefelé, és dél felé vezet az erdõn keresztül Dry Ryehill felé. Nincs értelme most ezen az úton lemenni mivel - meg kell találnunk Fredericket. Ezek szerint még nincs meg?
+Át akarsz menni?
+
+(33, 24, 0) ***Robot***
+Üzenet:
+A csodák idejének öröksége valóban felbecsülhetetlen értékû. Uralkodók és harcosok vágynak arra, hogy megtalálják az azokból az idõkbõl származó páncélokat és fegyvereket, de nem ezek számítanak annak, aki az egész világot meg akarja változtatni az idõ múlásával. Sokáig gyûjtöttem az õsi titkok apró morzsáit, hogy valami sajátot építsek belõlük... és eljutottam valahová.	A gépeim még mindig nagyon sebezhetõek, a meghajtási rendszereik instabilak és nem hatékonyak, de viszonylag önállóak és képesek egyszerû döntéseket hozni egyedül - és ez már valami, nem gondoljátok!	Várnak a robotok világa és a futószalag!
+
+(32, 19, 0) ***Háborgó Tûz Varázsgömb***
+Üzenet:
+Három tûzgömböt vettem ki a dobozból a legnagyobb óvatossággal. Ezek a könnyû, füstmentes hõforrások a motorkazánokban lévõ vizet forrásra fogják késztetni, és az így keletkezõ gõz minõsége éppen megfelelõ mûködésre fogja bírni a gépeimet. Sam évek óta sürgetett, hogy költözzek hozzá, és vigyem magammal a terveimet. Csendesebb lenne, és minden nyersanyag könnyen elérhetõ lenne, mondogatta nekem. 	Miért is húztam ezt az egészet eddig, miért is halogattam?	A durva számítások szerint, amelyekkel az úton lefoglaltam magam, a gömbök töltése elég lenne a hosszú útra Jadame-ba. Egyedül nekem három biztosan elég lenne, de most minden hajót egyszerre kell majd a levegõbe emelnem. Ha csak egy kicsit több idõm lett volna a felkészülésre, akkor beindíthattam volna a hõközeg kondenzátort, és fel tudtam volna tölteni a gömbök kezdeti töltését... Vagy hagyhattam volna mindent, felszállhattam volna a levegõbe, és egyedül repülhettem volna biztonságba, anélkül, hogy attól kellene tartanom, hogy az óceán közepén rekedek.	Na! Ne! Ne!	Az azt jelentené, hogy elárulom nemcsak Henriettát, hanem magát az álmomat is.
+
+(25, 9, 0) ***Esemény***
+Üzenet:
+-mozgás az AI számára
+
+(26, 10, 0) ***Esemény***
+Üzenet:
+-mozgás az AI számára
+
+(6, 26, 0) ***Démon***
+Üzenet:
+Ezek a dolgok már itt is megvannak!	Tényleg a sziklákon jöttek az égbõl?	És hol vannak a kovácsok, akik a patkóikat kovácsolták?	Õk jönnek legközelebb?	A szörnyek csoportokra oszlottak, mintha azt terveznék, hogy csapdába ejtenek engem és a társaimat. Minden bizonnyal intelligensebbek voltak, mint az állatok - és egyre többen voltak! Persze, készen álltak a parittyáink, és elég kõ volt mindannyiuknak, de azt kívántam, bárcsak lett volna valami erõsebb.
+
+(20, 32, 0) ***Aknaúr***
+Üzenet:
+A szél bûzös füstöt fújt felénk. Ezzel együtt egy nagy, kétségbeesett, szinte embertelen sikoly érkezett felénk, majd hátborzongató, dübörgõ hangot hallottunk, amely mintha a föld alól jött volna. Berohantunk a füstbe, és száz lépés után olyan képet láttunk, hogy könnybe lábadt a szemünk.	 Az egykor volt rét közepén, amely most már csak egy környi felperzselt föld volt, valami hatalmas tûzhelyhez hasonló, lapos kõedény állt, falai vörösen izzottak, körülötte pedig egy sûrû tûziszapból álló tó izzott és bugyborékolt. Ebben térdig gázolva, mintha nem is tudnának a hõségrõl, magas, hatalmas, élénkvörös bõrû lények álltak, és még néhány hasonló óriás hosszú ostorokkal hajtott néhány botladozó félszerzetet az üsthöz. Távolabb, a leégett fák közelében, a már ismerõs szarvú fenevadak álltak õrt a falusiak nagy tömege felett. A félszerzeteket az üsthöz vezették, és közöttük felismertem Maltmant, a Dry Ryehill-i kocsmárost. Mielõtt észbe kaptam volna, a vörös óriás tüzes csattanással suhintott egy nagyot az ostorával, és három szerencsétlen holtan esett össze. A tömeg ismét sikoltozni kezdett, miközben a szörnyek mintha a szokásos, élvezetes munkájukat végezték volna - egymásnak dobálták a hullákat, könnyedén tépték szét végtagjaikat, tették õket az üstbe... Az egyik lény belenézett, majd láthatóan elégedetten jelzett a többieknek.  Az óriások az üstöt bámulták, kezükkel gesztikuláltak néhányat, üvöltöttek, és a szemük felragyogott. Aztán újra megszólalt az a hang, amit már messzirõl hallottunk, mintha maga a pokol szólalt volna meg! A kivégzettek húsa azonnal lángra lobbant, undorító péppé változott, hatalmas, barna habsapkává forrósodott, összeesett, és az üst közepén egy egyszarvú szörnyeteg rút alakja jelent meg. Testébõl füst gomolygott, és a száradó iszap sziszegve csorgott le a testérõl.	A vörös hajú fiúnak igaza volt; a halálnál is rosszabb sors vár most ránk.		
+
+(5, 25, 0) ***Esemény***
+Üzenet:
+-mozgás az AI számára
+
+(5, 26, 0) ***Esemény***
+Üzenet:
+-mozgás az AI számára
+
+(24, 17, 0) ***Lovag***
+Név:
+Xarfax
+
+(8, 27, 0) ***Szarvas Démon***
+Üzenet:
+A kétszarvú lények feltûnõen különböztek világosabb bõrû rokonaiktól, nemcsak megjelenésükben, hanem viselkedésükben is, ahogyan a felnõttek is különböznek egy rakás oktalan tizenévestõl. Egyértelmûen szervezettebbek voltak, így hamarabb észrevettek minket. A lények gyorsan több csapatba tömörültek, és megtámadtak.
+
+(21, 22, 0) ***Félszerzet***
+Üzenet:
+Eeofolban mindenki hallott Tavinról - de nem mindenki beszélt róla elismerõen. A félszerzet, aki szabad akaratából hagyta el a szülõfaluját, hogy az erathi határõrséghez csatlakozzon, aligha volt olyan példakép, akit a gyerekeknek szántak volna. A katonai szolgálat évei látható nyomokat hagytak a parancsnok kemény arcán - fakó szeme mélyen beesett, orra törött volt, és vékony arca idõnként kínosan rángatózott.	"Mi folyik északon?" - kérdezte Tavin, nem vesztegetve az idõt a köszöntésre.	"A halál a sarkamban van. Mi megszöktünk, de a falusiak..."	"Azok már biztosan halottak" - csattant fel a parancsnok. 	"Az itteni erdõkben már most hemzsegnek a lények, és bármelyik nap minden bokor alatt ott lehetnek. Délen és nyugaton már mindenkit, aki nem menekült el, átváltoztattak húsdarabkákká. Én vezettem az õrség elõõrst, utánam a többi ember Xarfax kapitány parancsnoksága alatt, félnapi meneteléssel mögöttünk."	"Követtek titeket? Útközben megtámadhaták õket a szarvas bestiák?"	"Nem, csak úgy jöttek. Csak egy kiút van innen, de ott állnak most is... csak õk, senki más. Tizenöt évig szolgáltam Xarfax mellett. És ma, amikor találkozni mentem az egységével, megparancsolta az embereinek, hogy vágják ki a májamat. Épphogy megúsztuk, és elbújtunk azok mögött a gyenge falak mögött. Most azon gondolkodunk, hogyan tegyük magunkat ízletesebbé, hogy az ördögök ne unják meg, hogy felfaljanak minket."	"Tavin, át kell jutnunk. Még van remény, hogy megmenthetünk valakit, de el kell jutnunk az északi útra. A parancsnokotok egy áruló, de együtt képesek vagyunk..."	Tavin vicsorogva megragadott a galléromnál fogva, és úgy rángatott a levegõbe, mint egy rongyos zsákot. A tekintete ijesztõ volt.	"Bolond! Hülye lány!	Xarfax nem árult el. Az ördögök megbabonázták õt, hallod?!	Fogod a hülyéidet a petárdákkal, mi pedig kiverjük ezt az ostoba babonát az öregbõl! Aztán fogjátok, akit csak tudtok, és menjetek, és csináljátok, amit akartok! Én nem akarok tudni róla semmit, úgyhogy nem mondok semmit, amikor elkapnak, és lassú tûzön megsütnek, mint a kékmezei kolbászt".
+
+(24, 8, 0) ***Esemény***
+Üzenet:
+-mozgás az AI számára
+
+(23, 18, 0) ***Esemény***
+Üzenet:
+A megtépázott alakulat csatasorba állt. Parancsok hangzottak el, de már nem erathi nyelven. Valami idegen nyelven, nyersen és állatiasan. A pajzsok és a páncéljuk fölé helyezett surrantók vastagon vérfoltosak voltak - meg sem próbálták megtisztítani õket. Hogy merhettek elárulni minket? Alávetni magukat ennek az aljas erõnek? Mi törte meg ezeknek a tapasztalt katonáknak az akaratát - a közelgõ haláltól való félelem.... vagy az idegen hússá válás?	Most már mindegy.	Csak egy út van északra.
+
+(13, 23, 0) ***Titok Kunyhó***
+Üzenet:
+Ez a család az isten háta mögötti vidéken él, és teljesen nyugodt természetû - Henrietta még azt is gondolja, hogy a magány és az életük egyhangúsága eléggé elhomályosította õket. Amikor meghallják a legfrissebb híreket, még a szemük sem rebben. Az õsz hajú apa sajnálkozik a munkaerõhiány miatt, de beleegyezik, hogy néhány munkása veled tarthasson, igaz, csak busás fizetségért cserébe.
+A családfõ kijelenti, hogy a munkásai nem mennek sehova ingyen.
+A családfõ mohón szemezget az ékszerekkel teli zsákból, a munkások pedig elõveszik a parittyáikat, és készek követni téged. Fel akarod õket bérelni?
+
+(16, 12, 0) ***Félszerzet***
+Üzenet:
+"Az égbõl pottyant le, el tudod ezt hinni? Én magam láttam! Ott van a lyukban. Túl ijesztõ, hogy megközelítsük."	"Én nem látok lyukat az égen. Csak nem látsz dolgokat, testvér?"
+
+(26, 32, 0) ***Küldetésörzõ***
+Üzenet:
+Ez a hegyi ösvény Frederick gyárához vezet. Õ az egyetlen, aki tudja, hogyan lehet oda eljutni.
+Ez a hegyi ösvény Frederick gyárához vezet. Õ az egyetlen, aki tudja, hogyan lehet oda eljutni. Vagy még nem találtál rá?
+Át akarsz menni?
+
+(24, 16, 0) ***Küldetésõrzõ***
+Üzenet:
+Az erathi elõõrs zárt kapui láthatók elõttünk.
+Túl veszélyes megpróbálni megrohamozni a kapukat. Meg kell várnunk, hogy Xarfaxot legyõzzük.
+A megbabonázottak vereségét és magának Xarfaxnak a menekülését követõen ez a helyõrség elnéptelenedett. Át akarsz most menni?
+
+(19, 9, 0) ***Esemény***
+Üzenet:
+A kapunál lévõ táblán ez áll:	"Kísérleti karbantartó mûhely. A bányavállalat tulajdona. Jelenleg nincs felvétel."	Közelebbrõl szemügyre véve észrevettem a táblán lévõ karcolásokat. Alig látható piszokfoltok egészítik ki õket, egy Frederick által kitalált titkos ábécé jeleit formázva. 	"...Hamarosan ide fogtok rohanni, mintha forró almáspite illata lenne. Ez a csillaghullás a kozmológia minden törvényét megszegi: Ilyen égi jelenséget még sehol sem láttam leírva... az elhaladó égitestek sebessége, minden normát meghaladó lassulása, a lángáramok vektorával ellentétes irányú... a legerõsebb fényszûrõ eltört... rendkívül érdekes, de a helyzet arra kényszerít, hogy elhagyjam az otthonomat. Nevek és arcok bukkantak fel újra egy korábbi életbõl; ez veszélyes lehet. Legyetek óvatosak, és ne feledjétek a titkunkat! Dél felé veszem az irányt, és ne is gondoljatok arra..."
+
+(21, 5, 0) ***Esemény***
+Üzenet:
+Beléptünk az ajtón, amely Frederick elõtt kinyílt, és a félszerzetek sora követett minket. Egyikük sem járt még itt korábban sohasem. Ha máskor lettek volna itt, bizonyára megdöbbentette volna õket a bracadi kupolával koronázott, elegáns laboratórium látványa õket; egyszerû kõkunyhóknál és fapajtáknál sokkal szebbet még nem láttak az életük során. De nem, a falusiaknak elég volt a sokkból az elmúlt napokban, és az egyetlen dolog, amire vágytak, az egy lehetõség volt, hogy leülhessenek a fûbe, és megdörzsölhessék a fáradt lábukat. Úgy döntöttünk, hogy egyelõre nem zavarjuk a fáradt félszerzeteket, és elõször felmentünk a dombra, hogy Frederick megnézhesse, hogyan készülnek az elsõ nagy repülésre a kreációi. 	A látvány hihetetlen volt! Egy hófödte hegyekkel körülvett tisztás közepén három hatalmas buborék ringatózott fenségesen a szélben, mindegyik alatt egy-egy igen nagy csónakkal. Bevallom, még én is tátottam a számat a pókszerû szerkezetek láttán, amelyek ügyesen mozogtak a fedélzeten és a felszereléseken, acélcsõrükkel csomókat feszítettek, és valami más teljesen érthetetlen dolgot csináltak. Frederick hamarosan visszatért a léghajók - ahogy õ nevezte õket - szemléjérõl. Hangjában némi büszkeséggel mondta:	"Szép munka volt! A gépeim simán és hiba nélkül mûködtek. A tartályok csurig vannak vízzel. Már csak a tûzgömböket kell betenni a kemencékbe, és már indulhatunk is! Én irányítom a fõ léghajót, a gépi segítõim pedig megismétlik a manõvereimet a többin."	Visszamentünk a félszerzetekhez. Úgy tûnt, a hegyek közé befészkelt völgy békés tája megnyugtatta szegény falusiakat - talán egy kicsit túlságosan is. Néhányan aludtak, mások a pipájukat gyújtogatták. Frederick megrázta a fejét, felkapott egy vaskúpot, és beleszólt a hegyébe. A dolog olyan hangossá tette a hangját, hogy a pihenõk felugrottak. 	"Elég volt a lustálkodásból! Gyerünk, gyerünk, mozgás! Az idõ nagyon-nagyon rövid: a démonok bármelyik percben megjelenhetnek, és akkor mindannyian nagy bajban leszünk. Az elõttetek lévõ épületben készletek vannak elõkészítve - nem sok, de jobb, mint a semmi. Fogjátok a ládákat, és vigyétek oda, ahová mutatom, ha nem akartok éhen halni útközben."	"Remélem, ezek a lusták nem felejtették el a zsákot..." - mondta Frederick, miközben a kúp kikerült az arcából, és csak én hallottam ezt már csak meg tõlle.	Hirtelen valaki megérintette a vállamat. Megfordultam, és a szemem Tavin tekintetébe akadt. Némán bukkant elõ mögöttem - de ez várható volt egy olyan tapasztalt harcostól, mint õ. Üdvözölni akartam õt hiszen örültem, hogy az õrség túlélte, de volt valami a szemében, ami tétovázásra késztetett.	Tavin rám hunyorgott, és azt mondta:	"Ha nekem nem okozott gondot, hogy felkutassalak és megtaláljalak, akkor azok a pokoli bestiák sem fognak rosszabbul járni ezzel kapcsolatban. Olyan jó az orruk, mint Erathia legjobb vadászkutyáinak. Adjatok egy hétre elegendõ élelmet és egy zsáknyit a petárdáitokból. Elvezetem õket a völgybõl. Legalább idõt nyerek nektek, és egy ideig visszatartom õket az üldözésüktõl."	"De... Tavin, mirõl beszélsz? Szükségünk van rád és a szakértelmedre! Öngyilkosság lenne egyedül nekimenni azoknak a szörnyeknek. Talán nem találják meg a titkos átjárót." 	"Ne próbáld megmásítani a véleményemet, gyermekem. Ha az én életem megmenti több százatok életét, ez az ára, amit megfizetek. Ezért lettem katona. Egy nap majd megérted." 	Sóhajtottam, és mivel gyengének éreztem a lábaim, megtettem, amit kért. Tavin a vállára csapta a zsákot, ismét a szemembe nézett, és anélkül, hogy még egy szót szólt volna, vagy visszanézett volna, határozottan kisétált a völgybõl.
+
+(5, 21, 0) ***Esemény***
+Üzenet:
+Boldog lennék, mint egy kislány, ha nem lennének ilyen körülmények. Itt a mi titkunk! Ez a raktár, ahol az újévi ünnepségre szánt petárdák vannak - száraz rejtekhelyet alakítottunk ki nekik, távol a falvaktól. A félszerzetek nagyon óvatosak, ha veszélyrõl és tûzrõl van szó, ezért ragaszkodtam hozzá, hogy ezeket a dolgokat egy félreesõ helyen õrizzük. Frederick a szabadidejében kis adagokat készített belõlük, és évente egyszer a falusiak elhozták magukkal, hogy leküzdjék a tudóssal szembeni ellenszenvüket, mert senki más nem tudta megadni nekik ezt a szeretett szórakozást. Frederick minden alkalommal majdnem egy évnyi élelmiszert szerzett be a petárdákhoz; a félszerzetek nagyon szerették a nagy ünnepeiket! A völgy lakói azzal dicsekedtek, hogy még soha senki nem látott ilyen tüzes esõt, még Bracadában sem, és semmitõl sem riadtak vissza, hogy megmutassák a szomszédaiknak, és élvezzék az õszinte csodákat.	Frederick szárazon vigyorgott, és egyetértett azzal, hogy valóban, ilyet még soha nem láttak Bracadában.	"Ott csak becsúsztatsz pár érmét valami lemorzsolódó illuzionista kuruzslónak, és kétszer akkora látványt kapsz" – motyogta magában, miközben elpakolta nehezen megkeresett fizetését.	A ládákban hagyma nagyságú gömbök voltak, amelyek fülsiketítõ robajjal robbantak fel, és fényes tûzcseppeket szórtak szét mindenfelé. Általában a falu fõterére épített hosszú csõbõl lõtték fel õket az égbe, mint egy rugós rudat, de most fel lehetett velük fegyverezni néhány parittyás félszerzetet. Ezek a tökéletesen egyenletes lövedékek még a kõlövedékeknél is jobban mûködtek eldobásra.
+
+(12, 20, 0) ***Esemény***
+Üzenet:
+Ahogy közeledtünk a tábortûzhöz, egy sietve elhagyott táborhelyet találtunk. Egy tucatnyi kétlábú lény lábnyomai vezettek el tõle az erdõ felé. Két lefejezett égi vendég teteme feküdt a tûz mellett - úgy tûnt, mintha valaki hozzáfogott volna a tábori kötözésükhöz, de félidõben otthagyta volna õket.	"Á, ezok a félszerzetek..." - hallod a bokrok közül. "Menjetek innen! Ne merészeljetek utánunk jönni, vagy acélízûvé teszünk benneteket, ahogy azokat a torzszülötteket is, megértettétek?!"	Úgy látszik, a bokrokban lévõ emberek aligha kedvesebbek, mint a felkoncolt szarvakkal ellátott idegenek. Vajon ugyanaz a banda ez, amelyik öt évvel ezelõtt a szomszédos völgyben pusztítást végzett? Mostanra már elfelejtették õket, de az biztos, hogy kizárt, hogy egy új banda csak úgy a semmibõl bukkanjon fel pont itt. Hát, azt hiszem, a baj nem jár egyedül.
+
+(23, 24, 0) ***Esemény***
+Üzenet:
+A palánkvár szokatlan látvány volt ezen a helyen, mégis valaki eléggé törõdött vele, hogy megépítse. Ez némi reményt adott nekem, még ha halványat is. Az õrök stabilan álltak, és vidáman integettek, behívtak a táborba.	Társaim a földre zuhantak, amint beléptünk a falakon belülre; a több napi erõltetett menet és, hogy alig kaptak élelmet vagy megfelelõ pihenést megviselte õket. Nem volt hozzászokva húsos, jól táplált testük az ilyen mértékû megvonásához. Egyenesen a parancsnokhoz mentem beszélni. A tábor közepén állt, utasításokat adott, és várta, hogy beszélhessen az újonnan érkezõkkel.
+
+(26, 11, 0) ***Esemény***
+Üzenet:
+Szeretek új dolgokat felfedezni, de utálom a meglepetéseket. Ez a folyamat szépsége: kidolgozni egy elméletet, majd gyakorolni, hogy pontosan azt érjük el, amit szeretnénk. Az elmélet persze lehet olyan merész, amilyet csak akarsz...	Az a szokatlan csillaghullás nem tudta megállni, hogy ne vonja magára a figyelmemet, még akkor is, ha aznap este máson gondolkodtam éppen. Nem szégyellem bevallani - ennek a jelenségnek a kibogozása volt életem legkellemetlenebb meglepetése. Mindannyian, az enrothi tudósok, még azok is, akik még nem sejtik, mi történt, szembesültünk egy ténnyel: sziklák hullhatnak az égbõl. És nem csak leeshetnek, hanem olyan vendégeket is magukkal hozhatnak, akiket senki sem hívna szívesen az otthonába.	Most újra elgondolkodtam: mi van, ha ezek egyáltalán nem is kövek, hanem valami, ami a mi léghajóinkhoz hasonló, csak sokkal összetettebb és tökéletesebb - vagy talán csak egy ilyen lezuhant hajó darabjai?	Lehetséges, hogy ott fent, olyan magasan, hogy még távcsõvel sem látjuk, város méretû roncsok lehetnek, amelyeket valaki megmunkált, repülnek valahol a maguk dolgára, egész nemzeteket szállítanak, jeleket cserélnek, és néha röppentyûs, hatalmas ágyúkkal lövöldöznek?	És hol kötnek ki - mert a kikötõjük biztosan nem lehet a mi bolygónkon, nem igaz?	Azon kaptam magam, hogy megint új gondolatok felé szárnyal az elmém. Most leginkább arra vágyom, hogy közös nyelvet találjak valamelyik idegennel, hogy meghallgassam a történeteiket a szülõhelyükrõl, hogy ezer kérdést tegyek fel... valamiért nem dobtak egyenesen az üstbe, ahol a halott húsból készítették a harcosaikat. Talán olyasvalakit láttak bennem, akivel megértésre juthatnak és megegyezhetnek valamiben?	Talán nekem kellene.....	Ahogy ezen gondolkodtam, észre sem vettem, hogy elértük a régi laboromat. Henrietta parancsát hallva: 	"Készítsétek a lövedékeket!", felnéztem, és láttam, hogy egy nagy csapat idegen állja el az utunkat. Ezúttal egyfajta harci alakzatban sorakoztak fel, és egyértelmûen volt egy vezetõjük, egy sovány, skarlátbõrû, szarvval felszerelt, fekete páncélba öltözött, mintha vastag koromréteg borította volna egyébként. Elõrelépett, egyenesen a szemembe nézett... és egy karommal végigsimított a torkán, miközben megnyalta keskeny száját.
+
+===== Fájl vége =====

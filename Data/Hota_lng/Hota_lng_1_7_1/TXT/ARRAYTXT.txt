@@ -1,0 +1,375 @@
+Note: Do not change the headings in this file, they are used to detect problems
+gStatDesc
+"{Támadás}
+
+ A Támadási Érték egy bónusz, ami hozzáadódik a hõsöd minden harcosának Támadási Értékéhez, így azok többet sebezhetnek csatában."
+"{Védekezés}
+
+ A Védekezési Érték egy bónusz, ami hozzáadódik a hõsöd minden harcosának Védekezési Értékéhez, így azok több sebzésnek állhatnak ellen csatában."
+"{Varázserõ}
+
+A Varázserõ határozza meg egy varázslat erõsségét vagy hatóidejét."
+"{Tudás}
+
+A Tudás határozza meg, hogy a hõsnek hány varázspontja lehet. Ez normális körülmények között a Tudás tízszerese."
+gLuckText
+Átkozott
+Rémes
+Rossz
+Átlagos
+Jó
+Nagyszerû
+Kiváló
+gMoraleText
+Áruló
+Rémes
+Silány
+Átlagos
+Jó
+Nagyszerû
+Vérszomjas
+gOwnedByColor
+Piros játékosé
+Kék játékosé
+Barna játékosé
+Zöld játékosé
+Narancs játékosé
+Lila játékosé
+Türkiz játékosé
+Rózsaszín játékosé
+gMonthNames
+Szöcske
+Hangya
+Katica
+Pók
+Pillangó
+Poszméh
+Sáska
+Giliszta
+Lódarázs
+Bogár
+gWeekNames
+Mókus
+Nyúl
+Hörcsög
+Borz
+Patkány
+Bagoly
+Menyét
+Holló
+Mongúz
+Kutya
+Földi malac
+Gyík
+Teknõs
+Sün
+Kondorkeselyû
+cLuckInfo
+" {Jó Szerencse}
+
+Jó szerencsével harcosaid a csatában néha szerencsésen (dupla sebzéssel) támadhatnak."
+" {Átlagos Szerencse}
+
+Átlagos szerencsével harcosaidnak sosem lesz szerencsés vagy szerencsétlen támadása a csatákban."
+" {Rossz szerencse}
+
+Rossz szerencsével néha szerencsétlen (fél sebzésû) támadásai lesznek a harcosaidnak a csatákban."
+"%s
+
+
+{Aktuális Szerencse-módosítók:}"
+"
+A sárkány szeme +1"
+"
+Szerencse lóhere +1"
+"
+Jövendõmondó Kártyák +1"
+"
+Szerencse Madár +1"
+"
+Meglátogattad a Hattyúk Tavát +2"
+"
+Meglátogattad a Szerencse Bálványát +1"
+"
+Meglátogattad a Szerencse Forrását %s"
+"
+Meglátogattad a Piramist -2"
+"
+Meglátogattad a Boszorkánykört +1"
+"
+Meglátogattad a Sellõt +1"
+"
+Meglátogattad a Gyülekezõ Zászlót +1"
+"
+Alap Szerencse +1"
+"
+Haladó Szerencse +2"
+"
+Mester Szerencse +3"
+"
+Nincs"
+"
+-%d Átmenetileg a következõ csatáig"
+"
++%d Átmenetileg a következõ csatáig"
+"
+Bátorság Függõdísz +3"
+"
+A szerencsének nincs hatása az Elátkozott Mezõn"
+"
+%s elfojt mindenfajta szerencsét"
+"
+Harcos Semleges beállítottságú várból Lóheremezõn +2"
+cMoraleInfo
+" {Jó Hangulat}
+
+Jó hangulat extra támadásokat adhat a harcosaidnak."
+" {Átlagos Hangulat}
+
+Átlagos hangulat azt jelenti, hogy harcosaid sosem kapnak extra támadásokat, vagy rettennek meg harcban. "
+" {Rossz Hangulat}
+
+Rossz hangulat hatására harcosaid megrettenhetnek a csatában."
+"%s
+
+
+{Aktuális Hangulat-módosítók:}"
+"
+Sárkányszem Karika +1"
+"
+Bátorság Érdemrend +1"
+"
+Dicsõség Címerpajzsa +1"
+"
+Vitézség Glyphé +1"
+"
+Meglátogattad a Szerencse Bálványát +1"
+"
+Meglátogattad a Bóját +1"
+"
+Meglátogattad az Oázist +1"
+"
+Meglátogattad a Templomot +1"
+"
+Meglátogattad a Templomot vasárnap +2"
+"
+Meglátogattad a Síremléket -1"
+"
+Meglátogattad a Hajótörést -1"
+"
+Meglátogattad a Víztócsát +1"
+"
+Meglátogattad az Elhagyott Hajót -1"
+"
+Meglátogattad a Gyülekezõ Zászlót +1"
+"
+Meglátogattad a Fiatalság Forrását +1"
+"
+Meglátogattad a Harcos Sírját -3"
+"
+Alap Irányítás +1"
+"
+Haladó Irányítás +2"
+"
+Mester Irányítás +3"
+"
+Nincs"
+"
+-%d Átmenetileg a következõ csatáig"
+"
++%d Átmenetileg a következõ csatáig"
+"
+Bátorság Függõdísz +3"
+"
+A hangulatnak nincs hatása az Elátkozott Mezõn"
+"
+Érzéketlen a hangulatra"
+"
+%d fajta beállítottságú harcosok %d"
+"
+Minden harcos egyforma beállítottságú +1"
+"
+Élõhalottak a csapatban -1"
+"
+%s a csapatban +1"
+"
+Szembenéz %s-val/-vel -1"
+"
+%s elfojtja a jó hangulatot"
+"
+%s mindig jó hangulat"
+"
+Varázslatok %+d"
+"
+Hazai terepen +1"
+"
+Harcos jó beállítottságú városból Szent Földön +1"
+"
+Harcos gonosz beállítottságú városból Szent Földön -1"
+"
+Harcos jó beállítottságú városból Gonosz Ködön +1"
+"
+Harcos gonosz beállítottságú városból Gonosz Ködön -1"
+cNewTurn
+%s, már csak %d napod van hátra, hogy szerezz egy várat, különben számûzetel errõl a földrõl.
+%s, ez az utolsó napod, hogy szerezz egy várat, különben számûzetel errõl a földrõl.
+" A csillagászok kihirdetik: Ez a %s hónapja.
+
+Minden lény népessége növekedett. "
+" A csillagászok kihirdetik: Ez a %s hónapja.
+
+A %s népessége megduplázódik!
+
+Minden lény népessége növekedett. "
+" A csillagászok kihirdetik: Ez a PESTIS hónapja.
+
+Minden népesség megfelezõdik. "
+" A csillagászok kihirdetik: Ez a %s hete.
+
+Minden lény népessége növekedett. "
+" A csillagászok kihirdetik: Ez a %s hete.
+
+%s népesség +5.
+
+Minden lény népessége növekedett. "
+" A csillagászok kihirdetik: Ez a %s hete.
+
+%s népesség %+d.
+%s népesség %+d.
+
+Minden lény népessége növekedett. "
+cMapSize
+Kicsi
+Közepes
+Nagy
+Extra Nagy
+cDifficulty
+Könnyû
+Normál
+Nehéz
+Tapasztalt
+Lehetetlen
+cDirections
+északi
+északkeleti
+keleti
+délkeleti
+déli
+délnyugati
+nyugati
+északnyugati
+középsõ
+cRumourTerrainDescriptions
+a sárban.
+egy sivatagi dûne alatt.
+egy füves mezõn.
+a hóban.
+egy homályos mocsárban.
+egy sivár pusztaságban.
+egy földalatti barlangban
+a terméketlen lávában.
+az óceán sötét mélyén.
+egy szikla alatt.
+cPersonality
+Harcos
+Építõ
+Felfedezõ
+Ember
+gArmySizeNames
+1-4
+Néhány (1-4)
+néhány ({1-4})
+5-9
+Számos (5-9)
+számos ({5-9})
+10-19
+Csapat (10-19)
+csapat ({10-19})
+20-49
+Sok (20-49)
+sok ({20-49})
+50-99
+Horda (50-99) -
+horda ({50-99}) -
+100-249
+Tömegével(100-249)
+tömegével ({100-249})
+250-499
+Hadsereg (250-499) -
+hadsereg ({250-499}) -
+500-999
+Ezred (500-999)
+ezred ({500-999}) -
+1000+
+Légió (1000 vagy több)
+légió ({1000 vagy több})
+const_wise_tree_price_text
+ (+1 szint)
+ (+1 szint 2000 aranyért)
+ (+1 szint 10 drágakõért)
+HumanCPU
+"Ember
+vagy gép"
+Ember
+Csak gép
+HandiText
+Nincs Hátrány
+Enyhe Hátrány
+Súlyos Hátrány
+AGRText
+Varázstárgy
+Arany
+Nyersanyag
+gTownTypeNames
+Semleges
+Castle
+Rampart
+Tower
+Inferno
+Necropolis
+Dungeon
+Stronghold
+Fortress
+Conflux
+NewLoadSave
+Pálya kiválasztása
+Mentett játék betöltése
+Aktuális játék elmentése
+Army Speed Names
+Mozdulatlan
+Szuper Lassú
+Ultra Lassú
+Nagyon Lassú
+Extra Lassú
+Lassú
+Fürge
+Extra Fürge
+Nagyon Fürge
+Ultra Fürge
+Szuper Fürge
+Sebes
+Extra Sebes
+Nagyon Sebes
+Ultra Sebes
+Szuper Sebes
+Gyors
+Extra Gyors
+Nagyon Gyors
+Ultra Gyors
+Szuper Gyors
+Town Size Names
+Falu
+Község
+Város
+Fõváros
+Moat Names
+Árok
+Tüskebokor
+Akna
+Láva
+Csonthalom
+Forró Olaj
+Fa Karók
+Fortyogó Kátrány
+Árok
+Insert all data before this line. Do not alter or delete this line.

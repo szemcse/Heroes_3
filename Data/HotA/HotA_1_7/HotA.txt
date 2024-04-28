@@ -2425,7 +2425,7 @@ Hõs kereskedelem
 #37
 Hõs kereskedelem megnyitása
 #38
-(+2 támadás vagy védelem hõsönként egyszer)
+(+2 támadás vagy védelem, hõsönként egyszer)
 #39
 Tengerészeti Akadémia
 #40
@@ -3115,7 +3115,7 @@ Világítótorony, Misztikus tó, Könyvtár, Kénes Viharfelhõk, Sötétség Fátyla, Mana
 # 25
 A Kard Testvérisége, Szerencse Szökõkút, A Tudás Fala, Várkapu, Nekromácia Erõsítõ, Az Idézés Kapuja, Rabszolgakereskedõk, A Félelem Rúnái, Hamvak Sírboltja vagy Barlang.
 # 26
-Istállók, Kincstár, Kilátótorony, A Tûz Rendje, Csontváz Átalakító, Harci Tudósok Akadémiája, Nyílvetõ udvar, A Vér Obeliszkje vagy Lõporraktár.
+Istállók, Kincstár, Kilátótorony, A Tûz Rendje, Csontváz-átalakító, Harci Tudósok Akadémiája, Nyílvetõ udvar, A Vér Obeliszkje vagy Lõporraktár.
 # 27
 Valhalla.
 # 28
@@ -4092,7 +4092,7 @@ Dekoráció.""
 
 125
 -1
-""Tengeri Hínár
+""Tengeri hínár
 Dekoráció.""
 
 126
@@ -4312,7 +4312,7 @@ Dekoráció.""
 
 176
 -1
-""Tengeri Hínár
+""Tengeri hínár
 Dekoráció.""
 
 177
@@ -7788,7 +7788,7 @@ Dekoráció.""
 
 139
 10
-""Tengeri Hínár
+""Tengeri hínár
 Dekoráció.""
 
 139
@@ -7833,7 +7833,7 @@ Dekoráció.""
 
 139
 19
-""Összeomlott Épület
+""Összeomlott épület
 Dekoráció.""
 
 139
@@ -7938,7 +7938,7 @@ Dekoráció.""
 
 140
 8
-""Mészkõ Tó
+""Mészkõ tó
 Dekoráció.""
 
 140
@@ -7984,79 +7984,79 @@ Minden csapatnak -2 szerencsét ad.""
 142
 0
 ""Fa raktár
-+10 fát ad hetente egyszer""
++10 fát ad hetente egyszer.""
 
 142
 1
 ""Higany raktár
-+6 higanyt ad hetente egyszer""
++6 higanyt ad hetente egyszer.""
 
 142
 2
 ""Érc raktár
-+10 ércet ad hetente egyszer""
++10 ércet ad hetente egyszer.""
 
 142
 3
 ""Kénraktár
-+6 ként ad hetente egyszer""
++6 ként ad hetente egyszer.""
 
 142
 4
 ""Kristály raktár
-+6 kristályt ad hetente egyszer""
++6 kristályt ad hetente egyszer.""
 
 142
 5
 ""Drágakõ raktár
-+6 drágakövet ad hetente egyszer""
++6 drágakövet ad hetente egyszer.""
 
 142
 6
 ""Arany raktár
-+2000 aranyat ad hetente egyszer""
++2000 aranyat ad hetente egyszer.""
 
 144
 0
-""Temple of Loyalty
-Mixed faction morale penalty negated until next turn.""
+""A lojalitás temploma
+Eltávolít minden hangulati büntetést a következõ körig, amiért különféle frakcióból származó egységek vannak a látogató hõs seregében.""
 
 144
 1
-""Skeleton Transformer
-This allows you to convert any egység into a skeleton.""
+""Csontváz-átalakító
+Lehetõvé teszi, hogy bármely egységet csontvázzá alakíthassunk át, a sárkányokat pedig csontsárkányokká.""
 
 144
 2
-""Colosseum of the Magi
-Player's choice to add +2 to the visiting hero's Spell Power vagy Knowledge.""
+""A mágusok kolosszeuma
+Minden látogató hõsnek választási lehetõséget ad, hogy az elsõ látogatás alkalmával a varázserejét vagy a tudását növeli-e +2-vel. Nem lehet elhagyni a kolosszeumot anélkül, hogy elfogadnád valamelyik bónuszt.""
 
 144
 3
-""Watering Place
-+1000 Movement next day.
-Lose all current movement.""
+""Itató
++1000 mozgáspont a következõ napra.
+Lehetõvé teszi, hogy a látogató hõs elveszítse az összes aktuális mozgáspontját, cserébe +1000 mozgáspontot kap másnapra.""
 
 144
 4
-""Mineral Spring
-+1 Luck until next battle.
-+600 Adventure movement until the end of the day.""
+""Ásványforrás
++1 szerencse a következõ csatáig.
++600 mozgáspont a nap végéig. Az ásványforrás ugyanazon a napon újra meglátogatható a csata után, így bónusz mozgáspontokat halmozhatsz ugyanarról a forrásról.""
 
 144
 5
-""Hermit's Kunyhó
-Improves a véletlenszerû Secondary Skill of the visiting hero.""
+""Remetekunyhó
+Javítja a látogató hõs másodlagos képzettségét véletlenszerûen.""
 
 144
 6
-""Gazebo
-+2000 tapasztalati pont for 1000 Arany.""
+""Pavilon
+Látogatásakor +2000 tapasztalati pontot ad 1000 aranyért cserébe.""
 
 144
 7
-""Junkman
-Mûtárgyak except Varázstekercsek may be sold to Junkman (at the efficiency of 7 markets).""
+""Ószeres
+A varázstekercsek kivételével a mûtárgyak értékesíthetõk az Ószeres részére (7 piac hatékonyságával).""
 
 144
 8
@@ -8066,90 +8066,90 @@ Each subsequent week is set to give 1000 Arany.""
 
 144
 9
-""Warlock's Lab
-Allows exchanging Mercury, Sulfur, Crystal, and Gems in the ratio of one to one.""
+""Boszorkánymester laboratóriuma
+Lehetõvé teszi a higany, kén, kristály és drágakövek cseréjét egy-egy arányban.""
 
 144
 10
 ""Talajkutató
-- 50% chance to get 500 Arany.
-- 50% chance to get 5 Sulfur.
+- Látogatásakor 50% esély 500 arany megszerzésére.
+- Látogatásakor 50% esély 5 kén megszerzésére.
 
-Replenishes on Day 1 of each week.""
+Minden hét 1. napján feltöltõdik.""
 
 144
 11
-""Trailblazer
-Reduces wasteland movement penalty by 50% until the end of the week.""
+""Kalauz
+Ezen a helyen 50%-kal (125%-ról 75%-ra) csökkenthetõ a mozgásbüntetés a látogató hõs számára a hét hátralévõ részében.""
 
 145
 0
-""Ancient Lamp
-Allows you to recruit 4-7 Master Genie once.""
+""Õsi lámpás
+Lehetõvé teszi a hõs számára, hogy 4-7 mesterdzsinnt toborozzon. Amint az összes elérhetõ dzsinnt beszervezte, a lámpa eltûnik.""
 
 145
 1
 ""Tengeri hordó
-- 20% chance of getting nothing.
-- 80% chance of getting 3-6 Mercury, Sulfur, Crystal, vagy Gems.""
+- 20% esély arra, hogy semmit sem találunk.
+- 80% esély 3-6 higany, kén, kristály vagy drágakõ megszerzésére.""
 
 145
 2
 ""Rakomány
-- 25% chance of getting nothing.
-- 25% chance of getting 5 Ore.
-- 25% chance of getting 5 Ore and 200 Arany.
-- 25% chance of getting 10 Ore and 500 Arany.""
+- 25% esély arra, hogy semmit sem találunk.
+- 25% esély 5 érc megszerzésére.
+- 25% esély 5 érc és 200 arany megszerzésére.
+- 25% esély 10 érc és 500 arany megszerzésére.""
 
 145
 3
-""Vial of Mana
-Grants 30-60 spell points. If resulting amount of mana points is to exceed normal cap for the hero, only half the extra points will be granted.""
+""Mana fiola
+30-60 varázspontot ad. Ha az így kapott manapontok mennyisége meghaladja a hõs normál varázspontjainak felsõ határát, akkor csak az extra pontok fele kerül kiosztásra.""
 
 146
 0
-""Seafaring Academy
-Pay 2000g for studying vagy improving Secondary Skill of three taught. Navigation is always one of these three.""
+""Tengerészeti Akadémia
+Az akadémia három másodlagos készséget tanít, és a látogató hõsök készségenként 2000 aranyat fizethetnek, hogy elsajátítsák vagy javítsák annak szintjét. A navigáció mindig a felkínált készségek egyike.""
 
 146
 1
 ""Kilátótorony
-+2 scouting radius until the end of the week.""
++2 egység felderítési sugár a hét végéig.""
 
 146
 2
-""Altar of Mana
-Heroes may sacrifice egységek for spell points, up to 4x the normal cap.""
+""Mana oltár
+A hõsök feláldozhatnak egységeket varázspontokért, a normál felsõ határ négyszereséig.""
 
 146
 3
 ""Városkapu
-Allows visiting hero to teleport to any allied város.""
+Lehetõvé teszi a látogató hõs számára, hogy bármelyik szövetséges városba teleportáljon.""
 
 146
 4
 ""Õsi oltár
-Defeat 25 Áspis for A Mélység Kürtje.""
+Itt 25 Áspis fog harcolni ellened A Mélység Kürtje mûtárgyért cserébe. Ha a forgó kürt nem látható már, az azt jelenti, hogy az áspisokat már legyõzték, és a kürt eltûnt.""
 
 212
 1000
-""Quest Gate
-Usually placed at choke points, a hero must complete a quest in order to pass.  The quest must be completed each time the Quest Gate are passed, as they will not disappear after the first player visits it.""
+""Küldetésörzõ
+Általában egy ellenõrzõponton helyezik el, a hõsnek teljesítenie kell egy küldetést az áthaladáshoz. A küldetést minden egyes küldetésörzõn való áthaladáskor teljesíteni kell, mivel az elsõ játékos látogatása után nem tûnik el.""
 
 212
 1001
 ""Sír
-Digging gives 1500-4000 Arany, a véletlenszerû Kincs of Kisebb Mûtárgy, and -3 morale until the next battle.""
+Kiásva a sírt 1500-4000 arany, valamint véletlenszerû kincs/kisebb mûtárgy szerezhetõ itt. Viszont még kapunk ezért -3 hangulatot a következõ csatáig.""
 
 218
 9
 ""Véletlenszerû Cove egységek lakása
-At the start of the game, this object is replaced with a véletlenszerû Cove egységek lakása.""
+A játék kezdetén ezt a tárgyat egy véletlenszerû Cove egységek lakása váltja fel.""
 
 218
 10
 ""Véletlenszerû Factory egységek lakása
-At the start of the game, this object is replaced with a véletlenszerû Factory egységek lakása.""
+A játék kezdetén ezt a tárgyat egy véletlenszerû Factory egységek lakása váltja fel.""
 "
 Text 8: ""
 Has FilS: "false"
@@ -8196,43 +8196,43 @@ Text 7: "# További tárgyak az RMG számára
 142 5 2500 25 -1 1 # Drágakõ raktár
 142 6 6000 15 -1 1 # Arany raktár
 
-35 1 7000 20 -1 -1 # Mini-Hillfort
+35 1 7000 20 -1 -1 # Apró hegyi erõd
 
 58 1 750 100 -1 -1 # Világítótorony
 
-88 3 7000 100 32 1 # 4 level Shrine
+88 3 7000 100 32 1 # 4 szintû szentély
 
 106 1 3000 25 -1 -1 # Ágyúudvar
 
-144 0 100 20 -1 1 # Temple of Loyality
-144 1 500 15 -1 1 # Skeleton Transformer
+144 0 100 20 -1 1 # A lojalitás temploma
+144 1 500 15 -1 1 # Csontváz-átalakító
 
 145 1 500 400 -1 -1 # Tengeri hordó
 145 2 500 600 -1 -1 # Rakomány
-145 3 3000 50 -1 -1 # Vial of mana
+145 3 3000 50 -1 -1 # Mana fiola
 
-146 0 8000 20 -1 1 # Navigációs akadémia
+146 0 8000 20 -1 1 # Tengerészeti Akadémia
 146 1 500 20 -1 1 # Kilátótorony
 146 2 100 20 -1 1 # Mana oltár
 
-144 2 3000 50 32 -1 # Varázslók colosseuma
-144 3 500 50 -1 1 # Öntözõnyílás
+144 2 3000 50 32 -1 # A mágusok kolosszeuma
+144 3 500 50 -1 1 # Itató
 146 3 10000 20 -1 1 # Városkapu
 
 144 4 500 50 -1 1 # Ásványi forrás
 144 5 1500 80 32 1 # Remetekunyhó
-144 6 1500 50 32 -1 # Alkóv
+144 6 1500 50 32 -1 # Pavilon
 144 7 200 40 -1 1 # Ószeres
 
 144 8 750 30 -1 -1 # Fúrótorony
 144 9 10000 100 -1 1 # Boszorkánymester laboratóriuma
-144 10 500 30 -1 -1 # Kutató
+144 10 500 30 -1 -1 # Talajkutató
 144 11 200 40 -1 1 # Kalauz
 212 1001 500 30 -1 -1 # Tömegsír
 "
 Text 8: "{Mágikus misztérium szentélye}
 
-You come across an ancient shrine attended by a group of ascetic hermits. In exchange for your protection, they agree to teach you a spell - "
+Egy õsi szentélyre bukkansz, amelyet aszketikus remeték egy csoportja szokott látogatni. A védelmedért cserébe beleegyeznek, hogy megtanítanak egy varázslatra -"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -8269,7 +8269,7 @@ Text 7: "# Type Subtype Value Density Max_map Max_zone
 16 25 1500 100 -1 -1 # Betlehem
 16 28 7000 100 -1 -1 # Elefántcsonttorony
 
-145 0 5000 200 -1 -1 # Õsi lámpa
+145 0 5000 200 -1 -1 # Õsi lámpás
 
 146 4 20000 20 -1 1 # Õsi oltár"
 Text 8: ""
@@ -8292,9 +8292,9 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Names
+Text 7: "# Nevek
 # 0 (212, 1000)
-Quest Gate
+Küldetésörzõ
 # 1 (36, 1000-1003)
 Harci helyszín
 # 2 (212, 1001)
@@ -8303,12 +8303,12 @@ Sír
 Léghajó
 # 4 (62, 1)
 Hõs tábor"
-Text 8: "# Texts
+Text 8: "# Szövegek
 # 0 (212, 1001, Sír)
-This tomb is fresh, and even the shovel someone dug it with hasn't been stolen yet. You take up the latter, cover your nose with a handkerchief, and manage to extract something valuable from the ground.
+Ez a sír frissen van hantolva, és még az ásót sem lopták el, amivel valaki kiásta. Felkapod az ásót, zsebkendõvel eltakarod az orrod, és sikerül valami értékeset kihúznod a földbõl.
 # 1 (212, 1001, Sír)
 ""
-Sír Digging -3"""
+Sír ásása -3"""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -8371,7 +8371,7 @@ Béka
 Békáks
 Csirke
 Kakas
-Tengeri Hínár
+Tengeri hínár
 Összeomlott tábor
 Összeomlott szökõkút
 Sertés
@@ -8380,7 +8380,7 @@ Elhagyott hajó
 Kerítés
 Vízesések
 Tûz
-Összeomlott Épület
+Összeomlott épület
 Húsevõ virág
 Híd
 Csont
@@ -8421,7 +8421,7 @@ Text 7: "# Háttérhang szám | Típus (-1 - nem, 0 - elhalt növény, 1 - domb, 2 - n
 -1 1 1 #5 Havas dombok
 -1 1 1 # 6 Dûnék
 -1 2 1 # 7 Lucfenyõ
--1 -1 1 #8 Mészkõ-tó
+-1 -1 1 #8 Mészkõ tó
 -1 -1 1 #9 Fal
 -1 -1 0 #10 Létra
 -1 2 1 #11 Húsevõ növények
@@ -8435,7 +8435,7 @@ Kõhalom
 Havas hegyek
 Barkán dûnék
 Lucfenyõ
-Mészkõ Tó
+Mészkõ tó
 Fal
 Lépcsõ
 Húsevõ növények
@@ -8475,7 +8475,7 @@ Nix erõd
 Borászat
 Zikkurat
 Sörcsarnok
-Félszerzet Hut
+Félszerzet kunyhó
 Öntöde
 Tanya
 Gyár
@@ -8498,7 +8498,7 @@ Text 8: "-1 -1 # 88 Not Used
 167 57 # 100 Borászat
 168 74 # 101 Zikkurat
 169 54 # 102 Sörcsarnok
-138 112 # 103 Félszerzet Hut
+138 112 # 103 Félszerzet kunyhó
 172 101 # 104 Öntöde
 174 106 # 105 Tanya
 176 12 # 106 Gyár
@@ -8572,7 +8572,7 @@ LOOPCOTL.wav
 LOOPGUNS.wav"
 Text 8: "{Háttér hangok}
 
-If turned off then sound at the beginning of new day, at the start of battle and map object sounds are not played."
+Ha ki van kapcsolva, akkor az új nap kezdete, a csata kezdete és a térkép tárgyak hangjai nem szólalnak meg."
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -8586,7 +8586,7 @@ Name: "monanim0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Press ESC to skip pre-battle music"
+Text 1: "Nyomja meg az ESC gombot a csata elõtti zene kihagyásához"
 Text 2: "%sdeth.82M"
 Text 3: ""
 Text 4: ""
@@ -8764,7 +8764,7 @@ Text 7: "# Stay anim frame period|Fidget anim frame period|Stay&fidget anim véle
 140 100 200 1 -1 # Polipfej
 180 110 200 1 -1 # Kobold
 100 100 200 1 -1 # Acél gólem
-110 100 200 1 95 # Gránátos Félszerzet
+110 100 200 1 95 # Gránátos félszerzet
 180 100 200 1 -1 # Szerelõ
 180 100 200 1 -1 # Mérnök
 140 85 200 1 -1 # Tatu
@@ -9005,7 +9005,7 @@ Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Polipfej
 1.00	1.20	2.50	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Kobold
 1.00	1.20	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Acél gólem
-1.00	1.40	1.50	1.00	32	-77	36	-36	18	-55	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	10	Gránátos Félszerzet
+1.00	1.40	1.50	1.00	32	-77	36	-36	18	-55	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	10	Gránátos félszerzet
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Szerelõ
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mérnök
 1.00	1.30	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Tatu
@@ -9035,48 +9035,48 @@ Name: "monabil0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "%s gets enraged from the wounds! %s: +%d%% to Sérülés."
-Text 2: "1 %s was killed with an accurate shot!"
-Text 3: "%d %s units were killed by accurate shots!"
-Text 4: "Smelling blood, %s inflicts an extra blow!"
-Text 5: "Smelling blood, %s inflict an extra blow!"
-Text 6: "Facing %s -2"
-Text 7: "Battle machine. Shoots. Attacks siege walls.
-Shoots. No melee penalty. No enemy retaliation. Accurate Shot.
-Shoots. No Range vagy Barrier penalties. Unlimited ammunition. Ignores target's defense.
+Text 1: "%s egység feldühödik a szerzett sebeitõl! %s: +%d%% sérüléspontot javít."
+Text 2: "1 %s egységet megöltek egy pontos lövéssel!"
+Text 3: "%d %s egységet pontos lövéssel öltek meg!"
+Text 4: "Vérszagot érezve %s egység extra csapást mér rá!"
+Text 5: "Vérszagot érezve %s egység extra csapást mér rá!"
+Text 6: "Szembenézve %s egységgel -2"
+Text 7: "Harci gép. Lõ. Támadja az ostromfalakat.
+Lõ. Nincs közelharci büntetés. Nincs ellenséges megtorlás. Pontos lövés.
+Lõ. Nincs távolság vagy gát büntetés. Korlátlan lõszer. Figyelmen kívül hagyja a célpont védelmét.
 Teleportálás képessége. Immunis a jégre.
 Teleportálás képessége. Immunis a jégre.
  
  
-Shoots. No melee penalty.
-Shoots. No melee penalty. No enemy retaliation.
-Flies.
-Flies. Ferocity.
-Shoots. Casts after a shot (Basic level).
-Shoots. Casts after a shot (Advanced level).
-Ignores 30% of enemy's attack skill.
-Ignores 60% of enemy's attack skill.
-Poisonous.
-Poisonous. Revenge.
-Casts Mirth.
-Flies. Mind spell immunity. Unlimited retaliations. Hypnotize.
-Doubles friendly unit Luck chance. Casts Fortune.
-Golem. Sérülés from spells reduced by 80%.
-Shoots. Positive luck. Ranged attack ignores 20% of enemy's defense skill.
-Breath attack. Repairs Szerelõ creatures   (10 hit points per Szerelõ).
-Breath attack. Repairs Szerelõ creatures   (20 hit points per Mérnök).
+Lövések. Nincs közelharci büntetés.
+Lövések. Nincs közelharci büntetés. Nincs ellenséges megtorlás.
+Repülés.
+Repülés. Vadság.
+Lövések. Lövés után dob (alapszint).
+Lõ. Lövés után dob (haladó szint).
+Figyelmen kívül hagyja az ellenség támadó képességének 30%-át.
+Figyelmen kívül hagyja az ellenség támadó képességének 60%-át.
+Mérgezõ.
+Mérgezõ. Visszavágás.
+Bánatot okoz.
+Repülés. Elme varázslat immunitás. Korlátlan megtorlás. Hipnotizálás.
+Megduplázza a baráti egység szerencse esélyét. Szerencsét hoz.
+Gólem. A varázslatoktól származó Sérülés 80%-kal csökken.
+Pozitív szerencsével lõ. Távolsági támadás figyelmen kívül hagyja az ellenség védelmi képességének 20%-át.
+Légzéses támadása. Javítja a Szerelõ lényeket (10 találatpont Szerelõnként).
+Légzéses támadása. Javítja a Szerelõ lényeket (20 találatpont Mérnökenként).
  
  
-Szerelõ. Detonation at death.
-Szerelõ. No enemy retaliation. Detonation at death.
-Moves underground. Immune to Blind and Stone Gaze.
-Moves underground. Immune to Blind and Stone Gaze. Devours corpses for additional strikes.
-Shoots. Preemptive shot (once per round).
-Shoots. Preemptive shot (unlimited).
-Flies. Skips a turn to get temporary invulnerability.
-Flies. Gets temporary invulnerability without skipping a turn.
-Szerelõ. Can attack with a Heat Stroke instead of moving.
-Szerelõ. Can attack with a Heat Stroke instead of moving."
+Megjavítható. Detonáció a halál beálltával.
+Megjavítható. Nincs ellenséges megtorlás. Detonáció a halál beálltával.
+A föld alatt mozog. Immunis a vakításra és a kõvé dermesztésre.
+A föld alatt mozog. Immunis a vakításra és a kõvé dermesztésre. Felfalja a holttesteket további csapások lehetõségéért.
+Lõ. Megelõzõ lövés (körönként egyszer).
+Lõ. Megelõzõ lövés (korlátlan).
+Repül. Kihagy egy kört, hogy ideiglenes sebezhetetlenséget kapjon.
+Repül. Ideiglenes sebezhetetlenséget kap anélkül, hogy kihagyna egy fordulót.
+Megjavítható. Támadhat hõgutával ahelyett, hogy mozogna.
+Megjavítható. Támadhat hõgutával ahelyett, hogy mozogna."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -9276,42 +9276,42 @@ CmBkHlMt0.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx"
-Text 8: "dirt Korhadt Fa
-dirt hills
-dirt növények
-sand Korhadt Fa
-sand hills
-sand növények
-grass Korhadt Fa
-grass hills
-grass növények
-snow Korhadt Fa
-snow hills
-snow növények
-swamp Korhadt Fa
-swamp hills
-swamp növények
-rough Korhadt Fa
-rough hills
-rough növények
-subterr Korhadt Fa
-subterr hills
-subterr növények
-lava Korhadt Fa
-lava hills
-lava növények
-water Korhadt Fa
-water hills
-water növények
-rock Korhadt Fa
-rock hills
-rock növények
-highlands Korhadt Fa
-highlands hills
-highlands növények
-wasteland Korhadt Fa
-wasteland hills
-wasteland növények"
+Text 8: "Saras korhadt fás
+Saras hegyvidéki
+Saras növények
+Sivatagi korhadt fás
+Sivatagi hegyvidéki
+Sivatagi növények
+Füves korhadt fás
+Füves hegyvidéki
+Füves növények
+Havas korhadt fás
+Havas hegyvidéki
+Havas növények
+Mocsaras korhadt fás
+Mocsaras hegyvidéki
+Mocsaras növények
+Göröngyös korhadt fás
+Göröngyös hegyvidéki
+Göröngyös növények
+Földalatti korhadt fás
+Földalatti hegyvidéki
+Földalatti növények
+Lávás korhadt fás
+Lávás hegyvidéki
+Lávás növények
+Vizes korhadt fás
+Vizes hegyvidéki
+Vizes növények
+Sziklás korhadt fás
+Sziklás hegyvidéki
+Sziklás növények
+Felföld korhadt fás
+Felföld hegyvidéki
+Felföld növények
+Pusztaság korhadt fás
+Pusztaság hegyvidéki
+Pusztaság növények"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -9367,42 +9367,42 @@ CmBkHlMt0.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx
 CmBkWstP.pcx"
-Text 8: "dirt Korhadt Fa undeground
-dirt hills undeground
-dirt növények undeground
-sand Korhadt Fa undeground
-sand hills undeground
-sand növények undeground
-grass Korhadt Fa undeground
-grass hills undeground
-grass növények undeground
-snow Korhadt Fa undeground
-snow hills undeground
-snow növények undeground
-swamp Korhadt Fa undeground
-swamp hills undeground
-swamp növények undeground
-rough Korhadt Fa undeground
-rough hills undeground
-rough növények undeground
-subterr Korhadt Fa undeground
-subterr hills undeground
-subterr növények undeground
-lava Korhadt Fa undeground
-lava hills undeground
-lava növények undeground
-water Korhadt Fa undeground
-water hills undeground
-water növények undeground
-rock Korhadt Fa undeground
-rock hills undeground
-rock növények undeground
-highlands Korhadt Fa undeground
-highlands hills undeground
-highlands növények undeground
-wasteland Korhadt Fa undeground
-wasteland hills undeground
-wasteland növények undeground"
+Text 8: "Saras korhadt fás földalatti
+Saras hegyvidéki földalatti
+Saras növények földalatti
+Sivatagi korhadt fás földalatti
+Sivatagi hegyvidéki földalatti
+Sivatagi növények földalatti
+Füves korhadt fás földalatti
+Füves hegyvidéki földalatti
+Füves növények földalatti
+Havas korhadt fás földalatti
+Havas hegyvidéki földalatti
+Havas növények földalatti
+Mocsaras korhadt fás földalatti
+Mocsaras hegyvidéki földalatti
+Mocsaras növények földalatti
+Göröngyös korhadt fás földalatti
+Göröngyös hegyvidéki földalatti
+Göröngyös növények földalatti
+Földalatti korhadt fás földalatti
+Földalatti hegyvidéki földalatti
+Földalatti növények földalatti
+Lávás korhadt fás földalatti
+Lávás hegyvidéki földalatti
+Lávás növények földalatti
+Vizes korhadt fás földalatti
+Vizes hegyvidéki földalatti
+Vizes növények földalatti
+Sziklás korhadt fás földalatti
+Sziklás hegyvidéki földalatti
+Sziklás növények földalatti
+Felföld korhadt fás földalatti
+Felföld hegyvidéki földalatti
+Felföld növények földalatti
+Pusztaság korhadt fás földalatti
+Pusztaság hegyvidéki földalatti
+Pusztaság növények földalatti"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -9416,7 +9416,7 @@ Name: "twowaymonol0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# Text 2 is Tengeri Portál ids. Text 3 is ground Portál ids (as opposed to ground Monolitok)"
+Text 1: "# A 2. szöveg a Tengeri Portál azonosítói. A 3. szöveg a földi portálazonosítók (szemben a földi monolitokkal)"
 Text 2: "8 21 22 23 24"
 Text 3: "4 5 6 7 13 14 15 16 19 20"
 Text 4: ""
@@ -9485,13 +9485,13 @@ Name: "onewaymonol0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# Text 2 is Tengeri Portál ids. Text 3 is ground Portál ids (as opposed to ground Monolitok)"
+Text 1: "# A 2. szöveg a Tengeri Portál azonosítói. A 3. szöveg a földi portálazonosítók (szemben a földi monolitokkal)"
 Text 2: ""
 Text 3: "4 5 6 7"
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Blue
+Text 7: "Kék
 Rózsaszín
 Narancs
 Sárga
@@ -9604,42 +9604,42 @@ Text 6: ""
 Text 7: "HotA ververzió: %s%s"
 Text 8: "11 # x
 524 # y
-334 # width
-16 # height
-8 # color
-0 # alignment
+334 # szélesség
+16 # magasság
+8 # szín
+0 # igazítás
 -1 # not used
-524 # y - with test features
+524 # y - tesztfunkciókkal
 
-# x y width height
+# x y szélesség magasság
 
-# Main menu buttons
-562 34 174 106 # New game
-556 144 186 107 # Load game
-554 263 189 94 # High Score
-579 358 140 113 # Credits
-600 471 98 98 # Exit
+# Fõmenü gombok
+562 34 174 106 # Új játék
+556 144 186 107 # Játék betöltése
+554 263 189 94 # Ranglisták
+579 358 140 113 # Alkotók
+600 471 98 98 # Kilépés
 
-# New/Load game menu buttons
-569 24 160 115 # Single player
-585 140 128 111 # Multiplayer
-566 250 166 105 # Campaign
-567 368 164 99 # Tutorial
-600 471 98 98 # Back
+# Új/Betöltés játék menü gombok
+569 24 160 115 # Egyszemélyes küldetés
+585 140 128 111 # Több játékos
+566 250 166 105 # Hadjárat
+567 368 164 99 # Oktatás
+600 471 98 98 # Vissza
 
-# Campaign buttons
+# Hadjárat gombok
 390 19 156 114 # SoD
 541 129 216 123 # RoE
 528 252 242 122 # AB
-581 367 136 100 # Custom
-600 471 98 98 # Back
+581 367 136 100 # Egyéni
+600 471 98 98 # Vissza
 566 35 166 95 # HotA
 
-# Map select dialog
-0 # ""Allies"" text x shift
+# Térkép kiválasztása párbeszédpanel
+0 # ""Szövetséges"" szöveg x shift
 
-# Campaign select dialog
-0 # ""Allies"" text x shift"
+# Hadjárat kiválasztása párbeszédpanel
+0 # ""Szövetséges"" text x shift"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -9687,106 +9687,106 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Conflux rumors
-Phoenixes are the most powerful creature of the Confluxes.
-Phoenixes are the most powerful creature of the Confluxes.
-I've heard the residents of the Conflux will summon an Aurora Borealis to honor any hero who brings them Grál.
-I've heard the residents of the Conflux will summon an Aurora Borealis to honor any hero who brings them Grál.
+Text 7: "# Conflux pletykák
+A fõnixek a Confluxok legerõsebb teremtményei.
+A fõnixek a Confluxok legerõsebb teremtményei.
+Úgy hallottam, hogy a Conflux lakói megidéznek egy Sarki fényt, hogy tisztelegjenek minden hõs elõtt, aki a Grált elhozza nekik.
+Úgy hallottam, hogy a Conflux lakói megidéznek egy Sarki fényt, hogy tisztelegjenek minden hõs elõtt, aki a Grált elhozza nekik.
 
 Tündérek olyan gyorsak, hogy senki sem remélheti, hogy megtorolhatja õket.
 Tündérek olyan gyorsak, hogy senki sem remélheti, hogy megtorolhatja õket.
-The most powerful Elementals can protect their allies from their very element.
-The most powerful Elementals can protect their allies from their very element.
-Those who fought Magic Elementals say magic cannot do them harm.
-Those who fought Magic Elementals say magic cannot do them harm.
-It is said some spells are more effective against Elementals than other ones.
-It is said some spells are more effective against Elementals than other ones.
-Phoenixes are not the most powerful creatures, but they are the only ones who can rise from the ashes.
-Phoenixes are not the most powerful creatures, but they are the only ones who can rise from the ashes.
-Psychic and Magic Elementals are capable of fighting with a plenty of foes at once.
-Psychic and Magic Elementals are capable of fighting with a plenty of foes at once.
-The attacks of Elementals are particularly dangerous for the Elementals belonging to the opposite element.
-The attacks of Elementals are particularly dangerous for the Elementals belonging to the opposite element.
+A legerõsebb Elementálok megvédhetik szövetségeseiket saját elemüktõl.
+A legerõsebb Elementálok megvédhetik szövetségeseiket saját elemüktõl.
+Akik harcoltak varázslat elementálokkal, azt mondják, a mágia nem tud ártani nekik.
+Akik harcoltak varázslat elementálokkal, azt mondják, a mágia nem tud ártani nekik.
+Azt mondják, egyes varázslatok hatékonyabbak az Elementálok ellen, mint mások.
+Azt mondják, egyes varázslatok hatékonyabbak az Elementálok ellen, mint mások.
+A Fõnixek nem a legerõsebb lények, de õk az egyetlenek, akik képesek feltámadni a hamvaiból.
+A Fõnixek nem a legerõsebb lények, de õk az egyetlenek, akik képesek feltámadni a hamvaiból.
+A lélek és varázslat elementálok egyszerre rengeteg ellenféllel képesek megküzdeni.
+A lélek és varázslat elementálok egyszerre rengeteg ellenféllel képesek megküzdeni.
+Az elementálok támadásai különösen veszélyesek az ellenkezõ elemhez tartozó elementálokra.
+Az elementálok támadásai különösen veszélyesek az ellenkezõ elemhez tartozó elementálokra.
 
-It can be hard to find teachers who are able to teach you elemental magic, but in the University of Conflux you can learn the magic of any element.
-It can be hard to find teachers who are able to teach you elemental magic, but in the University of Conflux you can learn the magic of any element.
+Nehéz lehet olyan tanárokat találni, akik képesek megtanítani az elemi mágiákat, de a Conflux Egyetemen bármilyen elem mágiáját megtanulhatod.
+Nehéz lehet olyan tanárokat találni, akik képesek megtanítani az elemi mágiákat, de a Conflux Egyetemen bármilyen elem mágiáját megtanulhatod.
 
-Traveling the highlands, remember about the Hermits living there. It is said they can teach to striding heroes many things.
-Traveling the highlands, remember about the Hermits living there. It is said they can teach to striding heroes many things.
+A felföldet járva, emlékezz meg az ott élõ remetékrõl, látogass el hozzájuk. Azt mondják, sok mindenre megtaníthatják a hõsöket.
+A felföldet járva, emlékezz meg az ott élõ remetékrõl, látogass el hozzájuk. Azt mondják, sok mindenre megtaníthatják a hõsöket.
 
-The Conflux Elementals obey to the four Elemental Lords.
-The Conflux Elementals obey to the four Elemental Lords.
-I have heard many centuries ago Elementals invaded the lands of Erathia.
-I have heard many centuries ago Elementals invaded the lands of Erathia.
+A Conflux elementálok engedelmeskednek a négy elementál úrnak.
+A Conflux elementálok engedelmeskednek a négy elementál úrnak.
+Hallottam, hogy sok évszázaddal ezelõtt elementálok szállták meg Erathia földjeit.
+Hallottam, hogy sok évszázaddal ezelõtt elementálok szállták meg Erathia földjeit.
 
-# Cove rumors
-Áspis are the most powerful egység of the Coves.
-Áspis are the most powerful egység of the Coves.
-I've heard the residents of the Cove will light a Lodestar to honor any hero who brings them Grál.
-I've heard the residents of the Cove will light a Lodestar to honor any hero who brings them Grál.
+# Cove pletykák
+Az Áspis a Coves legerõsebb egysége.
+Az Áspis a Coves legerõsebb egysége.
+Úgy hallottam, hogy az Cove lakói vezércsillagot gyújtanak minden olyan hõs tiszteletére, aki a Grált elhozza nekik.
+Úgy hallottam, hogy az Cove lakói vezércsillagot gyújtanak minden olyan hõs tiszteletére, aki a Grált elhozza nekik.
 
-It is said the Nimfa can move through any obstacles.
-It is said the Nimfa can move through any obstacles.
-Ice spells can do no harm to the Ókeanisz.
-Ice spells can do no harm to the Ókeanisz.
-Privatér is not the end of what a true Kalóz can achieve!
-Privatér is not the end of what a true Kalóz can achieve!
-Tengeri medve are accurate shooters. They can slay even a Dragon with one shot.
-Tengeri medve are accurate shooters. They can slay even a Dragon with one shot.
-Ayssid are dangerous creatures. Once they feel the taste of blood, they cannot stop.
-Ayssid are dangerous creatures. Once they feel the taste of blood, they cannot stop.
-Boszorkány often cast weakening spells in battle.
-Boszorkány often cast weakening spells in battle.
-Nix have excellent armor.
-Nix have excellent armor.
-It is said gravely wounded Áspis can be extremely dangerous.
-It is said gravely wounded Áspis can be extremely dangerous.
+Azt mondják, hogy a Nimfák bármilyen akadályon át tudnak haladni.
+Azt mondják, hogy a Nimfák bármilyen akadályon át tudnak haladni.
+A jégvarázslatok nem árthatnak az Ókeanisoknak.
+A jégvarázslatok nem árthatnak az Ókeanisoknak.
+A Privatér nem a vége annak, amit egy igazi Kalóz elérhet!
+A Privatér nem a vége annak, amit egy igazi Kalóz elérhet!
+Tengeri medvék pontos lövészek. Egy lövéssel akár egy sárkányt is megölhetnek.
+Tengeri medvék pontos lövészek. Egy lövéssel akár egy sárkányt is megölhetnek.
+Az Ayssidok veszélyes lények. Ha egyszer megérzik a vér ízét, nem tudnak leállni.
+Az Ayssidok veszélyes lények. Ha egyszer megérzik a vér ízét, nem tudnak leállni.
+A Boszorkányok gyakran alkalmaznak gyengítõ varázslatokat a csatában.
+A Boszorkányok gyakran alkalmaznak gyengítõ varázslatokat a csatában.
+A Nixeknek kiváló páncélzatuk van.
+A Nixeknek kiváló páncélzatuk van.
+Azt mondják, a súlyosan sebesült Áspisok rendkívül veszélyesek.
+Azt mondják, a súlyosan sebesült Áspisok rendkívül veszélyesek.
 
-One Kalóz was trying to convince me that he knows a formula of a secret powder that allows giant Ágyú balls to fly up from a single spark!
-One Kalóz was trying to convince me that he knows a formula of a secret powder that allows giant Ágyú balls to fly up from a single spark!
-They say that the Thieves Guild is cooperating with the Kalóz.
-They say that the Thieves Guild is cooperating with the Kalóz.
-They say that the lodestars are seen best from the maritime cities.
-They say that the lodestars are seen best from the maritime cities.
+Egy Kalóz próbál meggyõzni arról, hogy ismeri egy titkos por képletét, amely lehetõvé teszi, hogy egyetlen szikrából óriási ágyúgolyók szálljanak el!
+Egy Kalóz próbál meggyõzni arról, hogy ismeri egy titkos por képletét, amely lehetõvé teszi, hogy egyetlen szikrából óriási ágyúgolyók szálljanak el!
+Azt mondják, hogy a Tolvajok Céhe együttmûködik a Kalózokkal.
+Azt mondják, hogy a Tolvajok Céhe együttmûködik a Kalózokkal.
+Azt mondják, hogy a vezércsillagokat a tengeri városokból lehet a legjobban látni.
+Azt mondják, hogy a vezércsillagokat a tengeri városokból lehet a legjobban látni.
 
-They say that Tengeri kígyó have awakened from the depths and emerged on the lands. They crush everything in their way.
-They say that Tengeri kígyó have awakened from the depths and emerged on the lands. They crush everything in their way.
-Black-sailed ships are being traded in the shore-side Coves.
-Black-sailed ships are being traded in the shore-side Coves.
-Deep in the seas, on the very bottom, a mysterious Horn lies still. It will give you unmatched power.
-Deep in the seas, on the very bottom, a mysterious Horn lies still. It will give you unmatched power.
+Azt mondják, hogy a Tengeri kígyók felébredtek a mélységekbõl és megjelentek a földeken. Mindent eltipornak, ami az útjukba kerül.
+Azt mondják, hogy a Tengeri kígyók felébredtek a mélységekbõl és megjelentek a földeken. Mindent eltipornak, ami az útjukba kerül.
+Fekete vitorlájú hajókkal kereskednek a part menti öblökben.
+Fekete vitorlájú hajókkal kereskednek a part menti öblökben.
+A tengerek mélyén, a legmélyén, egy titokzatos Kürt nyugszik. Páratlan hatalmat adhatna neked.
+A tengerek mélyén, a legmélyén, egy titokzatos Kürt nyugszik. Páratlan hatalmat adhatna neked.
 
-# Factory rumors
-Tollaskígyó and Rettenthetetlen are the most powerful creatures of the Factories.
-Tollaskígyó and Rettenthetetlen are the most powerful creatures of the Factories.
-I've heard the residents of the Factory will build a Villámhárító to honor any hero who brings them Grál.
-I've heard the residents of the Factory will build a Villámhárító to honor any hero who brings them Grál.
+# Factory pletykák
+A Tollaskígyó és a Rettenthetetlen a Factory legerõsebb teremtményei.
+A Tollaskígyó és a Rettenthetetlen a Factory legerõsebb teremtményei.
+Úgy hallottam, hogy a Factory lakói villámhárítót építenek minden hõs tiszteletére, aki a Grált elhozza nekik.
+Úgy hallottam, hogy a Factory lakói villámhárítót építenek minden hõs tiszteletére, aki a Grált elhozza nekik.
 
-I've heard the bombs thrown by Félszerzet can break through any armor.
-I've heard the bombs thrown by Félszerzet can break through any armor.
-Szerelõ can rebuild Robot and Rettenthetetlen even from scrap!
-Szerelõ can rebuild Robot and Rettenthetetlen even from scrap!
-Some Robot defeated in battle explode!
-Some Robot defeated in battle explode!
-Mongol halálféreg devour the corpses of those fallen in battle.
-Mongol halálféreg devour the corpses of those fallen in battle.
-Fejvadász always shoot first.
-Fejvadász always shoot first.
-Tollaskígyó may enter into meditation state becoming invulnerable but only few of them can attack in this state.
-Tollaskígyó may enter into meditation state becoming invulnerable but only few of them can attack in this state.
-The heat stroke of a Rettenthetetlen can strike multiple enemies.
-The heat stroke of a Rettenthetetlen can strike multiple enemies.
+Úgy hallottam, hogy a Félszerzetek által dobott bombák bármilyen páncélt képesek áttörni.
+Úgy hallottam, hogy a Félszerzetek által dobott bombák bármilyen páncélt képesek áttörni.
+A Szerelõ a Robotot és a Rettenthetetlent akár törmelékbõl is képes újraépíteni, megjavítani!
+A Szerelõ a Robotot és a Rettenthetetlent akár törmelékbõl is képes újraépíteni, megjavítani!
+Néhány csatában a legyõzött Robot néha felrobban magától!
+Néhány csatában a legyõzött Robot néha felrobban magától!
+A mongol halálféreg felfalja a csatában elesettek holttestét.
+A mongol halálféreg felfalja a csatában elesettek holttestét.
+A Fejvadászok mindig elsõként lõnek.
+A Fejvadászok mindig elsõként lõnek.
+A Tollaskígyó meditációs állapotba léphet, sebezhetetlenné válva ezzel, de csak kevesen támadhatnak ebben az állapotukban.
+A Tollaskígyó meditációs állapotba léphet, sebezhetetlenné válva ezzel, de csak kevesen támadhatnak ebben az állapotukban.
+A Rettenthetetlen hõguta rohamával több ellenséget is képes megtámadni.
+A Rettenthetetlen hõguta rohamával több ellenséget is képes megtámadni.
 
-In a Bank you can take a good amount of Arany in your hands, but then you will have to repay it.
-In a Bank you can take a good amount of Arany in your hands, but then you will have to repay it.
+Egy bizonyos bankban megfelelõ mennyiségû aranyat vehetsz a kezedbe, de aztán vissza kell részletekben fizetned.
+Egy bizonyos bankban megfelelõ mennyiségû aranyat vehetsz a kezedbe, de aztán vissza kell részletekben fizetned.
 
-A journey through wastelands is enduring and dangerous. Search for the Trailblazers who can help you discover the way through this terrain.
-A journey through wastelands is enduring and dangerous. Search for the Trailblazers who can help you discover the way through this terrain.
+A pusztaságon át vezetõ úthoz kitartónak kell lenni, és egy ilyen út bizony veszélyes. Keress kalauzt, aki segíthet felfedezni az utat ezen a terepen.
+A pusztaságon át vezetõ úthoz kitartónak kell lenni, és egy ilyen út bizony veszélyes. Keress kalauzt, aki segíthet felfedezni az utat ezen a terepen.
 
-Félszerzet found their new home in the lands of Jadame.
-Félszerzet found their new home in the lands of Jadame.
-They say some warlocks of Archibald Ironfist became Irányítók.
-They say some warlocks of Archibald Ironfist became Irányítók."
+A félszerzetek új otthonra találtak Jadame földjén.
+A félszerzetek új otthonra találtak Jadame földjén.
+Azt mondják, hogy Archibald Ironfist néhány boszorkánymestere irányító lett.
+Azt mondják, hogy Archibald Ironfist néhány boszorkánymestere irányító lett."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -9824,7 +9824,7 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Világítótorony"
 Text 2: "Lighthouse.wav"
-Text 3: "From the top of the Kilátótorony you are able to see distant lands."
+Text 3: "A Kilátótorony tetejérõl messzi tájakra lehet látni."
 Text 4: ""
 Text 5: ""
 Text 6: ""
@@ -10034,7 +10034,7 @@ Path: "Castles\casbattle10.str"
 Texts count: "9"
 Text 0: ""
 Text 1: "SGCVBACK.PCX"
-Text 2: "Ditch"
+Text 2: "Árok"
 Text 3: ""
 Text 4: ""
 Text 5: ""
@@ -10103,10 +10103,10 @@ Name: "caspuzzle10"
 Path: "Castles\caspuzzle10.str"
 Texts count: "9"
 Text 0: ""
-Text 1: "Eliminate all Egységek on the map."
-Text 2: "Survive by %d hó, %d hét, %d nap."
-Text 3: "You have defeated all of the Egységek plaguing this land!"
-Text 4: "You have managed to survive!"
+Text 1: "Semmisítsd meg az összes egységet a térképen."
+Text 2: "Túlélni %d hó, %d hét, %d napig."
+Text 3: "Legyõzted az összes egységet, amely ezt a földet sanyargatta!"
+Text 4: "Sikerült túlélned!"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -10501,7 +10501,7 @@ Text 4: "AVCfacE0.DEF"
 Text 5: "AVCfacX0.DEF"
 Text 6: "AVCfacZ0.def"
 Text 7: "FactoryTown"
-Text 8: "The Blacksmith provides your armies with Muníciós szekér."
+Text 8: "A kovács ellátja seregeidet muníciós szekérrel."
 Has FilS: "true"
 FilS size: 352
 FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 21 48 01 00 00 00 00 00 a1 5b 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 80 00 00 40 01 00 00 00 80 00 00 40 81 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 40 01 c0 0a 00 00 00 80 c0 41 c0 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 00 00 40 00 00 00 00 80 00 00 40 00 00 00 00 80 00 01 c0 00 00 00 00 80 00 00 40 01 00 00 00 80 00 01 c0 02 00 00 00 81 00 00 40 05 00 00 00 80 08 00 40 00 00 00 00 80 00 01 c0 00 00 00 00 80 00 00 40 01 00 00 00 80 00 01 c0 02 00 00 00 81 00 00 40 05 00 00 00 80 40 01 c0 0a 00 00 00 83 00 00 40 15 00 00 00"
@@ -11068,47 +11068,47 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Precise guard stack setup
+Text 7: "# Precíz védõburkolat beállítása
 0
 # State 1
-30 # Chance
-74 -1 -1 -1 -1 -1 -1 # Guards types
-50 0 0 0 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 3000 # Erõforrások award
-0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+74 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+50 0 0 0 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 3000 # Erõforrás díjak
+0 1 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 2
-30 # Chance
-74 -1 -1 -1 -1 -1 -1 # Guards types
-75 0 0 0 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 5000 # Erõforrások award
-0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+74 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+75 0 0 0 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 5000 # Erõforrás díjak
+0 1 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 3
-30 # Chance
-74 -1 -1 -1 -1 -1 -1 # Guards types
-100 0 0 0 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 6000 # Erõforrások award
-0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+74 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+100 0 0 0 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 6000 # Erõforrás díjak
+0 0 1 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 4
-10 # Chance
-74 -1 -1 -1 -1 -1 -1 # Guards types
-150 0 0 0 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 9000 # Erõforrások award
-0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count"
+10 # Esély
+74 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+150 0 0 0 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 9000 # Erõforrás díjak
+0 0 1 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11125,51 +11125,51 @@ Texts count: "9"
 Text 0: ""
 Text 1: "A tenger temploma"
 Text 2: "seatempl.wav"
-Text 3: "You stand before the gates of the A tenger temploma. Not a single mortal dared to enter it. Are you bold enough to be the first one?"
-Text 4: "A A tenger temploma was here once. Now it's abandoned and empty."
+Text 3: "A Tenger Templomának kapuja elõtt állsz. Egyetlen halandó sem mert eddig ide belépni. Elég bátor vagy ahhoz, hogy te legyél az elsõ?"
+Text 4: "Egyszer már jártál a Tenger templomában régen. Most elhagyatott és üres."
 Text 5: ""
 Text 6: ""
-Text 7: "# Precise guard stack setup
+Text 7: "# Precíz védõburkolat beállítása
 0
 # State 1
-30 # Chance
-110 165 111 166 -1 -1 -1 # Guards types
-8 6 3 2 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 10000 # Erõforrások award
-2 1 0 1 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+110 165 111 166 -1 -1 -1 # Õrzõk típusai
+8 6 3 2 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 10000 # Erõforrás díjak
+2 1 0 1 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 2
-30 # Chance
-110 165 111 166 -1 -1 -1 # Guards types
-8 7 4 3 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 15000 # Erõforrások award
-1 1 1 1 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+110 165 111 166 -1 -1 -1 # Õrzõk típusai
+8 7 4 3 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 15000 # Erõforrás díjak
+1 1 1 1 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 3
-30 # Chance
-110 165 111 166 -1 -1 -1 # Guards types
-8 7 5 4 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 20000 # Erõforrások award
-0 1 2 1 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+110 165 111 166 -1 -1 -1 # Õrzõk típusai
+8 7 5 4 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 20000 # Erõforrás díjak
+0 1 2 1 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 4
-10 # Chance
-110 165 111 166 -1 -1 -1 # Guards types
-10 9 6 5 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 30000 # Erõforrások award
-0 0 2 2 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count"
+10 # Esély
+110 165 111 166 -1 -1 -1 # Õrzõk típusai
+10 9 6 5 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 30000 # Erõforrás díjak
+0 0 2 2 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11190,47 +11190,47 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Precise guard stack setup
+Text 7: "# Precíz védõburkolat beállítása
 0
 # State 1
-30 # Chance
-157 158 158 157 -1 -1 -1 # Guards types
-10 10 10 10 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-165 # Creatures award type
-1 # Creatures award count
+30 # Esély
+157 158 158 157 -1 -1 -1 # Õrzõk típusai
+10 10 10 10 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+165 # Egységek díjazási típusa
+1 # Egységek díjazásának száma
 
 # State 2
-30 # Chance
-157 158 158 157 -1 -1 -1 # Guards types
-20 20 20 20 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-165 # Creatures award type
-2 # Creatures award count
+30 # Esély
+157 158 158 157 -1 -1 -1 # Õrzõk típusai
+20 20 20 20 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+165 # Egységek díjazási típusa
+2 # Egységek díjazásának száma
 
 # State 3
-30 # Chance
-157 158 158 157 -1 -1 -1 # Guards types
-30 30 30 30 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-165 # Creatures award type
-3 # Creatures award count
+30 # Esély
+157 158 158 157 -1 -1 -1 # Õrzõk típusai
+30 30 30 30 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+165 # Egységek díjazási típusa
+3 # Egységek díjazásának száma
 
 # State 4
-10 # Chance
-157 158 158 157 -1 -1 -1 # Guards types
-40 40 40 40 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-165 # Creatures award type
-4 # Creatures award count"
+10 # Esély
+157 158 158 157 -1 -1 -1 # Õrzõk típusai
+40 40 40 40 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+165 # Egységek díjazási típusa
+4 # Egységek díjazásának száma"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11247,51 +11247,51 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Kúria"
 Text 2: "mansionv.wav"
-Text 3: "An ancient Kúria is in front of you. It did not lose its former splendor yet. Looks like nobody is here. Would you dare to enter?"
-Text 4: "This Kúria did not lose its former splendor yet, however there is nothing of value inside."
+Text 3: "Egy õsi Kúria áll elõttetek. Még nem veszítette el most sem egykori pompáját. Úgy tûnik, senki sincs itt. Be mersz menni?"
+Text 4: "Ez a Kúria még nem vesztette el ugyan egykori pompáját, azonban nincs benne már semmi értékes elrejtve."
 Text 5: ""
 Text 6: ""
-Text 7: "# Precise guard stack setup
+Text 7: "# Precíz védõburkolat beállítása
 0
 # State 1
-30 # Chance
-63 -1 -1 -1 -1 -1 -1 # Guards types
-40 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 2 0 2 2 2 2500 # Erõforrások award
-0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+63 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+40 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 2 0 2 2 2 2500 # Erõforrás díjak
+0 0 1 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 2
-30 # Chance
-63 -1 -1 -1 -1 -1 -1 # Guards types
-60 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 3 0 3 3 3 5000 # Erõforrások award
-0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+63 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+60 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 3 0 3 3 3 5000 # Erõforrás díjak
+0 0 1 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 3
-30 # Chance
-63 -1 -1 -1 -1 -1 -1 # Guards types
-80 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 4 0 4 4 4 7500 # Erõforrások award
-0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+63 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+80 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 4 0 4 4 4 7500 # Erõforrás díjak
+0 0 1 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 4
-10 # Chance
-63 -1 -1 -1 -1 -1 -1 # Guards types
-100 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 5 0 5 5 5 10000 # Erõforrások award
-0 0 1 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count"
+10 # Esély
+63 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+100 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 5 0 5 5 5 10000 # Erõforrás díjak
+0 0 1 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11308,51 +11308,51 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Zátony"
 Text 2: ""
-Text 3: "You stand in front of an entrance to a mossy, overgrown residence. You hear creeks and growling from inside. Dare to enter?"
-Text 4: "Somebody was here before you, and the Kincstár was pillaged."
+Text 3: "Egy mohákkal benõtt talán élõlény lakhelyének bejárata elõtt állsz. Patakokat és morgásokat hallasz belülrõl. Mersz e belépni ide?"
+Text 4: "Valaki járt már itt elõtted, és így ezt a helyet már kifosztották."
 Text 5: ""
 Text 6: ""
-Text 7: "# Precise guard stack setup
+Text 7: "# Precíz védõburkolat beállítása
 0
 # State 1
-30 # Chance
-106 106 106 106 -1 -1 -1 # Guards types
-4 4 4 4 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 3000 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+106 106 106 106 -1 -1 -1 # Õrzõk típusai
+4 4 4 4 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 3000 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 2
-30 # Chance
-106 106 106 106 -1 -1 -1 # Guards types
-6 6 6 6 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 4500 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+106 106 106 106 -1 -1 -1 # Õrzõk típusai
+6 6 6 6 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 4500 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 3
-30 # Chance
-106 106 106 106 -1 -1 -1 # Guards types
-8 8 8 8 0 0 0 # Guards counts
-00 # Upgrade chance (%)
-0 0 0 0 0 0 6000 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+106 106 106 106 -1 -1 -1 # Õrzõk típusai
+8 8 8 8 0 0 0 # Õrzõk mennyisége
+00 # Fejlesztés esélye (%)
+0 0 0 0 0 0 6000 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 4
-10 # Chance
-106 106 106 106 -1 -1 -1 # Guards types
-12 12 12 12 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 9000 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count"
+10 # Esély
+106 106 106 106 -1 -1 -1 # Õrzõk típusai
+12 12 12 12 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 9000 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11369,51 +11369,51 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Vörös torony"
 Text 2: "REDTWRVS.wav"
-Text 3: "The captured Firebirds will serve you gladly. Would you like to fight the guards?"
-Text 4: "Firebirds were once kept captive here, however now the place is abandoned."
+Text 3: "Az elfogott tûzmadarak örömmel szolgálnak majd téged. Szeretnél megharcolni az õrökkel értük?"
+Text 4: "A tûzmadarakat egykor fogságban tartották itt, de most a hely elhagyatott."
 Text 5: ""
 Text 6: ""
-Text 7: "# Precise guard stack setup
+Text 7: "# Precíz védõburkolat beállítása
 0
 # State 1
-30 # Chance
-114 -1 -1 -1 -1 -1 -1 # Guards types
-35 0 0 0 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-130 # Creatures award type
-1 # Creatures award count
+30 # Esély
+114 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+35 0 0 0 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+130 # Egységek díjazási típusa
+1 # Egységek díjazásának száma
 
 # State 2
-30 # Chance
-114 -1 -1 -1 -1 -1 -1 # Guards types
-70 0 0 0 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-130 # Creatures award type
-2 # Creatures award count
+30 # Esély
+114 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+70 0 0 0 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+130 # Egységek díjazási típusa
+2 # Egységek díjazásának száma
 
 # State 3
-30 # Chance
-114 -1 -1 -1 -1 -1 -1 # Guards types
-105 0 0 0 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-130 # Creatures award type
-3 # Creatures award count
+30 # Esély
+114 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+105 0 0 0 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+130 # Egységek díjazási típusa
+3 # Egységek díjazásának száma
 
 # State 4
-10 # Chance
-114 -1 -1 -1 -1 -1 -1 # Guards types
-140 0 0 0 0 0 0 # Guards counts
-50 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-130 # Creatures award type
-4 # Creatures award count"
+10 # Esély
+114 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+140 0 0 0 0 0 0 # Õrzõk mennyisége
+50 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+130 # Egységek díjazási típusa
+4 # Egységek díjazásának száma"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11437,44 +11437,44 @@ Text 6: ""
 Text 7: "# Precíz védvédelem beállítása
 0
 # State 1
-30 # Chance
--1 -1 -1 -1 26 -1 -1 # Guards types
-0 0 0 0 1 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 2000 # Erõforrások award
-0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+-1 -1 -1 -1 26 -1 -1 # Õrzõk típusai
+0 0 0 0 1 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 2000 # Erõforrás díjak
+0 1 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 2
-30 # Chance
--1 -1 -1 -1 82 -1 -1 # Guards types
-0 0 0 0 1 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 2250 # Erõforrások award
-0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+-1 -1 -1 -1 82 -1 -1 # Õrzõk típusai
+0 0 0 0 1 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 2250 # Erõforrás díjak
+0 1 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 3
-30 # Chance
--1 -1 -1 -1 27 -1 -1 # Guards types
-0 0 0 0 1 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 3500 # Erõforrások award
-0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+-1 -1 -1 -1 27 -1 -1 # Õrzõk típusai
+0 0 0 0 1 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 3500 # Erõforrás díjak
+0 1 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 4
-10 # Chance
--1 -1 -1 -1 83 -1 -1 # Guards types
-0 0 0 0 1 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 3750 # Erõforrások award
-0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count"
+10 # Esély
+-1 -1 -1 -1 83 -1 -1 # Õrzõk típusai
+0 0 0 0 1 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 3750 # Erõforrás díjak
+0 1 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11491,51 +11491,51 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Elefántcsonttorony"
 Text 2: "IVORYTOW.wav"
-Text 3: "You stand in front of an Elefántcsonttorony. Mage foes keep the prisoners captured. Taking their side will allow you to gain valuable allies. Are you ready to test your fortune?"
-Text 4: "You enter the Elefántcsonttorony, however nobody is home."
+Text 3: "Elefántcsonttorony elõtt állsz. Mágusok tartják fogva a foglyokat. Ha az õ oldalukra állsz, értékes szövetségesekre tehetnél szert. Készen állsz arra, hogy próbára tedd a szerencsédet?"
+Text 4: "Belépsz az elefántcsonttoronyba, azonban kong az ürességtõl."
 Text 5: ""
 Text 6: ""
-Text 7: "# Precise guard stack setup
+Text 7: "# Precíz védõburkolat beállítása
 0
 # State 1
-30 # Chance
-35 -1 -1 -1 -1 -1 -1 # Guards types
-35 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-136 # Creatures award type
-3 # Creatures award count
+30 # Esély
+35 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+35 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+136 # Egységek díjazási típusa
+3 # Egységek díjazásának száma
 
 # State 2
-30 # Chance
-35 -1 -1 -1 -1 -1 -1 # Guards types
-50 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-136 # Creatures award type
-6 # Creatures award count
+30 # Esély
+35 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+50 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+136 # Egységek díjazási típusa
+6 # Egységek díjazásának száma
 
 # State 3
-30 # Chance
-35 -1 -1 -1 -1 -1 -1 # Guards types
-65 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-136 # Creatures award type
-9 # Creatures award count
+30 # Esély
+35 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+65 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+136 # Egységek díjazási típusa
+9 # Egységek díjazásának száma
 
 # State 4
-10 # Chance
-35 -1 -1 -1 -1 -1 -1 # Guards types
-80 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-136 # Creatures award type
-12 # Creatures award count"
+10 # Esély
+35 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+80 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+136 # Egységek díjazási típusa
+12 # Egységek díjazásának száma"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11552,51 +11552,51 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Templomkert"
 Text 2: "CEMETRY.wav"
-Text 3: "Közel vagy az elhagyott temetõhöz. Szeretnél benne keresgetni kincsek után?"
-Text 4: "Csapataid vonakodva, de minden szerencséjük nélkül kutatják át a temetõt. A csapatod morálja romlik."
-Text 5: "Az élõholtak legyõzése után átkutatad a temetõt, és találtál valami hasznosat!"
+Text 3: "Közel vagy már templomkerthez. Szeretnél benne keresgetni kincsek után?"
+Text 4: "Csapataid vonakodva, de minden szerencséjük nélkül kutatják át a templomkertet. A csapatod hangulata hirtelen leromlik."
+Text 5: "Az élõholtak legyõzése után átkutatad a templomkertet, és találtál valami hasznosat!"
 Text 6: ""
-Text 7: "# Precise guard stack setup
+Text 7: "# Precíz védõburkolat beállítása
 0
 # State 1
-100 # Chance
-59 59 59 59 59 59 -1 # Guards types
-15 15 15 15 15 15 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 2500 # Erõforrások award
-0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+100 # Esély
+59 59 59 59 59 59 -1 # Õrzõk típusai
+15 15 15 15 15 15 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 2500 # Erõforrás díjak
+0 1 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 2
-0 # Chance
-59 59 59 59 59 59 -1 # Guards types
-15 15 15 15 15 15 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 2500 # Erõforrások award
-0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+0 # Esély
+59 59 59 59 59 59 -1 # Õrzõk típusai
+15 15 15 15 15 15 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 2500 # Erõforrás díjak
+0 1 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 3
-0 # Chance
-59 59 59 59 59 59 -1 # Guards types
-15 15 15 15 15 15 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 2500 # Erõforrások award
-0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+0 # Esély
+59 59 59 59 59 59 -1 # Õrzõk típusai
+15 15 15 15 15 15 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 2500 # Erõforrás díjak
+0 1 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 4
-0 # Chance
-59 59 59 59 59 59 -1 # Guards types
-15 15 15 15 15 15 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 2500 # Erõforrások award
-0 1 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count"
+0 # Esély
+59 59 59 59 59 59 -1 # Õrzõk típusai
+15 15 15 15 15 15 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 2500 # Erõforrás díjak
+0 1 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma"
 Text 8: "
 Templomkert Visited -1"
 Has FilS: "false"
@@ -11618,47 +11618,47 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Precise guard stack setup
+Text 7: "# Precíz védõburkolat beállítása
 0
 # State 1
-30 # Chance
-170 -1 -1 -1 -1 -1 -1 # Guards types
-20 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-40 # Creatures award type
-1 # Creatures award count
+30 # Esély
+170 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+20 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+40 # Egységek díjazási típusa
+1 # Egységek díjazásának száma
 
 # State 2
-30 # Chance
-170 -1 -1 -1 -1 -1 -1 # Guards types
-40 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-40 # Creatures award type
-2 # Creatures award count
+30 # Esély
+170 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+40 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+40 # Egységek díjazási típusa
+2 # Egységek díjazásának száma
 
 # State 3
-30 # Chance
-170 -1 -1 -1 -1 -1 -1 # Guards types
-60 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-40 # Creatures award type
-3 # Creatures award count
+30 # Esély
+170 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+60 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+40 # Egységek díjazási típusa
+3 # Egységek díjazásának száma
 
 # State 4
-10 # Chance
-170 -1 -1 -1 -1 -1 -1 # Guards types
-80 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-40 # Creatures award type
-4 # Creatures award count"
+10 # Esély
+170 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+80 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+40 # Egységek díjazási típusa
+4 # Egységek díjazásának száma"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11673,53 +11673,53 @@ Name: "crbank31"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Wolf Raider Picket"
+Text 1: "Farkaslovas fosztogató õrhely"
 Text 2: ""
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Precise guard stack setup
+Text 7: "# Precíz védõburkolat beállítása
 0
 # State 1
-30 # Chance
-87 -1 -1 -1 -1 -1 -1 # Guards types
-50 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-94 # Creatures award type
-4 # Creatures award count
+30 # Esély
+87 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+50 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+94 # Egységek díjazási típusa
+4 # Egységek díjazásának száma
 
 # State 2
-30 # Chance
-87 -1 -1 -1 -1 -1 -1 # Guards types
-75 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-94 # Creatures award type
-6 # Creatures award count
+30 # Esély
+87 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+75 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+94 # Egységek díjazási típusa
+6 # Egységek díjazásának száma
 
 # State 3
-30 # Chance
-87 -1 -1 -1 -1 -1 -1 # Guards types
-100 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-94 # Creatures award type
-8 # Creatures award count
+30 # Esély
+87 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+100 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+94 # Egységek díjazási típusa
+8 # Egységek díjazásának száma
 
 # State 4
-10 # Chance
-87 -1 -1 -1 -1 -1 -1 # Guards types
-150 0 0 0 0 0 0 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 0 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
-94 # Creatures award type
-12 # Creatures award count"
+10 # Esély
+87 -1 -1 -1 -1 -1 -1 # Õrzõk típusai
+150 0 0 0 0 0 0 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 0 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+94 # Egységek díjazási típusa
+12 # Egységek díjazásának száma"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11736,51 +11736,51 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Romok"
 Text 2: "RUINSVIS.wav"
-Text 3: "Csont rattling and otherworldly howls echo between crumbling walls and towers. Do you wish to explore the Romok?"
-Text 4: "Wind whistling about melodically is the most interesting thing you find in the Romok. Well, at least you manage to take a good look around the place from the tower."
-Text 5: "You climb the mound of Csontok to reach the top of the highest standing tower, where you find a heap of ancient coins. You also take some time to read the land lying around."
+Text 3: "Csontok zörgése és túlvilági üvöltés visszhangzik az omladozó falak és tornyok közül. Szeretnéd felfedezni a Romokat?"
+Text 4: "A dallamosan fütyülõ szél a legérdekesebb dolog, amit a Romoknál találsz. Legalább sikerül jól körülnézned a toronyból."
+Text 5: "Felkapaszkodsz a csontok dombjára, hogy feljuss a legmagasabb álló torony tetejére, ahol egy halom õsi érmét találsz. Szánsz egy kis idõt arra is, hogy megtekintsd a környezõ földeket a toronyból."
 Text 6: ""
-Text 7: "# Precise guard stack setup
+Text 7: "# Precíz védõburkolat beállítása
 1
 # State 1
-30 # Chance
-56 60 61 57 -1 -1 65 # Guards types
-20 3 3 10 0 0 1 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 1000 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+56 60 61 57 -1 -1 65 # Õrzõk típusai
+20 3 3 10 0 0 1 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 1000 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 2
-30 # Chance
-56 60 61 57 -1 -1 65 # Guards types
-30 5 5 10 0 0 1 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 2000 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+56 60 61 57 -1 -1 65 # Õrzõk típusai
+30 5 5 10 0 0 1 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 2000 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 3
-30 # Chance
-56 60 61 57 -1 -1 65 # Guards types
-40 7 7 20 0 0 2 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 3000 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count
+30 # Esély
+56 60 61 57 -1 -1 65 # Õrzõk típusai
+40 7 7 20 0 0 2 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 3000 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma
 
 # State 4
-10 # Chance
-56 60 61 57 -1 -1 65 # Guards types
-50 9 9 20 0 0 3 # Guards counts
-0 # Upgrade chance (%)
-0 0 0 0 0 0 4000 # Erõforrások award
-0 0 0 0 # Arts award: Kincs - Kisebb - Jelentõsebb - Ereklye
--1 # Creatures award type
-0 # Creatures award count"
+10 # Esély
+56 60 61 57 -1 -1 65 # Õrzõk típusai
+50 9 9 20 0 0 3 # Õrzõk mennyisége
+0 # Fejlesztés esélye (%)
+0 0 0 0 0 0 4000 # Erõforrás díjak
+0 0 0 0 # Mûtárgy díjak: Kincs - Kisebb - Jelentõsebb - Ereklye
+-1 # Egységek díjazási típusa
+0 # Egységek díjazásának száma"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11797,8 +11797,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Fa raktár"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all wood from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no wood here. Please, return next week!'"
+Text 3: "A raktár tulajdonosa eléd siet, hogy elmondja neked: 'Uram, összegyûjtöttem az összes fát a közeli termelési pontokról neked. Jöjj el a jövõ héten az újabb adagért!'"
+Text 4: "A raktár tulajdonosa bocsánatot kér tõled: 'Sajnálom, uram, itt nincs most fa. Kérem, jöjj vissza érte jövõ héten inkább!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Legfeljebb 15
@@ -11837,8 +11837,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Higany raktár"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all mercury from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no mercury here. Please, return next week!'"
+Text 3: "A raktár tulajdonosa eléd siet, hogy elmondja neked: 'Uram, összegyûjtöttem az összes higanyt a közeli termelési pontokról neked. Jöjj el a jövõ héten az újabb adagért!'"
+Text 4: "A raktár tulajdonosa bocsánatot kér tõled: 'Sajnálom, uram, itt nincs most higany. Kérem, jöjj vissza érte jövõ héten inkább!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Legfeljebb 15
@@ -11877,8 +11877,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Érc raktár"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all ore from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no ore here. Please, return next week!'"
+Text 3: "A raktár tulajdonosa eléd siet, hogy elmondja neked: 'Uram, összegyûjtöttem az összes ércet a közeli termelési pontokról neked. Jöjj el a jövõ héten az újabb adagért!'"
+Text 4: "A raktár tulajdonosa bocsánatot kér tõled: 'Sajnálom, uram, itt nincs most érc. Kérem, jöjj vissza érte jövõ héten inkább!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Legfeljebb 15
@@ -11917,8 +11917,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Kénraktár"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all sulfur from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no sulfur here. Please, return next week!'"
+Text 3: "A raktár tulajdonosa eléd siet, hogy elmondja neked: 'Uram, összegyûjtöttem az összes ként a közeli termelési pontokról neked. Jöjj el a jövõ héten az újabb adagért!'"
+Text 4: "A raktár tulajdonosa bocsánatot kér tõled: 'Sajnálom, uram, itt nincs most kén. Kérem, jöjj vissza érte jövõ héten inkább!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Legfeljebb 15
@@ -11957,8 +11957,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Kristály raktár"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all crystals from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no crystals here. Please, return next week!'"
+Text 3: "A raktár tulajdonosa eléd siet, hogy elmondja neked: 'Uram, összegyûjtöttem az összes kristályt a közeli termelési pontokról neked. Jöjj el a jövõ héten az újabb adagért!'"
+Text 4: "A raktár tulajdonosa bocsánatot kér tõled: 'Sajnálom, uram, itt nincs most kristály. Kérem, jöjj vissza érte jövõ héten inkább!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Legfeljebb 15
@@ -11997,8 +11997,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Drágakõ raktár"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all gems from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no gems here. Please, return next week!'"
+Text 3: "A raktár tulajdonosa eléd siet, hogy elmondja neked: 'Uram, összegyûjtöttem az összes drágakövet a közeli termelési pontokról neked. Jöjj el a jövõ héten az újabb adagért!'"
+Text 4: "A raktár tulajdonosa bocsánatot kér tõled: 'Sajnálom, uram, itt nincs most drágakõ. Kérem, jöjj vissza érte jövõ héten inkább!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Legfeljebb 15
@@ -12037,8 +12037,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "Arany raktár"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all Arany from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no Arany here. Please, return next week!'"
+Text 3: "A raktár tulajdonosa eléd siet, hogy elmondja neked: 'Uram, összegyûjtöttem az összes aranyat a közeli termelési pontokról neked. Jöjj el a jövõ héten az újabb adagért!'"
+Text 4: "A raktár tulajdonosa bocsánatot kér tõled: 'Sajnálom, uram, itt nincs most arany. Kérem, jöjj vissza érte jövõ héten inkább!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Legfeljebb 15
@@ -12075,127 +12075,127 @@ Name: "artsinfo0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# Value 1 = new comboarts count"
+Text 1: "# Érték 1 = új kombinált mûtárgy számlálója"
 Text 2: ""
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# AI values
+Text 7: "# AI érték
 
 # Diplomata Köpenye
 141
-7 10 # Diff abl, 10 points
+7 10 # Különbözõ, 10 pont
 -1
 
 # Visszatükrözés Medálja
 142
-7 10 # Diff abl, 10 points
+7 10 # Különbözõ, 10 pont
 -1
 
 # Ogre Vasököl
 143
-0 6 # Add attack-defense, 6 points
-7 25 # Diff abl, 25 points
+0 6 # Támadás és védelem hozzáadása, 6 pont
+7 25 # Különbözõ, 25 pont
 -1
 
 # Uralkodás Szigonya
 147
-0 6 # Add attack-defense, 6 points
+0 6 # Támadás és védelem hozzáadása, 6 pont
 -1
 
 # Haditengerészeti Dicsõség Pajzsa
 148
-0 6 # Add attack-defense, 6 points
+0 6 # Támadás és védelem hozzáadása, 6 pont
 -1
 
 # Nix Királyi Páncél
 149
-1 6 # Add spell power, 6 points
+1 6 # Varázserõ hozzáadása, 6 pont
 -1
 
 # Öt Tenger Koronája
 150
-2 6 # Add knowledge, 6 points
+2 6 # Tudás hozzáadása, 6 pont
 -1
 
 # Vándor Csizmája
 151
-8 20 # Movement art, 20 points
+8 20 # Mozgás mûtárgy, 20 pont
 -1
 
 # Közvetlenség Rúnái
 152
-25 -1 # Enemy luck bonus, -1 point
+25 -1 # Ellenséges szerencse bónusz, -1 pont
 -1
 
 # Démon Patkója
 153
-25 -1 # Enemy luck bonus, -1 point
+25 -1 # Ellenséges szerencse bónusz, -1 pont
 -1
 
 # Sámán Bábja
 154
-25 -2 # Enemy luck bonus, -2 point
+25 -2 # Ellenséges szerencse bónusz, -2 pont
 -1
 
 # Vasálarc
 155
-24 -1 # Enemy morale bonus, -1 point
+24 -1 # Ellenséges hangulat bónusz, -1 pont
 -1
 
-# Ring of Supression
+# Elnyomás Gyûrûje
 156
-24 -1 # Enemy morale bonus, -1 point
+24 -1 # Ellenséges hangulat bónusz, -1 pont
 -1
 
 # Bukás Medálja
 157
-24 -2 # Enemy morale bonus, -2 point
+24 -2 # Ellenséges hangulat bónusz, -2 pont
 -1
 
 # Feledés Gyûrûje
 158
-13 4 # Spells restrict art, resurrect
+13 4 # Varázslatok korlátozzák a mûtárgyat, feltámasztás
 -1
 
 # Csend Foka
 159
-13 1 # Spells restrict art, 1 lvl
+13 1 # Varázslatok korlátozzák a mûtárgyat, 1 lvl
 -1
 
 # Aranylúd
 160
-16 4750 6 # Add Erõforrások growth, 4750, Arany
+16 4750 6 # Erõforrás növekedés, 4750, Arany
 -1
 
 # A Mélység Kürtje
 161
-7 30 # Diff abl, 30 points
+7 30 # Különbözõ, 30 pont
 -1
 
 # Napfogyatkozás Varázsa
 162
-7 4 # Diff abl, 4 points
+7 4 # Különbözõ, 4 pont
 -1
 
 # Naplemente Pecsétje
 163
-7 4 # Diff abl, 4 points
+7 4 # Különbözõ, 4 pont
 -1
 
 # Haldokló Fény Mellvért
 164
-7 10 # Diff abl, 10 points
+7 10 # Különbözõ, 10 pont
 -1
 
 # Álomörzõ
 158
-7 10 #  Diff abl, 10 points
+7 10 #  Különbözõ, 10 pont
 -1
 "
-Text 8: "# Combo arts
-# id - art id - components count - component 1 id - ...
+Text 8: "# Kombinált mûtárgyak
+# id - mûtárgy id - komponens száma - komponens 1 id - ...
 
 # Diplomata Köpenye
 12 141 3 66 67 68
@@ -12223,19 +12223,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Diplomata Köpenye"
-Text 2: "You met an unusual scarecrow today. Instead of scaring the, well, crows, it was intelligently persuading them to leave the field. You agreed to help the scarecrow to find the closest seer in exchange for the secret. The scarecrow gives you its cloak."
+Text 2: "Ma egy szokatlan madárijesztõvel találkoztál. Ahelyett, hogy elijesztette volna a, nos, varjakat, inkább okosan rábeszélte õket, hogy hagyják el a mezõt. A titokért cserébe beleegyeztél, hogy segítesz a madárijesztõnek megtalálni a legközelebbi látnokot. A madárijesztõ így neked adja a köpenyét."
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Diplomata Köpenye}
 
-In addition to component effect this cloak allows your hero to retreat vagy surrender when battling semleges Egységek vagy defending a város as well as when attacking and casting a spell in the first round of a combat. Multiplies your hero army strength by 3 (for semleges armies and Thieves guild)."
-Text 8: "0 # cost
-2 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-16 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+A komponenshatások mellett ez a köpeny lehetõvé teszi hõsöd számára, hogy visszavonuljon vagy megadja magát, amikor semleges egységek ellen harcol vagy védekezik egy városban, valamint amikor támad és varázsol a harc elsõ körében. Hõsöd seregének erejét 3-mal megsokszorozza (semleges seregek és tolvajok céhe esetén)."
+Text 8: "0 # költség
+2 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+16 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12254,19 +12254,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Visszatükrözés Medálja"
-Text 2: "Soldiers approach you with talks about a miracle. You are intrigued and follow them. You see a strange sight indeed; a wanderer sitting on top of the fire trap, without any harm. You offer him money in exchange for the secret, but he laughs and vanishes in the air. You see a strange pendant left in the middle of the trap."
+Text 2: "Katonák közelednek hozzád, és csodáról beszélnek. Érdeklõdsz és követed õket. Valóban furcsa látványt látsz; egy vándor ül a tûzcsapda tetején, minden baj nélkül. Pénzt ajánlasz neki a titokért cserébe, de õ csak nevet, majd eltûnik a levegõben hirtelen. Majd észreveszed, hogy egy furcsa medál maradt a csapda közepén véletlenül, bizonyára elvesztette azt a vándor."
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Visszatükrözés Medálja}
 
-In addition to component effect this item increases your chance to resist a hostile spell by 20%."
-Text 8: "0 # cost
-3 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-16 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+A komponenshatás mellett ez a tárgy 20%-kal növeli az esélyedet, hogy ellenállj egy ellenséges varázslatoknak."
+Text 8: "0 # költség
+3 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+16 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12285,19 +12285,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Ogre Vasököl"
-Text 2: "On passing by a small cave you hear deep thumping. You enter the cave and see a juvenile Cyclops cracking nuts with an enormous hammer. Every strike ends in shells and nut pieces being scattered all over the cave. You teach the Cyclops to crack nuts more sparingly by crushing them against each other. Overjoyed with this discovery, the youth gifts you the hammer."
+Text 2: "Egy kis barlang mellett elhaladva mély dübörgést hallasz. Belépsz a barlangba, és meglátod, hogy egy fiatal küklopsz egy hatalmas kalapáccsal diót tördel. Minden egyes ütés végén héjak és diódarabok szóródnak szét a barlangban. Megtanítod a küklopszot, hogy kíméletesebben törje a diókat, egymáshoz ütögetve õket. A küklopsz a felfedezésnek örülve megajándékoz téged a kalapácsával."
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Ogre Vasököl}
 
-In addition to component effect the Ogre Vasököl casts these spells on expert level at the beginning of combat on all of your creatures for fifty rounds: Haste, Bloodlust, Fire Shield, and Counterstrike."
-Text 8: "0 # cost
-4 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-16 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Az Ogre Vasököl komponenshatásai mellett ezeket a varázslatokat mester szinten a harc elején ötven körön keresztül minden lényedre rá tudja vetni: Gyorsítás, Vérszomj, Tûz Pajzs és Visszatámadás."
+Text 8: "0 # költség
+4 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+16 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12323,12 +12323,12 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Ágyú}
 
-Use this war machine to target your enemy troops and fortifications in combat."
-Text 8: "5000 # cost
-10 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-1 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Használd ezt a harci gépet, hogy célba vedd az ellenséges csapatokat és erõdítményeket a harcban."
+Text 8: "5000 # költség
+10 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+1 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12347,7 +12347,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Uralkodás Szigonya"
-Text 2: "You finally found a well after a long search. Your soldiers could not get the bucket of water out, however. Something was preventing it from coming out. Your banner carrier had to descend in the well himself. It appeared that a trident was blocking the way."
+Text 2: "Hosszas keresgélés után végre találtál egy kutat. Katonáitok azonban nem tudták kihúzni a kútból a vödör vizet. Valami megakadályozta, hogy az feljöjjön. A zászlóvivõdnek magának kellett leereszkednie a kútba, hogy utánanézzen a problémának. Meg is találta a gondot okozót; egy szigony állta el a vödör útját."
 Text 3: ""
 Text 4: ""
 Text 5: ""
@@ -12355,11 +12355,11 @@ Text 6: ""
 Text 7: "{Uralkodás Szigonya}
 
 Ez a jobbkezes fegyver növeli a Támadási Értéked +7-tel."
-Text 8: "7000 # cost
-4 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-8 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Text 8: "7000 # költség
+4 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+8 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 7 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12378,7 +12378,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Haditengerészeti Dicsõség Pajzsa"
-Text 2: "You meet an old admiral at the tavern. After a couple of hours full of tales about glorious battles and days long passed he gifts you his parade shield."
+Text 2: "A kocsmában találkozol egy öreg admirálissal. Miután néhány órán át meséltek dicsõséges csatákról és régmúlt idõkrõl, megajándékoz téged a parádés pajzsával."
 Text 3: ""
 Text 4: ""
 Text 5: ""
@@ -12386,11 +12386,11 @@ Text 6: ""
 Text 7: "{Haditengerészeti Dicsõség Pajzsa}
 
 Ez a balkezes fegyver növeli a védekezési értéked +7-tel."
-Text 8: "7000 # cost
-5 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-8 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Text 8: "7000 # költség
+5 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+8 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 7 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12409,7 +12409,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Nix Királyi Páncél"
-Text 2: "You see a fight on a hill nearby. As you get closer, you see two nix. One is winning, and as he is about to land a finishing blow, you intervene. The defeated nix thanks you for your help, and gifts you with his armor. He believes you deserve it more than he does."
+Text 2: "Egy közeli dombon harcot látsz. Ahogy közelebb mész, két nixet látsz harcolni egymással. Az egyik éppen gyõztesként kerülne ki, és amikor épp a végsõ ütést készül bevinni, közbelépsz. Az éppen majdnem legyõzött nix megköszöni a segítségedet, és megajándékoz a páncéljával. Úgy véli, jobban megérdemled, mint õ."
 Text 3: ""
 Text 4: ""
 Text 5: ""
@@ -12417,11 +12417,11 @@ Text 6: ""
 Text 7: "{Nix Királyi Páncél}
 
 Ez a testen viselhetõ mellvért növeli a Varázserõd +6."
-Text 8: "7000 # cost
-6 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-8 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Text 8: "7000 # költség
+6 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+8 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 6 # spell power bonus (_int8_)
@@ -12440,7 +12440,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Öt Tenger Koronája"
-Text 2: "You hardly set a tábor, leaving the saddle for the first time for the day, as some critter sneaked up on you and pulled one of your boots in his Lyuk. Swearing silently, you search the Lyuk with your hand. Instead of a boot, you touch something sharp. Amazed, you pull out a crown."
+Text 2: "Alig állítottál tábort, elõször hagytad el a nyerget aznapra, amikor valami jószág odasompolygott hozzád és megragadta a csizmádat, majd a lyukjába rántotta az egyik csizmád. Halkan káromkodva, kezeddel átkutattad a lyukat. Csizma helyett valami éleset érintesz meg. Majd teljes döbbenettel húzol elõ egy koronát a lyukból."
 Text 3: ""
 Text 4: ""
 Text 5: ""
@@ -12448,11 +12448,11 @@ Text 6: ""
 Text 7: "{Öt Tenger Koronája}
 
 Ez a sisak a fejeden viselve növeli a Tudásod +6-tal."
-Text 8: "7000 # cost
-1 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-8 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Text 8: "7000 # költség
+1 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+8 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12471,19 +12471,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Vándor Csizmája"
-Text 2: "You meet a wanderer in rugs on a shallow path. He offers you to exchange your cape for his old boots. You agree without much of enthusiasm. As he disappears over the horizon you realize the advantage of the transaction."
+Text 2: "Találkozol egy vándorral aki szõnyegekket fuvaroz egy sekélyes ösvényen. Felajánlja neked, hogy cseréljetek. A köpenyed a régi csizmájára. Különösebb lelkesedés nélkül egyetértesz vele és a csere megtörténik. Ahogy eltûnik a horizonton, máris rájössz a tranzakció elõnyére."
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Vándor Csizmája}
 
-A lábakon viselt csizmák allow your hero to move over rough terrain without penalty."
-Text 8: "5000 # cost
-8 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-8 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+A lábakon viselt csizmák lehetõvé teszik, hogy hõsöd büntetés nélkül mozogjon göröngyös terepen."
+Text 8: "5000 # költség
+8 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+8 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12502,19 +12502,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Közvetlenség Rúnái"
-Text 2: "Close by, on a Hegy edge you see a mage trying to cast a spell. Fiery symbols are already flashing in the sky, when he, while blinded by the light, trips and falls down. The mage perishes, and you gather the chain of mysterious stones in your backpack."
-Text 3: "Enemy has Közvetlenség Rúnái: -1"
+Text 2: "A közelben, a hegy szélén egy mágust látsz, aki varázsolni próbál. Már tüzes szimbólumok villognak az égen, amikor a fénytõl elvakulva megbotlik és elesik. A mágus elpusztul, te pedig összeszeded a hátizsákodba a titokzatos kövekbõl álló láncot."
+Text 3: "Az ellenség szerencséje a rúnákra: -1"
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Közvetlenség Rúnái}
 
-Decrease enemy's Luck by 1."
-Text 8: "2000 # cost
-9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-2 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Csökkenti az ellenség szerencséjét 1-gyel."
+Text 8: "2000 # költség
+9 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+2 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12533,19 +12533,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Démon Patkója"
-Text 2: "During your overnight stay you hear hooves clatter nearby. You look around in darkness and notice a demon's figure, ready to stab you with its horns. You barely survive the attack and keep his horseshoe as a trophy."
-Text 3: "Enemy has Démon Patkója: -1"
+Text 2: "Az éjszakai pihengetés alatt paták csattogását hallod a közelben. Körülnézel a sötétben, és észreveszel egy démon alakját, aki készen áll éppen arra, hogy szarvával megszúrjon. Alig éled túl a támadást, és trófeaként megtartod a patkóját."
+Text 3: "Az ellenség szerencséje a Démon Patkóra: -1"
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Démon Patkója}
 
-Csökkenti az ellenség szerencséjét 1-el."
-Text 8: "2000 # cost
-9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-2 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Csökkenti az ellenség szerencséjét 1-gyel."
+Text 8: "2000 # költség
+9 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+2 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12564,19 +12564,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Sámán Bábja"
-Text 2: "The day looked not so great from the beginning. You walked under the ladder, met a woman with an empty bucket and stepped on a black cat. Apparently, it is not your misfortune, but the guy in rugs who has been following you. You order to seize the loser, but he runs away. As he vanishes, you notice a strange doll that he dropped."
-Text 3: "Enemy has Sámán Bábja: -2"
+Text 2: "A nap kezdettõl fogva nem tûnt olyan nagyszerûnek. Átsétáltál egy létra alatt, találkoztál egy nõvel, akinél üres vödör volt, és ráléptél egy fekete macskára. Úgy tûnik, nem a szerencsétlenséged, hanem a szõnyeges srác, aki követett téged a bajok okozója. Megparancsolod, hogy kapják el azt a vesztes alakot, de az hirtelen elfut. Ahogy eltûnik, észreveszel egy furcsa babát a földön, amelyet elejtett."
+Text 3: "Az ellenség szerencséje a Sámán Bábra: -2"
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Sámán Bábja}
 
 Csökkenti az ellenség szerencséjét 2-vel."
-Text 8: "4000 # cost
-9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-4 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Text 8: "4000 # költség
+9 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+4 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12595,19 +12595,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Vasálarc"
-Text 2: "You meet a traveling circus on your way. One of the artists had such a deft disguise that you have drawn a sword, ready to defend yourself. It appeared that a pretty actress was hiding behind the mask. Laughing, she gifts you the mask."
-Text 3: "Enemy has Vasálarc: -1"
+Text 2: "Útközben egy vándorcirkusszal találkozol. Az egyik artista olyan ügyesen álcázta magát, hogy kardot rántottál rá, készen állsz a védekezésre. Majd egyszercsak úgy tûnt, hogy egy csinos színésznõ rejtõzik a maszk mögött. Nevetve ajándékozza neked a maszkot."
+Text 3: "Az ellenség hangulata a Vasálarcra: -1"
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Vasálarc}
 
-Decreases enemy's Morale by 1."
-Text 8: "4000 # cost
-9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-4 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Csökkenti az ellenség hangulatát 1-gyel."
+Text 8: "4000 # költség
+9 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+4 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12626,19 +12626,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Elnyomás Gyûrûje"
-Text 2: "You ordered fried eggs for breakfast. The cook managed to find the eggs for you. He also found a ring in the bird's Fészek that he passed to you."
-Text 3: "Enemy has Elnyomás Gyûrûje: -1"
+Text 2: "Tükörtojást rendeltél reggelire. A szakácsnak sikerült találnia neked tojást. Talált egy gyûrût is a madár fészekben, amit átadott neked ajándékba."
+Text 3: "Az ellenség hangulata az Elnyomás Gyûrûjére: -1"
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Elnyomás Gyûrûje}
 
-Az ujjadon viselve, this ring decreases enemy's Morale by 1."
-Text 8: "4000 # cost
-7 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-2 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Az ujjadon viselve, ez a gyûrû csökkenti az ellenség hangulatát 1-gyel."
+Text 8: "4000 # költség
+7 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+2 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12657,19 +12657,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Bukás Medálja"
-Text 2: "You visit the jeweler's shop. You land your eyes on a bracelet, but the shopkeeper immediately warns you that it is cursed. You fear no curses, and put the bracelet on immediately. The bracelet vanishes in a flash. Enraged, you are about to kill the shopkeeper, but he offers you Bukás Medálja in return. You agree."
-Text 3: "Enemy has Bukás Medálja: -2"
+Text 2: "Meglátogatsz egy ékszerész üzletet. Megakad a szemed egy karkötõn, de a boltos azonnal figyelmeztet, hogy az el van átkozva. Te nem félsz az átkoktól, és azonnal felveszed a karkötõt. A karkötõ egy szempillantás alatt eltûnik. Dühödten meg akarod ölni a boltost, de õ cserébe felajánlja neked Bukás Medálját. Te beleegyezel az engesztelõ ajándékába."
+Text 3: "Az ellenség hangulata a Bukás Medáljára: -2"
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Bukás Medálja}
 
-A nyakadon viselve, this item decreases enemy's Morale by 2."
-Text 8: "7000 # cost
-3 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-8 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+A nyakadon viselve, ez a medál csökkenti az ellenség hangulatát 2-vel."
+Text 8: "7000 # költség
+3 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+8 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12688,19 +12688,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Feledés Gyûrûje"
-Text 2: "You stand on a field, where a large battle was fought not so long ago. You are troubled by the complete absence of corpses. Amongst the broken swords and armors you discover a ring."
-Text 3: "%s makes all losses of %s irrevocable!"
+Text 2: "Egy mezõn állsz, ahol nem is olyan régen egy nagy csatát vívtak. Megzavarodsz a holttestek teljes hiánya miatt. A törött kardok és páncélok között felfedezel a porban egy gyûrût."
+Text 3: "%s visszavonhatatlanná teszi %s minden veszteségét!"
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Feledés Gyûrûje}
 
-When worn, makes all losses in the battle irrevocable: corpses disappear right after unit's death, spells that may revitalize creatures are banned for use, vampirism does not bring back dead units, and undead cannot be raised using necromancy after battle."
-Text 8: "7500 # cost
-7 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-8 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Ha viselik ezt a gyûrût, visszavonhatatlanná teszi a csatában elszenvedett összes veszteséget: a holttestek azonnal eltûnnek az egység halála után, az egységeket újjáélesztõ varázslatok használata hatástalan, a vámpírizmus nem hozza vissza a halott egységeket, és az élõhalottakat nem lehet nekromanciával feltámasztani a csata után."
+Text 8: "7500 # költség
+7 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+8 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12719,19 +12719,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Csend Foka"
-Text 2: "As you pass the graveyard, you notice an old man mourning over his wife. As you approach him, the old man falls dead. After burying him, you decide to take his cape."
-Text 3: "The %s prevents %s from casting 1st and 2nd level spells."
+Text 2: "Ahogy elhaladtok a temetõ mellett, észreveszitek, hogy egy öregember gyászolja a feleségét. Ahogy közeledsz hozzá, az öregember holtan esik össze. Miután eltemetted, úgy döntesz, hogy elveszed a köpenyét."
+Text 3: "A %s megakadályozza, hogy %s 1. és 2. szintû varázslatokat lehessen használni."
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Csend Foka}
 
-While wearing this cape, neither you nor your opponent will be able to cast level 1-2 spells during combat."
-Text 8: "7500 # cost
-2 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-8 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+A köpeny viselése közben sem te, sem ellenfeled nem lesz képes 1-2 szintû varázslatot használni a harc során."
+Text 8: "7500 # költség
+2 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+8 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12750,19 +12750,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Aranylúd"
-Text 2: "You wander on an abandoned house of a collector in search for a tábor place. Most of the goods were long stolen by the marauders, but you were able to find a couple of dusty pet statues. You vaguely recognize one of them. You rub the dust off one of them, and discover a Aranylúd."
+Text 2: "Egy mûgyûjtõ elhagyatott házában bolyongsz, táborhelyet keresve, hogy megpihenhess. A legtöbb árut sokáig lopkodhatták össze a martalócok itt, de a nagy rumliban sikerült találni pár poros kisállatszobrot, amik talán hasznosak lehetnek. Halványan felismered az egyiket. Ledörzsölöd a port rólla, és felfedezed az Aranylúd szobrocskát."
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Aranylúd}
 
-In addition to component effect the Aranylúd increases your income by 4750 Arany per day."
-Text 8: "0 # cost
-9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-16 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+A komponensek haása mellett az Aranylúd napi 4750 Aranyral növeli a kincstárad jövedelmét."
+Text 8: "0 # költség
+9 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+16 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12781,19 +12781,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "A Mélység Kürtje"
-Text 2: "This vízesés sounds and looks exactly like a vízesés should. On closer inspection, though, you are amazed to find out the flow is headed upwards. You wonder what it took for such an impressive phenomenon to come into being. Surely a powerful artefact has to be in play? And indeed, an ornate horn is soon found levitating above the crest."
+Text 2: "Ennek a vízesésnek pontosan olyan a hangja és úgy is néz ki, ahogyan egy vízesésnek ki kell néznie. Közelebbrõl megvizsgálva azonban meglepõdve tapasztalod, hogy a vízfolyás felfelé tart. Elgondolkodsz, vajon mi kellhet ahhoz, hogy egy ilyen lenyûgözõ jelenség létrejöjjön. Bizonyára egy hatalmas erejû mûtárgynak kell az ügy háttérben lapulnia. És valóban, hamarosan egy díszes kürtöt találunk, amely a levegõben lebeg."
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{A Mélység Kürtje}
 
-After a stack of living creatures is slain, a stack of Polipfej will rise in their stead and will stay loyal to the hero after the battle concludes. Total Hit Points of this stack will be equal to half of the slain stack's total Hit Points, but mennyiség of the Polipfej summoned thus should not exceed half of mennyiség of creatures in the slain stack. Slaying Polipfej will not trigger the Horn effect."
-Text 8: "50000 # cost
-9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-16 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Miután megöltek pár élõ egységet, pár darab Polipfej emelkedik fel helyettük, és hû marad a hõsödhöz a csata befejezése után. Ennek a mennyiségnek az összes életerõpontja megegyezik a megölt egységek összes életerõpontjának felével, de az így megidézett Polipfejek mennyisége nem haladhatja meg a megölt egységek mennyiségének felét. Polipfej megölése nem váltja ki a kürt effektusát újra."
+Text 8: "50000 # költség
+9 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+16 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12812,19 +12812,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Napfogyatkozás Varázsa"
-Text 2: "While messing around with a curious trinket that you managed to trade something equally unneeded for at a peddler, you find that, although it's made of metal, it doesn't reflect the sun rays, but rather absorbs them readily."
+Text 2: "Miközben egy furcsa csecsebecsével babrálsz a kezeddel, amiért valami hasonlóan szükségtelen dolgot sikerült elcserélned egy házaló kereskedõvel, rájössz, hogy bár fémbõl készült, nem tükrözi vissza a napsugarakat, hanem inkább könnyedén elnyeli azokat."
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Napfogyatkozás Varázsa}
 
-This item reduces the Power skill of enemy hero by 10% during combat."
-Text 8: "5000 # cost
-9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-4 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Ez a tárgy 10%-kal csökkenti az ellenséges hõs erejét a harc közben."
+Text 8: "5000 # költség
+9 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+4 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12843,19 +12843,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Naplemente Pecsétje"
-Text 2: "It's never nice to get hit in the noggin by a fist with a heavy ring on the finger. Still, that's what happened to you in a friendly sparring with an old hero acquaintance, and after that, you couldn't manage the simplest spell to relieve dizziness for quite a while. During the booze-up after the sparring, the ring migrated over to your digit."
+Text 2: "Soha nem szép dolog, ha az ujjadon egy nehéz gyûrûvel ököllel fejbe vágnak. Mégis, ez történt veled egy régi hõs ismerõsöddel való barátságos edzés közben, és utána jó ideig a legegyszerûbb szédülést enyhítõ varázslatot sem tudtad elindítani. Az edzés utáni vad piálás közben valahogyan a gyûrû átvándorolt a te ujjadra."
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Naplemente Pecsétje}
 
-Az ujjon viselve this item reduces the Power skill of enemy hero by 10% during combat."
-Text 8: "5000 # cost
-7 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-4 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Az ujjon viselve ez 10%-kal csökkenti az ellenséges hõs erejét a harc közben."
+Text 8: "5000 # költség
+7 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+4 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12874,19 +12874,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Haldokló Fény Mellvért"
-Text 2: "The goblin you met at the tavern is acting incredibly brazenly, and the reason for that is obviously the luxurious armor on his chest. It becomes apparent quickly that the armor offers poor protection from a good kick in the ass, yet it still is good for something - but how would a dumb goblin know that?"
+Text 2: "A goblin, akivel a kocsmában találkoztál, hihetetlenül szemtelenül viselkedik, és ennek oka nyilvánvalóan a mellkasán lévõ fényûzõ páncélzat. Gyorsan kiderül, hogy a páncél gyenge védelmet nyújt egy jó nagy seggberúgással szemben, mégis jó valamire - de honnan tudná ezt egy ostoba goblin?"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Haldokló Fény Mellvért}
 
-A törzsön viselve this item reduces the Power skill of enemy hero by 25% during combat."
-Text 8: "10000 # cost
-6 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-16 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+A törzsön viselve ez 25%-kal csökkenti az ellenséges hõs erejét a harc közben."
+Text 8: "10000 # költség
+6 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+16 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -12905,19 +12905,19 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Álomörzõ"
-Text 2: "You are seeing the same dream for the third night already. A stranger begs you to buy an enchanted broom. You refuse every time, but the dream repeats night by night. You ask the first witch doctor you meet for help, but instead of a potion he gives you a plain statuette, ensuring you it will solve your problem. Having bought the statuette, you suddenly realize the witch doctor is sinisterly similar to the stranger from your dreams."
+Text 2: "Már a harmadik éjszaka ugyanazt az álmot látod. Egy idegen könyörög neked, hogy vegyél egy varázsseprût. Te minden alkalommal visszautasítod, de az álom éjszakáról éjszakára ismétlõdik. Az elsõ boszorkánydoktorhoz fordulsz segítségért, akivel találkozol, de bájital helyett egy egyszerû szobrocskát ad neked, biztosítva téged arról, hogy ez megoldja a problémádat. Miután megvetted a szobrocskát, hirtelen rájössz, hogy a boszorkánydoktor baljóslatúan hasonlít az álmaidban látott idegenre."
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "{Álomörzõ}
 
-Gives your units mind spells immunity."
-Text 8: "10000 # cost
-9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
-16 # type (1 - none, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
+Immunitást ad az egységeidnek az elme varázslatok ellen."
+Text 8: "10000 # költség
+9 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
+16 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
+0 # disabled as defaults (0 - nem, 1 - igen)
+0 # add new spells (0 - nem, 1 - igen)
 0 # attack bonus (_int8_)
 0 # defense bonus (_int8_)
 0 # spell power bonus (_int8_)
@@ -14486,7 +14486,7 @@ Name: "actobj000"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Temple of Loyalty"
+Text 1: "A lojalitás temploma"
 Text 2: "Temple.wav"
 Text 3: ""
 Text 4: ""
@@ -14501,13 +14501,13 @@ Text 7: "# 1. szám - háttérhang száma (-1 - nincs hang)
 # 1 line - üzenet egy objektum meglátogatásakor
 # 2 line – tipp az objektum tulajdonságairól (ha van)
 "
-Text 8: """{Temple of Loyalty}
+Text 8: """{A lojalitás temploma}
 
-You pray in an unusual temple and suddenly feel it has strengthened your troops' resolve.""
-(Mixed faction morale penalty negated until next turn)
-""{Temple of Loyalty}
+Egy szokatlan templomban imádkozol, és hirtelen úgy érzed, hogy ez megerõsítette a csapatod elszántságát.""
+(A vegyes frakciós hangulat büntetés a következõ körig megszüntetve)
+""{A lojalitás temploma}
 
-The prayer at the Temple of Loyalty helps to bring the troops together, however your army is united already.""
+A lojalitás templomában az ima segít összefogni a csapatokat, azonban a te sereged már egységes.""
 "
 Has FilS: "false"
 Vals count: "4"
@@ -14522,7 +14522,7 @@ Name: "actobj001"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Skeleton Transformer"
+Text 1: "Csontváz-átalakító"
 Text 2: "Mystery.wav"
 Text 3: ""
 Text 4: ""
@@ -14543,16 +14543,16 @@ Name: "picobj000"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Ancient Lamp"
+Text 1: "Õsi lámpás"
 Text 2: "LAMPVIST.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Ancient Lamp}
+Text 8: """{Õsi lámpás}
 
-A battered turban emerges from the lamp, sitting atop his djinn owner's head. """"Oh, aren't these some employers. Again. Got money? We aren't going to work for magic beans again. And we will NOT grant any wishes. The rest, you can count on us""""."""
+A lámpából egy kopott turbán bukkan elõ, amely dzsinn gazdája fején ül. """"Oh, micsoda munkaadók! Már megint egy. Van pénzed? Nem fogunk megint varázsbabért dolgozni. És NEM teljesítek semmilyen kívánságot. A többire számíthatsz tõlem.""""."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14575,10 +14575,10 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Tengeri hordó}
 
-This Hordó is holding neither water nor wine, but rather some smuggled goods.""
+Ez a hordó nem vizet és nem bort tartalmaz a gyomrában, hanem csempészárut.""
 ""{Tengeri hordó}
 
-This Hordó is full of Tengeri water. You have no idea why it is still afloat."""
+Ez a Hordó tele van tengeri vízzel. Fogalmad sincs, miért úszik még mindig a vízen tetején."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14601,16 +14601,16 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Rakomány}
 
-You inspect the jettisoned cargo. Nothing of value can be found.""
+Megvizsgálod a kidobott rakományt. Semmi értékeset nem találsz benne.""
 ""{Rakomány}
 
-You inspect the jettisoned cargo. Most of it is spoilt by Tengeri water, but you are able to salvage some ore.""
+Megvizsgálod a kidobott rakományt. A nagy részét elrontotta a tengeri víz, de némi ércet még meg tudsz menteni belõle.""
 ""{Rakomány}
 
-You inspect the jettisoned cargo. Some ore and Arany go into your coffers.""
+Megvizsgálod a kidobott rakományt. Néhány darab érc és egy kis arany kerül elõ belõle.""
 ""{Rakomány}
 
-You inspect the jettisoned cargo. Considerable amounts of ore and Arany are found within."""
+Megvizsgálod a kidobott rakományt. Jelentõs mennyiségû ércet és aranyat találsz benne."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14624,16 +14624,16 @@ Name: "picobj003"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Vial of Mana"
+Text 1: "Mana fiola"
 Text 2: "BOTTLVIS.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Vial of Mana}
+Text 8: """{Mana fiola}
 
-You get hold of the vial, but are disappointed to see it lacking any message. There's only water inside, surprizingly fresh though."""
+Megkapszerzed a fiolát, de csalódottan látod, hogy nincs rajta semmilyen üzenet. Csak víz van benne, de meglepõen friss."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14647,17 +14647,17 @@ Name: "impobj000"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Seafaring Academy"
+Text 1: "Tengerészeti Akadémia"
 Text 2: "ACADEMYV.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Seafaring Academy}
+Text 8: """{Tengerészeti Akadémia}
 
 Visiting text.""
-(Train Másodlagos készségek for 2000 Arany each level)
+(Másodlagos készségek képzése 2000 aranyért minden szinten)
 (%s, %s, %s)"
 Has FilS: "false"
 Vals count: "4"
@@ -14681,11 +14681,11 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Kilátótorony} 
 
-An astronomer offers you to take his apprentice for a shipboy. You might find his lookout skill useful, while the youth could do with a break from studies. However, the astronomer will need him back in a week for the next round of planned observations.""
-(+2 scouting radius until the end of the week)
+Egy csillagász felajánlja neked, hogy vedd fel tanoncát hajósinasnak. Neked talán hasznos lehet a figyelõképessége, a köjöknek pedig jól jönne egy kis szünet a tanulásban. A csillagásznak azonban egy hét múlva szüksége lesz tanoncára a tervezett megfigyelések elvégzése érdekében.""
+(+2 felderítõ sugár a hét végéig)
 ""{Kilátótorony}
 
-The astronomer is absent from his tower. A note posted on the door reads: """"Will be back in a week""""."""
+A csillagász nincs a tornyában. Az ajtóra kifüggesztett cetlin ez áll: """"Egy hét múlva jövök.""""."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14699,14 +14699,14 @@ Name: "impobj002"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Altar of Mana"
+Text 1: "Mana oltár"
 Text 2: "Mystery.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Altar of Mana}
+Text 8: """{Mana oltár}
 
 Visiting text."""
 Has FilS: "false"
@@ -14722,16 +14722,16 @@ Name: "actobj002"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Colosseum of the Magi"
+Text 1: "A mágusok kolosszeuma"
 Text 2: "GAZEBO.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: "A big show is taking place at the Colosseum today. You enter the arena and hold the audience in awe with your magical prowess. Insatiable hunger for knowledge is what makes a true mage, so you gladly accept the first prize, which is one the newest academical handbooks.
-(+2 spell power vagy knowledge once per hero)
-Moderator of the Colosseum instantly recognises you but respectfully denies entrance to the competitor zone. ""You probably should rather be featuring as a talent judge here!"
+Text 8: "Ma nagyszabású elõadásra kerül sor a kolosszeumban. Belépsz az arénába, és a közönséget csodálattal töltöd el mágikus képességeid fitogtatásával. Telhetetlen tudásvágy teszi az igazi mágust, ezért örömmel fogadod el az elsõ díjat, ami az egyik legújabb akadémiai kézikönyv.
+(+2 varázserõ vagy tudás, hõsönként egyszer)
+A kolosszeum moderátora azonnal felismer, de tisztelettel megtagadja a belépést a versenyzõi zónába.  ""Inkább tehetségkutatóként kellene itt szerepelned!"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14745,23 +14745,23 @@ Name: "actobj003"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Watering Place"
+Text 1: "Itató"
 Text 2: "STORE.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Watering Place}
+Text 8: """{Itató}
 
-Looks like a nice place for an overnight stop. Tomorrow your troops will be as fresh as they never were. Would you like to call it a day?""
-(+1000 movement points next day for all remained movement)
-""{Watering Place}
+Szép helynek tûnik egy éjszakai megállóhoz. Holnapra a csapat olyan friss lesz, mint még soha. Szeretnéd, ha mára befejeznénk a menetelést?""
+(+1000 mozgáspont másnapra minden megmaradt mozgáspontért cserébe)
+""{Itató}
 
-Troops are in a full blown recuperation mode. No chance of getting them into marching mood until tomorrow.""
-""{Watering Place}
+A csapataid teljes lábadozás alatt vannak. Holnapig nincs esély arra, hogy menethangulatba kerüljenek.""
+""{Itató}
 
-Watering place can be used only once a week, and someone has already been here this week."""
+Az itatót hetente csak egyszer lehet használni, és ezen a héten már járt itt valaki."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14807,17 +14807,17 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Õsi oltár}
 
-Deep under the ground you find an ancient temple, where Áspis guard an Mûtárgy of great power.
-Do you want to fight them?""
+Mélyen a föld alatt egy õsi templomot találsz, ahol Áspisok egy nagy hatalmú mûtárgyat õriznek.
+Akarsz harcolni ellenük most?""
 ""{Õsi oltár}
 
-Deep under the ground you find an ancient temple, where Áspis guard an Mûtárgy of great power.  Unfortunately, you can't take it with you.""
+Mélyen a föld alatt egy õsi templomot találsz, ahol Áspisok egy nagy hatalmú mûtárgyat õriznek.  Sajnos nem viheted magaddal.""
 ""{Õsi oltár}
 
-Deep under the ground you find an ancient temple. An Mûtárgy of great power used to be kept here, but now the temple is empty.""
+Mélyen a föld alatt egy õsi templomot találsz. Valaha egy nagy hatalmú mûtárgyat õriztek itt, de most a templom üres.""
 ""{Õsi oltár}
 
-After defeating the szörnyek and searching the altar of the temple, you find the legendary A Mélység kürtje!"""
+A szörnyek legyõzése és a templom oltárának átkutatása után megtalálod a legendás Mélység kürtjét!"""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14831,20 +14831,20 @@ Name: "actobj004"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Mineral Spring"
+Text 1: "Ásványforrás"
 Text 2: "Luck.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Mineral Spring}
+Text 8: """{Ásványforrás}
 
-Horses look less than thrilled to drink the salty water, but soon you notice them prancing around with new vigor. Rainbow forms in the droplets above the sparkling spring, and the sight brings everyone to a happy mood.""
-(+1 luck until next battle and +600 movement points for one day)
-""{Mineral Spring}
+A lovak nem tûnnek túl izgatottnak a sós víz ivásától, de hamarosan észrevesszük, hogy újult erõvel ágaskodnak. A szikrázó forrás fölött a párás levegõ cseppjein szivárvány alakul ki, és a látvány mindenkit vidám hangulatba hoz.""
+(+1 szerencse a következõ csatáig és +600 mozgáspont egy napig)
+""{Ásványforrás}
 
-Everybody's belly is chock full of bubbly water. That's enough hydration for today."""
+Mindenkinek tele van már a hasa buborékos vízzel. Mára elég volt a folyadékpótlásból."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14858,26 +14858,26 @@ Name: "actobj005"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Hermit's Kunyhó"
+Text 1: "Remetekunyhó"
 Text 2: "Gazebo.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Hermit's Kunyhó}
+Text 8: """{Remetekunyhó}
 
-On entering the Kunyhó you see nobody home, but the walls appear lined with pages from scholarly books. You copy some useful informations from a sheet near the fireplace.""
-(Véletlenszerû secondary skill upgrade once per hero)
-""{Hermit's Kunyhó}
+A kunyhóba lépve senkit sem találunk otthon, de a falakon mintha tudományos könyvek lapjai sorakoznának. Lemásolsz néhány hasznos információt a kandalló mellé a falra tûzött lapról.""
+(Véletlenszerû másodlagos képességfejlesztés, hõsönként egyszer)
+""{Remetekunyhó}
 
-On entering the Kunyhó you see no renovations have been done since you were here last time. The wallpaper still features familiar writings.""
-""{Hermit's Kunyhó}
+A kunyhóba lépve látod, hogy nem történt felújítás azóta, hogy legutóbb itt jártál. A papírokkal kitapétázott falon még mindig az ismerõs írások láthatóak.""
+""{Remetekunyhó}
 
-On entering the Kunyhó you see nobody home, but the walls appear lined with pages from scholarly books. There definitely is a lot to be learned here, but the material seems fairly advanced. You will have to get an introductory course elsewhere.""
-""{Hermit's Kunyhó}
+A kunyhóba belépve senkit sem találunk otthon, de a falakon mintha tudományos könyvek lapjai sorakoznának. Itt biztosan van mit tanulni, de az anyag sajnos meglehetõsen haladónak tûnik. Máshol kell majd bevezetõ tanfolyamot szerezni.""
+""{Remetekunyhó}
 
-On entering the Kunyhó you notice the walls are lined with pages from scholarly books. However, there's nothing to be learned, and, on top of that, the hermit owner of the place shows up and sees you out quite rudely."""
+A kunyhóba belépve feltûnik, hogy a falakat tudományos könyvek lapjai szegélyezik. Tanulni azonban nem lehet semmit belõlük mivel a hely remete tulajdonosa hirtelen megjelenik, és elég gorombán kikísér téged."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14891,23 +14891,23 @@ Name: "actobj006"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Gazebo"
+Text 1: "Pavilon"
 Text 2: "Gazebo.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Gazebo}
+Text 8: """{Pavilon}
 
-An old Knight appears on the steps of the gazebo. """"I will teach you all that I know to aid you in your travels. However, I'll let you know a small donation to the Retired Knights' League is required. A thousand Arany will suffice.""""""
-(+2000 tapasztalati pont for 1000 Arany once per hero)
-""{Gazebo}
+Egy öreg lovag jelenik meg a Pavilon lépcsõjén. """"Megtanítom neked mindazt, amit tudok, hogy segítsek neked az utadon. Azonban tudatom veled, hogy egy kis adományt kérnek a Nyugdíjas Lovagok Ligájának. 1000 arany elegendõ lesz.""""""
+(+2000 tapasztalati pont 1000 aranyért, hõsönként egyszer)
+""{Pavilon}
 
-You can hear loud snoring coming from the gazebo. Apparently, the League has already put your donation to good use.""
-""{Gazebo}
+A Pavilonból hangos horkolás hallatszik. Úgy tûnik, a Liga már jó helyre tette az adományodat.""
+""{Pavilon}
 
-An old Knight appears on the steps of the gazebo. """"I will teach you all that I know to aid you in your travels. However, I'll let you know a small donation to the Retired Knights' League is required. Come back when you scrape up a thousand Arany."""""""
+Egy öreg lovag jelenik meg a Pavilon lépcsõjén. """"Megtanítom neked mindazt, amit tudok, hogy segítsek neked az utadon. Azonban tudatom veled, hogy egy kis adományt kérnek a Nyugdíjas Lovagok Ligájának. Gyere vissza, ha összekapartál 1000 aranyat."""""""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14921,17 +14921,17 @@ Name: "actobj007"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Junkman"
+Text 1: "Ószeres"
 Text 2: "JUNKVIST.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Junkman}
+Text 8: """{Ószeres}
 
 Visiting text.""
-Do kindly keep the papers. I don't trade in scrap parchment."
+Kérem, tartsa meg a papírokat. Nem kereskedem a pergamenes hulladékokkal."
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14954,10 +14954,10 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Fúrótorony}
 
-The drilling foreman rolls out a cart of valuables. """"We managed to sell our yield at a életerõy profit. Hope we'll take in at least as much the next time - come for your share in a week.""""""
+A fúrómester kigurít egy kocsit az értékes nyersanyaggal. """"Sikerült hatalmas nyereséggel eladnunk a termelt anyagokat. Reméljük, legközelebb legalább ennyit tudunk a piacra dobni - jöjjön a részéért egy hét múlva.""""""
 ""{Fúrótorony}
 
-The drilling foreman is very busy. You are able to decipher his muttering as a claim that he has nothing to show yet. You've got to drop by again next week."""
+A fúrómester nagyon elfoglalt. A motyogását úgy tudod értelmezni, hogy még nincs mit felmutatnia. Így jövõ héten újra be kell ugrani ide."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -14971,21 +14971,21 @@ Name: "actobj009"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Warlock's Lab"
+Text 1: "Boszorkánymester laboratóriuma"
 Text 2: "Store.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Warlock's Lab}
+Text 8: """{Boszorkánymester laboratóriuma}
 
 Visiting text (not used).""
-""Erõforrások can be turned into each other, but only rare ones. If you want something transmuted, click on the initial and desired Erõforrások.""
-""The process was successful; here are your new Erõforrások. Anything else you need transmuted?""
-""Erõforrások for transmutation""
-""Transmute: get %d %s %s from %d %s %s.""
-Transmute"
+""Erõforrások egymásba fordulhatnak, de csak ritkán. Ha valamit át akarsz alakítani, kattints a kezdeti és a kívánt erõforrásokra.""
+""A folyamat sikeres volt, itt vannak az új Erõforrások. Van még valami, amit át kell alakítani?""
+""Erõforrások a transzmutációhoz""
+""Transzmutáció: kapsz: %d %s %s a következõk átalakításából: %d %s %s.""
+Transzmutáció"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -15008,10 +15008,10 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Talajkutató}
 
-The tired Talajkutató makes an effort to look tough, but you can see he is afraid of you after all. He is willing to pay you a small sum regularly for the permission to continue mining here.""
+A fáradt talajkutató igyekszik keménynek látszani, de látszik rajta, hogy mégiscsak fél tõled. Hajlandó rendszeresen fizetni neked egy kisebb összeget azért az engedélyért, hogy továbbra is itt bányászhasson.""
 ""{Talajkutató}
 
-The Talajkutató curses the depleted vein, then wails and begs. Obviously, there's nothing else he can do for you this week."""
+A talajkutató megátkozza a kimerült lelõhely erét, majd jajgat és könyörög. Nyilvánvaló, hogy ezen a héten már nem tud mást tenni érted."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -15025,20 +15025,20 @@ Name: "actobj011"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Trailblazer"
+Text 1: "Kalauz"
 Text 2: "Store.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Trailblazer} 
+Text 8: """{Kalauz} 
 
-""""I know these wastelands like the back of my hand. Even if I haven't been somewhere, I'll figure out how to find the way. I suppose I could tag along with you for a week if you need a hand,"""" says the man in this tent.""
-(Reduces wasteland movement penalty by 50% until the end of the week)
-""{Trailblazer}
+""""Úgy ismerem ezeket a pusztaságokat, mint a tenyeremet. Még ha nem is jártam esetleg még valahol, akkor is kitalálom, hogyan találom meg az utat. Gondolom, egy hétig veled tarthatok, ha szükséged van a segítségemre,"""" mondja a férfi ebben a sátorban.""
+(A hét végéig 50%-kal csökkenti a pusztaság mozgási büntetést)
+""{Kalauz}
 
-""""Hey, that's my tent. Better be sure it's not my fault we're running in circles,"""" the trailblazer shrugs."""
+""""Hé, ez az én sátram. Jobb, ha meggyõzõdsz róla, hogy nem az én hibám az, hogy körbe-körbe futkosunk,"""" a kalauz megvonja a vállát."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -15058,7 +15058,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Number 1 - háttérhang száma (-1 - nincs hang)
+Text 7: "# Szám 1 - háttérhang száma (-1 - nincs hang)
 # Number 2 - hozzá kell-e adni a kereséshez a szerkesztõben a szokásos módon (0 - nem, 1 - igen)
 # Text 1 – objektumnév
 # Text 2 – a webhelylátogatás hangfájljának neve
@@ -15089,8 +15089,8 @@ Text 5: ""
 Text 6: ""
 Text 7: "Felföld
 &Felföld	9
-&Highland Objects	O
-up in the Felföld"
+&Felföldi objektumok	O
+a felföldön"
 Text 8: "# Step costs
 100 100 100 100
 "
@@ -15115,7 +15115,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "Pusztaság
 Pusz&taság	0
-Pusz&taság Objektumok	P
+Pusz&taság objektumok	P
 in acrid badlands"
 Text 8: "# Step costs
 125 100 100 100
@@ -15133,24 +15133,24 @@ Name: "secskill28"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Interference"
+Text 1: "Interferencia"
 Text 2: ""
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "# 0
-""{Basic Interference}
+""{Alap Interferencia}
 
-Basic Interference reduces the Power skill of enemy hero by 10% during combat.""
+Az alap interferencia 10%-kal csökkenti az ellenséges hõs erõ képzettségét harc közben.""
 # 1
-""{Advanced Interference}
+""{Haladó Interferencia}
 
-Advanced Interference reduces the Power skill of enemy hero by 20% during combat.""
+A haladó interferencia 20%-kal csökkenti az ellenséges hõs erõ képzettségét harc közben.""
 # 2
-""{Expert Interference}
+""{Mester Interferencia}
 
-Expert Interference reduces the Power skill of enemy hero by 30% during combat."""
+A mester interferencia 30%-kal csökkenti az ellenséges hõs erõ képzettségét harc közben."""
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -16888,7 +16888,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -16921,7 +16921,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -16954,7 +16954,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -16987,7 +16987,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17020,7 +17020,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17053,7 +17053,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17086,7 +17086,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17119,7 +17119,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17152,7 +17152,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17185,7 +17185,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17218,7 +17218,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17251,7 +17251,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17284,7 +17284,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17317,7 +17317,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17350,7 +17350,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17383,7 +17383,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17399,7 +17399,7 @@ Name: "video157"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# Jolly Roger lobogó alatt - Minivideo"
+Text 1: "# Jolly Roger lobogó alatt - Minivideó"
 Text 2: "mvroger"
 Text 3: ""
 Text 4: ""
@@ -17416,7 +17416,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 0"
 Text 8: ""
 Has FilS: "false"
@@ -17432,7 +17432,7 @@ Name: "video158"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# Tengerek terrorizációja - Minivideo"
+Text 1: "# Tengerek terrorizációja - Minivideó"
 Text 2: "mvterror"
 Text 3: ""
 Text 4: ""
@@ -17449,7 +17449,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 0"
 Text 8: ""
 Has FilS: "false"
@@ -17465,7 +17465,7 @@ Name: "video159"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# A Mélység kürtje - Minivideo"
+Text 1: "# A Mélység kürtje - Minivideó"
 Text 2: "mvhorn"
 Text 3: ""
 Text 4: ""
@@ -17482,7 +17482,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 0"
 Text 8: ""
 Has FilS: "false"
@@ -17498,7 +17498,7 @@ Name: "video160"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# Tûzben edzett - Minivideo"
+Text 1: "# Tûzben edzett - Minivideó"
 Text 2: "mvnight"
 Text 3: ""
 Text 4: ""
@@ -17515,7 +17515,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 0"
 Text 8: ""
 Has FilS: "false"
@@ -17548,7 +17548,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17581,7 +17581,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17614,7 +17614,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17647,7 +17647,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17680,7 +17680,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17713,7 +17713,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17746,7 +17746,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17779,7 +17779,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17812,7 +17812,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17845,7 +17845,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17878,7 +17878,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17911,7 +17911,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17944,7 +17944,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -17977,7 +17977,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -18010,7 +18010,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -18043,7 +18043,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -18076,7 +18076,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -18109,7 +18109,7 @@ Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"

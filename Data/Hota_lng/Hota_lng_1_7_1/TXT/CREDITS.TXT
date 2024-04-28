@@ -1,0 +1,463 @@
+Credits
+"{Docent Picolan emlékére}
+{HotA projekt alapítója,}
+{koordinátor,}
+{zeneszerzõ,}
+{mûvész}
+
+{A projekt közremûködõi:}
+{(ábécé szerinti sorrendben)}
+
+{Agar} 
+3D modellezõ, koncepciómûvész
+{Alex-ander}
+2D/3D mûvész,
+Cove grafika
+{Balkron}
+2D/3D mûvész
+{baratorch}
+kód, térkép szerkesztõ, elõcsarnok,
+egyidejû fordulatok,
+HD-mód kompatibilitás
+{crackedmind}
+kód, hosting
+{deferatto}
+2D/3D mûvész,
+forgatókönyvekek, tesztelõ
+{Dmitriy Gravchenko}
+3D mûvész,
+Factory lények
+{Don_ko}
+2D/3D mûvész, forgatókönyvekek,
+sztori, író
+{DrSlash}
+2D/3D mûvész, sztori,
+elõcsarnok moderátor
+{Entuser}
+kód, Cove kód
+{Fatalist}
+forgatókönyvekek,
+hadjárat forgatókönyvekek,
+fordító, szerkesztõ
+{FCst1}
+forgatókönyv tesztelõ,
+videó szerkesztõ
+{gotthit}
+kód
+{Gruk}
+kód,
+sablon szerkesztõ
+{Hapuga}
+fordító, szerkesztõ
+{Heetch}
+zene, mastering,
+hangtervezés
+{Èãîðü Êóäðà}
+fõ tesztelõ,
+feladatszervezõ
+{IQUARE}
+kód, forgatókönyvekek,
+paraméter beállítások,
+tesztelõ, író,
+fordító
+{Klejnot Nilu}
+elõcsarnok moderátor
+{lebeshevna}
+koncepció mûvész
+{Maestro}
+jelenetek
+{Mantiss}
+tesztelõ, író, PR
+{Morn}
+hõs portrék
+{Mugais}
+sztori, forgatókönyvekek,
+író
+{nosferatu}
+2D mûvész
+{nik312}
+egyensúly, fordító,
+tesztelõ, PR
+{parovozovoz}
+forgatókönyvekek, tesztelõ,
+elõcsarnok moderátor
+{Raistlin}
+kód, fordító,
+író
+{Rusha}
+2D mûvész
+{Sav}
+koordinátor,
+fõ programozó,
+dokumentáció,
+egyensúly, PR
+{Sirius}
+forgatókönyvekek,
+hadjárat forgatókönyvekek
+{Spartak}
+tesztelõ, hosting
+{Starseeker}
+szerkesztõ, fordító,
+író
+{tarren}
+kód, videó szerkesztés
+{Tevye}
+fõ szerkesztõ,
+fordító,
+sztori, író, PR
+{Vade Parvis}
+2D mûvész, ötleteket, PR
+{void_17}
+kód
+{weakref}
+kód, író
+{Wic}
+egyensúly, tesztelõ,
+RMG sablons
+{XEL}
+tudomány, sztori, író
+{yoggi}
+2D/3D mûvész
+
+{Külön köszönet:}
+
+{DF2 fórum}
+és adminisztrációja 
+{Erolast}
+weboldal tervezéshez
+{LivingAnarchy}
+Facebook csoportkezeléshez,
+verseny és tesztelés (2019)
+szervezésért
+{CzileraInzyniera} és {Xocenk}
+tesztelésért (2023)
+szervezésért
+{WiZarDX_576} és {igrik}
+a kóddal kapcsolatos segítségért
+{SaintDark}
+indítóval kapcsolatos segítség
+{Sar} és {d0s}
+Cove koncepció kialakításában való segédkezésért
+{sergroj}
+szoftver és térkép szerkesztõvel kapcsolatos segítségért
+{AKuHAK}
+szöveg szerkesztésért
+{Denis Goncharuk}
+hostingért
+{olexn}
+telepítõvel kapcsolatos segítségért
+{Ñòàíèñëàâ Ãîðäèíñêèé}
+fordításokért
+{Nestor}
+tesztelésért
+és hadjárat javításáért
+{Orzie}
+hangokért
+{Enchanter Phoenix}, {Peace},
+{Quick-Sighted Dog},
+{Markon Phoenix},
+{Ivan Dnistryan},
+{Nice Pictures}
+3D jelenetekért
+{SoVa}
+a 2D/3D mûvészetért és írásért
+{??????? ???????}
+harctéri hátterek
+{Ñåðãåé Êàïóñòèí}
+írásért
+{Ðîìàí Êóïðèÿíîâ}
+a hõs portrék és jelenetek
+{Yekaterina Dmitrova}
+a jelenetek hangjaihoz
+{Paul Anthony Romero}
+a Factory hadjárat fõ sablonjáért
+{Maigret}
+a Factory város sablonjáért
+és a hadjárat sablonért
+{Alina Besanidou}
+a jelenetek koncepciójának mûvészetéért
+{Lampik_LMra}
+a koncepció mûvészetéért
+
+Forgatókönyv- és sablonkészítõk:
+{Riug74}, {×àïàé}, {Manolo},
+{molski}, {koget}, {Veracruz},
+{Begrezen}, {Ignus}
+
+2019 tesztelõk:
+{Chleb}, {Ignus},
+{LivingAnarchy},
+{maestro}, {Machberet},
+{Szopa666}, {Ravciozo}
+
+2023 tesztelõk:
+{CzileraInzyniera},
+{DarkPepego}, {Gongwazy},
+{Flisiu}, {Éîðèê},
+{Machberet}, {maugli},
+{Mont}, {Niechcic},
+{Scherban Vlad}, {Spinaonic}, 
+{Voidek}, {Xocenk},
+{Zuuzel}
+
+és az egész Heroes közösségnek
+,hogy aktívak maradnak és támogatásukat nyújtják
+
+{A projekt korábbi közremûködõi:}
+
+{Arseny}
+egyensúly, forgatókönyvekek
+{ArtisanDen}
+mûvész
+{Astaroth}
+mûvész
+{Axolotl}
+3D mûvész
+{borisloff}
+3D mûvész
+{Black Phantom}
+játékon belüli erõforrások
+{Darkmoon}
+fordító
+{Ä'ÿêîí}
+kód
+{exx}
+3D mûvész
+{feanor}
+kód
+{<Fenix>}
+forgatókönyvekek
+{fiorin}
+3D mûvész
+{gamdev}
+tesztelõ
+{hippocamus}
+tiszteletbeli közremûködõje,
+tesztelõ, elõcsarnok moderátor
+{Kastore}
+PR, sztori
+{Lan'Rey}
+forgatókönyvekek
+{major}
+kód
+{Ìèõàíèê}
+kód
+{pokrik1}
+mûvész
+{potmdehex}
+kód
+{Qed'Maen}
+dokumentáció,
+fordító
+{Quick-Sighted Dog}
+3D mûvész
+{SAG}
+egyensúly
+{Ñåð¸ãà-JET}
+szerkesztõ, tesztelõ
+{Silver}
+sztori
+{Vaflya}
+egyensúly
+{VizitOr}
+kód
+{VSeleznv}
+kód
+{you}
+kód
+{Yulyasha}
+elõcsarnok moderátor
+{Zenofex}
+tesztelõ
+
+
+
+
+{New World Computing}
+{(eredeti játékfejlesztõk):}
+
+
+{Készítette:}
+Jon Van Caneghem
+
+
+
+{Ügyvezetõ producer:}
+Mark Caldwell
+
+
+
+{Producer:}
+Jeff Blattner
+
+
+
+{Rendezõ:}
+David Mullich
+
+
+{Társigazgató:}
+Christian Vanover
+
+
+{Dizájnerek:}
+Jennifer Bullard
+Gregory Fulton
+Jon Van Caneghem
+
+
+{Vezetõ programozók:}
+John Bolton
+David Richey
+
+
+{Programozók:}
+Mark Caldwell
+John Krause
+Jeff Leggett
+George Ruof
+Gus Smedstad
+
+
+{Vezetõ mûvészek:}
+Joseph McGuffin
+Phelan Sykes
+
+
+{Mûvészek:}
+George Almond
+Jeff Bigman
+Fernando Castillo
+Rebecca Christel
+Brian DeMetz
+John E. Gibson IV
+Louis Henderson
+Edward Hudson
+Tracy Iwata
+Steve Jasper
+Brian Kemper
+April Lee
+Bonita Long-Hemsath
+Adam McCarthy
+Kurt McKeever
+Nowa Morisaku
+Kenneth Thomson, Jr.
+Tony Rizo
+Bill Stoneham
+Julia Ulano
+Steve Wasaff
+Scott White
+Charles Zilm
+
+
+{Eszközkoordinátor:}
+Jack Russell
+
+
+{Szinttervezõk:}
+Benjamin Bent
+Dave Botan
+Ryan Den
+Walter Johnson
+Marcus Pregent
+Christian Vanover
+Lisa Whitman
+Mike Wolf
+
+
+{Zenei producer:}
+Rob King
+
+
+{Város sablonk:}
+Paul Romero
+
+
+{Zene:}
+Paul Romero
+Rob King
+Steve Baca
+
+
+{Hangdizájn:}
+Rob King
+Steve Baca
+Chuck Russom
+
+
+{Hangprodukció:}
+Rob King
+Green Street Studios
+South Pasadena, Ca.
+
+
+{Hang tehetségek:}
+Catherine Battistone
+Aric Devone
+Mari Devon
+Richard Epcar
+Danny Fehsenfeld
+Lex Lang
+Wendee Lee
+Laird Macintosh
+Sy Prescott
+Mike Sorich
+Dan Woren
+
+
+{Vezetõ tesztelõ:}
+Karl Drown
+
+
+{Tesztelõk:}
+Jesse Anacleto
+Mary Ellen Babson
+Devin Chapman
+William Choulos
+John Cloud
+Gavan Cook
+Karl Fischer
+Ernie Gallardo
+Benjamin Goldhammer
+Rich Holmes
+Yoshiyuki Maeda
+Lance Page
+Bryce Verdier
+Eric Williamson
+Sean Wyman
+Thomas Zeliff
+
+
+{Külön köszönet:}
+Cyberlore Studios
+Hypnotix
+Equinoxe
+Rad Game Tools
+Sonic Foundry
+Sound Forge
+Soundscape
+Riki Corredera
+John Machin
+Scott McDaniel
+Michele Mitchel
+John Slowsky
+
+
+{Webmester:}
+Joshua “Guthwulf” Milligan
+
+
+{Web szerzõ:}
+Aaron Castro
+
+
+{Webprogramozók:}
+Robert Belknap
+Peter Hillier
+
+
+{Látogass meg minket az interneten:}
+www.3do.com
+
+"
+Copyright 2000, The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other Countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company.
