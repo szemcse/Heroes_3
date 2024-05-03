@@ -1,0 +1,102 @@
+===== Térkép neve =====
+Master of the Island
+
+===== Térkép leírása =====
+To win, capture all external dwellings on the main island and small islands within 3 months. However, if Jeremy is defeated in combat, the scenario is lost. Jeremy will be limited to level 12, but will continue on to the next scenario of the campaign. 
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Day 1
+Üzenet:
+The Jolly Roger was waving proudly atop Utopia. Me and the boys haven't left this place for a few days now. That might have something to do with all this coconut rum...but it would be a crime to let it go to waste! To hell with all cares!	“Hey cap'n, a party of gnolls is approaching!” yelled one of the guards on the walls. 	“Shoot those bastards and be done with it!” I yelled back and hit the bottle of rum.	“They come bearing a white flag!” the guard insisted. 	I wiped my mouth with my sleeve and sighed. “Fine, let their leader in. I don't know what they want.”	A strapping, tawny-hided gnoll entered the fort yard. Unlike others we had seen, he was wearing chainmail and had a sword hanging from his belt. He also wasn't wearing the usual collection of bone amulets and other garbage. This one was definitely different. 	“Abgrrrh?” I asked sarcastically, recalling my last conversation with a gnoll. 	“What?” the gnoll responded in confusion. “Do you speak Erathian at all, human?” 	“I do. You had to be there,” I chuckled, feeling pleased with my joke. “State your business quickly, and then get lost.” 	“My name is Alkin. I am the warchief of the largest gnoll tribe on the island,” he answered, glancing at the bottle in my hand. 	“I'm Jeremy Albatross, commander of the most well-defended fort on the island!” I replied. 	“These fortifications are a joke,” the gnoll shot back, licking his chops. 	“Should a sufficiently large group of those creatures out there decide to attack, you and your fort will crumble back into the earth.” 	“That sounds like a threat?” 	“Absolutely not. I came for two reasons: I'd like to offer you an alliance, and to give you some friendly advice.” 	There was a brief moment of silence. 	“An alliance!” I laughed. “Did you hear that boys? The gnolls want an alliance! You know, Abgrrrh, I can't really see any reason to form an alliance with you.” 	“I'm Alkin,” replied the gnoll calmly. “And there are strong reasons for an alliance; you simply fail to understand them right now. If you don't act, this island will soon become a scorched wasteland. It would be better to face this threat together. And you can't escape from the island anyway.” 	“And who threatens the island?” I demanded to know. 	“One of our shamans had a vision of hordes of horned monsters landing here--Kreegans. I am convinced they will get here sooner or later. Eeofol is very close, you see, and this island is a perfect place to lay ambush for the ships of Erathia and their allies.” “How are you so knowledgeable about the outside world?” I asked, taking another swig from the bottle. The tart taste stung my tongue and nose. “Matters not,” the gnoll said dismissively. “I suggest you stop drinking yourself into a stupor and try to get the island's inhabitants under one flag. That will do some good for the cause.” 	“Listen Abgr... Alkin. Why should we risk our lives stumbling through the swamp? If the Kreegans come, we'll handle them.” 	“There will be many of them, with powerful magic and mighty creatures, and all you have is a band of swashbucklers. Think about my offer.” With that, Alkin took his leave.
+
+Név:
+Day 2
+Üzenet:
+I decided to talk to Patris about the gnolls' offer.	“Ya know Cap'n, regardless of what Alkin said, there is a point to consider. We must gain the locals' respect. By the way, the island smugglers and bandits are already thinking of joining us. All that's left is to find them some room in Utopia,” Patris remarked. 	“The less there are of those ambushes, the easier our lives will be,” I agreed. “One more thing, Patris. Order the men to hide the rest of that rum as far away as possible.” 	“Why?” asked Patris, almost shocked.	“It gave me a terrible headache.”
+
+Név:
+Day 7
+Üzenet:
+The scouts report that small creatures that look like imps have been spotted near Utopia. If this is true, then the Kreegans have already sent their scouts here and the invasion could be a real threat.
+
+Név:
+Day 14
+Üzenet:
+Alkin visited me again today--alone this time. 	“I see you have followed my advice! Good decision. Efreet, imps and demons were spotted near my tribe's settlement. They're not an army yet, just a scout group--likely mapping out their attack,” Alkin warned. “Listen, I know I was drunk the first time we talked, so I need to ask again: how can you be sure of all this?” I asked. 	“Ha. You're talking to a former sergeant of the Tatalian army,” Alkin grinned, disappearing back into the jungle night before I could ask more.
+
+Név:
+Day 20
+Üzenet:
+“Cap'n!” Patris hailed me. “I saw a large bird over the jungle--it was covered in scales instead of feathers.”	“That's an ayssid,” I replied. 	“I figured. I also thought, if Regna lords use them like Erathians use griffins, why not us?” 	“We'll have to find a nest of the birds and tame them,” I agreed. “We might even breed them later on.”
+
+Név:
+Day 28
+Üzenet:
+Scouts have been informing me of some disturbing news. In the middle of the night, deep within the jungle, strange lights and sounds have been observed. During the day, the scouts encounter the bloody remains of bodies strewn across altars. This is obviously some form of ritual. Rumors have been swirling that this could mean the Kreegans are working to open portals for imps, cerberi and other foul creatures. It's giving me the creeps. 
+
+Név:
+Day 42
+Üzenet:
+I felt a sudden pain in the back of my head and turned to see Alkin sitting on a rock. He had a handful of nuts in his hand.		“The hell are you waiting for, pirate?” he asked sharply, throwing another nut at me. I dodged this time. “I heard that Kreegan ships will be here in a month and a half. Everyone is preparing for the invasion.” 	“Calm down, can't you see I'm doing my best?” 	“Do better,” grinned Alkin, standing up from the rock. “Next time we meet, I hope we'll be heading an allied army.”
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(39, 27, 0) ***Titok Kunyhó***
+Üzenet:
+A huge old ogre lives here. He loves to tell stories of his youth, but complains he has nobody to listen to him. If we bring him some grateful company, such as four young ogres who would love to hear his tales, he promises to hand over his magical club.
+The old ogre still complains that nobody will listen to his stories. He eagerly awaits four listeners.
+The old ogre becomes excited as he sees four green youngsters ready to listen to his storytelling. As he no longer has a use for his club, he happily hands it over.
+
+(31, 40, 0) ***Titok Kunyhó***
+Üzenet:
+The gnoll hydromancer living here asks for help with an experiment. He has been performing a ritual that will allow him to summon creatures from the Plane of Water. However, he needs a special item to finish the ritual.
+The hydromancer is certain that the Pendant of Life is located somewhere on the island.
+The gnoll, looking pleased, puts the artifact in the center of a magical circle and begins the ritual. Suddenly, he opens a portal to the Plane of Water, and nymphs start venturing through. When the ritual is complete, he offers the nymphs to your service. 
+
+(29, 24, 0) ***Hárpia Banya***
+Üzenet:
+E-e-e-e-k!
+
+(67, 3, 0) ***Fekete Sárkány***
+Üzenet:
+“Shiver me timbers!” screams one of the crew. “Those are real dragons!” 	“Stay calm! Imagine that you are honorable knights!” you say, unsheathing your sabre.
+
+(17, 70, 0) ***Esemény***
+Üzenet:
+Suddenly, a group of pirates appears on the nearby reef. 	“Surrender! You are no match for us!” one yells, ordering his men to board our ship. 
+
+(28, 12, 0) ***Viharmadár***
+Üzenet:
+Judging by the furious screeching and the continued attempts to pluck the crew's eyes out, not every stormbird is willing to serve in the pirate brotherhood.
+
+(28, 2, 0) ***Ayssid***
+Üzenet:
+The Ayssids, recognizing the pirates as their allies, seem eager to fight within your ranks.
+
+(5, 1, 0) ***Káosz Hidra***
+Üzenet:
+Giant swamp creatures slowly emerge from the marsh, their countless eyes staring menacingly at you.
+
+(71, 38, 0) ***Góg***
+Üzenet:
+Looks like we've found one of the Kreegan scout groups! We have to destroy them immediately!
+
+(34, 26, 0) ***Goblin***
+Üzenet:
+“Boom-stick man kill our warchief! We kill boom-stick man and take the stick”
+
+(46, 44, 0) ***Cove***
+Név:
+Utopia
+
+(36, 70, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+===== Fájl vége =====

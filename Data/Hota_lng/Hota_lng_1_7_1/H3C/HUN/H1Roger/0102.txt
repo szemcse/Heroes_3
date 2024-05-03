@@ -1,0 +1,102 @@
+===== Térkép neve =====
+A sziget mestere
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod az összes külsõ lénylakást 3 hónapon belül. Ha Jeremy vereséget szenved a csatában, a kampány elveszik. Jeremy a 12. szintig fejlõdhet, de folytatja a kampányt ezzel a szinttel. 
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+A Jolly Roger lobogó büszkén integetett Utópia tetején. Én és a fiúk már néhány napja nem hagytuk el ezt a helyet. Lehet, hogy ennek köze van ehhez a sok kókuszrumhoz... de bûn lenne, ha veszni hagynánk!	A pokolba minden gonddal!	– Kapitány uram, egy gnoll csapat közeledik! – kiáltotta az egyik õr a falakon.	– Lõdd le azokat a nyomorultakat, és végezz velük! – kiáltottam vissza, és csaptam az üveg rumot az asztalra.	– Fehér zászlóval jönnek! – erõsködött az õr.	Megtöröltem a számat a ruhaujjammal és felsóhajtottam.	– Rendben, engedd be a vezetõjüket.	Nem tudom, mit akarnak. Egy hevederes, barna színû gnoll lépett be az erõd udvarára. Másokkal ellentétben, akiket láttunk, láncpántot viselt, és egy kard lógott az övén. Ezenkívül nem viselte a szokásos csont-amulettet és egyéb szemétgyûjteményeit. Ez határozottan más példány volt.	– Abgrrrh? – kérdeztem gúnyosan, felidézve a legutóbbi beszélgetésemet egy gnolllal.	- Mit? – válaszolta zavartan a gnoll. – Beszélsz egyáltalán erathusul, ember?	– Én igen. Ott kellett lenned – kuncogtam, és örültem a viccemnek.	- Mondd gyorsan amit szeretnél, aztán tûnj el.	– A nevem Alkin. Én vagyok a sziget legnagyobb gnoll törzsének hadvezére – válaszolta, és a kezemben lévõ üvegre pillantott.	– Jeremy Albatross vagyok, a sziget legjobban védett erõdjének parancsnoka! - válaszoltam.	– Ez az erõdítmény egy vicc – vágott vissza a gnoll, és nyalogatta a karajját.	– Ha lényeknek egy kellõen nagy csoportja úgy döntene, hogy támad, Te és az erõdöd a fölben lesz elásva.	– Ezt fenyegetésnek vegyem?	- Egyáltalán nem. Két okból jöttem: szövetséget szeretnék ajánlani, és néhány baráti tanácsot adni.	Rövid pillanatnyi csend következett.	– Egy szövetség! Nevettem. Hallottátok, fiúk? A gnollok szövetséget akarnak! Tudod, Abgrrrh, nem igazán látom okát, hogy szövetséget kössek veled.	– Alkin vagyok – válaszolta a gnoll nyugodtan és nyomós okai vannak a szövetség ajánlatomnak; ezt egyszerûen most nem tudom számodra elmagyarázni. Ha nem cselekszel, ez a sziget hamarosan felperzselt pusztasággá válik. Jobb lenne közösen szembenézni ezzel a fenyegetéssel. A szigetrõl pedig úgysem menekülhetsz.	– És ki fenyegeti a szigetet? - Kérdeztem, csak hogy tudjam.	- Egyik sámánunk azt látta, hogy szarvas szörnyek hordái jönnek ide – kreeganok.	Meggyõzõdésem, hogy elõbb-utóbb eljutnak ide. Látod, Eeofol nagyon közel van, és ez a sziget tökéletes hely Erathia és szövetséges hajóinak lesben állásához. 	– Honnan vagy ennyire tájékozott a külvilágról? – kérdeztem, és még egyet kortyoltam az üvegbõl. A fanyar íz csípte a nyelvem és az orrom.	– Nem számít – mondta a gnoll elutasítóan.	– Azt javaslom, hagyja abba a kábulatba való ivást, és próbálja meg egy zászló alá vonni a sziget lakóit. Ez jót fog tenni az ügynek.	– Figyelj, Abgr... Alkin. Miért kockáztatnánk az életünket, hogy átbotladozzunk a mocsárlakókon? Ha Kreeganék jönnek, mi elintézzük õket.	– Sok lesz belõlük, erõs mágiával és hatalmas lényekkel, és Neked csak egy csapat csapnivaló harcosod van.	- Gondold át az ajánlatomat.- ezzel Alkin búcsút vett tõlem.
+
+Név:
+2. nap
+Üzenet:
+Úgy döntöttem, beszélek Patrisszal a gnollok ajánlatáról.	– Tudod, Kapitányom, függetlenül attól, hogy mit mondott Alkin, van egy szempont, amit meg kell fontolni. Ki kell vívnunk a helyiek tiszteletét. A szigeti csempészek és banditák egyébként már azon gondolkodnak, hogy csatlakozzanak hozzánk. Nincs más hátra, mint találni nekik egy kis helyet Utópiában – jegyezte meg Patris. 	– Minél kevesebb a lesbenálló, annál könnyebb lesz az életünk – értettem vele egyet.	– Még egy dolog, Patris. Parancsold meg a férfiaknak, hogy a lehetõ legmesszebb rejtsék el a maradék rumot.	- Miért? – kérdezte Patris szinte döbbenten.	– Rettenetes fejfájást okoz.
+
+Név:
+7. nap
+Üzenet:
+A felderítõk jelentése szerint Utópia közelében olyan kis lényeket fedeztek fel, amelyek úgy néznek ki, mint az Ördögfiókák. Ha ez igaz, akkor Kreeganék már ide is küldték a felderítõiket, és az invázió valós veszélyt jelenthet.
+
+Név:
+14. nap
+Üzenet:
+Alkin ma ismét meglátogatott – ezúttal egyedül.	- Látom, követted a tanácsomat! Jó döntés. Efreeteket, Ördögfiókákat és Démonokat észleltek a törzsem települése közelében. Õk még nem a hadsereg sorait jelentik, csak egy felderítõcsoportot – valószínûleg feltérképezik a területeinket. – figyelmeztetett Alkin.	– Figyelj, tudom, hogy részeg voltam, amikor elõször beszélgettünk, ezért újra meg kell kérdeznem: hogyan lehetsz biztos ebben az egészben? - kérdeztem.	- Hah! A tatáliai hadsereg egykori õrmesterével beszélsz – vigyorgott Alkin, és eltûnt a dzsungel éjszakájában, mielõtt többet kérdezhettem volna.
+
+Név:
+20. nap
+Üzenet:
+Kapitányom! - Patris üdvözölt.	- Láttam egy nagy madarat a dzsungel felett – tollak helyett pikkelyek borították. 	- Az egy Ayssid – válaszoltam.	- Kitaláltad! Arra gondoltam, ha a regnai urak úgy használják õket, mint az erathiaiak a griffeket, Mi miért ne használhatnánk õket?	– Meg kell találnunk a madarak fészkét, és meg kell szelídítenünk Õket – mondtam.	– Talán késõbb még tenyészthetjük is õket.
+
+Név:
+28. nap
+Üzenet:
+A felderítõk nyugtalanító hírekrõl tájékoztattak. Az éjszaka közepén a dzsungel mélyén furcsa fényeket és hangokat figyeltek meg. Nappal a dzsungelben, a felderítõim oltárokon szétszórt testek véres maradványait találták. Ezek nyilvánvalóan valamilyen rituálék nyomai. A pletykák arról szólnak, hogy ez azt jelentheti, hogy Kreeganék azon munkálkodnak, hogy portálokat nyissanak az Ördögfiókák, Kerberoszok és más gonosz lények számára.	Ez borzasztó.
+
+Név:
+42. nap
+Üzenet:
+Hirtelen fájdalmat éreztem a tarkómon, megfordultam, és megláttam Alkint egy sziklán ülni. Egy marék dió volt a kezében.		– Mi a fenére vársz, kalóz? – kérdezte élesen, és felém dobott egy újabb diót. Ezúttal elkerültem.	- Hallottam, hogy másfél hónap múlva itt lesznek a Kreegan hajók. Mindenki az invázióra készül.	– Nyugodj meg, nem látod, hogy minden tõlem telhetõt megteszek?	– Tedd jobban – vigyorgott Alkin, és felállt a szikláról.	– Ha legközelebb találkozunk, remélem, egy szövetséges hadsereg élén állunk majd.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(39, 27, 0) ***Titok Kunyhó***
+Üzenet:
+Egy hatalmas öreg ogre él itt. Szeret fiatalkoráról mesélni, de folyton arról panaszkodik, hogy nincs, aki meghallgassa. Ha hozol neki valami hálás társaságot, például négy fiatal ogrét, akik szívesen hallanák a meséit, megígéri, hogy átadja varázslatos kunyhóját.
+Az öreg ogre még mindig panaszkodik, hogy senki sem fogja meghallgatni a történeteit. Izgatottan várja négy hallgatóját.
+Az öreg ogre izgatott lesz, amikor meglát négy zöld fiatalt, akik készen állnak arra, hogy meghallgassák a meséit. Mivel már így nincs szüksége a kunyhóra, boldogan átadja azt számodra.
+
+(31, 40, 0) ***Titok Kunyhó***
+Üzenet:
+Az itt élõ Gnoll Vízmágia mestere segítséget kér egy kísérlethez. Olyan rituálét hajt végre, amely lehetõvé teszi számára, hogy élõlényeket idézzen meg a Víz síkjáról. A rituálé befejezéséhez azonban szüksége van egy speciális tárgyra.
+A Vízmágia mestere biztos abban, hogy az Élet Medálja valahol a szigeten található.
+A Gnoll elégedettnek látszik, egy mágikus kör közepébe helyezi el a medált, és megkezdi a rituálét. Hirtelen megnyit egy portált a Víz síkjára, és nimfák kezdenek átmerészkedni rajta. Amikor a rituálé befejezõdött, a nimfákat a szolgálatodra ajánlja.
+
+(29, 24, 0) ***Hárpia Banya***
+Üzenet:
+E-e-e-e-k!
+
+(67, 3, 0) ***Fekete Sárkány***
+Üzenet:
+- Reszketek mint a nyárfalevél! - kiáltja az egyik matróz.	- Ezek igazi sárkányok!	- Maradj nyugodt! Képzeld azt, hogy tiszteletreméltó lovagok! Azután pedig ordítsd nekik, hogy rántsatok kardot.
+
+(17, 70, 0) ***Esemény***
+Üzenet:
+Hirtelen egy csapat kalóz jelenik meg a közeli zátonyon.	- Adjátok meg magatokat! Ti nem vagytok számunkra kihívás! - kiáltja az egyik, és megparancsolja az embereinek, hogy szálljanak fel a hajónkra. 
+
+(28, 12, 0) ***Viharmadár***
+Üzenet:
+A dühös üvöltözés, a legénység szemeinek kitépése után valamint a folyamatos próbálkozásokból ítélve, nem minden viharmadár hajlandó a kalóztestvériségben szolgálni.
+
+(28, 2, 0) ***Ayssid***
+Üzenet:
+Az Ayssidok, akik szövetségesüknek tekintik a kalózokat, úgy tûnik, alig várják, hogy a soraidban harcoljanak.
+
+(5, 1, 0) ***Káosz Hidra***
+Üzenet:
+Óriás mocsári lények lassan bújnak elõ a mocsárból, számtalan szemük fenyegetõen merednek rád.
+
+(71, 38, 0) ***Góg***
+Üzenet:
+Úgy tûnik, megtaláltuk az egyik Kreegan cserkészcsapatot!	Azonnal meg kell semmisítenünk Õket!
+
+(34, 26, 0) ***Goblin***
+Üzenet:
+- Villámló bot ölje meg a hadvezérünket! Megöljük a villámló botos embert, és elvesszük a botját.
+
+(46, 44, 0) ***Cove***
+Név:
+Utopia
+
+(36, 70, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+===== Fájl vége =====
