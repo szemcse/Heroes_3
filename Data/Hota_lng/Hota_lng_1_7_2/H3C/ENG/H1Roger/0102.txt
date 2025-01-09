@@ -1,0 +1,102 @@
+===== Map name =====
+Master of the Island
+
+===== Map description =====
+To win, capture all external dwellings on the main island and smaller islands within 3 months. If Jeremy is defeated in combat, the scenario will be lost. Jeremy will be limited to level 12, but will travel with you to the next scenario of the campaign. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+The Jolly Roger was flying proudly atop Utopia. Me and the boys haven't left this place for a few days now. That might have something to do with all this coconut rum... but it would be a crime to let it go to waste! To hell with all cares!	“Hey cap'n, a party of gnolls is approaching!” yelled one of the guards on the walls. 	“Shoot those bastards and be done with it!” I roared back and hit the bottle of rum.	“They come bearing a white flag!” the guard insisted. 	I wiped my mouth with my sleeve and sighed. “Fine, let their bigwig in. Damn if I know what they're up to.”	A strapping, tawny-hided gnoll entered the fort's courtyard. Unlike others we had seen, he was wearing chainmail and had a sword hanging from his belt. He also wasn't wearing the usual collection of bone amulets and other garbage. This one was definitely different. 	“Abgrrrh?” I asked sarcastically, recalling my last conversation with a gnoll. 	“What?” the gnoll responded in confusion. “Erathian, human, do you speak it?” 	“I do. You had to be there,” I chuckled, feeling pleased with my joke. “State your business quickly, and then get lost.” 	“My name is Alkin. I am the warchief of the largest gnoll tribe on the island,” he answered, glancing at the bottle in my hand. 	“I'm Jeremy Albatross, castellan of the best-fortified place on the island!” I replied boastfully. 	“These fortifications are a joke,” the gnoll shot back, licking his chops. 	“Should a sufficiently large group of those creatures out there decide to attack, you and your fort will fold like a cheap tent.” 	“Are you threatening me?” 	“Absolutely not. I came for two reasons: I'd like to offer you an alliance, and also to give you some friendly advice.” 	There was a brief moment of silence. 	“An alliance!” I belly-laughed. “Did you hear that boys? The gnolls want an alliance! You know, Abgrrrh, I can't really see any reason to form an alliance with you.” 	“I'm Alkin,” replied the gnoll calmly. “And there are strong reasons for an alliance; you simply fail to understand them right now. If you don't act, this island will soon become a scorched wasteland. It would be better to face this threat together. And you can't escape here anyway.” 	“And who threatens the island?” I demanded. 	“One of our shamans had a vision of hordes of horned monsters landing here—Kreegans they were. I am convinced they will get here sooner or later. Eeofol is not far from here at all, you see, and this island is the perfect spot to lay ambush for the ships of Erathia and their allies.” “How are you so knowledgeable about the world?” I asked, taking another swig from the bottle. The tart taste stung my tongue and nose. “Matters not,” the gnoll said dismissively. “I suggest you stop drinking yourself into a stupor and try to get the island's inhabitants under one flag. That will do some good for the cause.” 	“Listen Abgr... Alkin. Why should we risk our lives stumbling through the swamp? If the Kreegans come, we'll handle them.” 	“There will be many of them, with powerful magic and mighty creatures, and all you have is a handful of swashbucklers. Think about my offer.” With that, Alkin took his leave.
+
+Name:
+Day 2
+Message:
+I decided to talk to Patris about the gnolls' offer.	“Ya know Cap'n, regardless of what Alkin said, there is a point to consider. We must command the locals' respect. By the way, this island's smugglers and bandits are already thinking of joining us. All that's left is to find them some room in Utopia,” Patris remarked. 	“The less there are of those ambushes, the easier our lives will be,” I agreed. “One more thing, Patris. Order the men to stow the rest of that rum as far away as possible.” 	“Why?” asked Patris, almost shocked.	“Gives me a heck of a headache.”
+
+Name:
+Day 7
+Message:
+The scouts report that small imp-like creatures have been spotted near Utopia. If this is true, then the Kreegans have already sent their scouts here and the invasion could be a real threat.
+
+Name:
+Day 14
+Message:
+Alkin visited me again today—this time without his pungent retinue. 	“I see you have followed my advice! Good decision. Efreet, imps and demons were spotted near my tribe's settlement. They're not an army yet, just a scout group—likely mapping out their attack,” Alkin warned. “Listen, I know I was drunk the first time we talked, so I need to ask again: how can you be sure of all this?” I asked. 	“Ha. You're talking to a former sergeant of the Tatalian Royal army,” Alkin grinned, disappearing back into the jungle right before I could ask anything else.
+
+Name:
+Day 20
+Message:
+“Cap'n!” Patris hailed me. “I saw a large bird over the jungle—covered in scales rather than feathers, that one was.”	“That's an ayssid,” I replied. 	“I figured. I also thought, if Regnan lords use them like Erathians use griffins, why shouldn't we try?” 	“We'll have to find a nest of the birds and tame them,” I agreed. “We might even breed them later on.”
+
+Name:
+Day 28
+Message:
+Scouts have been informing me of some disturbing news. In the middle of the night, deep within the jungle, strange lights and sounds have been observed. During the day, the scouts encounter the bloody remains of bodies strewn across altars. This is obviously some form of ritual. Rumors have been swirling that this could mean the Kreegans are working to open portals for imps, cerberi and other foul creatures. This gives me the creeps. 
+
+Name:
+Day 42
+Message:
+I felt a sudden pain in the back of my head and turned to see Alkin sitting on a rock with a handful of nuts.		“The hell are you waiting for, pirate?” he asked sharply, chucking another nut at me. I dodged this one. “I heard that Kreegan ships should be here in six weeks. Everyone's preparing for the invasion.” 	“Calm down! Can't you see I'm doing my best?” 	“Do better,” grinned Alkin, standing up. “Next time we meet, I hope we'll be heading an allied army. Or at least, a militia.”
+
+===== Heroes =====
+
+===== Objects =====
+
+(39, 27, 0) ***Seer's Hut***
+Message:
+A huge old ogre lives here. He loves to tell tall tales of his youth, but complains he has nobody to listen to him. If we bring him some grateful company, such as four young ogres who would love to hear his tales, he promises to hand over his magical club.
+The old ogre still complains that nobody will listen to his stories. He eagerly awaits four listeners.
+The old ogre becomes excited as he sees four green youngsters ready to listen to his storytelling. As he no longer has a use for his club, he happily hands it over.
+
+(31, 40, 0) ***Seer's Hut***
+Message:
+The gnoll hydromancer living here asks for help with an experiment. He has been performing a ritual that will allow him to summon creatures from the Plane of Water. However, he needs a special item to finish the ritual.
+The hydromancer is certain that the Pendant of Life is located somewhere on the island.
+The gnoll, looking pleased, puts the artifact in the center of a magical circle and begins the ritual. Suddenly, he opens a portal to the Plane of Water, and nymphs start venturing through. Once the ritual is complete, he offers the nymphs to your service. 
+
+(29, 24, 0) ***Harpy Hag***
+Message:
+E-e-e-e-k!
+
+(67, 3, 0) ***Black Dragon***
+Message:
+“Shiver me timbers!” screams one of the crew. “Those are honest-to-goodness dragons!” 	“Stay calm! Imagine that you are a lance of chivalrous knights!” you say, unsheathing your sabre.
+
+(17, 70, 0) ***Event***
+Message:
+Suddenly, a group of pirates appears on the nearby reef. 	“Surrender! You are no match for us!” one yells, ordering his men to board our ship. 
+
+(28, 12, 0) ***Viharmadár***
+Message:
+Judging by the furious screeching and the continued attempts to pluck the crew's eyes out, some stormbirds are less tha willing to join the pirate brotherhood.
+
+(28, 2, 0) ***Ayssid***
+Message:
+The Ayssids, recognizing the pirates as their allies, appear eager to fight in your ranks.
+
+(5, 1, 0) ***Chaos Hydra***
+Message:
+Giant swamp creatures slowly emerge from the marsh, their countless eyes staring menacingly at you.
+
+(71, 38, 0) ***Gog***
+Message:
+Looks like we've found one of the Kreegan scout groups! We have to destroy them immediately!
+
+(34, 26, 0) ***Goblin***
+Message:
+“Boom-stick man kill our warchief! We kill boom-stick man and take stick!”
+
+(46, 44, 0) ***Cove***
+Name:
+Utopia
+
+(36, 70, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

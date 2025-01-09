@@ -1,0 +1,117 @@
+===== Map name =====
+Pirates and Palms
+
+===== Map description =====
+Following a shipwreck, Jeremy has washed up on an unknown island. If Jeremy is defeated in battle, the scenario will be lost. To complete this scenario, capture the abandoned fort and build it up into a castle. Jeremy will be limited to level six, but will travel with you to the next scenario.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+I could hear the crashing waves as I sat on the sand, gazing at my left leg. It was bare, unlike the right one—my left boot had drowned in the shipwreck. This would not do! I’d have to find me a pair of sandals or something. My pistol was to the right of me, full of water, and therefore useless. Should any threat appear on the horizon, my sabre would be my only hope. Fortunately, it was one mighty fine blade, coming all the way from Regna. It had drunk plenty of enemy blood. 	A nearby voice broke the silence: “We managed to hunt down everything the sea didn’t wash away!” I turned to see my first mate Patris. Though he was in his forties, that old salt still possessed great skill and clarity of thought. Patris sat down beside me and gazed sorrowfully at the debris of the Black Unicorn, drifting in pieces on the ocean tides. Soon it would all wash away entirely, leaving no trace of my ship's existence. 	“Are we full on grub?” I asked, hoping to get clear on our situation. 	“Enough for a week, maybe. Hell, it may be for the best that not so many o' the lads survived the sinking,” my first mate grumbled. 	“So where are we?” I asked as I got up, brushing sand off my tattered doublet. 	“I think we are on the islands somewhere between Nighon and Eeofol,” Patris replied. “And I have a strong feeling we are in quite a pickle, Cap’n.”	“Why would you say that?” I inquired.	“There are no human settlements over here, only barbarians and damn bloody beasts. If we don’t find a place to settle within a week, we’ll be overcome by famine, ammunition shortage, disease...” 	“Oh come on, there’s never been a situation Jeremy Albatross couldn’t get out of!” I interrupted as I turned to look at the jungle. 	It was a dense, dark-green living mass, within which large bright flowers bloomed. Lurking in those forest depths were snakes, giant mosquitos, and other dangers. I felt as though dozens of predatory eyes were staring at us from the jungle, waiting for the right moment to lure us into a trap. Would Jeremy Albatross' last days be spent stuck on this damn island? 	“Hey you rogues!” I called out. “Hurry up and grab all you can carry! Let’s see what surprises this cursed island has prepared for us.”
+
+Name:
+Day 2
+Message:
+We were fighting our way through the dense, boggy jungle. I stepped carefully, trying to avoid cutting my left foot. Damn it, am I going to find me some footwear or what? I could, of course, requisition a boot from someone in the crew—who’s the captain here anyway? However, I didn’t want to test the already shaky morale of our small crew for no good reason. I have to be an example to the lads. I have to show them that I, their bold captain, don’t feel a thing stepping on these accursed thorny wines.		“Listen, Patris. Why the hell would Erathians build an outpost here?” I asked, trying to distract myself from the pain in my feet, and from worries about whether that last spike had been poisonous.	“They were exploring here a lot back in the day, roaming across the seas, searching for new lands. Then the war with Eeofol and Nighon broke out. Gryphonheart urgently called back many of the garrisons. Anyone left behind was forgotten. Then after the war, everyone was busy restoring the kingdom and dealing with the elves and necromancers....” ‘Twas obvious that my first mate was about to give me another history lesson. 	“How do you know so much about all of that?” 	“I wasn’t always a pirate, Cap’n!” answered Patris with a grin. “By the way, there’s another spike where you’re about to step.” 	“Thanks, but I saw it already,” I grumbled, barely avoiding the spike at the last moment and placing my foot in a safe spot. “Do you mean to say that there may be Erathian soldiers over here?” 	Feigning optimism, Patris replied, “If they weren’t killed by the local barbarians, they may have turned pirates or smugglers. This strait is a lively place after all.”
+
+Name:
+Day 8
+Message:
+I was standing atop the overgrown walls of the Erathian fort, observing the surroundings through my spyglass. Now that's a valuable tool—how damn lucky I am that it didn’t go down with the ship. The island was much larger than I had originally assumed. It stretched far to the east, fading off in the distant haze. This place would be great for raids! We’d just have to set everything up nice and tidy, repair the outpost, build some roads, and tame the local cannibals and other Abrrghs. I also found me a new pair of top boots! No idea where those brainless gnolls found them, but they fit me perfectly.		“Hey Jeremy, how are you findin’ the place?” Patris yelled from below. “We rummaged through the gnolls’ supplies and found some food and drinking water! There’s even a well over here!” 	“It’s a nice place alright,” I replied. “My ship is on the bottom of the sea, so I was set on becoming a landlubber anyway—for the time being. What do you think?” “Was aboutta suggest we drop anchor here,” Patris laughed, scratching his chin. “But look, this place is a pretty lousy fort. Should the gnolls attack, we’d get slaughtered.” 	“That’s why we need a real fortress with impregnable walls, traps and strategically placed turrets,” I replied, stowing my spyglass in its leather case. “The problem is finding the stone and timber to do all that. I doubt there’s much trade here.” 	“Cap’n, I suggest we scour the surroundings. If there are smugglers in the area, then surely they lose some of their goods once in a while. And some goblins may very well use wrecked ships to build shelters and such. There’s plenty of material here—just hafta look sharp.”		Feeling inspired, I descended down the old, cracked stone stairs. I was kind of afraid they would reduce to dust under my new boots, to be honest. Patris came down too, startling me with a question: “Cap’n, what are we gonna call our fortress?” 	“Utopia,” I said with a smile.
+
+Name:
+Day 10
+Message:
+Our fears were justified. Late last night, a mob of gnolls and goblins armed with spears and blowpipes approached Utopia. Someone from our crew fired his musket, and the terrified mob scattered into the forest. The locals weren’t properly organized to attack last night, but sooner or later they will gather their courage. The sooner we raise our defenses, the better.
+
+Name:
+Day 14
+Message:
+Sitting near the campfire last night, I realized that two weeks had passed since the Black Unicorn had sunk. There’s no greater disgrace for a Regnan than to lose his ship. Your ship reflects your status and sort of works as a symbol of you. The love I had for that vessel! So many glorious days were behind us together. Even if I managed to build or steal me a new ship, everyone in Regna would know it wasn’t the Black Unicorn. The rumors would spread: Jeremy Albatross has been stripped of his manhood. His old tub has sunk and now he floats around in a wooden dinghy. What a loser! 		But it’s a bit early to be thinking about my return to Regna. I should find my older brother Bidley: he may be one hell of a swindler, but he wouldn’t talk rubbish about me. I’d have to ask him, as a token of brotherly love, to find me a new ship—a better one than the Black Unicorn, so that those rumormongers from Regna would think I had simply swapped my old ship for a new one. Great idea! I concede that I do love myself for this gift of finding a way out of any situation.	It’s true what my mother said, that Bidley got the wits while I got the luck. Hard to say which one's the bigger gift...
+
+Name:
+Day 18
+Message:
+One of the guards approached me, his face a picture of disappointment and reluctance. 	“Go on, tell me what happened,” I said. 	“Cap’n, er... Jeremy, we've a problem with the savages. Those cowards snuck into the fort during the night and grabbed everything that glittered. At least they didn’t have enough wit to take our timber and stone.”	“Right,” I sighed. “I hope next time they drag off some good-for-nothing guards and cook them over the bonfire.”
+
+===== Heroes =====
+
+===== Objects =====
+
+(4, 11, 0) ***Ogre***
+Message:
+The most unpleasant creatures in existence, after wild orcs, are wild ogres. And the latter are even dumber than the former. Clad in hides, with an array of skulls hanging off their fetid clothing, those great shambling green hulks were lumbering through the jungle. They could be heard from miles away, and those huge cudgels they carried could smash a human like a bedbug. That’s why I advised the troops to quickly retreat to safe grounds before opening fire.
+
+(1, 18, 0) ***Crusader***
+Message:
+The mercenary captain stepped forward: 	“What the hell! This is our secret encampment. Nobody knows of it!” 	“Relax, buddy!” I said. “Me and the lads are merely exploring the island.” 	“I will relax you, permanently!” spat the swashbuckler, drawing his sword.
+
+(32, 5, 0) ***Ogre Mage***
+Message:
+A large axe-wielding ogre came out to meet us. He wore a surprisingly neat chainmail shirt and a black eyepatch. 	“Did you come for your friends?” he growled. 	“What friends?” I replied in surprise. 	“Collar’s band. We captured their hideout and all their treasures. And we’re about to top our own coffers up a bit with your belongings,” the ogre grinned menacingly. 	“My dear friend, I have no idea what band you’re talking about, but if you want to take my stuff, then you’ll have to take them from my corpse.”
+
+(11, 6, 0) ***Event***
+Message:
+“Cap’n, come here, quick!” Patris called excitedly. 	I approached my mate and found him on his knees examining something on the wet ground. He was positively beaming, which was very odd—Patris is not the type to often greet you with a warm smile. 	“These are wheel traces here, Cap’n!” he explained. “Somewhere on this island, there are people or creatures smart enough to use wagons!” 	“Good news indeed,” I agreed. “We’ll have to carefully scout the island once we’re set up here. Something tells me we have plenty of adventures ahead.”
+
+(5, 3, 0) ***Roc***
+Message:
+A piercing screech sounded above us. Looking up, I spotted huge predatory birds circling over our heads. I don’t know what we looked like to them, but whether men or mice, we had to be prepared for a sudden attack. 
+
+(21, 17, 0) ***Mage***
+Message:
+I would not expect to see mages here, but that structure towering over the jungle—I’ve seen those on Bracada’s coast before. But here? Patris jabbed my arm and wouldn’t you know it, I turned just in he right moment to see mages appear out of thin air. 	One of them yelled, “Aha! Malcom wasn’t brave enough to show up himself, so he sent pirates! Whatever—we will not reveal our secrets!” 	Who the hell is Malcom? Well, I don’t think we’ll have time to explain ourselves...
+
+(13, 2, 0) ***Dragon Fly***
+Message:
+What could be worse than giant carnivorous dragonflies living near the river?  Perhaps us getting near said river?  Perhaps the fact that said dragonflies were looking at us?  I managed to cut a few down, but it did not deter the rest of them.
+
+(17, 23, 0) ***Matróz***
+Message:
+We came upon human footprints in the sand. With high hopes, we followed the path, eventually finding a smuggler’s hideout. They were unloading something from a boat when they spotted us. They appeared startled, but their sabres came out in no time. 	“Cap’n, don’t kill them all,” Patris whispered. “Just kill the hotheaded ones, and maybe the others will join us.”
+
+(2, 26, 0) ***Event***
+Message:
+“Hey Cap’n, take a look!” a lad yelled, beckoning to us.		A waterfall cascaded down a rocky cliff, surrounded by stone statues of women. I’m no mage, but I sensed a magical presence here. It didn’t take long before I remembered the magical creatures from the Plane of Water known as nymphs. Regnan mages summoned them frequently for their own purposes.		“We might yet find allies in this godforsaken place,” I said, smiling.	“How do you mean?” Patris asked.	“Did you ever see those Regnan mages, walking around in the company of watery lasses? It wasn’t their good looks that got them all those beautiful women; those little darlings are nymphs. Somebody told me that they came into this world from the Plane of Water, when Regnan mages opened a portal there,” I said, hopping on one leg. I desperately needed to find me some footwear.	“What makes you think they’re going to help us? You don’t look much like a mage to me,” Patris said skeptically.		“Patris, just you chill,” I grinned. “Even if my charming smile doesn’t convince them, a few coins will do the trick.” 	“We got coins?” Patris asked in amazement. 
+
+(4, 21, 0) ***Orc***
+Message:
+We kept encountering skulls impaled on stakes. I’ve heard that wild orcs mark their territory that way. With this in mind, I ordered my men to ready their weapons.
+
+(8, 21, 0) ***Lizardman***
+Message:
+An arrow whistled within inches of my ear. Patris jumped behind a tree just in time, and I quickly followed suit.		“It’s a trap!” yelled one of our boys.		Thank you so much for the clarification. As if I needed a hint that this wasn’t a meet-and-greet party. Squinting, I managed to spot our culprits hidden in the undergrowth. They looked like men with lizard heads, dressed in loincloths. The lizard-men were standing ready with their bows, obviously not here for negotiations.
+
+(11, 15, 0) ***Cove***
+Name:
+Utopia
+
+(11, 16, 0) ***Event***
+Message:
+It truly was an Erathian outpost! The basic structure was still intact, but the walls were worn down and overgrown with swamp vegetation. It would need a complete overhaul—for its current inhabitants cared little about such niceties. Modest creatures, these gnolls were. 	Smoke coiled upward from somewhere deep inside the fort, likely a cooking fire. I do hate to spoil someone’s dinner, but... Suddenly, a huge gnoll emerged right in front of me out of a hole in the wall. His neck and body were covered in odd-looking rings and bones, and he was wielding an imposing club made out of a large animal's femur. 	“Abrrgh!” growled the gnoll. 	“Delighted to meet you, sir! I’m Jeremy,” I answered cheerfully. 	“Unnah abrrgh dun uuuh!” 	“Abrrgh it is then! Got it, got it. I ain’t deaf,” I replied, the crew chuckling behind me. The lads were enjoying our little conversation. 	Then, the gnoll let out a whining sound and raised his club. What a pity—we could have made great friends. Needless to say, the stupid creature didn’t have time to contemplate its misstep; with a loud bang, my pistol sunk a bullet into his skull. Abrrgh fell to the ground with a sizeable new opening in his head. 	“Onward! No quarter!” I commanded.
+
+(16, 13, 0) ***Serpent Fly***
+Message:
+There was a loud stir coming from the jungle. Fueled by curiosity, some of the crew and I went to investigate. As we moved in closer, the noise seemed to be moving toward us! I was about to command the crew to turn around, when suddenly a host of mosquitoes flew out of the jungle, each the size of a gull. I barely managed to unsheathe my sabre before they fell upon us...
+
+(35, 35, 0) ***Pandora's Box***
+Message:
+
+
+(8, 19, 0) ***Event***
+Message:
+We walked through the jungle, slowly but steadily. We sent an agile sea dog in front to warn us of any ambushes. The local folk had already shown us their hospitality. 	“Cap’n, Cap’n!” The sea dog was running towards us, his hands and legs gory. 	“Report immediately! Is there an ambush up there?” 	“A fort!” announced the pirate, catching his breath. “There’s a fort to the north, Cap’n, with some of them bloody gnolls inside!” 	“A fort? Here, in these godforsaken lands?” I said, astounded. “Probably an old Erathian outpost,” surmised Patris. “In the days of old king Gryphonheart, such forts were built on pretty much any habitable island.” 	“Now that's interesting,” I said aloud. I put my hand on the sea dog’s shoulder: “You, wrap those wounds and rest awhile; you’ve done well. We’ll continue toward the fort and kindly ask the gnolls to find themselves another place to settle.”
+
+(9, 11, 0) ***Iron Golem***
+Message:
+“Access denied, password required!” a voice boomed from within the iron statue. 	The presence of these statues on the island warned me. I assumed they were golems, possibly guarding something of value. 	“Cap’n, these things look like they're guarding an old storehouse of some kind,” said Patris, pointing over the golems’ backs. “Surely there’s booty aplenty in there.” 	“Password not provided. Trespasser to be exterminated!” boomed the iron guard, jarring me from my deliberations. Suddenly, the guards attacked!
+
+(3, 6, 0) ***Gorgon***
+Message:
+Unexpectedly, we spotted our scout running toward us in full sail. He flew right past me before I could even get a word in. As we scanned our surroundings in confusion, several enormous beasts leapt out from the jungle. They looked like a cross between a cow and a basilisk.
+
+===== End of file =====
