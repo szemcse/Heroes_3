@@ -1,0 +1,110 @@
+Világítótorony	Ha van világítótornyod, hajóid többet mozoghatnak a vízen.	
+Griffbástya	A Griffbástya növeli a Griff-szaporulatot heti 3-mal.	
+Griffbástya	A Griffbástya növeli a Királyi Griff-szaporulatot heti 3-mal.	
+Hajógyár	A Hajógyárban hajókat vásárolhatsz.	
+Istállók 	Az Istállóknál növelni lehet a hõsök mozgásának maximális hosszát szárazföldön.	
+A Kard Testvérisége	Ostrom alatt a Kard Testvérisége javítja a várvédõk hangulatát +2-vel	
+		
+		
+		
+Kolosszus	A Kolosszus növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba és minden szövetséges hõs hangulatát javítja +2-vel.	
+Nyersanyagraktár	A Nyersanyagraktár napi +1 fát és +1 ércet ad.	
+Titokzatos Tó	A Titokzatos Tó hetente generál egy kevés véletlen mennyiségû nyersanyagot.	
+Bányászok Céhe	A Bányászok Céhe növeli a heti Törpe-szaporulatot 4-gyel.	
+Bányászok Céhe	A Bányászok Céhe növeli a heti Törpeharcos-szaporulatot 4-gyel.	
+		
+A Szerencse Forrása	A Szerencse Forrása növeli a várvédõ hõs szerencséjét 2-vel.	
+Kincstár	A Kincstár 10% kamatot ad a hét elején minden birtokolt aranyadra.	
+		
+Ent õrség	A Ent õrség növelik a heti Ent Fapásztor szaporulatot 2-vel.	
+Fejl. Ent õrség	A Fejl. Ent õrség növelik a heti Ent Harcos szaporulatot 2-vel.	
+Lelkek Õre	A Lelkek Õre növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba és minden szövetséges hõs szerencséjét javítja +2-vel.	
+Nyersanyagraktár	A Nyersanyagraktár napi +1 kristályt ad.	
+Varázstárgy-kereskedõk	A Varázstárgy-kereskedõknél egy névleges összegért varázstárgyakat vehetsz.	
+A Szobrász Mûhelye	A Szobrász Mûhelye növeli a heti Vízköpõ-szaporulatot 4-gyel.	
+A Szobrász Vésõje	A Szobrász Vésõje növeli a heti Obszidián Vízköpõ-szaporulatot 4-gyel.	
+		
+Kilátótorony	A Kilátótorony kiterjeszti a látható területet a várad körül.	
+Könyvtár	A Könyvtár újabb varázslatokkal egészíti ki a Mágus Toronyban tároltakat.	
+A Tudás Fala	A Tudás Fala minden látogató hõs Tudás Értékét növeli 1-gyel.	
+		
+		
+Léghajó	A Léghajó növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba, láthatóvá teszi az egész világot és a várvédõ hõsnek 150 varázspontot ad (ezek a varázslatpontok nem maradnak meg annak a hõsnek, aki elhagyja a várost).	
+Nyersanyagraktár	A Nyersanyagraktár napi +1 drágakövet ad.	
+		
+Szülõtavak	Növelik a heti Ördögfióka-szaporulatot 8-cal.	
+Szülõtavak	Növelik a heti Kísérõ-szaporulatot 8-cal.	
+		
+Kénes Viharfelhõk	A Kénes Viharfelhõk ostrom alatt 2-vel növelik a várvédõ hõs Varázserejét.	
+Várkapu	Utazhatsz a szabad, Várkapuval rendelkezõ városok között.	
+A Tûz Rendje	A Tûz Rendje minden látogató hõs Varázserejét tartósan növeli 1-gyel.	
+Ketrecek	A Ketrecek növelik a heti Pokolkutya-szaporulatot 3-mal.	
+Ketrecek	A Ketrecek növelik a heti Kerberosz-szaporulatot 3-mal.	
+A Tûz Istene	A Tûz Istene növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba és ezután minden hét az Ördögfióka hete lesz.	
+Nyersanyagraktár	A Nyersanyagraktár napi +1 higanyt ad.	
+A Sötétség Fátyla	A Sötétség Fátyla tartósan eltakarja a várad környékét a többi játékos elõl.	
+Kihantolt Sírok	A Kihantolt Sírok növelik a heti Csontváz-szaporulatot 6-tal.	
+Kihantolt Sírok	A Kihantolt Sírok növelik a heti Csontváz harcos-szaporulatot 6-tal.	
+Hajógyár	A Hajógyárban hajókat vásárolhatsz.	
+Nekromancia Erõsítõ	Minden Nekromanciával rendelkezõ hõsödnek növeli ezt a szakértelmét 10%-kal.	
+Csontváz-átalakító	A Csontváz-átalakítóban bármilyen lényt csontvázzá alakíthatsz át.	
+		
+		
+		
+Lelkek Börtöne	A Lelkek Börtöne növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba és 20%-kal növeli a Nekromancia szakértelmét minden (ezzel rendelkezõ) hõsödnek.	
+Nyersanyagraktár	A Nyersanyagraktár napi +1 fát és +1 ércet ad.	
+Varázstárgy-kereskedõk	A Varázstárgy-kereskedõknél egy névleges összegért varázstárgyakat vehetsz.	
+Gombakörök	A Gombakörök növelik a heti Barlanglakó-szaporulatot 7-tel.	
+Gombakörök	A Gombakörök növelik a heti Pokoli Barlanglakó-szaporulatot 7-tel.	
+		
+Mana örvény	A Mana örvény megduplázza egy hõs varázspontjait, hetente egyszer.	
+Az Idézés Kapuja	Az Idézés Kapujával hetente megveheted egy külsõ lakás lényszaporulatát.	
+Harci Tudósok Akdémiája	Az Akadémia +1000 TP-t ad a látogató hõsöknek (hõsönként  egyszer).	
+		
+		
+A Föld Védelmezõje	A Föld Védelmezõje növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba és 12-vel növeli az ostromlott hõs Varázserejét.	
+Nyersanyagraktár	A Nyersanyagraktár napi +1 kénkövet ad.	
+Menekülõjárat	Ostrom során a várvédõ hõs elszökhet a menekülõjáraton keresztül.	
+ Étkezde 	Az Étkezde növeli a heti Goblin-szaporulatot 8-cal.	
+ Étkezde 	Az Étkezde növeli a heti Hobgoblin-szaporulatot 8-cal.	
+		
+Rabszolgakereskedõk	A Rabszolgakereskedõk Céhében eladhatod egységeidet.	
+Nyílvetõ-raktár	Ezzel a Kovácsmûhely-fejlesztéssel csapataidnak már Nyílvetõt is vehetsz.	
+Valhalla	A Valhalla minden látogató hõs Támadási Értékét növeli 1-gyel.	
+		
+		
+A Hadvezér Emlékmûve	A Hadvezér Emlékmûve növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba és ostrom során 20-szal növeli a várvédõ hõs Támadási Értékét.	
+Nyersanyagraktár	A Nyersanyagraktár napi +1 fát és +1 ércet ad.	
+A Hadvezérek Ketrece	A Hadvezér Ketrece minden látogató hõs Védekezési Értékét növeli 1-gyel.	
+A Kapitány Szállása	A Kapitány Szállása növeli a heti Gnoll-szaporulatot 6-tal.	
+A Kapitány Szállása	A Kapitány Szállása növeli a heti Gnoll Martalóc-szaporulatot 6-tal.	
+Hajógyár	A Hajógyárban hajókat vásárolhatsz.	
+A Félelem Rúnái	A Félelem Rúnái ostromkor 2-vel növelik a várvédõ hõs Védekezési Értékét.	
+A Vér Obeliszkje	A Vér Obeliszkje ostromkor 2-vel növeli a várvédõ hõs Támadási Értékét.	
+		
+		
+		
+Húsevõ Növény	A Húsevõ Növény növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba és ostrom során 10-zel növeli a várvédõ hõs Támadási és Védekezési Értékét.	
+Nyersanyagraktár	A Nyersanyagraktár napi +1 fát és +1 ércet ad.	
+Varázstárgy-kereskedõk	A Varázstárgy-kereskedõknél egy névleges összegért varázstárgyakat vehetsz.	
+Az Élet Kertje	Az Élet Kertje 10-zel növeli a heti Tündérke-szaporulatot.	
+Az Élet Kertje	Az Élet Kertje 10-zel növeli a heti Tündér-szaporulatot.	
+Hajógyár	A Hajógyárban hajókat vásárolhatsz.	
+Varázsegyetem	A Varázsegyetemen hõseid fizetség fejében megtanulhatják a varázslat négy szférájának szakértelmét.	
+		
+		
+		
+		
+Északi Fény	Az Északi Fény növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba és Varázscéhedben elérhetõvé teszi az összes varázslatot.	
+Nyersanyagraktár	A Nyersanyagraktár napi +1 higanyt ad.	
+Varázstárgy-kereskedõk	A Varázstárgy-kereskedõknél egy névleges összegért varázstárgyakat vehetsz.	
+1. Szintû Lények Serege	Ez az épület növeli az 1. szintû lények heti szaporulatát.	
+2. Szintû Lények Serege	Ez az épület növeli az 2. szintû lények heti szaporulatát.	
+Hajógyár	A Hajógyárban hajókat vásárolhatsz.	
+		
+		
+3. Szintû Lények Serege	Ez az épület növeli az 3. szintû lények heti szaporulatát.	
+4. Szintû Lények Serege	Ez az épület növeli az 4. szintû lények heti szaporulatát.	
+5. Szintû Lények Serege	Ez az épület növeli az 5. szintû lények heti szaporulatát.	
+Grál	A Grál növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba és minden vártípusnak ad egy egyéni bónuszt.	
+Nyersanyagraktár	A Nyersanyagraktár napi +1 nyersanyagot ad.	

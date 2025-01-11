@@ -1,0 +1,124 @@
+Note: Do not change the headings in this file, they are used to detect problems	
+Status Bar Message	Tool Tip
+Segítségért nyomd le az F1 gombot	
+Új térkép	Új térkép [Ctrl+N]
+Térkép megnyitása	Térkép megnyitása [Ctrl+O]
+A jelenlegi térkép elmentése	Térkép mentése [Ctrl+S]
+A jelenlegi térkép elmentése más néven	Térkép mentése másként
+Program információk, verzió szám és szerzõi jogok	Névjegy
+Térkép szerkesztõ bezárása	Kilépés
+Súgótémák megjelenítése	Súgótémák
+Súgó megjelenítése a jelenlegi feladathoz	Segítség
+Ezen térkép megnyitása	
+A kiválasztott objektum másolása és vágólapra helyezése	Másolás [Ctrl+C]
+A kiválasztott objektum kivágása és vágólapra helyezése	Kivágás [Ctrl+X]
+Egy meghatározott típusú objektum keresése	
+A vágólap tartalmának beszúrása	Beillesztés [Ctrl+V]
+Az utolsó esemény visszavonása	Visszavonás [Ctrl+Z]
+Az elõzõleg végre nem hajtott feladat megismétlése	Újra [Shift+Ctrl+Z]
+Az ablak méretének megváltoztatása	
+Az ablak pozíciójának megváltoztatása	
+Az ablak lecsökkentése ikon méretre	
+Az ablak nagyítása teljes képernyõre	
+Az ablak bezárása	
+Ablak visszaállítása a normál méretre	
+Az alvilág megtekintése	Alvilág [Ctrl+U]
+Térkép bejárhatóságának megmutatása	Bejárhatóság [Ctrl+P]
+Terep elhelyezése 	Terep típusok 
+Vizek elhelyezése	Folyó típusok
+Utak elhelyezése 	Út típusok
+Objektumok törlése	Radír
+Fölt objektumok elhelyezése	Objektumok föld típusú talajra [Q]
+Homok objektumok elhelyezése	Objektumok homok típusú talajra [W]
+Füves objektumok elhelyezése	Objektumok füves talajra [E]
+Havas objektumok elhelyezése	Objektumok havas talajra [R]
+Mocsaras objektumok elhelyezése	Objektumok mocsaras talajra [T]
+Törmelékes objektumok elhelyezése	Objektumok törmelékes talajra [Y]
+Föld alatti objektumok elhelyezése	Objektumok föld alatti talajra [U]
+Lávás objektumok elhelyezése	Objektumok lávás talajra [I]
+Vízi objektumok elhelyezése	Objektumok vízi felületre [
+
+Városok elhelyezése	Városok [S]
+Egységek elhelyezése	Egységek [D]
+Hõsök elhelyezése	Hõsök [F]
+Varázstárgyak elhelyezése	Varázstárgyak [G]
+Kincsek elhelyezése	Kincsek [H]
+Objektumok animálása a térképen	
+A térkép leírásának módosítása	
+Az 1x1-es ecset kiválasztása	1x1-es ecset [Z]
+A 2x2-es ecset kiválasztása	2x2-es ecset [X]
+A 4x4-es ecset kiválasztása	4x4-es ecset [C]
+Kerületes ecset kiválasztása	Kerületes ecset [V]
+Föld típusú terep kiválasztása	Föld [1]
+Homok típusú terep kiválasztása	Homok [2]
+Fû típusú terep kiválasztása	Fû [3]
+Hó típusú terep kiválasztása	Hó [4]
+Mocsár típusú terep kiválasztása	Mocsár [5]
+Törmelék típusú terep kiválasztása	Törmelék [6]
+Föld alatti típusú terep kiválasztása	Föld alatti [7]
+Láva típusú terep kiválasztása	Láva [8]
+Víz típusú terep kiválasztása	Víz [-]
+Folyó törlése 	Folyók törlése [Alt+1]
+Jeges víz kiválasztása 	Jeges víz [Alt+2]
+Üledékes víz kiválasztása  	Üledékes víz [Alt+3]
+Lávafolyam kiválasztása   	Lávafolyam [Alt+4]
+A kavicsolt közút úttípus kiválasztása	Kavicsolt közút [Shift+2]
+A kõvel kirakott típusú út kiválasztása	Kõvel kirakott utak [Shift+3]
+Az 1x1-es ecset kiválasztása	1x1-es ecset [Shift+Z]
+A 2x2-es ecset kiválasztása	2x2-es ecset [Shift+X]
+A 4x4-es ecset kiválasztása	4x4-es ecset [Shift+C]
+Kerületes ecset kiválasztása	Kerületes ecset [Shift+V]
+Semleges játékos beállítása	
+A %s játékos kiválasztása	
+Földút kiválasztása	Földút [Shift+1]
+Sziklás terep kiválasztása	Szikla [=]
+A kiválasztott objektum törlése	Törlés
+A kiválasztott objektum tulajdonságainak megtekintése	Tulajdonságok
+Háló bekapcsolása	Háló
+Az összes objektum megjelenítése 	Összes objektum [A]
+Az 1x1-es ecset kiválasztása	1x1-es ecset
+A 2x2-es ecset kiválasztása	2x2-es ecset
+A 4x4-es ecset kiválasztása	4x4-es ecset
+Kerületes ecset kiválasztása	Kerületes ecset
+A térképen elõfordulható hibák ellenõrzése	Térkép ellenõrzése [M]
+A térkép elemeinek animálása	
+A program beállításainak módosítása	
+A jelenlegi térkép szövegeinek exportálása egy szöveges fájlba	
+Egy szöveges fájl importálása a jelenlegi térképbe	
+A kiválasztott objektum leírása	
+Az utoljára megadott típusú objektum keresése	
+Az utoljára megadott típusú objektum keresése -visszafelé	
+Távolítás a térképen	Távolít
+Közelítés a térképen	Közelít
+Az eszköztár megjelenítése vagy elrejtése 	Eszköztár kapcsoló
+Az állapotsor megjelenítése vagy elrejtése	Állapotsor kapcsoló
+Térkép elemek megjelenítése vagy elrejtése	Térkép elemek kapcsoló
+Akadályok automatikus elhelyezése	Akadályok
+1x1-es körülhatárolt ecset	1x1-es körülhatárolt ecset [Shift+Q]
+2x2-es körülhatárolt ecset	2x2-es körülhatárolt ecset [Shift+W]
+4x4-es körülhatárolt ecset	4x4-es körülhatárolt ecset [Shift+E]
+Körülhatárolt-terület radír	Körülhatárolt-terület radír [Shift+R]
+1x1-es nagysugarú ecset	1x1-es nagysugarú ecset [Shift+Alt+Q]
+2x2-es nagysugarú ecset	2x2-es nagysugarú ecset [Shift+Alt+W]
+4x4-es nagysugarú ecset	4x4-es nagysugarú ecset [Shift+Alt+E]
+Nagysugarú-terület radír	Nagysugarú-terület radír [Shift+Alt+R]
+1x1-es körülhatárolt-terület radír	1x1-es körülhatárolt-terület radír [Shift+A]
+2x2-es körülhatárolt-terület radír	2x2-es körülhatárolt-terület radír [Shift+S]
+4x4-es körülhatárolt-terület radír	4x4-es körülhatárolt-terület radír [Shift+D]
+Körülhatárolt-terület radír	Körülhatárolt-terület radír [Shift+F]
+1x1-es nagysugarú radír	1x1-es nagysugarú radír [Shift+Alt+A]
+2x2-es nagysugarú radír	2x2-es nagysugarú radír [Shift+Alt+S]
+4x4-es nagysugarú radír	4x4-es nagysugarú radír [Shift+Alt+D]
+Nagysugarú-terület radír	Nagysugarú-terület radír [Shift+Alt+F]
+Akadályok elhelyezése a megjelölt területeken	Akadályok elhelyezése [Shift+O]
+A folyó radír kiválasztása	Folyó radír [Alt+5]
+Az út radír kiválasztása	Út radír [Shift+4]
+Válasszd ki a hegyvidéki tereptípust	Hegyvidék [9]
+Helyezzen el hegyvidéki tárgyakat	Hegyvidéki tárgyak [O]
+Válasszd ki a puszta tereptípusát	Pusztaság [0]
+Helyezzen el puszta objektumokat	Puszta objektum [P]
+Válasszd ki az egységgenerátorokat	Egységgenerátor [J]
+Válasszd ki a teleportálókat	Teleportálók [K]
+Válaszd ki a Helyõrséget, határõrséget és sátrakat	Helyõrség, határõrség és sátrak [L]
+Válaszd ki a varázslatos terepet	Varázslatos terep [;]
+Válaszd ki a különféle dekorációkat	Különféle dekorációk ]
