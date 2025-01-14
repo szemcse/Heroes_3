@@ -1,0 +1,879 @@
+Miscellaneous and Unorganized Game Text		
+Nem lehet managert hozzáadni!		
+%s nem gyûjthet több tapasztalot ezen a pályán.		
+"{%d. Szint}
+
+{Következõ szint:} %d
+{Jelenlegi tapasztalat:} %d"		
+%d/nap		
+vagy		
+%s seregeit legyõzték és messze földre számûzték!		
+"%s, elvesztetted az utolsó váradat is.  Ha egy héten belül nem szerzel új várat elveszted a játékot!"		
+"%s, hõseid elhagytak téged, és számûztek errõl a földrõl."		
+"%s hõsei elhagyták õt, és kiûzték errõl a földrõl."		
+"Nem lehet a játékot ""%s"" néven menteni."		
+Hiba %s fájl megnyitása közben!		
+NEWGAME		
+Biztos hogy feloszlatod ezt a csapatot??		
+%s köre.		
+Hiba az adat fogadása közben. Megpróbálod újra?		
+%s a(z) %s		
+Vásárlás:		
+Nincs hely a helyõrségben ennek az egységnek a számára.		
+Már van %d hõs az irányításod alatt!.		
+Ennek a hõsnek nincsenek harcosai. Harcosok nélkül nem szállhat szembe a vidék veszélyeivel!		
+Videó Minõség		
+Ez a tárgy nem adható át!		
+Biztos, hogy elbocsátod ezt a hõst?		
+Varázslat célpontjának kiválasztása		
+Érvénytelen teleport-célpont		
+Teleportálás ide		
+%s varázslása		
+%s varázslása a következõre: %s		
+Biztos, hogy megfutamodsz?		
+Nincs elég aranyad!		
+Megszerezted az ellenség varázstárgyát!		
+Semmi		
+"%s kijelenti:
+
+""Elfogadom a megadásodat és biztosítom csapataid biztonságos elvonulását %d aranyért."""		
+A jó Hangulat lehetõvé tesz a %s-nak egy újabb támadást.		
+A rossz Hangulat miatt a %s képtelenek mozdulni a pániktól.		
+Szabadíts fel helyet csapatodban a  %s számára		
+%s megtámadása (sebzés: %s, meghal: %s)		
+"%s meglövése (1 lövés van hátra, sebzés: %s, meghal: %s)"		
+Hadjárat leírása:		
+%s aktív.		
+Session neve		
+Felhasználónév		
+egység		
+egység		
+Rossz szerencse száll a %s-ra		
+A jó szerencse ráragyog a %s-ra		
+Kincs		
+%s: %s támadás alatt!		
+Város		
+Hõs		
+Város-képernyõ		
+Lehetetlen másik hajót építeni!		
+Szükséges:		
+<SYSTEM>:		
+"{Világtérkép}
+
+Ez a világ kicsinyített képe.  Bárhova kattintva az a pont lesz a kalandtérkép középpontja, húzva a doboz körvonalát pedig görgethetjük a térképet."		
+"Egy vagy több hõs még mozoghat. Biztos be akarod fejezni a kört?"		
+"Az ásás egy egész napot vesz igénybe. Próbálkozz holnap!"		
+A hõsnél nincs elég hely még egy varázstárgy számára!		
+"Az ásás fárasztó órái után végre megcsillant a földben a "		
+"Itt semmi sincs.
+Hol lehet?"		
+A földön keresd!		
+Felderítetlen Terület		
+Hónap		
+Hét		
+Nap		
+Kattints jobb gombbal egy ellenségre annak megtekintéséhez.		
+ping=%dms		
+"Biztos újrakezded?
+(A jelenlegi játékod elveszik)"		
+"Biztos új játékot kezdesz?
+(A jelenlegi játékod elveszik)"		
+Biztos, hogy kilépsz?		
+A varázslat nem sikerült!		
+Válassz egy bónuszt:		
+ping		
+pingelés: %s...		
+mindenki pingelése...		
+Pontok		
+AUTOSAVE		
+{Kezdõ hõs}		
+{Hõs specialitása}		
+{Hozzátartozó egységek}		
+{Város fajtája}		
+Hiba az adat küldése közben. Folytassam a próbálkozást?		
+Legalább két játékosra van szükség többjátékos módban való játékhoz. Válassz egy új pályát vagy ellenõrizd a További beállításokat!		
+{Varázstárgy bónusz}		
+{Arany bónusz}		
+{Nyersanyag bónusz}		
+{Véletlenszerû bónusz}		
+500-1000		
+A Végítélet %d pontnyit sebez.		
+5-10 fa / 5-10 érc		
+A kezdõ hõsöd egy véletlenszerûen kiválasztott varázstárggyal felszerelve kezd		
+A gyengítõ sugár csökkenti a védekezési értéket %d egységnyivel.		
+"A játék elején 500-1000 arany kerül a kincstáradba"		
+"A játék elején 5-10 fa és 5-10 érc kerül a kincstáradba"		
+"A kezdõ bónusz véletlenszerûen választódik ki a játék elején"		
+Legyõztek és kirekesztettek a harcból!		
+"Kiváló!
+Pontszámod bekerült a Legnagyobbak Csarnokába
+
+Írd be a neved:"		
+Keresd sima talajon!		
+Adat küldése		
+Adat fogadása		
+Chaos.mp2		
+{Véletlen Hõs}		
+"A kezdõ hõs véletlenszerûen választódik ki a kezdõ várhoz tartozó hõstípusokból"		
+{Véletlen Vár}		
+A kezdõ várad véletlenszerûen választódik ki.		
+"%s megadja magát és seregeivel együtt elvonul %d aranyért cserébe."		
+"A Heroes3: %s CD-ROM nem található!
+
+Egyjátékos mód játszásához és többjátékos játék létrehozásához szükség van a %s CD-re.
+
+Lépj ki és a játék újraindítása elõtt helyezd azt be. Többjátékos játékhoz való csatlakozáshoz nem szükséges a CD.
+
+Egyjátékos mód és többjátékos játék létrehozásához szükség van a %s CD-re. Lépj ki és a játék újraindítása elõtt helyezd azt be. Többjátékos játékhoz való csatlakozáshoz nem szükséges a CD."		
+Automentés...		
+PLYREXIT		
+"{Állapotkijelzõ}
+
+Ez az ablak információt szolgáltat a hõsöd vagy a birodalmad állapotáról és kijelzi a dátumot. Kattints ide a különbözõ információk közti léptetéshez."		
+Határ		
+%s %d manát elnyel a varázslatból.		
+%s %d manát elnyelnek a varázslatból.		
+A Heroes III  könyvtára nem található. Futtasd a telepítõt!		
+A Heroes III adatfájljai nem találhatóak. Futtasd a telepítõt!		
+"Hõseim! Az ellenségeinket szétszórtuk, a kastélyaikat leromboltuk vagy üresen állnak. A nagy hadjáratnak vége, és most már kétségbevonhatatlanul mint Nagykirály állok elõttetek!
+
+A gyõzelmet %d nap alatt értük el.!"		
+%d %s feltámad a halálból!		
+%d %s feltámad a halálból!		
+Egy %s meghal a %s szörnyûséges tekintete alatt.		
+%d %s meghal a %s szörnyûséges tekintete alatt.		
+"A(z) %s védekezõ állást vesz fel,
+és +%d védekezési értéket szerez."		
+"A(z) %s védekezõ állást vesz fel,
+és +%d védekezési értéket szerez."		
+%s TP		
+A legközelebbi város foglalt. A varázslat nem sikerült!		
+Nincs városod. A varázslat nem sikerült.		
+A hõsöd ma már túl fáradt ennek a varázslatnak a végrehajtásához. Próbálkozz holnap!		
+Csak látogató hõsök használhatják a Várkaput.		
+Nincs hõsöd a varázslat végrehajtásához.		
+A hõsöd már varázsolt ebben a körben.		
+Szeretnéd megmenteni %s seregét %d aranyért?		
+Képtelen a bemeneti eszközök inicializálására - valószínûleg hiba van az egérrel vagy a billentyûzettel.		
+Képtelen inicializálni a hangot.		
+Képtelen inicializálni az egeret.		
+Képtelen inicializálni az ablakokat - valószínû lemez- vagy memóriahiba.		
+"%s egy elhagyott hajógyárra talált. Sajnos, az út el van torlaszolva, így itt már nem lehet hajót vásárolni."		
+A varázslat nem sikerült! A hõsnek szárazföldön kell lennie ennek a varázslatnak a végrehajtásához.		
+"%s megáll, és jobb idõre vár a cselekvéshez."		
+"%s megállnak, és jobb idõre várnak a cselekvéshez."		
+"%s, %d. szintû %s"		
+"%s, aki alaposan tanulta a varázslást, "		
+megtanulja: 		
+ és 		
+ varázslatot %s-tól		
+hárítja		
+hárítja		
+"A Nekromancia sötét mûvészetét gyakorolva, a hõsöd képes %d ellenséges holttestet %sként feltámasztani."		
+"A Nekromancia sötét mûvészetét gyakorolva, a hõsöd képes egy ellenséges holttestet %sként feltámasztani."		
+megtanítja: 		
+ varázslatot %s számára		
+"{Varázspontok}
+
+Varázslatok végrehajtásához varázspontokra (manára) van szükség. A varázspontok maximális száma a tudás 10-szerese. Néha lehet ennél több Varázspontod is különleges helyek vagy események hatására."		
+Digitális hang nem elérhetõ ezen a rendszeren.		
+Nyílvetõ		
+A hátizsákod teli van.		
+"A hátizsákodban sajnos nincs hely egy olyan nagy tárgy számára, mint egy %s."		
+%s megsemmisült.		
+Támadás: %d. Sebzés: %d-%d. Találati pont: %d / %d.
+Figyelmen kívül hagyja az ellenség védelmét."		
+Lövegtorony információ megtekintése.		
+%d %snyi %sért cserébe %d %snyi, %s típusú nyersanyagot kérek Tõled. Elfogadod az ajánlatomat?		
+Piactér		
+Kereskedelmi Állomás		
+egység		
+egység		
+Alkalmi vételben volt részed... Azt hiszem, semmit sem kerestem ezen az üzleten. Érdekel még valamelyik árum?		
+"Vess egy pillantást nagyszerû áruimra. Ha vásárolni szeretnél valamelyikbõl, kattints a cserélni kívánt árukra!"		
+-		
+%s átadása %s játékosnak.		
+Akarsz még adni valamilyen nyersanyagot valakinek?		
+"Ha egy játékosnak nyersanyagokat akarsz küldeni, kattintással válaszd ki, hogy mit küldesz és kinek."		
+Vásárolható Áruk		
+Játékosok		
+%s megvédi a  %s-t		
+%s - a varázslat csak ellenségekre alkalmazható		
+1. Szint		
+2. Szint		
+3. Szint		
+4. Szint		
+5. Szint		
+%s - a varázslat csak szövetséges egységekre alkalmazható		
+"Írd be az IP-címet.
+(pl. 220.415.119.223)"		
+%s nincs hatással %s-ra		
+%s immunis %s varázslatra		
+Nincs elég hely %s elhelyezéséhez		
+Ha nincsenek városfalak, a Földrengés varázslat nem használ semmit!		
+A hõsödnek már van %d egysége, többet nem képes elhelyezni.		
+"Támadás
+Védekezés
+Varázserõ
+Tudás"		
+A varázslat senkire sem hat!		
+"%s varázslat %d egységnyi sebzést okozott
+az összes élõhalott egységnek."		
+"A Halálvarázslat %d egységnyi sebzést okozott
+minden élõ egységnek."		
+A Tükörkép varázslat nem sikerült!		
+A %s %s a varázslatot!		
+Támadás		
+Védekezés		
+A Repülés varázslat nem elég erõs, hogy egy hajóra is hasson.		
+Sebesség		
+Szaporulat		
+%s '%s' varázslatot varázsol a következõre: %s.		
+%s '%s' varázslatot varázsol.		
+%s játékos		
+Lövések		
+Sebzés		
+Jelenlegi ÉP		
+Lejárt az idõd. A következõ kör következik.		
+Védõk:		
+"
+A hõsöd megtanulta %s %s-t."		
+"
+A hõsöd megtanulhatja valamelyiket: %s %s vagy %s %s."		
+"{Varázspontok}
+
+Varázslatok végrehajtásához varázspontokra (manára) van szükség. A varázspontok maximális száma a Tudás 10-szerese. Néha lehet ennél több Varázspontod is különleges helyek vagy események hatására."		
+"Ez a varázslat %d Varázspontba kerül.  A hõsödnek csak %d Varázspontja van, ezért nem képes végrehajtani a varázslatot."		
+"Az egységeid megfelelõ kiképzésére némi pénzt kell fordítanod. Biztos fel akarod õket fejleszteni?"		
+%s fedezte fel a legtöbb obeliszket.		
+%s találta a legtöbb varázstárgyat.		
+%s hadserege a legerõsebb.		
+%s keresi a legtöbb aranyat.		
+A Grál %s játékosnál található.		
+"Hogy varázsolni tudjon, hõsödnek szüksége van egy varázskönyvre, ami 500 aranyba kerül. Pillanatnyilag, sajnos, még ennyi pénzed sincs..."		
+"Hogy varázsolni tudjon, hõsödnek szüksége van egy varázskönyvre, ami 500 aranyba kerül. Vásárolsz egyet?"		
+"%s egy %d. szintû %s
+%d varázstárggyal a birtokában."		
+"Egy kis borravaló után a kocsmáros a füledbe súgta:
+%s"		
+Elérhetõ:		
+Pontszám		
+Minden feltétel megvan a felépítéséhez.		
+%s megtámadása		
+"Sasszemû megfigyelésen keresztül %s megtanulta %s varázslatot"		
+Elfogyott a memória.		
+Nem lehet felépíteni. Már építkeztél ebben a körben!		
+%s '%s' elveszítése.		
+'%s' nevû hõs elveszítése.		
+"Nincs gyõzelem %d. hónap, %d. hét,  %d. napra"		
+Az összes hõs és város elvesztése.		
+%s '%s' elfoglalása.		
+'%s' nevû hõs legyõzése.		
+A Grál megtalálása.		
+%s megtalálása.		
+%d %s megszerzése.		
+  Legyõzheted az összes ellenségedet is.		
+Minden ellenséges város és hõs legyõzése.		
+Te és szövetségeseid		
+Te és a szövetségesed		
+ és		
+Te		
+az ellenséges szövetség		
+az ellenség -		
+"{Tapasztalat}
+
+A Tapasztalat lehetõvé teszi a hõsöknek a szintlépést, így gyarapítva Elsõdleges és Másodlagos szakértelmeiket."		
+"{Nyersanyagok}
+
+A Heroes III-ban hét nyersanyag van, amelyeket városok építésére és fejlesztésére, csapatok vásárlására és hõsök felfogadására költhetsz. Az arany a legközönségesebb, gyakorlatilag mindenhez szükséges. A legtöbb épülethez szükség van fára és ércre. A Drágakõ, a Kén, a Higany és a Kristály ritka, varázslatos anyagok, a legerõsebb épületekhez és egységekhez van rájuk szükség."		
+Ezek a egységek csatlakozni fognak hozzád!		
+"Az egész csapat csatlakozik hozzád...
+
+%d aranyért."		
+Ezek a gyenge egységek biztosan elmenekülnek elõled.		
+Attól félek, ezek az egységek harcos kedvükben vannak.		
+A Grál utáni keresés eredménytelen.  A hõsöd még akkor sem tudja magával vinni, ha megtalálja - mindegy varázstárgy-hely teli van.		
+Képtelen elérni a CD-meghajtót.  A CD-ROM nélkül csak multiplayert tudsz játszani.		
+"Elfoglaltad a %s városát, és így gyõztél!"		
+"Az ellenséged elfoglalta %s városát, így övé a gyõzelem!"		
+%s városa az ellenség kezére jutott - minden elveszett!		
+Teljesítetted a küldetést, legyõzted az ellenség %s nevû hõsét. A gyõzelem a tiéd!		
+"A hõs, %s, vereséget szenvedett - vége a küldetésednek!"		
+"Sajnos lejárt a küldetésedre fordítható idõ. Minden elveszett!"		
+Napi bevétel		
+%s szétosztása		
+Mégse		
+Varázstárgyak		
+Hordott		
+Csaló!!!		
+Vegyes		
+Hátizsákban		
+A Grál a világ %s területein található.		
+A Grál az alvilág %s területein található.		
+"Szaporu-
+latok"		
+"Vásárlás"		
+Felajánlhatok neked %s-t %d %s %s-ért?		
+Felajánlhatok neked %d %s %s-t a Te %s-ért?		
+felajánlhatok neked %d %s %s-t %d %s-ért.		
+A Birodalom Nyersanyagai		
+%s Varázstárgyai		
+%s Harcosai		
+Csak látogató hõsök vehetik igénybe a %s szolgáltatásait!		
+Új %s építése		
+Nincs elég hely a helyõrségben.		
+Több, mint %d %s van a seregeidben. Az ellenségeidnek most már nincs más választása, mint meghajolni elõtted!		
+Az ellenséged csapataiban több mint %d %s van. Nincs más választásod mint elfogadni a vereséged!		
+Kincstáradban több mint %d %s van. A gyõzelem a tied!		
+Ellenséged kincstárában már több mint %d %s van. A gyõzelem az övé!		
+"Megtaláltad a %s-t és tiéd a gyõzelem!"		
+"Ellenséged megtalálta a %s-t és övé a gyõzelem!"		
+"Sikeresen felfejlesztetted városodat és így tied a gyõzelem!"		
+"Városa sikeres fejlesztésével ellenséged megszerezte a gyõzelmet!"		
+"Felépítetted a Grál állandó helyét és megszerezted a gyõzelmet!"		
+"Ellenséged felépítette a Grál állandó helyét és megszerezte a gyõzelmet!"		
+"A félelmetes szörny megölésével teljesítetted küldetésed és gyõztél!"		
+"Ellenséged legyõzte a félelmetes szörnyet, így övé a végsõ gyõzelem!"		
+Minden egység lakásán a Te zászlód lobog. Gyõztél!		
+Minden egység lakásán az ellenséged zászlaja lobog. Vesztettél!		
+Minden bányán a Te zászlód lobog. Gyõztél!		
+Minden bányán az ellenséged zászlaja lobog. Vesztettél!		
+"Elérted célpontodat, a rakomány pedig sértetlen, így tied a gyõzelem!"		
+Az ellenség sértetlenül eljutatta a célpontba a szállítmányt, így Õ a gyõztes!		
+%s küldése ide.		
+%s reptetése ide.		
+"%s meglövése (%d lövés maradt, sebzése: %s, meghal: %s)"		
+%s infók megtekintése.		
+Nincs több töltényed!		
+%s feltámasztása		
+%s feltámasztása Démonként		
+Varázslat végrehajtása %s célponton		
+Az ellenség megadta magát!		
+Az ellenség megfutamodott!		
+Fényes gyõzelem!!		
+"
+
+Hõsiességéért a csatában, %s %d TP-t kap."		
+"%s megadja magát és szégyenkezve elvonul."		
+ %s gyáván megfutamodik a csatából.		
+"A csapatod keserû vereséget szenvedett, %s elhagy téged."		
+"Csapataid megadják magukat és szégyenkezve elvonulnak."		
+Csapataid gyáván megfutamodnak.		
+Csapataid keserû vereséget szenvedtek.		
+A Katapultnak mindig nálad kell lennie.		
+Ez az egység már fejlesztett.		
+Nem tudod finanszírozni a csapat fejlesztését.		
+Már az összes egység fejlesztett.		
+Nem tudod finanszírozni az összes csapat fejlesztését.		
+vár		
+%s fejlesztése.		
+Építsd fel a Grált %s várában.		
+Építsd fel a Grált valamelyik váradban.		
+Gyõzd le a %s-t a világ %s területein.		
+Gyûjts össze %d %s-t birodalmad seregeiben.		
+Szerezd meg az összes egység lakását.		
+Szerezd meg az összes bányát.		
+Szállítsd el a %s nevû varázstárgyat %s várába.		
+Nincs elég hely a hátizsákodban.		
+Várakozás a többi játékosra		
+"A kapcsolatod elveszett."		
+Nem tudod finanszírozni egy hajó építését.		
+(felásható)		
+Valaki csal!		
+Valaki átállította a debug-szintet!		
+%s már hajón van.		
+Nincs hely a hajónak.		
+Nincs megidézhetõ hajó.		
+"%s megpróbált megidézni egy hajót, de nem sikerült neki."		
+"%s megpróbált elsüllyeszteni egy hajót, de nem sikerült neki."		
+%s nem elég képzett, hogy ma még egyszer használja ezt a varázslatot.		
+"%s, %d. szintû"		
+A Harci bilincsek jelenlétében %s nem menekülhet el!		
+A Harci bilincsek jelenlétében %s nem adhatja meg magát!		
+%d. szintû %s		
+"
+%d egységnyi sebzést okoz."		
+ingyen		
+-		
+"Ár/egység"		
+%s a látnok		
+ (%s után kutat)		
+Feketepiac		
+%s - sikeres mentés.		
+%s köre.		
+(Már jártál itt)		
+(Még nem jártál itt)		
+(Már ismert)		
+(%s megtanulása)		
+(%s megtanulása)		
+(Már ismert)		
+%s ajándékot küld neked		
+%s értékelné, ha a Te ajándékod %s lenne		
+%s méltányolná bármelyiket ezek közül.		
+A %s %d egységnyi életet szív el %s-tól.		
+A %s %d egységnyi életet szív el %s-tól.		
+"
+ és egy feltámad a halálból."		
+"
+ és %d feltámad a halálból."		
+%s dupla sebzést okoz!		
+%s dupla sebzést okoz!		
+Villám csap le a(z) %s-ra!		
+"Haragtól égve a(z) %s 150%%-os sebzést okoz %s-nak."		
+"Haragtól égve a(z) %s 150%%-os sebzést okoz %s-nak."		
+"%s sebei összezárulnak, és újra egészséges."		
+"%s sebei összezárulnak, és újra egészséges."		
+"{Taktikai szakasz}
+
+A Taktikai szakaszban a nagyobb Taktika tudással rendelkezõ hõs elrendezheti csapatait."		
+A %s Varázspontokat lop %s-tól!		
+A %s Varázspontokat lop %s-tól!		
+lövegtorony		
+A %s %d egységnyi sebzést okoz.		
+A %s %d egységnyi sebzést okoz.		
+"
+Egy %s meghal."		
+"
+%d %s meghal. "		
+TÉ		
+VÉ		
+VE		
+TU		
+Hangulat		
+Szerencse		
+Sebzés		
+Varázspontok		
+Életerõ		
+Életerõ		
+Barát		
+Ellenség		
+Harci beállítások		
+Animáció sebessége		
+Zene hangereje		
+Effektek hangereje		
+Auto Csata beállításai		
+Egység Információ		
+Egységek		
+Varázslatok		
+Katapult		
+Elsõsegély-sátor		
+Minden statisztika		
+Csak a varázslatok		
+Hexarács mutatása		
+Mozgásárnyékolás		
+Kurzorárnyék		
+Veszteségek		
+ Támadó		
+ Védõ		
+Gyõztes		
+Vesztes		
+Következõ kör.		
+"%s úgy érzi, az ellenség megsemmisítõ fölényben van.
+
+Megfutamodsz?"		
+"Az %s meggyógyítja %s-t
+eltüntetve %d egységnyi sérülést."		
+Az aktuális játékos elhagyta a játékot! A körét a gép újrajátssza.		
+A másik játékos is elhagyta a játékot!  Nyertél!		
+Hõs statisztikájának megtekintése		
+Ellenséges hõs statisztikájának megtekintése		
+Elsõsegély nyújtása %s-nak		
+"{Varázstárgy}
+
+A tisztáson egy õsi varázstárgyra bukkantál, ám azt sajnos %s %s õrzi.  Megharcolsz velük a kincsért?"		
+"Balszerencsédre a(z) %s egység lakást %s %s védi.
+
+Megharcolsz velük az épületért?"		
+"Nincs vásárolható %s.
+"		
+"%d %s csatlakozik a csapatodhoz.
+"		
+"Réges-régen ez a város sárkányok és a felhalmozott kincsük otthona volt, de ma már teljesen üres."		
+"%s csatlakozni szeretne a hõshöz, de nincs elég élelem az ellátásukra."		
+varázstárgy		
+varázstárgyak		
+minden nyersanyagból		
+helyõrség		
+ Régi Pályaformátum		
+"A játékos elhagyta a játékot az átvitel alatt.  Viszontlátásra!"		
+Minden egység fejlesztése		
+Rang		
+Játékos		
+Pálya		
+Napok		
+"
+Csaló! +maximum"		
+"Teljes
+Idõ"		
+"Alap
+Pontszám"		
+Nehézség		
+"Végsõ
+Pontszám"		
++1 Szint		
+"
+***Command Line Help***
+
+/S0 - hang és zene kikapcsolása
+/I0 - intro átugrása
+
+Például:
+
+h3hota /S0 /I0
+
+Ha ezzel a paranccsal indítod a Heroes3-at, akkor nem lesz hang és intró a játékban.
+"		
+%s szintet lépett.		
+%s már egy %d. szintû %s		
+"Helyi játék
+Írd be a neveket:"		
+A modem inicializálása eredménytelen. Ellenõrizd, majd próbáld újra.		
+Modemes kapcsolat		
+A soros portos kapcsolat inicializálása eredménytelen. Ellenõrizd, majd próbáld újra.		
+Soros portos kapcsolat		
+Hiba a soros portos kapcsolat létrehozása közben. Próbáld újra!		
+Az én játékom		
+Jelszó:		
+Nincs létrehozott játék a szerveren!		
+"Hiba lépett fel a játékhoz való kapcsolódás közben. Próbáld újra!"		
+Játék nem található.  Próbáld újra!		
+Érvénytelen jelszó!		
+A TCP/IP kapcsolat inicializálása eredménytelen. Ellenõrizd, majd próbáld újra.		
+"Az IP címed:
+%s"		
+Az IPX kapcsolat inicializálása eredménytelen. Ellenõrizd, majd próbáld újra.		
+Jelszó (nem kötelezõ):		
+Ez az IP cím nem található!		
+Puzzle-térkép		
+Vidd el  %s-t %s-nak.		
+"Elérhetõ "		
+Teljes Ár		
+Hiba a host-géphez való csatlakozás közben. Próbáld újra!		
+Gép		
+%s elhagyta a játékot.		
+Most Te vagy a host!		
+Várakozás a távoli játékos szintválasztására....		
+Egy gépi játékos megtámadott egy távoli emberi játékost. Várakozás a csata befejezésére....		
+pletykálják		
+pletykálják		
+Szintlépéshez szükséges tapasztalat		
+Teljes tapasztalati érték az oltáron		
+Varázstárgyak feláldozása tapasztalatért		
+Helyezd a varázstárgyakat az oltárra		
+Áldozati oltár		
+"Harcosok feláldozásához helyezd azokat az oltárra, majd nyomd meg az Áldozás gombot"		
+%s kiválasztása		
+Ezt nem áldozhatod fel!		
+Itt látható az aktuálisan kiválasztott harcos		
+%s feláldozása		
+Terület birtoklása		
+Csontváz-átalakító		
+Helyezd a Csontvázzá alakítandó harcosokat az Átalakítóba		
+Az Átalakítóban lévõ egységek Csontvázzá fognak válni		
+A(z) %s %s lesznek		
+A(z) %s már csontváz		
+A(z) %s már csontvázak		
+Nehézségi szint		
+"%s létezik.
+
+Felülírod?"		
+Pálya értékelése:		
+Pálya neve:		
+Pálya leírása:		
+Gyõzelem feltétele:		
+Vereség feltétele:		
+Ember		
+Elérhetõ pályák		
+További beállítások		
+Térkép fájlok beolvasása		
+A fájl érvénytelen		
+A fájl hibás, így a program képtelen használni.		
+Töltsd be majd mentsd el a fájlt a Heroes3 Pályaszerkesztõvel, hogy az aktuális formátumúra frissítsd!		
+A pálya játszhatatlan. Javítsd ki a problémákat a Heroes3 Pályaszerkesztõvel!		
+Üres		
+Névtelen		
+Pályainformációk fogadása a hosttól...		
+Méretek		
+S		
+M		
+L		
+XL		
+További beállítások		
+"Kezdõ beállítások, hátrányok, és a játékosok neveinek beállítása."		
+"Játékos Neve
+Hátrány"		
+"Induló
+Vár"		
+"Induló
+Hõs"		
+"Induló
+Elõny"		
+Játékos körének hossza		
+Véletlen		
+Nincs		
+"A host nélküled indította el a játékot"		
+%s belép a játékba.		
+%s elhagyja a játékot.		
+Egy ismeretlen játékos elhagyta a játékot!		
+%s az új host.		
+Nincs játszható pálya.		
+Ki kell választanod a helyed mielõtt elindítod a játékot.		
+Chat elrejtése		
+Chat mutatása		
+A host elõkészíti a játék indítását....		
+A következõ fájl nem elérhetõ - Video.vid		
+Hiba a videófájlban!		
+A %s meggátolja %s-t a 3.-nál magasabb szintû varázslatok végrehajtásában!		
+A téged körülvevõ 'Átkozott Mezõk'-rõl érkezõ szelek elszívják a varázserõdet. Nem vagy képes 1.-nél magasabb szintû varázslatokat végrehajtani!		
+"Mivel %s már megidézett egy %s-t, több Elementál nem jön  %s segítségére."		
+az õ		
+az õ		
+%s elmondja a varázsszavakat, de semmi sem történik.		
+Válaszd ki a feltámasztandó sereget		
+Válaszd ki a feláldozandó sereget		
+A(z) %s hárít %d egységnyi sebzést		
+A(z) %s hárítanak %d egységnyi sebzést		
+A(z) %s %d egységnyi extra sebzést szenved		
+A(z) %s %d egységnyi extra sebzést szenvednek		
+%s feltámasztása		
+%s feláldozása		
+Akadály eltávolítása		
+"A(z) %s hirtelen megöregszik és elveszít %d életerõt."		
+"A(z) %s hirtelen megöregszenek és elveszítenek %d életerõt."		
+A(z) %s hirtelen nagyon beteggé válik!		
+A(z) %s hirtelen nagyon beteggé válnak!		
+Minden hátékony varázslat eltûnt %s-ról.		
+A(z) %s megvakult!		
+A(z) %s képtelen bármit is helyesen csinálni.		
+A(z) %s kõvé válik!		
+A(z) %s kõvé válnak!		
+Gyökerek és indák a talajhoz rögzítik a(z) %s-t!		
+A(z) %s vonaglik a kíntól, ahogy a méreg keresztüláramlik az erein.		
+A(z) %s vonaglanak a kíntól, ahogy a méreg keresztüláramlik az ereiken.		
+A(z) %s megbénul és képtelen mozogni!		
+A(z) %s megbénulnak és képtelenek mozogni!		
+A(z) %s %s varázslatot hajt végre		
+A(z) %s %s varázslatot hajtanak végre		
+ a(z) %s-n		
+Rendszerbeállítások		
+Hõs sebessége		
+Ellenség sebessége		
+Görgetési érzékenység		
+Útvonal mutatása		
+Emlékeztetõ mutatása		
+Gyors csata		
+Videó feliratozása		
+Épületek körvonalazása		
+Lapozás-animáció		
+"Biztos ezt akarod tenni?
+(Minden nem mentett játék elveszik)"		
+A Manaörvényhez közeledve érzed, amint tested új erõvel telik meg. Varázspontjaid megduplázódnak.		
+"A lovász egy gyönyörû harcimént vezetve közelített feléd. ""Ez a csodálatos paripa meggyorsítja utazásodat, de a sok futástól sajnos hamar kifárad, így a következõ hét elején vissza kell térned egy pihent lóért."""		
+A Tudás Falán lévõ rúnákat áttanulmányozva számos varázslat mûködésébe nyertél bepillantást (+1 Tudás).		
+A Tûz Rendje új módszereket tanított varázserõd összpontosítására (+1 Varázserõ).		
+A Harci Tudósok Akadémiáján számos új trükköt tanulhattál (+1000 tapasztalat).		
+A Valhalla termeiben eltöltött rövid idõ alatt számos új támadási módot tanultál (+1 Támadás).		
+"A Hadvezérek Ketrecében tapasztalt harcosok tanítottak neked új védekezési technikákat (+1 Védekezés)."		
+%s felépítette a(z) %s-t.		
+%d vásárolható %s érkeztek %s várába		
+%s heti szaporulata		
+%s heti szaporulata: %d		
+"
+
+Alap szaporulat %d"		
+"
+Külsõ lakások %+d"		
+Csarnok		
+Kilépés a Mágustoronyból		
+Helyõrség		
+%s felépítése		
+Mégse		
+Akarod, hogy ez a vár legyen a Grál végleges otthona?		
+Hajó építése		
+Mégse		
+Kilépés		
+Kastély		
+Egyetem		
+"A hõsöd léptei egy õsi egyetem néma termein visszhangoztak keresztül. Egy tanító tájékoztatott, hogy a hõsöd itt-tartózkodása alatt a következõ tudományokat sajátíthatja el:"		
+A hõsöd már ismeri ezt a szakértelmet.		
+A hõsöd nem tanulhatja meg ezt a szakértelmet.		
+A hõsöd nem tanulhat több szakértelmet.		
+A(z) %s %s %d aranyba fog kerülni		
+"Felhúzott szemöldökkel és egy apró mosollyal az arcán, a tanító tájékoztatott:, ""A(z) %s %s oktatásának tandíja %d arany."""		
+%s vásárlása		
+"%s, hatásának ideje: %d kör."		
+Világtérkép		
+Város		
+Hõs		
+Varázstárgy		
+Teleporter		
+Kapu		
+Bányák		
+Típusok		
+Fa		
+Higany		
+Érc		
+Kén		
+Kristály		
+Drágakõ		
+Arany		
+1 másodperc van hátra a körödbõl.		
+%d másodperc van hátra a körödbõl.		
+1 perc van hátra a körödbõl.		
+%0.1f perc van hátra a körödbõl..		
+A jelenlegi játékos...		
+"%s megtalálta a(z) %s-t, így Õ a gyõztes!"		
+"%s megtalálta a(z) %s-t, így Õ a gyõztes!"		
+%s játékos seregében már több mint %d %s van a seregében. Nincs más választásod, mint elfogadni a vereséget!		
+%s játékos seregében már több mint %d %s van a seregében. Nincs más választásod, mint elfogadni a vereséget!		
+"%s csapataiban több mint %d %s van, így övé a gyõzelem!"		
+%s csapataiban több mint %d %s van, így övék a gyõzelem!		
+%s megtalálta a(z) %s-t. A Te csapatod gyõzött!		
+%s megfelelõ szintre fejlesztette a várát. A ti csapatotok gyõzött!		
+"%s megfelelõen felfejlesztette városát, így övé a gyõzelem!"		
+%s megfelelõ szintre fejlesztette városát, így a gyõzelem az Õ csapatáé!		
+%s megépítette a Grál végleges otthonát, így a tiétek a gyõzelem!		
+"%s végleges otthont épített a Grálnak és övé a gyõzelem!"		
+%s végleges otthont épített a Grálnak és övék a gyõzelem!		
+%s végrehajtotta a küldetést és megölte a félelmetes szörnyeteget. A Te csapatod gyõzött!		
+"%s legyõzte a félelmetes szörnyet, így megelõzött a küldetésben. Az övé a gyõzelem!"		
+%s legyõzte a félelmetes szörnyet, így megelõzött a küldetésben. Az övék a gyõzelem!		
+%s zászlója lobog minden egység lakásán. Övék a gyõzelem!		
+%s zászlója lobog minden egység lakásán. Övék a gyõzelem!		
+%s zászlója lobog minden bányán. Övék a gyõzelem!		
+%s zászlója lobog minden bányán. Övék a gyõzelem!		
+%s megérkezett az értékes szállítmánnyal. A csapatod gyõzött!		
+"%s megérkezett az értékes szállítmánnyal és megszerezte a gyõzelmet!"		
+"%s megérkezett az értékes szállítmánnyal és megszerezte a gyõzelmet!"		
+"A host elhagyta a játékot.  Játék létrehozásához a CD-nek a meghajtóban kell lennie."		
+Mentett játékok megjelenítése		
+%d. csapat		
+{Csapatok összeállítása}		
+Helyreállítás... Egy kis türelmet...		
+Minden ellenségedet legyõzted! A gyõzelem a tiéd!		
+"Minden csapatodat legyõzték, téged pedig messze földekre számûztek!"		
+Pályainformáció		
+A szóló-mód befejezéséhez nyomj ESC-et.		
+Nem lehet megnyitni a fájlt - Heroes3.snd		
+Hiba a hangfájlban!		
+"A Te #%s verziód  nem kompatibilis a host #%s verziójával."		
+"A Legmagasabb Pontszámok törlése megsemmisíti minden elért eredményedet.
+
+Biztosan törlöd a Legmagasabb Pontszámokat?"		
+"
+A(z) %s elpusztult."		
+Gyõzd le a %s-t az alvilág %s területein.		
+%s képtelen volt idõben teljesíteni küldetését, így vesztettek!		
+%s elvesztette %s nevû hõsét.  Vesztettetek.		
+Akarsz egy mentett játékkal játszani?		
+Hadjárat		
+"Elmesélted a Grál legendáját a város lakóinak, de szavaidnak szinte senki sem hitt. Mivel a városnak nincs elegendõ hite, itt nem lehet állandó otthona a Grálnak.  Keresned kell egy érdemesebb várost."		
+Nincs aktív varázslat		
+%s megidéz %d %s-t		
+"A
+Rangod"		
+A tó még semmit sem állított elõ.		
+A tó ezen a héten %d %s-t állított elõ.		
+"%s, hatásának ideje: %s."		
+az Ent elmozdulásáig vagy haláláig		
+a következõ támadásig		
+a csata végéig		
+"%s magánál hordja a(z) %s-t, egy õsi varázstárgyat, amely megöl minden varázslatot."		
+A helyõrségen olyan erõs bûbáj ül, ami elnyom minden más varázslatot.		
+"Nincsenek betölthetõ mentett játékok.
+
+Új játék kezdéséhez lépj vissza a Fõmenübe és válaszd az Új játék gombot."		
+Válaszd ki a célpontot		
+Biztos törlöd a következõt: %s?		
+"A játék elején 3-6 kristály kerül a birodalmad kincstárába."		
+"A játék elején 3-6 drágakõ kerül a birodalmad kincstárába."		
+"A játék elején 3-6 higany kerül a birodalmad kincstárába."		
+"A játék elején 3-6 kén kerül a birodalmad kincstárába."		
+3-6 Kristály		
+3-6 Drágakõ		
+3-6 Higany		
+3-6 Kén		
+A(z) %s elfogyasztotta varázspontjait		
+A(z) %s elfogyasztották varázspontjaikat		
+Az Átkozott Föld az elsõ szintû varázslatok kivételével minden mágiát megakadályoz.		
+A helyõrség antimágikus aurája megakadályozza a varázslást		
+A(z) %s megakadályoz mindenféle varázslást		
+%s csak 'élõ' harcosok holttestébõl idézhetõ		
+A halott %s-nak nincs elég életereje egy %s idézéséhez		
+A halott %s-nak nincs elég életerejük egy %s idézéséhez		
+csak 'élõ' teremtmény támasztható fel.		
+A(z) %s nem elég erõs a %s feltámasztásához		
+A(z) %s nem elég erõsek a %s feltámasztásához		
+"{Kevés a hely}
+
+A Heroes3-nak legalább 5MB szabad helyre van szüksége a meghajtón a futáshoz.
+
+Szabadíts fel 5 MB helyet mielõtt újra futtatod a játékot."		
+"{Kevés a hely}
+
+A játéknak legalább 1 MB helyre van szüksége egy játék elmentéséhez.
+
+Egy már szükségtelen mentés törléséhez használd a CTRL-DEL billentyûkombinációt.
+
+Ha egyéb módon szeretnél helyet csinálni, ALT-TAB-bal kiléphetsz a Windowsba."		
+Õrök állítása		
+A(z) %s megmerevedik a félelemtõl.		
+A(z) %s megmerevednek a félelemtõl.		
+Ez a varázslat semmin sem fog hatni.		
+"Végre megszerezted az utolsó varázstárgyat is a Penge megalkotásához. A világ hamarosan a lábaid elõtt fog heverni."		
+A(z) %s minden varázslatot elérhetõvé tesz.		
+Kezdési bónusz: %s		
+Kezdés a(z) %s tekercsével		
+Kezdési bónusz: %d %s		
+Kezdési bónusz: %s %s		
+Kezdés a hõsökkel a(z) %s-ból/bõl		
+Kezdés véletlenszerû hõssel		
+Fa és Érc		
+"Ásványok"		
+%s hibás formátumú		
+Játék az Armageddon's Blade hadjáratával		
+Játék a Restoration of Erathia hadjáratával		
+Saját hadjárat indítása		
+Visszatérés a  fõmenübe		
+A(z) %s-tól való félelmében a(z) %s megmerevedik.		
+"A meghajtódban a Heroes III: %s CD-ROM van.
+
+A Heroes III: %s játszásához a %s CD-re van szükség.
+
+Ha egy másik játékos által létrehozott játékhoz akarsz csatlakozni, a CD-re nincs szükség.
+
+Hadjárat vagy Pálya indításához helyezd a meghajtódba a %s CD-t, mielõtt újra futtatod azt."		
+A host véletlenszerû pályát hoz létre…		
+Varázslat megszakítva		
+Minden varázstárgy a birtokodban van, hogy megalkosd a(z) %s-t.  Megalkotod ezt a hatalmas varázstárgyat?		
+Szétszeded ezt a nagy erejû varázstárgyat?		
+Játék A Mélység Kürtje hadjárattal		
+Varázslónõ		
+Yog szakított a mágia minden formájával.  További életének nyugalmát harci tudására hagyatkozva kell megszerznie.		
+"Megszerezted barbár testvéreidtõl mind a három alkatrészt."		
+Véletlenszerû pálya beállításai		
+Válaszd ki a létrehozandó pálya tulajdonságait		
+Véletlen Pálya		
+Játék a véletlenszerûen létrehozott pályával		
+"A Tanító fájl ""tutorial.tut"" hiányzik a \maps könyvtárból.  E nélkül nem tudsz a Tanító pályával játszani."		
+Ezzel a mentéssel való játékhoz minden játékosnak %s verziót kell futtatnia.  Egyes csatlakozott játékosok nem fognak tudni játszani ezzel.		
+Ezzel a pályával való játékhoz minden játékosnak %s verziót kell futtatnia.  Egyes csatlakozott játékosok nem fognak tudni játszani ezzel.		
+Armageddon's Blade		
+The Shadow of Death		
+Az átkozott Föld elszívja az elsõ szintnél erõsebb varázslatok mágikus energiáját.		
+Véletlenszerû pálya létrehozva!		
+Nem lehet létrehozni Random_Map.H3M fájlt az adatkönyvtárban.		
+Hiba a véletlenszerû pálya lemezre írása közben.		
+Nem lehet ezeknek a választásoknak megfelelõ pályát létrehozni.		
+Pálya mérete		
+Emberi/gépi játékosok		
+Emberi/gépi csapatok		
+Gépi játékosok		
+Gépi csapatok		
+Vízfelület		
+Egységek erõssége		
+Véletlenszerû pálya		
+Pálya létrehozása		
+Csak Gelu hordhatja a Végítélet Pengéjét.		
+Erathia Helyreállítása		
+"Megszerezted mindhárom varázstárgyat!"		
