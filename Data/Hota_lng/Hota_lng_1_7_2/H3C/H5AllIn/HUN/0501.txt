@@ -1,0 +1,273 @@
+===== Térkép neve =====
+Baráti látogatás
+
+===== Térkép leírása =====
+Ahhoz, hogy érvényesülhessen, Dargemnek el kell szállítania a Sárkánypikkely Pajzsot Maramec városába. Hõseid 12. szintig juthatnak el, A gyõzelem után Dargem a hadjárat következõ küldetésébe lép.
+
+===== Események =====
+
+Név:
+Sárkányok
+Szöveg:
+Ha nem sietsz, a boszorkánymesterek biztosan elhozzák a sárkányokat!
+
+Név:
+Koponya kapitány
+Szöveg:
+Azt mondják, hogy az Elátkozott Csont távoli szigetén õsi kalózok kincsesládája rejtõzik, amelyet a Koponya kapitány által megidézett átok õriz. Csak az nyerhet gazdagságot és hírnevet, aki nem riad vissza a veszélyes kalandtól, de elõbb magát Koponya kapitány kell legyõznie.
+
+Név:
+Mutare
+Szöveg:
+Mocskos hazugság, hogy Mutare ügyét erathiánus pénzzel támogatják! Mutare egy igazi vezetõ és a jövõ királynõje!
+
+Név:
+Másnaposság
+Szöveg:
+Kerüld a túlzott mértékû liberális bánásmódot annak a kutyának a szõrével, amelyik megharapott!
+
+Név:
+Hõsök 4
+Szöveg:
+Azt mondják, van valahol Nighon partjainál egy mocskos lebuj, a Rozsdás bögre kocsma. A kalózokat gyakran látják ott.
+
+Név:
+Börtönök
+Szöveg:
+Azt mondják, több kalózkapitányt tartanak fogva a Nighon partjainál lévõ börtönökben.
+
+Név:
+Nighon felszíne
+Szöveg:
+Nighon felszíne többnyire sivatag, de a varázslók ott is építettek városokat.
+
+Név:
+Hazatérés
+Szöveg:
+Taugarn állítólag a legerõsebb sárkány egész Nighonban.
+
+Név:
+Sárkányvér
+Szöveg:
+Nem hiszek ezekben a mendemondákban! Kizárt, hogy valaki csak úgy sárkánnyá változzon.
+
+===== Idõzített események =====
+
+Név:
+1. nap 1. bejegyzés
+Üzenet:
+Dargem naplója. 234. bejegyzés		"Egy kellemes estét töltöttem kedvenc vendéglõmben, azon kevés Regnán található vendéglõ egyikében, amely méltó a ”kocsma”-nál szebb megnevezésre, régi ismerõsökkel ízlelgettem egy üveg érlelt AvLeean vöröset, és szórakoztattam õket a Jadame partjainál történt vérszomjas törpék és kedvenc élõholtaim elleni küzdelmeimmel. Az öreg Lew, a fogadós odajött és a fülembe súgta, hogy valaki keres engem. Aki épp az imént a kikötõben kutatott utánam; annak a megjelenése meglehetõsen feltûnõ volt, és kihívás volt kitalálni, hogy mit akarhat tõlem ez az illetõ.		"Dargem úr?" - kérdezte a hölgy.		"Így van. Dargem Llywellyn, szolgálatára"  - bólintottam, és leültem a legközelebbi székre. Az idegen is leült, barátságosan mosolyogva.		"Stella vagyok. És én keresem..." - tartott egy kis szünetet. "Ööö... keresek valakit, aki elvállalna egy nagyon fontos küldetést."		"A képességeim nem olcsóak!" - figyelmeztettem azonnal.		"Ez lényegtelen!"  - mosolygott ismét. "Nem azért választottam önt, mivel a legdrágább, hanem inkább... a feladat sajátosságai miatt."		"Mire akar kilyukadni?"  - hunyorítottam a szememmel.		"Nighonba kellene utaznia!" - mondta Stella sóhajtva.		"Nighonba? Én?! Mi a csudából gondolta, hogy ez jó ötlet?!"		"Az, hogy jobban ismeri azokat a részeket, mint bárki más, aki szóba jöhetne a munkára." - érvelt a potenciális munkaadóm. "Különben is, ön egy mágus. És a ritka õsi tárgyak nagyrabecsülõje..."		"Az biztos, hogy sokat tud rólam!" - sikerült rekedt hangon mondanom.		"Természetesen. Elnézést kérek, ha ez kellemetlenséget okoz... de semmiképpen sem mehettem vakon zsoldost keresni. Egy különleges emberre van szükségem."		"Örömmel hallom, hogy különlegesnek tart!"		"Természetesen." - komolyodott el Stella. "Ha teljesíti a küldetést Nighonban, lehetõsége lenne részt venni egy expedícióban, amelynek célja, hogy megtalálja a kevés létezõ, valóban legendás ereklyék egyikét. 		"Na, ilyet nem hallani minden nap! Miféle ereklye? Csodálkoztam.		"Még nem vagyok felhatalmazva, hogy erre válaszoljak, de annyit elárulhatok, hogy az elsõ célpont Nighonban lesz."
+
+Név:
+1. nap 2. bejegyzés
+Üzenet:
+Dargem naplója. 235. bejegyzés		"Úgy tûnik, hogy ez a lány, Stella, több mint találékony. Fogalmam sincs, hogy ki õ, vagy hogy mibõl él; ettõl függetlenül én zsoldos vagyok (még ha nem is szeretem ezt a szót, annyira beszennyezték azok a dzsadamai gazemberek!), és nem érdekelnek az apróságok. Az én munkám az, hogy azt tegyem, amiért a megbízó fizet.		A tennivalók sora, meg kell mondanom, elgondolkodtatott, de sikerült magamban tartanom a gondolataimat. Egy Sárkánypajzs nevû valamit kellett eljuttatnom a nighoni Maramec városába. Stella adott nekem egy vaskos erszénynyi aranyat, hogy felszereljem az expedíciómat, és beszerezzek mindent, amire szükségem van. Fogalmam sincs, hogy kinek és milyen céllal kell ott ez a pajzs, de a várbörtön urai nem valószínû, hogy tárt karokkal fogadnának. Mi ("Mi!” Már régen leszoktam arról a szokásomról, hogy „mi”-t mondjak, amikor a nighoniakról beszélek!) soha nem voltunk meleg szívûek azok iránt, akik a felszinen élnek. Ugyanaz a történet, mint a kalózokkal és a szárazföldiekkel. Nos, sok idõ telt el; már nem vagyok alagútpatkány, hanem inkább hajófenékpatkány. Egykori barátaim és kollégáim utálnak engem; mi más lenne újdonság? Most ismét be kell lépnem Nighon hideg belsejébe.		Az érzelmek azok érzelmek; a munka az munka."
+
+Név:
+2. nap
+Üzenet:
+Dargem naplója. 236. bejegyzés		"A legénységemmel egy egykori erathi erõdben rendezkedtünk be. Annak idején azért építették ide, hogy megfigyeljék a környéket és a parti vizeket, de már jó pár évtizede elhagyatottan áll. Itt kell összeszednünk az erõinket, mielõtt partra szállunk egykori hazám kietlen felszínén. Amennyire tudom, van néhány szabad kalóztelepülés a parton. Ha van rá lehetõség, a lakóikat segítségül kellene hívnom. Ennek persze ára lesz! Én magam soha nem egyeznék bele, hogy ingyen menjek barlangászni - de hála az isteneknek, busás jutalom vár rám.	Az akcióterv vázlata készen áll. Most már csak fel kell készülnünk, hogy minden a terv szerint menjen."
+
+Név:
+3. nap
+Üzenet:
+Dargem naplója. 237. bejegyzés		"Beleástam magam az emlékeimbe, és kihúztam belõlük egy fontos szálat. Annak idején az egyik barátnõm, Miriam, ezeken a vizeken kalandozott. Az a lány nagyon szórakoztató volt, és ráadásul... több mint egy kicsit furcsa! Teljesen híján volt a társadalmi illemnek is - de ez akkoriban egyáltalán nem zavart. Azt hiszem, ha újra találkoznánk, nem lenne abból semmi probléma. Emlékszem, hogyan töltöttünk el egy éjszakát az elhagyatott világítótoronyban, pálinkát kortyolgatva és a csillagokat nézve. Ó, milyen csodálatos idõk voltak - újra fiatalnak éreztem magam ezen gondolatoktól! Talán érdemes lenne felkeresni Miriamot. Talán hajlandó is lenne segíteni nekem egy kicsit."
+
+Név:
+5. nap
+Üzenet:
+Dargem naplója. 238. bejegyzés		"Van egy olyan érzésem, hogy valami nem stimmel ezzel az egész történettel, de nem tudom megmondani, mi az. Milyen tárgyról beszélt Stella?		A ritkaságok iránti szeretetem folyton bajokat hoz a fejemre. A varázslói karrieremnek is pont azután lett vége, hogy elloptam a legendás Anduran sisakját nem mástól, mint Tor Anwyntól. Mit tehettem volna? Egyszerûen nem tudtam megállni, hogy ne tegyem meg! Meg akartam érinteni a sisakot, Tanulmányozni akartam... tudni azt, hogy ez az ereklye az én gyûjteményemben van, és nem máséban. Végül is Tor saját hibája volt: nem akarta eladni nekem, bármennyit is ajánlottam érte...		A fenébe is, csak úgy égek a türelmetlenségtõl!"
+
+Név:
+11. nap
+Üzenet:
+Dargem naplója. 240. bejegyzés		"Nem volt sem könnyû, sem olcsó, de sikerült újra aktiválnom néhány régi kapcsolatomat. Nighonban jelenleg polgárháború dúl, amit egy bizonyos Mutare kezdett el. Fogalmam sincs, ki lehet ez, de valamiért kényelmetlenül érzem magam a neve hallatán. Valószínûleg, ha most én is a varázslók közé tartoznék, fegyvert emelnék ellene - de ez már nem az én háborúm. Mindenesetre az események miatt a határ menti helyõrségek meggyengültek; nem lesz túl nehéz bejutni a várbörtönökbe.		Maramec északkeleten van. Stella utasításai szerint át kell adnom a Pajzsot valakinek ebben a városban. Ez a személy majd megkeres engem, és átveszi az ereklyét. Aztán elhajózhatok, hogy soha, de soha ne térjek ide vissza!		Ekkor fogom megtudni, hogy milyen expedíciót kínálnak fel nekem."
+
+Név:
+18. nap
+Üzenet:
+Dargem naplója. 241. bejegyzés		"Sok év telt el azóta, hogy Regnan kalóz lettem (itt egy újabb kellemetlen, beszennyezett szó: kalóz.	Határozottan az vagyok, de én és azok a becsülettel vagy gáncstalansággal nem rendelkezõ fickók, akiktõl Regna hemzseg? Nincs több közös bennünk, mint egy sas és egy büdös ölyv között!). Természetesen kíváncsi voltam, kik lakják ezt a királyságot, egész Enroth egyik legszokatlanabb államát.		A Végtelen Óceán Birodalma, azt hiszem, így hívnak minket.	Nagyszerûen hangzik, nem igaz? Maguk a kalózok nagyon sokszínû nép. Sokan a hajón születtek és nõttek fel, és nem ismernek más életet. Mondhatni, hogy a kalózkodás errefelé örökletes szakma. Egy kívülállónak nem könnyû közéjük kerülni, hacsak nem tud azonnal erõs benyomást tenni másokra. A kalózok közül a legerõsebbek, legokosabbak és legbátrabbak kapitányok és navigátorok lesznek. A többiek a csapataik. Ugyanakkor, nevezetesen, az összetartás és a testvériség egyedülálló légköre uralkodik közöttük... legalábbis amikor a tengeren vannak. A kalózhajókon rendíthetetlen fegyelem és alárendeltség uralkodik. Még az erathi gárdisták is megirigyelhetnék õket a fegyelmük miatt.		Minden megváltozik, amint a kalózok partra szállnak!	Azonnal hanyag semmirekellõvé válnak. Szeretnek inni és dohányozni; a legtöbben soha nem tudnák megkülönböztetni a bordói bort a portóitól, mégis büszkék arra, hogy a gyarmatokról behozott finom borokra és dohányra pazarolnak. Szeretik a szerencsejátékot, a verekedést és a nõket. Más szóval, élveznek mindent, ami a fedélzeten tilos. És mégis, a kapitányuk elsõ hívására azonnal összeszedik magukat, és félelmetes erõvé válnak. Mindig is megleptek ezek a metamorfózisok.		Minden kalóz többféle fegyver használatában is jártas, általában tõr, szablya és pisztoly. A pisztoly a bracadan alkimisták vívmánya. Ez a meglehetõsen könnyen elkészíthetõ fegyver még nem terjedt el Antagarich többi királyságában. Jadame már egy egészen más dolog... de elkalandoztam. A pisztoly tulajdonképpen egy hajóágyú miniatûr mása. Egy ügyes lövész egyetlen lövéssel leteríthet egy, a sarkától a feje búbjáig páncélozott lovagot. Úgy vélem, hogy Erathia és Enroth feudális urai egyszerûen félnek attól, hogy ezek a fegyverek elterjednek a köznép körében, a bracadaiaknak pedig egyszerûen nincs rájuk szükségük - nekik ott van a mágiájuk. A regnaiak azonban nem szenvednek semmilyen ostoba fóbiában; ez a csodálatos találmány ott látja a legszélesebb körû felhasználást."
+
+Név:
+20. nap
+Üzenet:
+Dargem naplója. 242. bejegyzés		"Szóval mi történik a legtöbb kívülállóval Regnán?		Szökött jobbágyok, egykori hadifoglyok, akik úgy döntöttek, hogy a fogva tartóik között maradnak, és a Regnához tartozó számos kis sziget õslakosai - mindannyian tengerészekké válnak. Ezek a sokféle célra alkalmas, tróger munkaerõk. Õk végzik a legtöbb alantas munkát a hajókon, vállvetve harcolnak a kalózokkal, és kemény munkát végeznek a szárazföldön. Azok a tengerészek, akiknek sikerül némi pénzt megtakarítaniuk, és úgy döntenek, hogy elállnak a tengeri ügyektõl, a szigeteken telepednek le. Kovácsként, kocsmárosként és hajósként dolgoznak...		Egy átlagos tengerésznek nagyon nehéz teljes értékû kalózzá válnia, de azokat, akik kitûnnek a harcban, nagy tisztelet övezi. Õket nevezik gyilkosoknak - õk alkotják a partraszálló csapatok gerincét."
+
+Név:
+24. nap
+Üzenet:
+Dargem naplója. 244. bejegyzés		"A Regnan közösség legérdekesebb tagjai a nimfák. Ezek a teljesen mágikus természetû lények a kalózokat szolgálják. Úgy tartják, hogy a nimfák a tündérek távoli rokonai, akik a Víz Síkjáról származnak. A tündérekkel való rokonságukról joggal lehet vitatkozni, de az kétségtelen, hogy a Víz Síkjáról származnak. Valószínûleg valami olyasmik, mint a kisebb vízelementálok. Regna egyik elsõ, legerõsebb mágusa képes volt ezeket a lényeket az akarata szerint befolyásolni. A nimfák nem rabjai a mi világunknak; sokan közülük szabad akaratukból jönnek ide, különösen olyan helyeken, ahol a létezés síkjai közötti határvonal vékony. A kalózokat szolgáló nimfák többségét azonban megidézik, mégpedig õsi, hatalmas erejû varázslatok segítségével. E lények különlegessége, hogy nem félnek a haláltól. A mi világunkban megölt nimfa a Víz síkján születik újjá. Csak úgy lehet õket teljesen elpusztítani, ha elõbb a létezés másik oldalára utazunk. A csatában nem alkotnak jelentõs erõt, ezért a kapitányok a nimfákat többnyire felderítõként használják.		Néhány kalóz arra törekszik, hogy kiderítse, mennyire különböznek a nimfák az emberi nõktõl. Hmm!Ez soha nem keltette fel az érdeklõdésemet. Ha jobban belegondolok, egy nimfának, aki állítólag vízbõl áll, sokkal tisztábbnak kell lennie, mint egy átlagos regnani nõnek... Bah! Csak az istenek tudják, hová vezethetnek az ilyen gondolatok! Itt csak megjegyzem, hogy gyakran lehet hallani történeteket valakinek a „sógorának a nagybátyjáról”, aki állítólag egy nimfát vett feleségül."
+
+Név:
+32. nap
+Üzenet:
+Dargem naplója. 247. bejegyzés		"Az Ayssidok valóban csodálatos teremtmények! A trópusi szigetek szikláin és szikláin telepednek meg. Egy kifejlett ayssid szárnyfesztávolsága elérheti a 9-10 métert is. Egyesek tévesen madaraknak tartják õket, és a sivatagokban élõ rokokhoz hasonlítják õket. Saját megfigyeléseim szerint azonban ezeknek a lényeknek sokkal több közük van a sárkánygyíkokhoz és a sárkányokhoz, mint a madarakhoz!		A testükön nincsenek tollak, és van valami kifejezetten hüllõszerû a megjelenésükben. Az Ayssidok halakkal táplálkoznak; hogy kifogják õket, nagy magasságból a tengerbe zuhannak. Úgy tûnik, nagyszerû víz alatti úszók, és nagyon sokáig képesek visszatartani a lélegzetüket. Egy éhes vagy feldühödött ayssid bármilyen más élõlényt képes megtámadni, az embert sem kizárva - ezek a lények nem ismerik a félelmet. Azt mondják, hogy az ayssidok a Víz és a Levegõ Síkjain is elõfordulnak, de sajnos én magam még nem jártam ott, így ezt nem tudom megerõsíteni.		A regnai kalózok generációk óta nevelik és képzik ki az ayssidokat. Ezek a lények jó védelmezõk és vadászok, az erathiai griffekhez hasonlóan. Regna bármelyik piacán vehetünk egy tojást, és felnevelhetünk magunknak egy hûséges barátot - persze csak ha értünk az állatok idomításához. Egy serdülõ ayssid és egy alkalmatlan, nem elég határozott gazdi kombinációja a halálra csipkedés biztos receptje, ami csak arra vár, hogy megvalósulhasson."
+
+Név:
+56. nap
+Üzenet:
+Dargem naplója. 248. bejegyzés		"Sietnem kellene! Korábbi kollégáim sárkányok segítségét vették igénybe - valószínûleg tárgyalóküldöttséget küldtek Nighon gyomrába, és jobb, ha elhiszed, hogy ezek minden pénzt megadtak értük, hiszen egy ilyen viszályos idõszakban minden tûzokádó sárkány odalent aranyat ér. Határozottan ráébredtek, hogy aligha engedhetik meg maguknak, hogy tétlenül kezeljék a folyamatban lévõ kalózügyet; úgy tûnik, úgy döntöttek, hogy drasztikus intézkedésekhez folyamodnak. Nem mintha félnék a sárkányoktól - még a haláltól sem félek már igazán... Azok a pikkelyes vadállatok azonban határozottan gondot fognak okozni."
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(8, 41, 0) ***Cove***
+Név:
+Corsairo
+
+Idõzített események:
+
+Név:
+Egyszeri zálog bónusz
+Üzenet:
+Egy kis hajó érkezett, amely erõsítést szállított a Jadame-ban megmaradt kevés hûséges emberem egyikétõl, Solendore-tól. Egy maroknyi, ahhoz az erõhöz képest, amely egykor az én parancsomra indult csatába; de jobb, mint a semmi. A megalománia nem tett jót nekem!
+
+(54, 62, 0) ***Cove***
+Név:
+Port Victoria
+
+(18, 61, 0) ***Arany***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Úgy tûnik, a gyíkemberek aranyat tároltak a táboruk melletti bokrokban. Soha nem értettem, hogy az ilyen vad teremtmények miért akarnak ilyesmit."
+
+(71, 0, 0) ***Titok Kunyhó***
+Üzenet:
+A kunyhó elõtt egy nagyon ideges öregember állt, elképesztõen hosszú bajusszal. Alaposan végignézett rajtam, mielõtt azt mondta: „Maga kalandor, ugye, fiatalember?"	"Így van!" - mondtam.	"De nem tolvaj, ugye?" Nem, nem úgy nézel ki, mint egy tolvaj, bár nem mondhatnám, hogy tetszik az ábrázatod. Hát, mi más lehetõségem van! A hasonló vonzza a hasonlót - így talán hasznát veszem a tehetségednek. Tudod, Bracadáról jöttem ide egy régészeti expedícióra, és sikerült elõásnunk egy õsi leletet — magának Rion Gryphonheartnak a sisakját! Õ volt Erathia elsõ királya, csak hogy tudd. És aztán... a sisakot ellopta néhány tolvaj. Ha meg tudnád szerezni, hálás lennék érte.
+"Nem találtad meg a sisakot? Szólj, ha valami új híred lenne!"
+Látva Rion Gryphonheart sisakját a kezemben, az idõs mágus felujjongott. Lelkesen vizsgálgatta.	"Kétségtelenül, fiatalember, nagy jutalmat érdemelsz! Mivel az expedíciómnak immáron ezzel vége, elviheted a titánokat, akik egész idõ alatt engem õriztek."
+
+(47, 2, 0) ***Jel***
+Üzenet:
+Tiltott tisztás
+
+(65, 23, 0) ***Titok Kunyhó***
+Üzenet:
+Egy remete lovag él itt. Megígéri, hogy megtanít mindenre, amit tud, ha megtalálom a Zsarnokság Szellemének nevezett szentségtelen ereklyét. 
+A lovag úgy tudja, hogy a lelet valahol nagyon közel van az otthonához.
+Végre a Zsarnokság Szelleme olyan kezekbe került, hogy soha többé ne legyen a fekete mágusok segítségére a rituáléikban. Cserébe a lovag felajánlja, hogy megtanítja neked a hatékony védekezési taktikákat.
+
+(56, 26, 0) ***Palack-posta***
+Üzenet:
+Mutare lázadását Enroth pénzébõl fizetik! Ezt mindenki tudja meg!
+
+(6, 8, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Ha megemlítem õket, az nem több, mint egy szófordulat. Mindig is úgy tûnt nekem, hogy a papi mágia csak egyfajta közönséges varázslás, csakhogy ez inkább magának a varázslónak az erõforrásaira támaszkodik, például az elme, a lélek és a test erejére, mint a mágikus formulák tudományos ismeretére. Így amikor megláttam azt az alamizsnás dobozt egy névtelen szigeten lévõ kis templom mellett, úgy döntöttem, hogy a szent tekercsek aligha mennek tönkre, ha én is kiszolgálom magam a tartalmából."
+
+(5, 47, 0) ***Hárpia Banya***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Nighon lakói terjednek Erathia szerte. Krewlod sztyeppéin és Vori jeges pusztáin egyaránt megtalálhatóak. A leggyakoribbak azonban a szülõszigetük partjainak közelében... különösen az olyan undorító lények, mint a hárpiák."
+
+(61, 48, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"És itt nyílik a Nighon barlangjainak bejárata. Hogy õszinte legyek, nem számítottam rá, hogy borzongást fogok érezni. Hazamegyek, csakhogy hamarosan újra elmenjek, méghozzá örökre. Lesz-e valaha is másik hely, amit otthonomnak nevezhetek?"
+
+(26, 22, 0) ***Titok Kunyhó***
+Üzenet:
+Egy kis banda telepedett le egy rozoga kunyhóban, amelynek tetején kalózzászló volt. Elismerõen néztek rám, amikor beléptem, majd a vezetõjük így szólt: - Szóval téged talált meg Jimmie, mi? Figyelj, testvér, a sziget északi részén óriási Repülõ Áspisok vannak. Mindent megpróbáltunk már a sikertelen próbálkozásaink során, hogy megszabaduljunk azoktól a jószágoktól! Talán neked sikerülhet."
+"A Repülõ Áspisok a sziget északi részén élnek. A házunktól egyenesen kell menni tovább, és biztosan találkozhatsz velük."
+"Nagyon derék ember vagy - mondta a kalózvezér. "Nem látunk több Repülõ Áspist. Köszönöm! Immáron nyugodtabb lesz itt, úgyhogy ha akarod, magaddal viheted néhány fiamat..."
+
+(24, 22, 0) ***Tengeri medve***
+Üzenet:
+Egy izgatott kalóz futott felém:	"Hé, te! Pajtás! Úgy nézel ki, mint egy regnani. Én és a srácok, bajban vagyunk, segítségre van szükségünk. Gyere el hozzánk, és beszélgessünk."
+
+(54, 37, 0) ***Titok Kunyhó***
+Üzenet:
+A Fekete Lovagok kergették el ezt a horgászt a kedvenc helyérõl, ahol a tengeri sügérek mindig jól harapnak. Az öreg azt állítja, hogy valaha admirális volt, és a horgászat csak egy módja annak, hogy békében töltse öreg napjait. Arra kér, hogy kergesd el a lovagokat; hálája jeléül elárul néhány titkot a hajók kezelésérõl.
+A horgász azt állítja, hogy a lovagok három pálmafa mellett, a parton telepedtek le.
+Nagyszerû! A lovagokat legyõzted! Szeretnél egy kis navigációs leckét venni egy nyugalmazott admirálistól?
+
+(53, 8, 0) ***Cove***
+Név:
+Zolwyn
+
+(33, 1, 0) ***Titok Kunyhó***
+Üzenet:
+Úgy tûnik, Miriam ebben a faházban lakik, de most senki nincs itthon. Talán meg kellene keresned a ház tulajdonosát?
+Sajnos az ajtót csak az otthon tulajdonosa tudja kinyitni.
+"Milyen jó újra itthon lenni!  kiáltott fel Miriam. "Dargem! Szeretnél bejönni és meginni velem egy italt?"
+"Te vén gazember, Dargem! Nagyon hálás vagyok, hogy kisegítettél a csapdából. Figyelj, hallottam néhány történetet arról, hogy nagymenõ lettél Jadame-ban, aztán meg elmenekültél onnan. Mi a helyzet most, mesélj?"
+Miriam láthatóan jókedvû, és alig várja, hogy beszélhessen Dargemmel.
+"Igen... el kellett mennem. Volt néhány probléma a helyi banditákkal. Lezúzták az ogre törzseket, és felneveltek egy rakás halottat" - mondtam vonakodva.	"Micsoda káosz! A sétáló holtakkal, sõt még az ogrékkal is keveredni... Úgy tûnik, ezeknek a fickóknak nincs semmi méltóságérzetük, nemhogy szaglásuk. 	" Igazad van, teljesen hülyék ezek a fattyúk." 	"Nos hát, kedves Dargem - mondta a kalózasszony, és átnyújtott nekem egy üvegflaskát. "Látom, nem élvezed a nosztalgiázást, de ez a dolog itt, esküszöm, életed legszebb emlékeit fogja neked adni. Igyál egy kortyot!"	"Mi ez?" Kérdeztem, óvatosan beleszagolva az üvegbe. Nem volt olyan illata, mint bárminek, amit eddig ismertem. 	"Tinktúra, amit egy nagyon különleges kaktusz gyökereibõl készítenek — ez csak Nighon felszínén, a sziget közepén található. Esküszöm, életem legnagyobb kihívása volt megszerezni!" 		Belekortyoltam egy apró kortyot a fanyar folyadékba... és az egész világ hirtelen a szivárvány színeibe öltözött! Remélem, a hatás nem lesz maradandó.
+
+(27, 69, 0) ***Titok Kunyhó***
+Üzenet:
+A tengerparton, a hullámok által széttört tengeri madárfészek maradványai mellett egy titokzatos gyíkemberrel találkozol. Szomorú szemekkel fordul feléd:	"Jó ember! A segítségedért könyörgök. Az Ayssidáknak új fészekre van szükségük. Ezt meg kell tenni a fajuk megmentése és a természet egyensúlyának megõrzése érdekében. Szeretnék egy meghitt és biztonságos helyet teremteni számukra, ahol ezek a lények békében szaporodhatnak és nevelhetik fel a kicsinyeiket, de a saját két kezem nem elegendõ ehhez a feladathoz. Segítsetek ágakat, kagylókat és más használható dolgokat gyûjteni, aztán egy tengerparti sziklán felépítünk egy új fészket. Elégedett leszel a jutalommal!"
+A kagylókon kívül szükségünk lesz valami fényesre is, hogy a fészekbe csalogassuk az Ayssidákat, valamint ágakra és kövekre.
+Amint befejezted a fészeképítést, számos Ayssida csatlakozott hozzád.  		"Köszönöm, jóember! Már régóta etetem ezeket a lényeket, és már egészen megszelídültek. Azt hiszem, néhányuk szívesen lenne a háziállatod."
+
+(13, 22, 0) ***Palack-posta***
+Üzenet:
+Bajban vagyok. Murdoch.
+
+(2, 1, 0) ***Palack-posta***
+Üzenet:
+Ez a kampány jóval több mint egy évtizeddel ezelõtt született. Remélem, tetszeni fog!
+
+(58, 1, 0) ***Mennydörgés Sisak***
+Üzenet:
+Négy tolvajjal találkoztam — az egyiküknél Rion Gyephonheart felbecsülhetetlen értékû sisakja volt. Elõhúztam a szablyámat, és így mordultam: "Kiszúrom a szemeteket!" A tolvajok a földre dobták a sisakot, és pánikszerûen elfutottak.
+
+(9, 64, 1) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Ez a hely rendkívül kellemetlen számomra. Sziszegést hallok, emelkedõ és mélyülõ hangokat, mintha óriáskígyók utánoznák a hullámverés hangját. Mi lehet ez?"
+
+(68, 4, 1) ***Dungeon***
+Név:
+Maramec
+
+Idõzített események:
+
+Név:
+Narancssárga AI - Gonosz szemek
+Üzenet:
+
+
+Név:
+Sárkányok
+Üzenet:
+
+
+(56, 67, 1) ***Dungeon***
+Név:
+Darklyn
+
+Idõzített események:
+
+Név:
+Narancssárga AI - Induló rezsim
+Üzenet:
+
+
+Név:
+Sárkányok
+Üzenet:
+
+
+(68, 5, 1) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"A célom közel van. A szívem dobog az izgalomtól! Hamarosan teljesítem küldetésemet, és akkor megtudom, mit ajánl nekem a titokzatos idegen, hogy részese legyek. Milyen legendás leletrõl beszélt? Itt az ideje, hogy összeszedjem magam, és teljesítsem a megállapodásunk elsõ részét."
+
+(64, 13, 1) ***Jel***
+Üzenet:
+Maramec
+
+(8, 5, 1) ***Pandora Szelencéje***
+Üzenet:
+
+
+(51, 26, 1) ***Pandora Szelencéje***
+Üzenet:
+Erõteljes varázslatok a két legmagasabb nehézségi szinthez
+
+(53, 26, 1) ***Pandora Szelencéje***
+Üzenet:
+Varázslatok a normál és nehéz szintekhez
+
+(19, 53, 1) ***Esemény***
+Üzenet:
+Bónusz sárkányok (Bajnok nehézségi szint esetén)
+
+===== Fájl vége =====

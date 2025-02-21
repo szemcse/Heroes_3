@@ -1,0 +1,54 @@
+Name:
+
+
+Description:
+
+
+
+A Friendly Visit — Mindent egy lapra A
+
+Right-click text:
+Dargem Llywellyn kalóz és kalandor, hogy helyreállítsa megtépázott hírnevét, kihívásokkal teli küldetésre indul egykori hazájában, Nighonban, ahol aligha vágyik rá bárki is.
+
+Prologue:
+Minden érdemes embernek fáradhatatlanul dolgoznia kell azon, hogy hibáit kijavítsa; csak egy dolog oldja meg önmagát. Az, vagyis a fiatalság. Milyen kár, hogy a hatása alatt elkövetett botlások nem múlnak el, ahogyan az is. Amikor elmentem errõl a földrõl, megfogadtam, hogy soha többé nem teszem be a lábam Nighon szikláira; csak felégetett hidakat hagytam magam után. Mégis itt vagyok, újra a szülõföldem partjainál. Ha az ifjú Dargem Llywellyn nem lett volna olyan vakmerõ, mint amilyen volt, talán most, hogy az üzlet idehozott, még egy kis... nosztalgiát is éreztem volna.
+
+
+The Life Guard — Mindent egy lapra B
+
+Right-click text:
+Dargem egy újabb megbízóinak végzett munka során beleegyezik, hogy segít az új barbár királynak, Kilgornak kijutni a csapdából, amelybe a Bracada elleni rajtaütés során esett.
+
+Prologue:
+Mocsok, rendetlenség és ostobaság. Pont azok a dolgok, amiktõl irtózom, és amiket igyekszem eltaposni, bárhová is megyek, az elkövetkezõ hónapjaim az életem alapköveivé válnak. Ó, milyen áldozatokat kell hoznia az embernek ahhoz, hogy újra elsõszámú jelöltként jelenjen meg olyan munkáknál, amelyeket a kényes ügyek igazi mûvészén kívül senki más nem tud elvégezni. Azt hihetnénk, hogy azért vagyok itt, hogy felvilágosítsam ezeket a homályos barbárokat arról, hogy milyen egészségügyi kockázatokkal jár, ha töltött pisztollyal piszkálják a füleket — a tipped téves, nem ezért vagyok itt. Azért jöttem, hogy szívességet tegyek valakinek, aki hamarosan egy fél kontinens uralkodója lehet. Egy szívesség, amire örökké emlékezni fogok.
+
+
+The Tree Killer — Mindent egy lapra C
+
+Right-click text:
+Dargem értesül arról, hogy munkaadói expedíciót akarnak szervezni a legendás Mélység kürtjéhez, behatol AvLee-be, hogy fát gyûjtsön és flottát építsen e nagy cél érdekében.
+
+Prologue:
+Már hozzászoktam ahhoz a gyomorszorító érzéshez, hogy semmi sincs a fejem fölött - legyen az õsi alagutak boltozata, szilárd tetõ, vagy legalább egy ringatózó fedélzet. Nighonban kevesen bírják ezt elviselni, de én alkalmazkodtam! Csak még mindig az erdõ az, ami ugyan szégyenletes, de férfiatlan rémületet kelt bennem. Persze, ezt soha senki nem fogja nekem szóvá tenni - elvégre a rezzenéstelen felsõ ajkam a szakmámban a nagymester jele. A napló az egyetlen bizalmasom, akivel megosztom az igazi érzéseimet. Azt hiszem, sokkal inkább szeretnék még egyszer élve eltemetve lenni... De a szerzõdést aláírtuk, ami azt jelenti, hogy Dargem Llywellyn az elátkozott sûrûbe tart. És a tengeri ördögökre esküszöm, hogy gyõzelmet fogok aratni.
+
+
+Knee-Deep In The Undead — Mindent egy lapra D
+
+Right-click text:
+Dargem Deyja szívébe, a nekromanták országába utazik, hogy kifossza Archibald Ironfist könyvtárát, hogy nyomokat keressen arról, hol lehet a Mélység kürtje.
+
+Prologue:
+Láttam már sok csodát, és nem vagyok könnyen lenyûgözhetõ... de a monumentális könyvtár látványa félelemmel töltött el. Azt mondják, hogy ezer évvel ezelõtt, amikor a nekromantákat számûzték Bracadából, és Deyjában telepedtek le, már itt tornyosult, és boltozatai számtalan titkot õriztek. Építészetének újabb, meglehetõsen ízléstelen módosításai — amelyek nyilvánvalóan azoknak a hullarablóknak az érintése — nem tudták beárnyékolni az õsök igazi nagyságát, amely még mindig látszik a formákon. Nos, nagy megtiszteltetés, ha valami idõtlenhez nyúlhat az ember. Még jobb, ha elviszünk belõle egy darabot. Emlékbe.
+
+
+Chasing the Dream — Mindent egy lapra E
+
+Right-click text:
+Dargem útja egy Tatalia melletti szigetcsoport felé vezet — ott, a Bosszúálló Kígyó sziget alatti barlangokban fogja keresni a Mélység kürtjét, egy olyan ereklyét, amelynek birtoklásáról minden kalóz csak álmodozhat.
+
+Prologue:
+Néha megesik: nagyon jól tudod, hogy játszanak veled, és mégis... élvezed. A találkozásom a rejtélyes munkaadómmal egyszerre volt lehangoló és felemelõ. Rögtön tudtam, hogy ez a gyönyörû nõ teljesen õrült — senki épeszû ember nem csinálna ekkora felfordulást egyetlen buta ereklye körül, bármilyen erõvel is bírjon az. És mégis, a végén remek hangulatba kerültem, ami ugyanabból a gyökérbõl fakadt: ez a Mélység kürtje biztosan nagy hasznot hozhat majd számomra. A többi már csak egy kis kihívás: megtalálni... és a lelet jogainak kényes kérdésével foglalkozni.
+
+Epilogue:
+Anyám, akinek az arcát már rég elfelejtettem, életet adott nekem a nighoni barlangok gyomrában, és varázsigéket szõtt a bölcsõm fölé, vágyakozva arra, hogy a föld elemi erejével ruházzon fel... de én nem fogadtam el a sorsot, amit valaki más vetett rám. Az egész életem egy harc a végzetemmel, egy végtelen játék, amit a sorssal játszom a legnagyobb tétért cserébe. És mégis, minden alkalommal, amikor úgy érzem, hogy a kezemben tartom a jövõt, a legjobb lapokat osztják ki mindenki másnak, csak nekem nem! Tudom, hogy én öltem meg! A mágikus rohamom darabokra tépte a bûzlõ csontvázát, és a sarkam a földbe taposta a maradványait! Miért, miért egy halott nevet ki a végén?!
+

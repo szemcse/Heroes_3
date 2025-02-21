@@ -1,0 +1,343 @@
+===== Térkép neve =====
+Életmentõ
+
+===== Térkép leírása =====
+Dargemnek 3 hónapig kell megvédenie Kilgort Erathia és Bracada erõitõl. Ha Kilgor elesik, a játéknak vége. A hõseid maximum a 18. szintig juthatnak el. A gyõzelem után Dargem a Megszentelt Függõdísszel együtt tovább folytathatja a következõ küldetést.
+
+===== Események =====
+
+Név:
+Solmyr
+Szöveg:
+Maga Solmyr készül szembeszállni Kilgorral! Mit tehetnek az ork csapatok a hatalmas villámok ellen?
+
+Név:
+Adelaide
+Szöveg:
+Adelaide a pletykák szerint összevont hadsereget állít össze.
+
+Név:
+Mullich
+Szöveg:
+Sir Mullich inkább repülõ lényekre támaszkodik a csatákban. Valahogyan egy igazi ágyúhoz is hozzájutott!
+
+Név:
+Astral
+Szöveg:
+Azt mondják, Astral nem volt egész életében varázsló - egykor egészen jó lövésznek tartották.
+
+Név:
+Férgek
+Szöveg:
+Hatalmas férgek jelentek meg a környékünkön! Valószínûleg a varázslók hibája - õk dobják ki a mágikus hulladékot, aztán a férgek megeszik és megnõnek!
+
+Név:
+Régi verzió
+Szöveg:
+Azt mondják, hogy régen a tavak közepén épített kunyhókat lehetett találni errefelé! Hogy tetszenek az ilyen mesék?
+
+Név:
+Illúziók barlangja
+Szöveg:
+Azt mondják, hogy a régi idõkben a nyugatra fekvõ hegyekben egy titokzatos barlang bejárata volt található. Egyszer csak nyomtalanul eltûnt. Vajon miért?
+
+Név:
+Xanthor
+Szöveg:
+Azt mondják, az orkok elfogtak néhány nagy tudóst az erathiai határon.
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Dargem naplója. 250. bejegyzés		"Valószínûleg ez volt az a nap, amely után még jobban kezdtem utálni magam, mint miután szerencsétlenül jártam a sisak ellopása után. 		Az egész azzal kezdõdött, hogy Stella találkozott velem az elõre megbeszélt helyen, átadott egy zsák dukátot, és azt mondta:		"Kiváló munka, Mr. Dargem! Az uraim elégedettek a sikereddel."		"Örömmel hallom, úrnõm," - bólintottam udvariasan. "És most szeretnék többet hallani az ön által említett expedícióról..."		" Köszönöm, hogy eszedbe jutott és emlékeztetsz erre." - mosolygott széles mosollyal Stella. Úgy tûnt nekem, mintha a mosolygás lenne a szakértelme. Határozottan elsajátította annak a mûvészetét, hogy bármilyen kérdésre azzal válaszoljon. "Ha még mindig részt akar venni az expedícióban, akkor van még egy feladat, amit el kell végezni..."		"Várjon csak egy percet, jóasszony, nem ebben egyeztünk meg!		"Ez így igaz" - sóhajtott fel a hölgy. "Joga van visszautasítani. Azt azonban el kell mondanom, hogy ez a küldetés rendkívül fontos az uraimnak. És ugyanígy önnek is."		"Hogyan?" Érdeklõdtem, hunyorogva és a szemébe nézve.		"A fiatal barbár törzsfõnök, Kilgor, " - mondta Stella halkan. "Talán már hallottál róla - egy ízig-vérig hitvány alak... Nemrégiben azt adta hírül, hogy égetõ szüksége volna zsoldosokra. Megpróbált rajtaütni Bracadán, de végül csapdába esett. Most segítségre van szüksége a kitöréshez. Kilgor pedig hajlandó bármit fizetni a segítségért. Érti, mire akarok kilyukadni?" - kérdezte miközben a fiatal nõ szeme felvillant, és a tenger felé fordult.		"Nehéz nem érteni. Azért akarja kisegíteni ezt a vadembert, hogy õ finanszírozza az expedíciót." - kockáztattam meg egy találgatással.		"Helyes, mint mindig, Mister Dargem."
+
+Név:
+1-2
+Üzenet:
+Dargem naplója. 251. bejegyzés		"Így hát beleegyeztem, hogy én leszek annak az egységnek a kapitánya, amelynek segítenie kell Kilgornak kijutni a szorult helyzetébõl. Remek! Úgy hallottam, ki nem állhatja a zsoldosokat, de a dolgok egyre rosszabbra fordulnak a számára, és aligha van más választása. Az embereimmel a tenger felõl és a szárazföld felöl egyszerre fogunk közeledni, hogy támogassuk Fort Wildblade erõdöt, a barbár törzsfõnök fõhadiszállását védõ erõket. Volt olyan nagylelkû, hogy egy segéderõdöt bocsátott rendelkezésemre, és még valami "összekötõ tisztet" is küldött nekem - egy disznóarcú fickót, akinek a neve értelmetlen, valami "G"-vel kezdõdõ neve van. Azt hiszem. Ez a csoszogó zsírhalom úgy néz ki, mint egy rabló. Hát, ha valami balul sülne el, akkor legalább saját maga tudja beszerezni az ellátmányt a csõcselékének, még ha rablással is.		Erathia és Bracada egyesített erõi észak felõl közelednek. A mi feladatunk az, hogy feltartóztassuk õket, majd megtörjük és legyõzzük õket. A fenébe is, én utazó, mágus és gyûjtõ vagyok, nem hadúr! Egyszer már kipróbáltam ezt a szerepet, és egyáltalán nem élveztem a reguláris csapatokkal való harcot.		Jelenleg nem is annyira az a hitvány alak, Kilgor élete a legnagyobb gondom, hanem inkább az, hogy cserbenhagyom a munkaadóimat. A hírnevem, amelyet alighogy elkezdtem újraépíteni, örökre összetörne, és ami még ennél is rosszabb, soha nem tudnék meg semmit arról az expedícióról, amelyet Stella urai terveznek. Nos, ez rendkívül ösztönzõ, hogy talán megpróbáljam eljátszani Tarnumot - vagy valami más mitikus katonai zsenit. Voltam már rosszabbul is."
+
+Név:
+4. nap
+Üzenet:
+Dargem naplója. 252. bejegyzés		"Nyugtalanító híreket kaptam. Brakada csapatait a legendás Solmyr vezeti. Õ egy hatalmas dzsinn és magának Gavin Magnusnak a közeli szolgája. Nem szívesen találkoznék vele a csatatéren!		Talán Kilgor verõlegényei sakkban tudnák tartani? Uhh. Álmodozni igen jó érzés - csak kár, hogy az álmok olyan ritkán válnak valóra."
+
+Név:
+AI erõforrások
+Üzenet:
+
+
+Név:
+8. nap - Gruezak
+Üzenet:
+Gruezak egy el nem küldött levelébõl:		"Eddig sikerült úgy játszadoznom ezzel a kalózzal, mint egy hegedûs a hangszerén. Ahhoz képest, hogy milyen "ott voltam, láttam" kalandor figurát próbál eljátszani, meglepõen figyelmetlen, vagy talán csak túl arrogáns ahhoz, hogy az orra hegyén túlmutató dolgokra figyeljen. Sikerült például meggyõznöm arról, hogy a magammal hozott szétszerelt katapult valójában egy olyan szerkezet részei, amelyet arra terveztek, hogy egy egész Gorgon sültet forgasson nyárson.		Bof bácsikám, én azon a véleményen vagyok, hogy ha Dargem rájön, ki vagyok valójában, az nem olyan nagy kockázatot jelentene, amit meg kellene nagyon fontolnunk. Szabadon viselkedhetek körülötte, míg õ meg van gyõzõdve arról, hogy a környéken fosztogatom az élelmiszert és minden más, nem leszögezett árut. És ha kiderül, hogy megbízhatatlan... Elég jól emlékszem a leckéidre, öregem. Nincs ember, nincs probléma."
+
+Név:
+9. nap
+Üzenet:
+Dargem naplója. 255. bejegyzés		"Ma Gruezak átadta az üzenetet magától Kilgortól:		"Zsoldos! Krewlod ura szól hozzád! Az erathiaiak és a varázslók megleptek engem; ezt te is tudod. Bízom a hatalmamban, de az ellenség túlerõben van, és aljas varázslatok vannak az oldalukon! Ezért megparancsolom neked: nyújtsatok minden lehetséges segítséget erõimnek, és gondoskodjatok arról, hogy az ellenség ostromló csapatai ne hatoljanak be az erõdömbe!		Jól ismerem a fajtádat; a hozzád hasonlóknak nincs becsületük. Ti zsoldosok boldogan hátba szúrjátok a munkaadótokat, ha valaki jobb ajánlatot tesz nektek. Mindketten felnõtt férfiak vagyunk, és ezt megértjük, nem igaz? Küldök egy karavánnyi aranyat és ellátmányt - hogy biztosítsam a hátam, és nem azért, mert kedvelnélek esetleg téged. Más körülmények között szívesen megnézném, milyen színû a beled. Sok szerencsét!"		Nem mondhatnám, hogy meglepõdtem. Mi mást várhatnánk egy barbár törzsfõnöktõl? Egy szerelmi vallomást?"
+
+Név:
+11. nap
+Üzenet:
+Dargem naplója. 256. bejegyzés		"Kilgore kémei voltak olyan kedvesek, hogy megosztottak velem is néhány információt - természetesen azután, hogy az adott ügyet az uruk elé vitték. Bárcsak ez a mosléklufi, Gruezak, idõnként mindig ilyen hasznos lenne! Mindenesetre több ellenséges tábornok támadást készít elõ a Fort Wildblade erõd ellen, pont annak a területnek a szívében, amelynek a védelmére engem rendeltek ki. Még nem tudni, milyen hõsökrõl van szó, de legalább ketten vannak. A bracadai varázslók elkezdtek dolgozni egy titkos rituálén, hogy varázslatos módon a seggünkbe szállítsák a seregeiket!		Átkozott gyávák! Az egyetlen dolog, amit biztosan tudok, hogy nem fogják tudni egyszerre idehozni az összes tábornokukat; egyesével fogják õket küldeni. Az elsõ rituálé után a mágusoknak fel kell tölteniük a portáljukat, és körülbelül egy hónapunk lesz felkészülni egy újabb csapásra."
+
+Név:
+12. nap
+Üzenet:
+Dargem naplója. 257. bejegyzés		"Néha nem tudok nem elgondolkodni; miért fordul az ember szerencséje állandóan? A sors szeszélyes tud lenni. Az egész azzal a nagyszájú patkány Boyddal kezdõdött - át akarta venni a helyemet, és ez még egy szemfüles és félagyú ember számára is világos lehetett volna. Sokáig tûrtem õt, remélve, hogy észhez tér és abbahagyja az ármánykodást. Sajnos! Ki kellett végeznem a félkegyelmût, erõfitogtatásként, hogy soha senki ne szõjön újabb összeesküvéseket ellenem.		És mit szólsz hozzá? Feltámadt a halálból! Nem tudom, ki segített neki - a szárazföldi Jadame hihetetlen zûrzavaros, és ott szó szerint bármi megtörténhet. 		Ez a hitvány, rothadó tetem összefogott a koboldokkal, emberevõ törpékkel és a pusztaság egyéb förtelmeivel, és sikerült kiszorítaniuk minket a kontinensrõl. Nem tudtam elviselni egy ilyen sértést. Elhatároztam, hogy felveszem a harcot ezzel az ismétlõdõ támadóval... és elbuktam!		Az a hülye csontfej örült. Élve eltemetett, biztos volt benne, hogy nemcsak megöl, hanem szörnyû halálra is ítélt. Hah! Remélve, hogy megijeszt egy nighoni bennszülöttet egy kis földdel a feje fölött! Hát nem semmi! Jegyezétek fel, nem vagyok egy egyszerû kalóz - a levegõ elem varázslója vagyok, méghozzá egészen kiemelkedõ hatalommal. Kiszívni a földbõl némi levegõt a lélegzéshez, gyengíteni a kötelékeimet apró, tûhegyes széllökésekkel - mindez aprópénz nekem csekélyke erõfeszítés. Aztán hosszú órákon át tartó türelmes, szorgalmas gyakorlatok, amelyekkel a szelet arra kényszerítem, hogy elfújja a homokot, amíg az rétegrõl rétegre eltûnik, és felszabadítja a koporsómat. Maga Tor Anwyn sem tudna elbánni velem, nemhogy egy ostoba kalóz a még ostobább holttestével!		Abban a csontládikóban a feje helyén egyáltalán nem maradt agy - különben jobb ötletet találhatott volna ki, mint a kivégzés, amit én magam erõltettem a fejébe, könyörögve, hogy ne ugyanolyan mértékkel szabja ki a büntetést számomra, mint amilyen mértékkel én egykor a büntetésemet osztottam ki neki. Azt mondják, a bracadaiak egy egész tudományt találtak ki arra, hogy az ember gondolatai milyen fordulatokat vegyenek - azt hiszem, pszichológiának hívják. Talán írnom kellene nekik egy tankönyvet a témáról.		Nos, kedves naplóm, szó szerint feltámadtam a sírból, és nemsokára visszanyerem a hatalmamat... Hamarosan."
+
+Név:
+14. nap
+Üzenet:
+Dargem naplója. 258. bejegyzés		"Egy karaván arany érkezett Kilgorból. Remélem, ez nem bénítja le túlságosan a hadsereget. Úgy vélem, hogy a vitéz emberei is készülhetnek valamire, azon kívül, hogy Dargemet nézik a piszkos munkája elvégzésében. Vagy talán mégis?"
+
+Név:
+15. nap - Gruezak
+Üzenet:
+Gruezak egy el nem küldött levelébõl:		"Meglepõen könnyû idiótának tûnni mások szemében, ha valaki véletlenül orknak született. Nos, a lakomák õsi kultuszát valóban nagyon könnyû összetéveszteni a falánkság és a lomhaság keverékével, ha még soha nem hívtak meg az asztalunkhoz, vagy nem tanítottak meg a szertartásaink minden hagyományokkal teli eleme mögött rejlõ jelentésrõl. Ez a fafejû Dargem elképzelhetetlen arcot vág, amint megakad a szeme rajtunk, amikor a szükséges tiszteletadás minden rituáléjával, megnyúzzuk és lemészároljuk a zsákmányunkat, forró vér mintákat kenve az arcunkra; a köztünk lévõ idõsebbek választhatnak elõször a legértékesebb darabokból és belekbõl, amelyek visszavonhatatlanul elveszítik finom ízüket, amint az élõ meleg elhagyja õket. Nos, elégedjen meg a háromszor penészes sajtjaival és az istenek elõtti idõk óta egy poros pincében felejtett boraival.		Az öreg Preudhum jól érezné magát most, ha látná ezt az ínyencet! Na, ez volt az az ember, aki értett a magas szintû konyhamûvészethez: egy friss lépet papírvastagságú szeletekre tudott vágni, megsütni és tálalni, amíg az, aki szállította, még lélegzett. Emlékszem, Bof, hogy elhoztál hozzá, és azt mondtad, hogy tanuljak meg mindent, amit õ tud. Emlékszem, ahogy kimondtad azt a szót, hogy "mindent". Szorgalmas tanuló voltam, Bof bácsi.		Egyszer majd megkérdezik tõlem: "Ki voltál te Kilgore idejében, Gruezak?" Valószínûleg így fogok válaszolni: szakács. Csak remélem, hogy ezeket a kérdéseket nem egy kampóra akasztva fogom hallani."
+
+Név:
+21. nap
+Üzenet:
+Dargem naplója. 260. bejegyzés		"Egy nõ a hajón csak bajt jelent; ezt gondolják az erathi tengerészek. Ez valóban így van, és ez teljesen érthetõ. Egy hosszú út során a férfi legénység elõbb-utóbb egymás torkának esik, ha egyikük is élvezhetné a nõi társaságot, míg a többiek nem. Éppen ezért a kalózok soha nem is ejtenek foglyul nõket - egyszerûen csak kidobják õket a fedélzetrõl.		Regna nõi lakosságának nagy része azonban aligha jellemezhetõ félénk háziasszonynak. Néhány nõi kalóz nem kisebb kaliberû legendává vált, mint a legjobb férfi kapitányok. Persze Regnában kevés lánynak van mersze ahhoz, hogy reguláris tengerésznek álljon - ez nehéz és megterhelõ, állandó kockázattal járó munka. Ebben a társadalomban létezik a tenger papnõinek egy rétege - õk a legénység teljes jogú tagjainak számítanak, de senki sem kényszeríti õket arra, hogy a fedélzetet súrolják vagy a vitorlákat feszítsék.		Aligha nevezhetjük õket szektásoknak, bár szertartásokat követnek, amelyek néhány, egykor a kalózok által asszimilált kis nép vallásából származnak. Inkább harci mágusok, akik egyszerû, de hatékony varázslatokkal támogatják a legénységet. A férfi kalózok nagyrészt harcostársként tekintenek rájuk; de ez persze még a partraszállás elõtt van. Érdemes azonban megjegyezni, hogy néhány ilyen papnõ nagyon tehetséges varázsló, akik nem kisebb hatalommal bírnak, mint mondjuk a druidák. Nagy befolyással rendelkeznek, és szoros kapcsolatokat ápolnak a legtekintélyesebb kapitányokkal és admirálisokkal."
+
+Név:
+22. nap
+Üzenet:
+Dargem naplója. 261. bejegyzés		"Legyünk résen! Információk szerint Adelaide, a jégpapnõ hamarosan betör a térségbe. Nos, én a magam részérõl nem félek a jégcsapos ostoba trükkjeitõl. Meg fogja bánni, ha Kilgor és én az útamba kerül!"
+
+Név:
+28. nap
+Üzenet:
+Dargem naplója. 263. bejegyzés		"Mit tudunk a Nixrõl?		Õk egy õsi, emberszerû kétéltû faj. A tatali gyíkemberektõl nagyobb méretükben és smaragdszínû pikkelyeikben különböznek. Fontos az is, hogy inkább sós vízben élnek; valójában több idõt töltenek a mélyben, mint a szárazföldön. Talán a két faj bizonyos mértékig rokon, de aligha nagyobb mértékben, mint mondjuk a goblinok és az ogrék. A nixek egykor kalózkodtak, hajókat támadtak meg, és adót kényszerítettek ki a part menti településekbõl. Ez a barbár életmód, valamint az állandó véres háborúk a kihalás szélére sodorták a nixeket.		Szétszóródtak az egész világon, és sokan közülük végül rabszolgasorba kerültek. Azóta ismerem ezeket a lényeket, amióta Nighonban éltem. Gyakran használtunk Nix munkásokat az elárasztott bányákban. Mostanában azonban sikerült elfelejteniük a régi viszályaikat, és felkeresték a regnai kalózokat. Ez bölcs döntés volt: a fajuknak hatalmas pártfogókat adott.		Egy felnõtt Nix nem gyengébb, mint egy ogre vagy egy troll, és választott fegyverével, a szigonnyal felfegyverkezve valóságos halálgépezetté válik. Emiatt a regnai kapitányok nagyra becsülik és tisztelik ezeket a lényeket, és a Nixeket gyakran találjuk a seregeik élén."
+
+Név:
+49. nap
+Üzenet:
+Dargem naplója. 264. bejegyzés		"Sürgõs jelentés érkezett, amely arról szólt, hogy a varázsló Astral hamarosan megérkezik erre a vidékre! Azt hiszem, hallottam már errõl a gazemberrõl. Hivatásszerûen szórakozik az ellenséges katonák fejével, és valószínûleg más piszkos trükkökre is képes. Ha a felderítõk nem túloznak, akkor Astralt titánok kísérik. Úgy látszik, mindenáron le akarja gyõzni Kilgort. Ezt nem hagyhatom! Egyetlen titán sem fog segíteni neki legyõzni a hordáinkat. A vén bolond szégyenében fog elkúszni!"
+
+Név:
+50. nap - Gruezak
+Üzenet:
+Gruezak egy el nem küldött levelébõl:		"Bof, úgy teszek, mintha nem kaptam volna meg az utolsó leveledet az utasításokkal. Ne felejtsd el: sok érdekes dolgot tudnék elmondani, ha valaki hajlandó lenne meghallgatni. Egyrészt van egy lebilincselõ történetem arról, hogy Kilgore hogyan kerülte meg Boragusnak a klánvezérek testõrségi állomány méretére vonatkozó törvényét azzal, hogy a hercegnek benyújtott jegyzékeken konyhai személyzetként jelölte meg a plusz embereit. Arról, hogy ki ültette a tölgyfa fejébe egy ilyen trükk gondolatát. Arról, hogy Bo... maga az ötletgazda személyesen toborozta ezeket a "késes és serpenyõs munkásokat", és arról, hogy mire tanította õket. Milyen... recepteket. Arról, hogy a Kilgore felemelkedésétõl irtózó törzsfõnökök milyen finomságokat kapnak majd ebbõl a konyhából.		Persze most, közvetlenül azután, hogy a ti... urunk az egyetlen barbárhoz méltó módon - vagyis erõszakkal - bizonyította a hatalomhoz való jogát, ezek az információk haszontalanok. De mi van, ha a mag néhány év múlva, amikor a klánok már belefáradtak az uralmába, termékeny talajba hullik? Mi lesz, ha rájönnek, milyen rothadó alapokon nyugszik az a szentély, amelyet te és Kija a mi bátor uralkodónk alakja köré emeltek? Gondolj bele, Bofmog. Gondold meg alaposan, mielõtt ultimátumokat adsz nekem, és arra kényszerítesz, hogy kockáztassam a bõrömet. Engem nem érdekel Dargem. Többet mondok: nem csak tiszteletlen volt velem, de még fenyegetni is merészelt, és szeretném, ha megfizetne ezért - de te magad tanítottad meg nekem, hogy a mi szakmánkban nem lehet engedni az érzelmeknek.		Kisebb kihívás lenne számomra, hogyha a zsoldos nem élné túl az utolsó harcot, és a jutalom, amit Kilgor küldött neki... eltûnne, de találtam jeleket arra, hogy rajtam kívül valaki más is szemmel tartja õt. Ez a valaki már számít a pénzre, és biztosan nem helyeselné a terveit, hogy egy kis sikkasztással biztosítson magának egy biztonsági hálót, arra az esetre, ha valami váratlan és idõ elõtti történne uralkodónkkal. Én pedig nem vagyok hajlandó az életemmel fizetni a kapzsiságodért."
+
+Név:
+70. nap
+Üzenet:
+Dargem naplója. 265. bejegyzés		"Úgy tûnik, hogy az utolsó ellenséges tábornok hamarosan megérkezik ide serege élén. A híres lovag, Sir Mullich úgy döntött, hogy kesztyût dob ebben a háborúban. Arkangyalok egy csoportjával készül ide vonulni. Be kell vallanom, hogy ez az ellenség az eddigi legnagyobb fenyegetésünk. Hogy Sir Mullich mennyire képzett harcos, azt abból lehet megítélni, hogy már nem lovagolhat lovagi tornákon, hogy másoknak is legyen esélye a csillogásra. Egy totális háborúban azonban ez nem dõntõ jelentõsségû, és engem itt nem köt semmilyen szabály! Ettõl függetlenül megfelelõ elõkészületeket kell tennünk; nem érdemes kockáztatni, amikor a gyõzelem ilyen közel van, és az ellenség már-már meginog. Talán még Mullichot sem kell saját kezûleg ütlegelnem - ha sikerül elterelnem a figyelmét Kilgore fõhadiszállásáról, az így nyert idõ elég lesz a Krewlodról érkezõ erõsítésre. Amint ideérnek, az ellenséges szövetségnek nem lesz más választása, mint visszavonulni."
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(88, 95, 0) ***Cove***
+Név:
+Kraken Bay
+
+Idõzített események:
+
+Név:
+Erõsítés a Pawn számára
+Üzenet:
+Új emberek érkeztek a Kraken Bay-be, akiket a jadame-i barátaim küldtek.
+
+(96, 90, 0) ***Alabárdos***
+Üzenet:
+"Mit keresnek itt ezek a büdös kalózok?"
+
+(86, 73, 0) ***Stronghold***
+
+Idõzített események:
+
+Név:
+10 ellátmány
+Üzenet:
+Gruezak jelenti, hogy ellátmány érkezett Kilgorból.
+
+Név:
+20 ellátmány
+Üzenet:
+Gruezak jelenti, hogy megérkezett a Kilgorból érkezõ utolsó utánpótláskaraván.
+
+(76, 63, 0) ***Stronghold***
+Név:
+Wildblade
+
+(97, 12, 0) ***Jel***
+Üzenet:
+Bracada
+
+(91, 3, 0) ***Tower***
+Név:
+Star Grove
+
+(54, 26, 0) ***Castle***
+Név:
+Thundertown
+
+(25, 60, 0) ***Titok Kunyhó***
+Üzenet:
+"Behemótokat tenyésztek itt. A vörös sárkányok mostanában a hegygerinc északi oldaláról repülnek be ide, és ellopják a kitenyésztett kölykeimet! Ha kiirtjátok ezeket a sárkány szörnyetegeket, busásan megjutalmazlak titeket."
+"A sárkányok nagyon közel vannak, de egy tisztességes seregre lesz szükséged ahhoz, hogy megöld õket."
+"Köszönöm, hogy megmentetted az én édes picikéimet! Most már biztonságban vannak végre a sárkányoktól, és néhány fiatalabbat odaadhatok a seregedbe segítségedért cserébe."
+
+(30, 48, 0) ***Jel***
+Üzenet:
+Rejtett völgy
+
+(70, 90, 0) ***Lég Elementál***
+Üzenet:
+Úgy tûnik, hogy néhány vad Lég Elementál megakadályozza, hogy a tenger papnõi elhagyják rejtekhelyüket.
+
+(25, 105, 0) ***Szemfényvesztõ***
+Üzenet:
+"Mit akarsz? Tûnj el! Ne avatkozz a terveinkbe!"
+
+(87, 74, 0) ***Barbár***
+Név:
+Gruezak
+Életrajz:
+Kilgor seregében mindenki harcol, magától a törzsfõnöktõl a legalacsonyabb falkavezérig, nem is beszélve a szakácsokról, akiknek a parancsnoksága nemcsak az üstökön, hanem a hatalmas hentesbárdokon is át ível. Ha valaki alaposan szemügyre venné Gruezakot, meglepõdve tapasztalná, hogy olyan harci képességekkel is rendelkezik, amelyeket egy serpenyõ és merõkanál szakértõtõl aligha várnának el; de ki a fene akarna egy átlagos szakácsot, ráadásul egy orkot vizsgálni?
+
+(84, 95, 0) ***Hatalmas Gorgon***
+Üzenet:
+"Múúúú!"
+
+(6, 1, 0) ***Esemény***
+Üzenet:
+Szörnyen hideg van itt...
+
+(36, 48, 0) ***Titok Kunyhó***
+Üzenet:
+Jó barátom, Murdoch egy másik kontinensre készült kalandozni. Mielõtt elindult volna, úgy döntött, hogy levadászik néhány titokzatos szörnyet. Azt mondta, hogy olyan fejük van, mint a tintahalaknak, vagy... a fene tudja, nem vagyok halász! Már egy ideje elment, és én aggódom.
+Hallottál már végre valamit Murdochról?
+Murdoch! Örülök, hogy egészségben látlak, öreg haver! Add ezt a csecsebecsét a kalóz barátaidnak — azt hiszem, szükségük lehet rá a jövõben.
+
+(95, 59, 0) ***Titok Kunyhó***
+Üzenet:
+Itt él egy Küklopsz törzs. Belefáradtak a szerzetesek zaklatásába, akik évrõl évre jönnek, és megpróbálják õket elfordítani õseik hitétõl. Megölni õket túl könnyû lenne: a küklopszok meg akarják õket enni! Arra kérnek, hogy hozzak magammal vagy 15 szerzetest ebédre; aztán a jóllakott Küklopsz törzs csatlakozni fog hozzám!
+Nincs ebéd, nincs üzlet!
+Végre: egy kiadós ebéd, és a megfelelõ bosszú a bosszantó szerzetesek istenkáromlásáért! Hozzák ide õket azonnal: korog a gyomrunk!
+
+(40, 95, 0) ***Palack-posta***
+Üzenet:
+Melyik kérdésre nem lehet nemmel válaszolni?
+
+(92, 91, 0) ***Szerzetes***
+Üzenet:
+"Ti istentelen eretnekek!"
+
+(62, 102, 0) ***Palack-posta***
+Üzenet:
+Milyen gyorsan kell futnia egy hidrának ahhoz, hogy ne hallja a farkához kötött kard csattogását?
+
+(3, 85, 0) ***Palack-posta***
+Üzenet:
+A neveden szólítanak téged?
+
+(4, 104, 0) ***Esemény***
+Üzenet:
+Csapda!
+
+(107, 37, 0) ***Esemény***
+Üzenet:
+"Jó látni téged, zsoldos! Mi ide zárkóztunk be, hogy elbújjunk a varázslók haragja elõl, de szívesen segítünk neked!"
+
+(81, 4, 0) ***Jel***
+Üzenet:
+Vigyázat! Lavinaveszély!
+
+(90, 52, 0) ***Esemény***
+Üzenet:
+
+
+(84, 52, 0) ***Esemény***
+Üzenet:
+
+
+(84, 58, 0) ***Esemény***
+Üzenet:
+
+
+(61, 30, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Egy füstfelhõ a dombon túlról felkeltette a figyelmemet. Úgy döntöttem, hogy megnézem. Meglepetésemre egy félszerzet tanyát találtam! Teljes dühömben egy villámot eresztettem a legközelebbi kunyhóba. A ház lángba borult, és a kis fattyúk rémülten szétszéledtek. Baljósan felnevettem, még néhány villámot küldtem utánuk, majd kikaptam egy muskétát az egyik társam kezébõl, és leadtam egy lövést utánuk. 		Emlékezzenek azok a mocskos kis törpicsekek Dargemre! Fussanak el egészen Jadame-ig, és panaszkodjanak a rokonaiknak!		Gyûlölöm a félszerzeteket, az undok fõnöknõjüket, Henriettát, és a barátját, a vén bolond Fredericket. Ha még egyszer az utamba merészkednek, nem az úri szabályok szerint fogok játszani!		Miután csillapítottam bosszúszomjam, úgy döntöttem, hogy egy kicsit feltöltöm a készleteimet. Természetesen rablás útján. Majd meglátom, hogy valaki azt meri-e mondani, hogy nem érdemeltem meg!"
+
+(80, 63, 0) ***Esemény***
+Üzenet:
+
+
+(10, 22, 0) ***Esemény***
+Üzenet:
+"Hé, haver, köszi, hogy megmentettél azoktól az izéktõl!" - Hangzott a furcsa kalapos idegen hangja. 	"Hogy hagyhattad, hogy elfogjanak?" - Kérdeztem.	"Túl sokan voltak; nem volt elég idõm újratölteni."	"Ezért kedvelem inkább én a jó öreg varázslatokat," - mondtam nyomatékosan. "Elég ügyes vagyok a pisztollyal és az íjpuskával, de nincs jobb érzés annál, mikor egy ellenséget villámmal jól szájba lehet vágni!" 	"Tartozom neked eggyel. A nevem Murdoch, és zsoldos vagyok."	"Én Dargem vagyok," - mondtam. "Én is zsoldos vagyok... mondhatni." 	"Akkor hát immáron megismerkedtünk, Dargem! Hogyan törleszthetem az adósságomat feléd. Talán elkísérhetlek a kalandjaidra, de csak egy bizonyos ideig. Az üzlet Jadame-ba szólít.  	"Az jó lenne: jól jönne néhány megbízható társ. Ó, tudod mit? Ha Jadaméban véletlenül találkozol egy kis huncut..." - Nem szívesen avattam be jövõbeli utitársaimat a távoli kontinens partjainál folytatott, nem éppen sikeres vállalkozásom részleteibe, így a beszélgetés további részét visszafogottan folytattam. Murdoch felemelte sötét színû szemüvegét, összehúzta sápadt szemét, és bólintott. Majd kezet ráztunk.
+
+(48, 72, 0) ***Esemény***
+Üzenet:
+Alacsony nehézségi szintû szövetséges bónusz.
+
+(76, 64, 0) ***Esemény***
+Üzenet:
+"Dargem? Mi a fene?!" - Kilgor meglepõdve vicsorgott a fal mögül.
+
+(99, 73, 0) ***Jel***
+Üzenet:
+Óvakodj a meglepetésszerû támadásoktól!
+
+(103, 25, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Ma egy nagyon szörnyû álmom volt! Abban, egy hegyek közé beékelõdött csillagvizsgálóban dolgoztam. Hatalmas távcsövekkel volt felszerelve, amelyek egy kristálygömbre továbbították az információkat. Hirtelen valami elromlott a teleszkópokkal: a távcsövek adása dadogni kezdett. Odakint éjszaka volt, és én nagyon megijedtem, de meg kellett néznem a távcsöveket, hogy kiderítsem, mi a baj. Reszkettem a rémülettõl és a gondolattól, hogy az éjszaka közepén kimerészkedjek a hegyekbe!  Az istállóban volt egy póni, amin kilovagolhattam a sötét éjszakába. Éppen fel akartam ülni rá, amikor megbotlottam, majd elestem és így felébredtem. Milyen jól éreztem magam, miután rájöttem, hogy ez csak egy álom volt!"
+
+(46, 105, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Mintha a semmibõl bukkant volna elõ egy hajó. Ahogy közelebb értünk, valaki a fedélzetén hangosan kiáltotta: 'De Spanjaarden!', majd a hajó egyszerûen eltûnt! Mit jelentenek ezek a szavak? Soha nem hallottam még ilyet. Bizonyára a legendás Repülõ Jadameannal találkozhattunk — azt mondják, balszerencsét hoz."
+
+(103, 0, 0) ***Jel***
+Üzenet:
+Hallgasd az üresség hangjait...
+
+(23, 72, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Már messzirõl észrevettem azt az élénk színû sátrat. Azt hittem, talán a kulcsmesteré lehet, valamiért nem volt jelölve a térképemen - de meglepõen kicsi volt, ami összezavart. Aztán egy furcsa kinézetû, õsz hajú, különös öltözetû férfi jelent meg valahonnan. Amikor meglátott minket, integetett, majd beszaladt a sátorba. Éppen amikor rákiáltottam, hogy "Ki vagy te?", a sátor eltûnt a semmibe! Alaposan átkutattuk a környéket, de sem az öregembernek, sem a kék sátornak nem találtuk nyomát... Valami értékes dolog azonban ott hevert a földön: bizonyára elejtette."
+
+(18, 38, 0) ***Esemény***
+Üzenet:
+Hirtelen egy fantom jelent meg mellettem, egy vörös hajú nõ alakját öltötte magára! Elõhúztam a baltámat, és bal kezemben villámot készítettem elõ. A testõreim szintén kardot rántottak.	"Ki vagy te? Azonosítsd magad!" - kiáltottam.	"Adj... Mograin... oots... vitation," - mondta a fantom, hevesen gesztikulálva, és idõnként egy pillanatra eltorzulni látszott.	"Mirõl beszélsz? Nincs semmiféle csizmám a sajátomon kívül... és biztosan nincs "vitation"-om érted!" Mondtam dühösen, összezavarodva, nem értveazt, hogy mi folyik itt.		Választ azonban nem kaptam: a fantom eltûnt. Megint valami térbeli anomália, gondoltam óvatosan, miközben eltettem a baltámat.	"Kapitány, nézze! Valami csillog a földön!" - kiáltott fel az egyik emberem.	"Hát, pont erre gondoltam!" Mondtam, miközben alaposabban megnéztem. "Valaki térbeli jelzõfényekkel kísérletezett, de elrontotta a beállításokat. Gyûjtsétek össze õket! Most már nem többek, mint szép üvegdarabok."
+
+(75, 74, 0) ***Jel***
+Üzenet:
+Néha, ahol egy hely teljesen üresnek tûnik, ott valami érdekes rejtõzhet.
+
+(62, 12, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Ma találkoztam egy Lex nevû híres tudóssal. A tábortûznél ültünk, és történeteket meséltünk. Lex elmondta, hogy valahol a világok közötti ûrben hatalmas kõdarabok repkednek, amelyeken emberek és más lények élnek - és úgy tûnik, ezek a kövek új világokat alkotnak, mint a miénk is. Hogy õszinte legyek, nekem úgy hangzott, mint egy õrült zagyvasága. Repülõ kövek? Ezek nehezek, és óhatatlanul lezuhannak! Mindazonáltal, némi gondolatébresztõnek megfelel."
+
+(20, 45, 1) ***Titok Kunyhó***
+Üzenet:
+Üdvözlet neked, testvér! Az átkozott Beatrice, az önjelölt kalóz- és rabló fejvadász, csapdába ejtett minket ebben a lyukban. Ha bosszút állsz azon az arrogáns nõszemélyen, csatlakozunk hozzád.
+Beatrice még mindig Erathia szolgálatában áll.
+"Szép munka, testvér! Készen állsz arra, hogy bevegyél minket a bandádba?"
+
+(50, 52, 1) ***Pandora Szelencéje***
+Üzenet:
+
+
+(85, 69, 1) ***Titok Kunyhó***
+Üzenet:
+Úgy tûnik, hogy a kalózok az utóbbi idõben kialakították azt az ésszerû, de bosszantó szokást, hogy bezárják a házukat. Azt hiszem, Elmore itt lakik; meg kell keresnem, ha meg akarom látogatni a lakásánál.
+Csak Elmore tudja kinyitni az ajtót.
+"Köszönöm, hogy megmentettél, Dargem!" Elmore felkiáltott, és drámaian meghajolt, térdet hajtott.	"Elég a megtiszteltetésbõl! Menjünk, beszélgessünk!" - morogtam, nem egy visszafogott sóhajtással. El kell ismernem, hogy élveztem a megtiszteltetések átvételét, de nem akartam túlságosan elragadtatni magam Regnans társaságában. 
+"Az utóbbi idõben egyáltalán nem volt szerencsém! Folyton bezárnak" - mondta dühösen Elmore.
+Elmore csak Dargemmel beszél.
+"Balszerencse, mi?" - kuncogtam.	"Valószínûleg az a régi ügy a sírban! Én is belekerültem egybe... ott biztos minden el van átkozva! Azóta folyton elkapnak a lovagok és démonok... még néhány beszélõ homár is..." - sóhajtott Elmore, és elkezdett kotorászni a ládájában.	"Beszélõ homárok? Hol találkoztál velük?" 	"Mindegy! Nem valószínû, hogy még mindig ott vannak!" A kalóz legyintett. "Jobb lenne, ha ezt kipróbálnád!"	"És mi ez?" - Kérdeztem, miközben egy tálat néztem, rajta egy mozsárral. Valami zöld anyag volt benne. 	"Ritka hegyi bogyókból készült paszta. A barbárok eszik, hogy erõsebbek legyenek."	"Te és Miriam összeesküvést szõttetek? Úgy tûnik, mindkettõtökben aggasztó vágy támadt arra, hogy mindenféle undorító dolgot a szátokba tömjetek..." - morogtam.		Vonakodva felkaptam az ujjammal egy keveset a pasztából. A szaga undorító volt, mintha valaki már egyszer megette volna ezeket a bogyókat. Visszatartottam a lélegzetemet, és megnyaltam az ujjam. Melegség hulláma terjedt szét a testemben, a látásom kiélesedett, a mozdulataim simává és precízzé váltak. Meg kellene ennem ezt az összes finomságot?
+
+(2, 94, 1) ***Esemény***
+Üzenet:
+Bónusz a maximális nehézségi szinthez
+
+(2, 102, 1) ***Esemény***
+Üzenet:
+Bónusz a maximális nehézségi szinthez
+
+===== Fájl vége =====

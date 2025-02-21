@@ -38,8 +38,8 @@ Kobold	Kobold	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0
 Manó	Manó	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Lövések.	SHOOTING_ARMY
 Kõ Vízköpõ	Kõ Vízköpõ	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30	Repül. Élettelen.	FLYING_ARMY
 Obszidián Vízköpõ	Obszidián Vízköpõ	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25	Repül. Élettelen.	FLYING_ARMY
-Kõ Gólem	Kõ Gólem	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	A rá varázsolt varázslatok 50%-a hat csak.	0
-Acél Gólem	Acél Gólem	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	A rá varázsolt varázslatok 75%-a hat csak.	0
+Kõgólem	Kõgólem	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	A rá varázsolt varázslatok 50%-a hat csak.	0
+Acélgólem	Acélgólem	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	A rá varázsolt varázslatok 75%-a hat csak.	0
 Mágus	Mágus	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	Lövések. Nincs közelharci/akadály büntetés. Csökkenti a varázslás költségét.	SHOOTING_ARMY | const_no_melee_penalty
 Fõmágus	Fõmágus	0	0	0	0	0	0	450	467	680	4	0	30	7	12	9	7	9	24	0	10	16	Lövések. Nincs közelharci/akadály büntetés. Csökkenti a varázslás költségét.	SHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty
 Dzsinn	Dzsinn	0	0	0	0	0	0	550	680	884	3	0	40	7	12	12	13	16	0	0	8	16	Repül. Gyûlöli az Efreeteket.	FLYING_ARMY

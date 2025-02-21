@@ -52,7 +52,7 @@ fordító, szerkesztõ
 {Heetch}
 zene, mastering,
 hangtervezés
-{Èãîğü Êóäğà}
+{Igor Kudra}
 fõ tesztelõ,
 feladatszervezõ
 {IQUARE}
@@ -157,7 +157,7 @@ szöveg szerkesztésért
 hostingért
 {olexn}
 telepítõvel kapcsolatos segítségért
-{Ñòàíèñëàâ Ãîğäèíñêèé}
+{Sztanyiszlav Gordinszkij}
 fordításokért
 {Nestor}
 tesztelésért
@@ -172,12 +172,12 @@ hangokért
 3D jelenetekért
 {SoVa}
 a 2D/3D mûvészetért és írásért
-{??????? ??????},
-{??????? ???????}
+{Alekszej Palko},
+{Vitalij Oleynik}
 a harctéri hátterekhez
-{?????? ????????}
+{Szergej Kapusztin}
 az írásért
-{????? ?????????}
+{Roman Kupriyanov}
 hõs portrékhoz és vágóképekhez
 {Yekaterina Dmitrova}
 a jelenetek hangjaihoz
@@ -187,23 +187,23 @@ a Factory hadjárat fõ sablonjáért
 a Factory város sablonjáért
 és a hadjárat sablonért
 {Alina Besanidou}
-{??????? ????????}
+{Vaszilij Szinicskin}
 a vágóképek koncepciójához
 {Lampik_LMra}
 a koncepció mûvészetéért
 
 Forgatókönyv- és sablonkészítõk:
-{Riug74}, {×àïàé}, {Manolo},
+{Riug74}, {Chapay}, {Manolo},
 {molski}, {koget}, {Veracruz},
 {Begrezen}, {Ignus}
 
 Hangszínészek (ru):
-{??????? ????},
-{?????? ?????????},
-{?????? ??????????},
-{??????? ???????},
-{?????? ??????},
-{??????? ????????}
+{Natalya Mertz},
+{Andrey Bogatyryov},
+{Viktor Potapeshkin},
+{Natalya Belkina},
+{Mikhail Markov},
+{Natalya Ragulina}
 
 2019 tesztelõk:
 {Chleb}, {Ignus},
@@ -214,7 +214,7 @@ Hangszínészek (ru):
 2023 tesztelõk:
 {CzileraInzyniera},
 {DarkPepego}, {Gongwazy},
-{Flisiu}, {Éîğèê},
+{Flisiu}, {Yorick},
 {Machberet}, {maugli},
 {Mont}, {Niechcic},
 {Scherban Vlad}, {Spinaonic}, 
@@ -224,7 +224,7 @@ Hangszínészek (ru):
 2024 tesztelõk:
 {CzileraInzyniera},
 {DarkPepego}, {Flisiu},
-{Green Hell}, {?????},
+{Green Hell}, {Yorick},
 {Krzynsztof}, {Machberet},
 {maugli}, {Redwhait},
 {Scherban Vlad}, {Spinaonic}, 
@@ -252,7 +252,7 @@ mûvész
 játékon belüli erõforrások
 {Darkmoon}
 fordító
-{Ä'ÿêîí}
+{Deacon}
 kód
 {exx}
 3D mûvész
@@ -273,7 +273,7 @@ PR, sztori
 forgatókönyvekek
 {major}
 kód
-{Ìèõàíèê}
+{Michanik}
 kód
 {pokrik1}
 mûvész
@@ -286,7 +286,7 @@ fordító
 3D mûvész
 {SAG}
 egyensúly
-{Ñåğ¸ãà-JET}
+{Szergej-JET}
 szerkesztõ, tesztelõ
 {Silver}
 sztori

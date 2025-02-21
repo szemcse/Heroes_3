@@ -1,0 +1,45 @@
+Name:
+
+
+Description:
+
+
+
+Culling the Weak — Nighon A
+
+Right-click text:
+Ordwald, your near neighbor, is the oldest lord in Nighon.  Age has started to effect the old warlock, but he is still able to beat off the other young lords.  Unlike the others, you have patiently waited for Ordwald to stumble before you move.  Last week, Ordwald slipped.  Time to take him down.
+
+Prologue:
+Ordwald.  I find the name distasteful.  This old man has held rich Nighon lands given to him by a much greater father.  He has squandered his time and done little to earn his stature.  I have stood in his shadow and by his borders too long.  His lands will be mine.
+
+
+Savaging the Scavengers — Nighon B
+
+Right-click text:
+Interrogation reveals Ordwald didn't personally defend his lands because he is seeking the fabled Vial of Dragon Blood. Unfortunately, Caomham and Preuet have also heard about the Vial. They will certainly follow you into the Deep Caverns after Ordwald if they can. You need to dispose of them first.
+
+Prologue:
+Ordwald is absent.  No wonder his lands were so easy to take.  It seems he has spent his life and his father's fortune in pursuit of the fabled Vial of Dragon Blood.  It is said to hold blood taken from the Dragon Father.  It is believed drinking it will transform the user into a sentient dragon.  Orwald isn't as stupid as I believed.  Still, he is old.  I will find him and the vial, but first, I must dispose of the young lords who have heard the news and nip at my heels.
+
+
+Blood of the Dragon Father — Nighon C
+
+Right-click text:
+Whoever gains the Vial of Dragon Blood and drinks the Blood of the Dragon Father with transform into a Sentient Dragon.  You MUST beat Ordwald to the Vial and defeat its guardians.  Nothing else matters.  Nothing!
+
+Prologue:
+I have found Ordwald.  He is close to the vial, but his conservative actions and slow thinking leaves the way open for me to surpass him.  As much as I must worry about Ordwald, I must consider the vial.  Once I have passed him, there is the vial, and no doubt, it will have guardians... dragon guardians.
+
+
+Blood Thirsty — Nighon D
+
+Right-click text:
+Ordwald lied to three powerful Nighon Lords.  He told them, if they were to drink your blood they would also transform into dragons.  Now your old opponent Ordwald and three powerful lords block your access to the upper tunnels.  They want to kill you and drink your blood.  You plan to drink theirs.
+
+Prologue:
+I am successful.  Now Ordwald and his lacky's seek to slay me and drink my blood.  They believe it will transform them as the vial transformed me.  They will never drink my blood.  I will be the one to drink their blood.
+
+Epilogue:
+Ordwald is dead.  His lackeys are dead.  Their lands and riches belong to me.   Soon, all of Nighon will belong to me.
+

@@ -1,0 +1,81 @@
+Name:
+
+
+Description:
+
+
+
+Catherine's Charge — Armageddon A
+
+Right-click text:
+Eeofol troops have pushed to Erathia's border.  Queen Catherine herself has chosen to stay the tide of these invaders by controlling the border and digging in until reinforcements can arrive.  Catherine must not fail.
+
+Prologue:
+I have underestimated my opponent's strength and resolve.  During the Restoration Wars, the Kreegans were of minor concern.  Now they fight with an urgency neither I nor Roland have encountered.  I have pulled the bulk of my forces back behind Erathia's border.  Between us and the Kreegans lies Moss Valley.  It is one of Erathia's more beautiful landscapes.  Tactically, it is ideal.  If I can hold this valley, I can close the border.  Then I can determine how to destroy the demon king Lucifer and his quest to set the world on fire with Armageddon's Blade.
+
+
+Seeking Armageddon — Armageddon B
+
+Right-click text:
+The greatest hero in all Eeofol is Xeron the Terrible.  He has been attempting to fulfill King Lucifer's vision for some time now, but every time he has gotten close to one of the objects needed to build Armageddon's Blade, a hero from the Elemental Conflux has arrived to take it.  Now he has them cornered in Avlee and they are ripe for the picking.
+
+Prologue:
+My quest is sacred, given to me by the king himself.  I have searched the continent for the relics he desires.  When I have come close, a mysterious hero has spirited my prize away.  I have pursued these heroes for months.  Now, I have them cornered.  They will either surrender the relics, their lives... or both.
+
+
+Shadows of the Forest — Armageddon C
+
+Right-click text:
+Gelu, the half-Vori elf leader of Erathia's elite unit known as the Forestguard, has been ordered to wage a shadow war along the Avlee-Eeofol border.  This area is rife with small garrisons and outposts.  It is from these levies that Gelu shall draw his guerilla force.
+
+Prologue:
+Messengers inform me Queen Catherine and Roland Ironfist are retreating to the Erathian border.  Avlee has chosen to turn a blind eye toward the war, but have purposely left local heroes to their own will.  Under the Queen's orders we are to wage a 'hit-and-run' war along the Avlee border.  Our only support will be local militia hostile toward the Kreegans.  Should we be captured, Erathia and Avlee will disavow any knowledge of our actions.  Otherwise... this task is no different than before.
+
+
+Maker of Sorrows — Armageddon D
+
+Right-click text:
+Xeron must seek out the Grand Forgesmith, Khazandar.  He is the only man with the knowledge and skill to build Armageddon's Blade and it is vital that he "convince" him to do this.  There shall be interference from the accrused Conflux towns.  He must complete this quest and then return to the capitol.
+
+Prologue:
+My king seeks to build Armageddon's Blade.  With this fabled weapon he will set the world on fire.  I have the elements to build the blade, but only the grand forgesmith Khazandar can fashion it from the relics I carry.  Again, a collection of mysterious heroes gather to end my quest.  Ironically, they have surrounded Khazandar, but have not killed him as I would.  This proves they are soft.  They will not stand in my way.
+
+
+Return of the King — Armageddon E
+
+Right-click text:
+King Roland and General Morgan Kendal are on the western shores of the Great Lake and must take a mixed Erathian-Conflux army deep into Kreegan territory.  They must cross the lake and go through the mountains and prepare to make a push towards Catherine's army in the north, thus trapping the devils between the two forces.
+
+Prologue:
+Heroes from the Confluxes tell us the elemental gods have sent them to us, so together, we might destroy Lucifer Kreegan and his quest to set the world on fire.  Catherine trusts these new allies.  I am not as giving.  However, we do not have a choice as support for the war wanes and our forces dwindle.  If these elemental heroes are to be our allies, they will prove themselves in this forthcoming battle... under my command.
+
+
+A Blade in the Back — Armageddon F
+
+Right-click text:
+Gelu must take his army to cut off any escape routes the Eeofol army might be able to use.  King Roland and general Kendal are moving against the Kreegans and pushing them towards him, along with Queen Catherine's forces.  To ensure King Lucifer is defeated, the Kreegans must not be allowed to escape.
+
+Prologue:
+In my operations, information is always scarce, and never given full trust.  Now I am told the elemental Confluxes we have encountered, have allied with Queen Catherine in her war to destroy King Lucifer Kreegan.  I have orders to move deep into Eeofol, behind the main Kreegan force Catherine holds at the border.  There I am to cut off any potential escape route.  I pray this is not a trap.
+
+
+To Kill A Hero — Armageddon G
+
+Right-click text:
+Catherine has lost support in Erathia.  They are tired of war and do not wish to pursue this any further.  To ensure victory, Catherine has stepped down as Queen and joined Roland with the Conflux army, pushing deeper into Eeofol.  General Kendal has been left to see to the task of picking Erathia's next ruler.  In secret, he has dispatched Gelu and his Forestguard to help his former Queen and good friend in this most serious of endeavors.
+
+Prologue:
+With the majority of the Kreegan forces destroyed, Erathia's lords have grown weary of this war and have withdrawn their support.  They do not understand.  This is a critical moment.  To continue this war, I have stepped down as Erathia's Queen.   Myself, Roland, and the Conflux forces will continue to press to the capitol of Eeofol.  However, between us and the demon king stands the hero Xeron.  We are told he wields Armageddon's Blade.  We must succeed for the safety of Erathia, and the world.
+
+
+Oblivion's Edge — Armageddon H
+
+Right-click text:
+The Kreegan race borders on extinction, yet remains defiant.  King Lucifer has sent for aid from the Overlords of Nighon.  It is estimated that it shall take no more than 60 days for an army to arrive and reinforce the Kreegan king.  The tide has turned as Catherine's army now has the Blade and the irony of Lucifer's downfall under the Blade he created to destroy the world has not escaped Catherine.  She intends to bring the Blade to Hell itself if need be.
+
+Prologue:
+Armageddon's Blade is no longer a threat.  However, King Lucifer Kreegan still sits upon the throne of Eeofol.  What few clans remain have rallied to defend their king and his lost cause.  Erathian spies tell us the demon king has requested support from the dungeon overlords of Nighon.  We cannot confirm this.  If it is true, we cannot allow Lucifer to receive this aid.  We must dethrone the demon king.   Time is short, but now we wield Armageddon's Blade.  It is time we take armageddon into the heart of hell itself.
+
+Epilogue:
+Lucifer Kreegan is dead.  The few remaining Kreegan clans have gone into hiding.   All but a few of the elemental Confluxes have disappeared.  I am sure we will see them again... if needed.  As for myself and Roland, we will soon depart for Enroth and I will see my son again.  As for Gelu, I left Armageddon's Blade in his hands.   Following our victory, he and his guerilla army vanished into the Erathian forests.   I do not know if he intends to destroy the weapon... or keep it for himself.   In time, I am sure we will all know.
+

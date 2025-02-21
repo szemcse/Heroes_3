@@ -17599,7 +17599,7 @@ Val 3: "0"
 Name: "campmap25"
 Path: ""
 Texts count: "9"
-Text 0: "All In"
+Text 0: "Mindent egy lapra"
 Text 1: "BgAllIn.pcx"
 Text 2: ""
 Text 3: ""
@@ -17618,27 +17618,27 @@ Text 8: "# Hadjárat típusa (0 - region map, 1 - generated region map)
 256 418
 26 419
 # Map 1
-All In A
+Mindent egy lapra A
 C4Amask.pcx
 C4Abord.pcx
 C4Aalph.pcx
 # Map 2
-All In B
+Mindent egy lapra B
 C4Bmask.pcx
 C4Bbord.pcx
 C4Balph.pcx
 # Map 3
-All In C
+Mindent egy lapra C
 C4Cmask.pcx
 C4Cbord.pcx
 C4Calph.pcx
 # Map 4
-All In D
+Mindent egy lapra D
 C4Dmask.pcx
 C4Dbord.pcx
 C4Dalph.pcx
 # Map 5
-All In E
+Mindent egy lapra E
 C4Emask.pcx
 C4Ebord.pcx
 C4Ealph.pcx"
@@ -19139,7 +19139,7 @@ Name: "video179"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# All In 1"
+Text 1: "# Mindent egy lapra 1"
 Text 2: "Allin1"
 Text 3: ""
 Text 4: "AllIn_a"
@@ -19172,7 +19172,7 @@ Name: "video180"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# All In 2"
+Text 1: "# Mindent egy lapra 2"
 Text 2: "Allin2"
 Text 3: ""
 Text 4: "AllIn_b"
@@ -19205,7 +19205,7 @@ Name: "video181"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# All In 3"
+Text 1: "# Mindent egy lapra 3"
 Text 2: "Allin3"
 Text 3: ""
 Text 4: "AllIn_c"
@@ -19238,7 +19238,7 @@ Name: "video182"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# All In 4"
+Text 1: "# Mindent egy lapra 4"
 Text 2: "Allin4"
 Text 3: ""
 Text 4: "AllIn_d"
@@ -19271,7 +19271,7 @@ Name: "video183"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# All In 5"
+Text 1: "# Mindent egy lapra 5"
 Text 2: "Allin5A"
 Text 3: ""
 Text 4: "AllIn_e"
@@ -19304,7 +19304,7 @@ Name: "video184"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# All In Utószó"
+Text 1: "# Mindent egy lapra Utószó"
 Text 2: "Allin5B"
 Text 3: ""
 Text 4: "AllIn_epilogue"
@@ -19337,7 +19337,7 @@ Name: "video185"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "# All In - Minivideo"
+Text 1: "# Mindent egy lapra - Minivideo"
 Text 2: "mvallin"
 Text 3: ""
 Text 4: ""
@@ -19563,7 +19563,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "H5AllIn.h3c"
-Text 2: "All In"
+Text 2: "Mindent egy lapra"
 Text 3: "campal1.pcx"
 Text 4: ""
 Text 5: ""

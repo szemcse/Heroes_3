@@ -1,0 +1,198 @@
+	Leírás		
+Név	Alap	Haladó	Mester
+Terepismeret	"{Alap Terepismeret}
+
+Az Alap Terepismeret kedvezõtlen terepen való haladáskor 25 ponttal csökkenti a hõs lépésköltségét, 95 ponton pedig minimálisra csökkenti."	"{Haladó Terepismeret}
+
+A Haladó Terepismeret kedvezõtlen terepen való haladáskor 50 ponttal csökkenti a hõs lépésköltségét, 90 ponton pedig minimálisra csökkenti."	"{Mester Terepismeret}
+
+A Mester Terepismeret megszünteti a kedvezõtlen terepen való mozgási büntetést, 75 ponttal csökkenti a hõs lépésköltségét, 85 ponton pedig minimálisra csökkenti."
+Íjászat	"{Alap Íjászat}
+
+Az Alap Íjászat a távolra támadó lények sebzését növeli meg 10%-kal."	"{Haladó Íjászat}
+
+A Haladó Íjászat a távolra támadó lények sebzését növeli meg 25%-kal."	"{Mester Íjászat}
+
+A Mester Íjászat a távolra támadó lények sebzését növeli meg 50%-kal."
+Logisztika	"{Alap Logisztika}
+
+Az Alap Logisztika megnöveli a hõs mozgáspontját a szárazföldön 5%-kal."	"{Haladó Logisztika}
+
+A Haladó Logisztika megnöveli a hõs mozgáspontját a szárazföldön 10%-kal."	"{Mester Logisztika}
+
+A Mester Logisztika megnöveli a hõs mozgáspontját a szárazföldön 20%-kal."
+Felderítés	"{Alap Felderítés}
+
+Az Alap Felderítés +1 sugarú körrel többet fed föl a Kaland Térképen.	"{Haladó Felderítés}
+
+A Haladó Felderítés +2 sugarú körrel többet fed föl a Kaland Térképen."	"{Mester Felderítés}
+
+A Mester Felderítés +5 sugarú körrel többet fed föl a Kaland Térképen."
+Diplomácia	"{Alap Diplomácia}
+
+Az Alap Diplomácia lehetõséget ad a hõsnek, hogy túlerõben lévõ csapataival az ellenséges lényeket maga mellé állítsa, ezen felül csökkenti a Megadás költségét 20%-kal."	"{Haladó Diplomácia}
+
+A Haladó Diplomácia lehetõséget ad a hõsnek, hogy túlerõben lévõ csapataival az ellenséges lényeket maga mellé állítsa, ezen felül csökkenti a Megadás költségét 40%-kal."	"{Mester Diplomácia}
+
+A Mester Diplomácia lehetõséget ad a hõsnek, hogy túlerõben lévõ csapataival az ellenséges lényeket maga mellé állítsa, ezen felül csökkenti a Megadás költségét 60%-kal."
+Tengerészet  	"{Alap Tengerészet}
+
+Az Alap Tengerészet tengeri utazás során 50%-kal több mozgáspontot ad a hõsnek."	"{Haladó Tengerészet}
+
+A Haladó Tengerészet tengeri utazás során megduplázza a hõs mozgáspontjait."	"{Mester Tengerészet}
+
+A Mester Tengerészet tengeri utazás során 150%-kal több mozgáspontot ad a hõsnek."
+Vezetés	"{Alap Vezetés}
+
+Az Alap Vezetés növeli a hõsöd katonáinak hangulatát +1-gyel."	"{Haladó Vezetés}
+
+A Haladó Vezetés növeli a hõsöd katonáinak hangulatát +2-vel."	"{Mester Vezetés}
+
+A Mester Vezetés növeli a hõsöd katonáinak hangulatát +3-mal."
+Bölcsesség	"{Alap Bölcsesség}
+
+Az Alap Bölcsesség lehetõséget biztosít a hõsöd számára, hogy megtanulja a harmadik szintû varázslatokat."	"{Haladó Bölcsesség}
+
+A Haladó Bölcsesség lehetõséget biztosít a hõsöd számára, hogy megtanulja a negyedik szintû varázslatokat."	"{Mester Bölcsesség}
+
+A Mester Bölcsesség lehetõséget biztosít a hõsöd számára, hogy megtanulja az ötödik szintû varázslatokat."
+Miszticizmus	"{Alap Miszticizmus}
+
+Az Alap Miszticizmussal a hõs maximális varázspontjainak 10%-át regenerálja naponta, minimum napi 5 pontot."	"{Haladó Miszticizmus}
+
+A Haladó Miszticizmussal a hõs maximális varázspontjainak 20%-át regenerálja naponta, minimum napi 10 pontot."	"{Mester Miszticizmus}
+
+A Mester Miszticizmussal a hõs maximális varázspontjainak 30%-át regenerálja naponta, minimum napi 15 pontot."
+Szerencse	"{Alap Szerencse}
+
+Az Alap Szerencse növeli a hõsöd szerencséjét +1-gyel."	"{Haladó Szerencse}
+
+A Haladó Szerencse növeli a hõsöd szerencséjét +2-vel."	"{Mester Szerencse}
+
+A Mester Szerencse növeli a hõsöd szerencséjét +3-mal."
+Ballisztika	"{Alap Ballisztika}
+
+Az Alap Ballisztika képesség átadja a katapult irányítást a hõsnek, lehetõvé téve így egy célzott lövést leadni nagyobb találati eséllyel. Védi a katapultot, megakadályozva az életerõpontok több mint 40%-os elvesztését egyetlen találat esetén."	"{Haladó Ballisztikával}
+
+A Haladó Ballisztika képesség átadja a katapult irányítást a hõsnek, lehetõvé téve így két célzott lövést leadni nagyobb találati eséllyel. Védi a katapultot, megakadályozva az életerõpontok több mint 40%-os elvesztését egyetlen találat esetén."	"{Mester Ballisztika}
+
+A Mester Ballisztika képesség átadja a katapult irányítást a hõsnek, lehetõvé téve így két célzott lövést leadni maximális sebzéssel. Védi a katapultot, megakadályozva az életerõpontok több mint 40%-os elvesztését egyetlen találat esetén."
+Sasszem	"{Alap Sasszem}
+
+Az Alap Sasszem képesség lehetõvé teszi az ellenséges varázslatok megtekintését 1-3. szintig a harcban, és 40% esélyt ad hõsödnek, hogy megtanuljon bármilyen varázslatot 3. szintig az ellenséges hõstõl a harc kezdete elõtt, valamint a varázslat használatakor. Blokkolja az ellenség Sasszemének egyik szintjét."	"{Haladó Sasszem}
+
+A Haladó Sasszem képesség lehetõvé teszi az ellenséges varázslatok megtekintését 1-4. szintig a harcban, és 50% esélyt ad hõsödnek, hogy megtanuljon bármilyen varázslatot 4. szintig az ellenséges hõstõl a harc kezdete elõtt, valamint a varázslat használatakor. Blokkolja az ellenség Sasszemének két szintjét."	"{Mester Sasszem}
+
+A Mester Sasszem képesség lehetõvé teszi az összes ellenséges varázslatok megtekintését a harcban, és 60% esélyt ad hõsödnek, hogy megtanuljon bármilyen varázslatot az ellenséges hõstõl a harc kezdete elõtt, valamint a varázslat használatakor. Blokkolja az ellenség Sasszem képzetségét."
+Nekromancia	"{Alap Nekromancia}
+
+Az Alap Nekromanciával a csata során megölt lények 5%-át fel tudjuk támasztani, Csontvázak formájában."	"{Haladó Nekromancia}
+
+A Haladó Nekromanciával a csata során megölt lények 10%-át fel tudjuk támasztani, Csontvázak formájában."	"{Mester Nekromancia}
+
+A Mester Nekromanciával a csata során megölt lények 30%-át fel tudjuk támasztani, Csontvázak formájában."
+Gazdagság	"{Alap Gazdagság}
+
+Az Alap Gazdagság birodalmadat napi 250 arannyal látja el."	"{Haladó Gazdagság}
+
+A Haladó Gazdagság birodalmadat napi 500 arannyal látja el."	"{Mester Gazdagság}
+
+A Mester Gazdagság birodalmadat napi 1000 arannyal látja el."
+Tûz Mágia	"{Alap Tûz Mágia}
+
+Az Alap Tûz Mágiának köszönhetõen hõsödnek a Tûz varázslatokhoz kevesebb varázspontot kell felhasználnia."	"{Haladó Tûz Mágia}
+
+A Haladó Tûz Mágiának köszönhetõen hõsödnek a Tûz varázslatokhoz még kevesebb varázspontot kell felhasználnia."	"{Mester Tûz Mágia}
+
+A Mester Tûz Mágiának köszönhetõen hõsödnek a Tûz varázslatokhoz minimális varázspontot kell felhasználnia."
+Levegõ Mágia	"{Alap Levegõ Mágia}
+
+Az Alap Levegõ Mágiának köszönhetõen hõsödnek a Levegõ varázslatokhoz kevesebb varázspontot kell felhasználnia."	"{Haladó Levegõ Mágia}
+
+A Haladó Levegõ Mágiának köszönhetõen hõsödnek a Levegõ varázslatokhoz még kevesebb varázspontot kell felhasználnia."	"{Mester Levegõ Mágia}
+
+A Mester Levegõ Mágiának köszönhetõen hõsödnek a Levegõ varázslatokhoz minimális varázspontot kell felhasználnia."
+Víz Mágia	"{Alap Víz Mágia}
+
+Az Alap Víz Mágiának köszönhetõen hõsödnek a Víz varázslatokhoz kevesebb varázspontot kell felhasználnia."	"{Haladó Víz Mágia}
+
+A Haladó Víz Mágiának köszönhetõen hõsödnek a Víz varázslatokhoz még kevesebb varázspontot kell felhasználnia."	"{Mester Víz Mágia}
+
+A Mester Víz Mágiának köszönhetõen hõsödnek a Víz varázslatokhoz minimális varázspontot kell felhasználnia."
+Föld Mágia	"{Alap Föld Mágia}
+
+Az Alap Föld Mágiának köszönhetõen hõsödnek a Föld varázslatokhoz kevesebb varázspontot kell felhasználnia."	"{Haladó Föld Mágia}
+
+A Haladó Föld Mágiának köszönhetõen hõsödnek a Föld varázslatokhoz még kevesebb varázspontot kell felhasználnia."	"{Mester Föld Mágia}
+
+A Mester Tûz Mágiának köszönhetõen hõsödnek a Föld varázslatokhoz minimális varázspontot kell felhasználnia."
+Tanítás	"{Alap Tanítás}
+
+Az Alap Tanítással a hõseid tanítani tudják egymásnak az elsõ és második szintû varázslatokat."	"{Haladó Tanítás}
+
+A Haladó Tanítással a hõseid tanítani tudják egymásnak az elsõ, második és harmadik szintû varázslatokat."	"{Mester Tanítás}
+
+A Mester Tanítással a hõseid tanítani tudják egymásnak a negyedik szintnél nem nagyobb varázslatokat."
+Taktika	"{Alap Taktika}
+
+Az Alap Taktika lehetõvé teszi az egységeid csata elõtti átrendezését, 3 hexa kocka távolságig. Blokkolja az ellenség taktikájának egy szintjét."	"{Haladó Taktika}
+
+A Haladó Taktika lehetõvé teszi az egységeid csata elõtti átrendezését, 5 hexa kocka távolságig. Blokkolja az ellenség taktikájának két szintjét."	"{Mester Taktika}
+
+A Mester Taktika lehetõvé teszi az egységeid csata elõtti átrendezését, 7 hexa kocka távolságig. Blokkolja az ellenség taktikájának összes szintjét."
+Tüzérség	"{Alap Tüzérség}
+
+Az Alap Tüzérség képesség átadja az ostromgép, a nyíltornyok és az ágyú irányítást a hõsnek. Az ostromgép 50%-os eséllyel +100%-os sebzést okoz. Az ágyúnak nagyobb esélye van az erõdítmények eltalálására. A képesség védi az ostromgépet és az ágyút, megakadályozva az életerõpontok több mint 40%-os elvesztését egyetlen találat esetén."	"{Haladó Tüzérség}
+
+A Haladó Tüzérség képesség átadja az ostromgép, a nyíltornyok és az ágyú irányítást a hõsnek. Az ostromgép kétszer lõ, és 75% esélye van arra, hogy +100%-os sebzést okozzon. Az ágyú +100%-os sebzést okoz, és megnövelt eséllyel találja el az erõdítményeket. A képesség védi az ostromgépet és az ágyút, megakadályozva az életerõpontok több mint 40%-os elvesztését egyetlen találat esetén."	"{Mester Tüzérség}
+
+A Mester Tüzérség képesség átadja az ostromgép, a nyíltornyok és az ágyú irányítást a hõsnek, lehetõvé téve így az ostromgép kétszer lõ, és +100%-os sebzést okoz. Az ágyú +200% sebzést okoz, és pontosan lõ az erõdítményekre maximális sebzéssel. A képesség védi az ostromgépet és az ágyút, megakadályozva az életerõpontok több mint 40%-os elvesztését egyetlen találat esetén."
+Tanulás	"{Alap Tanulás}
+
+Az Alap Tanulás 25%-kal növeli a hõsök megszerzett tapasztalatát. Ezt a képességet megszerezve a hõs azonnal további szintlépést kap."	"{Haladó Tanulás}
+
+A Haladó Tanulás 50%-kal növeli a hõsök megszerzett tapasztalatát. Ezt a képességet megszerezve a hõs azonnal további szintlépést kap."	"{Mester Tanulás}
+
+A Mester Tanulás 75%-kal növeli a hõsök megszerzett tapasztalatát. Ezt a képességet megszerezve a hõs azonnal további szintlépést kap."
+Támadás	"{Alap Támadás}
+
+Az Alap Támadás 10%-kal növeli -közelharc során- a lények sebzését."	"{Haladó Támadás}
+
+A Haladó Támadás 20%-kal növeli -közelharc során- a lények sebzését."	"{Mester Támadás}
+
+A Mester Támadás 30%-kal növeli -közelharc során- a lények sebzését."
+Páncélzat	"{Alap Páncélzat}
+
+Az Alap Páncélzat 5%-kal csökkenti az ellenséges csapatok által a hõs csapatai ellen okozott összes sebzést."	"{Haladó Páncélzat}
+
+A Haladó Páncélzat 10%-kal csökkenti az ellenséges csapatok által a hõs csapatai ellen okozott összes sebzést."	"{Mester Páncélzat}
+
+A Mester Páncélzat 15%-kal csökkenti az ellenséges csapatok által a hõs csapatai ellen okozott összes sebzést."
+Intelligencia	"{Alap Intelligencia}
+
+Az Alap Intelligencia 25%-kal növeli az elérhetõ varázspontok számát."	"{Haladó Intelligencia}
+
+A Haladó Intelligencia 35%-kal növeli az elérhetõ varázspontok számát."	"{Mester Intelligencia}
+
+A Mester Intelligencia megduplázza az elérhetõ varázspontok számát."
+Boszorkányság	"{Alap Boszorkányság}
+
+Az Alap Boszorkányság képzettség hatására a hõs varázslatai további 10%-os sebzést okoznak a harcban."	"{Haladó Boszorkányság}
+
+A Haladó Boszorkányság képzettség hatására a hõs varázslatai további 20%-os sebzést okoznak a harcban."	"{Mester Boszorkányság}
+
+A Mester Boszorkányság képzettség hatására a hõs varázslatai további 30%-os sebzést okoznak a harcban."
+Ellenállás	"{Alap Ellenállás}
+
+Az Alap Ellenállás 5%-os varázslat ellenállással ruházza fel a hõs katonáit."	"{Haladó Ellenállás}
+
+A Haladó Ellenállás 10%-os varázslat ellenállással ruházza fel a hõs katonáit."	"{Mester Ellenállás}
+
+A Mester Ellenállás 20%-os varázslat ellenállással ruházza fel a hõs katonáit."
+Elsõsegély	"{Alap Elsõsegély}
+
+Az Alap Elsõsegély lehetõvé teszi az Elsõsegély-sátor egyéni használatát a hõs számára, továbbá 40-50 sebzéspontot képes helyreállítani a kijelölt egységen. Az Elsõsegély-sátor a hõs minden egységének 5% bónuszt ad az életerejére. A képesség megvédi az Elsõsegély-sátrat, megakadályozva az életerõpontok több mint 40%-os elvesztését egyetlen találat esetén."	"{Haladó Elsõsegély}
+
+A Haladó Elsõsegély lehetõvé teszi az Elsõsegély-sátor egyéni használatát a hõs számára, továbbá 60-75 sebzéspontot képes helyreállítani a kijelölt egységen. Az Elsõsegély-sátor a hõs minden egységének 10% bónuszt ad az életerejére. A képesség megvédi az Elsõsegély-sátrat, megakadályozva az életerõpontok több mint 40%-os elvesztését egyetlen találat esetén."	"{Mester Elsõsegély}
+
+A Mester Elsõsegély lehetõvé teszi az Elsõsegély-sátor egyéni használatát a hõs számára, továbbá 80-100 sebzéspontot képes helyreállítani a kijelölt egységen. Az Elsõsegély-sátor a hõs minden egységének 15% bónuszt ad az életerejére. A képesség megvédi az Elsõsegély-sátrat, megakadályozva az életerõpontok több mint 40%-os elvesztését egyetlen találat esetén."

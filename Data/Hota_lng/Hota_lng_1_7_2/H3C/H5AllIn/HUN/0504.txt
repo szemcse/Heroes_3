@@ -1,0 +1,295 @@
+===== Térkép neve =====
+Térdig gázolva az élõholtakban
+
+===== Térkép leírása =====
+A gyõzelemhez Dargemnek el kell foglalnia a Doom Castle-t. A hõsök maximális szintje 32-re van korlátozva. A gyõzelem után Dargem továbbjut a kampány utolsó forgatókönyvébe, megtartva minden képességét és varázslatát.
+
+===== Események =====
+
+Név:
+Kastore
+Szöveg:
+Azt mondják, Kastore mostanában annyira beleélte magát a mechanizmusokba, hogy végleg felhagyott a nekromanciával!
+
+Név:
+Maximus
+Szöveg:
+Maximus lett a Deyjában maradt goblinok és orkok vezetõje.
+
+Név:
+Goblin nõk
+Szöveg:
+Deyjan goblinoknak szebb nõik vannak, mint a tündéknek! Tudtad ezt?
+
+Név:
+Repülõ minotauruszok
+Szöveg:
+El tudod képzelni, hogy a minotauruszok repülnek? Ez õrültség!
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Dargem naplója. 281. bejegyzés		"Ritkán fogadok vendégeket, de Stella esetében örömmel tettem kivételt. A nappalimban ültünk. Kívülrõl nézve a házam teljesen feltûnésmentes, de a belsõ tér egészen más. Van mit nézegetni; a legtöbb dolgot egészen Nighonból hoztam idáig, az újabbak pedig az utazásaimról származnak. Néha tréfásan úgy emlegetem a nappalimat, hogy "Dargem múzeuma"— ez általában lenyûgözi a vendégeimet, különösen a nõi vendégeket, akik egyébként ritkán fordulnak meg nálam. Stella azonban úgy tûnik, nem sokat törõdött a lakásom díszeivel.		"Azt hiszem, itt az ideje, hogy megismerkedjen az uraimmal, Mister Dargem!" — csiripelte Stella. "Persze csak ha nem bánja."		"Egyáltalán nem bánnám!" — mondtam.		Egy pillanatra hidegebb lett, aztán a levegõ megrebbent, és egy ablak jelent meg mellettünk — csakhogy az pont a szoba közepében függött. Egy meglehetõsen vonzó hölgy nézett rám belõlle. Úgy tûnt, hogy a harmincas évei közepén járhat, de tudtam, hogy jobb nekem, ha még csak nem is gondolok a varázslatot használni tudó nõk tényleges életkorára.		"A nevem Casmetra. A Noraston Boszorkányok Szövetségét képviselem!" — közölte velem.		Felálltam és meghajoltam. "Dargem Llywellyn. Bizonyára már ismeri a nevemet."		"Valóban." — bólintott a boszorkány jóindulatúan. "A fõ kérdésrõl szándékozom beszélni, Mister Dargem. Az asszisztensem még nem tájékoztatta önt, ugye?"		"Sajnos! Csak annyit tudok, hogy a Mélység Kürtjét keresi." — feleltem bûntudatosan.		"Értem!" — mondta Casmetra, és a varázsablak melletti székbe huppant. Követtem a példáját és én is leültem.		A varázslónõ figyelmesen tanulmányozott, mintha csak egy érdekesség lennék. Stella viszont csak ült ott mosolyogva, és rólam az úrnõjére vitte a tekintetét.		"A szövetségünk ritka mûtárgyakat keres." — mondta halkan Casmetra. "Azzal bíztak meg, hogy szervezzek egy expedíciót a Mélység kürtjéhez......"		"A Vasököl Királyi Udvar nem segíthetett volna ebben? Tudom, hogy Noraston hûséges szövetségese a Koronána" — mondtam.		"Sajnos nem! A Kreegan invázió óta nemigen törõdnek a kutatásainkkal, így csak a saját erõforrásainkra támaszkodhatunk. Nagy szolgálatot tettél nekünk azzal, hogy segítettél nekünk flottát építeni. Hamarosan a legjobb mesteremberek is végeznek a hajókon végzett munkálatokkal, és elindulunk a Kürt felé. Van azonban egy kikötésem!" — mondta Casmetra bosszúsan. "A leletet tartalmazó kamrának a helye nem világos. Több lehetséges helyrõl tudunk, és egészen biztosak vagyunk benne, hogy csak az egyik a helyes, de nincs elég emberünk meg idõnk sem arra, hogy minden lehetõséget ellenõrizzünk. Megbízható információforrásra volna szükségünk."		"Mint például?" — kérdeztem rá óvatosan.		"Gavin Magnus könyvtára" — fintorogva mondta a boszorkány.		"Tessék?" — elsápadva kérdeztem vissza.		"Csak vicceltem. Ez bizonyára korokon átívelõ tudásforrás lenne, de mi nem vagyunk alkalmasak erre a feladatra. Marad még egy lehetõségünk: Archibald Ironfist könyvtára. Kastore, Deyja új uralkodója elrendelte, hogy szállítsák Doom Castle várába, az ország központi könyvraktárába. Mondd csak, uram, mit szólnál ahhoz, ha a nekromanták földjére indulnál küldetésre?" 
+
+Név:
+1.5. nap
+Üzenet:
+Dargem naplója. 282. bejegyzés		"Ez az ötlet teljesen õrült lett volna, ha nem ütött volna be a szerencse. Gunnart, a minotauruszt Tor azért küldte, hogy megöljön. A szarvas állat rájött, hogy küldetése kudarcot vallott, és küldött egy hírnököt nekem, aki tárgyalási ajánlatot tett. Egy leégett tündérfalu közelében találkoztunk. Úgy tûnt, hogy a hely egykor nagyban foglalkozott borkészítéssel, és a minotaurusz majdnem egy tucat lépés távolságból áradó sûrû szagából ítélve nem szívesen hagyta volna kárba veszni a munkájuk termését.		"Ölj meg!" — mondta a hatalmas lény.		"Miért akarnálak megölni?" — vontam meg a vállamat.		"Cserbenhagytam az uramat... Kegyvesztett lettem."		"Amennyire én tudom, nem kérte a fejemet. Menj vissza, és mond neki, hogy valóban megöltél engem." — mondtam nyugodtan a minotaurusznak, "adok neked valami személyes tárgyat, amit megmutathatsz bizonyítékként."		"Miért tennél ilyet? Mire készülsz?" —  Gunnar felhördült, és nehézkesen felhúzta a szemöldökét.		"Te és a zsiványaid tehetnétek nekem egy szívességet. Segítsünk egymásnak, és váljunk el két elégedett emberként."		"Ravasz" — mondta a minotaurusz. "Mit szeretnél?"		"El kell mennem Deyjához. Megrohamozni a könyvraktárukat. Vezetnek oda használható alagutak?"		"Természetesen. Nighoni vagy, tehát neked is olyan jól kell ezt tudnod, mint nekem; mindenhová vezetnek alagutak, tudhatnád." — a minotaurusz a mosoly látszatát keltette — már amennyire egy bikapofa képes mosolyt húzni az arcára. 		Hatalmas, bozontos mancsát nyújtotta, és kezetráztunk."
+
+Név:
+2. nap
+Üzenet:
+Dargem naplója. 283. bejegyzés		"Régen volt már, hogy földalatti akciókat végeztem... és volt benne valami kedves számomra. Gunnar közelében vertem tábort. Régi alagutak voltak itt, amit a fene tudja, ki vagy mikor áshatott ki. Biztosan hemzsegnek bennük az õsi, veszélyes lények.		A nekromanták heves ellenállására kell számítanunk, de a Mélység Kürtje mindenképpen megéri a fáradságot."
+
+Név:
+3. nap
+Üzenet:
+Dargem naplója. 284. bejegyzés		"A felderítõk jelentették, hogy a nekromanták tudnak ezekrõl az alagutakról, és õröket állomásoztatnak itt. Ez rossz hír: megpróbálnak majd feltartóztatni minket, amíg a felszínen a saját erõiket gyarapítják majd. 		Ráadásul az egyik Barlanglakó hozott egy üzenetet, amit valahol a barlangokban talált. Valószínûleg valaki szándékosan tette oda, tudván, hogy elõbb-utóbb rábukkanunk.  		A pergamenen ez állt:		"Nem tudom, ki vagy, vagy kinek dolgozol, de megkockáztatok egy tippet. Elismerem, elég ügyes ötlet volt, hogy pont a mi országunk közepén surranjatok ki a földbõl, de mi közel sem vagyunk olyan óvatlanok, mint az erathiak, hogy egy ilyen trükkel meglepjetek minket. Ha nem akarsz két lábon járó halottá válni, akkor most önként távozol innen, és magaddal viszed a bûnözõi és szörnyeteg bandádat. A nevem Maximus, Kastore tanácsadója, Deyja királya és legfõbb hadúra, és nem engedem, hogy sokáig élõként tapossátok ezt a földet."
+
+Név:
+7. nap
+Üzenet:
+Dargem naplója. 285. bejegyzés		"A Mélység Kürtje... Ezt a kincset alig tartják többnek, mint mítosznak. A kalózok számára ez a Kürt olyan, mint a lovagok számára a Szent Grál. Mindenki tudja, hogy létezik, és hogy érdemes keresni, de senki sem rendelkezik bizonyított vagy pontos információval arról, hogy hol van, vagy mire jó. Ha Lady Casmetrának igaza van, akkor megfizethetetlen lehetõségem lesz most arra, hogy megérintsem ezt a csodát... de lehangol a gondolat, hogy egy ilyen egyedülálló dolgot egy kolostornak adjak... Norastonnak, vagyis... Nem bánnám, ha megtarthatnám magamnak! Annyi fáradtságot fordítottam rá a részemrõl — egyszerûen nem lenne igazságos, ha Casmetra rátenné a kezét. Nem igazán hiszem, hogy a Kürtnek, ha létezik is, bármilyen titkos ereje lenne, de Regnában sokan bíznak benne, hogy így van... szóval ha elviszem oda, rendezhetek egy árverést, és nagyobb fõnyereményt vihetnék haza, mint amirõl maga Silverflint, a legnagyobb regnai kalandor valaha is álmodott volna! 			Rendben van, szedd össze magad, öreg haver. A Kürt még közel sincs karnyújtásnyira, úgyhogy jobb, ha sürgõsebb dolgokra koncentrálsz." 
+
+Név:
+10. nap
+Üzenet:
+Dargem naplója. 286. bejegyzés		"Deyja felszínén a két lábon járó holtakon és a goblinokon kívül semmi más ritka látvány nem található. Mégis, idõnként elõfordulnak vad hárpiák — de ezek a repülõ patkányok úgy tûnik, mindenhol megtalálhatóak, ahol közönséges patkányokat találsz. Vagyis mindenhol. Talán Gunnar rá tudná venni néhányukat, hogy csatlakozzanak a seregéhez."
+
+Név:
+12. nap - Gunnar
+Üzenet:
+Gunnar egyik levelébõl, amelyet elküldött, de soha nem érkezett meg, miután egy részeg hárpia a Nighon-szoros vizébe dobta.		Tisztelt Anwyn mester,		Örömmel értesítem, hogy a megbízatása majdnem (áthúzva) kilencven (áthúzva) tíz (áthúzva) száz százalékban teljesítve van!		Minden pontosan úgy ment, ahogyan ön rendelkezett, egészen az utolsó pillanatig a tervében! Csak egy kicsit összezavarodtam a labirintusban (áthúzva) fáradt vagyok, úgyhogy bocsánat a firkálásért.		Esküszöm a szarvaimra és a billogra, amit nagyapám egész Nighon legnagyobb Fekete Sárkányának fenekére (áthúzva) combjára helyezett: egy bizonyos Dargem kis problémája majdnem megoldódott már! A puszta (áthúzva olyan energikusan, hogy a papír elszakadt és a régi szöveg olvashatatlanná vált) megjelenésem miatt és a neved hallatán elájult. És itt van a baj: amikor elájult, egy repedésen keresztül az alagutak alsó szintjére zuhant, ahol azután ismét találkoztam vele. Most ki kell hoznom onnan, mivel megígértem, hogy elhozom neked az elvégzett munka bizonyítékát. Ez eltart egy darabig.		Üdvözlettel, hûséges Gunnar."
+
+Név:
+14. nap
+Üzenet:
+Dargem naplója. 287. bejegyzés		"A tenger mélyén rettenetes húsevõ lények rejtõznek, amelyek óriáskígyókra hasonlítanak. A halászok "angolnának", hívják ezeket, de a helyes kifejezés rájuk az "Áspis." 		Az Áspisok idejük nagy részét a tengerfenéken töltik, odúkban és elsüllyedt hajók roncsaiban rejtõzködve. Csak a párzás és a vadászat idején emelkednek a felszínre, ami hatalmas veszélyt jelent a hajósokra. Egy Áspis képes egy egész fiatal bálnát is akár lenyelni - ehhez képest egy hajó legénységével együttvéve csak egy kis harapnivaló számikra! A jó hír az, hogy ezeknek a tengeri kolosszusoknak nem kell gyakran táplálkozniuk.  		Egy maroknyi kifinomult mágus és állatszelidítõ tudja, hogyan kell megszelídíteni az Áspisokat, de csak a leggazdagabb és leghatalmasabb kalózurak engedhetik meg maguknak a szolgáltatásaikat. Ez önmagában aligha meglepõ; a nighoni fekete sárkányok sem kevésbé veszélyesek, de ez sosem akadályozta meg a varázslókat abban, hogy bõségesen használják ezeket a lényeket a háborúikban." 
+
+Név:
+17. nap
+Üzenet:
+Dargem naplója. 288. bejegyzés		"Gunnar felderítõi jelentették, hogy az alagutakból csak egy kijárat van a felszínre. Ez jó hír számunkra. A nekromantákat azonban sohasem szabad alábecsülni. Nagyon komoly ellenállás várhat rám a Doom Castle Várában, amelyet maga Maximus (micsoda hülye név!) vezet, úgyhogy ennek megfelelõen fel kell készülnünk. Szerintem annak volna értelme, ha elõször a helyi Deyjan urak seregeit legyõznénk, hogy ne álljanak az utunkba. Elõször ezt kellene csinálni, mielõtt összeszedik az erejüket, és a barlangokba indulnak, hogy megszerezzék a bõrünket."
+
+Név:
+23. nap
+Üzenet:
+Dargem naplója. 289. bejegyzés		"Egyesek azon tûnõdnek, hogy mi az alapvetõ különbség Bracada varázslói, Nighon boszorkánymesterei és Deyja nekromantái között. A válasz egyszerû: nincs különbség.		Ugyanazokat az erõket használjuk, és az egyetlen dolog, ami megkülönböztet minket, azok a bizonyos erkölcsi korlátok. Mi, boszorkánymesterek semmitõl sem riadunk vissza, hogy kiderítsük az igazságot. Néhány kollégám még a nekromanciát is gyakorolja. A bracadaiak ezzel szemben a lehetõ legjobban kerülik az élõlények bántalmazását, ezért a mágikus tudományuk reménytelenül lemaradt. Kisebbrendûségüket olyan bonyolult találmányok mögé rejtik, mint a gólemek, vízköpõk és titánok... Vegyük például a puskaport: õk találták fel, de mindig csak tûzijátékra használják. Micsoda vicc!		A nekromanták a maguk részérõl megrekedtek a halál tanulmányozásánál, és borzasztóan vonakodnak tágítani a látókörüket. Néhányan közülük még azt is hiszik, hogy egy igazi nekromantának meg kell szabadulnia az érzelmektõl és az érzésektõl, gondolkodásmódjában egyre közelebb kerülve egy két lábon járó hullához. Bolondok."
+
+Név:
+33. nap
+Üzenet:
+Dargem naplója. 290. bejegyzés		"Az embereink ma újabb üzenetet találtak. Úgy tûnik, ez a Kaktuszos fickó vámpírokat használ arra, hogy észrevétlenül elhelyezze ezeket az üzeneteket.		A legutóbbi üzenetében, most ezt írta:		"Látom, hogy bolondok vagytok, és ráadásul makacsok is - de erre számítottam. A jó öreg Bajusz úr nem küldött volna mást. Inkább meghalnátok, minthogy elbukjátok a küldetést. Ezt megértem! Akkor készülj a háborúra. Minél tovább szórakozol, annál több erõsítést fogok kapni. Nekünk is vannak titkos átjáróink. Mindannyian az erõdöm falainál fogtok meghalni. Maximus."		Valószínûleg itt az ideje, hogy válaszoljunk neki. Utálom, ha sértegetnek, miközben kénytelen vagyok hallgatni. Ilyenkor sebezhetõnek érzem magam! Mindig nekem kell az utolsó szót kimondanom. Azt sem tudom, kirõl beszél. Milyen Bajusz úr? Úgy látszik, a mi derék Kaktuszunkban paranoia alakult ki."
+
+Név:
+40. nap
+Üzenet:
+Dargem naplója. 291. bejegyzés		"Végre eljött az idõ, hogy elõálljak egy válasszal! Már nem tudtam aludni, miközben képzeletbeli párbeszédeimen töprengtem ezzel a görénnyel, Maximusszal.		Íme, amit írtam:		"Tiszteletlen Kaktuszom! Fogalmam sincs, mi járhat a fejedben, miután átadtad magad a kaktusz és a zombi lép tinktúra iránti szerelmednek. Azonban vétek lenne nem figyelmeztetni téged: a legjobb zsoldos útjában állsz, aki valaha is megtisztelte ezt a világot. Jobb, ha összeszeded a szanaszét poroszkáló csontvázaidat és futsz. Krewlodot javaslom, ahol a magadfajta zöldfülû kaktuszimádókat jól fogadják.” Elképzeltem Maximus dühét, amikor ezt olvasta, és odaadtam a cetlit egy hárpiának."
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(30, 32, 0) ***Necropolis***
+Név:
+Doom Castle
+
+Halállovag látogatása:
+Név:
+Maximus
+Életrajz:
+Maximus Kastore egyik legközelebbi társa, erõs és ádáz harcos. Õ felel a nekromanta ország védelméért, amíg Kastore távol van.
+
+Idõzített események:
+
+Név:
+Ha egy játékos túl sokáig, túl buta lesz ez történik.
+Üzenet:
+
+
+Név:
+A bónusz egy pokolian nagy bónusz
+Üzenet:
+
+
+Név:
+Kunyhóépítésre
+Üzenet:
+
+
+(65, 65, 0) ***Necropolis***
+Név:
+Ostopolis
+
+Idõzített események:
+
+Név:
+Bónusz
+Üzenet:
+
+
+(7, 61, 0) ***Necropolis***
+Név:
+Shadetown
+
+Idõzített események:
+
+Név:
+Bónusz (korábban)
+Üzenet:
+
+
+(16, 10, 0) ***Necropolis***
+Név:
+Specterwood
+
+(14, 65, 0) ***Jel***
+Üzenet:
+Itt ne igyál! Minotaurusz leszel tõle!
+
+(30, 35, 0) ***Küldetésõrzõ***
+Üzenet:
+Legnagyobb sajnálatomra a könyvtárba vezetõ utat egy megidézett akadály zárja el. Szükségem van valamire, ami gyengíti ezt a mágiát... Esetleg volna erre egy ötletem? Nos, azon tûnõdöm, hogy talán a Sebezhetõség Varázsgömbjének mûködnie kellene erre az esetre!
+Sajnos, a Sebezhetõség Varázsgömbje nélkül a akadály nem mozdul el innen!
+A gömböt a mágikus akadály közelébe vittem, és az villogni kezdett! Ez bizonyította is a hipotézisemet! Végül is magától Tor Anwyntól tanultam a varázslást. Most törjem szét az akadályt, vagy jöjjek vissza késõbb?
+
+(51, 38, 0) ***Jel***
+Üzenet:
+Végzet tava
+
+(2, 4, 0) ***Küldetésõrzõ***
+Üzenet:
+Egy hatalmas vámpír leselkedik itt. Azt mondja, hogy valamiért elvesztette a kapcsolatot a rokonaival, és egy köztiszteletben álló õsi vámpírnak állítólag saját falkája és kísérete van. Átenged, ha segítek neki újra kapcsolatba lépni a többiekkel.
+Öt vámpírt kell találnom, hogy átjussak.
+A vámpír örül, hogy újra látja a rokonait, és felajánlja, hogy átenged.
+
+(54, 25, 0) ***Titok Kunyhó***
+Üzenet:
+Egy nagy csapat elementál rejtõzik ebben a holt erdõben.	"Vezetõnk, Thunar, a nekromanták foglya. Félünk, hogy mi is a karmaikba kerülünk, de nem tehetünk semmit, amíg az Öreg nincs itt. Szabadítsátok ki az Úrnõnket, emberek!"
+"Thunar nélkül nem merünk sehová sem menni."
+"Lady Thunar, végre! Örülünk, hogy ismét önnel tarthatunk."
+
+(50, 68, 0) ***Nix harcos***
+Üzenet:
+Nem fogunk nekromantákat szolgálni, de nem ellenkezünk abban, hogy csatlakozzunk hozzátok!
+
+(51, 67, 0) ***Boszorkány***
+Üzenet:
+Nagyra értékeljük a segítséget! Nem igazán akartunk két lábon járó hullává válni!
+
+(43, 31, 0) ***Ayssid***
+Üzenet:
+Az Ayssidák hálásak a segítségért.
+
+(26, 15, 0) ***Privatér***
+Üzenet:
+"Szolgálatára, uram!"
+
+(43, 15, 0) ***Minotaurusz Király***
+Üzenet:
+"Ideje felaprítani egy kis halott húst!"
+
+(6, 38, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"A legfurcsább dolgok történnek itt! Érezni vélem az égõ olaj nehéz bûzét, és elõttem olyan épületek magasodnak, amelyek úgy néznek ki, mint a gólemgyárak; láttam már ilyet Bracadában. A nekromanták is tömegesen gyártanak gólemeket, vagy mi? Persze, hallottam már ilyen csontokból és halott húsból készült lényekrõl, de korábban sosem volt belõlük több egy maroknyi példánynál a világon, többnyire múzeumi kiállítási tárgyak. Minek csinálnának ilyesmit, ha egy holttestet úgy is meg lehet járatni, ahogy van? Nem tudom, mi ez a hely, és mi folyik itt!"
+
+(58, 12, 0) ***Necropolis***
+Név:
+Tumulus
+
+Idõzített események:
+
+Név:
+Bónusz
+Üzenet:
+
+
+(0, 8, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"A nekromanták elfogtak egy hatalmas elementált. Valószínûleg kísérleteket végeznek vele. Remélem, az elementál nem õrült meg a kínzástól; lehet, hogy hajlandó lesz segíteni nekünk. Egy szikla egyébként sem tudom, hogy érezhet egyáltalán fájdalmat?"
+
+(3, 37, 0) ***Jel***
+Üzenet:
+Kísérleti bolt		TILOS A BIRTOKHÁBORÍTÁS!
+
+(5, 3, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Végre feljutottunk a felszínre. Megszokásból épp egy zsebkendõt akartam a szememre kötni, hogy ne vakuljak meg, de Deyja napja alig tört át a vastag, szürke felhõpáncélon. A fáklyákkal megvilágított barlangokban sokkal világosabb volt, mint itt a beteg színû égbolt alatt.		Hát így élnek itt? Nem minden nekromanta és halállovag élõhalott; néhányan még mindig élõlények. Amikor még Nighonban éltem, szerettem idõnként kimenni a felszínre, megérinteni a füvet, mosolyogni a napra. Ez a hely azonban... úgy tûnik, a barlangokban való tartózkodás sokkal jobb lenne az ember lelki békéjének, mintha kimozdulna. Gunnarnak mindegy - amúgy sem gondolkodik sokat, és mostanában állandóan be van fordulva önmagába, képtelen megbékélni a kudarcával. De mi lesz velem? Mit tehetek én, hogy rendet tegyek a lelkemben lévõ rendetlenségben?"
+
+(58, 13, 0) ***Esemény***
+Üzenet:
+Resources for high difficulty
+
+(9, 62, 0) ***Esemény***
+Üzenet:
+Units for high difficulty
+
+(63, 67, 0) ***Esemény***
+Üzenet:
+Units for high difficulty
+
+(56, 44, 0) ***Jel***
+Üzenet:
+William Setag is buried here. A wretch through and through!
+
+(69, 68, 1) ***Cove***
+Név:
+L'Reh
+
+(67, 51, 1) ***Dungeon***
+Név:
+Shademaze
+
+(2, 62, 1) ***Küldetésõrzõ***
+Üzenet:
+Only one who bears the symbol being free from corruption can pass through here.
+You are unclean! You shall not pass!
+You are pure from black magic. You can go through.
+
+(39, 67, 1) ***Esemény***
+Üzenet:
+AI attack on peasants, skeleton bonus
+
+(38, 64, 1) ***Esemény***
+Üzenet:
+AI attack on peasants, skeleton bonus
+
+(38, 61, 1) ***Esemény***
+Üzenet:
+AI attack on peasants, skeleton bonus
+
+(5, 68, 1) ***Keresztes***
+Üzenet:
+Crusading is costly business, good sir! Cover our expenses, and we'll be willing to go with you and vanquish the evil spirits.
+
+(1, 63, 1) ***Esemény***
+Üzenet:
+Entry from Dargem's diary:	"It seems that mercenaries and crusaders are resting in this quiet corner of the cave, safe from the undead. Perhaps I can persuade them to join us for some money."
+
+(64, 8, 1) ***Jel***
+Üzenet:
+Smugglers' caves
+
+(3, 68, 1) ***Mesterlövész***
+Üzenet:
+Hey man, might you have any use for a few trusty barrels? Nothing works better for drilling holes in rotten skulls!
+
+(33, 20, 1) ***Titok Kunyhó***
+Üzenet:
+A powerful ancient dragon seeks the four elemental spheres. He promises to handsomely reward whoever brings him these artifacts.
+The dragon as raging: he wants all four spheres!
+It looks as though the ancient creature is content now. It offers you the services of its cubs.
+
+(53, 36, 1) ***Titok Kunyhó***
+Üzenet:
+This powerful warlock is looking for a legendary spell book. He believes that the necromancers have a copy of this compendium, and is ready to reward anyone who delivers him the valuable tome.
+The owner of the house advises you to look for the book in the mountains to the west.
+You have completed the task, and a grateful warlock is willing to give you a dozen Black Dragons.
+
+(9, 10, 1) ***Esemény***
+Üzenet:
+This might come in handy in a fight against Nagash!
+
+===== Fájl vége =====

@@ -1,0 +1,45 @@
+Name:
+
+
+Description:
+
+
+
+For the Throne — Krewlod A
+
+Right-click text:
+You have risen through the ranks quickly, proving your worth and capabilities as a warrior and leader.  Now you challenge King Boragus for the Throne of Krewlod itself.  If you can defeat the powerful Boragus it will prove your battle skills and determination are unrivaled in all of Krewlod.  This one is to the death.  The winner rules.
+
+Prologue:
+Many respect King Boragus.  Many feel he is one of the greatest rulers Krewlod has ever known.  I do not know this king personally and I find his accomplishments unimpressive.  If he is to earn my respect, he will do so only when he stands over my grave.
+
+Epilogue:
+I have bathed in the blood of my enemies and sit upon the throne of Krewlod.  My reign begins now.  I am king.
+
+
+Clan War — Krewlod B
+
+Right-click text:
+Excellent work young one!  Now you and three others must compete for the chance to challenge the king.  Defeat them and their lieutenants in order to claim victory.  The three allies that helped you in the second mission will assist you in this one, good luck.
+
+Prologue:
+In the Festival of Life, those who fail, either die at the hands of their enemies, or by their own hand after capture.  I will be merciful toward my opponents.  I will take no prisoners.
+
+
+Taming of the wild — Krewlod C
+
+Right-click text:
+This area is kept wild and is only culled every thirty years during the Festival of Life.  Each prospective is given a small section to clear and three allies to command in order to prove your capabilities as a leader.  In order to prove you are truly capable you must eliminate all creatures in this region, once this is completed you will have passed this test.
+
+Prologue:
+I have tamed a great beast.  Now I must tame the monsters of the land.  As the carnage grows, so does my power and bloodlust.  I will sit upon the throne of Krewlod.  Neither man or beast will stand in my way. 
+
+
+Razor Claw — Krewlod D
+
+Right-click text:
+The time has come for you to challenge the elders for leadership.  Like other young prospects of the tribe you must pass through three tests.  The first test is simple, kill an Ancient Behemoth.  For three generations the Ancient Behemoth Razor Claw has resisted attempts to kill it off, now it is your time to make the attempt.  Complete this simple task to continue with the festival of life.
+
+Prologue:
+Alongside my father I have killed Behemoth before, but never an Ancient Behemoth.  To contest the throne, I must slay one of these fearsome beasts.  I relish the encounter.  After I have slain this one, I will know how to subdue them.  Then I will employ them in my bloody ascension to kingship.
+

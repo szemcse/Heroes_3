@@ -1,0 +1,281 @@
+===== Térkép neve =====
+A fagyilkos
+
+===== Térkép leírása =====
+A gyõzelemhez Dargemnek 3 hónap alatt 300 darab fát kell összegyûjtenie. A hõseid maximum a 24. szintig juthatnak el. A gyõzelem után Dargem a Megszentelt Függõdísszel és az Élet Függõdísszel együtt tovább folytathatja a következõ küldetést.
+
+===== Események =====
+
+Név:
+Sivatag
+Szöveg:
+Azt mondják, hogy Nighon felszínén, messze keleten él a sivatag népe. Köztük vannak macskafélék, akiket sohasem látott még senki.
+
+Név:
+Gelu
+Szöveg:
+Hidd el nekem, hogy Gelu egy rendkívül kellemetlen figura, még ha dicsõ hõs is. Nekem te sokkal jobban tetszel!
+
+Név:
+Nagyapa
+Szöveg:
+Ahogy a nagyapám szokta mondani: "Én vagyok a nagyapád!"
+
+Név:
+Sephinroth
+Szöveg:
+Valójában Sephinroth Erathia igazi királynõje! Õ Gryphonheart legidõsebb lánya, én mondom ezt nektek! Nézzétek csak meg a haját!
+
+Név:
+Félszerzetek
+Szöveg:
+Igaz az, hogy Dargemet egy csomó félszerzet kapával pofozta fel? Micsoda móka!
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Dargem naplója. 270. bejegyzés		"Ezen az estén egy Krewlod melletti kikötõ mólóján álltam. Stella azért jött, hogy felügyelje a barbár törzsfõnök jutalmának átadását.		"Ezt már nem találom viccesnek, úrnõm" - sóhajtottam, és utat engedtem egy csapat goblinnak, akik egy ezüsttel teli ládát vonszoltak.		"Megértem a kétségbeesését" - mondta Stella. "Jogában állna, ha úgy döntene, hogy szerzõdést bont. Maga már így is sokat tett értünk, Mister Dargem.		"Azt hiszem, talán meg is teszem" - mondtam megkönnyebbülten.		"Rendben van,"  - sugárzott fel a fiatal nõ. "Akkor lenne olyan kedves, és ajánlana nekem egy másik zsoldost, aki hajlandó lenne részt venni egy expedícióban, hogy megkeressük a Mélység Kürtjét?"		"Az a micsoda csak egy mítosz" - mormogtam, és elfordultam.		Stella bizonytalanul intett a kezével, és már éppen távozni készült, amikor valami ösztönös gondolat támadt bennem. "Azt akarja mondani, hogy hisz a Mélység Kürtjének létezésében?"		"A munkaadóim komoly emberek. Soha nem pazarolnák az energiájukat és a pénzüket arra, hogy olyasmit keressenek, ami nincs is ott. Nekünk csak a végsõ elõkészületeket kell megtennünk. Nagyon sajnálom, hogy ön, kedves Mister Dargem, úgy döntött, hogy visszalép a játéktérrõl..."		"Ne, várjon!" - mondtam izgatottan. "Még nem döntöttem el semmit! Akkor mire van szüksége az expedícióhoz?"		Stella a szemembe nézett, és megigazította a haját. "Nem kevesebb, mint öt karavellára. Lehetõleg tündék fenyõjébõl építve, de a hosszúfülûek nem fognak kalózokkal kereskedni... És ha csempészcsatornákhoz folyamodunk, a beszerzésünk örökké tartana, nem beszélve arról, hogy túl sokba kerülne. Hogyan oldjuk meg ezt a helyzetet?"		"Kedves hölgyem, engedje meg, hogy felajánljak egy tervet - mondtam óvatosan, egyik lábamról a másikra helyezve a súlyomat. "Ha a tündék nem adják el nekünk a fát, akkor mi magunk vesszük el."		"Egy rajtaütés AvLee-n?" - Stella érdeklõdve tette meg javaslatát.		"Pontosan!" - mondtam. "Bízzon bennem, mindent meg fogok szerezni, amire szüksége van, méghozzá nagyon hamar."		"Biztosan úgy értette, hogy 'mi fogjuk'?" - A nõ összehúzta a szemét.
+
+Név:
+1.5 nap
+Üzenet:
+Dargem naplója. 271. bejegyzés		"AvLee partjainál partraszállni olyasmi, amit már korábban is csináltam. Épp csak elkezdtem a zsoldos karrieremet, egy Ergon nevû figura alatt szolgáltam, aki egy barbár volt valahonnan Észak-Enrothból. Valószínûleg nem ez a legjobb alkalom arra, hogy visszaemlékezzek erre. A lényeg, hogy a hegyesfülûek nem veszik olyan komolyan a partjaik védelmét, mint az erdõkét. Biztosan a lelkiviláguk egyik furcsasága ez is.		Amint a szárazföldre tettem a lábam, elküldtem egy gyors észjárású tengerészt felderítésre. Jelentést hozott egy tünde településrõl, közvetlenül délre, meg valami erõdre emlékeztetõ valamirõl is. Ez jó hír nekem; letelepedhetünk ott a fakitermelési akciónk idejére legalább."
+
+Név:
+AI erõforrások
+Üzenet:
+
+
+Név:
+8. nap
+Üzenet:
+Dargem naplója. 273. bejegyzés		"Ahogy vártam, a tündék és cimboráik nem voltak különösebben lelkesek azért, hogy megakadályozzák, hogy letelepedjünk AvLee-ben. Meg tudom félemlíteni és meg tudom vesztegetni az embereket itt az erõdben, hogy engem szolgáljanak. Mindent összevetve, a tündék nem egy nagyon összetartó nép; csak akkor egyesülnek, ha valami közös ellenség fenyeget. Sajátos belsõ szabadságérzetük hajlamos ilyen tréfát ûzni velük.		Most derült ki a fõ kihívás: az itteni fûrészüzemek többségét druidák irányítják, és nem alkalmasak tömeges fakitermelésre. Stella nem sok idõt hagyott nekem — az urai három hónapon belül várják az árut." 
+
+Név:
+10. nap
+Üzenet:
+Dargem naplója. 274. bejegyzés		"A szóbeszéd és a legenda szerint AvLee földjein található néhány olyan tárgy, amelyeket kombinálva egy erõs fegyvert lehetne létrehozni, amelyet úgy hívnak, hogy Mesterlövész Íj. Nem vagyok valami jó íjász, de állítólag még egy olyan tapasztalatlan ember is, mint én, képes felvenni ezt az íjat, és több száz lépésrõl egyenesen a mókus szemébe találni." 
+
+Név:
+14. nap
+Üzenet:
+Dargem naplója. 275. bejegyzés		"Elképesztõen jó ötlet jutott eszembe: ha az Entek az itt növõ fákból születnek, akkor... fûrészeljetek ki egyet, és szerintem nem lesz belõle rosszabb minõségû deszka, mint a tünde fenyõbõl. Kivágott tünde fák, kivágott Entek... Nem látom a különbséget!"
+
+Név:
+17. nap
+Üzenet:
+Dargem naplója. 277. bejegyzés		"Az õrszemek jelentik, hogy éjszaka az erõd közelében furcsa lényeket láttak, akik kopasz, vak, alacsony embereknek tûntek. Szerintem Barlanglakókról beszéltek - de fogalmam sincs, hogy mit csinálhattak itt. Nagyon-nagyon ritkán fordul elõ, hogy a felszínre jönnek... hacsak valaki vagy valami nem kényszeríti õket arra, hogy elhagyják az alagútjaikat."
+
+Név:
+21. nap
+Üzenet:
+Dargem naplója. 277. bejegyzés		"Végre minden világos. Ma üzenetet kaptam magától Tor Anwyntól. Az elegáns, csavaros tokban lévõ tekercset egy hárpia dobta le, amely a táborom fölött repült. Az istenekre mondom, milyen jó néha egy jól megírt levelet olvasni egy okos embertõl, még akkor is, ha a feladó ellenség. Mostanában nem gyakran van szerencsém ilyen örömhöz! És milyen kitûnõ kézírás! A tartalma azonban nem volt ilyen kitûnõ...		"Üdvözlet, Dargem! Rég láttalak utoljára, de a legfrissebb híreim szerint még mindig életben vagy. Már kezdtem megfeledkezni rólad —  tudod itt, egy valóságos elysium alakult ki Nighonban. A legutóbbi marameci látogatásod azonban nagyon elszomorított! Nem az a lényeg, hogy Mutare-nek dolgozol-e, vagy csak eladod a tehetségedet valaki másnak. Te magad választottad a sorsodat, hogy tolvaj és áruló legyél. Most pedig fogadd el, ami a fajtádnak jár. A büntetést. Követtem a mozgásodat; hamarosan Gunnar és a minotauruszai a nyomodban lesznek, hogy üdvözletüket átadhassák az otthoniaktól. Dargem, tudod, hogy nem vagyok vérszomjas vagy bosszúálló ember, ezért nem kértem Gunnartól a fejedet... azonban az utolsó tetted még az én türelmemnek is túl sok volt. Sok szerencsét."		Ennyi volt! Tor holtan akar látni — bár úgy érzem, mintha nem tartaná sokra ennek a házibikájának a képességeit. Ó, miért pont egy ilyen kellemetlen pillanatban? Másrészt erõsen kétlem, hogy a tündék hagyni fogják, hogy a nighoni gengszterek akadálytalanul járják a földjeiket. Talán egymásra uszíthatnám az ellenségeimet, hogy megkönnyítsem a dolgomat."
+
+Név:
+Fa
+Üzenet:
+Bejegyzés Dargem naplójából:		"Az átkozott tündék tegnap éjjel feldúlták a raktárunkat. Rájöttek, hogy miért vagyok itt, és a faanyagon kívül semmihez sem nyúltak."
+
+Név:
+23. nap
+Üzenet:
+Dargem naplója. 278. bejegyzés		"Ma egy hatalmas tengeri madár repült el a táborunk felett, és elejtett valamit. A társaim megvizsgálták a helyet, ahová a tárgy esett, mielõtt odahívtak volna. Egy fókabõrbe csomagolt követ találtunk, aminek a bõrére valamit firkáltak. Értetlenül vettem fel a bõrbõl a követ, és elolvastam az üzenetet.		Egy üzenet volt a régi hadnagyomtól, Bess-tõl, aki Jadame-ban maradt, miután elmentem. Bess szerint a hitvány félszerzetek végül összevesztek egymással. Micsoda örömteli hír! Remélem, kirágják egymás máját, és a karvalyok örömmel rágják majd szét a csontjaikat, és elássák annak a bûzös lyuknak a romjai közé, Bruton... vagy minek is hívták a kuckójukat!"
+
+Név:
+56. nap
+Üzenet:
+Dargem naplója. 280. bejegyzés		"A fakitermelés már két hónapja folyik. Azt hiszem, Stella és az urai aggódhatnak már a sikerem miatt. Biztosítékot kellene küldenem, hogy mindent kézben tartok, és hamarosan elõállok mindennel, amire szükségük van."
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(2, 19, 0) ***Rampart***
+Név:
+Silver Forest
+
+Idõzített események:
+
+Név:
+Gyalogos erõsítés
+Üzenet:
+Néhány helyi lakost sikerült megnyernem magamnak.
+
+(11, 8, 0) ***Erdõtünde***
+Üzenet:
+"Kalózok! Fegyverbe! A kalózok partra szálltak!"
+
+(12, 10, 0) ***Esemény***
+Üzenet:
+Valaki széles ösvényt vágott az erdõben. Valószínûleg nem én vagyok az elsõ ember, aki ezen a parton szállt partra.
+
+(19, 20, 0) ***Ent Fapásztor***
+Üzenet:
+"Fagyilkosok! Ismerjétek meg haragunkat most!"
+
+(67, 26, 0) ***Rampart***
+Név:
+Moon Cliff
+
+Idõzített események:
+
+Név:
+Erõsítés
+Üzenet:
+
+
+(3, 37, 0) ***Ent Harcos***
+Üzenet:
+"Teee... Fááák...kínzójaaa..."
+
+(34, 3, 0) ***Zsivány***
+Üzenet:
+"Ne ölj meg minket! Hajlandóak vagyunk segíteni!"
+
+(30, 2, 0) ***Tengerész***
+Üzenet:
+"Készen állunk szolgálni téged, uram!"
+
+(17, 25, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Az erõd közelében furcsa látványt tárult elém: tündék és kentaurok maradványai, kivágott fákkal vegyesen, szétszóródva hevertek egy letaposott tisztáson. Körös-körül hatalmas, patkolt paták nyomait láttam... A rengeteg nyom, idegesítõen ismerõsnek tûnt. Természetesen felismertem ezeket a nyomokat - minotauruszok voltak itt, nagyon sok minotaurusz!"
+
+(32, 4, 0) ***Jel***
+Üzenet:
+Csempészek barlangja
+
+(35, 68, 0) ***Küldetésõrzõ***
+Üzenet:
+Ivor úr megtiltotta, hogy bárkit is átengedjünk. Kérjetek tõle engedélyt.
+Még nem kaptunk utasítást arra, hogy bárkit is átengedhetünk.
+A gyalázatos vereséget követõen Ivor úr visszavonult az aktív üzleti élettõl. Nem akarjuk õt szolgálni többé.
+
+(69, 31, 0) ***Küldetésõrzõ***
+Üzenet:
+A nagy druida, Elleshar áthatolhatatlan tövisekbõl álló mágikus falat emelt ide.
+Míg Elleshar a földet járja, varázslata erõs.
+A druida varázslatát most már könnyen meg lehet törni.
+
+(6, 63, 0) ***Jel***
+Üzenet:
+Titkos tisztítás
+
+(17, 10, 0) ***Titok Kunyhó***
+Üzenet:
+"Hé, testvér, van egy kis dolgom a számodra. A srácokkal titokban kivágtunk egy közeli erdõt, de elkaptak minket a manók a tündék. Amikor elfutottunk, elvesztettük a fejszéinket. Nem tudunk nélkülük boldogulni. Légy jó fiú és keresd meg a szerszámainkat! Háromnak kell lennie belõlük."
+"Nézz körül a környéken — a fejszéink mindenfelé szanaszét hevernek."
+"Megmentettél minket és családjainkat az éhhaláltól! De kérlek, keress még két fejszét."
+"Nagyszerû munkát végzel, de keress nekünk egy másik fejszét!"
+"Nézz körül a környéken — a fejszéink mindenfelé szanaszét hevernek."
+"Megmentettél minket és családjainkat az éhhaláltól! De kérlek, keresd meg az utolsó fejszét is."
+"Csak annyit kell tenned, hogy elhozod nekünk az utolsó, a harmadik fejszét."
+"Nézz körül a környéken — a fejszéink mindenfelé szanaszét hevernek."
+"Megmentettél minket és családjainkat az éhhaláltól! Hálánk jeléül fogadd el ezt a varázslatos szerkezetet. Nem tudom, mi ez, de nyilván jobb hasznát tudjátok venni, mint mi."
+
+(65, 69, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Micsoda szerencse! Találtam egy nagy rakás remek faanyagot. Biztos a csempészek raktára. Meg kell mondanom, még ha a tulajdonosok most is itt lennének sem mondanék le arról a szándékomról, hogy elvegyem."
+
+(66, 53, 0) ***Titok Kunyhó***
+Üzenet:
+"Hé, ember! Néhány fickó botokkal kergetett ki minket a házunkból. Tegyél nekünk egy szívességet: dobd ki õket, és mi szívesen csatlakozunk hozzád!"
+"Gyerünk, ne légy gyáva. Tudjuk, hogy meg tudod csinálni!"
+"Az adósaid vagyunk, barátom! Az íjaink ugyanolyan jók, mint a pisztolyok, hidd el nekem."
+
+(6, 31, 0) ***Küldetésõrzõ***
+Üzenet:
+"Ha fát keres, itt megtudhatja, hogy hol szerezheti be. Csekély háromezerért."
+"Gyere vissza, ha összekapartál már háromezer érmét."
+"Rendben, átmehetsz!"
+
+(58, 0, 0) ***Palack-posta***
+Üzenet:
+Gondoltad volna, hogy lesz itt még egy értelmetlen kérdés?
+
+(50, 49, 0) ***Esemény***
+Üzenet:
+Csapda!
+
+(55, 39, 0) ***Esemény***
+Üzenet:
+Csapda!
+
+(21, 3, 0) ***Privatér***
+Üzenet:
+"Sehol sincs béke számunkra!"
+
+(21, 16, 0) ***Titok Kunyhó***
+Üzenet:
+"Nemrégiben elvesztettem a jegygyûrûmet, amely néhai feleségem emlékét õrzi. Ha megtalálod, busásan megjutalmazlak. Vannak könyveim ritka varázslatokkal - biztos van bennük valami érdekes számodra."
+"Azt hiszem, a gyûrûmet a lóhere tisztáson veszthettem el. Megnéznéd ott?"
+"Köszönöm szépen a gyûrût! Nézd! Találtam egy érdekes varázsigét, csak neked."
+
+(33, 65, 0) ***Rampart***
+Név:
+Elentar
+
+Idõzített események:
+
+Név:
+Erõsítés
+Üzenet:
+
+
+(48, 69, 0) ***Esemény***
+Üzenet:
+Csapda!
+
+(34, 66, 0) ***Pandora Szelencéje***
+Üzenet:
+Összeomlás Elleshar számára magas nehézségi szinten.
+
+(23, 60, 0) ***Esemény***
+Üzenet:
+Csapda!
+
+(67, 28, 0) ***Pandora Szelencéje***
+Üzenet:
+Elemental Ivornak magas nehézségi szinten.
+
+(29, 2, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(13, 12, 0) ***Esemény***
+Üzenet:
+Ez a lelet még jól jöhet!
+
+(44, 17, 1) ***Dungeon***
+Név:
+Nocturus
+
+Idõzített események:
+
+Név:
+Erõsítés
+Üzenet:
+
+
+(11, 57, 1) ***Titok Kunyhó***
+Üzenet:
+Minotaurusz fakitermelõk telepedtek le itt. Felajánlják a szolgáltatásaikat: ha hozol nekik egy tucatnyi Ent Fapásztort, elsõ osztályú deszkákat készítenek belõlük.
+Minimum tíz Ent Fapásztorra van szükségünk.
+Az Ent Fapásztorokat a minotauruszoknak akarod adni szétfûrészelésre?
+
+(20, 50, 1) ***Jel***
+Üzenet:
+Gunnar barlangja
+
+(4, 54, 1) ***Irányító***
+Név:
+Kreh
+Életrajz:
+Kreh, egy lázadó manó, Bracadából a barlangokba szökött. Azt mondják, hogy a mai napig is ott bolyong, az utazók ellen áskálódik, és mesteri illúziókat kelt.
+
+(5, 53, 1) ***Esemény***
+Üzenet:
+"Hé, kalózfiú! Ha több varázserõt akarsz, akkor velem kell üzletelned. Kreh vagyok."	"Mi a fene? Ki az a Kreh? Hess, te kis csicska!"	"Nézd csak, kalózfiú!"  A kobold leugrott a gombáról, tapsolt a kezével, és egy egész sereg jelent meg körülötte.
+
+===== Fájl vége =====
