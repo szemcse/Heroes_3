@@ -198,7 +198,7 @@ Rejtett völgy
 (87, 74, 0) ***Barbár***
 Név:
 Gruezak
-Életrajz:
+Önéletrajz:
 Kilgor seregében mindenki harcol, magától a törzsfõnöktõl a legalacsonyabb falkavezérig, nem is beszélve a szakácsokról, akiknek a parancsnoksága nemcsak az üstökön, hanem a hatalmas hentesbárdokon is át ível. Ha valaki alaposan szemügyre venné Gruezakot, meglepõdve tapasztalná, hogy olyan harci képességekkel is rendelkezik, amelyeket egy serpenyõ és merõkanál szakértõtõl aligha várnának el; de ki a fene akarna egy átlagos szakácsot, ráadásul egy orkot vizsgálni?
 
 (84, 95, 0) ***Hatalmas Gorgon***

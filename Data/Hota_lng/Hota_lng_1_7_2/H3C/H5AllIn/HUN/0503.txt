@@ -271,7 +271,7 @@ Gunnar barlangja
 (4, 54, 1) ***Irányító***
 Név:
 Kreh
-Életrajz:
+Önéletrajz:
 Kreh, egy lázadó manó, Bracadából a barlangokba szökött. Azt mondják, hogy a mai napig is ott bolyong, az utazók ellen áskálódik, és mesteri illúziókat kelt.
 
 (5, 53, 1) ***Esemény***

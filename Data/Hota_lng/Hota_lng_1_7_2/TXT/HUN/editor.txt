@@ -290,7 +290,7 @@ Nincsenek módosítható tulajdonságai ennek az objektumnak.
 Biztos, hogy folytatni szeretnéd?"	
 Véletlenszerû lakhely: %d	
 Véletlenszerû %s lakhely	
-Életrajz	
+Önéletrajz	
 Térkép generálás folyamatban	
 Térkép generálása...	
 Nem lehetséges véletlenszerû térkép generálása.	

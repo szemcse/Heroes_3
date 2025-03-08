@@ -99,7 +99,7 @@ Doom Castle
 Halállovag látogatása:
 Név:
 Maximus
-Életrajz:
+Önéletrajz:
 Maximus Kastore egyik legközelebbi társa, erõs és ádáz harcos. Õ felel a nekromanta ország védelméért, amíg Kastore távol van.
 
 Idõzített események:
@@ -220,19 +220,19 @@ Bejegyzés Dargem naplójából:		"Végre feljutottunk a felszínre. Megszokásból épp 
 
 (58, 13, 0) ***Esemény***
 Üzenet:
-Resources for high difficulty
+Források a magasabb nehézségi szintekhez.
 
 (9, 62, 0) ***Esemény***
 Üzenet:
-Units for high difficulty
+Egységek a magasabb nehézségi szintekhez.
 
 (63, 67, 0) ***Esemény***
 Üzenet:
-Units for high difficulty
+Egységek a magasabb nehézségi szintekhez.
 
 (56, 44, 0) ***Jel***
 Üzenet:
-William Setag is buried here. A wretch through and through!
+William Setag itt van eltemetve. Õ bizony ízig-vérig nyomorult és szerencsétlen volt!
 
 (69, 68, 1) ***Cove***
 Név:
@@ -244,52 +244,52 @@ Shademaze
 
 (2, 62, 1) ***Küldetésõrzõ***
 Üzenet:
-Only one who bears the symbol being free from corruption can pass through here.
-You are unclean! You shall not pass!
-You are pure from black magic. You can go through.
+Itt csak az léphet át, aki a mindenféle romlástól mentes szimbólumot viseli.
+Tisztátalanok vagytok! Nem mehettek itt át!
+Tiszta vagy a fekete mágiától. Átmehetsz immár!
 
 (39, 67, 1) ***Esemény***
 Üzenet:
-AI attack on peasants, skeleton bonus
+AI támadás a parasztok ellen, csontváz bónusszal.
 
 (38, 64, 1) ***Esemény***
 Üzenet:
-AI attack on peasants, skeleton bonus
+AI támadás a parasztok ellen, csontváz bónusszal.
 
 (38, 61, 1) ***Esemény***
 Üzenet:
-AI attack on peasants, skeleton bonus
+AI támadás a parasztok ellen, csontváz bónusszal.
 
 (5, 68, 1) ***Keresztes***
 Üzenet:
-Crusading is costly business, good sir! Cover our expenses, and we'll be willing to go with you and vanquish the evil spirits.
+A keresztes hadjárat drága mulatság, jó uram! Fedezd a költségeinket, és mi hajlandóak leszünk veled tartani, hogy legyõzzük a gonosz szellemeket.
 
 (1, 63, 1) ***Esemény***
 Üzenet:
-Entry from Dargem's diary:	"It seems that mercenaries and crusaders are resting in this quiet corner of the cave, safe from the undead. Perhaps I can persuade them to join us for some money."
+Bejegyzés Dargem naplójából:		"Úgy tûnik, hogy a zsoldosok és a keresztes lovagok a barlangnak ebben a csendes zugában pihennek, biztonságban az élõhalottaktól. Talán rávehetem õket, hogy némi pénzért csatlakozzanak hozzánk."
 
 (64, 8, 1) ***Jel***
 Üzenet:
-Smugglers' caves
+Csempészbarlangok
 
 (3, 68, 1) ***Mesterlövész***
 Üzenet:
-Hey man, might you have any use for a few trusty barrels? Nothing works better for drilling holes in rotten skulls!
+Hé ember, szükséged van néhány megbízható lyukas hordóra? Semmi sem hasonlít jobban rájuk, mint a kilyukasztott rothadó koponyák!
 
 (33, 20, 1) ***Titok Kunyhó***
 Üzenet:
-A powerful ancient dragon seeks the four elemental spheres. He promises to handsomely reward whoever brings him these artifacts.
-The dragon as raging: he wants all four spheres!
-It looks as though the ancient creature is content now. It offers you the services of its cubs.
+Egy hatalmas õsi sárkány keresi a négy elemi szférát. Azt ígéri, hogy bõséges jutalmat ad annak, aki elhozza neki ezeket az ereklyéket.
+A sárkány tombol a dühtõl: mind a négy szférát akarja!
+Úgy tûnik, hogy az õsi teremtmény most elégedett. Felajánlja a kölykei szolgálatait.
 
 (53, 36, 1) ***Titok Kunyhó***
 Üzenet:
-This powerful warlock is looking for a legendary spell book. He believes that the necromancers have a copy of this compendium, and is ready to reward anyone who delivers him the valuable tome.
-The owner of the house advises you to look for the book in the mountains to the west.
-You have completed the task, and a grateful warlock is willing to give you a dozen Black Dragons.
+Ez a hatalmas varázsló egy legendás varázskönyvet keres. Úgy véli, hogy a nekromantáknak van egy példányuk ebbõl a kiadványból, és kész megjutalmazni bárkit, aki átadja neki ezt az értékes kötetet.
+A ház tulajdonosa azt tanácsolja, hogy keresse a könyvet a nyugati hegyekben.
+Teljesítetted a feladatot, és ez a hálás varázsló hajlandó neked adni egy pár darab Fekete Sárkányt.
 
 (9, 10, 1) ***Esemény***
 Üzenet:
-This might come in handy in a fight against Nagash!
+Ez jól jöhet a Nagash elleni harcban!
 
 ===== Fájl vége =====
