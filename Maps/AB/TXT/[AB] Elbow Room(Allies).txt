@@ -1,0 +1,90 @@
+===== Térkép neve =====
+Mozgástér (Szövetséges)
+
+===== Térkép leírása =====
+Ez a világ nem elég nagy mindannyiunknak.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetõ
+Üzenet:
+Úgy tûnik, mintha minden nap összevesznél a szomszédoddal.  Rövid megfontolás után úgy döntöttél, hogy eleged van a vitákból.  Most mind meghalnak.
+
+===== Tárgyak =====
+
+(31, 32, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Nyersanyag
+Üzenet:
+Ahogy felébredsz, a felderítõid átadják neked, amit gyûjtöttek a héten.
+
+(3, 32, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Nyersanyag
+Üzenet:
+Ahogy felébredsz, a felderítõid átadják neked, amit gyûjtöttek a héten.
+
+(31, 5, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Nyersanyag
+Üzenet:
+Ahogy felébredsz, a felderítõid átadják neked, amit gyûjtöttek a héten.
+
+(3, 19, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Nyersanyag
+Üzenet:
+Ahogy felébredsz, a felderítõid átadják neked, amit gyûjtöttek a héten.
+
+(17, 6, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Nyersanyag
+Üzenet:
+Ahogy felébredsz, a felderítõid átadják neked, amit gyûjtöttek a héten.
+
+(31, 19, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Nyersanyag
+Üzenet:
+Ahogy felébredsz, a felderítõid átadják neked, amit gyûjtöttek a héten.
+
+(18, 32, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Nyersanyag
+Üzenet:
+Ahogy felébredsz, a felderítõid átadják neked, amit gyûjtöttek a héten.
+
+(2, 5, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Nyersanyag
+Üzenet:
+Ahogy felébredsz, a felderítõid átadják neked, amit gyûjtöttek a héten.
+
+===== Fájl vége =====

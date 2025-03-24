@@ -1,0 +1,90 @@
+===== Térkép neve =====
+Mozgástér
+
+===== Térkép leírása =====
+Ez a világ nem elég nagy mindannyiunknak.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetõ
+Üzenet:
+Úgy tûnik, mintha minden nap összevesznél a szomszédoddal.  Rövid megfontolás után úgy döntöttél, hogy eleged van a vitákból.  Most mind meghalnak.
+
+===== Tárgyak =====
+
+(31, 32, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Stuff
+Üzenet:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(3, 32, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Stuff
+Üzenet:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(31, 5, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Stuff
+Üzenet:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(3, 19, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Stuff
+Üzenet:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(17, 6, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Stuff
+Üzenet:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(31, 19, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Stuff
+Üzenet:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(18, 32, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Stuff
+Üzenet:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(2, 5, 0) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Stuff
+Üzenet:
+As you wake up, your scouts give you what they have been foraging for the week
+
+===== Fájl vége =====
