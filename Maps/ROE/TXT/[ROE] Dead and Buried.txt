@@ -1,0 +1,13 @@
+===== Térkép neve =====
+A halott és az elhantolt
+
+===== Térkép leírása =====
+Kivel akarsz elõször megküzdeni?  Aki halott, vagy aki elhantolt?
+
+===== Események =====
+
+===== Idõzített események =====
+
+===== Tárgyak =====
+
+===== Fájl vége =====

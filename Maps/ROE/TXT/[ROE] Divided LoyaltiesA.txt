@@ -1,0 +1,65 @@
+===== Térkép neve =====
+Megosztott lojalitás (Szöv.)
+
+===== Térkép leírása =====
+Az egykor barátságban álló felszíni lakosok hadat üzentek egymásnak, és ezzel a földalatti urakat is magukkal rántották a háborúba.  Urald az összes ellenséges kastélyt a gyõzelem kicsikarásához!
+
+===== Események =====
+
+Név:
+Szövetséges kereskedelem
+Szöveg:
+A szövetséges hõsök egymás között szörnyekkel és tárgyakkal kereskedhetnek.
+
+===== Idõzített események =====
+
+Név:
+Vigyázat!
+Üzenet:
+Építsd fel a seregedet és védelmed, morzsold fel az ellenségeidet, de vigyázz - a földalatti lejárók közelsége azt jelenti, hogy az ellenség bármelyik pillanatban hátba támadhat!
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(17, 66, 0) ***Jel***
+Üzenet:
+Wensal ork falu, tündéknek tilos a belépés.
+
+(23, 26, 0) ***Jel***
+Üzenet:
+Isten hozott Atha szépséges goblin villájában.
+
+(68, 62, 0) ***Arany***
+Üzenet:
+Egy csapat ogre és ogre mágus egy halom arany körül sertepeltél, meg akarsz velük küzdeni érte?
+
+(6, 23, 0) ***Arany***
+Üzenet:
+Úgy tûnik, egy kisebb törpehadsereg õrzi ezt az aranyat, meg akarod támadni õket?
+
+(51, 26, 1) ***Jel***
+Üzenet:
+Barlanglakó párzó fürdõ...Kérlek, ne hangoskodj!
+
+(0, 62, 1) ***Esemény***
+Üzenet:
+Útonállók ugranak ki a fák mögül és megtámadnak.
+
+(21, 33, 1) ***Arany***
+Üzenet:
+Törpék õrzik az aranyat, meg akarsz velük küzdeni érte?
+
+(23, 38, 1) ***Jel***
+Üzenet:
+Isten hozott Dwith törpe villájában.
+
+(39, 20, 1) ***Esemény***
+Üzenet:
+Meglehetõsen idegesnek tûnõ törpék ugranak elõ a bányából és megtámadnak.
+
+(37, 19, 1) ***Jel***
+Üzenet:
+Törpék aranybányája, belépni tilos.
+
+===== Fájl vége =====

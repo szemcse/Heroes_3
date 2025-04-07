@@ -1,0 +1,23 @@
+===== Térkép neve =====
+Szigetek és barlangok
+
+===== Térkép leírása =====
+Birtokodban van egy sziget, akárcsak a három riválisodnak. A Király már régen megtiltotta a hajók használatát, hogy elkerülje a háborút, de nemrég felfedeztél egy barlanghálózatot a szigetek alatt. Gyûjtsd össze erõidet, és pusztítsd el ellenfeleidet egyszer és mindenkorra!
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Generációkkal ezelõtt négy háborúzó hatalom teljes káosszal fenyegette az országot. A Király megbüntette a négy vezetõt és követõiket, egy szigetcsoportra számûzte õket, a hajók használatát pedig megtiltotta, hogy õket és leszármazottaikat megóvja a háborútól.
+
+Név:
+Bevezetés 2. rész
+Üzenet:
+A király nem vette észre, hogy a szigeteket földalatti barlangok és alagutak kötik össze, melyeken át minden sziget elérhetõ! Eljött a te idõd, hogy véget vess a viszálynak véglegesen, amit õseid kezdtek el oly sok évvel ezelõtt!
+
+===== Tárgyak =====
+
+===== Fájl vége =====

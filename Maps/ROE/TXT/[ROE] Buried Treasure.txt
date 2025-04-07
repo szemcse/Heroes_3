@@ -1,0 +1,27 @@
+===== Térkép neve =====
+Elásott kincs
+
+===== Térkép leírása =====
+A Titánok Kardjáról kiderült, hogy hol található, miután évszázadokra nyoma veszett ebbõl a régióból. Sajnos nem te vagy az egyetlen, aki tudja, hogy hol található, rajtad kívül hárman is elhatározták, hogy elsõnek érnek oda.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés (elsõ rész)
+Üzenet:
+A sok tekercs és szöveg szerint, amelyeket a bölcseid tanulmányoztak, a legjobb nyomot meglepõ módon egy gyermekmese, a 'Tim és a szörnyû titán' adta.
+
+Név:
+Bevezetés (második rész)
+Üzenet:
+Ebben a történetben azt mesélik, hogy a nagy felhõtitánok a föld alatt tárolták értékes holmijaikat, hogy azok véletlenül se essenek le a földre. De a történet félelmetes szörnyekrõl és csapdákról is szól, amelyekkel a titánok õrzik ezeket a kincseiket. A kardnak tehát a föld alatt KELL lennie!
+
+===== Tárgyak =====
+
+(9, 58, 1) ***Titánok Kardja***
+Üzenet:
+Mikor elérsz a Kardhoz, 10 szörnyûséges Titán jelenik meg a semmibõl, ahogy a történetben le is írták! Ha a kardot akarod, nyilvánvalóan meg kell küzdened érte a Titánokkal. Maradsz és megküzdesz velük?
+
+===== Fájl vége =====

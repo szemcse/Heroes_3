@@ -1,0 +1,52 @@
+===== Térkép neve =====
+A tûz szigete
+
+===== Térkép leírása =====
+Memphos, az ördög és hordái birtokukba vették a délkeleti szigetet. Pusztítsd el õt, mielõtt befolyása megrontja az egész területet!
+
+===== Események =====
+
+Név:
+Az angyalok segítenek?
+Szöveg:
+Néhány angyal él egy közeli kanyonban, talán segítenek harcolni az ördögök ellen?
+
+===== Idõzített események =====
+
+Név:
+Elsõ figyelmeztetés.
+Üzenet:
+Tünde felderítõid szerint négy hónapba telik, mire az ördögök elég sereget gyûjtenek az átkeléshez. Memphos-t ki kell iktatnod, hogy ez ne történhessen meg.
+
+Név:
+Idõkorlát figyelmeztetés,
+Üzenet:
+Az ördögök árnyéka egyre közelebb kúszik.  Nincs sok idõd hátra, hogy legyõzd Memphost és megmentsd ezt a földet.
+
+===== Tárgyak =====
+
+(39, 64, 0) ***Esemény***
+Üzenet:
+Ajaj... ördögi nyomok a fûben, úgy tûnik, hogy néhány szörnyeteg már átjutott a szigetrõl.
+
+(0, 27, 0) ***Esemény***
+Üzenet:
+Egy öregember odabiceg hozzád, és azt mondja, hogy éhes.  Miután adsz neki egy kis ételt, elmondja, hogy vannak angyalok ebben a kanyonban, akiket segítségül hívhatsz.
+
+(63, 42, 0) ***Sátán***
+Üzenet:
+Memphos és hordája észreveszi a seregedet, és vidáman támad.  Ez az, gyõzd le Memphos-t és a föld megmenekül!
+
+(66, 22, 0) ***Jel***
+Üzenet:
+"Tisztelgés a halottak emléke elõtt"
+
+(5, 25, 0) ***Angyal***
+Üzenet:
+Az angyalok úgy döntöttek, hogy segítenek neked az ördögök elleni harcodban.
+
+(36, 27, 0) ***Esemény***
+Üzenet:
+Ezen a területen rengeteg ördögi nyom található.  Úgy tûnik, felderítõik figyelik a partot.
+
+===== Fájl vége =====

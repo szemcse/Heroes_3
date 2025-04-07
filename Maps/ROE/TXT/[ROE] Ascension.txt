@@ -1,0 +1,17 @@
+===== Térkép neve =====
+Mennybemenetel
+
+===== Térkép leírása =====
+Három úr, három vidék.  Minden területet könnyû megtartani, de megkaparintani már nehéz.  Te tudod, mit kell tenned, hogy kiterjeszd határaidat és örökre megszabadulj idegesítõ szomszédaidtól?
+
+===== Események =====
+
+===== Idõzített események =====
+
+===== Tárgyak =====
+
+(13, 42, 0) ***Jel***
+Üzenet:
+Nincs horgászat
+
+===== Fájl vége =====

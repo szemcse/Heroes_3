@@ -1,0 +1,31 @@
+===== Térkép neve =====
+Barbár kitörés (Szöv.)
+
+===== Térkép leírása =====
+Készítsd fel seregeidet, mielõtt a barbárok kitörnek elszigetelt honukból és megpróbálnak átgázolni rajtad.  Vigyázz, kitartóbbak, mint gondolnád, így csak csapatmunkával tudod megoldani a problémát.
+
+===== Események =====
+
+Név:
+Piacok
+Szöveg:
+Aranyat és más nyersanyagokat küldhetsz szövetségesednek... vagy akár ellenségednek is.
+
+===== Idõzített események =====
+
+Név:
+Jönnek a barbár hordák.
+Üzenet:
+Most már gyorsan szereld fel a seregeidet. A barbárok, bár elszigetelten élnek, azért igényt formálnak birtokaidra. Nem akarnak tovább várni!
+
+===== Tárgyak =====
+
+(26, 11, 0) ***Stronghold***
+Név:
+Stremgarth
+
+(14, 26, 1) ***Stronghold***
+Név:
+Stremgeth
+
+===== Fájl vége =====

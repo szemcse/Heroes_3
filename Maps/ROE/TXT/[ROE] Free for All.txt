@@ -1,0 +1,28 @@
+===== Térkép neve =====
+Mindenki mindenki ellen
+
+===== Térkép leírása =====
+Te vagy a hét szomszédoddal szemben ebben a hatalmas, szabad küzdelemben, de meg kell gyõznöd a többieket, hogy segítsenek neked, legalábbis addig, amíg elég erõs nem leszel ahhoz, hogy egyedül is megálld a helyed.  Tökéletes hátbaszúrós többjátékos játék!
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés - Elsõ rész
+Üzenet:
+A földet nemzedékek óta megosztották.  Az eltérõ vallási és politikai meggyõzõdések miatt az egykor a világ legnagyobb nemzetének számító ország nyolc egymással háborúzó klánra szakadt szét.
+
+Név:
+Bevezetés - Második rész
+Üzenet:
+Mindezidáig egyik klánnak sem sikerült elnyernie a teljes hatalmat - amikor az egyik csoportosulás erõsnek mutatkozott, a többieknek sikerült hatékonyan összedolgozniuk, bár mindegyikük folyamatosan kereste az esélyt, hogy megragadja az irányítást.
+
+Név:
+Bevezetés - Harmadik rész
+Üzenet:
+Ma mind a nyolc frakció közel azonos erõsségû, és jelenleg nem léteznek szövetségek.  Meg tudod gyõzni a szomszédaidat, hogy ne támadják meg a klánodat elég sokáig ahhoz, hogy felépítsd a saját erõidet?  Végre itt az arany lehetõség arra, hogy újraegyesítsd ezt a földet egy uralkodó alatt... TE!
+
+===== Tárgyak =====
+
+===== Fájl vége =====

@@ -1,0 +1,120 @@
+===== Térkép neve =====
+Sárkány gömb
+
+===== Térkép leírása =====
+Ebben a régióban a Sárkány Lordok azt az uralkodót fogják támogatni, aki megtalálja az Állandóság Gömbjét vagy legyõzi a birodalom összes többi lordját.  Mindkét esetben Te leszel a terület vitathatatlan vezetõje.
+
+===== Események =====
+
+Név:
+Grál pletyka
+Szöveg:
+A Grál valahol a sárkány gömbben található.
+
+===== Idõzített események =====
+
+Név:
+Elsõ napi esemény.
+Üzenet:
+A Sárkány Lordok üzenetet küldenek Neked, amiben az áll, hogy a szóbeszéd szerint az Állandóság Gömbje valahol délnyugaton lehet.
+
+Név:
+Extra arany.
+Üzenet:
+A Sárkány Lordok ajándékot küldenek Neked.
+
+===== Tárgyak =====
+
+(23, 56, 0) ***Állandóság Varázsgömb***
+Üzenet:
+Arany Sárkányok bukkantak elõ az erdõbõl és párbajra hívnak a Gömb birtoklásáért. Megküzdesz velük?
+
+(64, 22, 0) ***Kristály***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a kristályért. Megküzdesz velük?
+
+(63, 22, 0) ***Kristály***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a kristályért. Megküzdesz velük?
+
+(64, 23, 0) ***Kristály***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a kristályért. Megküzdesz velük?
+
+(63, 23, 0) ***Kristály***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a kristályért. Megküzdesz velük?
+
+(67, 20, 0) ***Kén ***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a kénkõért. Megküzdesz velük?
+
+(68, 20, 0) ***Kén ***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a kénkõért. Megküzdesz velük?
+
+(68, 21, 0) ***Kén ***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a kénkõért. Megküzdesz velük?
+
+(67, 21, 0) ***Kén ***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a kénkõért. Megküzdesz velük?
+
+(69, 17, 0) ***Higany***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a higanyért. Meg akarsz küzdeni velük a nyersanyagért?
+
+(70, 17, 0) ***Higany***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a higanyért. Meg akarsz küzdeni velük a nyersanyagért?
+
+(69, 18, 0) ***Higany***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a higanyért. Meg akarsz küzdeni velük a nyersanyagért?
+
+(70, 18, 0) ***Higany***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a higanyért. Meg akarsz küzdeni velük a nyersanyagért?
+
+(69, 13, 0) ***Drágakõ***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a drágakõért. Meg akarsz küzdeni velük a nyersanyagért?
+
+(70, 13, 0) ***Drágakõ***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a drágakõért. Meg akarsz küzdeni velük a nyersanyagért?
+
+(69, 14, 0) ***Drágakõ***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a drágakõért. Meg akarsz küzdeni velük a nyersanyagért?
+
+(70, 14, 0) ***Drágakõ***
+Üzenet:
+Sárkányok csapnak le és párbajra hívnak ki a drágakõért. Meg akarsz küzdeni velük a nyersanyagért?
+
+(8, 24, 0) ***Vörös Sárkány Lángoló Kardja***
+Üzenet:
+A monoliton keresztül lépve megpillantod a Vörös Sárkány Lángoló Kardját, amely egy emelvényen pihen.  Bár nem ez volt a célpontod, ez az ereklye minden bizonnyal hasznodra válik a küldetésedben.
+
+(41, 62, 0) ***Szentek Bocskora***
+Üzenet:
+A monoliton keresztül lépve megpillantod a Szentek Bocskorát, amely egy emelvényen pihen.  Bár nem ez volt a célpontod, ez az ereklye minden bizonnyal hasznodra válik a küldetésedben.
+
+(47, 43, 0) ***Pandora Szelencéje***
+Üzenet:
+Ezt a különös, díszes dobozt egymásba fonódó szárnyas kígyók faragványai díszítik.
+
+(51, 52, 0) ***Pandora Szelencéje***
+Üzenet:
+Úgy tûnik, ezt a dobozt egy kis csapat zöld sárkány õrzi.
+
+(52, 51, 0) ***Esemény***
+Üzenet:
+Sárkányokat látsz délnyugaton.
+
+(61, 46, 1) ***Esemény***
+Üzenet:
+Ez a földalatti barlang bûzlik a sárkányoktól.
+
+===== Fájl vége =====

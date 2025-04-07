@@ -1,0 +1,23 @@
+===== Térkép neve =====
+Bíborvörös és lóhere (Szöv.)
+
+===== Térkép leírása =====
+Tegnap, miközben hazád partjainál hajózgattál, hirtelen, mintha varázsütésre köd jelent volna meg. Néhány perccel a köd megjelenése után a hajótok zátonyra futott és hajótörést szenvedett. A köd hirtelen eltûnt, felfedve egy közeli, lakatlan kastélyt. Ez valamiféle játék?
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Éjszaka hatalmas mennydörgésre ébredsz. A kastély udvarán egy óriási, szarvasfejû ember kísérteties alakja lebeg.	"Azért hoztalak ide téged és három másik embert, hogy megküzdjetek az ország ura címért. Ne valljatok kudarcot, különben véretekkel locsolom a lóherét."
+
+Név:
+Bevezetés 2. része
+Üzenet:
+"Egyik a három közül a szövetségesed, a többiek az ellenségeid. Ha hibázol, a véred patakokban fogja elönteni a lóherét". 	Majd ezek után villámcsapás hangjának kíséretében tûnik el a kísérteties alak.
+
+===== Tárgyak =====
+
+===== Fájl vége =====

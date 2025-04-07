@@ -1,0 +1,72 @@
+===== Térkép neve =====
+Smaragd-szigetek (Szöv.)
+
+===== Térkép leírása =====
+A Smaragd-szigetek egy fõ hajózási útvonal mentén fekszik. Ezt a vízi útvonalat több báró is mind a maga irányítása alá szeretné vonni.  A Te faladatod, hogy 'rábeszéld õket', jobb, ha feladják az e fajta igényeiket.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Nyitó szöveg (elsõ rész)
+Üzenet:
+Elhelyezkedésük miatt a Smaragd-szigetek a világ minden tájáról érkezõ kereskedelmi útvonalak csomópontja.  Az a báró, aki ezeket az útvonalakat ellenõrzése alatt tudná vonni, olyan gazdagsággal rendelkezne, amely Avarice legmerészebb álmait is felülmúlná.
+
+Név:
+Nyitó szöveg (második rész)
+Üzenet:
+A báród téged választott ki, a legjobb katonai vezetõjét, hogy 'megszerezd' a többi bárótól a kereskedelmi útvonalak feletti felügyeletet. Használd a diplomáciát, ahol csak tudod, de ha a diplomácia kudarcot vall, szabadon bizonyíthatod a hatalmad másképpen is. Gazdag nyugdíjas éveid lehetnek így.
+
+Név:
+Utánpótlás érkezett
+Üzenet:
+Áá! A passzátszelek ma kedvezõen fújnak -  hajó érkezett a rég áhított utánpótlással.
+
+===== Tárgyak =====
+
+(6, 19, 0) ***Esemény***
+Üzenet:
+Találkoztál egy házaló kereskedõvel, akit útonállók támadtak meg.  Az embereid elhajtották az útonállókat, a házaló kereskedõ pedig megjutalmaz a segítségedért.
+
+(19, 62, 0) ***Esemény***
+Üzenet:
+A fák rejtekében útonállók kincseinek régi rejtekhelyére bukkansz.
+
+(16, 18, 0) ***Palack-posta***
+Üzenet:
+Fénylett a Hold, a csillagos, 	S a rámszegzett szemek. . .
+
+(28, 20, 0) ***Esemény***
+Üzenet:
+Az óceán hullámai partra vetettek egy régen elásott kalóz kincset.
+
+(23, 35, 0) ***Palack-posta***
+Üzenet:
+Nincs jaj, csak néma fájdalom,	Az átkoz engemet. . .
+
+(34, 60, 0) ***Palack-posta***
+Üzenet:
+Mint kõ, sután, egymás után	Súlyosan lezuhan. . .
+
+(27, 50, 0) ***Palack-posta***
+Üzenet:
+Négyszer ötven emberi lény 	(És mindük jajtalan) . . .
+
+(57, 29, 0) ***Palack-posta***
+Üzenet:
+Jöttek napok, mentek napok,	Álltunk, lidérces álom,	Tétlen, mint egy festett hajó	Egy festett óceánon.. . .
+
+(69, 40, 0) ***Palack-posta***
+Üzenet:
+Víz és víz, víz mindenütt,	A fedélzetre csap,	Víz és víz, víz mindenütt,  	De inni nem maradt. . .
+
+(46, 35, 0) ***Esemény***
+Üzenet:
+Egy testetlen hang átkot kiáltott rád.
+
+(43, 13, 0) ***Esemény***
+Üzenet:
+A sziklák között egy kis aranybánya van betemetve, az elsõ rakomány arany eltávolítása után végleg összeomlik a bánya.
+
+===== Fájl vége =====
