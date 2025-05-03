@@ -1,0 +1,39 @@
+===== Térkép neve =====
+Sárkányok kincse
+
+===== Térkép leírása =====
+A régmúlt idõkben még sárkányok uralták ezt a birodalmat, vajon újra uralkodhatnak? (természetesen a te segítségeddel)
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Elsõ nap.
+Üzenet:
+A régió egykori sárkányúrjának hírnöke azt üzeni neked, hogy ha 25 fekete sárkányt rá tudsz venni, hogy kövessenek, akkor segít legyõzni az ellenségeidet. Beleegyezel, de ahogy a hírnök ellovagol, nem tudsz nem elgondolkodni azon, hogy ki fog valójában uralkodni, ha az összes urat legyõzted?
+
+Név:
+Extra arany
+Üzenet:
+A Sárkányurak 1000 aranyat adnak neked, hogy segítsék az ügyedet (az õ ügyüket).
+
+===== Tárgyak =====
+
+(123, 60, 0) ***Jel***
+Üzenet:
+Fogoly: Rion, a pap.	Elkövetett bûn: Túlságosan jófej.	Idõtartam: Életfogytiglan
+
+(125, 61, 0) ***Kerberosz***
+Üzenet:
+Támadnak a börtönt õrzõ kutyák!
+
+(56, 133, 0) ***Pandora Szelencéje***
+Üzenet:
+Egy kisebb sárkánygyíktól sikerül megmentened egy öregembert, hálája jeléül a kunyhójából származó tárgyakkal jutalmaz.
+
+(137, 17, 0) ***Esemény***
+Üzenet:
+Föld- és tûzelementálok emelkednek ki a földbõl és támadnak.
+
+===== Fájl vége =====

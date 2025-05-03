@@ -1,0 +1,214 @@
+===== Térkép neve =====
+Buktasd meg a szomszédaidat
+
+===== Térkép leírása =====
+A jó, a rossz és a túlnépesedett.
+
+===== Események =====
+
+Név:
+Varázstárgyak északra
+Szöveg:
+Az északi erdõkben sok hasznos varázstárgy található.
+
+Név:
+Vár az alsó sivatagban
+Szöveg:
+Felderítõid szerint az alsó, elhagyatott sivatagban egy vár található. Állítólag sárkányok õrzik.
+
+===== Idõzített események =====
+
+===== Tárgyak =====
+
+(8, 35, 0) ***Jel***
+Üzenet:
+Hosszú hajú furcsa embereknek nem kell jelentkezniük.
+
+(71, 71, 0) ***Véletlenszerû nyersanyag***
+Üzenet:
+Van egy olyan sanda gyanúd, hogy ez a nyersanyaghalom valakihez tartozik. Akkor is elviszed?
+
+(65, 61, 0) ***Véletlenszerû nyersanyag***
+Üzenet:
+Van egy olyan sanda gyanúd, hogy ez a nyersanyaghalom valakihez tartozik. Akkor is elviszed?
+
+(69, 1, 0) ***Palack-posta***
+Üzenet:
+A régi idõkben, amikor a lovagok még bátrak voltak, és a vécét még nem találták fel, az emberek az út mellé rakták le, és elégedetten sétáltak tovább.
+
+(4, 21, 0) ***Stronghold***
+
+Idõzített események:
+
+Név:
+Forró nap
+Üzenet:
+Újabb forró nap a sivatagban. Kinek az ötlete volt a sivatag közepére várat építeni? Az óceán legkevesebb két napi útra van. A legtöbb nyersanyag egynapos túrával érhetõ el. Információid szerint épp háború folyik a Papok és a Pokoliak földjei közt fekvõ bányákért.
+
+Név:
+Készülj a csatára
+Üzenet:
+Azonnal cselekedni kell. Elképzelhetetlen dolog történne, ha a királyságod elveszítené az ellenõrzést a bányái felett. Felkészülsz az utazásra, és megtervezed az elõtted álló csatákat. 
+
+Név:
+Túlnépesedve 
+Üzenet:
+Népszámlálás volt a városodban. A népesség eléggé megnõtt az elmúlt pár évben, valójában annyira, hogy az emberek egyszerûen kinõtték a várost. Kikéred tanácsadóid véleményét, és arra a következtetésre juttok, hogy még egy várra van szükség. Nos, ezt csak egy-két módon lehet kivitelezni.
+
+Név:
+Tiéd a döntés
+Üzenet:
+Egy: szövetségre lépsz a nyugati papokkal. Kettõ: szövetségre lépsz démon-ivadékoknak a Pokolban, amire inkább Pokolként szoktál utalni. Három: megbuktatod a szomszédokat, és elfoglalod a kastélyokat. Tanácsadóid csak állnak és feléd pislognak.
+
+Név:
+Buktasd meg a szomszédaidat
+Üzenet:
+"Igen," - mondod magadnak, "A megbuktatás hangzik a legjobban."
+
+Név:
+Elhagyatott város
+Üzenet:
+Felderítõid szerint az alsó, elhagyatott sivatagban egy vár található, azonban sárkányok õrzik. Ha legyõzöd õket, az örökre megoldaná a túlnépesedés problémáját.
+
+(54, 25, 0) ***Castle***
+
+Idõzített események:
+
+Név:
+A dolgok jól mennek.
+Üzenet:
+A dolgok jól mennek a kastélyodban. A befolyásod az egész országot elérte... majdnem. Vezetõ szerepet játszol abban, hogy megtanítsd az ország népét arra, hogy békében legyen önmagával, eggyé váljon a környezetével, alkossanak maradandót, ami nem tûnhet el soha, és legyen tökéletes nyugalom.
+
+Név:
+Minden csodálatosan szép.
+Üzenet:
+Királyságodban minden tökéletes. Minden gyönyörû. Azonban a Pokol vezetõje még a létezéseteket sem hajlandó elismerni, nemhogy eszméiteket. Ez eléggé zavarja az utópiádat.
+
+Név:
+Üzenet küldése.
+Üzenet:
+Ezért úgy döntesz, hogy üzenetet küldesz a Pokol vezetõjének, amelyben arra kéred, hogy fontolja meg a hierarchiai elrendezést, különben további intézkedésekre kerül sor. Elküldöd a hírnököt az útjára, remélve, hogy valamiféle kompromisszumra jutsz. 
+
+Név:
+Bányák követelése.
+Üzenet:
+Tanácsadóid szerint országod bányáit követeli az ellenség. Ekkor jössz rá, hogy amennyiben minden bányádat elveszted, akkor a királyságod elbukik. Azonnal elindulsz, hogy minél több bányát foglalj el ezért.
+
+Név:
+Válasz az üzenetedre.
+Üzenet:
+Válasz érkezett az ellenségtõl. Az a rettenetes gonosz fenevad a futár fejét egy lándzsára tûzve küldte vissza, egy darab véres bõrt kötve a hajába. A bõrdarabra betûk vannak vésve: H-Á-B-O-R-Ú.
+
+Név:
+Gyász és fájdalom
+Üzenet:
+Sõt, még egy festõt is küldött a futárral, hogy a hírnök családjának bánatát és gyászát egy szörnyû festményen örökítse meg saját magának a szobája falára. Az egész város három napig tartó megemlékezést tart.
+
+Név:
+Ima az ellenségért
+Üzenet:
+A város együttes erõvel imádkozott, hogy megmentse az Inferno lakosainak lelkét. Végül arra jutottak, hogy szinte reménytelen. Megparancsolod, hogy egy papot és csokor rózsát küldjenek az Infernóba, hogy megtegyék, amit még lehet.
+
+Név:
+A pap megõrült.
+Üzenet:
+Tanácsadóid szerint a kiküldött pap elrohant az Infernóból, saját szemeit kaparva, mert rájött, hogy a legtisztább gonoszt látta meg. Csak annyit mondasz: "Meglep, hogy ilyen sokáig bírta."
+
+(40, 11, 0) ***Jel***
+Üzenet:
+A szomszéd füve mindig zöldebb.
+
+(62, 50, 0) ***Inferno***
+
+Idõzített események:
+
+Név:
+Újabb unalmas nap.
+Üzenet:
+Egy újabb unalmas, szürke nap a Pokoli Pokolban. És te, a Király, most kaptál egy újabb fenyegetõ üzenetet azoktól a nyugatra fekvõ, tündéreket imádó városoktól. MOST lett eleged az üres fenyegetésektõl, hogy megbuktatják az uralmadat. Ránézel a neked átadott, meglehetõsen nagy üzenethalomra.
+
+Név:
+A mai üzenet felkeltette a figyelmed.
+Üzenet:
+Úgy döntesz, hogy elégeted a leveleket. A szolgád meggyõz, hogy ne az asztalodon lobbantsd lángra a leveleket, inkább dobd õket a pokol tüzébe. Ahogy a tûz felé tolod a leveleket, a mai üzenet magára vonja a figyelmed, ezért újra elolvasod.
+
+Név:
+Ezek komolyan gondolják
+Üzenet:
+Az üzenetet olvasva felismered, hogy milyen komolyan is gondolják, amit írnak. Az írják, hogy elégetik a városodat. Azt nem írják, hogy mikor érkeznek, csak annyit: "Mikor a legkevésbé várnád." Dühösen a lángokba dobod a levelet.
+
+Név:
+Vedd át az irányítást a bányák felett.
+Üzenet:
+Utasítod szolgáidat, hogy olyan választ adjanak, amit nem felejt el az ellenség. Majd összegyûjtöd a gondolataidat, és készülsz a háborúra. Egyik tanácsadód azt javasolja, hogy ha elfoglalnád a bányákat, az ellenség rövid idõ alatt elvesztené nyersanyagait. Nagyszerû ötlet.
+
+Név:
+Egy futárral kevesebb
+Üzenet:
+Válaszod, melyet a futár lándzsára tûzött feje kísért, nem aratott sikert az ellenségnél. Szerencsére az ajándék kibírta az utat. Balszerencséjükre egy futárral kevesebbjük maradt.
+
+Név:
+Öld meg a szomszédaidat!
+Üzenet:
+Azonban te a vérért vagy itt, nem az erõforrásokért. "Öld meg a szomszédokat!"  - kiáltod. "Mindet megöljük, elfoglaljuk a váraikat, aztán az összes bányát!" Szünetet tartasz, és hozzáteszed: "Amelyik elõbb jön."
+
+Név:
+Kép
+Üzenet:
+Egy festõt is küldtél, hogy megörökítse a futár családjának fájdalmát és bánatát. Egy gyönyörû festménnyel tért vissza, mely most a szobád falán lóg.
+
+Név:
+Az ellenség érted imádkozik
+Üzenet:
+A felháborító és förtelmes tetteitektõl megundorodva az ellenséges csapatok imára gyûltek össze, és arra a következtetésre jutottak, hogy rajtatok már nem lehet segíteni. Küldenek is neked egy csokor rózsát és egy papot, hogy segítsen át ezeken a nehéz idõkön.
+
+Név:
+A pap elfutott.
+Üzenet:
+A pap elrohant az Infernóból, saját szemeit kaparva, mert rájött, hogy a legtisztább gonoszt látta meg. Csak ennyit mondasz: "Ideje volt már, hogy az a kövér, gömbölyded, zagyva massza eltûnjön a hajamból... mintha nem is lett volna ott soha."
+
+(63, 51, 0) ***Jel***
+Üzenet:
+Legyen boldog a napod!
+
+(12, 40, 0) ***Jel***
+Üzenet:
+Ne olvasd el ezt!
+
+(28, 23, 0) ***Palack-posta***
+Üzenet:
+A tengeren túl jár a kedves,	Az óceán habjain túl,	A tengeren túl jár a kedves,	Ó, küldd vissza Mennybéli Úr!
+
+(21, 54, 0) ***Esemény***
+Üzenet:
+Nem hittél a felderítõidnek, pedig igazuk volt... négy sárkány õrzi az elhagyatott várat. Bárcsak ismernéd a Mészárlás varázslatot! Egy pillanat... mi ez a tekercs itt a földön?
+
+(22, 53, 0) ***Varázstekercs***
+Üzenet:
+Micsoda szerencse! A Mészárlás varázslat! Bárki is ejtette el, talán nem bánja, ha kölcsönveszed... fel akarod venni?
+
+(12, 54, 1) ***Esemény***
+Üzenet:
+A hely, ahol állsz, teljesen élettelen. Gyorsan körülnézel. Nagyon csendes. Áporodott dohos szag terjeng a levegõben. Felfordul a gyomrod, ahogy észreveszed a földön fekvõ csontvázakat.
+
+(13, 56, 1) ***Jel***
+Üzenet:
+Ne tervezd... , hogy élve távozol innen!
+
+(12, 57, 1) ***Goblin***
+Üzenet:
+"Úgy tûnik, már hetek óta itt vagyok. Azt hittem, itt fogok meghalni. Három út van itt. A Grál megtalálásához vezetõ nyom az egyik út végén van. Válassz helyesen, és a nyom a tiéd, amit követhetsz utána. Ha rosszul választasz, és... elmondhatatlan fájdalomban lesz részed."
+
+(24, 46, 1) ***Jel***
+Üzenet:
+Ha továbbmennénk, az valóban a biztos halált jelentené.
+
+(15, 44, 1) ***Jel***
+Üzenet:
+A Mindenható könyörüljön azokon a lelkeken, akik tovább merészkednek ezen a jelen túlra.
+
+(27, 53, 1) ***Jel***
+Üzenet:
+Most fordulj vissza!
+
+===== Fájl vége =====

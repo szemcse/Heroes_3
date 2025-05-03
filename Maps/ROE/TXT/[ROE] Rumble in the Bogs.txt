@@ -1,0 +1,42 @@
+===== Térkép neve =====
+Dübörgés a mocsarakban
+
+===== Térkép leírása =====
+A klasszikus eset, amikor a szomszéd kertje mindig zöldebb: elõször meg kell szabadulnod a bosszantó szomszédodtól, majd át kell szlalomoznod a mocsáron, hogy megszerezd a gazdagságot, ami a túloldalon vár rád.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+FedEx a számítógép számára (5 Játékos)
+Üzenet:
+
+
+Név:
+Bevezetés - 1. rész
+Üzenet:
+Mindig is békés életet éltél, alázatosan együtt éltél a szomszédoddal a világ egy szerény tengerparti vidékén, amelynek legérdekesebb tulajdonsága az volt, hogy egy mély, sivár mocsár szegélyezte.
+
+Név:
+Bevezetés - 2. rész
+Üzenet:
+Egy nap mindenki legnagyobb meglepetésére, egy utazó bukkant fel a mocsárból, aki nemcsak a mocsáron belüli gazdagságról mesélt, hanem egy még fantasztikusabb földrõl a túloldalon! A beszámolótól feltüzelve felderítõket küldesz a mocsárba, ám õk soha nem térnek vissza.
+
+Név:
+Bevezetés - 3. rész
+Üzenet:
+Elsõ gondolatod az, hogy a felderítõk eltévedtek, de aztán eszedbe jutott egy gondolat. Talán a mocsár túloldalán lévõ föld ANNYIRA fantasztikus volt, hogy a felderítõk nem voltak hajlandóak visszajönni? Megosztod az ötletedet a szomszédoddal, de õ úgy döntött, hogy a távoli földeket magának akarja!
+
+Név:
+Bevezetés - 4. rész
+Üzenet:
+Hirtelen rájössz, hogy a szomszédoddal való békés együttélésednek vége. Tanítsd meg õt az alázatra, aztán menj, és követeld magadnak a mocsarakon túli gazdagságot!
+
+===== Tárgyak =====
+
+(42, 37, 0) ***Esemény***
+Üzenet:
+Ha csak ránézel erre a helyre, rájössz, hogy valószínûleg te vagy az elsõ élõlény, aki évszázadok óta betette ide a lábát. A gondolatra a hideg futkos végig a hátadon.
+
+===== Fájl vége =====

@@ -1,0 +1,40 @@
+===== Térkép neve =====
+Amikor sárkányok csapnak össze
+
+===== Térkép leírása =====
+A Jó és a Gonosz háborújában valakinek végül gyõznie kell, de a gyõzelem itt azon múlik, hogy képes vagy-e irányítani a föld teremtményeit.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Kezdeti instrukciók - Gonosz
+Üzenet:
+A felszínen lévõ nyámnyila Jók odáig mentek, hogy háborút hirdettek ellened!  Ehhez azonban csapatokat kell gyûjteniük. Gondoskodj róla, hogy a TE zászlód lobogjon a földön élõ minden teremtmény felett, és a gyõzelem a tiéd lesz!
+
+Név:
+Kezdeti instrukciók - Jó
+Üzenet:
+Mindig is tudtad, hogy a Gonosz ott lapul e föld felszíne alatt, de most nyíltan hadat üzentél neki. Tûzd ki zászlód minden lény élõhelyére, és tagadjátok meg ellenségeitektõl a gyõzelemhez szükséges forrásokat!
+
+===== Tárgyak =====
+
+(64, 22, 0) ***Esemény***
+Üzenet:
+Egy öregember él itt az erdõben, és úgy dönt, hogy tanít neked egy-két dolgot.
+
+(58, 66, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
+Friss csapatok
+Üzenet:
+A parancsnokhelyettesed tájékoztat téged, hogy megérkezett az erõsítés, egy üzenettel együtt, hogy jól haladsz.
+
+(30, 63, 1) ***Varázstekercs***
+Üzenet:
+Egy öregember türelmesen vár egy ádáz harcosra. Amikor meglát téged, átad neked egy tekercset.  "Ez segíteni fog az elõtted álló harcokban."
+
+===== Fájl vége =====

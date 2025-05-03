@@ -1,0 +1,23 @@
+===== Térkép neve =====
+A gyõzelem kulcsa
+
+===== Térkép leírása =====
+Háború készülõdik, és a két haderõt csak egy erõsen õrzött hegyi ösvény választja el egymástól.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1. rész
+Üzenet:
+A királyságotok és az északra fekvõ országok közötti határõrség 400 éve akadályozza meg, hogy az ellenségeitek betörjenek.  Most azonban csillagjósaid úgy vélik, hogy az északi területek eléggé meggyengültek ahhoz, hogy megszállhassátok õket, de ehhez még mindig erõs seregre lesz szükséged.
+
+Név:
+Bevezetés 2. rész
+Üzenet:
+Állítsd fel erõidet, és amikor készen állsz, parancsold meg a határõröknek, hogy vonuljanak vissza.  Eljött az idõ, hogy a védekezés helyett, inkább megszüntesd a hódítás veszélyét.
+
+===== Tárgyak =====
+
+===== Fájl vége =====

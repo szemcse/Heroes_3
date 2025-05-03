@@ -1,0 +1,53 @@
+===== Térkép neve =====
+Térdig a holtak között
+
+===== Térkép leírása =====
+Egy teljesen megváltozott világban ébredsz fel. Mindenhol zombik. Úgy tûnik, térdig jársz a halottakban.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Hadmûveleteid közben a sereged letáborozott és mély álomba merült. Ébredéskor hatalmas zombisereg vett körül, akik közül sok a régi határvonali õreidnek látszottak. Zavarodottan próbálsz megmenekülni és megtalálni az otthonodat.
+
+Név:
+2. nap
+Üzenet:
+Úgy tûnik, egy régi legenda áldozata lettél. A legenda szerint a Wyrm hetedik köre elsõ évének teliholdján a Halálúr megérkezik, és feltámasztja sírjaikból a holtakat, hogy visszavegye az élõk földjét. Ha meg tudnád találni ezt a Halálurat és végezni vele…
+
+Név:
+Gonosz nevetés
+Üzenet:
+Beteges, gonosz nevetést hallasz a szélben.  Tényleg hallottad, vagy ez csak a felfokozott képzeleted játéka?
+
+Név:
+Szállítmány érkezett
+Üzenet:
+Létfontosságú szállítmány érkezett a külsõ területekrõl a királyságodba. Sok olyan készletet tartalmaz, amire szükséged lesz a közelgõ csatában.
+
+===== Tárgyak =====
+
+(20, 20, 0) ***Lovag***
+Név:
+Christian
+
+(2, 5, 0) ***Necropolis***
+Név:
+Scorch
+
+(2, 6, 0) ***Nekromanta***
+Név:
+Halálúr
+
+(34, 13, 0) ***Esemény***
+Üzenet:
+Ahogy megközelíted a Halálúr fagyos vidékét, rossz érzés lesz úrrá rajtad.
+
+(24, 19, 0) ***Jel***
+Üzenet:
+Nyugatra a kastélyhoz. Keletre a gyakorlómezõkhöz.
+
+===== Fájl vége =====

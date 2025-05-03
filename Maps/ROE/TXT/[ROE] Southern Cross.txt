@@ -1,0 +1,23 @@
+===== Térkép neve =====
+Dél keresztje
+
+===== Térkép leírása =====
+Egyesek szerint ezt a déli tengerekben található szigetláncot az õsök óriási naptárként hozták létre. Meg tudod szerezni ezt a területet?
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés - 1. rész
+Üzenet:
+A déli tengerek e furcsa szigetláncának elrendezése sokakat arra a feltételezésre késztetett, hogy az õsök nagy naptárként vagy más fantasztikus eszközként hozták létre.
+
+Név:
+Bevezetés - 2. rész
+Üzenet:
+Az asztrológusok között folytatott vita a szigetvilág eredetérõl olyan hevessé vált az utóbbi hetekben, hogy képesek voltak meggyõzni arról, hogy szomszédaiddal háborúba bocsátkozz. Egyértelmû, hogy az utolsóként talpon maradt nemzet írhatja a történelemkönyveket.
+
+===== Tárgyak =====
+
+===== Fájl vége =====

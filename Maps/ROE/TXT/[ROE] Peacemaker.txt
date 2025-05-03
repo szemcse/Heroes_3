@@ -1,0 +1,67 @@
+===== Térkép neve =====
+Békeharcos
+
+===== Térkép leírása =====
+A tündék városa, Sharath ellenségessé vált a közeli hadurak számára a hat hónapig húzódó vita után. Sharathot el kell foglalni, hogy a vitának vége legyen.   
+
+===== Események =====
+
+Név:
+Szigeti pletykák
+Szöveg:
+A szigeteken van a kulcsa a tündék védelmének felszámolásának.
+
+Név:
+Orkok
+Szöveg:
+Az erdõben orkok vannak, akik csatlakoznának hozzád a tündék elleni harcban.
+
+===== Idõzített események =====
+
+Név:
+Tündék népének gyülekezõje.
+Üzenet:
+A tündék erõsítést kérnek, úgy becsülöd, 4 hónap múlva érkeznek meg Sharath köré a dühödt erdõtündék. Addigra Sharathot el kell foglalni.
+
+Név:
+Idegen nagyurak.
+Üzenet:
+Üzenetet küldesz a többi uraságnak, hogy talán bölcs lenne összefogni és harcolni Sharath ellen, kíváncsian várod a válaszukat.
+
+Név:
+Válasz.
+Üzenet:
+A többi uraság válasza nem túl lelkes, mindannyian úgy érzik, hogy le tudják gyõzni egymást is és akár a tündéket is.  Hát úgy tûnik, így magadra maradtál.
+
+Név:
+Extra nyersanyagok.
+Üzenet:
+A tengeren túli gazdag mecénások aranyat küldenek neked, hogy segítsenek az ügyedben.
+
+===== Tárgyak =====
+
+(34, 37, 0) ***Rampart***
+Név:
+Sharath
+
+(8, 27, 0) ***Palack-posta***
+Üzenet:
+A sziget a kulcs.
+
+(69, 57, 0) ***Palack-posta***
+Üzenet:
+A sziget a kulcs.
+
+(24, 45, 0) ***Ork***
+Üzenet:
+Az orkok lelkesen csatlakoznak hozzád a tündék ellen.
+
+(42, 25, 0) ***Ork***
+Üzenet:
+Az orkok lelkesen csatlakoznak hozzád a tündék ellen.
+
+(49, 35, 0) ***Ork***
+Üzenet:
+Az orkok lelkesen csatlakoznak hozzád a tündék ellen.
+
+===== Fájl vége =====

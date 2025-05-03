@@ -1,0 +1,108 @@
+===== Térkép neve =====
+Árnyékos völgyek
+
+===== Térkép leírása =====
+A te völgyed túl kicsi egy ilyen ambiciózus embernek, mint amilyen te vagy.  Szerencsére a szomszédaid földjeinek elfoglalásával megfelelõen bõvítheted a birtokodat. Miután elpusztítottad az összes szomszédodat a völgyben, foglalkozhatsz a hegyekben lakó jómadarakkal is.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Kémeid azt mondják, hogy szomszédaid összeesküvést szõnek ellened. Szerencsédre még csak a tervezés fázisában vannak. Számukra rossz hír viszont, hogy seregeid még ma elindulnak.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(62, 65, 0) ***Tower***
+
+Idõzített események:
+
+Név:
+Építsünk Városházát
+Üzenet:
+
+
+Név:
+Építsünk Citadellát
+Üzenet:
+
+
+Név:
+Extra jövedelem
+Üzenet:
+
+
+(12, 7, 0) ***Tower***
+
+Idõzített események:
+
+Név:
+Építsünk Városházát
+Üzenet:
+
+
+Név:
+Építsünk Citadellát
+Üzenet:
+
+
+Név:
+Extra jövedelem
+Üzenet:
+
+
+(22, 31, 0) ***Jel***
+Üzenet:
+Szent föld
+
+(23, 31, 0) ***Esemény***
+Üzenet:
+A földszellemek segítenek az ügyedben... egy bizonyos árért cserébe.
+
+(48, 41, 0) ***Jel***
+Üzenet:
+Lélektelen föld
+
+(47, 41, 0) ***Esemény***
+Üzenet:
+Az elkárhozottak szellemei segítik az ügyedet... egy bizonyos árért cserébe.
+
+(57, 7, 0) ***Jel***
+Üzenet:
+Fortyogó föld
+
+(58, 7, 0) ***Esemény***
+Üzenet:
+A tûz és forróság szelleme azzal szórakoztatják magukat, hogy segítik az ügyedet... egy kis díj ellenében.
+
+(19, 71, 0) ***Jel***
+Üzenet:
+Megfulladtak földje
+
+(18, 71, 0) ***Esemény***
+Üzenet:
+A megfulladtak szellemei azzal szórakoztatják magukat, hogy segítik az ügyedet... egy kis díjért.
+
+(11, 14, 1) ***Tower***
+
+Idõzített események:
+
+Név:
+Extra jövedelem
+Üzenet:
+
+
+(59, 60, 1) ***Tower***
+
+Idõzített események:
+
+Név:
+Extra jövedelem
+Üzenet:
+
+
+===== Fájl vége =====

@@ -1,0 +1,35 @@
+===== Térkép neve =====
+Kalózok!
+
+===== Térkép leírása =====
+A Jólét tengerén vannak olyan szigetek, amelyek néhány gonosz kalóznak adnak otthont. Egy kisebb hadsereggel azért küldtek ide, hogy elfoglaljátok az egyik kastélyt, és bázist hozzatok létre, amellyel megtisztíthatjátok a vidéket ezektõl az átkozott kalózoktól.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetõ
+Üzenet:
+A Jólét tengerén egy kalózcsoport a hajózási útvonalakat gyötri.  Egy kisebb hadsereget kaptatok, hogy elfoglaljátok az északnyugati szigetet. Onnan megtisztíthatjátok ezt a szigetláncot ezektõl az átkozott kalózoktól. Sok szerencsét!
+
+Név:
+Ellátmányok
+Üzenet:
+Egy hajó a szárazföldrõl hozott ellátmányt.
+
+===== Tárgyak =====
+
+(5, 22, 0) ***Jel***
+Üzenet:
+Elysium városa északra fekszik innen.
+
+(29, 14, 0) ***Esemény***
+Üzenet:
+A parton több apró kavicsot is elrejtettek, amelyek úgy néznek ki, mint a régi ékszerekbõl lenének kiszedve. Leporolva õket, értékesnek tûnnek.
+
+(5, 4, 0) ***Véletlenszerû város***
+Név:
+Elysium
+
+===== Fájl vége =====

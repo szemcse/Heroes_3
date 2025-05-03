@@ -1,0 +1,56 @@
+===== Térkép neve =====
+Xathras jutalma
+
+===== Térkép leírása =====
+Xathras legendás barlangvárosában a Grált keresik. A keresés felgyorsítása érdekében Xathras tanácsa mesés jutalmat ajánl fel annak, aki elhozza a Grált a városukba.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1. rész
+Üzenet:
+Áhhh, semmi sem képes úgy felpezsdíteni a vért, mint egy kis pénzbeli jutalom. Máig nem is tudtad biztosan, hogy létezik Xathras, de most itt van a kezedben a levél, benne Xian, a Xathrasi Nagyúr kézjegye, és ajánlata, miszerint bárkinek, aki elviszi városába a Grált, EGY MILLIÓ arany üti a markát.
+
+Név:
+Bevezetés 2. rész
+Üzenet:
+Miközben leülsz reggelizni, egy tanácsadó közeledik hírekkel. Úgy tûnik, hogy a levelet, amelyet kaptatok, a többi országba is elküldték. Ugyanazzal az ajánlattal, így a többi vezetõ valószínûleg éppen most mozgósítja erõit. Mások is keresni fogják a Grált!
+
+Név:
+Figyelmeztetés!
+Üzenet:
+Az a hír járja, hogy Xathras vezetõi megpróbálnak megölni minden hõst, aki erre jár, abban a reményben, hogy elõbb találják meg a Grált, és így elkerülhetik a jutalom kifizetését!
+
+===== Tárgyak =====
+
+(61, 92, 0) ***Palack-posta***
+Üzenet:
+Az örvények nem biztonságosak, kerüld, el õket, ha lehet!
+
+(60, 14, 0) ***Jel***
+Üzenet:
+Trevor kalózkincse... a birtokháborítás tilos!
+
+(5, 105, 1) ***Dungeon***
+Név:
+Xathras
+
+(86, 25, 1) ***Dungeon***
+Név:
+Sarhtax
+
+(94, 68, 1) ***Jel***
+Üzenet:
+Ismeretlenek sírja - Ne nyúlj hozzá!
+
+(98, 70, 1) ***Esemény***
+Üzenet:
+A múlt szellemei feltámadnak a szarkofágból és támadnak!
+
+(97, 68, 1) ***Esemény***
+Üzenet:
+A holtak szellemei feltámadnak és megtámadnak!
+
+===== Fájl vége =====

@@ -1,0 +1,18 @@
+===== Térkép neve =====
+A Grál keresése
+
+===== Térkép leírása =====
+Valahol a környéken elrejtették a Grált. Az a feladatod, hogy megtaláld és visszaszerezd. Légy óvatos, mivel mások is keresik, akik ellenséges szándékúak.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Minden kutatást elvégeztek, minden szöveget áttanulmányoztak, minden történetet ellenõriztek, és a tanácsadóid arra a következtetésre jutottak, hogy a Grál EZEN a területen található. Találd meg, és hozd el bármelyik városba, amelyet te irányítasz. Nem vallhatsz kudarcot!
+
+===== Tárgyak =====
+
+===== Fájl vége =====

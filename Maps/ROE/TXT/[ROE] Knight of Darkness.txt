@@ -1,0 +1,18 @@
+===== Térkép neve =====
+A sötétség lovagja
+
+===== Térkép leírása =====
+Egy rettenetes nekromanta uralja ezt a földet, és a Királynõ téged bízott meg az elpusztításával.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Egy szörnyû nekromanta terrorizálja ezt a vidéket.  A Királynõ téged bízott meg a veszély elhárításával.  Hatalmas ereje van, ezért gondosan kell összeállítanod a seregedet.
+
+===== Tárgyak =====
+
+===== Fájl vége =====

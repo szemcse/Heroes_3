@@ -1,0 +1,53 @@
+===== Térkép neve =====
+A háború szárnyai
+
+===== Térkép leírása =====
+Ámokfutásba kezdtek a griffek. Úgy tûnik, a Griff Király azt tervezi, hogy átveszi a hatalmat a világ felett.. Meg kell mutatnod neki, hogy ez így nem történhet meg.
+
+===== Események =====
+
+Név:
+Király
+Szöveg:
+Valamikor a Griff Király bölcs és jó volt. Akkoriban griffjei e föld legjelentõsebb védelmét képviselték.
+
+Név:
+Boszorkány
+Szöveg:
+A kastély szolgái elmondták, hogy a Griff Király néhány évvel ezelõtt szeretõje lett. Azt beszélték, hogy varázslónõ volt.
+
+Név:
+Méreg
+Szöveg:
+A griffek olyan hirtelen kezdték meg támadásaikat, hogy gyanús volt, talán megbûvölték, vagy megmérgezték a királyt.
+
+===== Idõzített események =====
+
+Név:
+RABLÓK!
+Üzenet:
+Griffek szállnak alá az égbõl és fosztják ki nyersanyagraktáraidat. Elrepülnek, mielõtt megtámadhatnád õket.
+
+===== Tárgyak =====
+
+(31, 7, 0) ***Griff***
+Üzenet:
+Látod a griffeket, amint az otthonuk körül repkednek.  Kiszúrnak téged és lecsapnak rád.
+
+(66, 36, 0) ***Castle***
+Név:
+Griff Király
+
+Druida látogatása:
+Név:
+Griff Király
+
+(48, 53, 0) ***Esemény***
+Üzenet:
+A keskeny földsávot számos griff õriz. Figyelmeztetnek, hogy tartsd magad távol a királyuk otthonától.
+
+(53, 58, 0) ***Esemény***
+Üzenet:
+Ahogy egy kanyarhoz közelítesz, több griff tûnik fel. Dühösen rikoltoznak: "Hogy merészelsz betörni földjeinkre!?" Elõrenyújtott karmokkal zuhannak feléd.
+
+===== Fájl vége =====

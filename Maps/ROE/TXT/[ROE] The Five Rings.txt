@@ -1,0 +1,103 @@
+===== Térkép neve =====
+Az öt gyûrûi
+
+===== Térkép leírása =====
+Az Öt Elemi Nagyúr a mi világunkat választotta új otthonául, hogy a saját képére formálja azt át. Mindegyikükkel egymás után szembe kell szállnod, hogy megállítsd õket.
+
+===== Események =====
+
+Név:
+Víz Kötete
+Szöveg:
+A Világok közötti átjárótól délkeletre, a Víz gyûrûjében egy elképzelhetetlen mágikus erejû kötet található.
+
+Név:
+Tûz Kötete
+Szöveg:
+A Tûzgyûrû közepén, a Démon kapujától északra található egy könyv, amely a misztikus láng titkait tartalmazza.
+
+Név:
+Föld Kötete
+Szöveg:
+A Föld gyûrûjének északi sztyeppéin egy szélmalomtól délre egy Gaea csókja által megáldott varázslatok kötete van eltemetve.
+
+Név:
+Levegõ Kötete
+Szöveg:
+A hárpia padlástól nyugatra, a Levegõ gyûrûjében, egy hatalmas hegycsúcs tetején pihen egy könyv, amely a világ minden tájáról összegyûjtött levegõmágusok bölcsességét tartalmazza.
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Egy hatalmas feladat elõtt állsz. A természet öt elemének urai ezt a világot választották további lakhelyükül, hogy a saját képükre formálja azt át. Csak, ha áthaladsz a létezés öt elemi gyûrûjén: Víz, Tûz, Föld, Levegõ és Üresség, lehetsz képes legyõzni ezeket az alattomos urakat.
+
+Név:
+Kötetek elrejtve
+Üzenet:
+Egy mágusnak sikerült megszöknie és elrejtenie az elemi erõk varázsköteteit valahol a természet erõinek urai elõl. Mivel jól elrejtette, ezért az ösvénytõl eltérõ helyeken keresdi õket. Mindenesetre amíg el van rejtve, nagy segítséget jelent céljaid elérésében.
+
+===== Tárgyak =====
+
+(35, 29, 0) ***Esemény***
+Üzenet:
+A sziklák közt számos keselyûtojás van a fészkekben. Megpróbálod megszerezni egy részüket, mert tudod, hogy értékesek. Azonban... az anyakeselyû visszatért társai kíséretében.
+
+(63, 13, 0) ***Esemény***
+Üzenet:
+A part mentén több Víz elementál rejtõzik. Úgy tûnik, hogy valamit õriznek.
+
+(38, 74, 0) ***Esemény***
+Üzenet:
+A hegyek közt többFöld elementál is rejtõzik. Valamit õrizhetnek.
+
+(23, 43, 0) ***Esemény***
+Üzenet:
+Számos Lég elementál kering a sziklaormok környékén. Biztos, hogy õriznek valamit.
+
+(54, 56, 0) ***Esemény***
+Üzenet:
+A kiégett fák között több Tûz elementál rejtõzik. Úgy tûnik, hogy valamit õriznek.
+
+(53, 54, 1) ***Jel***
+Üzenet:
+Az elemi urak raktárai.  Tilos a bemenet!
+
+(64, 42, 1) ***Esemény***
+Üzenet:
+Félig a földbe temetve egy kis szobor.  Amikor megérinted, furcsa érzés fog el.  Hirtelen kitisztul az elméd.
+
+(34, 41, 1) ***Esemény***
+Üzenet:
+Ha ezeknek az összefolyásoknak a középpontjában állsz, misztikus energiák forgószele keletkezik, amelyek egyszerre feltöltik és szétszaggatják az embert.  Ezután olyan gyorsan eloszlik, ahogyan megjelent.
+
+(24, 47, 1) ***Esemény***
+Üzenet:
+Egy rég halott harcos csontjai morzsolódnak szét az ujjaid érintésére, és egy köpenyt tárnak eléd, amely mintha bizseregne a kezedben.
+
+(75, 57, 1) ***Esemény***
+Üzenet:
+Egy öregember rejõzködik a fák között, nagyon megtörtnek néz ki. Segítesz rajta és vizet adsz neki. Megköszöni a segítséget, de már nem bírja tovább, meghal. Épp amikor meghal, megérint téged, és enyhe bizsergést érzel.
+
+(44, 46, 1) ***Esemény***
+Üzenet:
+A bozótosban néhány sebesült barát rejtõzik.  Segítesz nekik és õk viszonzásul a sebeik ellátásáért csatlakoznak hozzád.
+
+(45, 56, 1) ***Esemény***
+Üzenet:
+Valami fényesen megakad a szemed.  Túl késõn veszed észre, hogy a fényes csillogás nem az aranytól származik, hanem az ogrék fegyvereitõl! 
+
+(61, 74, 1) ***Esemény***
+Üzenet:
+Egy mély hang szólal meg. "Bemocskoltad az elemi erõk urainak belsõ szentélyét! Pokolba veled!"
+
+(75, 24, 1) ***Esemény***
+Üzenet:
+Ahogy közeledsz a gnoll kunyhóhoz, egy csapat lesbõl támad rád.
+
+(45, 37, 1) ***Esemény***
+Üzenet:
+Gondosan elrejtve egy kis kardot találsz.  Úgy tûnik, energiával van feltöltve.
+
+===== Fájl vége =====

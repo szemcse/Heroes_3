@@ -1,0 +1,180 @@
+===== Térkép neve =====
+Versengés Ardintinnyért
+
+===== Térkép leírása =====
+Te és négy másik nagyúr a Medallion-öbölre, egy jövedelmezõ kereskedelmi útvonalra áhítoztok.  Az ellenfeleid elõtt vagy hat hónap lejárta elõtt át kell venned az irányítást Ardintinny városán, amely a Medallion-öblöt ellenõrzõ város.
+
+===== Események =====
+
+Név:
+Kapuk
+Szöveg:
+A földalatti világba két lejárat létezik
+
+Név:
+Sziget
+Szöveg:
+Egy csak monolitokkal megközelíthetõ sziget az út Ardintinnybe.
+
+===== Idõzített események =====
+
+Név:
+Lázadás!
+Üzenet:
+Az Ardintinny lakossága fellázadt, és felakasztották Thormis nagyurat. Most, hogy a Medallion-öbölbõl áradó vagyon felett rendelkeznek, független államot alapítottak. Magdor király elrendelte, hogy az a nagyúr, aki vissza tudja foglalni a várost, az irányíthatja a Medallion-öblöt. 
+
+Név:
+A küldetés
+Üzenet:
+Te és négy másik nagyúr azért küzdötök, hogy elsõként érjétek el Ardintinny városát. Kémeid szerint Ardintinny körül nagy hegyvonulatok vannak, sûrû erdõvel borítva azt.
+
+Név:
+Felderítés
+Üzenet:
+Tanácsadód azt javasolja, hogy gyorsan át kellene tekinteni a hazai helyzetet. Az utóbbi lázadások miatt visszaesett a bányák termelése. Valakit oda kell rendelned a munkások mellé, hogy újra teljes erõbõl dolgozzanak. Mellesleg talán további seregeket toborozhatsz az ardintinnyei kirándulásodhoz.
+
+Név:
+Fertõzések
+Üzenet:
+Jelentések érkeznek egy fertõzésrõl, amit rovarok okoznak! Míg távol voltál a kastélytól, a megerõsödött példányok ellepték a földjeid. Milyen durva!
+
+Név:
+Felderítõk
+Üzenet:
+Gyorsan kiküldöd a felderítõket, hogy többet tudj meg ezekrõl a monolitokról. Mindig jó tudni, hogy szükséged van-e egy szûz leányra, egy borjúra vagy valami másra ahhoz, hogy hozzáférj a hatalmukhoz. El kell költened valamennyit a forrásaidból, hogy finanszírozni tudd ezt a kis mûveletet.
+
+Név:
+Tengerre
+Üzenet:
+A lehetséges kincsek után kutatva kiküldöd hajóidat a partok mentén. Lelki szemeid elõtt arannyal rogyásig megrakott hajók úsznak el. Rögtön el is rendeled 6 új hajó elkészítését.
+
+Név:
+Hajóroncs
+Üzenet:
+Egy erõsen megrongálódott hajó úszik be a kikötõbe. Komoly viharba keveredett a flottád, a hajótestek a zátonyokhoz csapódtak. A legénység jelentése szerint egy furcsa örvény hozta õket a Medallion-öbölbe. Sajnos nincs hely az öbölben a partraszálláshoz.
+
+Név:
+Hol vannak?
+Üzenet:
+A felderítõid még mindig nem tértek vissza, pedig a monolitoktól a visszaút nem tart ilyen sokáig. Mindössze annyi volt a feladatuk, hogy kiderítsék, mi kell ahhoz, hogy a monolitokon át lehessen haladni. Most vajon hol lehetnek?
+
+Név:
+Bármelyik nap...
+Üzenet:
+A felderítõk most már bármelyik nap felbukkanhatnak...
+
+Név:
+Jó hírek a tengerrõl
+Üzenet:
+Még egy szerencsétlenül járt hajó tért vissza a flottádból, ám ez értékes kristályokkal tele érkezett. Képes volt átkelni a zátonyokon (épphogy) és hazatérni. Egy kisméretû szigetre bukkant a legénység, ami északnyugatra van és kristályban gazdag. A helyiekkel azonban nem maradtak beszélgetni errõl.
+
+Név:
+Még mindig semmi hír
+Üzenet:
+A felderítõid visszhangzó csendje miatt nem tudsz nyugodtan pihenni éjszaka.
+
+Név:
+Hazatérés
+Üzenet:
+Egy felderítõd végre hazaért. Sajnos elvesztette csapatai nagy részét, és az összes pénzt, amit adtál neki. "Beutaztuk a többi birodalmat, de egyszer sem jutottunk el Ardintinnybe. Puszta szerencse volt, hogy mi is haza tudtunk jönni." Ez nem az a jó hír, amit reméltél.
+
+Név:
+Jó hírek
+Üzenet:
+Egy másik és feltehetõen az utolsó felderítõd tért vissza a hosszú útról. Neki sikerült Ardintinnyt megtalálni! Csak szerencsével lehet a sziget közepébe eljutni, amin keresztül aztán Ardintinny is megközelíthetõ. Így most már számításba kell venni, hogy az út nagyon nehéz és veszélyes lesz.
+
+===== Tárgyak =====
+
+(33, 42, 0) ***Jel***
+Üzenet:
+Vége az útnak.
+
+(50, 28, 0) ***Esemény***
+Üzenet:
+Egy fázó öregasszonyt felmelegítesz, aki megáld érte téged, hogy szerencsét hozzon a következõ csatádhoz.
+
+(52, 23, 0) ***Tower***
+Név:
+Masseron
+
+(107, 66, 0) ***Inferno***
+Név:
+Vinsen
+
+(100, 61, 0) ***Jel***
+Üzenet:
+Vigyázz a közeli veszélyek várhatóak!
+
+(100, 60, 0) ***Esemény***
+Üzenet:
+Az otthontól való távolság miatt a katonáknak nagyon hiányoznak már a családtagjaik.
+
+(100, 62, 0) ***Esemény***
+Üzenet:
+Banditák egy csoportja ront elõ a semmibõl és aranyat, illetve drágaköveket lopnak tõled!
+
+(101, 61, 0) ***Esemény***
+Üzenet:
+Elvesztetted a szerencsét hozó nyúllábadat!
+
+(99, 62, 0) ***Esemény***
+Üzenet:
+Egy õsrégi temetkezési helyen haladtok át éppen a lovaitokkal. A harci kedv és a hangulat megromlik, egy szent helyet gyaláztatok meg ugyanis.
+
+(113, 124, 0) ***Fortress***
+Név:
+Seranil
+
+(79, 60, 0) ***Palack-posta***
+Üzenet:
+
+
+(25, 113, 0) ***Stronghold***
+Név:
+Juntar
+
+(24, 63, 0) ***Castle***
+Név:
+Aberworth
+
+(84, 41, 0) ***Rampart***
+Név:
+Ardintinny
+
+(13, 34, 0) ***Palack-posta***
+Üzenet:
+Óvakodjatok a szikláktól!
+
+(72, 110, 0) ***Misztikus Varázsgömb***
+Üzenet:
+Egy csodás gömböt találsz. Az ereje elég messzire sugárzik ahhoz, hogy érezzétek még távolabról is. Sajnos 5 arkangyal õrzi, akik valamilyen játékban labdaként használják. Megpróbálsz megküzdeni velük érte?
+
+(87, 22, 0) ***Esemény***
+Üzenet:
+A mestered mindig azt mondta: "Mielõtt ismeretlen területekre utazol, bölcs dolog jól felkészülni a hosszú, fáradságos csaták lehetõségére." A tapasztalataid alapján megtanultad, hogy igaza volt. Talán a legjobb, ha a biztonság kedvéért kétszer is ellenõrzöd a csapataidat.
+
+(104, 49, 0) ***Esemény***
+Üzenet:
+A mestered mindig azt mondta: "Mielõtt ismeretlen területekre utazol, bölcs dolog jól felkészülni a hosszú, fáradságos csaták lehetõségére." Az volt a rossz szokása, hogy igaza volt. Lehet, hogy bölcs dolog kétszer is ellenõrizni a csapatod felkészültségét.
+
+(94, 115, 0) ***Esemény***
+Üzenet:
+Az öreg mestered azt szokta mondani: "A legokosabb, ha teljesen felkészítjük a hadseregünket. Semmit sem számít, hány csatát nyertünk, ha a háborút figyelmetlenségünk miatt veszítjük el." Talán bölcs ötlet lehet, ha hallgatsz a szavaira, és kétszer is ellenõrzöd a csapataidat.
+
+(43, 110, 0) ***Esemény***
+Üzenet:
+Apád mindig azt mondta neked, "Az ismeretlenbe csak akkor lépj be, ha már felkészültél." Sokáig élt, többnyire azért, mert mindig számított a váratlan dolgokra is. Nem lenne butaság, ha megfogadnád tanácsát.
+
+(60, 97, 0) ***Esemény***
+Üzenet:
+A mestered mindig azt mondta: "Mielõtt ismeretlen területekre utazol, bölcs dolog jól felkészülni a hosszú, fáradságos csaták lehetõségére." Az volt a rossz szokása, hogy igaza volt. Lehet, hogy bölcs dolog kétszer is ellenõrizni a csapatod felkészültségét.
+
+(93, 128, 1) ***Esemény***
+Üzenet:
+A csapataidnak hiányzik a napfény és a szabad levegõ. Kezdik elveszíteni a reményt, hogy valaha is újra a föld felszínére kerülhetnek.
+
+(92, 128, 1) ***Esemény***
+Üzenet:
+Csapataid már kezdik hiányolni a napfényt, és kezdik elveszíteni a reményt.
+
+===== Fájl vége =====

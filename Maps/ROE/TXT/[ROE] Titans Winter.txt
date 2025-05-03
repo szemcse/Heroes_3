@@ -1,0 +1,17 @@
+===== Térkép neve =====
+A Titánok tele
+
+===== Térkép leírása =====
+Egy borzalmas földrengés szaggatta darabokra a földet. Sok különbözõ népcsoport alakult ki. Itt az ideje, hogy újraegyesítsétek a Királyságot, de ezúttal a TE zászlód alatt!
+
+===== Események =====
+
+===== Idõzített események =====
+
+===== Tárgyak =====
+
+(71, 11, 0) ***Pandora Szelencéje***
+Üzenet:
+A szelence kinyitásakor egy csodálatos páncélzatot találsz. Úgy döntesz, hogy megtartod, de a rossz lelkiismereted arra kényszerít, hogy hagyj egy kis aranyat az elõzõ, szerencsétlen tulajdonosnak.
+
+===== Fájl vége =====

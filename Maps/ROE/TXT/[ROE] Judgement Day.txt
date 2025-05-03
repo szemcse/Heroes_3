@@ -1,0 +1,31 @@
+===== Térkép neve =====
+Az ítélet napja
+
+===== Térkép leírása =====
+A legenda szerint az Igazság Pallosa valahol ezekben a barlangokban nyugszik.  Három Nagyúr megfogadta, hogy megtalálja, mert aki e Pallost uralja, az mindent ural.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Valahol ezekben a barlangokban van elrejtve az Igazság Pallosa.  A három legerõsebb Nagyúr gyûlt össze, hogy megtalálja, mert aki e Pallost uralja, az mindent ural.
+
+Név:
+Heti adó
+Üzenet:
+Az adógyûjtõd büszkén jelenti be, hogy a heti beszedett adóid megérkeztek.
+
+===== Tárgyak =====
+
+(1, 16, 0) ***Igazság Pallosa***
+Üzenet:
+A tiszta obszidiánból készült oltáron egy, a legfinomabb acélból kovácsolt Pallos fekszik.  Meg akarod ragadni a csillogó, ékkövekkel kirakott markolatát?
+
+(1, 17, 0) ***Véletlenszerû lény 7***
+Üzenet:
+Ezek az õrök kapták azt az óriási feladatot, hogy vigyázzanak az Igazság Pallosára. Évszázadokon át álltak õrt a penge felett. Gyõzd le õket, és a pallos a tiéd.
+
+===== Fájl vége =====

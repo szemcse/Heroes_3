@@ -1,0 +1,84 @@
+===== Térkép neve =====
+Noé bárkája
+
+===== Térkép leírása =====
+Közeleg a nagy vízözön, és csak úgy élheted túl, ha minden lény-lakásból kettõt birtokolsz.
+
+===== Események =====
+
+Név:
+Szörnycsoportok.
+Szöveg:
+Pár jelentõs szörnycsoport szívesen csatlakozik bármelyik hõshöz, aki hajlandó õket magával vinni.
+
+Név:
+Földalatt.
+Szöveg:
+Földalatti folyosók kötik össze a lény-lakásokat, de légy óvatos - hemzsegnek ott a szörnyek!
+
+===== Idõzített események =====
+
+Név:
+Kezdõ információk.
+Üzenet:
+A felderítõk jelentették, hogy földalatti folyosók is összekötik azokat a területeket, amelyeket el kell érnünk, talán ezek segítségével hamarabb átvehetnénk az irányítást a lények lakhelyei felett.
+
+===== Tárgyak =====
+
+(83, 66, 0) ***Esemény***
+Üzenet:
+Egy ogrékkel teli kis tisztásra bukkansz. Úgy tûnik, unatkoznak... talán csatlakoznak hozzád?
+
+(30, 88, 0) ***Esemény***
+Üzenet:
+A területet lakó sárkánygyíkok legyengültek, és nem állnak harcra készen. Talán ha megeteted õket, csatlakoznnának hozzád?
+
+(77, 26, 0) ***Esemény***
+Üzenet:
+A farkaslovasok elveszettnek tûnnek, és útmutatásra várnak.  Talán csatlakoznának egy erõs vezetõhöz?
+
+(47, 22, 0) ***Esemény***
+Üzenet:
+A torony körül lévõ mágusok jobban szeretnek tanulni, mint harcolni veled.
+
+(21, 35, 0) ***Esemény***
+Üzenet:
+Ezek a barátok talán csatlakoznának az ügyedhez. Beszélned kellene velük.
+
+(56, 83, 0) ***Jel***
+Üzenet:
+A céh pénze. Ne nyúlj hozzá, mi vagy te, egy tolvaj?!
+
+(8, 24, 1) ***Esemény***
+Üzenet:
+A medúzák óvatosan méregetnek, de úgy tûnik, hajlandóak megbeszélni a feltételeiket.
+
+(4, 65, 1) ***Esemény***
+Üzenet:
+A vámpírok felpuffadtnak tûnnek, mintha nemrég táplálkoztak volna.  Talán ha beszélsz velük, csatlakoznak a seregedhez.
+
+(102, 100, 1) ***Esemény***
+Üzenet:
+Ezeket a hidrákat valaki a padlóhoz láncolta. Ha eloldozod õket, talán csatlakoznak hozzád.
+
+(24, 12, 1) ***Esemény***
+Üzenet:
+Ezek a gnollok inkább csak piti tolvajoknak néznek ki. Talán csatlakoznak hozzád némi arany reményében.
+
+(5, 102, 1) ***Esemény***
+Üzenet:
+Ezek az ördögfiókák jobban szeretnének játszani, mint harcolni.
+
+(102, 52, 1) ***Esemény***
+Üzenet:
+Úgy tûnik, ezek a törpék kibányászták a térség összes aranyát. Talán csatlakoznak hozzád, hogy részesüljenek a zsákmányodból.
+
+(51, 99, 1) ***Esemény***
+Üzenet:
+A kutyák ebben a barlangban inkább játékosnak tûnnek, mint bármi másnak.
+
+(95, 93, 1) ***Jel***
+Üzenet:
+Csontváz csatamezõ, légy óvatos!
+
+===== Fájl vége =====

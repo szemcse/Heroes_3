@@ -1,0 +1,76 @@
+===== Térkép neve =====
+A káosz birodalma
+
+===== Térkép leírása =====
+A Jó el akarja pusztítani a Gonoszt, a Semlegesek csak maguknak akarnak mindent, a Gonosz pedig el akarja pusztítani a világot!  Persze mindenkinek megvan a saját terve, hogy hogyan valósítsa meg fondorlatos terveit...
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Mindegyik jó szomszédodnak megvannak a saját tervei arra vonatkozóan, hogyan lehet elpusztítani a Gonoszt.  A véleményetek annyira eltér egymástól, hogy a szövetségeseid között harcok törtek ki.  Mutasd meg nekik, ki a fõnök, aztán szabadítsd meg a világot a Gonosztól!
+
+Név:
+1. nap
+Üzenet:
+Azt hitted, hogy találtál egy bajtársat, aki segít meghódítani a világ gazdagságát, de úgy tûnik, õ mindent meg akar tartani magának.  Tanítsd móresre, aztán indulj fosztogatni!
+
+Név:
+1. nap
+Üzenet:
+Sok éven át vitatkoztatok a két aljas szomszédoddal azon, hogyan hódítsátok meg a világot.  Mivel nyilvánvaló, hogy soha nem juttok közös nevezõre, úgy döntöttél, hogy egyszerûen kiiktatod a szomszédaidat, és elindítod a világ meghódításának tervét!
+
+===== Tárgyak =====
+
+(20, 47, 0) ***Jel***
+Üzenet:
+
+
+(9, 7, 0) ***Jel***
+Üzenet:
+A fagyos földeken fekszik az alvilág kapuja.  Éljenek a Fény erõi!
+
+(66, 7, 0) ***Jel***
+Üzenet:
+
+
+(48, 3, 0) ***Véletlenszerû lény 3***
+Üzenet:
+Látod, hogy egy csillogó nyaklánccal játszanak, és úgy döntesz, hogy magadnak akarod.
+
+(57, 62, 0) ***Jel***
+Üzenet:
+Errefelé a jobb csapatokért.
+
+(46, 34, 1) ***Jel***
+Üzenet:
+A birtokháborítókat azonnal megölik!
+
+(51, 65, 1) ***Jel***
+Üzenet:
+Óvakodj a bosszantó jótevõktõl.
+
+(9, 22, 1) ***Esemény***
+Üzenet:
+Hatalmas csata folyt ezen a helyen. A Jó oldal lovagja elszántan küzdött a gonosz erõk ellen, végül veszített. Utolsó leheletével megátkozta ezt a sötét helyet.  A mai napig a föld szorosan tartja magát az átokhoz.
+
+(23, 39, 1) ***Esemény***
+Üzenet:
+Ahogy belépsz erre a területre, rábukkansz arra a földre, amely ennek a mágikus zöld alvilágnak az erejét adja.  Ez Shangri-La erejének forrása.
+
+(18, 43, 1) ***Jel***
+Üzenet:
+500 arany pénzbüntetés Shangri-La bejárásáért.
+
+(18, 38, 1) ***Esemény***
+Üzenet:
+Egy kék ruhás tünde bukkan elõ a bokrok közül, miután letörlöd a beleket a fegyveredrõl. Komoran ráncolja a homlokát, és azt mondja: "Megmondtam, hogy ne szemeteljetek Shangri-Lában.  Elég sok munka kell ahhoz, hogy ez a terület szép maradjon." Ez egy 500 aranyas bírság lesz! Szégyenkezve fizetsz!
+
+(23, 43, 1) ***Jel***
+Üzenet:
+Isten hozott Shangri-La-ban.
+
+===== Fájl vége =====

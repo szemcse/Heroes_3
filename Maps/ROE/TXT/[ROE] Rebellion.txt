@@ -1,0 +1,43 @@
+===== Térkép neve =====
+Lázadás
+
+===== Térkép leírása =====
+A parasztok fellázadnak, éppen akkor, amikor szükség van rájuk a háborúhoz.  A béke egyetlen reménye a Grál megtalálásában rejlik.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés 1. rész
+Üzenet:
+Miközben te és a két szomszédod háborúra készültök, mindhárom nemzet lakossága lázadásba kezd, mivel semmi mást nem kívánnak, csak békés, harmonikus és szeretetteljes életet.  Ezek a felkelések valószínûleg addig folytatódnak, amíg az országot egyetlen zászló alatt nem egyesíti valaki.
+
+Név:
+Bevezetés 2. rész
+Üzenet:
+Pleasanton városa mindhárom nemzet találkozásánál fekszik. Meg vagy gyõzõdve arról, hogy az egyetlen módja az ország és az emberek egyesítésének az, ha nem csak elfoglalod és megtartod a várost, hanem a Grált is tartósan ott helyezed el.
+
+Név:
+Bevezetés 3. rész
+Üzenet:
+A nehézség természetesen abban áll, hogy ellenfeleid elõtt kell megtalálnod a Grált. Találd meg a Grált, és hozd el elsõként Pleasantonba, és három nemzet népe fogja ünnepelni a nevedet az elkövetkezõ generációkban.
+
+===== Tárgyak =====
+
+(36, 35, 0) ***Castle***
+Név:
+Pleasanton
+
+Idõzített események:
+
+Név:
+Lázadás!
+Üzenet:
+A város lakossága elégedetlen az Ön nyilvánvaló vezetõi képességének hiányával. Jelentõs idõt és erõforrásokat kell fordítanod a lázadó polgárok megnyugtatására.
+
+(58, 48, 0) ***Esemény***
+Üzenet:
+Ezek a kietlen síkságok otthonul szolgálnak szívós és kemény barbároknak. Azoknak a teteme, akik megpróbálták meghódítani ezt a királyságot, figyelmeztetésül áll az újabb hódítók elõtt.
+
+===== Fájl vége =====

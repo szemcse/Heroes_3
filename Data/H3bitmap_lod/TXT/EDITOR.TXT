@@ -234,7 +234,7 @@ Egy örvény esetén a hajóknak nem tudnak eljutni a kijárathoz. Ez esetben az örvé
 Vigyázz arra, hogy az összes objektum elérhetõ legyen a térképen.
 "	
 OK	
-Elvet	
+Mégse	
 Segítség	
 Általános	
 Nyeremény	

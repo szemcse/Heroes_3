@@ -1,0 +1,18 @@
+===== Térkép neve =====
+Nyilvánvaló végzet 
+
+===== Térkép leírása =====
+A szomszédos területek egyre zsúfoltabbá váltak.  Csak egy királyság alkalmas arra, hogy uralkodjon a többin.  Itt az ideje, hogy megmutasd a többi kisnemesnek, hogy a te nyilvánvaló végzeted, hogy uralkodj ezen a földön.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Többé nem bánsz kesztyûs kézzel az ellenséggel, és megerõsítetted a helyõrségeidet. Itt az ideje kitörni és betölteni a végzetedet. Akié a nyersanyag, azé a birodalom. Csak gyõzõdj meg róla, hogy ez a valaki te vagy!
+
+===== Tárgyak =====
+
+===== Fájl vége =====

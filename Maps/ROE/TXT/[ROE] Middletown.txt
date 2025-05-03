@@ -1,0 +1,79 @@
+===== Térkép neve =====
+Középvár
+
+===== Térkép leírása =====
+Kárpátalja földje mindig is zûrzavaros volt, de amire igazán szüksége van, az egy központi helyen lévõ város, amely véget vet a káosznak.  Vedd be a középsõ várost, vagy gyõzd le az összes többi játékost, hogy megnyerd a játékot.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Carpathának erõs kézre van szüksége, hogy uralkodjanak rajta.  A gyõzelem azé a vezéré, aki elsõként foglalja el Középvárat.
+
+===== Tárgyak =====
+
+(78, 37, 0) ***Stronghold***
+
+Idõzített események:
+
+Név:
+Kompenzációs bónusz
+Üzenet:
+Kompenzációs bónusz
+
+(55, 53, 0) ***Jel***
+Üzenet:
+Üdvözöllek carpathai Középvárban!  (Vigyázz a fejedre, a város még építés alatt áll).
+
+(61, 98, 0) ***Esemény***
+Üzenet:
+Az ajtóban álló õrök belépési díjat követelnek.
+
+(26, 80, 0) ***Esemény***
+Üzenet:
+A fák mögül tömegesen ugranak elõ kalózok, és a legközelebbi azt kiáltja: "El akarják foglalni a világítótornyunkat... arrrrr". Míg támadnak, némi eltemetett kincset veszel észre a közelben.
+
+(80, 17, 0) ***Pandora Szelencéje***
+Üzenet:
+Egy vízköpõkbõl álló horda úgy tûnik, hogy egy kalózbanda maradványaiból lakmározik éppen.
+
+(86, 16, 0) ***Esemény***
+Üzenet:
+Ördögfiókák törnek a felszínre, és támadnak!
+
+(66, 27, 0) ***Jel***
+Üzenet:
+A carpathiai Hadiiskola ... diákok hozzák a személyi igazolványukat a kedvezményért.
+
+(25, 50, 0) ***Jel***
+Üzenet:
+A carpathiai Egyetemek. Az ösztöndíjakat eseti alapon ítélik oda.
+
+(3, 80, 0) ***Jel***
+Üzenet:
+Elsõ carpathiai sírja. Ne háborgassák!
+
+(54, 51, 0) ***Castle***
+Név:
+Középvár
+
+(58, 95, 0) ***Jel***
+Üzenet:
+Üdvözöljük a Carpatha Stadionban, a Carpathai Lánctalpasok otthonában.
+
+(76, 53, 1) ***Jel***
+Üzenet:
+Carpathiai bányák keletre. Kemény sisak szükséges.
+
+(21, 54, 1) ***Jel***
+Üzenet:
+Carpathiai bányák nyugatra. Kemény sisak szükséges.
+
+(47, 57, 1) ***Véletlenszerû nagyobb varázstárgy***
+Üzenet:
+Egy csoport Sárkánygyík pihen a közelben, meg akarod zavarni õket azzal, hogy elveszed a varázstárgyat?
+
+===== Fájl vége =====
