@@ -1,0 +1,20 @@
+===== Térkép neve =====
+Túl sok szörny!
+
+===== Térkép leírása =====
+A szörnyek a királyság minden városát megtámadták, ezért a király díjat ajánlott fel annak a nagyúrnak, aki minden lény élõhelyére ki tudja tûzni a zászlóját, hogy a szörnyek kénytelenek legyenek a törvények szerint élni.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Szörnyek árasztják el a környéket.  Számuk gyorsan kinövi természetes élõhelyüket, és most a városainkat megtámadva új élettereket foglalnak el.   Királyotok egymillió arany jutalmat ajánl fel annak az elsõ nagyúrnak, aki minden lény élõhelyére ki tudja tûzni a zászlaját, hogy a szörnyek a törvényeink szerint éljenek.  Három másik nagyúr is pályázik a jutalomra, de te biztos vagy benne, hogy te leszel az, aki megmenti a királyságot.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+===== Fájl vége =====

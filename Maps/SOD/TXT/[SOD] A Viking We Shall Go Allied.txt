@@ -1,0 +1,252 @@
+===== Térkép neve =====
+Elõre Vikingek! (Szöv.)
+
+===== Térkép leírása =====
+A helyszín: Európa		Az idõpont: A sötét középkor		A történet: A vikingek megkezdték portyázásaikat, miközben Európa királyai kihasználják az alkalmat, hogy földeket ragadjanak el szomszédaiktól.
+
+===== Események =====
+
+Név:
+Északi-tenger
+Szöveg:
+Az a szóbeszéd, hogy Írországtól nyugatra az Északi Tengeren egy hajótemetõ van.
+
+===== Idõzített események =====
+
+Név:
+Viking kezdés
+Üzenet:
+Te vagy a viking nemzet jarlja. Eljött a pillanat amikor forróvérûséged felülkerekedett rajtad, hogy fosztogass és zsákmányolj. Most már muszáj kifosztanod a földet és végezni az összes többi uralkodóval. Azok akik ellenállnak, legközelebb a Valhallában látnak viszont. Dicsõségére Odinnak, Mindenek Atyjának.
+
+Név:
+Francia kezdés
+Üzenet:
+A hírek szerint a vikingek megindították a rohamot a kontinens ellen. Így most kiváló lehetõség kínálkozik arra, hogy területet szerezzünk Franciaoszág számára. Mint a bosszantó spanyolok délen úgy az angolok is északnyugaton kétségtelenül megpróbálnak majd megállítani. Különösen óvatosnak kell lennünk Olaszország területeivel, nehogy felbosszantsuk a Pápát. De talán azzal, hogy elfoglaljuk a földjeiket, megmutatjuk Õeminenciájának, hogy sebezhetõ és jobban tenné, ha átenné a kereszténység központját Párizsba. Hmm... érdekes ötlet.		Dicsõség Franciaországnak!
+
+Név:
+Olasz kezdés
+Üzenet:
+A Pápa megtudta, hogy a vikingek megkezdték fosztogatásukat a partoknál, és elõrenyomulnak Oroszország felé.  Meg kell állítani ezeket a vadembereket, ezért kihirdette a Keresztes háborút, hogy elvidd nekik az Úr szavát bármilyen eszközzel ami csak szükséges. Nehéz lesz felkelteni a figyelmüket, de Õ a legmesszebbmenõkig bízik benned.		Isten vezéreljen utadon.
+
+Név:
+Spanyol kezdés
+Üzenet:
+A vikingek támadásba lendültek, és pogány szokásaikkal fenyegetik a világot. Nem engedhetjük, hogy ez megtörténjen. Ha megállítod õket és eközben sikerül területeket elfoglalnod, biztos vagyok benne, hogy a Pápát meggyõzzük arról, hogy elnézze a módszereinket, amivel megállítjuk ezeket a barbárokat. Állítsd meg a vikingeket, ha tudod, de szerezz francia földeket, ami jár nekünk kibírhatatlan magatartásukért. Spanyolok vagyunk, a föld legerõsebb nemzete!		Nekünk kell uralkodnunk!
+
+Név:
+Angol kezdés
+Üzenet:
+A fosztogatások újra megkezdõdtek. Azok a rettegett vikingek újra eljöttek, hogy kifosszák Európa partjait és ezúttal nem ülhetünk tétlenül, hogy a kizsákmányolás tovább folytatódjon. Vezesd a seregeidet és morzsold szét a viking rablókat. Az oroszok már felajánlották a segítségüket.		A francia miniszter tájékoztatott minket, hogy nem engednek angol katonát a földjükre és háborút indít, ha elhagyjuk a szigetünket. Ezt én hadüzenetnek veszem, és nem fogjuk annyiban hagyni. Sem a spanyolok sem az olaszok nem jobbak náluk. Valószínûleg kihasználják majd a helyzetet, hogy területeket szerezzenek. Védd meg Angliát és támogasd a birodalmat.		Isten óvja a Királynõt!
+
+Név:
+A Pápa áldása - Olasz, Francia és Spanyolország
+Üzenet:
+Õeminenciája, a Pápa áldását küldte rátok a legszentebb háborúban való segítségetekért.
+
+Név:
+A 13. nap
+Üzenet:
+'Ez a tizenharmadik nap, hogy a vikingek megtámadták szeretett kereszténységünket, és ez most egy igazán sötét nap. Õeminenciája, a Pápa megbetegedett és úgy néz ki, hogy senki nem tudja meggyógyítani.'		Ez rosszat jelent.
+
+Név:
+Hírek a Pápáról
+Üzenet:
+Úgy hallottam, hogy a Pápa megbetegedett és haldoklik. Ez még a megszokottnál is több ellenségeskedésre fog vezetni ellenségeink között. Ha el tudjuk foglalni Rómát , a keresztények rettegni fognak hatalmunktól és haragunktól. Hûnek kell maradnunk Odin tanításaihoz és vezetéséhez. Talán ha sikeresek leszünk, Heimdal fog üdvözölni bennünket a Hídon mikor meghalunk, finom sörrel, tisztelgéssel és megannyi gyönyörû fiatal nõvel. 
+
+Név:
+Thor dühe
+Üzenet:
+Tomboló vihar korbácsolja fel a szárazföldet és a tengert, és a sámánod azt mondja neked, hogy ez azt jelenti, hogy Thor alig várja, hogy segítsen a hódításodban.  Nyomulj elõre és szerezz hírnevet, valamint nagy dicsõséget.
+
+Név:
+Egy szörnyû vihar
+Üzenet:
+Szörnyû vihar tombol a földön, és mindenütt elpusztítja a termést.  Az éhínség elszabadul, és a halottak eltakarításának költségei csillagászati összegekbe kerülnek.  Talán maga Isten büntet minket.
+
+Név:
+A Pápa állapota rosszabbodik
+Üzenet:
+A Pápa állapota rosszabbodott, ahogy a hírnökök állították. Sötét idõket élünk.
+
+Név:
+2 hónap telt el
+Üzenet:
+Két hosszú hónapja már, hogy Õeminenciája lázas álomba merült. A kór, ami végig ellepte egész testét, azzal fenyegeti, hogy felemészti egészen és visszatér Istenhez. Eljött az idõ , hogy a Bíborosok Tanácsa összeüljön és utódot válasszon. Amint kiválasztották, mindannyiótokat értesítjük.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(8, 6, 0) ***Tower***
+Név:
+Reykjavik
+
+(84, 34, 0) ***Stronghold***
+Név:
+Oslo
+
+(20, 126, 0) ***Castle***
+Név:
+Granada
+
+(18, 97, 0) ***Castle***
+Név:
+Santiago
+
+(23, 37, 0) ***Rampart***
+Név:
+Dublin
+
+(8, 114, 0) ***Castle***
+Név:
+Liszabon
+
+(23, 111, 0) ***Castle***
+Név:
+Madrid
+
+(105, 129, 0) ***Rampart***
+Név:
+Palermo
+
+(112, 79, 0) ***Castle***
+Név:
+Velence
+
+(127, 11, 0) ***Stronghold***
+Név:
+Bodin
+
+(69, 99, 0) ***Necropolis***
+Név:
+Nizza
+
+(46, 89, 0) ***Necropolis***
+Név:
+Bordó
+
+(112, 54, 0) ***Dungeon***
+Név:
+Varsó
+
+(137, 86, 0) ***Inferno***
+Név:
+Szarajevo
+
+(91, 60, 0) ***Castle***
+Név:
+Berlin
+
+(121, 41, 0) ***Dungeon***
+Név:
+Tallinn
+
+(78, 53, 0) ***Castle***
+Név:
+Hamburg
+
+(61, 78, 0) ***Necropolis***
+Név:
+Párizs
+
+(76, 69, 0) ***Castle***
+Név:
+Frankfurt
+
+(87, 82, 0) ***Tower***
+Név:
+Zürich
+
+(110, 105, 0) ***Castle***
+Név:
+Róma
+
+(103, 14, 0) ***Stronghold***
+Név:
+Stockholm
+
+(101, 94, 0) ***Castle***
+Név:
+Genova
+
+(134, 114, 0) ***Rampart***
+Név:
+Taranto
+
+(89, 107, 0) ***Rampart***
+Név:
+Monaco
+
+(74, 87, 0) ***Jel***
+Üzenet:
+Párizs északra	Nizza délre	Zürich keletre
+
+(46, 66, 0) ***Necropolis***
+Név:
+Calais
+
+(135, 27, 0) ***Fortress***
+Név:
+Helsinki
+
+(98, 42, 0) ***Tower***
+Név:
+Koppenhága
+
+(35, 34, 0) ***Rampart***
+Név:
+Glasgow
+
+(35, 54, 0) ***Rampart***
+Név:
+London
+
+(54, 4, 0) ***Jel***
+Üzenet:
+Gratulálunk! Elérted az Északi Sarkkört.
+
+(11, 119, 0) ***Jel***
+Üzenet:
+Most lépsz be Portugáliába.
+
+(34, 101, 0) ***Jel***
+Üzenet:
+Franciaország északra	Spanyolország és Portugália délre
+
+(75, 74, 0) ***Jel***
+Üzenet:
+Franciaország nyugatra	Németország keletre
+
+(107, 52, 0) ***Jel***
+Üzenet:
+Üdvözlünk Észak-Oroszországban.	Óvakodj a kozákoktól!
+
+(89, 27, 0) ***Jel***
+Üzenet:
+Üdvözlünk Norvégiában, a vikingek hazájában!
+
+(33, 56, 0) ***Jel***
+Üzenet:
+A Brit-szigetek
+
+(19, 40, 0) ***Jel***
+Üzenet:
+Üdvözöljük Írország smaragdzöld szigetén.
+
+(129, 67, 0) ***Inferno***
+Név:
+Kijev
+
+(141, 47, 0) ***Inferno***
+Név:
+Moszkva
+
+(45, 137, 0) ***Castle***
+Név:
+Algír
+
+(18, 135, 0) ***Castle***
+Név:
+Casablanca
+
+===== Fájl vége =====

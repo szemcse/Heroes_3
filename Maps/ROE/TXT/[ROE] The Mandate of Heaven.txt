@@ -1,0 +1,298 @@
+===== Térkép neve =====
+A Menny küldetése
+
+===== Térkép leírása =====
+Az ördögök betörtek, és rajtad múlik, hogy visszaszerezd a Mennyei Mandátumát az esendõ Vasököl Dinasztia számára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Falagar beszéde
+Üzenet:
+Az ördögök megszállták Enrothot, és Roland király eltûnt. Az öreg Falagar kiképzett téged a választott szakmádban, és megbízott azzal, hogy gyõzd le az ördögöket, és add vissza a Mennyei Mandátumot a Vasököl Dinasztiának.
+
+===== Tárgyak =====
+
+(72, 68, 0) ***Castle***
+Név:
+Free Haven
+
+(114, 50, 0) ***Rampart***
+Név:
+Silver Cove
+
+(122, 105, 0) ***Castle***
+Név:
+New Sorpigal
+
+(110, 94, 0) ***Castle***
+Név:
+Ironfist
+
+(137, 72, 0) ***Tower***
+Név:
+Mist
+
+(35, 44, 0) ***Dungeon***
+Név:
+Kriegspire
+
+(64, 90, 0) ***Necropolis***
+Név:
+Darkmoor
+
+(49, 94, 0) ***Esemény***
+Üzenet:
+Belépsz egy kis szentélybe, amelyet melegnek és megnyugtatónak érzel. Hirtelen megnyílik az ég, és az istenek rád ragyogtatják fényüket. Üdvözöllek az istenek szentélyében.
+
+(80, 43, 0) ***Castle***
+Név:
+Stone
+
+(46, 76, 0) ***Esemény***
+Üzenet:
+Obeliszk #6
+
+(120, 88, 0) ***Esemény***
+Üzenet:
+Obeliszk #1
+
+(17, 77, 0) ***Jel***
+Üzenet:
+Üdvözlünk Dragonsandben.
+
+(141, 63, 0) ***Esemény***
+Üzenet:
+Obeliszk #2
+
+(110, 18, 0) ***Esemény***
+Üzenet:
+Obeliszk #11
+
+(19, 90, 0) ***Esemény***
+Üzenet:
+Obeliszk #13
+
+(28, 24, 0) ***Esemény***
+Üzenet:
+Obeliszk #10
+
+(75, 28, 0) ***Stronghold***
+Név:
+Stromgard
+
+(5, 16, 0) ***Inferno***
+Név:
+The Hive
+
+(7, 33, 0) ***Jel***
+Üzenet:
+Kelet felé Sweetwaterbe
+
+(17, 36, 0) ***Esemény***
+Üzenet:
+Obeliszk #7
+
+(62, 66, 0) ***Jel***
+Üzenet:
+Rockham
+
+(81, 52, 0) ***Jel***
+Üzenet:
+Feketepiac
+
+(115, 110, 0) ***Jel***
+Üzenet:
+Goblin megfigyelõhely
+
+(89, 31, 0) ***Jel***
+Üzenet:
+A hadúr erõdje
+
+(127, 34, 0) ***Jel***
+Üzenet:
+Az alamosi vár barlangjai
+
+(109, 43, 0) ***Jel***
+Üzenet:
+Silverhelm erõdítménye
+
+(91, 116, 0) ***Jel***
+Üzenet:
+Corlagon birtoka
+
+(99, 107, 0) ***Jel***
+Üzenet:
+Snergle aranybányája
+
+(105, 108, 0) ***Jel***
+Üzenet:
+Baa temploma
+
+(115, 118, 0) ***Jel***
+Üzenet:
+Sárkányok barlangja
+
+(31, 87, 0) ***Jel***
+Üzenet:
+Varn sírja
+
+(34, 108, 0) ***Jel***
+Üzenet:
+Abdul sivatagi üdülõhelye
+
+(5, 137, 0) ***Jel***
+Üzenet:
+Baa legfõbb temploma
+
+(12, 126, 0) ***Jel***
+Üzenet:
+Üdvözöljük a Remete-szigeten
+
+(51, 68, 0) ***Jel***
+Üzenet:
+A kígyó temploma
+
+(32, 55, 0) ***Jel***
+Üzenet:
+A Kriegspire kastély barlangjai
+
+(50, 48, 0) ***Jel***
+Üzenet:
+Baa legfelsõbb temploma
+
+(8, 67, 0) ***Jel***
+Üzenet:
+Üdvözöljük Edenbrookban
+
+(22, 67, 0) ***Jel***
+Üzenet:
+Baa temploma
+
+(45, 22, 0) ***Jel***
+Üzenet:
+Agar laboratóriuma
+
+(57, 75, 0) ***Jel***
+Üzenet:
+Az õrült Ethric sírja
+
+(68, 81, 0) ***Jel***
+Üzenet:
+Sárkányvár
+
+(57, 80, 0) ***Esemény***
+Üzenet:
+Obeliszk #4
+
+(107, 60, 0) ***Jel***
+Üzenet:
+Tsantsa temploma
+
+(100, 78, 0) ***Jel***
+Üzenet:
+A Nap temploma
+
+(111, 73, 0) ***Jel***
+Üzenet:
+Baa temploma
+
+(92, 84, 0) ***Jel***
+Üzenet:
+Ököl temploma
+
+(116, 104, 0) ***Jel***
+Üzenet:
+Elhagyott templom
+
+(101, 102, 0) ***Jel***
+Üzenet:
+Feketepiac rejtekhelye
+
+(102, 89, 0) ***Jel***
+Üzenet:
+A Tûzúr csarnoka
+
+(81, 111, 0) ***Jel***
+Üzenet:
+Baa temploma
+
+(90, 95, 0) ***Jel***
+Üzenet:
+Snergle barlangjai
+
+(16, 67, 0) ***Esemény***
+Üzenet:
+Obeliszk #8
+
+(91, 47, 0) ***Jel***
+Üzenet:
+A monolit
+
+(36, 33, 0) ***Jel***
+Üzenet:
+Sárkánylovasok búvóhelye
+
+(54, 29, 0) ***Jel***
+Üzenet:
+Üdvözöljük Fehértetõn
+
+(136, 32, 0) ***Dungeon***
+Név:
+Alamos
+
+(66, 94, 0) ***Jel***
+Üzenet:
+A Darkmoor kastély barlangjai
+
+(96, 87, 0) ***Jel***
+Üzenet:
+Hareckburg
+
+(37, 70, 0) ***Jel***
+Üzenet:
+A farkas búvóhelye
+
+(95, 114, 0) ***Esemény***
+Üzenet:
+Obeliszk #3
+
+(95, 116, 0) ***Jel***
+Üzenet:
+Baa temploma
+
+(32, 68, 0) ***Stronghold***
+Név:
+Blackshire
+
+(4, 21, 0) ***Eretnek***
+Név:
+A Királynõ
+
+(122, 54, 0) ***Esemény***
+Üzenet:
+Obeliszk #12
+
+(104, 89, 0) ***Esemény***
+Üzenet:
+Obeliszk #5
+
+(79, 26, 0) ***Esemény***
+Üzenet:
+Obeliszk #9
+
+(137, 79, 0) ***Jel***
+Üzenet:
+A Silverhelm elõõrs
+
+(34, 83, 1) ***Esemény***
+Üzenet:
+
+
+(55, 94, 1) ***Jel***
+Üzenet:
+Longfang Witherhide
+
+===== Fájl vége =====

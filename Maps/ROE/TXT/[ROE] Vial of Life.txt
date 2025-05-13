@@ -1,0 +1,57 @@
+===== Térkép neve =====
+Életerõ fiola
+
+===== Térkép leírása =====
+Kyran királya egy rendkívül ritka betegségben szenved, amelyet csak az Életerõ fiolával lehet gyógyítani.  Találd meg az üvegcsét, és vidd el a királynak, hogy megnyerd a játékot.
+
+===== Események =====
+
+Név:
+Vámpír pletyka.
+Szöveg:
+Az Életerõ fiola a vámpíroknál van, és rejtegetik.
+
+Név:
+Szigetek kapui.
+Szöveg:
+A szigeteket monolitok kötik össze.
+
+Név:
+Középföldön sárkányok.
+Szöveg:
+"Wrethen" a sárkány védi az Életerõ fiolát. Végzetébe rohan, ki zavarja õt.
+
+===== Idõzített események =====
+
+Név:
+Elsõ üzenet.
+Üzenet:
+Kyran királyának az Életerõ Fiolája kell az életben maradáshoz. Elsõként vidd hozzá és a gyõzelem a tiéd!
+
+===== Tárgyak =====
+
+(13, 24, 0) ***Véletlenszerû város***
+Név:
+Kyram
+
+(88, 45, 0) ***Véletlenszerû város***
+Név:
+Kyren
+
+(89, 95, 0) ***Jel***
+Üzenet:
+Menedék-félsziget, minden élõlényt szívesen látunk!
+
+(5, 93, 0) ***Jel***
+Üzenet:
+Menedék-félsziget 2, minden élõlényt szívesen látunk!
+
+(56, 26, 0) ***Jel***
+Üzenet:
+Jelenlegi lakója - Fiona a Láng - nem engedik ki 333 évig még.
+
+(57, 16, 0) ***Castle***
+Név:
+Kyran
+
+===== Fájl vége =====

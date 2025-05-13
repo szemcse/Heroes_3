@@ -1,0 +1,121 @@
+===== Térkép neve =====
+Istentelen küldetés
+
+===== Térkép leírása =====
+Mélyen a felszín alatt szörnyek rejtõznek. Szörnyek, amiket soha senki nem látott. Félelmetes hírek szállnak arról, hogy fel akarnak törni a mélybõl, hogy követeléseiket benyújtsák a fenti világnak. Hát elõre, pusztítsd el a gonosz seregeket, mielõtt túl nagyra nõhetnének. Te vagy a világ reménye!
+
+===== Események =====
+
+===== Idõzített események =====
+
+===== Tárgyak =====
+
+(70, 68, 0) ***Lándzsás***
+Üzenet:
+Kérlek, engedd, hogy csatlakozzunk küldetésedhez!
+
+(72, 70, 0) ***Alabárdos***
+Üzenet:
+Önként jelentkezünk, hogy csatlakozunk hozzád és a seregedhez.
+
+(70, 71, 0) ***Számszeríjász***
+Üzenet:
+Készen állunk arra, hogy a te oldaladon harcoljunk.
+
+(69, 74, 0) ***Keresztes***
+Üzenet:
+Mivel nem volt jobb dolgunk, úgy éreztük, hogy csatlakoznunk kell hozzátok.
+
+(67, 73, 0) ***Jel***
+Üzenet:
+"Noma Flactis Xombuxer". Várj egy kicsit... ez nem azt jelenti, "A Tûzdémon Gödre"?
+
+(66, 70, 0) ***Véletlenszerû kincs varázstárgy***
+Üzenet:
+Egy ördögfióka áll õrt, és azt mondja: "Tágulj innen! Ezt az ajándékot az Uramnak tartogatom. Nemsokára itt lesz, és akkor minden a miénk lesz."
+
+(66, 80, 0) ***Kardforgató***
+Üzenet:
+Összeszedtem a dolgaimat, és most hajóra várok. Soha többé nem megyek le a föld alá! Megölhetsz, vízbedobathatsz, de akkor sem csatlakozom egy ilyen õrült küldetéshez!
+
+(71, 76, 0) ***Törpe***
+Üzenet:
+Hagyjatok békén. Most szabadultam ki az alvilágból. Azért futottam ebbe az erdõbe, hogy elrejtõzzek. Az egyetlen segítség odalent az élõk maradványai - keresd a csontjaikat, mert még mindig harcolnak a lelkük felszabadításáért.
+
+(130, 96, 0) ***Bajnok***
+Üzenet:
+Üdvözlünk! Már vártuk érkezésed. A legtöbben csatlakozni fognak hozzád, de vannak néhányan, akik rettegnek, és inkább kardod által halnak meg, mintsem visszamenjenek az alvilágba. Hát akkor elõre és tisztítsuk meg a világot!
+
+(130, 110, 0) ***Jel***
+Üzenet:
+Élõholtakat nem látunk szívesen!
+
+(135, 109, 0) ***Arkangyal***
+Üzenet:
+Menj azokkal a csontokkal! Egy új seregre lesz szükséged az élõholtak ellen, és a megfelelõ helyre jöttél! Használj innen amit jónak látsz, és térj vissza legyõzni a gonoszt, Fionát.
+
+(132, 110, 0) ***Arkangyal***
+Üzenet:
+Menj azokkal a csontokkal! Egy új seregre lesz szükséged az élõholtak ellen, és a megfelelõ helyre jöttél! Használj innen amit jónak látsz, és térj vissza legyõzni a gonoszt, Fionát.
+
+(134, 110, 0) ***Arkangyal***
+Üzenet:
+Menj azokkal a csontokkal! Egy új seregre lesz szükséged az élõholtak ellen, és a megfelelõ helyre jöttél! Használj innen amit jónak látsz, és térj vissza legyõzni a gonoszt, Fionát.
+
+(136, 135, 0) ***Lovag***
+Üzenet:
+Sokáig és keményen edzettünk egy ilyen küldetésre, de még mindig nem vagyunk biztosak benne, hogy csatlakoznunk kell-e azokhoz, akik a halottak oldalán harcoltak. Hadd gondolkodjunk.
+
+(60, 125, 0) ***Angyal***
+Üzenet:
+Csatlakozunk a küldetésedhez, hogy megszabadítsd az alvilágot a gonosz Fionától, ha te és a sereged segítetek visszavenni ezt a várat.
+
+(13, 10, 1) ***Csontváz***
+Üzenet:
+Ó, fáradt csontjaink már olyan sokáig voltak rabszolgák. A seregednek esélye sincs itt lent. Engedd szabadon õket. Engedd, hogy mi és még sokan mások alkossunk egy új hadsereget neked. Ez az egyetlen út.
+
+(1, 23, 1) ***Jel***
+Üzenet:
+LEFELE!
+
+(9, 53, 1) ***Csontváz***
+Üzenet:
+Gyere gyorsan! Elfoglaltuk az egyik helyõrséget, és sokan csak arra várnak, hogy hozzád csatlakozhassanak.
+
+(24, 134, 1) ***Jel***
+Üzenet:
+LEFELE!
+
+(57, 100, 1) ***Csontváz***
+Üzenet:
+Kövesd a ként!
+
+(93, 133, 1) ***Angyal***
+Üzenet:
+Miért fogadtad el a halál segítségét? Ott kellett volna maradjanak azok a csontok. Harcolj meg velünk, majd kövesd az alagutat az Áldott Földre. Meg kell tisztulnod!
+
+(67, 106, 1) ***Jel***
+Üzenet:
+Ne bízz a csontvázakban!
+
+(62, 105, 1) ***Csontváz***
+Üzenet:
+Mindenben segítettünk, amiben tudtunk, de nem szabad itt maradnotok. Tûnjetek el!
+
+(90, 54, 1) ***Jel***
+Üzenet:
+VIGYÁZZ, ÉLEK!
+
+(25, 18, 1) ***Csontvázharcos***
+Üzenet:
+Jó, hogy megtaláltál. Itt rejtõztünk a sarokban remélve, hogy felderítõink megtalálnak téged.
+
+(79, 67, 1) ***Jel***
+Üzenet:
+Erre rövidebb!
+
+(67, 90, 1) ***Angyal***
+Üzenet:
+Szégyelld magad! Ne kövessétek a ként, kövessétek a drágaköveket az üdvösségetekhez!
+
+===== Fájl vége =====

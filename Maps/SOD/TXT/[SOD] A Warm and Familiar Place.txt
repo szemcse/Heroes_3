@@ -1,0 +1,41 @@
+===== Térkép neve =====
+Egy ismerõs és forró hely
+
+===== Térkép leírása =====
+A vetélkedés elkezdõdött a Pokol két kisebbik fia között, hogy ki váljon a Kísérõk Királyává.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+A kihívás
+Üzenet:
+Te és az ellenfeled is régóta vágyott arra, hogy kitöltse a Pokol hadseregének vezetésében támadt ûrt.  A kisebbik démoni hordának nincs vezetõje. Te ezt a pozíciót választottad és a Kísérõk királyává váltál.		Meg kell szerezned még a Pokol urainak támogatását mindehhez. Õk nem vesznek komolyan, hacsak nem lesz a seregedben egy fél légiónyi kísérõ.  500 kísérõt összeszedni nem nehéz, ugye?
+
+Név:
+Hódolat
+Üzenet:
+A Pokol istenei hódolatot követelnek meg. 	A fizetés kötelezõ vagy kínok kínját kell elszenvedned.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(8, 4, 0) ***Kísértõ***
+Üzenet:
+Mi õrizzük a pokol szintjeinek átjáróját.  Rajtunk túl van az a hadúr, akivel meg kell mérkõznöd az Ördögfiókák Ura címért.	Vigyázz, meglehetõsen ravasz, csak a saját felelõsségedre szállj szembe vele.
+
+(2, 23, 0) ***Esemény***
+Üzenet:
+Az a hátborzongató érzés, hogy figyelnek, itt megingathatatlan.	Hogy miért, azt nem tudod, de az érzés egyszerûen nem múlik el.
+
+(30, 3, 1) ***Kísértõ***
+Üzenet:
+Mi õrizzük a pokol szintjeinek átjáróját.  Rajtunk túl van az a hadúr, akivel meg kell mérkõznöd az Ördögfiókák Ura címért.	Vigyázz, meglehetõsen ravasz, csak a saját felelõsségedre szállj szembe vele.
+
+(32, 18, 1) ***Esemény***
+Üzenet:
+Úgy érzed, jeges borzongás fut végig a hátadon.  Úgy érzed, folyton figyelnek.
+
+===== Fájl vége =====

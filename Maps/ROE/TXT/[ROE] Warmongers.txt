@@ -1,0 +1,95 @@
+===== Térkép neve =====
+Uszítók
+
+===== Térkép leírása =====
+Az élet viszonylag békés volt, amíg a három nagyúr a tengeren túl elhatározta, hogy összeállnak és hadat üzennek neked. Építsd ki a védelmedet, mire ideérnek, de vigyázz a szomszédaiddal, akiknek más elképzeléseik is lehetnek.
+
+===== Események =====
+
+Név:
+Banditák.
+Szöveg:
+Vigyázat! A banditák figyelmeztetés nélkül is megjelenhetnek.
+
+===== Idõzített események =====
+
+Név:
+Elsõ nap
+Üzenet:
+Összeállt három ellenséged a szoros túloldalán és hamarosan betörnek hozzád. Légy készen, és vigyázz szomszédaiddal is.
+
+===== Tárgyak =====
+
+(21, 102, 0) ***Véletlenszerû nyersanyag***
+Üzenet:
+Találsz egy kis rejtett nyersanyagkészletet.
+
+(21, 103, 0) ***Véletlenszerû nyersanyag***
+Üzenet:
+Találsz egy kis rejtett nyersanyagkészletet.
+
+(31, 0, 0) ***Véletlenszerû nyersanyag***
+Üzenet:
+Találsz egy kis rejtett nyersanyagkészletet.
+
+(32, 0, 0) ***Véletlenszerû nyersanyag***
+Üzenet:
+Találsz egy kis rejtett nyersanyagkészletet.
+
+(18, 32, 0) ***Jel***
+Üzenet:
+A kapu folyamatos felügyelet alatt áll.	Engedély nélkül áthaladni TILOS!
+
+(21, 28, 0) ***Jel***
+Üzenet:
+A kapu folyamatos felügyelet alatt áll.	Engedély nélkül áthaladni TILOS!
+
+(53, 44, 0) ***Jel***
+Üzenet:
+A kapu folyamatos felügyelet alatt áll.	Engedély nélkül áthaladni TILOS!
+
+(54, 40, 0) ***Jel***
+Üzenet:
+A kapu folyamatos felügyelet alatt áll.	Engedély nélkül áthaladni TILOS!
+
+(37, 85, 0) ***Jel***
+Üzenet:
+A kapu folyamatos felügyelet alatt áll.	Engedély nélkül áthaladni TILOS!
+
+(34, 82, 0) ***Jel***
+Üzenet:
+A kapu folyamatos felügyelet alatt áll.	Engedély nélkül áthaladni TILOS!
+
+(15, 113, 0) ***Jel***
+Üzenet:
+A kapu folyamatos felügyelet alatt áll.	Engedély nélkül áthaladni TILOS!
+
+(16, 116, 0) ***Jel***
+Üzenet:
+A kapu folyamatos felügyelet alatt áll.	Engedély nélkül áthaladni TILOS!
+
+(82, 125, 0) ***Esemény***
+Üzenet:
+Banditák ugranak elõ a sziklák mögül és már támadnak is!
+
+(47, 3, 0) ***Esemény***
+Üzenet:
+Banditák bukkannak elõ a hó alól és már támadnak is!
+
+(92, 55, 0) ***Jel***
+Üzenet:
+Isten hozta Világítótorony-szigeten.	Elásott kincset keresni, elásni TILOS!
+
+(90, 58, 0) ***Esemény***
+Üzenet:
+Elásott kincset találtál!
+
+(96, 53, 0) ***Esemény***
+Üzenet:
+Elásott kincset találtál!
+
+(59, 51, 0) ***Esemény***
+Üzenet:
+A fák mögül útonállók ugranak ki és már támadnak is!
+
+===== Fájl vége =====

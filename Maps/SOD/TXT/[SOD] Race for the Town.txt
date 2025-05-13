@@ -1,0 +1,39 @@
+===== Térkép neve =====
+Rithen-vízesés városa
+
+===== Térkép leírása =====
+A szép leány, Lorel most lett nagykorú, de apja nem tud dönteni, ki legyen a kérõje.  Hogy a férje biztosan el tudja majd tartani, egy versenyt talált ki.  Az elsõ lord, aki elfoglalja Rithen-vízesés városát, megkapja Lorel kezét.
+
+===== Események =====
+
+===== Idõzített események =====
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(37, 49, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(22, 11, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(25, 8, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(2, 48, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(53, 14, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(8, 36, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+===== Fájl vége =====

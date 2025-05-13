@@ -1,0 +1,18 @@
+===== Térkép neve =====
+Hadurak! (Szöv.)
+
+===== Térkép leírása =====
+A Stin és a Devos folyók találkozásánál fekvõ régiót négy hadúrpár lakja, akik folyamatosan harcolnak a régió feletti uralomért. A harc gyõztesei uralják a régiót, és négy nemzet kereskedelmét fogják irányítani.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetõ
+Üzenet:
+Te és a bátyád beleegyeztek, hogy elindítjátok a "végsõ" hadjáratot a Sztin-Devos régió ellenõrzéséért.  Mindketten letették az esküt:  "Gyõzelem vagy halál".
+
+===== Tárgyak =====
+
+===== Fájl vége =====
