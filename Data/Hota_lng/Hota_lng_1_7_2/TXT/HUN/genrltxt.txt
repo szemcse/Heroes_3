@@ -22,7 +22,7 @@ Vásárlás:
 Nincs hely a helyõrségben ennek az egységnek a számára.		
 Már van %d hõs az irányításod alatt!.		
 Ennek a hõsnek nincsenek harcosai. Harcosok nélkül nem szállhat szembe a vidék veszélyeivel!		
-Videó Minõség		
+Videó minõsége		
 Ez a tárgy nem adható át!		
 Biztos, hogy elbocsátod ezt a hõst?		
 Varázslat célpontjának kiválasztása		
@@ -658,7 +658,7 @@ A(z) %s %s varázslatot hajtanak végre
 Rendszerbeállítások		
 Hõs sebessége		
 Ellenség sebessége		
-Görgetési érzékenység		
+Görgetés érzékenysége		
 Útvonal mutatása		
 Emlékeztetõ mutatása		
 Gyors csata		

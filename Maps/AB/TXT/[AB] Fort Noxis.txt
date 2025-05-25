@@ -1,0 +1,31 @@
+===== Térkép neve =====
+Noxis erõd
+
+===== Térkép leírása =====
+A Noxis erõd, a fõ pénzcsinálótok ostrom alatt áll!  Védd meg addig, amíg az erõsítés megérkezik (és kiiktatja a fenyegetést), vagy veszítsd el az erõdöt, és veszítsd el a játékot.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Elsõ napi esemény.
+Üzenet:
+Meg kell védened Noxis erõt, amíg a segítség megérkezik. Egy tanácsadód azt állítja, célszerû lenne, ha földalatti hõsöd a Noxis erõd közelében maradna, amíg ez a segítség megérkezik. Sok szerencsét!
+
+===== Tárgyak =====
+
+(17, 18, 1) ***Véletlenszerû város***
+Név:
+Noxis erõd
+
+(4, 5, 1) ***Véletlenszerû város***
+
+Idõzített események:
+
+Név:
+Extra arany.
+Üzenet:
+A polgárok, akik remélik, hogy hozzájárulhatnak valamivel az ügyünkhöz, adakoznak számunkra.
+
+===== Fájl vége =====

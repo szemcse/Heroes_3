@@ -1,0 +1,21 @@
+===== Térkép neve =====
+Irracionális ellenségeskedés
+
+===== Térkép leírása =====
+Az évek során béke volt.  A háború hiánya meggyengítette a seregeidet, és csökkentette a királyságod morálját.  Itt az ideje, hogy felélénkítsd a dolgokat....nos, láss munkához.
+
+===== Események =====
+
+===== Idõzített események =====
+
+===== Tárgyak =====
+
+(15, 11, 0) ***Jel***
+Üzenet:
+Délre az Egyszarvú-völgy található.  Belépés csak saját felelõsségre. 
+
+(35, 32, 0) ***Jel***
+Üzenet:
+Északra az Egyszarvú-völgy található.  Belépés csak saját felelõsségre. 
+
+===== Fájl vége =====

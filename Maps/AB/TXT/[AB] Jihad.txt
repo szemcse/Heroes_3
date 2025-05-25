@@ -1,0 +1,22 @@
+===== Térkép neve =====
+Dzsihád (Szent háború)
+
+===== Térkép leírása =====
+Mind a hat szomszédod dzsihádot hirdetett ellened és egymás ellen is, de te türelmes vagy, amíg a jelek, az elõjelek és a papok bele nem egyeztek, hogy eljött a megfelelõ idõ.  Most a 7. végsõ dzsihádot hirdettétek meg ellenségeitek ellen. Elsöpritek õket, mint egy hatalmas sivatagi homokvihar.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetõ
+Üzenet:
+Az ellenségeid már elég régóta léteznek.  Söpörd el õket a homokról.
+
+===== Tárgyak =====
+
+(0, 35, 1) ***Jel***
+Üzenet:
+Menj tovább a Sötétség fátyla alatt.
+
+===== Fájl vége =====

@@ -1,0 +1,18 @@
+===== Térkép neve =====
+A vér homokja
+
+===== Térkép leírása =====
+A földeteken rengeteg homok, sõt arany is van.  A pletykák szerint értékes nyersanyagok rejtõznek a föld alatt.  Bizonyára az elsõ úr, aki a föld alatti nyersanyagokat kifosztja, képes lesz uralni a szomszédait.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetõ
+Üzenet:
+Kémeid jelentik, hogy több, nem túl barátságos szomszédotok azt tervezi, hogy a föld alatti gazdagságokat elfoglalja, hogy uralni tudja otthonotok sivatagi homokját. Neked kell megtenned ezt hamarabb velük, mielõtt õk tennének meg veled.
+
+===== Tárgyak =====
+
+===== Fájl vége =====
