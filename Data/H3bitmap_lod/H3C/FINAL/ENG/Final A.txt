@@ -1,0 +1,45 @@
+===== Térkép neve =====
+Harvest
+
+===== Térkép leírása =====
+Yog must defeat the Necromancers creating havoc in this part of Erathia to win the scenario.  However, if Yog is defeated in combat, the scenario is lost.  Yog is limited to level 30 but will carry his experience and skills on to his next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+A few days ago you heard a rumor about the Necromancers invading Erathia.  Since you aren't doing anything more interesting, you are going to check out the rumors.  Apparently the Necromancers of Deyja have moved a great deal of their forces into Erathia.  Having a strong dislike of undead and the Necromancer's black magic, you are going to lend your leadership abilities and drive them out of Erathia.
+
+Név:
+Enemy stuff
+Üzenet:
+
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(11, 66, 0) ***Esemény***
+Üzenet:
+As you approach the town you notice that the people are in rather good spirits.  Wondering why this is so, you question a peasant in the area.  He explains, "Why, sir, it is because you are here to rescue us.  Not only that, in my sister's town there is another Barbarian helping them out against the Necromancers.  This means Erathia and Krewlod may be making peace, right?"  You just nod and wander away, not wanting to dash his hopes.  But you do make a mental note to check out the other barbarian who is having trouble with Necromancers as well.
+
+(22, 17, 0) ***Esemény***
+Üzenet:
+Standing on a small cliff and looking out, you see that the road splits further up.  Beyond the split in the road there is decaying trees, evidence of Necromancer influence.  This is not a good thing, and you set out to investigate the decay from a better vantage point.
+
+(37, 8, 0) ***Esemény***
+Üzenet:
+Feeling the horses need a rest, you pull over to the edge of the road and call a halt for a few minutes.  As you take a drink of water you make a mental note of your surroundings and what the evil necromancers have done to what once was a beautiful land.  Whoever did this will pay, and they will pay dearly.
+
+(34, 28, 0) ***Esemény***
+Üzenet:
+Traveling down the road, you stop suddenly as you come across a Necromancer's castle.  It stands on the ruins of an old Erathian town.  Some of the walls are still evident, crumbling underneath the Necropolis' shadow.  The stench of death causes you to gag and hardens your resolve to help these people.
+
+(32, 58, 0) ***Esemény***
+Üzenet:
+You quickly call your army to a stop.  As you stand on the edge of the Necromancer's newly claimed domain you close your eyes and clench your fists, rage and hatred flowing through you.  Despite your best efforts to raise an army to defeat these vile creatures, it seems you cannot work fast enough to stop their growing areas of influence.
+
+===== Fájl vége =====

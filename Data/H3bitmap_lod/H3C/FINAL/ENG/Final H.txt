@@ -1,0 +1,193 @@
+===== Térkép neve =====
+Invasion
+
+===== Térkép leírása =====
+Defeat the Rangers and Barbarians against Sandro and his forces of undead to win the scenario.  However, if Sandro is defeated in combat, the scenario is lost.  Sandro is limited to level 40 but will carry his experience, skills and spells on to his next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Day 1
+Üzenet:
+Removing the AvLee, Erathia, and Krewlod troops from Deyja was easier than you thought.  Your new task will be more difficult.  To launch an attack that will not leave one border open, both borders must be assaulted.  Finneas wishes you to pursue this matter personally.  His faith in your abilities is touching, but there will come a time when you will not wish to lead these battles personally.
+
+Név:
+Day 4
+Üzenet:
+Bad news has arrived in a package of dust and bones.  While checking out the AvLee territory, your scouts ran into the elite group known as the Forest Guard.  You know that Gelu, the half Vori elf, is a member of this group, but you are certain another leads these.  Who is the question, but you do not know whom to ask.
+
+Név:
+Day 10
+Üzenet:
+Finneas sent you a message; his tone was pushy and bossy as if he was in control of the situation.  You leave for a few months, and he suddenly believes he is running the show!  The nonsense those court lords whisper into his ear must have somehow gotten into his hollow head.  This sort of behavior is not welcome, nor will it be allowed.  Fortunately, your presence is required in court, so you must take a quick transport there in order to fulfill certain obligations.  Finneas will be reminded who is really in power.
+
+Név:
+Day 17
+Üzenet:
+It was a pleasure to appear in the midst of court and rattle Finneas' bones.  He was quite disturbed to see you and had to dismiss court early to collect himself.  The rumors floating about the castle were not good ones.  You reminded Finneas in his private chambers it was you who put him on the throne and it was you who could remove him from it.  The impression of your bony fingertips is now permanently emblazoned on his chest, a small spell you picked up years ago.  Finneas will not soon cross you again.
+
+Név:
+Day 20
+Üzenet:
+The Captain of the Forest Guard is Caleb, an elf of surpassing skill.  If you were to kill him, these raiding parties might disappear.  They keep getting bolder and bolder with each passing week, as if desperation is a driving force.  Remove the leader and the rest will fall apart.
+
+Név:
+Day 25
+Üzenet:
+Spies have confirmed your fears.  Yog the Barbarian has encouraged his comrades to search for the Angelic Alliance.  As soon as the reinforcements arrive they will be off looking for the pieces necessary.  AvLee is suspected to be able to provide more troops as early as two weeks from now.  Gryphonheart is concerned and has dispatched men to find out how many they need and why Barbarians are defending the Erathian border.  With so many forces on the move, you will need to conquer this realm quickly.  If those four heroes succeed in gaining all the pieces for the Angelic Alliance, you could lose.
+
+Név:
+Day 30
+Üzenet:
+You suspect Caleb is located near Forestdale, an AvLee town located to the north and east of your main castles.  With any luck you should catch him there, possibly napping.  It is rumored he carries the Bow of the Sharpshooter, and that powerful bow that could be very useful if you got your hands on it.
+
+Név:
+Day 39
+Üzenet:
+The troops for AvLee have arrived and are going to create a problem.  It would be wise to secure this area soon so you can push their lines back and keep them at bay using less forces.  Prolonging this battle is not a wise idea.
+
+Név:
+Day 53
+Üzenet:
+You may not win if this keeps up.  Troops from Erathia have arrived, and they are already in the castles.  Too many more reinforcements and the Angelic Alliance will not be necessary.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(12, 5, 0) ***Rampart***
+Név:
+Soaring Height
+
+Idõzített események:
+
+Név:
+Troops
+Üzenet:
+Here are some troops for the computer.
+
+(36, 4, 0) ***Rampart***
+Név:
+Meadow Brook
+
+Idõzített események:
+
+Név:
+Troops
+Üzenet:
+Here are some troops for the computer
+
+Név:
+resources
+Üzenet:
+have some resources
+
+(65, 3, 0) ***Rampart***
+Név:
+Forestdale
+
+Idõzített események:
+
+Név:
+Troops
+Üzenet:
+Here are some creatures for the computer.
+
+(18, 66, 0) ***Stronghold***
+Név:
+Crag's Place
+
+Idõzített események:
+
+Név:
+resources
+Üzenet:
+
+
+(26, 21, 0) ***Castle***
+Név:
+Hudson Falls
+
+Idõzített események:
+
+Név:
+Troops
+Üzenet:
+Here are some creatures for the computer.
+
+(69, 15, 0) ***Rampart***
+Név:
+Silver Falls
+
+(48, 60, 0) ***Castle***
+Név:
+Worthington
+
+Idõzített események:
+
+Név:
+Troops
+Üzenet:
+Here are some creatures for the computer.
+
+(32, 55, 0) ***Castle***
+Név:
+Thestlemore
+
+Idõzített események:
+
+Név:
+Troops
+Üzenet:
+Here are some creatures for the computer.
+
+(5, 3, 0) ***Esemény***
+Üzenet:
+Wanting to take over production of the Ore Mine, you fail to see the Forest Guard quietly closing in and preparing for an ambush.  With no options available, you defend yourself.
+
+(67, 21, 0) ***Esemény***
+Üzenet:
+The town of Silver Falls lies ahead, and as you pass through the rocky pass, it becomes quite evident the town was better defended than you hoped.  The Forest Guard is patrolling here, and they ambush you from all sides.
+
+(13, 18, 0) ***Esemény***
+Üzenet:
+While moving your troops through the area, the slightest noise catches your attention.  It is too late!  The Forest Guard attacks!
+
+(27, 2, 0) ***Esemény***
+Üzenet:
+Rushing for the gold this mill has to offer, you fail to notice the quiet sneaking of Elves closing behind your ranks.  Unable to escape, you turn and face your attackers.
+
+(12, 56, 0) ***Esemény***
+Üzenet:
+With hopes of gaining more sulfur, you push aside the foliage, but find only Forest Guard in your face.  With nowhere to run, you are attacked by the elite fighting force.
+
+(32, 57, 0) ***Esemény***
+Üzenet:
+Protecting Thestlemore are a few elves, and you suspect a trap.  Unable to see anyone else in the vicinity, you are completely surprised when they spring up from the very ground itself and surround your troops.  Once again you are facing the Forest Guard!
+
+(3, 8, 0) ***Esemény***
+Üzenet:
+The few Forest Guard located here are no match for your forces.  Before engaging you in battle, one of them runs off and sends in for reinforcements.  It may not be a good idea to return to this spot once you have dealt with this group.
+
+(62, 5, 0) ***Esemény***
+Üzenet:
+After successfully getting through the garrison, you find yourself surrounded by even more forces.  It seems the Forest Guard must call this little place home.  One of the Elves steps forward and shouts, "I am Caleb.  You will not defeat me!"  With a grin, you push forward to rid this world of him.
+
+(56, 65, 0) ***Esemény***
+Üzenet:
+Seeking the mercury made in the Alchemist's Lab, you ignore the possibility of enemy activity.  Unfortunately, you should have listened to your scout because the Forest Guard is attacking you!
+
+(10, 44, 0) ***Stronghold***
+Név:
+Radstone
+
+Idõzített események:
+
+Név:
+Resources
+Üzenet:
+
+
+===== Fájl vége =====

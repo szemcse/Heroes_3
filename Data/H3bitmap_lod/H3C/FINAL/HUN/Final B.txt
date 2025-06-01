@@ -1,0 +1,94 @@
+===== Térkép neve =====
+Harcos szobrának begyûjtése
+
+===== Térkép leírása =====
+Crag Hacknek a gyõzelemhez meg kell találnia a Harcos Szobrának összes darabját, és vissza kell vinnie Hartferd városába. Azonban ha Crag Hack vereséget szenved, a küldetés elveszett. Crag Hack 30. szintig juthat el, de tapasztalatát és képzettségeit továbbviszi majd a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Hartferd 1. nap
+Üzenet:
+A Sandro árulása után kutatással töltött napok és hetek nem hoztak eredményt. Úgy látszik, senki sem látta az általad leírt varázslót. Néhányan felismerik a nevet valahonnan, de ha megkérdezed, hol lehet most, csak vállat vonnak. Most már feladtad, és elhatároztad, hogy meglátogatod Krewlodból Erathiába költözött rokonaidat.			Ahogy egy Hartferd nevû városon haladsz át, egy kopaszodó, pocakos polgármester, Timis megszólít a kocsmában, ahol megszálltál.		"Kérem, segítsen... Crag Hack uram, ha hívhatom önt így. Nagyon súlyos dolog történt velünk. Egy Tyranell nevû lovag ellopta városunk varázstárgyát, a Harcos Szobrának Fejét. Hartferd csak e varázstárgy miatt került rá a térképre, ezért nagyon fontos, hogy visszakapjuk. Azt is beszélik, hogy a Harcos Szobrának többi darabja is itt van a környéken; talán azokat is meg tudnátok találni nekünk? A teljes varázstárgy összeállításával Hartferd valóban mesés város lehetne. Nem tudunk nagy jutalmat ajánlani, de igazi hõsként ünnepelnénk önt és mindig szívesen látnánk városunkban."		Amíg Timis beszél, végig arra gondolsz, hogy már megint varázstárgyakat kell megtalálnod valakinek. Talán valahogy ebben is benne van Sandro keze. Valószínûleg úgyis segítettél volna neki, de most már egy tucat lóval sem tarthatnak vissza.
+
+Név:
+Háborúzó lovagok
+Üzenet:
+Ahogy elindulsz, hogy megkeresd az ellopott Fejet és a Szobor többi darabját, egy felderítõ lép eléd, és elmondja, hogy két másik lovagcsoport is van a térségben.  Mindkettõ keres, és egyik sem vendégszeretõ a kívülállókkal szemben.
+
+Név:
+Felderítõ jelentése.
+Üzenet:
+Felderítõid jelentik, hogy Tyranell (a lovag, aki ellopta a Harcos Szobrának Fejét) egy délnyugati szigeten rejtõzik. A többi darabról nem sokat tudnak, talán a föld alatt lehetnek valahol.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(57, 11, 0) ***Castle***
+Név:
+Hartferd
+
+Idõzített események:
+
+Név:
+Hartferd építkezik 1.
+Üzenet:
+Hartferd lakói építik városukat, hogy segítsenek neked.
+
+Név:
+Hartferd építkezik 2.
+Üzenet:
+Hartferd lakói építik városukat, hogy segítsenek neked.
+
+Név:
+Hartferd építkezik 3.
+Üzenet:
+Hartferd lakói építik városukat, hogy segítsenek neked.
+
+Név:
+Hartferd építkezik 4.
+Üzenet:
+Hartferd lakói építik városukat, hogy segítsenek neked.
+
+Név:
+Hartferd építkezik 5.
+Üzenet:
+Hartferd lakói építik városukat, hogy segítsenek neked.
+
+(61, 25, 0) ***Arkangyal***
+Üzenet:
+A harcoknak véget kell vetni!  Senki sem mehet át!
+
+(35, 67, 0) ***Lovag***
+Név:
+Lord Chasim
+
+(5, 43, 0) ***Lovag***
+Név:
+Lord Velmor
+
+(44, 18, 0) ***Paraszt***
+Üzenet:
+Kérem, ne bántson minket!  Azt tesszük, amit akar, ígérjük!
+
+(8, 60, 0) ***Esemény***
+Üzenet:
+Megtalálod Tyranell egy régi csatlósát, akit elbocsátottak a szolgálatból, és most leverten ül a homokban. Kikérdezed, és elárulja, hogy Sandro szépen fog fizetni Tyranellnek, ha megtalálja neki a Harcos Szobrának részeit. Tyranell csak felhatalmazásra vár, hogy folytathassa a kutatást. Ezért az információért pár aranyat adsz a volt csatlósnak és útjára engeded.
+
+(68, 2, 0) ***Küldetésõrzõk***
+Üzenet:
+A sátor meglátogatásához (mely a Sziget kulcsát adja) az õrök 8000 aranyat akarnak.
+Az õrök látják, hogy nálad van a pénz, hogy átmehess a szigetre vezetõ sátorba. Kívánod e kifizetni az útdíjat?
+
+(10, 58, 0) ***Lovag***
+Név:
+Tyranell
+
+(30, 42, 1) ***Küldetésõrzõk***
+Üzenet:
+Az õrök azt mondják, hogy parancsot kaptak, hogy csak Crag Hacket engedjék át.
+
+===== Fájl vége =====

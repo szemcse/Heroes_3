@@ -1,0 +1,119 @@
+===== Térkép neve =====
+Secrets Revealed
+
+===== Térkép leírása =====
+Yog and Crag Hack must defeat the Necromancers to win the scenario.  However, if either hero is defeated in combat, the scenario is lost.  Yog and Crag Hack are limited to level 33 but will carry their experience, skills and spells on to their next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Computer Stuff for first day
+Üzenet:
+Here
+
+Név:
+Intro
+Üzenet:
+It took me a little while to find Crag Hack and convince him to join up with me.  Now he is very enthusiastic about kicking some serious necromancer butt.  While we camped, he told me the story about how a Wizard named Sandro tricked him into giving up four artifacts without getting paid.  I have never heard of this Wizard but will keep an eye for anyone fitting his description.
+
+Név:
+Shortly after
+Üzenet:
+Shortly after you and Crag Hack joined up, you came across a section of Erathia completely taken over by the undead.  Being the bloodthirsty barbarian that Crag is, he wanted to go rush in and take on all the Necromancers by himself.  Convincing him to stay and build up an army was a lot easier than you thought.  All you had to do was mention that if he built an army he could roll over all the undead in this area in a matter of weeks.  Finally he nodded in agreement.  At least his skull isn't completely empty, you say to yourself as he leaves the room.
+
+Név:
+Scouts
+Üzenet:
+The cities are coming along nicely.  It's going slower than you would like, but for some reason you have a nagging suspicion you are in for a lot of trouble.  Not liking this feeling, you send out some scouts to take a look at the area around you.  Hopefully they will bring back some intelligence on the enemy.
+
+Név:
+Strong Forces
+Üzenet:
+Looking down at the scout's report, you realize the Necromancer forces are a lot stronger than you originally thought.  Not only will they come at me from all sides, we are outnumbered three to one!   I must let Crag Hack know about this immediately!
+
+Név:
+Crag's Reply
+Üzenet:
+Laughing to yourself, you come to the realization you were crazy to even think about joining forces with that... that... that Barbarian.  Crag's reply had come just a short while ago.  Here is what it said: "We build, we crush.  Fear not the smelly ones."  Well the message was blunt, if anything.  Realizing this Barbarian will probably rush off into battle half prepared, you bark orders to speed up the preparations.
+
+Név:
+Meeting
+Üzenet:
+Well, I am almost ready.  I think it's about time to set up a meeting with Crag Hack to discuss an attack plan.  Sending for a messenger, you quickly write a letter asking for a meeting within the next few weeks.
+
+Név:
+History
+Üzenet:
+Crag Hack showed up today, and he was eager to discuss exactly how we were going to crush the Necromancers.  He had practice in this before, explaining how he killed lots of Necromancers for some artifacts.  Those artifacts were supposed to be his ticket to gold, land and women.  But it never happened because Sandro cheated him out of the whole deal.  Now he just wants to kill stuff to relieve stress.  I laid out my plans, explaining that the longer he waited in some instances, the more necromancers he got to crush.  He seemed to agree with the idea, but I wasn't too convinced when he left.
+
+Név:
+Two Rangers
+Üzenet:
+Something promising reached your ears last night while you prepared for sleep.  It seems you and Crag Hack are not the only ones fighting these Necromancers.  A Ranger and a Druid, Gelu and Gem, are also fending off the forces of undead, but they are working within the borders of AvLee.  You had not realized the Necromancer's influence reached so far.  Quickly, you pen a letter explaining your situation and send it off to them, hoping they will meet with you at a later date.
+
+Név:
+Gem and Gelu
+Üzenet:
+A messenger arrived shortly ago informing me that Gem and Gelu want to meet in Bragden, which is in the Northwestern area of Deyja.  "Well," you think to yourself, "as soon as we get done here we will be on our way."
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(13, 5, 0) ***Stronghold***
+
+Idõzített események:
+
+Név:
+More Creatures
+Üzenet:
+Some loyal troops have finally arrived to help you whip those Necromancers!
+
+(54, 5, 0) ***Stronghold***
+
+Idõzített események:
+
+Név:
+Creatures
+Üzenet:
+Recruits have come in and are willing to fight for you.
+
+(47, 48, 0) ***Esemény***
+Üzenet:
+You had sent out two scouts to check out the town's fortifications.  Only one returned, but he had more than just information on the fortifications.  He had an interesting conversation memorized.		"This is getting ridiculous.  Finneas Vilmar will be absolutely raging when he hears of our losses.  Our orders were simple: come here and build an army.  We can't even do that!  I am going to take that Barbarian's head and use it as a paper weight... once I catch him, that is." said the Necromancer.		 " They haven't won yet, do not fear," the soldier replied.		"I AM NOT AFRAID!  Do you hear me?  Nothing in this world scares me!"		"Yes, sir."		"Now go get me the heads of those filthy barbarians!  NOW!" 		"That's when their conversation ended, sir." 	Noting this, you decide that once these necromancers are gone, you would pay this Finneas Vilmar a visit.
+
+(32, 45, 0) ***Titok Kunyhó***
+Üzenet:
+Ancient Behemoths are menacing the villages just north of here.  If you could be so bold as to defeat them, I would reward you richly.
+
+(55, 0, 0) ***Ork Törzsfõnök***
+Üzenet:
+We have been collecting this gold for years!  You will not take it from us!
+
+(56, 0, 0) ***Arany***
+Üzenet:
+As you wipe the blood from your blade, you contemplate what a good fight that was.  Well, since the Orcs won't be needing this gold anymore, you decide take it.
+
+(47, 2, 0) ***Esemény***
+Üzenet:
+As you cross the rugged terrain you come across a man lying on the side of the pass with a big gash in his side.  When he sees you standing there he waves you over.  Before you can get too close, though, he points to the east and says in a hoarse whisper, "My gold... taken... lots of Orcs... hurry."
+
+(27, 21, 0) ***Esemény***
+Üzenet:
+Just as the sun hits its peak, you notice a glint in the side of the road.  Not knowing what it is, you halt your army and send someone to check it out.  The Goblin returns a few minutes later with a sword and a piece of parchment.  One look at the sword tells you it's worthless, so you tell the goblin to keep it.  But the parchment was different.  Opening the parchment, you find that it's a note telling about buried treasures that were hidden somewhere around here.  In the bottom corner of the note you see a small map.  Getting your bearings, you notice that the treasures are in the valley not too far south of here.
+
+(27, 27, 0) ***Esemény***
+Üzenet:
+After several hours of searching you finally found the spot where the map indicated buried treasure.  Not wanting to do the labor yourself, you order some of your men to do it for you.  Several minutes later you are graciously rewarded.
+
+(27, 29, 0) ***Esemény***
+Üzenet:
+Pointing to the spot where your men are to start digging, you begin to wonder why anyone would want to bury this much gold.  Not being able to come up with a good excuse why you shouldn't take the gold, you place it in your saddlebags and order your army to begin marching again.
+
+(28, 31, 0) ***Esemény***
+Üzenet:
+You look at the ground, then at your map.  This was definitely the hardest one to find.  Making up your mind that this is the spot where the treasure should be, you order your men to dig up the last of the buried treasure.
+
+===== Fájl vége =====

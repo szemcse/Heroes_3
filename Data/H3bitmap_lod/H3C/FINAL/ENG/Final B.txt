@@ -1,0 +1,94 @@
+===== Térkép neve =====
+Gathering the Legion
+
+===== Térkép leírása =====
+Crag Hack must find all the pieces of Legion and return them to the town of Hartferd to win the scenario.  However, if Crag Hack is defeated in combat, the scenario is lost.  Crag Hack is limited to level 30 but will carry his experience, skills and spells on to his next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Hartferd day 1.
+Üzenet:
+The days and weeks searching for Sandro after his betrayal have proven fruitless.  No one seems to have seen the wizard you describe.  Some recognize the name from somewhere but just shrug when asked who and where he might be.  Giving up for now, you decide to visit relatives who have moved from Krewlod into Erathia.		While you pass through a town called Hartferd, its mayor, a portly balding man called Timis, accosts you at the inn you're staying in.		"Please help us, sir... Crag Hack, if I may call you that.  A matter of grave import has befallen us.  A knight named Tyranell has stolen our town artifact, the Head of Legion, from us.  The only reason Hartferd is on the map is because of this artifact, so it's important we get it back.  Also, it's rumored that the other pieces of the Legion artifact are around; perhaps you could find those for us too?  Once the full artifact is assembled, Hartferd would truly become a fabulous city.  We can't offer you much reward, but you would be celebrated as a true hero and always welcome here."		As Timis is speaking you can't help but think of once again having to find artifacts for someone.  Perhaps Sandro has his hand in this somehow.  You probably would have helped him anyway, but now they couldn't hold you back with two dozen horses.
+
+Név:
+Warring Knights
+Üzenet:
+As you start out on your quest to find the Stolen Head and other pieces of Legion, a scout rides up and tells you there are two other knight factions in the region.  Both are looking, and neither is hospitable to outsiders.
+
+Név:
+Scout report.
+Üzenet:
+Scouts report rumors that Tyranell (the knight who stole the Head of Legion) is hiding out somewhere on an Island in the southwest.  As for the other pieces, there is not much to go on other than they might be underground somewhere in the area.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(57, 11, 0) ***Castle***
+Név:
+Hartferd
+
+Idõzített események:
+
+Név:
+Hartferd builders
+Üzenet:
+The inhabitants of Hartferd are building up their town to help you.
+
+Név:
+Build 2.
+Üzenet:
+The inhabitants of Hartferd are building up their town to help you.
+
+Név:
+Building 3.
+Üzenet:
+The inhabitants of Hartferd are building up their town to help you.
+
+Név:
+Building 4.
+Üzenet:
+The inhabitants of Hartferd are building up their town to help you.
+
+Név:
+Building 5.
+Üzenet:
+The inhabitants of Hartferd are building up their town to help you.
+
+(61, 25, 0) ***Arkangyal***
+Üzenet:
+The fighting shall stop!  No one shall pass!
+
+(35, 67, 0) ***Lovag***
+Név:
+Lord Chasim
+
+(5, 43, 0) ***Lovag***
+Név:
+Lord Velmor
+
+(44, 18, 0) ***Paraszt***
+Üzenet:
+Please don't hurt us!  We'll do as you want, we promise!
+
+(8, 60, 0) ***Esemény***
+Üzenet:
+You find an old retainer of Tyranell's, discharged from the knight's service and sitting dejected in the sand.  You question him, and he tells you that Sandro was going to pay Tyranell well to find the Head and other pieces of Legion.  Tyranell is just waiting for authorities to give up the search for him to continue his quest.  For his information, you give the retainer some gold and send him on his way.
+
+(68, 2, 0) ***Küldetésõrzõk***
+Üzenet:
+To pass to the tent beyond (giving you Island access) the guards want 8000 gold.
+The guards see you have the money to pass to the Island access tent.  Do you wish to pay the toll?
+
+(10, 58, 0) ***Lovag***
+Név:
+Tyranell
+
+(30, 42, 1) ***Küldetésõrzõk***
+Üzenet:
+The guards here say they have orders to only let Crag Hack pass.
+
+===== Fájl vége =====

@@ -1,0 +1,96 @@
+===== Térkép neve =====
+Wrath of Sandro
+
+===== Térkép leírása =====
+Wipe out all invading forces to win the scenario.  However, if Sandro is defeated in combat, the scenario is lost.  Sandro is limited to level 40 but will carry his experience, skills and spells on to his next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Day One
+Üzenet:
+Heroic deeds from some AvLee Rangers and a few Barbarians working out of Erathia wiped out the opposition to Finneas Vilmar's ascension to the throne.  With this lucky turn of events he was quickly crowned, and you are now set upon the task of taking out the enemies who have invaded.  Spies are already placed in the opposing armies to find out what you can.
+
+Név:
+Day 4
+Üzenet:
+Your spies have sent messages back, and the news is not good.  The two groups are allied, but they possibly suffer from morale problems.  AvLee, Erathian and Krewlod troops are all stationed in those castles.  It will be easy for you to exploit this vital weakness.  With the Armor of the Damned and the Cloak of the Undead King in your possession, you will easily overtake them and force these invaders out of your lands.
+
+Név:
+Day 9
+Üzenet:
+More information has been smuggled out, and you almost laugh when you hear the news.  Crag Hack, the brainless barbarian, is rampaging towards you, hoping to tear you limb from limb.  He still wants his gold, the title and the land.  It is almost laughable, almost.  Crag Hack is never a force to underestimate.  His recent activities stopped the harvesting in the Erathian lands, and he put together the Statue of Legion, allowing the Erathians to gain too much population for you to deal with.  Mr. Hack will get his due rewards, courtesy of you.
+
+Név:
+Day 12
+Üzenet:
+Another old 'friend' of yours is now opposing you.  Gem, the lady Druid, has taken up arms and was responsible for the slaughtering of lord Fayette and his undead army.  Such a waste that turned out to be!  She was able to defeat the entire army you had given him and slay a perfectly good Death Knight.  It was such a pity, he seemed like a nice fellow.  It doesn't matter.  She assembled the pieces for the Cloak of the Undead King.  Of course, she did send a letter to Ethric, tipping him off of your whereabouts.  She'll make a lovely lich.
+
+Név:
+Day 16
+Üzenet:
+A new individual is directing the brute force of Crag Hack.  His name is Yog.  Either your spy has discovered a truly interesting individual or he's been eating too many mushrooms.  Yog is completely blue and has the features of a very large Genie.  According to your source, he once was a wizard and has mentioned the Angelic Alliance a couple of times.  You could care less what he once did, but you do care about this new artifact mentioned.  A few nights in the library would be an excellent way to spend your time.
+
+Név:
+Day 19
+Üzenet:
+Your source in the Ranger's camp has reported back with information about the fourth of your opponents.  This one is another interesting individual, a white elf named Gelu.  At first you thought he might be an albino, but the flaming red hair says he's a half-breed Vori Elf.  This Ranger is part of an Erathian special forces unit operating in AvLee.   He investigated the death of Lord Falorel, the vampire who had successfully impersonated an AvLee lord... until you poisoned Falorel for becoming too powerful.  Now you'll have to take care of this pesky Ranger, who once did you a little favor by keeping the AvLee troops busy.
+
+Név:
+Day 23
+Üzenet:
+The nights in the library paid off.  You discovered what the Angelic Alliance is.  It is a powerful sword created of six other pieces and allowing the three opposing towns to not suffer morale penalties no matter which hero actually carries the blade.  It is of utmost importance these heroes do not go searching for this artifact.  With it, they actually stand a chance against you.
+
+Név:
+Day 26
+Üzenet:
+It has become clear you will drive these enemies out of Deyja but will be unable to catch the ringleaders.  They will fall back into heavier armed and better-trained camps and towns outside of the Deyja border.		It will not matter.  You will conquer them and continue on to the rest of Antagarich.  Soon, very soon, you shall be master of this world.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(2, 13, 0) ***Inferno***
+
+Idõzített események:
+
+Név:
+resources
+Üzenet:
+
+
+Név:
+monsters
+Üzenet:
+
+
+(30, 7, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+resources
+Üzenet:
+
+
+Név:
+Creatures
+Üzenet:
+
+
+(25, 6, 0) ***Esemény***
+Üzenet:
+Something told you this was too good to be true.
+
+(15, 16, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
+resources
+Üzenet:
+
+
+===== Fájl vége =====

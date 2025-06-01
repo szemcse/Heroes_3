@@ -1,0 +1,133 @@
+===== Térkép neve =====
+Final Peace
+
+===== Térkép leírása =====
+You must kill Lord Fayette to win the scenario.  However, if Gem is defeated in combat, the scenario is lost.  Gem is limited to level 30 but will carry her experience, skills and spells on to her next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+Lord Fayette has been turned into a Death Knight while on a secret mission into Deyja.  Apparently he was to meet secretly with one of the Deyjan Border Lords, but something went wrong.  I am determined to grant his soul final peace by destroying his undead body.  Clancy volunteered to help me.  We have slipped over the border into a no man's land between AvLee and Deyja.  From here we will build our forces and push into Deyja itself.
+
+Név:
+Plans
+Üzenet:
+We located two rampart castles.  Clancy and I will each base out of one, build our forces and castles, and then combine our forces to push into Deyja.  From my scrying I know the Death Knight we are looking for is in this area of Deyja.  Curse them!  We will grant you final peace, Lord Fayette.  I promise.
+
+Név:
+Gem's Eyes
+Üzenet:
+I over heard some of my troops talking about my eyes.  It was amusing.  Apparently they think the blue around my eyes is some sort of war paint.  I suppose they would be disappointed if I were to tell them it's merely part of being a Druid.  I magicked my face that way in a ceremony honoring something some small creature had done for me, which in my case was when raccoons washed my food in the water.  The raccoons' gesture may not have been a monumental gift, but I treasure the memory.
+
+Név:
+Lady Fayette Message
+Üzenet:
+I received a message from Lord Fayette's wife today.  She told me she had discovered the purpose of her husband's secret mission.  Apparently he was trying to discover information about what happened to his neighbor, Lord Falorel.  Lord Falorel was found dead by a Ranger named Gelu, but the corpse was that of a vampire.  It's unclear what happened.  Had Falorel been replaced by the vampire?  Was the real Falorel captured and turned into a vampire?  Or was something else going on?  And who killed the vampire?  Hmm, one other question:  why was a Deyjan Border Lord willing to talk to Lord Fayette about this?
+
+Név:
+Dead Border Lord
+Üzenet:
+Even in Deyja there are a few residents who are not undead.  My scouts made contact with some yesterday.  They had some interesting news.  The local Deyjan Border Lord was assassinated recently.  He was apparently killed on the same day as Lord Fayette.  The interesting part is that the people questioned by the scouts believe another Deyjan Lord assassinated the Border Lord.
+
+Név:
+Plot
+Üzenet:
+It is becoming increasingly obvious to me that Lord Fayette's death was a result of some larger plot.  I'm not sure whether he was killed because he was a Border Lord or because he found out too much about what was going on.  If the Deyjan Border Lord had not been killed, I would say it was a plan to invade AvLee in the confusion resulting from the death of two neighboring AvLee Border Lords.
+
+Név:
+Plot (cont)
+Üzenet:
+That would make sense except that the Deyjan Border Lord across from them was also killed.  It would seem as if there is some plot larger than an invasion or there is more than one thing happening here.  I have decided to send what I know to the Druid High Council and ask them to forward the knowledge on to the AvLee Council of Elders.
+
+Név:
+Message from Clancy
+Üzenet:
+I sent a message to Clancy last week asking him what he knew about Gelu.  I received his response today.  Interestingly, Gelu is Erathian who recently became a member of some elite unit.  He was then assigned to help Lord Falorel in some joint Erathian-AvLee operation that never happened because of Falorel's death.
+
+Név:
+Letter to Gelu
+Üzenet:
+I'm sending a letter to Gelu telling him I think Falorel's and Fayette's deaths are related and asking him to meet with me after I lay Lord Fayette to rest.  I would like to learn what he knows about what is going on.
+
+===== Hõsök =====
+
+Név:
+Lord Fayette
+
+===== Tárgyak =====
+
+(15, 38, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra income
+Üzenet:
+
+
+(26, 55, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Gold
+Üzenet:
+
+
+Név:
+Additional Income
+Üzenet:
+
+
+Név:
+Build Townhall
+Üzenet:
+
+
+(51, 59, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Gold
+Üzenet:
+
+
+Név:
+Additional Income
+Üzenet:
+
+
+Név:
+Build Townhall
+Üzenet:
+
+
+(8, 29, 1) ***Halállovag***
+Önéletrajz:
+An unknown Necromancer raised Lord Fayette as a Death Knight.  Lord Fayette has been given orders to invade AvLee.
+
+(3, 33, 1) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Gold
+Üzenet:
+
+
+Név:
+Additional Income
+Üzenet:
+
+
+Név:
+Build Townhall
+Üzenet:
+
+
+===== Fájl vége =====

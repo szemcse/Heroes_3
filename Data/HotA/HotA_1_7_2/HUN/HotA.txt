@@ -3051,7 +3051,7 @@ Az a hír járja, hogy máshol az ilyen mûtárgyak alkotóelemeire bonthatóak, de itt
 #307
 Ez a komponensekbõl összerakott mûtárgy alkotóelemeire bontható.
 #308
-%s a kombinációs lelet egyik összetevõje.
+Ez a következõ kombinációs lelet egyik összetevõje: %s.
 #309
 Azt beszélik, hogy máshol a %s komponens másokkal is kombinálható, de itt semmi ilyesmit nem lehet tenni.
 #310

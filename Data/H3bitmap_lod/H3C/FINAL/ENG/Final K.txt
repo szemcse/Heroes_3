@@ -1,0 +1,200 @@
+===== Térkép neve =====
+Union
+
+===== Térkép leírása =====
+Defeat all of the Necromancers in the area and create the Angelic Alliance to win the scenario.  However, if Gem, Gelu, Crag Hack or Yog are defeated in combat, the scenario is lost.  The four heroes are limited to level 40 but will carry their experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Day 1
+Üzenet:
+We are separated from the others by the inlet.  Both groups must stabilize their foothold and drive back the Necromancers from the Contested Lands and AvLee.  The Necromancers have a stranglehold on the area, but we should be able to drive them out.  There are Erathian troops scattered throughout the area, and with the Angelic Alliance, our troops should not have trouble working together.
+
+Név:
+Computer Stuff
+Üzenet:
+
+
+Név:
+Day 5
+Üzenet:
+Research on combination artifacts had continued after the four of you left to search for the Angelic Alliance.  The wizards discovered a horn made of precious metals called the Cornucopia.  If you put the Everpouring Vial of Mercury, the Eversmoking Ring of Sulfur, Everflowing Cloak of Crystal and the Ring of Infinite Gems together, they will make this Cornucopia.  Rumors have surfaced that these items, along with a few bags of gold, are circulating throughout the area.  No doubt Sandro's forces are seeking them.
+
+Név:
+Day 10
+Üzenet:
+Disaster has struck.  Thieves entered the castle late at night, killed the guards and stole as much gold as they could run off with.  This will set back your building schedule quite a bit.
+
+Név:
+Day 13
+Üzenet:
+Strange things have been sighted.  Near the small town of Gourney the ground seems to be on fire, but nothing burns near it.  Some have seen a spectacular orb sitting in the middle, its fiery surface swirling the beautiful oranges and reds of fire.  Others say there are Fire Elementals dancing among the flames, but no one can tell for sure.
+
+Név:
+Day 17
+Üzenet:
+Stumbling into camp one night, a poor man collapses onto the ground in front of Gem.  She quickly applies her healing magic, and he is able to tell her his tale.  He describes a place where the imps have set up a cache of stolen treasures, but that is only the landmark to a wondrous orb set upon a golden base.  The orb swirls as if filled with clouds and actually seems to overflow onto the ground.  He saw magical creatures made of nothing more than the clouds floating in and around the orb.  Chased out by Necromancers, he does not know if the orb is still there or if they have taken it.
+
+Név:
+Day 20
+Üzenet:
+This is just not your week.  A messenger who was traveling between all of the castles, trying to coordinate the assault, accidentally was carrying termites.  He didn't notice them because he didn't have any wood on him.  But the castles are now noticing, and it's going to take a lot of wood to rebuild everything and a lot of gold to pay for the exterminator.  Also, it's the exterminator's wife, so you have to appease her with some pretty gems, or he won't come and you'll lose all of your defenses.
+
+Név:
+Day 24
+Üzenet:
+The Forest Guard scouts return, each of them reporting something of interest.  Sandro's movements have been towards your location, and he leads a large army.  Some of the generals have the pieces to the Cornucopia, but they should be taken out easily.  One of the scouts, the last one in, has an interesting tidbit of information.  Within the barren lands of the necromancer's lies an even more rocky and foreboding land.  Traversable, this land holds an orb with a golden base.  The orb looks to be made of silt or mud, but the scout could tell it was powerful.  It may have already fallen into Sandro's hands, as he was close by.
+
+Név:
+Day 31
+Üzenet:
+Crag came out of his tent swearing up a storm.  The entire camp was infested with fleas and lice.  Normally he wouldn't care about such things, but many of the troops will suffer some serious side effects if they don't get these taken care of.  The cost is enormous to flea dip every last Behemoth, Orc, Wolf, Riders and the rest of the hairy bunch.
+
+Név:
+Day 38
+Üzenet:
+A raiding party swarmed over the camps and surprised everyone there.  Barely able to escape with their lives, the troops were unscathed, but all of the equipment has to be replaced.  The smiths require more ore to make the metals and the gold with which to pay them.
+
+Név:
+Day 41
+Üzenet:
+A Behemoth, one of Yog's scouts, returns looking ragged and filthy yet also very happy and excited.  He exclaims, "I killed a hundred of those bony critters before they ran me outta there.  And I saw this pretty ball sitting in a puddle as far south as I could go.  It's east of here, deep in Necro territory."  He puffs out his chest with pride, knowing he has delivered important information because Yog looks very excited.  The Behemoth was shown a meal and a bath.
+
+Név:
+Day 45
+Üzenet:
+Knowing the bad luck you have been faced with recently, a seer has been brought on board to search for disasters.  She will look into the future and see if anything will cause any more disasters.  With some luck and a little work, future problems can be avoided.
+
+Név:
+Day 48
+Üzenet:
+A message arrived for Gelu.  He quickly read it and then flew into a rage, screaming unintelligible words and pounding his fists against trees and rocks.  His second-in-command picked up and read the note.  This is what it said: "We regret to inform you that Caleb, Captain of the Forest Guard, was killed in the last skirmish with the Necromancers.  We have confirmed he was slain by Sandro's forces.  You are therefore requested to return to Erathia as soon as possible.  Once there, you will be trained in the formal duties of Captain and gain control of the Forest Guard.  Congratulations."  Knowing how close Gelu must have been to Caleb, this will not be a happy promotion.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(2, 105, 0) ***Csontvázharcos***
+Üzenet:
+This is OUR ore pit, and you are not welcome to mine it!  We have been here for a long time, waiting for the supplies necessary to make it operational again.   Don't think you'll be allowed to just waltz in here and starting working this ore pit!  Time to die, you fleshy fool!
+
+(38, 13, 0) ***Vámpír***
+Üzenet:
+You are more than welcome to feed upon this crystal vein... as long as we are allowed to feed upon your own veins!
+
+(33, 102, 0) ***Vámpír***
+Üzenet:
+We would be more than happy to let you work this gold mine, just so long as you let us drink your blood.  No?  Then I guess we fight!
+
+(13, 15, 0) ***Csontvázharcos***
+Üzenet:
+We have been woodcutters for generations, and this is OUR wood mine!  No one else shall take it from us!
+
+(29, 13, 0) ***Lélek***
+Üzenet:
+We are the widows of men slaughtered by these infernal contraptions, and we are going to keep you from making more widows and orphans!  Prepare to die!
+
+(16, 1, 0) ***Hatalmas Lich***
+Üzenet:
+We have gathered these treasures, and you are not allowed to enter here!  Since you are forcing the issue, we have no choice but to destroy you!
+
+(7, 66, 0) ***Hatalmas Lich***
+Üzenet:
+These are our treasures, and none shall have access to those irritating birds if we have something to say about it!  Matter of fact, we DO have something to say about it: fight or die!
+
+(32, 21, 0) ***Kentaur Fejsze***
+Üzenet:
+This axe once hung in the Great Hall but was stolen a few years ago.  You are glad to get it back.
+
+(4, 72, 0) ***Ogrék Furkósbotja***
+Üzenet:
+Whoever that Ogre is, he keeps leaving all of his stuff just lying around.  You'd fine him for littering, but the stuff he leaves isn't exactly trash.
+
+(49, 15, 0) ***Törpe Király Pajzsa***
+Üzenet:
+It seems the Dwarves must have been defeated whoever was holding this.  With a rustle of the bushes, you discover who defeated them.  Do you wish to run away or avenge the death of the Dwarves?
+
+(37, 101, 0) ***Ogre Pajzs***
+Üzenet:
+Seems an Ogre left this just lying around.  It would be a shame for such a useful item to go to waste.
+
+(45, 88, 0) ***Arannyal Teli Tarsoly***
+Üzenet:
+Here is a little purse and it's filled with gold!  What a good day, you found one of the artifacts those Forest Guard people were talking about.  Maybe you'll find the rest of them too.
+
+(14, 93, 0) ***Sebesség Csizma***
+Üzenet:
+A perfectly good pair of boots has been left here.  Maybe the owner ended up running so fast, they ran themselves right out of the boots.  Well, you won't leave these to just anybody.  After all, Sandro could get his hands on them.
+
+(54, 29, 0) ***Háborgó Tûz Varázsgömb***
+Üzenet:
+This artifact is from the Elemental Plane of Fire, and it is well known the fiery inhabitants do not like just anyone stealing their property.
+
+(106, 56, 0) ***Iszap Varázsgömb***
+Üzenet:
+Generally the Orb of Silt is buried deep within the planet, where it is easily accessible to the Elemental Plane of Earth.  But, for some reason, it has surfaced.  You know it will be guarded.
+
+(51, 44, 0) ***Égbolt Varázsgömb***
+Üzenet:
+It seems the Gods of Air have smiled upon you and laid a most precious artifact in your path.  The only question will be, are you worthy enough?
+
+(14, 72, 0) ***Idézés Nyakörv***
+Üzenet:
+A young mage with a brown beard waves to you, bows and promptly disappears.  He must have gotten the spell wrong because he left behind this beautiful collar.  Well, it's his fault for getting the spell wrong, so you pick up the collar and put it on.
+
+(72, 107, 0) ***Felhõszakadás Varázsgömb***
+Üzenet:
+This artifact is from the alternate realm of the elementals; specifically, from the Elemental Plane of Water.  It is well known this artifact will not be unguarded.
+
+(56, 28, 0) ***Castle***
+Név:
+Gourney
+
+(89, 8, 0) ***Esemény***
+Üzenet:
+While traveling through these beautiful pools, you are ambushed by Water Elementals who violently protect these waters.  With no other recourse, you defend yourself.
+
+(89, 46, 0) ***Esemény***
+Üzenet:
+While traveling through the barren lands, you realize this would be a place Earth Elementals would prefer.  No other element is truly present here, and they could live in relative peace except, of course, for the pyramid up there.  While you think about all this, your men are surrounded and the Earth Elementals, who do live here, attack you!
+
+(105, 87, 0) ***Esemény***
+Üzenet:
+This entire land seems to be on fire, as if the elementals of fire have taken a particular liking to this area.  Nervously looking around for a possible attack, you are barely able to avoid the Fire Elementals leaping out at you!
+
+(85, 80, 0) ***Esemény***
+Üzenet:
+This entire land seems to be on fire, as if the elementals of fire have taken a particular liking to this area.  Nervously looking around for a possible attack, you are barely able to avoid the Fire Elementals leaping out at you!
+
+(88, 77, 0) ***Esemény***
+Üzenet:
+This entire land seems to be on fire, as if the elementals of fire have taken a particular liking to this area.  Nervously looking around for a possible attack, you are barely able to avoid the Fire Elementals leaping out at you!
+
+(99, 83, 0) ***Esemény***
+Üzenet:
+With all of the Fire Elementals in the area, maybe you should be more careful and avoid getting yourself entangled in another ambush.  Fortunately, there don't seem to be any around at the moment.
+
+(91, 78, 0) ***Esemény***
+Üzenet:
+With all of the Fire Elementals in the area, maybe you should be more careful and avoid getting yourself entangled in another ambush.  Fortunately, there don't seem to be any around at the moment.
+
+(103, 76, 0) ***Esemény***
+Üzenet:
+You weren't on guard enough and are being attacked by Fire Elementals!
+
+(62, 99, 0) ***Esemény***
+Üzenet:
+This area is definitely at a higher elevation than the others.  It may be wise to keep an eye out for Air Elementals patrolling the area.
+
+(43, 91, 0) ***Esemény***
+Üzenet:
+Out of the clouds streaking towards you are the Air Elementals, and they seem to have brought their bigger brothers, the Storm Elementals!  With nowhere to run, you are trapped and forced to fight them!
+
+(44, 5, 0) ***Esemény***
+Üzenet:
+Passing through this idle valley you are admiring the scenery.  It is beautiful here, with the pretty pond and stream running merrily from it.  Beautiful flowers grow underneath the green foliage, and a warm wind blows.  Unfortunately, you are not the only ones in this pretty little valley: some rotworms have inhabited the area and are now inhabiting you.  Since there is no cure except time, you and your troops will be functioning more poorly than normal.
+
+===== Fájl vége =====

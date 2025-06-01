@@ -1,0 +1,199 @@
+===== Térkép neve =====
+Fall of Sandro
+
+===== Térkép leírása =====
+Defeat Sandro and all his minions to win the campaign.  However, if any of your four heroes are defeated in combat or you fail to defeat Sandro's forces in four months, the scenario is lost.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Day 1
+Üzenet:
+We are deep within the Necromancer's territory.  Most everything is dying here; only a few trees can cling to the earth after a Necromancer has worked his death magic for so long.  Each of us leads a town and has begun preparations for the final assault.  Sandro is past the desert.  Rumors of deadly traps and roving bands of marauders have made us all wary, even the fearless Crag Hack.
+
+Név:
+Teleporters
+Üzenet:
+Reports of a teleporter to the underground have surfaced.  It is rumored there are underground caverns filled with treasures beyond your wildest dreams.  All you have to do is get by one of Sandro's Generals and use the teleporter.
+
+Név:
+Mines
+Üzenet:
+We have quickly returned sawmills and ore mines to production.  With four castles, our resources will be stretched thinly.  It will be imperative to quickly look for other resources and money needed to get a town up and running.  Each of us is scouring the land, sending out scouts.  The Necromancers have mostly built towns and are ahead of us.  I have sent word home, hoping we will receive reinforcements, but I do not know if any will come.
+
+Név:
+Elixir of Life
+Üzenet:
+One of the artifacts researched was the Elixir of Life.  Gelu had gathered its components for Lord Falorel, who had obviously not used it but instead hid it so no one could use it against him.  This artifact could be very useful, if it is found.  The mages have traced it to this region but do not know its exact location.
+
+Név:
+Ghost Dragons
+Üzenet:
+A mystic wanders into camp, begging for food.  Crag Hack demands that the mystic earn his food and lodging, so the old man eyes the large barbarian very carefully.  He then says, "The Ghost Dragons are key to getting the Elixir of Life."  After saying this, he proceeds to eat and ignores Crag for the rest of the night, to Crag's great irritation.
+
+Név:
+Plague
+Üzenet:
+Walled safely within your castle, the forces of undead are unable to break through.  For quite some time they stay outside, trying desperately to get in.  Then one day your men start coming down with the plague.  The necromancers had poisoned your water supply with rotten meat, and now you must pay quite dearly for the healing you need.
+
+Név:
+Defeat Sandro
+Üzenet:
+The Forest Guard has reported back with information you need.  Sandro is walled in behind a guarded tower, and they will not budge.  Apparently there are some people who wish to get out of Deyja, but they need the Boots of Levitation to do so.  If you bring them the boots, they will allow you to pass through their guarded tower and you can defeat Sandro at his castle.
+
+Név:
+Nomads
+Üzenet:
+Reports of nomads moving quickly across the deserts reach your ears.  It is possible to hire these men and help your troops move faster across the desert and into Sandro's area.  All you must do is look for the striped tent.
+
+Név:
+Boots of Levitation
+Üzenet:
+One of your agents holds the Boots of Levitation, but you must bring 50 hobgoblins to know you are not a trick from the Necromancers.  He also wants the extra troops to continue his work within the Deyja borders.  You will need to visit this hut to defeat Sandro.
+
+Név:
+Necromancers have bribed the elementals
+Üzenet:
+A large plume of smoke had been seen rising out of the desert like a hideous black snake.  Those who returned from the investigation have some interesting news to report.  The elementals have been bribed by the Necromancers and were allowing their fire to burn on the ground and increase Fire Magic without burning anything.  It would be wise to send a spell caster to deal with this necromancer, and all eyes turn to Gem.
+
+Név:
+Tome of Fire
+Üzenet:
+A prophetic woman enters camp and declares she has important information for Gelu.  He agrees to see her and she says, "In the far northern corner of the desert lies the Tome of Fire.  Within its pages you will find all of the spells you seek to defeat your enemies.  It would be most wise to find this artifact before they do.  That will be 500 gold."  Gelu pays the woman and Gem wonders exactly how young she is.
+
+Név:
+Tome of Water
+Üzenet:
+An old man comes stumbling into town with his entire family in tow.  The group of fifty or so approach Crag Hack, and the old man comes forward.  "Please, sir, I have important information and for enough gold to feed my family, I will give this information to you."  Crag agrees to pay the man 500 gold and he relays his information.  "The great Tome of Water magic is located just south of Sandro's castle.  Between its pages are powerful spells, and they can be used by anyone who has enough wisdom."
+
+Név:
+Raid
+Üzenet:
+Early in the morning, before the sun hit the flagstones, the warning bell sounded.  Hoping for a fight, Yog jumped out of his bedroll, axe in hand, and ran towards the commotion.  It became evident all were too slow.  The bandits had already made off with some supplies, chickens, gold, jewels, weapons and armor.  The poor accountant was roused out of his sleep to figure out how much this cost.
+
+Név:
+Trade
+Üzenet:
+One of the scouts reports that some people in the underground caverns may be looking for the Elixir of Life, and it may be better to shop around and see what you can get.
+
+Név:
+Four weeks
+Üzenet:
+There is but a month left before Sandro's troops get here.  The scouts have spotted them far on the horizon.  Maybe you will be granted an extra day or so, if they are not traveling quickly.  If Sandro and all of his minions are not defeated soon, your cause will be lost and your time will have been wasted.
+
+Név:
+Three weeks
+Üzenet:
+Little time is left, and you should not waste it.  Sandro's troops were spotted closer and will definitely be here in another three weeks.  Make haste, for Sandro will win if you do not complete your task very soon.
+
+Név:
+Two weeks
+Üzenet:
+In just two short weeks Sandro will have all the reinforcements he needs, and you will be nothing more than a bad memory.  You had better defeat all of his forces or perish for nothing.
+
+Név:
+One week
+Üzenet:
+In just a week you will have run out of time.  The troops Sandro needs are on their way.  If you do not hurry, you will be caught in between the two large forces.  It is imperative you succeed.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(66, 33, 0) ***Halállovag***
+Név:
+Finneas 
+
+(48, 29, 0) ***Titok Kunyhó***
+Üzenet:
+For us to hold out here and keep the spy lines longer, we need more cannon fodder to attract attention.  Bring us 50 Hobgoblins, and we'll give you the Boots of Levitation.  You'll need them to get at Sandro.
+You only get the boots if we get 50 Hobgoblins.
+Great!  Now we can do more reconnaissance into Deyja.  Give us the 50 Hobgoblins, and we'll give you the Boots of Levitation.  From here you can go to the Guards outside of his tower.  They want to escape but cannot.  With the Boots of Levitation they'll be able to run away, and you can pass through the gates to kill Sandro... or at least wallop him one good.
+
+(6, 2, 0) ***Tûz Varázslat Kötet***
+Üzenet:
+This ancient tome has been guarded for centuries, but now lies here, unprotected and unguarded.  Or is it?
+
+(65, 21, 0) ***Víz Varázslat Kötet***
+Üzenet:
+The guardians set here by the Lords of Water centuries ago protect this tome.  With such opponents, it is no wonder the Necromancers have yet to defeat them.
+
+(47, 42, 0) ***Aranygólem***
+Üzenet:
+These golems were set centuries ago to protect the two Tomes of Magic stolen from the Elemental Lords.  Now you must defeat all 200 of the guardians to gain access to the precious books.
+
+(58, 50, 0) ***Titok Kunyhó***
+Üzenet:
+Our brethren were once beautiful dragons who lived in these lands.  Now they are the hideous ghosts of what they once where, under the control of a mere mortal Necromancer.  If you put their souls to rest, we will give you the key to great treasures.
+Until their souls are at rest, we will not part with the Elixir of Life.
+Thank you so much for your heroic deed.  I know it was difficult to face them, even in their weakened condition.  Here is the Elixir of Life.  You may keep it or trade it in.  There are those below who would trade this item for something you may find more useful.  Seek out the teleporters, and maybe you will find something of more value.
+
+(65, 7, 0) ***Küldetésõrzõk***
+Üzenet:
+We cannot leave this place.  Only if we were able to fly could we possibly leave.  The Boots of Levitation are our only hope.  There is a huge lake we must cross, and without permission to take the boat we are stuck here.  With the Boots we would be able to cross on our own and disappear into other Deyja territory.
+Without the Boots of Levitation we cannot leave, and you cannot pass.
+Give us the Boots of Levitation, and we will leave so you may pass.  Otherwise, we are at a stalemate.
+
+(12, 50, 1) ***Titok Kunyhó***
+Üzenet:
+I am in desperate need of the Elixir of Life.  My mother's health is failing and water drunk from the Elixir will heal her.  I have sworn to give up my most prized possession, the Bow of the Sharpshooter, if I can find the Elixir of Life.
+Unless you have the Elixir of Life I will not give up my bow.
+That is the Elixir!  Where did you find it?  No matter.  Will you trade it for my Bow of the Sharpshooter?
+
+(14, 51, 1) ***Föld Elementál***
+Üzenet:
+We shall let no one pass.  Jamison the Seer is attempting to help his mother, who supports Air and Water magic but does not appreciate our powers.  For her impudence we will not let anyone through.
+
+(20, 23, 1) ***Titok Kunyhó***
+Üzenet:
+I have heard of an ancient artifact called the Elixir of Life.  In exchange for this rare artifact I am willing to give you this old piece of junk, the Wizard's Well.  Return with the artifact and I will make a trade with you.
+Perfect specimen!  Will trade it for the Wizard's Well?
+
+(20, 25, 1) ***Fõnix***
+Üzenet:
+"This is our territory!" the Phoenixes screech.  "Die!"
+
+(50, 58, 1) ***Titok Kunyhó***
+Üzenet:
+I seek the Elixir of Life.  This ring once belonged to my grandfather, a powerful mage.  It has been imbued will great powers, and I will give it to you in exchange for the Elixir.
+I will give you my grandfather's Ring of the Magi if you give me the Elixir of Life.
+
+(52, 58, 1) ***Jég Elementál***
+Üzenet:
+We will not allow anyone to disturb our sanctuary.  Now you will be liquefied and added to our pools!
+
+(49, 25, 1) ***Lég Elementál***
+Üzenet:
+This is our realm!  Mortals are not allowed!  Prepare to become part of the ether!
+
+(53, 22, 1) ***Lég Elementál***
+Üzenet:
+This is our realm!  Mortals are not allowed!  Prepare to become part of the ether!
+
+(46, 31, 1) ***Lég Elementál***
+Üzenet:
+This is our realm!  Mortals are not allowed!  Prepare to become part of the ether!
+
+(42, 30, 1) ***Lég Elementál***
+Üzenet:
+This is our realm!  Mortals are not allowed!  Prepare to become part of the ether!
+
+(44, 23, 1) ***Vihar Elementál***
+Üzenet:
+We are the guardians and you will not be allowed to enter here.  Do not think you can easily get by us!
+
+(56, 61, 1) ***Jég Elementál***
+Üzenet:
+We will not allow anyone to disturb our sanctuary.  Now you will be liquefied and added to our pools!
+
+(52, 62, 1) ***Jég Elementál***
+Üzenet:
+We will not allow anyone to disturb our sanctuary.  Now you will be liquefied and added to our pools!
+
+(54, 57, 1) ***Jég Elementál***
+Üzenet:
+We will not allow anyone to disturb our sanctuary.  Now you will be liquefied and added to our pools!
+
+===== Fájl vége =====

@@ -1,0 +1,79 @@
+===== Térkép neve =====
+Barbarian Brothers
+
+===== Térkép leírása =====
+Crag Hack and Yog must find the Sword of Judgment, Armor of Wonder, and Lions Shield of Courage to win the scenario.  However, if either hero is defeated in combat, the scenario is lost.  They are limited to level 37 but will carry their experience, skills and spells on to their next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Barbarian brothers.
+Üzenet:
+Yog and Crag Hack discovered that three of the six artifacts that Yog thought he was rid of forever have resurfaced, bought by three Barbarian brothers living in a small contested area of Krewlod.  The brothers might think they have a legal right to the artifacts, but it is just too dangerous for them to be in possession of these pieces, especially if Sandro finds out.
+
+Név:
+Flood!
+Üzenet:
+As Yog and Hack enter the region where the Barbarian Brothers live, a flash flood strikes and separates the heroes.  Yelling across the rapids, they agree to meet further up the river, if possible, believing it must thin or end somewhere.
+
+Név:
+Reinforcements.
+Üzenet:
+Scouts report that the brothers are bringing in reinforcements from other parts of Krewlod to help defend their artifacts.  Conquering their castles here might not mean they're utterly defeated.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(10, 11, 0) ***Barbár***
+Név:
+Zorlan
+
+(12, 46, 0) ***Harci Mágus***
+Név:
+Swankart
+
+(49, 15, 0) ***Harci Mágus***
+Név:
+Denarm
+
+(69, 64, 0) ***Jel***
+Üzenet:
+Krewlod-Erathia border zone.  Current controller - King Boragus of Krewlod.
+
+(19, 34, 0) ***Harci Mágus***
+Név:
+Venthin
+
+(49, 4, 0) ***Harci Mágus***
+Név:
+Zinitha
+
+(22, 5, 1) ***Igazság Pallosa***
+Üzenet:
+A few Crystal Dragons challenge you for the Sword.  Do you wish to fight them?
+
+(5, 50, 1) ***Oroszlánbátorság Pajzsa***
+Üzenet:
+A small group of Red Dragons flies down from the ceiling and challenge you for the shield.  Do you wish to fight them?
+
+(10, 44, 1) ***Vörös Sárkány***
+Üzenet:
+These Red Dragons look rather cramped living down here and decide to take their frustration out on you.
+
+(50, 25, 1) ***Csodák Páncélja***
+Üzenet:
+A horde of angry Minotaur Kings challenges you for the Armor of Wonder.  Do you wish to fight them?
+
+(52, 54, 1) ***Stronghold***
+
+Idõzített események:
+
+Név:
+Barbarian brother reinforcements.
+Üzenet:
+Reinforcements arrive for the BB's.
+
+===== Fájl vége =====

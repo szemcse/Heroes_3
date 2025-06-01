@@ -1,0 +1,88 @@
+===== Térkép neve =====
+Search for a Killer
+
+===== Térkép leírása =====
+Defeat all the Necromancers in the area to win the scenario.  However, if Gelu is defeated in combat, the scenario is lost.  Gelu is limited to level 30 but will carry his experience, skills and spells on to his next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Opening
+Üzenet:
+Upon arriving at Willowglen this morning, you discover that Lord Falorel has been murdered by poison.  However, an inspection of the body revealed that Lord Falorel was not an Elf after all!  It seems he was merely posing as an Elf when, in reality, he was a Vampire!  Something very odd is going on, and you must find out what!  Regardless of the deception being played out here, you must locate and deal with the murderer for the sake of AvLee.
+
+Név:
+Dark Realizations
+Üzenet:
+The death of Lord Falorel and discovery that he really was a Vampire calls into question all of your past deeds.  Were those lords really bandits attacking the region?  And that Dragon Lord, was he really in league with Necromancers?  You'll probably never know what this imposter was really up to, but you do know he had enemies and they caught up to him.		In light of these events, the screams of those you unjustly killed shall haunt you.  Atonement must be performed to cleanse your soul, and it is imperative that the Erathia leaders know of these events.  You fear they will not be pleased with your role in all this.
+
+Név:
+Scout Report
+Üzenet:
+A runner arrives bringing news that necromancer forces overran the town of Soledare.  Skeletons walk the streets, and the town has been completely compromised.  Hurry to the east and liberate Soledare.  Though it has been mostly destroyed, you will find a way to return Soledare to its former self.
+
+Név:
+The Region
+Üzenet:
+The waters of the Shandar River separate this area of the border between AvLee and Deyja.  One of the largest rivers in all of Antagarich, the Shandar was once a vital shipping route from the Halflings in Eeofol to the western cities of AvLee.  Now it is a border to be defended, a place of great vigilance and oftentimes conflict.  The Shandar has many swift currents, but it can be safely navigated, which makes it a strategic point.
+
+Név:
+The Real Lord Falorel
+Üzenet:
+Your soothsayers discovered that Lord Falorel's real name was Vayarad, and he was a vampire lord from northwestern Deyja.  He had been seeding AvLee with his own brood, preparing for some sort of coup in Deyja.  His armies were growing fairly slowly, but growing nonetheless.  They also believe the real Lord Falorel was killed sometime ago and replaced by this Vayarad.  It is highly likely that Falorel was transformed into the undead and is currently serving in the Deyja armies.
+
+Név:
+Dark Tides
+Üzenet:
+By herding villagers into pens, the Necromancers can easily slaughter and raise them in mass into the undead armies.  The details are gruesome and turn your stomach, threatening to make you wretch.  Fortunately, your training proves more than adequate to stave off such a display.  You are outraged and vow to avenge these poor souls.
+
+Név:
+News of the Druidess
+Üzenet:
+Rumor has it a Druid from a far off land is having troubles with the Necromancers herself.  You have to wonder if Lord Falorel's death has anything to do with her troubles.
+
+Név:
+News from the Underground
+Üzenet:
+There is an extensive underground network of tunnels in this region that goes far below the river and allows access to a wide variety of places.  If used properly, this tunnel system would allow for some dynamic assaults and surprise attacks.  This is one idea definitely worth investigating because the enemy will surely be watching their shores closely.
+
+Név:
+Chaos Reigns Supreme
+Üzenet:
+A report from your Erathian commanders arrives:		"Now that the news of Lord Falorel's demise has reached the populace, word has spread quickly and the Elven nobility are fearful and suspicious.  Find the identity of the killer.  The Elves are checking their own to see if AvLee has been further compromised.  We have received word of more Necromancer activity.  Seek out a Druid named Gem who is also investigating similar events.		"On the matter of the actions you have taken under the command of this imposter, fear not!  King Gryphonheart understands the situation and supports your current position."
+
+Név:
+Letter from Gem
+Üzenet:
+A letter arrived today from a Druid named Gem.  She wants to meet with you when you are finished with your business in Lord Falorel's land and look further into the recent events with the Necromancers.  She believes they are preparing for a strike deep into AvLee territory, and you couldn't agree more.  Your response is positive: once you are finished here you will meet with her.
+
+Név:
+A Destiny Forged in Blood
+Üzenet:
+Your scouts report they have seen these skeleton transformation rituals, and they are grisly to the extreme.  The need for troops must be getting to the Necromancers.  They also report there are two barbarians who are operating in Erathia, sparking trouble.  The other possibility is that they are gearing up for something big.  That thought is not welcome in your mind at all... yet it remains.
+
+Név:
+A Decision
+Üzenet:
+These killing fields must be shut down.  The lords in AvLee and your superiors in Erathia are greatly distressed at your reports of the events unfolding out here.  Conquering the towns in this region will greatly slow the production of skeletons for the necromancers.  These atrocities must cease immediately.  Only then will the night terrors leave your sleep unmolested.
+
+Név:
+The Name of the Enemy
+Üzenet:
+Your interrogation of some prisoners brought before you leads to a name: Sandro.  Apparently, this Sandro was a rival to Vayarad and may be the one who ordered his poisoning.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(2, 4, 0) ***Rampart***
+Név:
+Willowglen
+
+(49, 18, 0) ***Necropolis***
+Név:
+Soledare
+
+===== Fájl vége =====

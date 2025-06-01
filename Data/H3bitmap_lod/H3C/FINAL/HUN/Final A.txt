@@ -1,0 +1,45 @@
+===== Térkép neve =====
+Betakarítás
+
+===== Térkép leírása =====
+A gyõzelemhez Yognak le kell gyõznie az Erathia e részét pusztító nekromantákat. Azonban ha Yog vereséget szenved, a küldetés elveszett. Yog 30. szintig juthat el, de tapasztalatát és képzettségeit továbbviszi majd a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Pár napja pletykákat hallottál arról, hogy a nekromanták elárasztották Erathiát. Mivel úgysem csinálsz semmi érdekeset, utánanézel a pletykáknak. A nekromanták valóban nagy erõkkel hatoltak be Erathiába. Mivel erõsen irtózol az élõhalottaktól és a nekromanták fekete mágiájától, vezetõi képességeidet latba veted, és kiûzöd õket Erathiából.
+
+Név:
+Ellenséges anyag
+Üzenet:
+
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(11, 66, 0) ***Esemény***
+Üzenet:
+Ahogy megközelíted a várost, észreveszed, hogy az emberek egészen jókedvûek. Csodálkozol ezen, és megkérdezel egy helybéli parasztot errõl. Majd a paraszt így magyarázza: "Miért? Uram, azért, mert te itt vagy, hogy megments minket. És nem csak te, mert a nõvérem városában még egy barbár segíti õket a nekromanták ellen. Ez azt jelenti, hogy Erathia és Krewlod újra békét köt?" Csak bólintasz és továbbállsz, nem akarod szertefoszlatni a reményeit. De megjegyzed magadnak, hogy utána kell nézned a másik barbárnak, akinek szintén gondot okoznak a nekromanták.
+
+(22, 17, 0) ***Esemény***
+Üzenet:
+Egy kis kõsziklán állsz, és ahogy körülnézed, látod, hogy az út késõbb kettéválik. Az úton túl korhadó fák, a nekromanták jelenlétének bizonyítékai. Ez nem jó jel. Úgy döntesz, hogy elõnyösebb helyzetbõl is megvizsgálod a korhadást.
+
+(37, 8, 0) ***Esemény***
+Üzenet:
+Érzed, hogy a lovaknak pihenésre van szüksége, ezért lehúzódsz az út mellé, és pár percnyi pihenõt rendelsz el. Ahogy iszol egy kis vizet, megjegyzed magadnak a környezetet, és hogy mit tettek a nekromanták ezzel a valaha gyönyörû vidékkel. Akárki tette is, meg fog fizetni érte, méghozzá drágán.
+
+(34, 28, 0) ***Esemény***
+Üzenet:
+Az úton haladva hirtelen megálltok, amikor egy nekromanta kastélyba botltok. Egy régi erathi város romjain áll. A falak egy része még látszik, a nekropolisz árnyéka alatt omladozva. A halál bûze öklendezésre késztet, és megkeményíti elhatározásodat, hogy segíts ezeknek az embereknek.
+
+(32, 58, 0) ***Esemény***
+Üzenet:
+Gyorsan megállítod a sereged. Ahogy a nekromanták frissen elfoglalt területeinek szélén állsz, behunyod a szemed, összeszorítod az öklödet, düh és gyûlölet áramlik át rajtad. Hiába próbálkozol minden erõddel, hogy sereget állíts fel a gonosz teremtmények legyõzésére, úgy tûnik, nem vagy elég gyors, hogy megállítsd egyre növekvõ befolyásukat.
+
+===== Fájl vége =====

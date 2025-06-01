@@ -1,0 +1,117 @@
+===== Térkép neve =====
+To Strive, To Seek
+
+===== Térkép leírása =====
+Gem and Gelu must find the Sandals of the Saint, Helm of Heavenly Enlightenment and the Necklace of Celestial Bliss to win the scenario.  However, if either hero is defeated in combat, the scenario is lost.  They limited to level 37 but will carry their experience, skills and spells on to their next
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Opening
+Üzenet:
+After their recent defeat, Gem and Gelu knew what must be done.  They needed a weapon, something to defeat Sandro's combination artifacts.  Thanks to the information given them by the Barbarian Yog, they knew the approximate whereabouts of three of the Angelic Alliance pieces.  These pieces were crucial to stopping the madman Sandro and his puppet, King Vilmar.
+
+Név:
+The Area
+Üzenet:
+Across a small tributary of the Shandar River lies a region of Erathia that was a major hot spot during the Timber Wars.  This region was fought over and controlled by both sides many times during that time and left the place battered and beaten.  These days two warlords who claim loyalty to Erathia now control it, but Gelu tells me it is in name only.  They are under Erathia's banner because it suits them for the moment, but in reality, they are loyal to themselves alone.		The Sandals of the Saint are known to be located here, but the Helm of Heavenly Enlightenment and Celestial Necklace of Bliss are only rumored.  These people will not be interested in helping us, nor will they surrender the artifacts without a fight.  'Tis a shame we shall have to shed mostly innocent blood to save the lives of us all and stop that madman Sandro.  But such is the fate of these fools.
+
+Név:
+Sandals Spotted
+Üzenet:
+Local farmers passing by your army have spotted the Sandals of the Saint.  They tell you it is located in the south near the town of Berrinton.
+
+Név:
+Celestial Necklace Spotted
+Üzenet:
+A scout returns to Gem and reports he has located the Celestial Necklace of Bliss near the town of Jared's Hill in the south.  It is heavily guarded, so perhaps a stealthy approach is best.  Mayhap a piece of gold in the right hands can slip us past their guard posts.
+
+Név:
+The tides have turned
+Üzenet:
+Though the Necromancer forces have us on the run, we will be able to force them from our lands once the Alliance is forged.  We will need to be clear thinking over the next few months as our search continues.  With the news of the sighting of the Sandals of the Saint and the Celestial Necklace of Bliss, our spirits are on the rise.  If the powers above are with us, we shall prevail.
+
+Név:
+Worries
+Üzenet:
+No word from Crag or Yog has Gelu worried.  He paces back and forth, fretting over the lack of information.  Have they succeeded?  Have they failed?  If they don't locate the pieces they were looking for, what will happen to the people of AvLee or Erathia?		A dark air of foreboding washes over his pale countenance.  He stands surveying his troops with a feeling of dread and uncertainty.  Perhaps this is a ruse, like the ones pulled on Gem and Crag Hack.  This seems all too easy.
+
+Név:
+Shades of Betrayal
+Üzenet:
+Scrying in her bowl, Gem often learned for certain the nature of things around her.  She once told Gelu the way she learned of Sandro's ploy, that he was using Vilmar as a puppet to control Deyja from the shadows.  This would allow him to remain in control and not be a target, a clever plan indeed.  However, he underestimated the intellect of those who he duped.  He did not count on the cunning of the one called Crag Hack or the clever mind of Gem.  Perhaps he simply didn't care, preferring to believe that he would have the artifacts in his possession well before his ruse could be detected.  Who knows?
+
+Név:
+A runner arrives
+Üzenet:
+A runner arrives before Gem and presents a message.  The message, from the Council of Elders, reads:		"Gem, you must hurry, for the people of AvLee are being slaughtered in droves, like herds of cattle being culled.  The one called Sandro is now raising our fallen as his own minions.  Those that seem suited are even becoming his more potent forces.  From all accounts we feel that his legions will swell to an insurmountable size in mere months.  You must put an end to this immediately.  Hurry in your search, for we are dead without that artifact."
+
+Név:
+The Day of Smoke and Shadows
+Üzenet:
+A cold gray cloud descended across the land today.  The fires of war burned bright as the shadows of gloom crossed the fields and meadows.  News of the defeat of AvLee's western regions had reached the pair.  Gelu, steely eyed as ever, renewed her steadfast approach to victory.  Gem, meanwhile, took a more spiritual course, choosing to perform several small rites of passing for the departed, an offering to the powers above to aid the fallen in their travels beyond.  Now more than ever, the need for expedience was apparent.
+
+Név:
+Days of Redemption
+Üzenet:
+Gelu sat in his tent that morning and contemplated his life.  He's learned the ways of battle, the ways of stealth and spying, but none of that training prepared him for the consequences of mistakes.  The day of redemption shall come one day for him, but that day is not today.  First, he must do his part in the destruction of this Sandro and his armies of the undead.  Stopping this madman will, at least in part, balance his soul against the mistakes he made and the suffering he caused when he destroyed those AvLee lords.  Perhaps then the demons of sleep will allow him peace at last.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(45, 7, 0) ***Rampart***
+Név:
+Shayar
+
+(20, 8, 0) ***Rampart***
+Név:
+Faeyedon
+
+(4, 25, 0) ***Rampart***
+Név:
+Shavoril
+
+(61, 26, 0) ***Rampart***
+Név:
+Kineree
+
+(30, 69, 0) ***Castle***
+Név:
+Jared's Hill
+
+(42, 65, 0) ***Castle***
+Név:
+Berrinton
+
+(17, 40, 0) ***Castle***
+Név:
+Waterston
+
+(60, 49, 0) ***Castle***
+Név:
+Galor's Glen
+
+(44, 41, 0) ***Castle***
+Név:
+Moersberg
+
+(7, 60, 0) ***Castle***
+Név:
+Daviston
+
+(27, 30, 0) ***Esemény***
+Üzenet:
+A band of refugees approaches, looking forlorn and undernourished.  As you reach out to offer your hand in friendship, you realize that this is a trap.
+
+(65, 38, 0) ***Esemény***
+Üzenet:
+A small boy lies in the road, battered and broken.  He holds in his hands a small box.  He offers it out to you as you pass by, and you take it as he dies.  Opening it, you see a wondrous gift inside.  How this ever fell into the hands of these warlords you'll never know.  Perhaps it is a gift from above?
+
+(3, 44, 0) ***Esemény***
+Üzenet:
+Sitting beside the well is an odd little woman muttering to herself.  She is dressed in a crude shift and has flowers in her hair.  Carefully, you approach.  Even the gentlest of touches sends her in to screaming fits.  She clutches her hands to her chest and backs away.  As you attempt to apologize, she points a finger at you and shouts an incoherent warning or curse.  You feel a tingle and a shudder wracks your body.  A sickening feeling of dread washes over you.
+
+===== Fájl vége =====

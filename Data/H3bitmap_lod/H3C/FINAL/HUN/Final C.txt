@@ -1,0 +1,88 @@
+===== Térkép neve =====
+Kutatás egy gyilkos után
+
+===== Térkép leírása =====
+Gyõzd le az összes nekromantát a területen, hogy megnyerhesd a küldetést.  Ha azonban Gelu-t legyõzik a harcban, a küldetés elveszett.  Gelu 30-as szintre korlátozódik, de tapasztalatait, képességeit és varázslatait továbbviszi a következõ küldetésre.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Ma reggel Willowglenbe érkezvén felfedezted, hogy Lord Falorelt méreggel meggyilkolták. Azonban a holttest vizsgálata kimutatta, hogy Lord Falorel nem is volt tünde! Csak tündének adta ki magát, de valójában vámpír volt! Valami nagyon furcsa dolog folyik itt. Ki kell találnod, mi lehet az. A leleplezett csalás ellenére is meg kell keresned a gyilkost AvLee kedvéért.
+
+Név:
+Sötét felismerések
+Üzenet:
+Lord Falorel halála és annak felfedezése, hogy valójában vámpír volt, kérdéseket vet fel múltbéli tetteiddel kapcsolatban. Azok a lordok tényleg a vidéket támadó banditák voltak? És az a Sárkányúr, tényleg a nekromantákkal szövetkezett? Valószínûleg soha nem fogod megtudni, hogy ez a szélhámos valójában mire készült, de azt tudod, hogy voltak ellenségei, és azok utolérték.		Az események fényében az igazságtalanul meggyilkoltak sikolyai kísérteni fognak. Vezekelned kell, hogy megtisztítsd a lelkedet, és elkerülhetetlen, hogy az erathiai vezetõk is tudomást szerezzenek a történtekrõl. Attól tartasz, nem lesznek elégedettek a te szerepeddel ebben az egészben.
+
+Név:
+Felderítõ jelentése
+Üzenet:
+Egy futár azt a hírt hozza, hogy a nekromanta haderõk birtokba vették Soledare városát. Csontvázak járják az utcákat, és a lakosságot átalakították. Siess keletre, hogy felszabadítsd Soledare-t. Bár jobbára elpusztult, megtalálod a módját, hogy visszaállítsd eredeti állapotába.
+
+Név:
+A régió
+Üzenet:
+A Shandar folyó vize választja el AvLeet és Deyját. Antagarich egyik legnagyobb folyójaként a Shandar valaha az eofoli félszerzetek és a nyugat-avleei városok közti fontos kereskedelmi útvonal volt. Most egy megvédendõ országhatár, ahol nagy az éberség és gyakran van konfliktus. A Shandarnak sok gyors áramlata van, de biztonságosan hajózható, ami kiváló stratégiai ponttá teszi.
+
+Név:
+Az igazi Lord Falorel
+Üzenet:
+Jövendõmondóid felfedték, hogy Lord Falorel igazi neve Vayarad volt, vámpírúr Deyja északnyugati részébõl. Megvetette AvLeeben a lábát, valamiféle államcsínyre készülve Deyjában. Elég lassan növekedett a serege, de növekedett. A jósok úgy vélik, az igazi Lord Falorelt valamikor megölték, és Vayarad állt a helyébe. Erõsen valószínû, hogy Falorelt élõhalottá változtatták, és most Deyja seregében szolgál.
+
+Név:
+Sötét dagályok
+Üzenet:
+A lakosságot karámokba terelve a nekromanták könnyedén lemészárolhatják õket, és tömegesen állíthatnak elõ élõhalottakat. A részletek olyan borzalmasak, hogy felfordul a gyomrod, és majdnem elhányod magad. Szerencsére a kiképzésed több mint elegendõnek bizonyul, hogy elhárítsa ezt a veszélyt. Fel vagy háborodva, és megesküszöl, hogy megbosszulod ezeket a szerencsétlen lelkeket.
+
+Név:
+Hírek egy Druidáról
+Üzenet:
+Állítólag valahol távol egy druidának is gondjai akadtak a nekromantákkal. Azon gondolkozol, hogy vajon Lord Falorel halálának nincs-e köze az õ problémájához.
+
+Név:
+Hírek a föld alól
+Üzenet:
+Kiterjedt föld alatti alagúthálózat van a terület alatt, amely mélyen benyúlik a folyó alá, és sok hely elérhetõ általa. Megfelelõen használva ez az alagútrendszer lehetõvé tenne pár dinamikus hadmûveletet és meglepetésszerû támadást. Ezt az ötletet feltétlenül érdemes megvizsgálni, mert az ellenség bizonyára erõsen figyelteti a partjait.
+
+Név:
+Káosz uralkodik
+Üzenet:
+Jelentés érkezik az erathiai parancsnokaidtól:		"A Lord Falorelrõl szóló hírek elérték a lakosságot, a szó gyorsan terjedt, és most a tünde nemesség félelemmel teli és gyanakvó. Azonosítsd a gyilkost. A tündék a saját soraikat ellenõrzik, hogy nincs-e több átalakított avleei. Hírt kaptunk több nekromanta tevékenységrõl is. Keres fel egy Gem nevû druidát, aki szintén hasonló eseményeket vizsgál."		"Ami az imposztor parancsai szerinti tevékenységedet illeti, ne félj! Gryphonheart király megérti a szituációt, és támogatja a jelenlegi helyzetedet."
+
+Név:
+Levél Gemtõl
+Üzenet:
+Levél érkezett ma egy Gem nevû druidától. Ha végeztél ezzel az üggyel, találkozni akar veled, hogy alaposan megvizsgáljátok a mostani eseteket a nekromantákkal kapcsolatban. Úgy véli, hogy egy mély csapást terveznek AvLee területére, és ennél jobban nem is érthetnél vele egyet. Válaszod pozitív: ha itt végeztél, találkozol vele.
+
+Név:
+Vérrel kovácsolt végzet
+Üzenet:
+Felderítõid jelentik, hogy láttak pár csontvázzá változtató szertartást, és a legvégsõkig borzalmasak. A nekromantáknak nagyon szükségük lehet csapatokra. Azt is jelentik, hogy két barbár is hasonló problémákkal küszködik Erathiában. A másik lehetõség, hogy valami nagy dologra készülnek. Ez nem szívesen látott gondolat... de mégis veled marad a fejedben.
+
+Név:
+Döntés
+Üzenet:
+A gyilkolászásnak véget kell vetni. AvLee és Erathia lordjai nagyon aggódnak a jelentéseid és az itt kibontakozó események miatt. A terület várainak meghódítása nagyban lelassítja a nekromanták csontváz-elõállítását. Ezt a szörnyûséget azonnal meg kell szüntetni. Csak akkor lehet rettegéstõl zavartalan az álmod.
+
+Név:
+Az ellenség neve
+Üzenet:
+Pár fogoly kihallgatása végre egy névhez vezet: Sandro. Állítólag ez a Sandro Vayarad riválisa volt, és talán õ rendelte el a megmérgezését.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(2, 4, 0) ***Rampart***
+Név:
+Willowglen
+
+(49, 18, 0) ***Necropolis***
+Név:
+Soledare
+
+===== Fájl vége =====

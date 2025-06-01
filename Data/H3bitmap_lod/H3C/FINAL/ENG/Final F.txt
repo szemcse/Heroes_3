@@ -1,0 +1,152 @@
+===== Térkép neve =====
+Agents of Vengeance
+
+===== Térkép leírása =====
+You must capture Castle Crypthome to win the scenario.  However, if Gem or Gelu is defeated in combat, the scenario is lost.  The heroes are limited to level 33 but will carry their experience, skills and spells on to their next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro Gelu
+Üzenet:
+Gelu:  After learning that Sandro was behind the plot to kill Lord Falorel, I did some more investigating and discovered the Dragon Lords I destroyed were not bandits.  They were real AvLee Border Lords.  I felt I had to explain personally to the AvLee Council of Elders and accept their judgment for my mistake.  The Council was skeptical, but after consulting with their Oracle, they said I could best make amends by participating in a punitive campaign against Deyja.  I feel honor bound to accept their judgment, and I have taken a leave of absence from the Forest Guard.
+
+Név:
+Intro Gem
+Üzenet:
+Gem:  The doll got to me.  It looked just like the one my sister had right before she died.  I remember thinking she was the luckiest girl in the world to have a doll like that.  Then the horde of skeletons killed everyone in my village.  I was the only survivor.  I'm GLAD the Council of Elders choose me as one of the pair to punish Deyja.
+
+Név:
+Letter Ethric to Gem
+Üzenet:
+Gem:  I received a message from Ethric today.  Ethric said it had been decades Sandro was his apprentice.  He said Sandro ran away and become a Necromancer!  There were more ill tidings.  Ethric said Sandro might be trying to construct a powerful artifact from all the artifacts I gathered for him.  I was so furious, I screamed.  None of my troops came near me for an hour.  I must pass these tidings on to Gelu and the Council of Elders.
+
+Név:
+Message Gem to Gelu
+Üzenet:
+Gelu:  I received a message from Gem today.  She had found out Sandro is a Necromancer.  She sounded angry.  She said Sandro might have built some powerful artifact from all the artifacts she gathered for him.  I wonder if the dead AvLee Lords stumbled across this plan?
+
+Név:
+Scout Report Barbarians
+Üzenet:
+Gelu:  My scouts encountered some Erathian irregulars today.  They were part of a militia unit from the town of Clovergreen.  They knew Gem.  They also passed on interesting news.  Two Barbarians named Crag Hack and Yog are invading Deyja from Erathia.  I should Gem about this and send word to the Erathian High Command.
+
+Név:
+Gem to Yog
+Üzenet:
+Gem:  Today I received word from Gelu about a pair of Barbarians attacking Deyja from the Contested Lands.  To my surprise, an hour later some of my Elven scouts escorted in some Orc spies with a message for me.  It was from a blue Barbarian hero named Yog.  Hmm, I met him once in Enroth.  He's with another Barbarian named Crag Hack.  I've heard of Crag too.  Yog and Crag Hack are upset with the Necromancers and Sandro especially.  What?!  Crag collected artifacts for Sandro, which DID combine into a powerful artifact!  Ethric was right!
+
+Név:
+Gem to Yog (cont)
+Üzenet:
+To express their displeasure with Sandro, the Barbarians decided to invade Deyja, but Yog wants to know what is really going on.  This is good timing for our own campaign.  We are hitting Deyja from the North while they are attacking from the West.  The Erathians are going to have kittens when they hear about Yog and Crag.  I want to talk to Yog.  Where's that map?  Hmm, Gelu and I need to first take Castle Crypthome to secure this part of Deyja, but afterwards I'll ask Yog and Crag to meet Gelu and myself at a place called Blagden.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(36, 67, 0) ***Necropolis***
+Név:
+Crypthome
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+Extra Critters
+Üzenet:
+
+
+Név:
+Bonus Income
+Üzenet:
+
+
+Név:
+Build Townhall
+Üzenet:
+
+
+Név:
+Build Citadel
+Üzenet:
+
+
+(61, 35, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+Extra Critters
+Üzenet:
+
+
+Név:
+Bonus Income
+Üzenet:
+
+
+Név:
+Build Townhall
+Üzenet:
+
+
+(35, 71, 0) ***Jel***
+Üzenet:
+To Blagden
+
+(13, 37, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+Extra Critters
+Üzenet:
+
+
+Név:
+Bonus Income
+Üzenet:
+
+
+Név:
+Build Townhall
+Üzenet:
+
+
+(36, 51, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+Extra Critters
+Üzenet:
+
+
+Név:
+Bonus Income
+Üzenet:
+
+
+===== Fájl vége =====
