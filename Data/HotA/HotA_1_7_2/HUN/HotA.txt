@@ -2746,7 +2746,7 @@ Támadás típusa Hõguta
 #169
 ""{Támadás típusa Hõguta}
 
-Válassz célpontot a Hõguta megtorlás nélkül támadásához, ahelyett, hogy mozogn az egységed.""
+Válassz célpontot a Hõguta megtorlás nélküli támadáshoz, ahelyett, hogy az egységed mozogna.""
 #170
 Válassz célpontot a Hõguta használatához
 #171
@@ -3130,7 +3130,7 @@ Tanuld meg %s %s, az ára %d arany és %d %s.
 {Aktuális bónusz és varázslat sebzés}
 #346
 ""{%s jelenlegi bónusza}
-+%d támadás, +%d védelem, +1 speed""
++%d támadás, +%d védelem, +1 sebesség""
 #347
 ""{%s jelenlegi bónusza}
 +%d támadás, +%d védelem""

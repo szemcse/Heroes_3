@@ -1,0 +1,172 @@
+//Campaign Map Names
+Sokáig éljen a királynõ
+Felszabadítás
+Ének Apámról
+Börtönök és Ördögök
+Éljen a Király
+A háború zsákmányai
+Az elégedetlenség csírái
+Bracada
+Szigetek
+Krewlod
+Nighon
+Tatalia
+Armageddon
+Vagdalás és aprítás
+Egy barbár születése
+Új kezdet
+Az élet elixíre
+A nekromanták felemelkedése
+Ördögi Szövetség
+Az erõ szelleme
+
+
+//Good 1 Map Region Names
+Déli rév
+Angyalkapu
+Griff szikla
+
+
+//Good 2 Map Region Names
+Csatahely
+Fagyos föld
+Mocsárvidék és Hegygerinc
+Bõ termés és tûzpart
+
+
+//Good 3 Map Region Names
+Alsóerdõ
+E.hegyek, S.fûzfa, W.liget, F.temetõ
+Márványkert
+
+
+//Evil 1 Map Region Names
+Rionpoint
+Bõ termés
+Csatahely
+Tûzpart
+Déli rév
+Angyalkapu
+Griff szikla
+
+
+//Evil 2 Map Region Names
+Márványkert
+Smaragddombok
+Erõs fûzfa és Erdõliget
+F.don, F.temetõ és alsóerdõ
+
+
+//Neutral 1 Map Region Names
+Mocsárvidék
+Jó bánya
+Völgyhíd
+
+
+//Secret 1 Map Region Names
+Lóheremezõ
+Mohaerdõ
+Erdõvölgy
+
+
+// Bracada Map Region Names
+Bracada A
+Bracada B
+Bracada C
+Bracada D
+
+
+// Islands Map Region Names
+Szigetek A
+Szigetek B
+Szigetek C
+Szigetek D
+
+
+// Krewlod Map Region Names
+Krewlod A
+Krewlod B
+Krewlod C
+Krewlod D
+
+
+// Nighon Map Region Names
+Nighon A
+Nighon B
+Nighon C
+Nighon D
+
+
+// Tatalia Map Region Names
+Tatalia A
+Tatalia B
+Tatalia C
+
+
+// Armageddon Map Region Names
+Végítélet A
+Végítélet B
+Végítélet C
+Végítélet D
+Végítélet E
+Végítélet F
+Végítélet G
+Végítélet H
+
+
+// Hack and Slash Region Names
+Vagdalás és aprítás A
+Vagdalás és aprítás B
+Vagdalás és aprítás C
+Vagdalás és aprítás D
+
+
+// Birth of a Barbarian Region Names
+Barbár születik A
+Barbár születik B
+Barbár születik C
+Barbár születik D
+Barbár születik E
+
+
+// New Beginning Region Names
+Új kezdet A
+Új kezdet B
+Új kezdet C
+Új kezdet D
+
+
+// Elixir of Life Region Names
+Az élet elixíre A
+Az élet elixíre B
+Az élet elixíre C
+Az élet elixíre D
+
+
+// Rise of the Necromancer Region Names
+A Nekromaták felemelkedése A
+A Nekromaták felemelkedése B
+A Nekromaták felemelkedése C
+A Nekromaták felemelkedése D
+
+
+// Unholy Alliance Region Names
+Ördögi szövetség A
+Ördögi szövetség B
+Ördögi szövetség C
+Ördögi szövetség D
+Ördögi szövetség E
+Ördögi szövetség F
+Ördögi szövetség G
+Ördögi szövetség H
+Ördögi szövetség I
+Ördögi szövetség J
+Ördögi szövetség K
+Ördögi szövetség L
+
+
+// Specter of Power Region Names
+Az erõ szelleme A
+Az erõ szelleme B
+Az erõ szelleme C
+Az erõ szelleme D

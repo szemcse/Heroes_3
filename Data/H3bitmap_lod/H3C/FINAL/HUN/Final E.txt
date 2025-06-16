@@ -1,0 +1,119 @@
+===== Térkép neve =====
+Felfedett titkok
+
+===== Térkép leírása =====
+Yognak és Crag Hacknek le kell gyõznie a nekromantákat, hogy megnyerje a küldetést.  Ha azonban bármelyik hõst legyõzik a harcban, a küldetés elveszett.  Yog és Crag Hack 33. szintre korlátozódik, de tapasztalatukat, képességeiket és varázslataikat továbbvihetik a következõ küldetésre.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Ellátmány az elsõ napra
+Üzenet:
+Itt van
+
+Név:
+Bevezetés
+Üzenet:
+Eltartott egy kis ideig, amíg megtaláltam Crag Hacket, és meggyõztem, hogy csatlakozzon hozzám.  Most már nagyon lelkes, hogy szétrúgjon néhány komoly nekromanta segget.  Miközben táboroztunk, elmesélte nekem a történetet arról, hogy egy Sandro nevû varázsló hogyan csapta be õt. Miszerint négy ereklyét adott neki anélkül, hogy fizetett volna értük.  Soha nem hallottam errõl a varázslóról, de figyelni fogok mindenkit, akire illik a leírása.
+
+Név:
+Nem sokkal azután
+Üzenet:
+Nem sokkal azután, hogy te és Crag Hack összeálltatok, Erathia egy olyan szakaszára bukkantatok, amelyet teljesen elfoglaltak az élõholtak.  Mivel Crag vérszomjas barbár, hozta magát és õ maga akart odarohanni, és az összes nekromantával leszámolni.  Sokkal könnyebb volt meggyõzni, hogy maradjon és állítson fel egy sereget, mint gondoltad.  Csak annyit kellett megemlítened, hogy ha sereget állít fel, hetek alatt átgázolhat a környék összes élõhalottján.  Végül beleegyezõen bólintott.  Legalább a koponyája nem teljesen üres, mondod magadban, miközben elhagyja a helyiséget.
+
+Név:
+Felderítõk
+Üzenet:
+A városok építkezései szépen haladnak.  Lassabban halad, mint azt szeretnéd, de valamiért van egy gyötrõ gyanúd, hogy sok bajban lesz még részed.  Mivel nem tetszik ez az érzés, kiküldesz néhány felderítõt, hogy nézzenek körül a környéken.  Remélhetõleg hoznak valami információt az ellenségrõl.
+
+Név:
+Erõsebb haderõk
+Üzenet:
+A felderítõk jelentésére pillantva rájössz, hogy a nekromanta erõk sokkal erõsebbek, mint eredetileg gondoltad.  Nemcsak, hogy minden oldalról jönnek, de háromszoros túlerõben vannak!   Errõl azonnal értesítenem kell Crag Hacket!
+
+Név:
+Crag válasza 
+Üzenet:
+Magadban nevetve döbbensz rá, hogy õrültség volt még csak gondolni is arra, hogy egyesítsd erõidet azzal a... azzal a... azzal a... barbárral.  Crag válasza nem sokkal ezelõtt érkezett.  A következõ állt benne: "Mi építünk, mi zúzunk.  Ne féljetek a büdöskéktõl."  Nos, az üzenet inkább nyers volt.  Mivel rájöttél, hogy ez a barbár valószínûleg félig felkészülten fog a csatába rohanni, parancsokat ordítasz, hogy gyorsítsák fel az elõkészületeket.
+
+Név:
+Találkozó
+Üzenet:
+Nos, én már majdnem készen vagyok.  Azt hiszem, itt az ideje, hogy összehozzunk egy találkozót Crag Hackkel, hogy megbeszéljük a támadási tervet.  Futárért küldetve, gyorsan megírsz egy levelet, amelyben a következõ néhány héten belül találkozót kérsz.
+
+Név:
+Történelem
+Üzenet:
+Crag Hack megjelent tegnap, és nagyon érdekelte, hogy pontosan hogyan fogtok lecsapni a nekromantákra. Már van ebben gyakorlata. Elmesélte, hogy pár varázstárgyért jó sok nekromantát ölt már meg. Azok a varázstárgyak jelentették volna számára az aranyat, a földet és a nõket, de Sandro kicsalta tõle az egészet. Crag Hack most csak szeretne öldökölni egy kicsit, hogy oldja a stresszt. Megmutatod neki a terveidet, és azt magyarázod, hogy bizonyos esetben minél többet vár, annál több nekromantát ölhet majd meg. Úgy tûnt, egyetértett az ötlettel, de nem voltál nagyon meggyõzve, mikor elment.
+
+Név:
+Két kósza
+Üzenet:
+Valami ígéretes dolog jutott el a füledhez tegnap este, miközben alváshoz készülõdtél.  Úgy tûnik, nem csak te és Crag Hack harcoltok a nekromanták ellen.  Egy kósza és egy druida, Gelu és Gem is harcol az élõholtak erõi ellen, de õk AvLee határain belül dolgoznak.  Nem is gondoltad volna, hogy a nekromanta befolyása ilyen messzire elér.  Gyorsan írsz egy levelet, amelyben elmagyarázod a helyzetedet, és elküldöd nekik, remélve, hogy egy késõbbi idõpontban találkozhatsz velük.
+
+Név:
+Gem és Gelu
+Üzenet:
+Nemrég érkezett egy futár, aki arról tájékoztatott, hogy Gem és Gelu Bragdenben akarnak találkozni, ami Deyja északnyugati részén található.  "Nos - gondolod magadban -, amint itt végeztünk, máris indulunk."
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(13, 5, 0) ***Stronghold***
+
+Idõzített események:
+
+Név:
+További egységek
+Üzenet:
+Végre megérkezett néhány hûséges csapat, hogy segítsen nektek eltiporni a nekromantákat!
+
+(54, 5, 0) ***Stronghold***
+
+Idõzített események:
+
+Név:
+Creatures
+Üzenet:
+Recruits have come in and are willing to fight for you.
+
+(47, 48, 0) ***Esemény***
+Üzenet:
+Két felderítõt küldtél ki, hogy ellenõrizzék a város erõdítményeit.  Csak az egyik tért vissza, de neki több információja volt az erõdítményekrõl.  Egy érdekes beszélgetést jegyzett meg.		"Ez egyre nevetségesebb. Finneas Vilmar magánkívül lesz, ha értesül a veszteségeinkrõl. Egyszerû parancsaink voltak: gyere ide és állíts fel egy sereget. Még ezt sem bírjuk megcsinálni! Annak a barbárnak a fejét papírnehezéknek fogom használni... ha egyszer elkapom" - mondta a nekromanta.		 "Még nem gyõztek, ne féljetek." - válaszolta a katona.		"NEM FÉLEK!  Hallod?  Semmi sem ijeszt meg ezen a világon!"		"Igen, uram."		"Most menjetek és hozzátok ide azoknak a mocskos barbároknak a fejét!  MOST!" 		"Ekkor ért véget a beszélgetésük, uram." 	Ezt tudomásul véve úgy döntesz, hogy amint ezek a nekromanták eltûntek, meglátogatod ezt a Finneas Vilmart.
+
+(32, 45, 0) ***Titok Kunyhó***
+Üzenet:
+Õsi behemótok fenyegetik az innen északra fekvõ falvakat.  Ha lennétek olyan bátrak, hogy legyõznétek õket, bõségesen megjutalmaználak benneteket.
+
+(55, 0, 0) ***Ork Törzsfõnök***
+Üzenet:
+Évek óta gyûjtjük ezt az aranyat!  Nem fogjátok elvenni tõlünk!
+
+(56, 0, 0) ***Arany***
+Üzenet:
+Miközben letörlöd a vért a pengédrõl, elgondolkodsz azon, milyen jó harc is volt ez.  Nos, mivel az orkoknak már nem lesz szükségük erre az aranyra, úgy döntesz, elveszed.
+
+(47, 2, 0) ***Esemény***
+Üzenet:
+Ahogy átkelsz a zord terepen, egy embert veszel észre az ösvény mellett fekve, nagy vágással az oldalán. Amikor meglát téged, int neked. Ám amint közelebb érsz, kelet felé mutat, és rekedten suttogja: "Az aranyam... elvették... sok ork... siess."
+
+(27, 21, 0) ***Esemény***
+Üzenet:
+Éppen amikor a nap elérte a csúcspontját, észrevesz egy csillogást az út szélén.  Mivel nem tudod, mi az, megállítod a seregedet, és elküldesz valakit, hogy nézze meg.  A goblin néhány perc múlva visszatér egy karddal és egy darab pergament hozva.  Egy pillantás a kardra azt mutatja, hogy értéktelen, ezért azt mondod a goblinnak, hogy tartsa meg.  De a pergamen más volt.  Kinyitva a pergament, rájössz, hogy egy feljegyzés, amely elásott kincsekrõl szól, amelyeket valahol errefelé rejtettek el.  A pergamen alsó sarkában egy kis térképet látsz.  Tájékozódva észreveszed, hogy a kincsek a völgyben vannak, nem túl messze délre innen.
+
+(27, 27, 0) ***Esemény***
+Üzenet:
+Néhány óra kutatás után végre megtalálod a helyszínt, ahol a térkép szerint a kincs van. Mivel nem akarod magad végezni a munkát, néhány embereddel csináltatod meg. Pár perc múlva bõséges a jutalmad.
+
+(27, 29, 0) ***Esemény***
+Üzenet:
+Ránézel a helyre, ahol az embereid elkezdtek ásni, és azon csodálkozol, hogy miért akarna bárki is ennyi aranyat elrejteni.  Mivel nem tudsz jó indokot találni arra, hogy miért ne vigyétek el az aranyat, a nyeregtáskádba teszed, és megparancsolod a seregednek, hogy induljanak tovább.
+
+(28, 31, 0) ***Esemény***
+Üzenet:
+A földre nézel, majd a térképre. Kétségkívül ezt volt a legnehezebb megtalálni. Eldöntöd, hogy itt kell lennie a kincsnek, és parancsot adsz embereidnek, hogy kiássák az utolsó eltemetett kincset.
+
+===== Fájl vége =====

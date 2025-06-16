@@ -1,0 +1,7 @@
+Támadás
+Védekezés
+Sebzés
+Életerõ
+Sebesség
+Heti szaporulat
+Kilépés %s

@@ -1,0 +1,133 @@
+===== Térkép neve =====
+Végsõ béke
+
+===== Térkép leírása =====
+A gyõzelemhez meg kell ölnöd Lord Fayette-et.  Azonban ha Gem vereséget szenved, a küldetés elveszett.  Gem 30. szintig juthat el, de tapasztalatát és képzettségeit továbbviszi majd a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Lord Fayette halállovaggá változott, miközben egy titkos küldetésen volt Deyjában.  Állítólag, titokban kellett volna találkoznia az egyik deyjani határúrral, de valami rosszul sült el.  Elhatároztam, hogy az élõhalott testének elpusztításával megadom a lelkének a végsõ békét.  Clancy önként jelentkezett, hogy segít nekem.  Átsurrantunk a határon, az AvLee és Deyja közötti senki földjére.  Innen fogjuk felépíteni az erõinket, és behatolunk Deyja területére.
+
+Név:
+Tervek
+Üzenet:
+Két erõdítményt találtunk.  Clancy és én egy-egy várban építjük ki a bázisunkat, kiépítjük erõinket és várainkat, majd egyesítjük erõinket, hogy benyomuljunk Deyjába.  A látomásomból tudom, hogy a Halál Lovag, akit keresünk, Deyja ezen részén van.  Átkozott legyen!  Megadjuk neked a végsõ békét, Lord Fayette.  Ígérem.
+
+Név:
+Gem szemei
+Üzenet:
+Hallottam, hogy néhány katonám a szememrõl beszélt.  Szórakoztató volt.  Úgy tûnik, azt hiszik, hogy a kék a szemem körül valamiféle háborús festék.  Gondolom, csalódottak lennének, ha elmondanám nekik, hogy ez csupán a druidaság része.  Egy szertartáson varázsoltam ilyenre az arcomat, amivel egyi apró lényt tiszteltem meg, amiértt értem tett valamit, ami az én esetemben az volt, hogy egy mosómedve megmosta a vízben az ételemet.  Lehet, hogy a mosómedvék gesztusa nem volt monumentális ajándék, de az emlékét nagy becsben tartom.
+
+Név:
+Lady Fayette üzenete
+Üzenet:
+Ma üzenetet kaptam Lord Fayette feleségétõl.  Elmondta, hogy rájött férje titkos küldetésének céljára.  Nyilvánvalóan információkat akart megtudni arról, hogy mi történt a szomszédjával, Lord Falorellel.  Lord Falorelt holtan találta egy Gelu nevû kósza, de a holttest egy vámpíré volt.  Nem világos, hogy mi történt.  Falorel helyére lépett a vámpír?  Az igazi Falorelt elfogták és vámpírrá változtatták?  Vagy valami más történt?  És ki ölte meg a vámpírt?  Hmm, még egy kérdés: miért volt hajlandó egy deyjani határúr beszélni errõl Lord Fayette-tel?
+
+Név:
+Halott határúr
+Üzenet:
+Még Deyjában is vannak olyan lakosok, akik nem élõhalottak. Felderítõim érintkezésbe léptek néhányukkal. Volt pár érdekes hírük. A helyi deyjai határurat nemrég gyilkolták meg. Állítólag ugyanazon a napon ölték meg, mint Lord Fayette-et. Ami igazán érdekes, az az, hogy a megkérdezettek szerint egy másik deyjai nagyúr áll a merénylet mögött.
+
+Név:
+Terv
+Üzenet:
+Egyre nyilvánvalóbb, hogy Lord Fayette halála egy nagyobb terv része volt.  Nem tudom biztosan, hogy azért ölték-e meg, mert határúr volt, vagy mert túl sokat tudott arról, hogy mi folyik itt.  Ha a deyjai határurat nem ölték volna meg, azt mondanám, a terv abból állt, hogy a két határúr halálából adódó zûrzavart kihasználva meghódítják AvLeet.
+
+Név:
+Terv (folytatás)
+Üzenet:
+Ennek lenne értelme, kivéve, hogy a velük szemben álló dejjan határúr is meghalt.  Úgy tûnik, mintha valami nagyobb összeesküvés lenne, mint egy invázió, vagy mintha több dolog történne itt.  Úgy döntöttem, hogy amit tudok, elküldöm a Druida Nagytanácsnak, és megkérem õket, hogy továbbítsák azt az AvLee Vének Tanácsának.
+
+Név:
+Üzenet Clancy-tõl
+Üzenet:
+Múlt héten üzenetet küldtem Clancynek, és megkérdeztem benne, hogy mit tud Geluról. Ma kaptam meg a válaszát. Érdekes módon Gelu erathiai, aki mostanában valami elit egység tagja lett. Aztán Lord Falorel segítségére rendelték valami AvLee-Erathia ügyben, amit Lord Falorel halála miatt sosem fejeztek be.
+
+Név:
+Levél Gelunak
+Üzenet:
+Küldök egy levelet Gelu-nak, amelyben közlöm vele, hogy szerintem Falorel és Fayette halála összefügg, és megkérem, hogy találkozzon velem, miután Lord Fayette-et nyugalomra helyeztem.  Szeretném megtudni, hogy mit tud a történtekrõl.
+
+===== Hõsök =====
+
+Név:
+Lord Fayette
+
+===== Tárgyak =====
+
+(15, 38, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+(26, 55, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Arany
+Üzenet:
+
+
+Név:
+További bevétel
+Üzenet:
+
+
+Név:
+Községháza épül
+Üzenet:
+
+
+(51, 59, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Gold
+Üzenet:
+
+
+Név:
+Additional Income
+Üzenet:
+
+
+Név:
+Build Townhall
+Üzenet:
+
+
+(8, 29, 1) ***Halállovag***
+Önéletrajz:
+Egy ismeretlen nekromanta halállovagként támasztotta fel Lord Fayette-et.  Lord Fayette parancsot kapott AvLee lerohanására.
+
+(3, 33, 1) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Arany
+Üzenet:
+
+
+Név:
+További bevétel
+Üzenet:
+
+
+Név:
+Községháza épül
+Üzenet:
+
+
+===== Fájl vége =====

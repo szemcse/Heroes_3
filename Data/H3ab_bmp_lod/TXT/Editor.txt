@@ -81,8 +81,8 @@ Hibás fájl formátum (vagy sérült pálya)!
 11 hónap	
 12 hónap	
 (Bármely város)	
-"%s at (%d, %d, %d)"	
-%s a(z) %s	
+"%s - (%d, %d, %d)"	
+%s a %s	
 Véletlenszerû szörny	
 Véletlenszerû szörnyek	
 Harcos	

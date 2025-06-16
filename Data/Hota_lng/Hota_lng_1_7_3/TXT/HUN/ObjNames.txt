@@ -1,0 +1,232 @@
+Nincs	
+	
+Áldozati Oltár	
+Kikötõ	
+Aréna	
+Varázstárgy	
+Pandora Szelencéje	
+Feketepiac	
+Hajó	
+Határõrség	
+Kulcsár Sátra	
+Bója	
+Tábortûz	
+Térképész	
+Hattyúk Tava	
+Sötétség Fátyla	
+Egység Bank	
+1. egység generátor	
+2. egység generátor	
+3. egység generátor	
+4. egység generátor	
+Átkozott talaj	
+Holttest	
+Marletto Torony	
+Kísértet Hajó	
+Sárkány Utópia	
+Esemény	
+A Mágus Szeme	
+Tündérgyûrû	
+Tengeri uszadékfa	
+Szerencse Szökõkút	
+Fiatalság forrása	
+Látomások Kertje	
+Helyõrség	
+Hõs	
+Dombi Erõd	
+Grál	
+A Mágus Kunyhója	
+Szerencse Bálvány	
+Búvóhely	
+	
+Megvilágosodás Könyvtára	
+Világítótorony	
+Egyirányú monolit - Bejárat	
+Egyirányú monolit - Kijárat	
+Kétirányú monolit	
+Varázslatos Síkság	
+Varázslatok Iskolája	
+Varázsforrás	
+Varázskút	
+Az idõ Vásártere	
+Zsoldosok Tábora	
+Hableányok	
+Bánya	
+Egység	
+Misztikus Kert	
+Oázis	
+Obeliszk	
+Vörösfenyõ Kilátótorony	
+Palack-posta	
+Tûz pillére	
+Csillagpont	
+Börtön	
+Piramis	
+Zászló	
+Véletlenszerû Varázstárgy	
+Véletlenszerû kincs varázstárgy	
+Véletlenszerû kisebb varázstárgy	
+Véletlenszerû nagyobb varázstárgy	
+Véletlenszerû relikvia	
+Véletlenszerû hõs	
+Véletlenszerû lény	
+Véletlenszerû lény 1	
+Véletlenszerû lény 2	
+Véletlenszerû lény 3	
+Véletlenszerû lény 4	
+Véletlenszerû nyersanyag	
+Véletlenszerû város	
+Menekülttábor	
+Nyersanyag	
+Szentély	
+Tudós	
+Tengerészláda	
+Titok Kunyhó	
+Kripta	
+Hajóroncs	
+Túlélõ	
+Hajógyár	
+Mágikus Igék Szentélye	
+Mágikus Mozdulatok Szentélye	
+Mágikus Gondolatok Szentélye	
+Jel	
+Szirének	
+Varázstekercs	
+Istálló	
+Kocsma	
+Templom	
+Tolvajtanya	
+Város	
+Kereskedelmi Állomás	
+Tudás Köve	
+Kincsesláda	
+Tudás Fája	
+Világok közti átjáró	
+Egyetem	
+Szekér	
+Harci Gépek Gyára	
+Háború Iskolája	
+Harcos Sírja	
+Vízimalom	
+Gyógygödör	
+Örvény	
+Szélmalom	
+Boszorkány Kunyhó	
+Ecset	
+Bokor	
+Kaktusz	
+Kanyon	
+Kráter	
+Korhadt Fa	
+Virágok	
+Befagyott Tó	
+Sövény	
+Domb	
+Lyuk	
+Tengeri Hínár	
+Tó	
+Lávafolyam	
+Láva Tó	
+Gombák	
+Fatuskó	
+Álomfû	
+Mocsár	
+Bucka	
+Hegy	
+Tölgyfa	
+Kitüremkedés	
+Fenyõfa	
+Növény	
+	
+	
+	
+	
+Delta Torkolat	
+	
+	
+	
+Szikla	
+Homok Dûne	
+Homokgödör	
+Cserje	
+Koponya	
+Sztalagmit	
+Tönk	
+Szurok Gödör	
+Fák	
+Inda	
+Tûzhányókürtõ	
+Vulkán	
+Fûzfa	
+Jukka	
+Zátony	
+Véletlenszerû lény 5	
+Véletlenszerû lény 6	
+Véletlenszerû lény 7	
+Ecset	
+Bokor	
+Kaktusz	
+Kanyon	
+Kráter	
+Korhadt Fa	
+Virágok	
+Befagyott Tó	
+Sövény	
+Domb	
+Lyuk	
+Tengeri Hínár	
+Tó	
+Lávafolyam	
+Láva Tó	
+Gombák	
+Tönk	
+Álomfû	
+Ingovány	
+Rakás	
+Hegy	
+Tölgyfa	
+Bukkanó	
+Fenyõfa	
+Virágok	
+Delta Torkolat	
+Szikla	
+Homokdûne	
+Homok Árok	
+Cserje	
+Koponya	
+Sztalagmit	
+Rönk	
+Szurok Verem	
+Fák	
+Inda	
+Tûzhányókürtõ	
+Vulkán	
+Fûzfa	
+Jukka	
+Zátony	
+Sivatagi Dombok	
+Dombok	
+Füves Dombok	
+Törmelékes Dombok	
+Föld alatti Sziklák	
+Mocsári Levél	
+Határállomás	
+Zsoldosok Céhe	
+Hõs Placeholder	
+Küldetésõrzõ	
+Véletlenszerû egység lakása	
+	
+	
+Helyõrség	
+Bánya	
+Kereskedelmi állomás	
+Lóhere mezõ	
+Elátkozott föld	
+Veszedelmes köd	
+Kedvezõ szelek	
+Tüzes talaj	
+Szent talaj	
+Tavacskák	
+Varázsfelhõk	
+Varázssíkság	
+Sziklás terep	
