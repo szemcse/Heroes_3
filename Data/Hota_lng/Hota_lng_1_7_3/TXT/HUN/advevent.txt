@@ -85,7 +85,7 @@ Miután legyõzted a Víz Elementálokat, több óra keresgélés után találtál valamit!
 "{%s}
 
 A tábor kihaltnak tûnik.  Nézz vissza jövõ héten."
-a(z) %s
+%s
 "{Sárkány Utópia}
 
 Ezt a szöveget már nem használják. Ha látod, ez egy hiba."

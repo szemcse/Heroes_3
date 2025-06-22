@@ -46,8 +46,8 @@ Hadjárat leírása:
 %s aktív.		
 Session neve		
 Felhasználónév		
-egység		
-egység		
+mérõnyi		
+mérõnyi		
 Rossz szerencse száll a %s-ra		
 A jó szerencse ráragyog a %s-ra		
 Kincs		
@@ -184,11 +184,11 @@ A hátizsákod teli van.
 Támadás: %d. Sebzés: %d-%d. Találati pont: %d / %d.
 Figyelmen kívül hagyja az ellenség védelmét."		
 Lövegtorony információ megtekintése.		
-%d %snyi %sért cserébe %d %snyi, %s típusú nyersanyagot kérek Tõled. Elfogadod az ajánlatomat?		
+%d %s %s járna neked %d %s %s nyersanyagért cserébe. Elfogadod az ajánlatomat?		
 Piactér		
 Kereskedelmi Állomás		
-egység		
-egység		
+mérõnyi		
+mérõnyi		
 Alkalmi vételben volt részed... Azt hiszem, semmit sem kerestem ezen az üzleten. Érdekel még valamelyik árum?		
 "Vess egy pillantást nagyszerû áruimra. Ha vásárolni szeretnél valamelyikbõl, kattints a cserélni kívánt árukra!"		
 -		
@@ -235,7 +235,7 @@ Lövések
 Sebzés		
 Jelenlegi ÉP		
 Lejárt az idõd. A következõ kör következik.		
-Védõk:		
+Védõk : 		
 "
 A hõsöd megtanulta %s %s-t."		
 "
@@ -311,9 +311,9 @@ A Grál a világ %s területein található.
 A Grál az alvilág %s területein található.		
 "Szaporulat"		
 "Vásárlás"		
-Felajánlhatok neked %s-t %d %s %s-ért?		
-Felajánlhatok neked %d %s %s-t a Te %s-ért?		
-felajánlhatok neked %d %s %s-t %d %s-ért.		
+Felajánlhatok neked egy %s varázstárgyat, nem kérnék érte többet, mint  %d %s %s?		
+Felajánlhatok neked %d %s %s nyersanyagot a Te %s varázstárgyadért cserébe?		
+Felajánlhatok neked %d %s %s nyersanyagot %d %s nyersanyagért cserébe.		
 A Birodalom Nyersanyagai		
 %s Varázstárgyai		
 %s Harcosai		
@@ -393,7 +393,7 @@ A Harci bilincsek jelenlétében %s nem adhatja meg magát!
 %d egységnyi sebzést okoz."		
 ingyen		
 -		
-"Ár/egység"		
+"Ár/mérõ"		
 %s a látnok		
  (%s után kutat)		
 Feketepiac		
