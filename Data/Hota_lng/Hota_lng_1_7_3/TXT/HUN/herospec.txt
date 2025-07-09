@@ -446,7 +446,7 @@ Bûvölõ	Egység Bónusz: Bûvölõ	"{Bûvölõ}
 Bûvölõvé tudja változtatni a Szerzeteseket, Zelótákat, Mágusokat és Fõmágusokat."
 Mesterlövész	Egység Bónusz: Mesterlövész	"{Mesterlövész}
 
-Mesterlövésszé tudja változtatni az Íjászokat, Számszeríjászokat, ErdõTündéket és NemesTündéket."
+Mesterlövésszé tudja változtatni az Íjászokat, Számszeríjászokat, Erdõtündéket és Nemestündéket."
 Behemótok	Egység Bónusz: Behemótok	"{Behemótok}
 
 Növeli a Behemótok vagy az Õsi Behemótok támadását, védelmét és sebzését 10-zel."

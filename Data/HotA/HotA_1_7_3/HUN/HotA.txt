@@ -2603,7 +2603,7 @@ Az út költsége %s: {%d} mozgáspont ({%d} mozgáspont marad még)
 
 {%d} mozgáspont marad még""
 #110
-%s, %s {(mozgáspont:} %d {/} %d{)}
+%s nevû hõsünk egy %s, {(mozgáspontja:} %d {/} %d{)}
 #111
 ""Az út költsége %s:
 {%d} mozgáspont""
@@ -8802,7 +8802,7 @@ Text 2: "(Fejlessz 1-5 szintû egységeket dupla áron)"
 Text 3: "Elérhetõ egységek száma itt:"
 Text 4: "Egységek állnak rendelkezésre:"
 Text 5: "Mágikus misztérium szentélye"
-Text 6: "(Itt tanulhatsz 4. szintû varázslatot)"
+Text 6: "(Hõsöd 4. szintû varázslatot tanulhat)"
 Text 7: "# További tárgyak az RMG számára
 # Type Subtype Value Density Max_map Max_zone
 

@@ -215,29 +215,29 @@ cNewTurn
 %s, ez az utolsó napod, hogy szerezz egy várat, különben számûzetel errõl a földrõl.
 " A csillagászok kihirdetik: Ez a %s hónapja.
 
-Minden lény népessége növekedett. "
+Minden egység száma növekedett. "
 " A csillagászok kihirdetik: Ez a %s hónapja.
 
 A %s népessége megduplázódik!
 
-Minden lény népessége növekedett. "
+Minden egység száma növekedett. "
 " A csillagászok kihirdetik: Ez a PESTIS hónapja.
 
-Minden népesség megfelezõdik. "
+Minden egység száma megfelezõdik. "
 " A csillagászok kihirdetik: Ez a %s hete.
 
-Minden lény népessége növekedett. "
+Minden egység száma növekedett. "
 " A csillagászok kihirdetik: Ez a %s hete.
 
-%s népesség +5.
+%s népessége +5-el nõ.
 
-Minden lény népessége növekedett. "
+Minden egység száma növekedett. "
 " A csillagászok kihirdetik: Ez a %s hete.
 
 %s népesség %+d.
 %s népesség %+d.
 
-Minden lény népessége növekedett. "
+Minden egység száma növekedett. "
 cMapSize
 Kicsi
 Közepes

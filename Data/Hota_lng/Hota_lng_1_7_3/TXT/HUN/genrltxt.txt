@@ -479,7 +479,7 @@ Elsõsegély nyújtása %s-nak
 "{Varázstárgy}
 
 A tisztáson egy õsi varázstárgyra bukkantál, ám azt sajnos %s %s õrzi.  Megharcolsz velük a kincsért?"		
-"Balszerencsédre a(z) %s egység lakást %s %s védi.
+"Balszerencsédre a %s épületét %s %s védi.
 
 Megharcolsz velük az épületért?"		
 "Nincs vásárolható %s.

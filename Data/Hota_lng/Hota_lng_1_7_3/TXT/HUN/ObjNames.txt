@@ -69,11 +69,11 @@ Véletlenszerû kisebb varázstárgy
 Véletlenszerû nagyobb varázstárgy	
 Véletlenszerû relikvia	
 Véletlenszerû hõs	
-Véletlenszerû lény	
-Véletlenszerû lény 1	
-Véletlenszerû lény 2	
-Véletlenszerû lény 3	
-Véletlenszerû lény 4	
+Véletlenszerû egység	
+Véletlenszerû egység 1	
+Véletlenszerû egység 2	
+Véletlenszerû egység 3	
+Véletlenszerû egység 4	
 Véletlenszerû nyersanyag	
 Véletlenszerû város	
 Menekülttábor	
@@ -160,9 +160,9 @@ Vulkán
 Fûzfa	
 Jukka	
 Zátony	
-Véletlenszerû lény 5	
-Véletlenszerû lény 6	
-Véletlenszerû lény 7	
+Véletlenszerû egység 5	
+Véletlenszerû egység 6	
+Véletlenszerû egység 7	
 Ecset	
 Bokor	
 Kaktusz	

@@ -148,7 +148,7 @@ Gyorsaság	Egység Bónusz: Gyorsaság	Minden lény gyorsasága 2-vel növekszik.
 Tûz Mágia	Másodlagos képzettség bónusz: Felsõfokú Tûz Mágia	Felsõfokú Tûz Mágiával indul.
 Kardforgató	Egység Bónusz: Kardforgató	A 4.szint után szintenként növekszik a Kardforgató és a Keresztes Támadása és Védelme.
 Bûvölõ	Egység Bónusz: Bûvölõ	Bûvölõvé tudja változtatni a Szerzeteseket, Zelótákat, Mágusokat és ÕsMágusokat.
-MesterLövész	Egység Bónusz: MesterLövész	MesterLövésszé tudja változtatni az Íjászokat, Számszeríjászokat, ErdõTündéket és NemesTündéket.
+Mesterlövész	Egység Bónusz: Mesterlövész	Mesterlövésszé tudja változtatni az Íjászokat, Számszeríjászokat, Erdõtündéket és Nemestündéket.
 Behemótok	Egység Bónusz: Behemótok	"A Behemótok és ÕsBehemótok a következõ módosításokat kapják Támadás/Védelem +5 Sebzés +10."
 Fekete Lovagok	Egység Bónusz: Fekete Lovagok	"A Fekete Lovagok és Halállovagok a következõ módosításokat kapják Támadás/Védelem +5 Sebzés +10."
 Sárkányok	Egység Bónusz: Sárkányok	"A Sárkányok Támadása és Védelme +5-el növekszik."
