@@ -15,9 +15,9 @@ vagy
 Hiba %s fájl megnyitása közben!		
 NEWGAME		
 Biztos hogy feloszlatod ezt a csapatot??		
-%s köre.		
+%s! Te vagy most soron!		
 Hiba az adat fogadása közben. Megpróbálod újra?		
-%s a(z) %s		
+%s, aki egy %s		
 Vásárlás:		
 Nincs hely a helyõrségben ennek az egységnek a számára.		
 Már van %d hõs az irányításod alatt!.		
@@ -398,7 +398,7 @@ ingyen
  (%s után kutat)		
 Feketepiac		
 %s - sikeres mentés.		
-%s köre.		
+%s! Te vagy most soron!		
 (Már jártál itt)		
 (Még nem jártál itt)		
 (Már ismert)		
