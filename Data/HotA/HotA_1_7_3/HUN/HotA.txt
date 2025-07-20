@@ -3455,13 +3455,13 @@ Többszörös küldetés
 # 67
 Hozzáad
 # 68
-Eltávolít
+Elvesz
 # 69
 Fel
 # 70
 Le
 # 71
-Mindet eltávolít
+Mindet elvesz
 # 72
 Nincs
 # 73
