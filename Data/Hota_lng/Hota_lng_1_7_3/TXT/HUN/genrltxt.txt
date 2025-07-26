@@ -46,8 +46,8 @@ Hadjárat leírása:
 %s aktív.		
 Session neve		
 Felhasználónév		
-mérõnyi		
-mérõnyi		
+egység található itt.		
+egység található itt.		
 Rossz szerencse száll a %s-ra		
 A jó szerencse ráragyog a %s-ra		
 Kincs		
@@ -187,8 +187,8 @@ Lövegtorony információ megtekintése.
 %d %s %s járna neked %d %s %s nyersanyagért cserébe. Elfogadod az ajánlatomat?		
 Piactér		
 Kereskedelmi Állomás		
-mérõnyi		
-mérõnyi		
+egység található itt.		
+egység található itt.		
 Alkalmi vételben volt részed... Azt hiszem, semmit sem kerestem ezen az üzleten. Érdekel még valamelyik árum?		
 "Vess egy pillantást nagyszerû áruimra. Ha vásárolni szeretnél valamelyikbõl, kattints a cserélni kívánt árukra!"		
 -		
