@@ -1,0 +1,10 @@
+[UI]
+title = HotA Sprawdzanie tłumaczenia
+select_lang = Język interfejsu:
+source_file = Wybierz plik źródłowy
+target_file = Wybierz plik przetłumaczony
+encoding = Kodowanie
+autodetect = Automatyczne wykrywanie
+run_check = Sprawdź
+success = 🎉 Brak rozbieżności, wszystko w porządku!
+errors_found = Znaleziono {n} błędów. Szczegółowy raport: {file}

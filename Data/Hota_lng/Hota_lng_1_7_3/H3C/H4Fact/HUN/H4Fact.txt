@@ -1,0 +1,108 @@
+Name:
+
+
+Description:
+
+
+
+World on Fire — Tuzben edzett A
+
+Right-click text:
+A Kreeganiek megszállták Eeofolt a Hullócsillagok éjszakáján. A félszerzet Henriettának meg kell találnia a mesterembert, Fredericket, aki talán tudja, mit kell tennie.
+
+Prologue:
+Eeofol. Az óriások földje. Miért hívják így? Mélyen legbelül mindenki biztos abban, hogy rólunk van szó. Persze, lehet, hogy nevetségesen hangzik; de fáj, hogy egyesek “félnek” neveznek, mintha csak a fele lennél valami valódinak. Mindig is kerültük az idegeneket; mellettük állva túl nehéz volt meggyõzni magunkat, hogy ez nem igaz. Nem tetszett nekünk semmilyen változás, mivel ez azt jelentette volna, hogy elismerjük, hogy korábban valamit rosszul csináltunk. Hittünk azonban a jó öreg babonákban; és azon az éjszakán, amikor a felettünk lévõ ég ezer tüzes darabra tört, sokan közülünk a csillagoktól kívántak. Én viszont úgy éreztem, hogy valami furcsa és ijesztõ dolog történik, és csak egy ember segíthet azt megérteni. Az idegen volt az, aki megtanított arra, hogy jobban szeressem az eget, mint a földet.
+
+Epilogue:
+Eeofol haldoklott. Az almafák még virágoztak, és a búza is megtermett, de a hegyekbõl már a kénes hamu bûze áradt, és a már nem szunnyadó vulkánok lejtõin lezúduló vizek is mételyesek voltak. Hamarosan nem marad itt semmi élet, csak annak rút látszatát keltik az égbõl érkezõ vendégek. Milyen nehéz rávenni egy félszerzetet, hogy életében elõször felemelt fejjel nézzen szembe a saját jövõjével! Olyan kevesen vannak itt, azok, akik az elképzelhetetlent választották. Talán csak õk egyedül élnek tovább, és õrzik földünk emlékét, amikor az majd elpusztul.
+
+
+Beyond the Horizon — Tuzben edzett B
+
+Right-click text:
+Burton városát a Pusztító vándor ogrék fenyegetik. Henriettának, Fredericknek és Samnek vissza kell verniük támadásaikat, és le kell gyõzniük az ogrék vezérét, Zogot a sakált.
+
+Prologue:
+A félelem és az izgalom a legjobb orvosság a gyász ellen. Megértettem, amikor a horizonton megjelent a szárazföld. Hosszú, fáradságos óceánon átívelõ utunk a végéhez közeledett, és az új kontinens, Jadame elõttünk tornyosult. A menekülõk még nem tudták, hogy az alattunk elterülõ föld terméketlen pusztaság, a bányászok faluja pedig, ahová tartunk, egy koszos, zajos lyuk. Burton nem a gyengék helye; ezeken a földeken minden település vonzza azokat, akik nem építkeznek, nem gazdálkodnak vagy pásztorkodnak. Az új otthonhoz való jognak borsos ára volt; mégis, indulásunk napja óta elõször derült fel váratlan utasaim arca.
+
+Epilogue:
+Itt kezdõdtek az új világ elsõ örömei és bánatai. Az elsõ sikerek és veszteségek következtek, új ellenségekkel és... új barátokkal. Az élet keserû szájízzel, de a siker egyfajta örömteli gyõzelemmel teli érzésével párosult. Jadame elfogadta áldozatainkat, megadva nekünk azt, amit soha nem akartunk, de elfogadtuk a túlélés érdekében. Eddig csak kevesen sajátították el a harcos mesterséget, de mindenkibõl egy igazi hõs lett. Egy maroknyi kiválasztott megtanulta, hogyan kell vezetni, mégis bárki készen áll arra, hogy felemelkedjen, ha meghallja a hívást. Az új sebek néha vérezhetnek, de ha érzed, az azt jelenti, hogy még élsz.
+
+
+Dead or Alive — Tuzben edzett C
+
+Right-click text:
+Egy új, hirtelen fenyegetés érte Burtont: a Dargem vezette kalózok portyái. A regnaiakkal nem lehet packázni, és segítségre lesz szükség a probléma megoldásához.
+
+Prologue:
+Ismét az otthonom jutott eszembe. Azokra a békés, álomszerû idõkre, amikor még a falusi lakomákon elõforduló ritka verekedések is mindig egy közös békekehely megosztásával végzõdtek... Errefelé még egy falatnyi közös pontot sem találtunk az ogrékkal vagy a goblinokkal; bár mostanában kevesebb gondot okoznak nekünk. Nemrégiben a regnani kalózok kezdtek megjelenni a földjeinken. Úgy tûnik, messzire elterjedt a hír, hogy Burtonban most már van mit zsákmányolni. Emellett a õrök sétáló holtakat láttak a város falai közelében. Csak véletlen egybeesés, vagy az élõhalottak is akarnak tõlünk valamit?
+
+Epilogue:
+Az üldözés... Kard a kezemben... és az alig látható ösvény az élettelen dombok között elõttem. Rohanok elõre, alig pillantva a térképre, és egy csendes csontváz mellettem lovagol. Hirtelen felébredtem, lerázva magamról a rémálmot, amely napok óta kínozott álmaimban és azon túl is. Amikor sarokba szorítottuk azt a férget, Dargemet, otthagytam Boydot és õt, hogy egyedül rendezzék a számlájukat egymással. Vajon ma éjjel is egy nyugtalan halott fog megjelenni az álmaimban? Nos, kettõ még nem olyan rossz, elviselhetõ. Miután elmenekültem Eeofolból, több ezret láttam belõlük...
+
+
+Tomb Raiders — Tuzben edzett D
+
+Right-click text:
+Fredericknek meg kell találnia Henriettát, aki Agar varázsló nyomába eredt. Az utolsó üzenetben azt írta, hogy csapata egy õsi sírra bukkant, és bement, hogy felfedezze. Óriási homokférgek okozta földcsuszamlások elzárták a hegyi utakat. A léghajók lehetnek a megoldás...
+
+Prologue:
+Kevesebbel beérni... a legrosszabb gyötrelem, amit el lehet képzelni annak, aki tudja, hogy mit ér az egész. Voltak idõk, amikor az érdeklõdésem kielégítése új világok felfedezésével járt. Felszabadíthattam az anyagszemcsékben rejlõ félelmetes erõt - és most hetekig hemperegtem egy büdös hordóban, csak hogy teszteljek egy hipotézist! Mindenesetre ki kell derítenem, hogy ez az önjelölt mûvésztudós, Fenimore, Farragut, vagy akárhogy is hívják, valóban elért-e valamit, amit még nem láttam ezen a világon, vagy õ is csak egy újabb vásári mutatványos, mint az összes többi “tudós”, akivel eddig itt találkoztam?
+
+Epilogue:
+Örülj, te félszerzet lány: Kastore maga kockáztatja az életét, hogy kiszabadítson ebbõl a labirintusból. Nos, természetesen nem miattad vagyok itt, de biztosan jól jönne egy kis hírnév, ami azzal jár, hogy a megmentõd vagyok. Jelenleg azonban fontosabb dolgokról kell gondoskodnom: évezredek óta elveszett tudásról és elfeledett csodákról! Ez a sír tele van velük. Ez a kis por a kezedben kimondhatatlan erõt rejt. Hamarosan, esküszöm, arra fogom használni, hogy csak nekem szolgáljon, ahogyan a barátod is teszi, aki nemrégiben nyert betekintést a dolgok természetébe. A közvetlen terveim világosak... és Deyja még várhat egy kicsit a királyára.
+
+
+Deus Ex Machina — Tuzben edzett E
+
+Right-click text:
+Az õsi sírból elõkerült lelet segített egy új típusú fegyver fejlesztésében. Todd és Bertram, a fegyvergyártók, a fõszereplõk abban a versenyben, amelynek célja egy olyan harci felszerelés mûködõ modelljének kifejlesztése, amely megfordíthatja a csaták kimenetelét.
+
+Prologue:
+Az arany százalékos aránya. Az összes mechanizmus mérõszáma. Még egyetlen mesterembernek sem sikerült kiszámítania; csak érzed, ahogy leveszed a felesleges fémet, mozdulatról mozdulatra, amíg az egész lényed azt nem kezdi kántálni: itt jön, a tökéletesség! Aztán elkerülhetetlenül hibát találsz egy másik alkatrészben, és így megy ez napról napra, évrõl évre... Majdnem elvesztettem az eszemet ebben a végtelen körforgásban, de amikor már ennek a határán voltam, valaki elküldte nekem ezt a tervet. Fogalmam sincs, milyen hibát tartalmaz. Talán nem rendelkezem a megfelelõ tudással hozzá. Egy dolgot azonban biztosan tudok: nálam közelebb még senki sem került egy ilyen dolog életre keltéséhez.
+
+Prologue:
+Ah, bárcsak a tudósok tudnák, mennyibe kerülnek az elméleteik... Ha elõre megterveznék a beszerzéseket, a vásárlásokat, a bérleti díjakat, megkímélhetnék magukat a százszorosára rúgó sürgõsségi díjak fizetésétõl. Annyi ambiciózus projekt ment tönkre a szemem láttára az erõforrások pazarlása miatt! És sok projektet megmentettem, elfogulatlan szakértelmemmel és természetesen némi pénzzel segítve a készítõket. Nem, nem merem magam a haladás legnagyobb hajtóerejének nevezni, de Burtonban csak egy törpe képes ilyen monumentális projektet véghezvinni.
+
+Epilogue:
+Nem találod magad zseniálisnak? Fogj egy tucatnyi tehetséges elmét, segíts nekik megszabadulni a babonáiktól, és nem fognak rosszabbul teljesíteni. Ez ismét bebizonyosodott, hogy mûködik, még egy ilyen isten háta mögötti világban is, mint ez. Fogalmuk sem volt róla, hogy tehetségük és tudásuk mennyire alulmarad a nagy elmékével szemben, akik egykor ezt a csodát létrehozták. Egyszerûen meggyõzték magukat arról, hogy a feladat megoldása az õ hatalmukban áll. Micsoda szemtelenség! Szeretem az ilyen embereket. Jól játszva a hiúságuk húrjain, bárhová elvezetheted õket... vagy utat törhetsz magadnak, akár a mennyországba is.
+
+Epilogue:
+Nem találod magad zseniálisnak? Fogj egy tucatnyi tehetséges elmét, segíts nekik megszabadulni a babonáiktól, és nem fognak rosszabbul teljesíteni. Ez ismét bebizonyosodott, hogy mûködik, még egy ilyen isten háta mögötti világban is, mint ez. Fogalmuk sem volt róla, hogy tehetségük és tudásuk mennyire alulmarad a nagy elmékével szemben, akik egykor ezt a csodát létrehozták. Egyszerûen meggyõzték magukat arról, hogy a feladat megoldása az õ hatalmukban áll. Micsoda szemtelenség! Szeretem az ilyen embereket. Jól játszva a hiúságuk húrjain, bárhová elvezetheted õket... vagy utat törhetsz magadnak, akár a mennyországba is.
+
+
+Tarred and Feathered — Tuzben edzett F
+
+Right-click text:
+Henrietta és Wynona a Jadamétól délre fekvõ, feltérképezetlen szigetek felé veszi az irányt. Arról álmodoznak, hogy megtalálják a titokzatos tollaskígyókat, de ott aligha vár rájuk fogadóbizottság.
+
+Prologue:
+A Jadaméban nagyon sok olyan hely van, ahová még egyetlen természetjáró sem tette be a lábát, de a felfedezés iránti éhségem olyan helyekre visz, amelyeket lóháton aligha lehet elérni, nemhogy egy hatalmas, tatu hajtotta szekérrel. A Garrote-szurdok gyalogos bejárása már mögöttem volt. A szokásosról álmodtam: új csizmáról, vagy még jobb esetben egy pár saját szárnyasról, mivel fogalmam sem volt arról, hogy mibe fogok belefutni. Amikor utoljára Burtonban jártam, ott még a csizmát sem találták fel; most pedig egy hatalmas, zajos, büdös város nyüzsgött ott, ahol régen zöldbõrûek kunyhói álltak, és fölötte már valóságos léghajók repkedtek. Ráadásul egy olyan szigetvilágba tartó expedíció készült onnan indulni, amelyet még egyetlen vándor sem írt le ezidáig. Kik vagy mik lakhatják azokat a szigeteket? Nem akartam elszalasztani a lehetõséget, hogy megtudjam.
+
+Epilogue:
+Ki gondolta volna, hogy ezek a szigetek olyan felfedezéseket rejtenek, amelyek méltóak a Borostyán Birodalom legnagyobb vándoraihoz? Több tucatnyi, eddig még nem látott madár, állat és hüllõ, egy egész nép, amely eltûnt az évszázadok ködében, és, nos, a csodálatos tollaskígyók! Ezek önmagukban is elégségesek lettek volna. Senki sem gondolta volna, hogy az intraovális fejlõdés folyamatát úgy lehet irányítani, hogy egy apró kígyó helyett egy gyönyörû, nagyszerû teremtmény kikeljen. Még egy tünde hosszú élete sem lenne elég, ha mindezt le kellene írni - és ha már a felfedezésrõl van szó, még mindig itt van Jadame nagy része. A fogadott nõvérem, akit itt találtam, csak egy kis darabot látott a távoli Antagarichból, és azt is elfoglalták a démonok. Most az õ oldalán van a helyem, de egy nap biztosan visszatérek.
+
+
+New Order — Tuzben edzett G
+
+Right-click text:
+Kastore Burtonban került hatalomra. A félszerzeteket törvényen kívül helyezték, és most az utolsó reményük, hogy visszatérjenek szülõföldjükre, Eeofolba. Mielõtt elindulnának a megfelelõ szállítóeszköz felkutatására, Henriettának össze kell gyûjtenie a szükséges készleteket és felszerelést.
+
+Prologue:
+A hiú ember aranyérmékben méri gazdagságát. A gyakorlatias ember a rendelkezésére álló munkaerõben. Az igazán hatalmas ember pedig azokban az elmékben, amelyek terveinek megvalósításán dolgoznak. Most már egy egész országnyi ilyen elme áll a rendelkezésemre. Talán nem hatalmas ország, de az egész az enyém. Minden egyes alattvalóm arról álmodik, hogy megszerezze a Sírbolt csodáinak akár csak egy aprócska darabkáját is a kutatásomhoz. Egy kívülálló számára úgy tûnhet, hogy ezeket a csodákat könnyedén elérhetõvé teszem, de valójában csak azokat a dolgokat osztom meg, amelyek jelenleg az én érdekeimet szolgálják. A kemény munkáért cserébe az egyetlen jutalmam az, hogy még több szükségletemet kielégíthetem, de mindenki elégedett. Hát nem ez a legmagasabb szintû emberkezelés?
+
+Epilogue:
+Az új otthon, amit itt építettünk; azok, akiket bajtársaimnak, ha nem is barátaimnak tekintettem - minden, amit Jadaméban szereztem, elszivárgott. Olyan ez, mint a kõolaj; nem lehet kézzel megfogni. Vascsövek, fúrók és egy mesterember tehetsége kell hozzá. Hasonlóképpen, bátorság és erõs akarat is kell ahhoz, hogy a világot meghódítsuk. Éveket töltöttem ezek kialakításával, de pengém összetört, amikor egy jobb mester munkájával ütközött. Most újra kell kovácsolnom és ördögök vérében kell megedzenem azt; mindazokért, akik velem voltak az ide vezetõ úton, és azokért, akik mellettem lesznek, amikor elmegyek. Ez az idegen föld nem volt nekünk szánva, de most visszakövetelhetjük azt, ahol születtünk.
+
+
+Homecoming — Tuzben edzett H
+
+Right-click text:
+Henrietta szövetségesekkel az oldalán tér vissza szülõföldjére. Készen áll arra, hogy egyszer és mindenkorra elûzzék a Kreegeneket, és visszaszerezzék a félszerzetek otthonát.
+
+Prologue:
+Halott föld. Élettelen víz. Mérgezett levegõ. Csak a tûz uralkodik most ezeken a földeken; az a tûz, amelytõl a félszerzetek mindig is annyira féltek. Eeofol minden élõ erejét felemésztette, és folyamatosan vadállatokat szül. A táj, amit az égbõl láttam, szörnyû volt, de tudtam, hogy így lesz. Most már biztosan tudom: ez az én földem, még ha nem is szeretem úgy, mint régen. Meg fogom találni azokat, akik ennyi éven át harcoltak érte, és együtt átkergetjük az ördögöket a pokol kapuin, vagy meghalunk.
+
+Epilogue:
+Egy olyan országnak, amely csak békében akar élni, nincs ideje hõsökre. A kardomat kapára cseréltem, és ez volt az elsõ alkalom, hogy a hátam érezte, hogy az ilyen munka gyerekkorom óta milyen adót vesz ki azokból, akik ezt végzik. A menekültek, akik hosszú évtizedeket töltöttek távoli országokban, most visszatérnek Eeofolba. Tanyáik maradványait keresik, és felszántják a hamuval borított földeket. Jó termésre számítanak, és joggal, hiszen a nagy tüzek után a talaj mindig termékeny. Szeretlek, Eeofol. Mindent megadtam neked, ami bennem volt, és nem várok semmit cserébe, de nem sokára újra önmagad leszel... Amint népem felépül és bosszankodni kezd az irántuk tanúsított gondoskodásom miatt, újra megpróbálom megváltoztatni a világot... valahol máshol.
+

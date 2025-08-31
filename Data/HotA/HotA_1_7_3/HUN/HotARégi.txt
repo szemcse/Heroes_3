@@ -1710,7 +1710,7 @@ Text 5: "{Nyílvetõgép}
 
 Növeli a Nyílvetõgép támadási és védekezési képességeit 30%-kal minden 5 szint után (felfelé kerekítve)."
 Text 6: "Morton"
-Text 7: "Morton, a Goblin-Ogre háborúk veteránja és azon kevesek egyike, akik túlélték a Gowdar Deep elleni támadást, bosszút esküdött a ""piszokbõrûek"" ellen a mészárlásért, amely eltörölte otthonát Jadame arcáról. A ballisztái minõségét azon méri le, hogy hány ogrét tudnak egyetlen lövéssel átszúrni."
+Text 7: "Morton, a Goblin-Ogre háborúk veteránja és azon kevesek egyike, akik túlélték a Gowdar Deep elleni támadást, bosszút esküdött a -piszokbõrûek- ellen a mészárlásért, amely eltörölte otthonát Jadame arcáról. A ballisztái minõségét azon méri le, hogy hány ogrét tudnak egyetlen lövéssel átszúrni."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2656,7 +2656,7 @@ Sebzés: %s, Meghal: %s
 #132
 gyógyított találati pont: %s
 #133
-visszaállított életerõ: %s, egységek: %s, ennyibõl: %s
+visszaállított életerõ: %s, egységek: %s, ennyibõl: %
 #134
 Sebzés %s: %s, Meghal %s
 #135
@@ -2819,7 +2819,7 @@ Kényszerítsd az egységet, hogy mozogjon anélkül, hogy felfalná a holttesteket.""
 #202
 %s helyreállítása (hátralévõ javítások: %d, találati pont helyreállítása: %s, egységek: %s, egységbõl: %s)
 #203
-%s javítása (hátralévõ javítások: %d, helyreállított életerõ: %s, egységek: 0 a %s egységbõl)
+%s javítása (hátralévõ javítások: %d, találati pont helyreállítása: %s, egységek: %s, egységbõl: %s)
 #204
 Objektum meglátogatása
 #205
@@ -4251,7 +4251,7 @@ A földalatti kapun való belépés a földalatti térképhez vezet, ha van ilyen.""
 104
 -1
 ""Egyetem
-Fizessen 2000 Aranyat egy 'új' másodlagos készségért, amely négy tanított képességet tartalmaz.""
+Fizessen 2000 Aranyat egy "új" másodlagos készségért, négy tanított.""
 
 105
 -1
