@@ -3044,15 +3044,15 @@ A %s javítás %d találati pontja %s.
 #304
 Nincsenek városaid vagy hõseid. Vesztettél!
 #305
-Az a hír járja, hogy máshol az ilyen komponenseket erõs ereklyévé lehet kombinálni, de itt semmi ilyesmit nem lehet tenni.
+Az a hír járja, hogy máshol az ilyen komponenseket erõs ereklyévé lehet kombinálni, de itt semmi ilyesmit nem lehet most tenni.
 #306
-Az a hír járja, hogy máshol az ilyen mûtárgyak alkotóelemeire bonthatóak, de itt semmi ilyesmit nem lehet tenni.
+Az a hír járja, hogy máshol az ilyen mûtárgyak alkotóelemeire bonthatóak, de itt semmi ilyesmit nem lehet most tenni.
 #307
 Ez a komponensekbõl összerakott mûtárgy alkotóelemeire bontható.
 #308
 Ez a következõ kombinációs lelet egyik összetevõje: %s.
 #309
-Azt beszélik, hogy máshol a %s komponens másokkal is kombinálható, de itt semmi ilyesmit nem lehet tenni.
+Azt beszélik, hogy máshol a %s komponens másokkal is kombinálható, de itt semmi ilyesmit nem lehet most tenni.
 #310
 Könnyû
 #311
