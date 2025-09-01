@@ -3052,7 +3052,7 @@ Ez a komponensekbõl összerakott mûtárgy alkotóelemeire bontható.
 #308
 Ez a következõ kombinációs lelet egyik összetevõje: %s.
 #309
-Azt beszélik, hogy máshol a %s komponens másokkal is kombinálható, de itt semmi ilyesmit nem lehet most tenni.
+Azt beszélik, hogy máshol a %s komponens más komponensekkel is kombinálható egy új mûtûrggyá, de itt semmi ilyesmit nem lehet most tenni.
 #310
 Könnyû
 #311
