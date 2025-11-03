@@ -125,7 +125,7 @@ Az Alap Föld Mágiának köszönhetõen hõsödnek a Föld varázslatokhoz kevesebb varáz
 
 A Haladó Föld Mágiának köszönhetõen hõsödnek a Föld varázslatokhoz még kevesebb varázspontot kell felhasználnia."	"{Mester Föld Mágia}
 
-A Mester Tûz Mágiának köszönhetõen hõsödnek a Föld varázslatokhoz minimális varázspontot kell felhasználnia."
+A Mester Föld Mágiának köszönhetõen hõsödnek a Föld varázslatokhoz minimális varázspontot kell felhasználnia."
 Tanítás	"{Alap Tanítás}
 
 Az Alap Tanítással a hõseid tanítani tudják egymásnak az elsõ és második szintû varázslatokat."	"{Haladó Tanítás}

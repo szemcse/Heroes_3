@@ -280,16 +280,16 @@ A Láncvillám varázslat az elsõ célpontra teljes (Varázserõ x 40 + 100) sebzést m
 "	 COMBAT_SPELL|CREATURE_TARGET
 Fagy Gyûrû	Fagy Gyûrû	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Fagy Gyûrû}
 
-A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körrül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 15) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
+A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 15) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
 "	"{Alap Fagy Gyûrû}
 
-A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körrül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 15) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
+A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 15) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
 "	"{Haladó Fagy Gyûrû}
 
-A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körrül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 30) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
+A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 30) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
 "	"{Mester Fagy Gyûrû}
 
-A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körrül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 60) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
+A Fagy Gyûrû varázslat lecsökkenti a kiválasztott ellenséges egység területe körül lévõ egységek testhõmérsékletét (Varázserõ x 10 + 60) sebzést okozva. A hexarácsra nem tehetõ csak egységre a varázslat.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Tûzlabda	Tûzlabda	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Tûzlabda}
 

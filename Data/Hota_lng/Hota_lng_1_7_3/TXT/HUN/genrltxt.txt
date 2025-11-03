@@ -405,7 +405,7 @@ Feketepiac
 (%s megtanulása)		
 (%s megtanulása)		
 (Már ismert)		
-%s ajándékot küld neked		
+%s ajándékot küldött neked		
 %s értékelné, ha a Te ajándékod %s lenne		
 %s méltányolná bármelyiket ezek közül.		
 A %s %d egységnyi életet szív el %s-tól.		
