@@ -122,3 +122,4 @@ Válasszd ki a teleportálókat	Teleportálók [K]
 Válaszd ki a Helyõrséget, határõrséget és sátrakat	Helyõrség, határõrség és sátrak [L]
 Válaszd ki a varázslatos terepet	Varázslatos terep [;]
 Válaszd ki a különféle dekorációkat	Különféle dekorációk ]
+Eseményrendszer 	Ctrl+E

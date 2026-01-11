@@ -34,8 +34,8 @@ Arany Sárkány	Arany Sárkány	0	0	0	0	2	0	4000	6220	8613	1	0	250	16	27	27	40	50	0	
 																								
 																								
 																								
-Kobold	Kobold	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0
-Manó	Manó	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Lövések.	SHOOTING_ARMY
+Harci Manó	Harci Manó	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0
+Mestert Harci Manó	Mestert Harci Manó	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Lövések.	SHOOTING_ARMY
 Kõ Vízköpõ	Kõ Vízköpõ	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30	Repül. Élettelen.	FLYING_ARMY
 Obszidián Vízköpõ	Obszidián Vízköpõ	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25	Repül. Élettelen.	FLYING_ARMY
 Kõgólem	Kõgólem	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	A rá varázsolt varázslatok 50%-a hat csak.	0
@@ -102,8 +102,8 @@ Fekete Sárkány	Fekete Sárkány	0	0	0	2	0	0	4000	6783	8721	1	0	300	15	25	25	40	50	
 																								
 																								
 																								
-Goblin	Goblin	0	0	0	0	0	0	40	60	60	15	8	5	5	4	2	1	2	0	0	20	50		0
-Hobgoblin	Hobgoblin	0	0	0	0	0	0	50	65	78	15	8	5	7	5	3	1	2	0	0	20	30		0
+Manó	Manó	0	0	0	0	0	0	40	60	60	15	8	5	5	4	2	1	2	0	0	20	50		0
+Vészmanó	Vészmanó	0	0	0	0	0	0	50	65	78	15	8	5	7	5	3	1	2	0	0	20	30		0
 Farkaslovas	Farkaslovas	0	0	0	0	0	0	100	130	130	9	0	10	6	7	5	2	4	0	0	16	30		DOUBLE_WIDE
 Farkaslovas Fosztogató	Farkaslovas Fosztogató	0	0	0	0	0	0	140	174	203	9	0	10	8	8	5	3	4	0	0	16	25	Kétszer támad.	DOUBLE_WIDE
 Ork	Ork	0	0	0	0	0	0	150	175	192	7	0	15	4	8	4	2	5	12	0	12	25	Lövések.	SHOOTING_ARMY

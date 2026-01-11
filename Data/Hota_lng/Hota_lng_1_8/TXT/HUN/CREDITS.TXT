@@ -14,7 +14,7 @@ Credits
 2D/3D mûvész,
 Cove grafika
 {Balkron}
-2D/3D mûvész
+2D/3D mûvész,PR
 {baratorch}
 kód, térkép szerkesztõ, elõcsarnok,
 egyidejû fordulatok,
@@ -24,8 +24,8 @@ kód, hosting
 {deferatto}
 2D/3D mûvész,
 forgatókönyvekek, tesztelõ
-{diavolschina}
-koncepciómûvész
+{devoider17}
+kód
 {Dmitriy Gravchenko}
 3D mûvész,
 Factory lények
@@ -70,13 +70,15 @@ koncepciómûvész
 jelenetek
 {Mantiss}
 tesztelõ, író, PR
+{Marius}
+koncepciómûvész
 {Morn}
 hõs portrék
 {Mugais}
 sztori, forgatókönyvekek,
 író
 {nosferatu}
-2D mûvész
+2D mûvész, PR
 {nik312}
 egyensúly, fordító,
 tesztelõ, PR
@@ -100,17 +102,15 @@ hadjárat forgatókönyvekek
 tesztelõ, hosting
 {Starseeker}
 szerkesztõ, fordító,
-író
+író, egyensúly, PR
 {tarren}
-kód, videó szerkesztés
+kód, videó szerkesztés, PR
 {Tevye}
 fõ szerkesztõ,
 fordító,
 sztori, író, PR
 {Vade Parvis}
-2D mûvész, ötleteket, PR
-{void_17}
-kód
+2D mûvész, ötletek
 {weakref}
 kód, író
 {Wic}
@@ -129,16 +129,11 @@ tudomány, sztori, író
 weboldal tervezéshez
 {LivingAnarchy}
 Facebook csoportkezeléshez,
-verseny és tesztelés (2019)
+verseny és tesztelés
 szervezésért
 {CzileraInzyniera}
-tesztelésért (2023)
-szervezésért
-{Xocenk}
-tesztelésért (2023)
-szervezésért
-{maugli}
-tesztelésért (2024)
+{Xocenk}, {maugli}
+tesztelésért
 szervezésért
 {WiZarDX_576} és {igrik}
 a kóddal kapcsolatos segítségért
@@ -185,8 +180,9 @@ hõs portrékhoz és vágóképekhez
 a jelenetek hangjaihoz
 {Paul Anthony Romero}
 a Factory hadjárat fõ sablonjáért
-{Maigret}
+{Vlad ""Maigret"" Privezencev}
 a Factory város sablonjáért
+és a Bulwark sablonjáért
 és a hadjárat sablonért
 {Alina Besanidou}
 {Vaszilij Szinicskin}
@@ -205,31 +201,23 @@ Hangszínészek (ru):
 {Mikhail Markov},
 {Natalya Ragulina}
 
-2019 tesztelõk:
-{Chleb}, {Ignus},
-{LivingAnarchy},
-{maestro}, {Machberet},
-{Szopa666}, {Ravciozo}
-
-2023 tesztelõk:
-{CzileraInzyniera},
-{DarkPepego}, {Gongwazy},
-{Flisiu}, {Yorick},
-{Machberet}, {maugli},
-{Mont}, {Niechcic},
-{Scherban Vlad}, {Spinaonic}, 
-{Voidek}, {Xocenk},
-{Zuuzel}
-
-2024 tesztelõk:
+Egyensúlytesztelõk:
+{Begrezen},
 {CzileraInzyniera},
 {DarkPepego}, {Flisiu},
-{Green Hell}, {Yorick},
+{Green Hell}, {HellLighT},
 {Krzynsztof}, {Machberet},
-{maugli}, {Redwhait},
-{Scherban Vlad}, {Spinaonic}, 
+{maugli}, {ponshick},
+{Redwhait}, {Spinaonic},
 {Voidek}, {ZomberR},
-{Zuuzel}
+{Zuuzel},
+korábbiak:
+{Chleb}, {Ignus},
+{Yorick}, {LivingAnarchy},
+{maestro}, {Mont},
+{Niechcic}, {Scherban Vlad},
+{Szopa666}, {Ravciozo}
+{Gongwazy}, {Xocenk}
 
 és az egész
 Heroes közösségének

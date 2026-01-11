@@ -26,16 +26,16 @@ F. Varázslatos vízesés	A Fejlesztett Unikornis tisztáson Ezüst Pegazusokat vásár
 Fejl. Ent õrség	A Fejlesztett Ent õrségben Ent Harcosokat vásárolhatsz.
 Fejl. Unikornis tisztás 	A Fejlesztett Unikornis tisztáson Harci Unikornisokat vásárolhatsz.
 Fejl. Sárkány szirt	A Fejlesztett Sárkány szirten Arany Sárkányokat vásárolhatsz.
-Mûhely	A mûhelyben Koboldot vásárolhatsz.
+Mûhely	A mûhelyben Harci Manókat vásárolhatsz.
 Korlátfal	A Korlátfalnál Vízköpõket vásárolhatsz.
 Gólem gyár	A Gólem Gyárban kõgólemeket vásárolhatsz.
 Varázsló torony	A Varázsló toronyban Mágusokat vásárolhatsz.
 Kívánság oltára	A Kívánság oltáránál Dzsinneket vásárolhatsz.
 Arany pavilon	Az Arany pavilonban Nagákat vásárolhatsz.
 Fellegvár	A Fellegvárban Óriásokat vásárolhatsz.
-Fejl. Mûhely	A Fejlesztett Mûhelyben Manókat vásárolhatsz.
+Fejl. Mûhely	A Fejlesztett Mûhelyben Mester Harci Manókat vásárolhatsz.
 Fejl. Korlátfal 	A Fejlesztett Korlátfalnál Obszidián Vízköpõket vásárolhatsz.
-Fejl. Gólem gyár	A Fejlesztett gólem gyárban vasgólemeket vásárolhatsz.
+Fejl. Gólem gyár	A Fejlesztett gólem gyárban Vasgólemeket vásárolhatsz.
 Fejl. Varázsló torony	A Fejlesztett Varázsló toronyban Fõmágusokat vásárolhatsz.
 Fejl. Kívánság oltára	A Fejlesztett Kívánság oltáránál Mesterdzsinneket vásárolhatsz.
 Fejl. Arany pavilon	A Fejlesztett Arany pavilonban Naga királynõt vásárolhatsz.
@@ -82,14 +82,14 @@ Fejl. Némaság kápolnája	A Fejlesztett Némaság kápolnájában Medúza királynõt vásá
 Fejl. Labirintus	A Fejlesztett Labirintusban Minotaurusz királyt vásárolhatsz.
 Fejl. Mantikor barlang	A Fejlesztett Mantikor barlangban Skorpikokat vásárolhatsz.
 Fejl. Sárkány barlang	A Fejlesztett Sárkány barlangban Fekete Sárkányokat vásárolhatsz.
-Goblin kaszárnya	A Goblin kaszárnyában Goblinokat vásárolhatsz.
+Manó kaszárnya	A Manó kaszárnyában Manókat vásárolhatsz.
 Farkas karám	A Farkas karámban Farkaslovasokat vásárolhatsz.
 Ork torony	Az Ork toronyban Orkokat vásárolhatsz.
 Ogre erõd	Az Ogre erõdben Ogrékat vásárolhatsz.
 Sziklafészek	A Sziklafészeknél Keselyûket vásárolhatsz.
 Küklopsz barlang 	A Küklopsz barlangban Küklopszokat vásárolhatsz.
 Behemót odú	A Behemót odúnál Behemótokat vásárolhatsz.
-Fejl. Goblin kaszárnya	A Fejlesztett Goblin kaszárnyában Hobgoblinokat vásárolhatsz.
+Fejl. Manó kaszárnya	A Fejlesztett Manó kaszárnyában Vészmanókat vásárolhatsz.
 Fejl. Farkas karám	A Fejlesztett Farkas Karámban Farkaslovasokat vásárolhatsz.
 Fejl. Ork torony	A Fejlesztett Ork toronynál Ork törzsfõnököket  vásárolhatsz.
 Fejl. Ogre erõd	A Fejlesztett Ogre erõdben Ogre mágusokat vásárolhatsz.

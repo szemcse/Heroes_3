@@ -60,7 +60,12 @@ Difficulty quest progress	A nehézségi szinted nem %s.  Ebben a játékban így itt 
 Difficulty quest complete	A nehézségi szinted %s.  Ez az, ami itt van a számodra.  Elfogadod?	A nehézségi szinted %s.  Ez az, ami itt van a számodra.  Elfogadod?	A nehézségi szinted %s.  Ez az, ami itt van a számodra.  Elfogadod?	A nehézségi szinted %s.  Át akarsz itt menni?	A nehézségi szinted %s.  Át akarsz itt menni?	A nehézségi szinted %s.  Át akarsz itt menni?	A nehézségi szinted %s.  Át akarsz itt menni?	A nehézségi szinted %s.  Át akarsz itt menni?	A nehézségi szinted %s.  Át akarsz itt menni?
 Difficulty quest rollover	(A nehézségi szinted: %s)	(A nehézségi szinted: %s)	(A nehézségi szinted: %s)	(A nehézségi szinted: %s)	(A nehézségi szinted: %s)	(A nehézségi szinted: %s)	(A nehézségi szinted: %s)	(A nehézségi szinted: %s)	(A nehézségi szinted: %s)
 Difficulty quest log									
-Time limit	Vissza kell térned %d napon belül.	Vissza kell térned %d napon belül.	Vissza kell térned %d napon belül.	Vissza kell térned %d napon belül.	Vissza kell térned %d napon belül.	Vissza kell térned %d napon belül.	A kapu %d nap múlva is nyitva lesz.	A kapu %d nap múlva is nyitva lesz.	A kapu %d nap múlva is nyitva lesz.
+Extended event quest	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s
+Extended event progress	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s
+Extended event complete	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s	Helyörzõ %s
+Extended event rollover	(Helyörzõ %s)	(Helyörzõ %s)	(Helyörzõ %s)	(Helyörzõ %s)	(Helyörzõ %s)	(Helyörzõ %s)	(Helyörzõ %s)	(Helyörzõ %s)	(Helyörzõ %s)
+Extended event log	Küld el %s a %s helyre	Küld el %s a %s helyre	Küld el %s a %s helyre	Küldd el %s-t, hogy átmenjen a kapun	Küldd el %s-t, hogy átmenjen a kapun	Küldd el %s-t, hogy átmenjen a kapun	Küldd el %s-t, hogy átmenjen a kapun	Küldd el %s-t, hogy átmenjen a kapun	Küldd el %s-t, hogy átmenjen a kapun
+Time limit	Vissza kell térned %d napon belül.	Vissza kell térned %d napon belül.	Vissza kell térned %d napon belül.	Vissza kell térned %d napon belül.	Vissza kell térned %d napon belül.	Vissza kell térned %d napon belül.	A kapu %d nap múlva is nyitva lesz.	A kapu %d nap múlva is nyitva lesz.	
 									
 Seer Hut Names (48)									
 Abraham									

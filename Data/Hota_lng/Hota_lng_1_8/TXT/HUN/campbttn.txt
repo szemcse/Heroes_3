@@ -132,7 +132,7 @@ A kezdõ városod induláskor megkapja a Csontváz Átalakítót
 (bármely lényt Csontvázzá alakít)"
 "{Vámpír Csuklya}
 
-A Vámpír Csuklya növeli a Nekromancia képzettséged 5%-kal"
+A Vámpír Csuklya növeli a Nekromancia képzettséged 10%-kal"
 "{Necromácia erõsítõ}
 
 A kezdõ városod induláskor megkapja a Necromácia erõsítõt
@@ -155,7 +155,7 @@ A kezdõ hõsöd +25 Zombival indít"
 A kezdõ hõsöd induláskor megkapja a Halál Fodrok varázslatot"
 "{Halottak Csizmája}
 
-A Halottak Csizmája növeli a Nekromancia képzettséged 7.5%-kal"
+A Halottak Csizmája növeli a Nekromancia képzettséged 15%-kal"
 "{Szellemsárkányok}
 
 A kezdõ hõsöd +3 Szellemsárkánnyal indít"

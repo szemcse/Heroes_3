@@ -443,8 +443,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "lepr"
 Text 2: "CLEPRCHN.DEF"
-Text 3: "Kobold"
-Text 4: "Kobold"
+Text 3: "Ír Manó"
+Text 4: "Ír Manó"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -995,8 +995,8 @@ Texts count: "9"
 Text 0: ""
 Text 1: "yeti"
 Text 2: "cmspir.def"
-Text 3: "Jeti Runamester"
-Text 4: "Jeti Runamester"
+Text 3: "Rúnamester Jeti"
+Text 4: "Rúnamester Jeti"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -1943,7 +1943,7 @@ Text 3: "Elsõsegély"
 Text 4: "Másodlagos képzettség bónusz: Elsõsegély"
 Text 5: "{Elsõsegély}
 
-Szintenként 5% bónuszt kap az elsõsegélysátor által biztosított bónusz életerõhöz."
+Szintenként 5% bónuszt kap az elsõsegély-sátor által biztosított bónusz életerõhöz."
 Text 6: "Floribert"
 Text 7: "Floribertet Enroth egyik legkiválóbb mezei sebészeként tartják számon, mivel számos új eszközt vezetett be, amelyek felgyorsítják a sérültek manipulációját, amely ezáltal enyhíti a sebesültek szenvedését. Floribert állandóan utánpótlást, illetve gyakorló anyagot kap barátnõje, Victoria kísérleteibõl fakadóan."
 Text 8: ""
@@ -2032,7 +2032,7 @@ Text 5: "{Nyílvetõgép}
 
 Növeli a Nyílvetõgép támadási és védekezési képességeit 30%-kal minden 5 szint után (felfelé kerekítve)."
 Text 6: "Morton"
-Text 7: "Morton, a Goblin-Ogre háborúk veteránja és azon kevesek egyike, akik túlélték a Gowdar Deep elleni támadást, bosszút esküdött a ""piszokbõrûek"" ellen a mészárlásért, amely eltörölte otthonát Jadame arcáról. A ballisztái minõségét azon méri le, hogy hány ogrét tudnak egyetlen lövéssel átszúrni."
+Text 7: "Morton, a Manó-Ogre háborúk veteránja és azon kevesek egyike, akik túlélték a Gowdar Deep elleni támadást, bosszút esküdött a ""piszokbõrûek"" ellen a mészárlásért, amely eltörölte otthonát Jadame arcáról. A ballisztái minõségét azon méri le, hogy hány ogrét tudnak egyetlen lövéssel átszúrni."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2374,13 +2374,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Snow Elves"
-Text 4: "Creature Bonus: Snow Elves"
-Text 5: "{Snow Elves and Steel Elves}
+Text 3: "Hó Tünde"
+Text 4: "Egység bónusz: Hó Tünde"
+Text 5: "{Hó Tünde és Acél Tünde}
 
-Increases the Speed of any Snow Elves or Steel Elves by 1 and their Attack and Defense skills by 20% for every 3 levels (rounded up)."
+Növeli a Hó Tünde vagy Acél Tünde sebességét 1-gyel, a támadási és védekezési képességeiket pedig 20%-kal minden 3 szint után (felfelé kerekítve)."
 Text 6: "Dhuin"
-Text 7: "On the field where elves from all over Vori converge at springtime to compete in military prowess, a memorial stone with the name Dhuin Ironhand has been standing for years: no one has yet been able to hurl a dart any farther. Dhuin is as straight and firm as his famed spear, and many fathers show him the highest degree of reverence, entrusting their eldest sons to him for training."
+Text 7: "A mezõn, ahol tavasszal Vori egész területérõl érkezõ tündék gyûlnek össze, hogy katonai ügyességüket mérjék össze, évek óta áll egy emlékmû, amelyen Dhuin Ironhand neve olvasható: eddig senki sem tudott nála messzebb dobni  lándzsát. Dhuin olyan egyenes és határozott, mint híres lándzsája, és sok apa a legnagyobb tisztelettel viseltetik iránta, rá bízva legidõsebb fiaik kiképzését."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2403,13 +2403,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Diplomacy"
-Text 4: "Secondary Skill Bonus: Diplomacy"
-Text 5: "{Diplomacy}
+Text 3: "Diplomácia"
+Text 4: "Másodlagos képzettség bónusz: Diplomácia"
+Text 5: "{Diplomácia}
 
-Receives a 5% per level bonus to Diplomacy skill percentage when surrendering."
+Szintenként 5% bónuszt kap a diplomáciai képességek százalékához, amikor megadja magát."
 Text 6: "Oidana"
-Text 7: "In every tribe of Vori, someone traces their lineage back to Oidana, and she is known as the Mother of the Chieftains — only she herself has long grown weary of the ceaseless bickering among her unruly descendants. Having lived in the world for far too long to harbor preferences, she has equal affection for everyone with ancient Vori blood in their veins."
+Text 7: "A Vori minden törzsében van valaki, aki Oidana-ig vezeti vissza a családfáját, és õt a törzsfõk anyjaként tisztelik – csakhogy õ maga már régóta fáradt a rakoncátlan leszármazottai közötti szüntelen viszályoktól. Túl hosszú életet élt ahhoz, hogy elõítéletei legyenek, ezért egyformán szereti mindazokat, akiknek õsi Vori vér folyik az ereiben."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2432,13 +2432,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Archery"
-Text 4: "Secondary Skill Bonus: Archery"
-Text 5: "{Archery}
+Text 3: "Íjászat"
+Text 4: "Másodlagos képzettség bónusz: Íjászat"
+Text 5: "{Íjászat}
 
-Receives a 5% per level bonus to Archery skill percentage."
+Szintenként 5% bónuszt kap az Íjászat képzettségi százalékához."
 Text 6: "Neia"
-Text 7: "Missing the target with your only shot often means starving to death. A native of the harshest part of Vori, the Volee glacier, Neia knows it all too well; this fate has befallen many hunters of her tribe. She is one of the only Vori elves alive who prefer a bow to a powerful javelin, but Neia's aim is so perfect that even a lightweight arrow spells certain end."
+Text 7: "Ha egyetlen lövéseddel elvéti a célt, az gyakran éhenhalást jelenti. Neia, aki Vori legzordabb részérõl, a Volee-gleccserrõl származik, ezt nagyon jól tudja; ez a sors sok vadászt ért a törzsébõl. Õ az egyetlen élõ Vori elf, aki az erõs lándzsáját íjjal helyettesíti, de Neia célzóképessége olyan tökéletes, hogy még egy könnyû nyíl is biztos halált jelent."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2461,13 +2461,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Mountain Rams"
-Text 4: "Creature Bonus: Mountain Rams"
-Text 5: "{Mountain Rams and Argali}
+Text 3: "Hegyi Kos"
+Text 4: "Egység bónusz: Hegyi Kos"
+Text 5: "{Hegyi Kos és Argali Juh}
 
-Increases the Speed of any Mountain Rams and Argali by 1 and their Attack and Defense skills by 20% for every 2 levels (rounded up)."
+Növeli a Hegyi Kos vagy Argali Juh sebességét 1-gyel, a támadási és védekezési képességeiket pedig 20%-kal minden 2 szint után (felfelé kerekítve)."
 Text 6: "Eikthurn"
-Text 7: "The Jotunns are serious about celestial omens. Those born in the days when the Great Aries dominates the starry expanse know that their fates are forever intertwined with mountain rams, willful and awesomely brave. Ever since he learned to walk, Eikthurn has been fearlessly scaling mountain peaks in the company of his tough-horned friends, adamant in that they are the only ones incapable of betrayal."
+Text 7: "A Jotunnok komolyan veszik a csillagok jeleit. Azok, akik a Kos jegyében születtek, tudják, hogy sorsuk örökre összefonódik a hegyi kosokéval, akik önfejûek és félelmetesen bátrak. Mióta megtanult járni, Eikthurn félelem nélkül mászik hegycsúcsokra kemény szarvú barátaival, mert meg van gyõzõdve arról, hogy csak õk nem képesek árulásra."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2490,13 +2490,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Mammoths"
-Text 4: "Creature Bonus: Mammoths"
-Text 5: "{Mammoths and War Mammoths}
+Text 3: "Mamut"
+Text 4: "Egység bónusz: Mamut"
+Text 5: "{Mamut és Harci Mamut}
 
-Increases the Speed of any Mammoths or War Mammoths by 1 and their Attack and Defense skills by 20% for every 6 levels (rounded up)."
+Növeli a Mamut vagy Harci Mamut sebességét 1-gyel, a támadási és védekezési képességeiket pedig 20%-kal minden 6 szint után (felfelé kerekítve)."
 Text 6: "Creyle"
-Text 7: "Creyle's father, the konung, refused to let her succeed him. Knowing better than to try and reason with the old grouch, she decided to find others who would accept her leadership. Creyle then went and challenged the alpha of Vori's largest mammoth herd: she wrestled him down bare-handed, snapped off his tusk and made it into a war horn. She blasts it as she leads what is now her own herd into battle."
+Text 7: "Creyle apja, a király nem engedte, hogy lánya örökölje a trónt. Tudta, hogy hiába próbálna meggyõzni az öreg zsémbes uralkodót, ezért úgy döntött, hogy másokat keres, akik elfogadják a vezetését. Creyle elment, és kihívta Vori legnagyobb mamutcsordájának alfáját: puszta kézzel legyõzte, letörte az agyarát, és abból háborús kürtöt készített. Ezt fújja, miközben a most már saját csordáját vezeti a csatába."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2519,13 +2519,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Yeti"
-Text 4: "Creature Bonus: Yeti"
-Text 5: "{Yeti and Yeti Runemasters}
+Text 3: "Jeti"
+Text 4: "Egység bónusz: Jeti"
+Text 5: "{Jeti és Rúnamester Jeti}
 
-Increases the Speed of any Yeti or Yeti Runemasters by 1 and their Attack and Defense skills by 20% for every 4 levels (rounded up)."
+Növeli a Jeti vagy Rúnamester Jeti sebességét 1-gyel, a támadási és védekezési képességeiket pedig 20%-kal minden 4 szint után (felfelé kerekítve)."
 Text 6: "Spadum"
-Text 7: "Spadum is not the strongest warrior or the most skilled hunter among the Yeti; still, his kin hold him in the highest regard. The answer as to why is simple: he is fluent in the languages of all races in Vori. This often helps him settle disputes over valuable land in favor of his people without the parties resorting to needless violence."
+Text 7: "Spadum nem a legerõsebb harcos és nem is a legügyesebb vadász a Jeti nép között, mégis rokonai nagy tiszteletben tartják. Az ok egyszerû: folyékonyan beszéli a Vori összes fajának nyelvét. Ez gyakran segít neki abban, hogy népe javára rendezze az értékes földterületekért folyó vitákat anélkül, hogy a felek felesleges erõszakhoz folyamodnának."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2548,13 +2548,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Kobolds"
-Text 4: "Creature Bonus: Kobolds"
-Text 5: "{Kobolds and Kobold Foremen}
+Text 3: "Kobold"
+Text 4: "Egység bónusz: Kobold"
+Text 5: "{Kobold és Kobold Vezetõ}
 
-Increases the Speed of any Kobold or Kobold Foremen by 1 and their Attack and Defense skills by 10% for every level (rounded up)."
+Növeli a Kobold vagy Kobold Vezetõ sebességét 1-gyel, a támadási és védekezési képességeiket pedig 10%-kal minden szint után (felfelé kerekítve)."
 Text 6: "Kynr"
-Text 7: "Many believe that Kynr is not a name, but rather a rank or title, because Kynr has always been among kobolds. Whenever disaster strikes the mines, and tunnels collapse, it is Kynr who leads the rescue parties. At his call, every kobold immediately suspends their dealings and obeys without question, knowing full well that lives are at stake."
+Text 7: "Sokan úgy vélik, hogy Kynr nem név, hanem rang vagy cím, mert Kynr mindig is a koboldok között volt. Amikor katasztrófa sújtja a bányákat, és az alagutak beomlanak, Kynr vezeti a mentõcsapatokat. Az õ parancsára minden kobold azonnal felfüggeszti a tevékenységét, és kérdés nélkül engedelmeskedik, tudva, hogy életek forognak kockán."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2577,13 +2577,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Pathfinding"
-Text 4: "Secondary Skill Bonus: Pathfinding"
-Text 5: "{Pathfinding}
+Text 3: "Terepismeret"
+Text 4: "Másodlagos képzettség bónusz: Terepismeret"
+Text 5: "{Terepismeret}
 
-Enhances the effect of the Pathfinding skill, reducing the cost of moving on rough terrain by additional 5%."
+Fokozza a Terepismeret képesség hatását, további 5%-kal csökkentve a nehéz terepen való mozgás költségeit."
 Text 6: "Ergon"
-Text 7: "Ergon spent his long life in constant movement. He served in Lord Slayer's guard in Enroth, guarded elven caravans in Jadame, and sold his sword in Antagarich, only to realize in his later years that he yearned for the place whereto time itself seemed to come to rest. That said, his skill in arranging swift marches is still there, whenever need arises."
+Text 7: "Ergon hosszú életét állandó mozgásban töltötte. Lord Slayer testõrségében szolgált Enrothban, tünde karavánokat õrzött Jadame-ban, és kardját Antagarichban árulta, csak hogy késõbbi éveiben rájöjjön, hogy az a hely hiányzik neki, ahol az idõ maga is megállni látszik. Mindazonáltal, ha szükség van rá, még mindig megvan a gyors menetelések megszervezésének képessége."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2606,13 +2606,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Shamans"
-Text 4: "Creature Bonus: Shamans"
-Text 5: "{Shamans and Great Shamans}
+Text 3: "Sámán"
+Text 4: "Egység bónusz: Sámán"
+Text 5: "{Sámán és Õsi Sámán}
 
-Increases the Speed of any Shamans or Great Shamans by 1 and their Attack and Defense skills by 20% for every 5 levels (rounded up)."
+Növeli a Sámán vagy Õsi Sámán sebességét 1-gyel, a támadási és védekezési képességeiket pedig 20%-kal minden 5 szint után (felfelé kerekítve)."
 Text 6: "Kriv"
-Text 7: "When the shamans surmised that the gods would never grant their tribe another spring without a great sacrifice, the lot fell on Kriv. Chained to a runestone, he waited for death; indeed, she appeared to him as a white owl, yet only took his eyes, repaying him with the gift of seeing through time. Kriv returned to accurately predict the warm season's arrival, establishing himself as a peerless shaman."
+Text 7: "Amikor a sámánok arra a következtetésre jutottak, hogy az istenek soha többé nem ajándékoznak a törzsüknek tavaszt nagy áldozat nélkül, a választás Krivre esett. Egy rúnakõhöz láncolva várta a halált; és valóban, a halál fehér bagolyként jelent meg elõtte, de csak a szemét vette el, cserébe pedig megajándékozta azzal a képességgel, hogy átlásson az idõn. Kriv visszatért, hogy pontosan megjósolja a meleg évszak érkezését, és ezzel páratlan sámánként tett szert hírnévre."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2635,13 +2635,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Frost Ring"
-Text 4: "Spell Bonus: Frost Ring"
-Text 5: "{Frost Ring}
+Text 3: "Fagy Gyûrû"
+Text 4: "Varázslat bónusz: Fagy Gyûrû"
+Text 5: "{Fagy Gyûrû}
 
-Casts Frost Ring with Damage increased by 10% for every n hero levels, where n is the level of the targeted creature."
+A Fagy Gyûrû sebzése 10%-kal növekszik minden (n) hõsi szint után, ahol (n) a célzott egység szintje."
 Text 6: "Glacius"
-Text 7: "The expanses of Vori, covered with years of snow, only seem lifeless; those who know what to look for will find out that the disembodied inhabitants of these lands make fine interlocutors, or maybe even sources of power. Glacius has a reputation for being the Bane of Spirits: their empty shells crumble into bursts of magical light, as he greedily devours their energy and unleashes it upon his enemies."
+Text 7: "A Vori hatalmas területei, amelyeket évek óta hó borít, csak látszólag élettelenek; azok, akik tudják, mit kell keresni, rájönnek, hogy ezeknek a földeknek a testetlen lakói kiváló beszélgetõtársak, vagy talán még erõforrások is lehetnek. Glaciusnak az a hírneve, hogy a szellemek pusztítója: üres héjuk mágikus fényrobbanásokká omlik össze, miközben õ mohón felfalja energiájukat, és ellenségeire szabadítja."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2664,13 +2664,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Ice Bolt"
-Text 4: "Spell Bonus: Ice Bolt"
-Text 5: "{Ice Bolt}
+Text 3: "Jégcsapás"
+Text 4: "Varázslat bónusz: Jégcsapás"
+Text 5: "{Jégcsapás}
 
-Casts Ice Bolt with Damage increased by 10% for every n hero levels, where n is the level of the targeted creature."
+A Jégcsapás sebzése 10%-kal növekszik minden (n) hõsi szint után, ahol (n) a célzott egység szintje."
 Text 6: "Sial"
-Text 7: "Sial can always be traced on the battlefield by shards of ice statues that once were her enemies. Legend says another doing of hers is the infamous Crystal Lake, which stays frozen even through the brief summers. Once, its waters swallowed an entire tribe whose chieftain had angered her; they remain eternally still since."
+Text 7: "Sial nyomát mindig a csatatéren található jégszobrok töredékei alapján lehet követni, amelyek egykor ellenségei voltak. A legenda szerint egy másik ilyen alkotása a híres Kristály-tó, amely még a rövid nyár folyamán is befagyva marad. Egyszer a vize elnyelt egy egész törzset, amelynek fõnöke felbosszantotta õt; azóta mozdulatlanok õk itt."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2693,13 +2693,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Shield"
-Text 4: "Spell Bonus: Shield"
-Text 5: "{Shield}
+Text 3: "Pajzs"
+Text 4: "Varázslat bónusz: Pajzs"
+Text 5: "{Pajzs}
 
-Casts Shield with effect increased by 10% for every n hero levels, where n is the level of the targeted creature."
+A Pajzs hatása 10%-kal növekszik minden (n) hõsi szint után, ahol (n) a célzott egység szintje."
 Text 6: "Dalton"
-Text 7: "Plain weapons can barely scratch a Jotunn, but believing these hulks neglect protection exposes a fool. Dalton is the most adept armorer capable of forging equipment of such immense size. Lean as Vori's ores are, Dalton has penetrated the secrets of magic to ensure his creations can withstand anything, an ice demon's fury included."
+Text 7: "A sima fegyverek alig tudnak megkarcolni egy jotunnot, de aki azt hiszi, hogy ezek a kolosszusok nem törõdnek a védelemmel, az bolond. Dalton a legügyesebb fegyverkovács, aki képes ilyen hatalmas méretû felszereléseket kovácsolni. Bár Vori bányái szegényesek ércekben, Dalton megismerte a mágia titkait, hogy alkotásai mindennek ellenálljanak, beleértve a jégdémonok dühét is."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2722,13 +2722,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "First Aid"
-Text 4: "Secondary Skill Bonus: First Aid"
-Text 5: "{First Aid}
+Text 3: "Elsõsegély"
+Text 4: "Másodlagos képzettség bónusz: Elsõsegély"
+Text 5: "{Elsõsegély}
 
-Receives a 5% per level bonus to bonus Health provided by the First Aid Tent."
+Szintenként 5% bónuszt kap az elsõsegély-sátor által biztosított bónusz életerõhöz."
 Text 6: "Biarma"
-Text 7: "Everyone in Vori knows: when all remedies fail, the last and only resort for the ailing is to seek out old Biarma. Those who dare to face her no longer care for Biarma's motives as to who will be granted a new lease on life, and who will instead donate their skull to the eerie adornment of her remote abode's palisade."
+Text 7: "Vori-ban mindenki tudja: ha minden más gyógymód kudarcot vall, a betegek utolsó és egyetlen reménye az öreg Biarma felkeresése. Azok, akik mernek szembenézni vele, már nem törõdnek Biarma indítékaival, hogy kinek ad új életet, és ki fogja a koponyáját felajánlani a távoli lakhelye pallisádjának hátborzongató dísztárgyaként."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2751,13 +2751,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Bloodlust"
-Text 4: "Spell Bonus: Bloodlust"
-Text 5: "{Bloodlust}
+Text 3: "Vérszomj"
+Text 4: "Varázslat bónusz: Vérszomj"
+Text 5: "{Vérszomj}
 
-Casts Bloodlust with effect increased by 10 for 1-2 level creatures, by 8 for 3-4 level creatures, by 6 for 5-6 level creatures, and by 4 for 7 level creatures."
+A Vérszomj varázslatot 1-2 szintû egységek esetén 10-el, 3-4 szintûek esetén 8-al, 5-6 szintûek esetén 6-al, 7 szintûek esetén 4-el megnövelt hatásúvá teszi."
 Text 6: "Akka"
-Text 7: "The yeti's knack for survival in the frost is often attributed to their thick hides and dense fur. However, their resilience stems from an innate magical power that radiates warmth throughout their bodies. Only a select few can consciously harness it, and Akka is among the most adept. Her expertise stems from her deep understanding of the warlike furor her clansmen tend to give in to."
+Text 7: "A jeti túlélési képességét a fagyban gyakran vastag bõrüknek és sûrû szõrzetüknek tulajdonítják. Azonban ellenálló képességük egy velük született mágikus erõbõl fakad, amely meleget sugároz az egész testükben. Csak néhány kiválasztott képes tudatosan kihasználni ezt az erõt, és Akka az egyik legügyesebb közülük. Szakértelme abból fakad, hogy mélyen megérti a klán tagjaiban általában jellemzõ harci dühöt."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2780,13 +2780,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "+350 Gold"
-Text 4: "+350 Gold each day"
-Text 5: "{Gold}
+Text 3: "+350 Arany"
+Text 4: "+350 Arany naponta"
+Text 5: "{Arany}
 
-Increases kingdom's income by 350 gold per day."
+Naponta 350 arannyal gyarapítja a királyság vagyonát."
 Text 6: "Vehr"
-Text 7: "Vehr earned her moniker, Goldtooth, long before replacing her worn-out fangs with ones of pure metal. To this day, her teeth remain the primary tool of her trade, as she possesses the remarkable talent to discern a rock's composition simply by biting into it. Being so blessed, she does not waste time on trifles; her expertise lies in finding rich gold veins."
+Text 7: "Vehr már jóval azelõtt kiérdemelte az Aranyszáj becenevet, hogy kopott agyarait tiszta fémre cserélte volna. A mai napig fogai maradnak a mesterségének legfõbb eszközei, hiszen rendkívüli tehetséggel rendelkezik: egyszerûen csak beleharapva képes megkülönböztetni a kõzetek összetételét. Mivel ilyen áldással rendelkezik, nem pazarolja az idejét apróságokra; szakértelme a gazdag aranyércek felkutatásában rejlik."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2809,13 +2809,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Sorcery"
-Text 4: "Secondary Skill Bonus: Sorcery"
-Text 5: "{Sorcery}
+Text 3: "Varázslás"
+Text 4: "Másodlagos képzettség bónusz: Varázslás"
+Text 5: "{Varázslás}
 
-Receives a 5% per level bonus to Sorcery skill percentage."
+Szintenkét 5%-kal növeli a Varázslás képzettséget."
 Text 6: "Allora"
-Text 7: "This mysterious woman once fled to Vori from the mainland, allegedly facing execution for interfering with the succession in some barony. Allora herself denies this, but her excellent magic skills can affect the bodies and minds of other sentient beings alike. This might be the only reason she was accepted at Vori and hasn't been exiled yet."
+Text 7: "Ez a titokzatos nõ egykor a szárazföldrõl menekült Vori-ba, állítólag azért, mert egy báróság öröklési ügyeibe avatkozott bele, amiért kivégzés várt rá. Allora ezt tagadja, de kiváló mágikus képességei hatással vannak más érzõ lények testére és elméjére egyaránt. Ez lehet az egyetlen oka annak, hogy Vori-ban befogadták, és még nem számûzték."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2838,13 +2838,13 @@ Texts count: "9"
 Text 0: ""
 Text 1: ""
 Text 2: ""
-Text 3: "Navigation"
-Text 4: "Secondary Skill Bonus: Navigation"
-Text 5: "{Navigation}
+Text 3: "Navigáció"
+Text 4: "Másodlagos képzettség bónusz: Navigáció"
+Text 5: "{Navigáció}
 
-In the presence of Navigation skill hero receives a bonus of 5% extra movement points at sea per level."
+Navigációs képesség jelenlétében a hõs bónusz 5% extra mozgáspontot kap a tengeren szintenként."
 Text 6: "Haugir"
-Text 7: "Haugir's mother sailed the seas, one day returning from a voyage to distant lands with a child in her womb. Her son's greatest gripe was his eyes lacking a true frost giant's icy tinge, so he vowed to acquire the largest, purest crystals and carve himself a new pair out of them. Thus far, Haugir has found one that fits the purpose, but he still seeks its perfect match."
+Text 7: "Haugir anyja a tengereken hajózott, és egy nap távoli földekrõl tért vissza, gyermeket várva. Fia legnagyobb sérelme az volt, hogy szemei nem rendelkeztek a jégóriásokra jellemzõ jeges árnyalattal, ezért megfogadta, hogy megszerez a legnagyobb, legtisztább kristályokat, és azokból farag magának új párat. Eddig Haugir talált egyet, amely megfelel a célnak, de még mindig keresi a tökéletes párját."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2920,7 +2920,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Unused
+Text 7: "Nem használt
 Ivó
 Ivó
 Hajógyár
@@ -2931,7 +2931,7 @@ Fészkelõhelyek
 Fészkelõhelyek
 Vezércsillag
 Nyersanyagraktár"
-Text 8: "Unused.
+Text 8: "Nem használt.
 Az Ivó növeli a heti Matróz-szaporulatot 4-gyel.
 Az Ivó növeli a heti Tengerész-szaporulatot 4-gyel.
 A Hajógyárban hajókat vásárolhatsz.
@@ -3019,8 +3019,8 @@ Mana Generátor
 Bank
 Mûhely
 A Fejl. mûhely
-Unused
-Unused
+Nem használt
+Nem használt
 Villámhárító
 Nyersanyagraktár"
 Text 8: "A Mûtárgykereskedõnél névleges díj ellenében vásárolhatsz Varázstárgyakat.
@@ -3030,8 +3030,8 @@ A Mana Generátor 20 további varázspontot ad a helyõrségi hõsnek a meglévõ varázs
 A Bank lehetõvé teszi, hogy egyszerre 2500 Arany kölcsönt lehessen felvenni, de 500-al csökkenti a város aranybevételét használata után 5 napon keresztül.
 A Mûhelyben Rettenthetetleneket toborozhatsz.
 A Fejl. mûhelyben Pusztítókat toborozhatsz.
-Unused
-Unused
+Nem használt
+Nem használt
 A Villámhárító 50%-kal növeli a heti egységeid generálását, és további 5000 Arany biztosít naponta a királyságodnak, továbbá minden csata elsõ körében a hõsöd minden ellenséges egységére lecsap egy Villámcsapással (a sebzés mértéke a városépületek számától függ).
 A Nyersanyagraktár napi +1 kristályt ad."
 Has FilS: "true"
@@ -3069,20 +3069,20 @@ Fejl. Hegyi Nagykövetség
 Fejl. Sámán Templom
 Fejl. Mamut Istállók
 Fejl. Északi Ház"
-Text 8: "The Colliery allows you to recruit Kobolds.
-The Frigid Spur allows you to recruit Mountain Rams.
-The Hall of the Bold allows you to recruit Snow Elves.
-The Mountain Embassy allows you to recruit Yeti.
-The Shaman Fane allow you to recruit Shamans.
-The Mammoth Stalls allows you to recruit Mammoths.
-The Frosthome allows you to recruit Jotunns.
-The Fejl. Colliery allows you to recruit Kobold Foremen.
-The Fejl. Frigid Spur allows you to recruit Argali.
-The Fejl. Hall of the Bold allows you to recruit Steel Elves.
-The Fejl. Mountain Embassy allows you to recruit Yeti Runemasters.
-The Fejl. Shaman Fane allows you to recruit Great Shamans.
-The Fejl. Mammoth Stalls allows you to recruit War Mammoths.
-The Fejl. Frosthome allows you to recruit Jotunn Warlords."
+Text 8: "A Szénbányákban Koboldokat toborozhatsz.
+A Fagyos Hegygerincen Hegyi Kosokat toborozhatsz.
+A Bátrak Csarnokában Hó Tündéket toborozhatsz.
+A Hegyi Nagykövetségen Jetiket toborozhatsz.
+A Sámán Templomban Sámánokat toborozhatsz.
+A Mamut Istállókban Mamutokat toborozhatsz.
+Az Északi Házban Jotunnsokat toborozhatsz.
+A Fejl. Szénbányákban Kobold Vezetõket toborozhatsz.
+A Fejl. Fagyos Hegygerincen Argali Juhokat toborozhatsz.
+A Fejl. Bátrak Csarnokában Acél Tündéket toborozhatsz.
+A Fejl. Hegyi Nagykövetségen Rúnamester Jetiket toborozhatsz.
+A Fejl. Sámán Templomban Õsi Sámánokat toborozhatsz.
+A Fejl. Mamut Istállókban Harci Mamutokat toborozhatsz.
+A Fejl. Északi Házban Jotunn Hadurakat toborozhatsz."
 Has FilS: "true"
 FilS size: 392
 FilS: "00 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 90 01 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 05 00 00 00 01 00 00 00 05 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 b8 0b 00 00 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 0f 00 00 0a 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 0a 00 00 00 10 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 d0 07 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b8 0b 00 00 0a 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 98 3a 00 00"
@@ -3108,24 +3108,24 @@ Text 7: "Vásár
 Szénakazlak
 Szénakazlak
 Hajógyár
-Sieidi of the Runes
-Altar of the Runes
-Unused
-Unused
-Unused
-Spirits of the Forebears
-Resource Silo"
-Text 8: "The Fair improves the market rate of Marketplace.
-The Szénakazlak increase Mammoth production by 1 per week.
-The Szénakazlak increase War Mammoth production by 1 per week.
-The Hajógyár allows you to purchase ships.
-The Sieidi of the Runes allows local heroes to learn Runes secondary skill.
-The Altar of the Runes adds 1 Rune Level to the player's units at the beginning of the combat.
-Unused
-Unused
-Unused
-The Spirits of the Forebears increase weekly creature generation by 50%, provide your kingdom with an additional 5000 gold each day, and increase the Defence strength of a garrison hero by +20 when defending against a siege.
-The Resource Silo provides you with an additional +1 wood and +1 ore each day."
+Rúnák Sieidije
+Rúnák Oltára
+Nem használt
+Nem használt
+Nem használt
+Õsök Szellemei
+Nyersanyagraktár"
+Text 8: "A Vásár javítja a Piac árfolyamait.
+A Szénakazlakok hetente 1-gyel növelik a Mamutok szaporulatát.
+A Szénakazlakok hetente 1-gyel növelik a Harci Mamutok szaporulatát.
+A Hajógyárban hajókat vásárolhatsz.
+A Rúnák Sieidije lehetõvé teszi a helyi hõsöknek, hogy elsajátítsák a Rúnák másodlagos képzetséget.
+A Rúnák oltára 1 Rúna Szintet ad a játékos egységeinek a harc kezdetén.
+Nem használt
+Nem használt
+Nem használt
+Az Õsök Szellemei 50%-kal növelik a heti egységek generálását, naponta további 5000 aranyat biztosítanak a királyságodnak, és +20-cal növelik a helyõrség hõsének védelmi erejét ostrom elleni védekezéskor.
+A Nyersanyagraktár minden nap +1 Fát és +1 Ércet biztosít."
 Has FilS: "true"
 FilS size: 252
 FilS: "05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
@@ -4245,7 +4245,7 @@ https://h3hota.com/en/download""
 #387
 %d szintû távolsági csapatok
 #388
-%d szintû közelharci csapatok"
+%d szintû közelharci csapatok
 #389
 Az õr távcsövön keresztül szemügyre veszi a hajótokat, majd tiltó jelzést ad. Nyilvánvalóan senki sem figyelmeztette õt az érkezésetekrõl, így nem fogtok ezen az útvonalon hajózni. Keressétek meg a Kulcsmester sátrát.
 #390
@@ -4691,13 +4691,13 @@ A térkép verziója frissül, és a térképet nem lehet majd megnyitni a HotA térképs
 # 189
 A térképen nem lehet 64500-nál több objektumot elhelyezni.
 # 190
-Mented a %s változásait? A térkép verziója frissül, és a térképet nem lehet majd megnyitni a HotA térképszerkesztõ régebbi verzióiban."
+Mented a %s változásait? A térkép verziója frissül, és a térképet nem lehet majd megnyitni a HotA térképszerkesztõ régebbi verzióiban.
 # 191
 Egység 7b
 # 192
 Egység 7b Fejlesztett
 # 193
-Véletlenszerû (300-500 Arany, vagy 3-5 Manó vagy Kobold)
+Véletlenszerû (300-500 Arany, vagy 3-5 Harci Manó vagy Kobold)
 # 194
 Egység
 # 195
@@ -6932,8 +6932,8 @@ Gnoll egység lakása.""
 
 17
 21
-""Goblin kaszárnya
-Goblin egység lakása.""
+""Manó kaszárnya
+Manó egység lakása.""
 
 17
 22
@@ -7043,7 +7043,7 @@ Keselyû egység lakása.""
 17
 43
 ""Mûhely
-Tanonc egység lakása.""
+Harci Manó egység lakása.""
 
 17
 44
@@ -7791,13 +7791,13 @@ Mennyiség: 3-8.""
 
 54
 28
-""Tanonc
+""Harci Manó
 1. szintû Tower egység.
 Mennyiség: 20-50.""
 
 54
 29
-""Kiváló tanonc
+""Mester Harci Manó
 Fejlesztett 1. szintû Tower egység.
 Mennyiség: 20-30.""
 
@@ -8127,13 +8127,13 @@ Mennyiség: 3-8.""
 
 54
 84
-""Goblin
+""Manó
 1. szintû Stronghold egység.
 Mennyiség: 20-50.""
 
 54
 85
-""Hobgoblin
+""Vészmanó
 Fejlesztett 1. szintû Stronghold egység.
 Mennyiség: 20-30.""
 
@@ -8824,7 +8824,7 @@ A nyakadon viselve, ez a nyaklánc csökkenti az ellenség hangulatát 2-vel.""
 158
 ""Feledés Gyûrûje
 Osztály: Jelentõsebb.
-Ha viselik ezt a gyûrût, visszavonhatatlanná teszi a csatában elszenvedett összes veszteséget: a holttestek azonnal eltûnnek az egység halála után, az egységeket újjáélesztõ varázslatok használata hatástalan, a vámpírizmus nem hozza vissza a halott egységeket, és az élõhalottakat nem lehet nekromanciával feltámasztani a csata után.""
+Az ujjon viselve ezt a tárgyat a csatában elszenvedett veszteségeket visszafordíthatatlanná teszi:  az ellenség által megölt egységek semmilyen módon nem állíthatók vissza, és a holttestek az egység halála után azonnal eltûnnek.""
 
 5
 159
@@ -8869,7 +8869,7 @@ A törzsön viselve ez 25%-kal csökkenti az ellenséges hõs erejét a harc közben.""
 165
 ""Álomörzõ
 Osztály: Ereklye.
-Immunitást ad az egységeidnek az elme varázslatok ellen. A hatás a Sebezhetõség gömbjével negligálható.""
+Immunitást ad az egységeidnek az elme varázslatok ellen.""
 
 8
 100
@@ -9031,7 +9031,7 @@ Polipfej egységek lakása.""
 17
 102
 ""Sörcsarnok
-Kobold egységek lakása.""
+Ír Manó egységek lakása.""
 
 17
 103
@@ -9073,6 +9073,41 @@ Tollaskígyó egységek lakása.""
 ""Mûhely
 Rettenthetetlen egységek lakása.""
 
+17
+111
+""Szénbánya
+Kobold egységek lakása.""
+
+17
+112
+""Fagyos Hegygerinc
+Hegyi Kos egységek lakása.""
+
+17
+113
+""Bátrak Csarnoka
+Hó Tünde egységek lakása.""
+
+17
+114
+""Hegyi Nagykövetség
+Jeti egységek lakása.""
+
+17
+115
+""Sámán Templom
+Sámán egységek lakása.""
+
+17
+116
+""Mamut Istálók
+Mamut egységek lakása.""
+
+17
+117
+""Északi Ház
+Jotunn egységek lakása.""
+
 34
 18
 ""Kapitány
@@ -9092,6 +9127,16 @@ Factory hõs.""
 21
 ""Fegyvermester 
 Factory mágikus hõs.""
+
+34
+22
+""Törzsfõnök
+Bulwark hõs.""
+
+34
+23
+""Vén Tanácstag
+Bulwark mágikus hõs.""
 
 35
 1
@@ -9222,7 +9267,7 @@ Mennyiség: 8-16.""
 
 54
 169
-""Kobold
+""Ír Manó
 2. szintû semleges egység.
 Mennyiség: 16-25.""
 
@@ -9322,6 +9367,90 @@ Mennyiség: 4-10.""
 7. szintû fejlesztett Factory egység.
 Mennyiség: 3-8.""
 
+54
+186
+""Kobold
+1. szintû Bulwark egység
+Mennyiség: 16-30.""
+
+54
+187
+""Kobold Vezetõ
+1. szintû fejlesztett Bulwark egység
+Mennyiség: 16-25.""
+
+54
+188
+""Hegyi Kos
+2. szintû Bulwark egység
+Mennyiség: 12-25.""
+
+54
+189
+""Argali Juh
+2. szintû fejlesztett Bulwark egység
+Mennyiség: 12-20.""
+
+54
+190
+""Hó Tünde
+3. szintû Bulwark egység
+Mennyiség: 10-20.""
+
+54
+191
+""Acél Tünde
+3. szintû fejlesztett Bulwark egység
+Mennyiség: 10-16.""
+
+54
+192
+""Jeti
+4. szintû Bulwark egység
+Mennyiség: 8-16.""
+
+54
+193
+""Rúnamester Jeti
+4. szintû fejlesztett Bulwark egység
+Mennyiség: 8-12.""
+
+54
+194
+""Sámán
+5. szintû Bulwark egység
+Mennyiség: 5-12.""
+
+54
+195
+""Õsi Shaman
+5. szintû fejlesztett Bulwark egység
+Mennyiség: 5-10.""
+
+54
+196
+""Mamut
+6. szintû Bulwark egység
+Mennyiség: 4-10.""
+
+54
+197
+""Harci Mamut
+6. szintû fejlesztett Bulwark egység
+Mennyiség: 3-8.""
+
+54
+198
+""Jotunn
+7. szintû Bulwark egység
+Mennyiség: 4-10.""
+
+54
+199
+""Jotunn Hadúr
+7. szintû fejlesztett Bulwark egység
+Mennyiség: 3-8.""
+
 58
 1
 ""Világítótorony
@@ -9351,6 +9480,11 @@ Cove város.""
 10
 ""Factory
 Factory város.""
+
+98
+11
+""Bulwark
+Bulwark város.""
 
 106
 1
@@ -9587,6 +9721,11 @@ Dekoráció.""
 ""Természetes ív
 Dekoráció.""
 
+140
+14
+""Gleccser
+Dekoráció.""
+
 141
 0
 ""Repedezett jég
@@ -9703,6 +9842,13 @@ Minden hét 1. napján feltöltõdik.""
 ""Kalauz
 Eltávolítja a pusztaságokon való mozgás büntetését, és a hét végéig 75%-ra csökkenti a pusztaságokon való mozgás költségét.""
 
+144
+12
+""Prémvadász Kunyhó
+- 50% esély 300-500 Arany megszerzésére.
+- 25% esély 3-5 Harci Manó megszerzésére.
+- 25% esély 3-5 Kobold megszerzésére.""
+
 145
 0
 ""Õsi lámpás
@@ -9771,6 +9917,11 @@ A játék kezdetén ezt a tárgyat egy véletlenszerû Cove egységek lakása váltja fel
 10
 ""Véletlenszerû Factory egységek lakása
 A játék kezdetén ezt a tárgyat egy véletlenszerû Factory egységek lakása váltja fel.""
+
+218
+11
+""Véletlenszerû Bulwark egységek lakása
+A játék kezdetén ezt a tárgyat egy véletlenszerû Bulwark egységek lakása váltja fel.""
 "
 Text 8: ""
 Has FilS: "false"
@@ -9850,6 +10001,8 @@ Text 7: "# További tárgyak az RMG számára
 144 10 500 30 -1 -1 # Talajkutató
 144 11 200 40 -1 1 # Kalauz
 212 1001 500 30 -1 -1 # Tömegsír
+
+144 12 500 50 -1 -1 # Határtelep
 "
 Text 8: "{Mágikus misztérium szentélye}
 
@@ -10047,7 +10200,8 @@ Text 7: "# Háttérhang szám | Típus (-1 - nem, 0 - elhalt növény, 1 - domb, 2 - n
 -1 -1 0 #10 Létra
 -1 2 1 #11 Húsevõ növények
 -1 2 1 # 12 Juharok
--1 1 1 # 13 Természetes ív"
+-1 1 1 # 13 Természetes ív
+-1 1 1 # 14 Gleccser"
 Text 8: "Nagy szikladarab
 Kõ
 Pálmák
@@ -10061,11 +10215,12 @@ Fal
 Lépcsõ
 Húsevõ növények
 Juharok
-Természetes ív"
+Természetes ív
+Gleccser"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
-Val 1: "14"
+Val 1: "15"
 Val 2: "0"
 Val 3: "0"
 ------------------------------------------------
@@ -10103,7 +10258,14 @@ Gyár
 Katakombák
 Õrtorony
 Tollaskígyó fészek
-Mûhely"
+Mûhely
+Szénbánya
+Fagyos Hegygerinc
+Bátrak Csarnoka
+Hegyi Nagykövetség
+Sámán Templom
+Mamut Istállók
+Északi Ház"
 Text 8: "-1 -1 # 88 Not Used
 -1 -1 # 89 Not Used
 -1 -1 # 90 Not Used
@@ -10126,7 +10288,14 @@ Text 8: "-1 -1 # 88 Not Used
 178 7 # 107 Katakombák
 180 114 # 108 Õrtorony
 182 113 # 109 Tollaskígyó fészek
-184 12 # 110 Mûhely"
+184 12 # 110 Mûhely
+186 12 # 111 Szénbánya
+188 46 # 112 Fagyos Hegygerinc
+190 52 # 113 Bátrak Csarnoka
+192 61 # 114 Hegyi Nagykövetség
+194 78 # 115 Sámán Templom
+196 115 # 116 Mamut Istállók
+198 43 # 117 Északi Ház"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -10143,7 +10312,7 @@ Text 0: ""
 Text 1: "Háttér hangok"
 Text 2: ""
 Text 3: "# ID elsõ hang - 70"
-Text 4: "# ID az utolsó - 114"
+Text 4: "# ID az utolsó - 115"
 Text 5: "# A legutóbbi lehetséges ID-je - 115"
 Text 6: ""
 Text 7: "LOOPPCAV.wav
@@ -10190,7 +10359,8 @@ LOOPPROS.wav
 LOOPDRRK.wav
 LOOPHALF.wav
 LOOPCOTL.wav
-LOOPGUNS.wav"
+LOOPGUNS.wav
+LOOPMAMN.wav"
 Text 8: "{Háttér hangok}
 
 Ha ki van kapcsolva, akkor az új nap kezdete, a csata kezdete és a térkép tárgyak hangjai nem szólalnak meg."
@@ -10242,8 +10412,8 @@ Text 7: "# Stay anim frame period|Fidget anim frame period|Stay&fidget anim véle
 180 160 200 1 -1 # Harci Unikornis
 130 110 200 1 -1 # Zöld Sárkány
 130 110 200 1 -1 # Arany Sárkány
-130 120 200 1 -1 # Kobold
-130 124 200 1 -1 # Manó
+130 120 200 1 -1 # Harci Manó
+130 124 200 1 -1 # Mester Harci Manó
 160 130 200 1 -1 # Kõ Vízköpõ
 170 140 200 1 -1 # Obszidián Vízköpõ
 200 190 200 1 -1 # Kõ Gólem
@@ -10298,8 +10468,8 @@ Text 7: "# Stay anim frame period|Fidget anim frame period|Stay&fidget anim véle
 110 100 200 1 -1 # Skorpiko
 160 150 200 1 -1 # Vörös Sárkány
 180 164 200 1 -1 # Fekete Sárkány
-120 100 200 1 -1 # Goblin
-120 100 200 1 -1 # Hobgoblin
+120 100 200 1 -1 # Manó
+120 100 200 1 -1 # Vészmanó
 120 100 200 1 -1 # Farkaslovas
 120 100 200 1 -1 # Farkaslovas Fosztogató
 203 123 200 1 -1 # Ork
@@ -10383,7 +10553,7 @@ Text 7: "# Stay anim frame period|Fidget anim frame period|Stay&fidget anim véle
 150 165 200 1 -1 # Áspis
 115 75 100 1 -1 # Szatír
 140 100 200 1 -1 # Polipfej
-180 110 200 1 -1 # Kobold
+180 110 200 1 -1 # Harci Manó
 100 100 200 1 -1 # Acél gólem
 110 100 200 1 95 # Gránátos félszerzet
 180 100 200 1 -1 # Szerelõ
@@ -10399,7 +10569,22 @@ Text 7: "# Stay anim frame period|Fidget anim frame period|Stay&fidget anim véle
 125 110 200 1 -1 # Tollaskígyó
 125 110 200 1 -1 # Bíbor tollaskígyó
 150 115 200 1 -1 # Rettenthetetlen
-150 115 200 1 -1 # Pusztító"
+150 115 200 1 -1 # Pusztító
+120 120 200 1 -1 # Kobold
+120 100 200 1 -1 # Kobold Vezetõ
+160 120 200 1 -1 # Hegyi Kos
+160 120 200 1 -1 # Argali Juh
+150 120 200 1 -1 # Hó Tünde
+150 120 200 1 -1 # Acél Tünde
+150 100 200 1 -1 # Jeti
+150 100 200 1 -1 # Rúnamester Jeti
+140 130 200 1 -1 # Sámán
+140 130 200 1 -1 # Õsi Sámán
+180 110 200 1 -1 # Mamut
+180 110 200 1 -1 # Harci Mamut
+150 110 200 1 -1 # Jotunn
+150 130 200 1 -1 # Jotunn Hadúr
+"
 Text 8: " 
  
  
@@ -10585,6 +10770,20 @@ GRENEXPL.wav
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 "
 Has FilS: "false"
 Vals count: "4"
@@ -10624,7 +10823,7 @@ Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	
 1.00	0.95	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Áspis
 1.50	1.00	2.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Szatír
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Polipfej
-1.00	1.20	2.50	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Kobold
+1.00	1.20	2.50	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Ír Manó
 1.00	1.20	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Acél gólem
 1.00	1.40	1.50	1.00	32	-77	36	-36	18	-55	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	10	Gránátos félszerzet
 1.00	1.15	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Szerelõ
@@ -10641,6 +10840,20 @@ Text 7: "1.00	1.00	0.50	1.00	44	-63	79	-55	27	-46	90.0	72.0	45.0	27.0	0.0	-27.0	
 1.00	1.00	2.50	1.30	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Bíbor tollaskígyó
 1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Rettenthetetlen
 1.00	1.85	1.75	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Pusztító
+1.00	1.15	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Kobold
+1.00	1.15	1.00	1.00	10	-70	10	-70	10	-70	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	0	Kobold Vezetõ
+1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	HHegyi Kos
+1.00	1.10	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Argali Juh
+1.00	1.20	1.00	1.00	30	-60	45	-50	20	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	5	Hó Tünde
+1.00	1.20	1.00	1.00	30	-60	45	-50	20	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	5	Acél Tünde
+1.00	1.80	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Jeti
+1.00	1.80	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Rúnamester Jeti
+1.00	1.20	1.00	1.00	40	-57	45	-50	25	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Sámán
+1.00	1.20	1.00	1.00	40	-57	45	-50	25	-20	90.0	72.0	45.0	27.0	0.0	-27.0	-45.0	-72.0	-90.0	0.0	0.0	0.0	0	6	Õsi Sámán
+1.00	1.55	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Mamut
+1.00	1.55	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Harci Mamut
+1.50	1.45	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Jotunn
+1.00	1.45	1.00	1.00	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	Jotunn Hadúr
 "
 Text 8: ""
 Has FilS: "false"
@@ -10697,7 +10910,21 @@ Lõ. Megelõzõ lövés (korlátlan).
 Repül. Kihagy egy kört, hogy ideiglenes sebezhetetlenséget kapjon.
 Repül. Ideiglenes sebezhetetlenséget kap anélkül, hogy kihagyna egy fordulót.
 Mechanikus, megjavítható. Támadhat hõgutával.
-Mechanikus, megjavítható. Támadhat hõgutával."
+Mechanikus, megjavítható. Támadhat hõgutával.
+Naponta 1 aranyat termel.
+Naponta 1 aranyat termel.
+ 
+Jég ellen immunis. A szomszédos ellenségek +20% varázslatsebzést kapnak.
+Lõ. Nincs közelharci büntetés.
+Lõ. Nincs közelharci büntetés. Ellenséges egység mellöl is lõhet.
+Egy kör alatt felépül a negatív hatások alól.
+Egy kör alatt felépül a negatív hatások alól. Rúnákkal rendelkezik.
+Lõ. Légpajzsot varázsol.
+Lõ. Légpajzsot varázsol. Fagyasztó lövése van.
+ 
+Védekezõ állásban +100% védelmet kap.
+Szövetségeseket teleportál (harconként egyszer). -1 sebesség az ellenséges repülõ egységeknek.
+Szövetségeseket teleportál (korlátlanul). -2 sebesség az ellenséges repülõ egységeknek."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -10782,7 +11009,24 @@ HPL215.pcx
 HPL216.pcx
 HPL217.pcx
 HPL218.pcx
-HPL219.pcx"
+HPL219.pcx
+HPL220.pcx
+HPL221.pcx
+HPL222.pcx
+HPL223.pcx
+HPL224.pcx
+HPL225.pcx
+HPL226.pcx
+HPL227.pcx
+HPL228.pcx
+HPL229.pcx
+HPL230.pcx
+HPL231.pcx
+HPL232.pcx
+HPL233.pcx
+HPL234.pcx
+HPL235.pcx
+HPL236.pcx"
 Text 8: "HPLP01s.pcx
 HPLP02s.pcx
 HPLP03s.pcx
@@ -10847,11 +11091,28 @@ HPS215.pcx
 HPS216.pcx
 HPS217.pcx
 HPS218.pcx
-HPS219.pcx"
+HPS219.pcx
+HPS220.pcx
+HPS221.pcx
+HPS222.pcx
+HPS223.pcx
+HPS224.pcx
+HPS225.pcx
+HPS226.pcx
+HPS227.pcx
+HPS228.pcx
+HPS229.pcx
+HPS230.pcx
+HPS231.pcx
+HPS232.pcx
+HPS233.pcx
+HPS234.pcx
+HPS235.pcx
+HPS236.pcx"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
-Val 1: "65"
+Val 1: "82"
 Val 2: "0"
 Val 3: "0"
 ------------------------------------------------
@@ -11272,8 +11533,8 @@ Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
 Val 1: "1"
-Val 2: "7"
-Val 3: "3"
+Val 2: "8"
+Val 3: "0"
 ------------------------------------------------
 
 ------------------------------------------------
@@ -11414,7 +11675,38 @@ A pusztaságon át vezetõ úthoz kitartónak kell lenni, és egy ilyen út bizony vesz
 A félszerzetek új otthonra találtak Jadame földjén.
 A félszerzetek új otthonra találtak Jadame földjén.
 Azt mondják, hogy Archibald Ironfist néhány boszorkánymestere irányító lett.
-Azt mondják, hogy Archibald Ironfist néhány boszorkánymestere irányító lett."
+Azt mondják, hogy Archibald Ironfist néhány boszorkánymestere irányító lett.
+
+# Bulwark pletykák
+A Jotunnok a Bulwark legerõsebb egységei.
+A Jotunnok a Bulwark legerõsebb egységei.
+Hallottam, hogy a Bulwark lakói megidézik az õsök szellemeit, hogy tisztelegjenek annak, aki elhozza nekik a Grált.
+Hallottam, hogy a Bulwark lakói megidézik az õsök szellemeit, hogy tisztelegjenek annak, aki elhozza nekik a Grált.
+
+A koboldok páratlan bányászok. Senki sem tud úgy aranyat találni, mint õk.
+A koboldok páratlan bányászok. Senki sem tud úgy aranyat találni, mint õk.
+Kerüld el az Algari Juhokat minden áron. Ismeretes, hogy mindenféle mágia veszélyesebbé válik, ha a közelükben alkalmazzák.
+Kerüld el az Algari Juhokat minden áron. Ismeretes, hogy mindenféle mágia veszélyesebbé válik, ha a közelükben alkalmazzák.
+A Hó Tündék páratlan lándzsadobók.
+A Hó Tündék páratlan lándzsadobók.
+Sokan csak azt tudják a Jetikrõl, hogy szörnyek, akik harci kedvükben igencsak kegyetlenek, de vannak közöttük Bölcs Vének és Törzsfõnökök is, akik a rúnák erejét használják.
+Sokan csak azt tudják a Jetikrõl, hogy szörnyek, akik harci kedvükben igencsak kegyetlenek, de vannak közöttük Bölcs Vének és Törzsfõnökök is, akik a rúnák erejét használják.
+A Sámánok mágiája megvédheti szövetségeseiket a lövedékektõl, és ellenségeiket jéggétömbbé változtathatja.
+A Sámánok mágiája megvédheti szövetségeseiket a lövedékektõl, és ellenségeiket jéggétömbbé változtathatja.
+Kevés teremtmény képes felvenni a versenyt a mamutok ellenállóképességével.
+Kevés teremtmény képes felvenni a versenyt a mamutok ellenállóképességével.
+Azt mondják, hogy a Jotunnok a teleportációs mágia mesterei.
+Azt mondják, hogy a Jotunnok a teleportációs mágia mesterei.
+
+Ismert, hogy a Bulwarks az egyetlen hely, ahol elsajátíthatjuk a rúnák titkait.
+Ismert, hogy a Bulwarks az egyetlen hely, ahol elsajátíthatjuk a rúnák titkait.
+Azt mondják, hogy a Bulwarks lakói különösen szeretnek vásárokat rendezni.
+Azt mondják, hogy a Bulwarks lakói különösen szeretnek vásárokat rendezni.
+
+A pletykák szerint a Vori-sziget az a szülõhely, ahonnan minden Tünde származik.
+A pletykák szerint a Vori-sziget az a szülõhely, ahonnan minden Tünde származik.
+A Vori gleccsereinek mélyén egy hatalmas mûtárgy van eltemetve.
+A Vori gleccsereinek mélyén egy hatalmas mûtárgy van eltemetve."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11625,7 +11917,8 @@ AVCstrf0.def
 AVCforf0.def
 AVChfof0.def
 AVCcovf0.def
-AVCfacF0.def"
+AVCfacF0.def
+AVCbulF0.def"
 Text 8: "AVCcasc0.def
 AVCramc0.def
 AVCtowc0.def
@@ -11636,7 +11929,8 @@ AVCstrc0.def
 AVCforc0.def
 AVChfoc0.def
 AVCcovc0.def
-AVCfacC0.def"
+AVCfacC0.def
+AVCbulC0.def"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -12322,7 +12616,7 @@ TBFaBlak
 TBFaMrch
 TBFaHrd1
 TBFaHrd2
-TBFaBoat
+TBFaSpc2
 TBFaSpc1
 TBFaDw_7
 TBFaUp_7
@@ -12386,7 +12680,7 @@ TOFaBlak
 TOFaMrch
 TOFaHrd1
 TOFaHrd2
-TOFaBoat
+TOFaSpc2
 TOFaSpc1
 TOFaDw_7
 TOFaUp_7
@@ -12614,6 +12908,490 @@ Val 3: "0"
 ------------------------------------------------
 
 ------------------------------------------------
+Name: "casdep12"
+Path: "Castles\casdep12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "CRBKGBUL.pcx"
+Text 2: "TPCASBUL.pcx"
+Text 3: "TpMageBu.pcx"
+Text 4: "AVCbulE0.DEF"
+Text 5: "AVCbulX0.DEF"
+Text 6: "AVCbulZ0.def"
+Text 7: "BulwarkTown"
+Text 8: "A kovács Elsõsegély-sátrat biztosít a seregeidnek."
+Has FilS: "true"
+FilS size: 352
+FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 0f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 21 48 01 00 00 00 00 00 a1 5b 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 4c 00 00 00 00 00 00 80 00 00 c0 08 00 00 00 80 00 00 c0 08 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 00 00 40 00 00 00 00 80 00 00 c0 00 00 00 00 80 00 00 c0 01 00 00 00 81 00 00 c0 01 00 00 00 80 00 00 c0 01 00 00 00 81 00 00 c0 05 00 00 00 80 00 00 40 00 00 00 00 80 00 00 c0 00 00 00 00 80 00 00 c0 01 00 00 00 80 00 20 c0 03 00 00 00 81 00 00 c0 05 00 00 00 80 00 00 c0 09 00 00 00 81 00 20 c0 15 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casbattle12"
+Path: "Castles\casbattle12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "SgBuBack.PCX"
+Text 2: "Mamut Agyarak"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "SgBuDrw3.pcx
+SgBuDrw2.pcx
+SgBuDrw1.pcx
+SgBuDrwC.pcx
+SgBuMoat.pcx
+SgBuMlip.pcx
+SgBuTpWl.pcx
+SgBuTw22.pcx
+SgBuTw21.pcx
+SgBuTw21.pcx
+SgBuTw21.pcx
+SgBuTw21.pcx
+SgBuWa62.pcx
+SgBuWa61.pcx
+SgBuWa61.pcx
+SgBuWa61.pcx
+SgBuWa5.pcx
+SgBuWa42.pcx
+SgBuWa41.pcx
+SgBuWa41.pcx
+SgBuWa41.pcx
+SgBuArch.pcx
+SgBuArch.pcx
+SgBuArch.pcx
+SgBuArch.pcx
+SgBuArch.pcx
+SgBuWa32.pcx
+SgBuWa31.pcx
+SgBuWa31.pcx
+SgBuWa31.pcx
+SgBuWa2.pcx
+SgBuWa12.pcx
+SgBuWa11.pcx
+SgBuWa11.pcx
+SgBuWa11.pcx
+SgBuTw12.pcx
+SgBuTw11.pcx
+SgBuTw11.pcx
+SgBuTw11.pcx
+SgBuTw11.pcx
+SgBuMan2.pcx
+SgBuMan1.pcx
+SgBuMan1.pcx
+SgBuMan1.pcx
+SgBuMan1.pcx
+SgBuManC.pcx
+SgBuTw1C.pcx
+SgBuTw2C.pcx"
+Text 8: ""
+Has FilS: "true"
+FilS size: 648
+FilS: "96 01 0c 01 ff ff 00 00 d8 fd 66 00 c8 fd 66 00 b8 fd 66 00 00 00 00 00 00 00 00 00 cb 11 2a 04 00 00 00 00 96 01 0c 01 ff ff 00 00 00 00 00 00 a8 fd 66 00 00 00 00 00 00 00 00 00 00 00 00 00 de 11 2a 04 00 00 00 00 9f 01 50 00 ff ff 00 00 98 fd 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f9 11 2a 04 00 00 00 00 b9 01 26 01 ff ff 00 00 88 fd 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 12 2a 04 00 00 00 00 75 02 3a 00 ff ff 00 00 78 fd 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0e 12 2a 04 00 00 00 00 40 02 1f 00 ff 00 00 00 68 fd 66 00 58 fd 66 00 58 fd 66 00 58 fd 66 00 58 fd 66 00 1f 12 2a 04 02 00 00 00 26 02 49 00 2d 00 00 00 00 00 00 00 48 fd 66 00 38 fd 66 00 38 fd 66 00 38 fd 66 00 31 12 2a 04 02 00 00 00 ed 01 5a 00 3e 00 00 00 2c fd 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 43 12 2a 04 00 00 00 00 e4 01 c2 00 4e 00 00 00 00 00 00 00 1c fd 66 00 0c fd 66 00 0c fd 66 00 0c fd 66 00 55 12 2a 04 02 00 00 00 c5 01 f9 00 70 00 00 00 fc fc 66 00 fc fc 66 00 fc fc 66 00 fc fc 66 00 fc fc 66 00 6f 12 2a 04 02 00 00 00 d7 01 3f 01 82 00 00 00 00 00 00 00 ec fc 66 00 dc fc 66 00 dc fc 66 00 dc fc 66 00 7a 12 2a 04 02 00 00 00 f5 01 67 01 a5 00 00 00 d0 fc 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 93 12 2a 04 00 00 00 00 3b 02 d9 01 b6 00 00 00 00 00 00 00 c0 fc 66 00 b0 fc 66 00 b0 fc 66 00 b0 fc 66 00 a4 12 2a 04 02 00 00 00 60 02 fe 01 fb 00 00 00 a0 fc 66 00 90 fc 66 00 90 fc 66 00 90 fc 66 00 90 fc 66 00 b5 12 2a 04 02 00 00 00 bf 02 a4 00 87 00 00 00 80 fc 66 00 70 fc 66 00 70 fc 66 00 70 fc 66 00 70 fc 66 00 c6 12 2a 04 02 00 00 00 eb 02 e8 00 87 00 00 00 00 00 00 00 60 fc 66 00 00 00 00 00 00 00 00 00 00 00 00 00 dc 12 2a 04 00 00 00 00 68 02 09 02 fb 00 00 00 00 00 00 00 50 fc 66 00 00 00 00 00 00 00 00 00 00 00 00 00 f9 12 2a 04 00 00 00 00 49 02 2b 00 ff 00 00 00 00 00 00 00 40 fc 66 00 00 00 00 00 00 00 00 00 00 00 00 00 11 13 2a 04 00 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "caspuzzle12"
+Path: "Castles\caspuzzle12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 192
+FilS: "00 00 00 00 00 00 24 00 35 00 0f 00 27 00 2d 00 40 00 82 00 53 00 6f 00 6a 00 4a 00 8e 00 68 00 cf 00 d1 00 b1 00 b7 00 f2 00 e9 00 f3 00 e0 00 d8 00 d7 00 f2 00 fc 00 3d 01 01 01 38 01 25 01 48 01 7b 01 6c 01 59 01 77 01 6e 01 b5 01 90 01 aa 01 ba 01 e3 01 ea 01 c4 01 b0 01 e1 01 04 02 00 00 98 00 4d 01 00 00 65 00 df 00 17 01 69 01 ba 01 00 00 51 00 71 00 b8 00 e3 00 0c 01 8f 01 05 00 d5 00 3f 01 c0 01 17 00 46 00 a6 00 03 01 16 01 79 01 d1 01 00 00 8a 00 d2 00 2b 01 98 01 94 01 1e 00 85 00 c5 00 2a 01 b3 01 00 00 c5 00 57 01 c3 01 00 00 9b 00 d3 00 26 01 63 01 86 01"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "caspuzind12"
+Path: "Castles\caspuzind12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 96
+FilS: "25 00 0f 00 1b 00 2c 00 1f 00 00 00 08 00 29 00 2a 00 03 00 02 00 13 00 2f 00 2b 00 09 00 01 00 1a 00 2d 00 26 00 05 00 07 00 2e 00 10 00 06 00 14 00 28 00 04 00 21 00 27 00 0a 00 20 00 22 00 0e 00 15 00 0d 00 1c 00 0b 00 19 00 0c 00 24 00 16 00 12 00 23 00 1e 00 17 00 18 00 1d 00 11 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "cascoords12"
+Path: "Castles\cascoord12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 264
+FilS: "01 00 2e 02 70 00 01 00 2e 02 51 00 01 00 2e 02 37 00 01 00 2e 02 21 00 01 00 00 00 00 00 0f 00 30 01 f8 00 48 00 25 01 46 01 01 00 41 00 25 00 01 00 41 00 08 00 01 00 42 00 08 00 01 00 75 02 a8 00 01 00 75 02 8c 00 01 00 76 02 59 00 01 00 76 02 37 00 01 00 8d 01 f9 00 01 00 a6 01 e5 00 01 00 f6 01 c6 00 01 00 d0 01 19 01 01 00 00 00 db 00 36 00 00 00 db 00 48 00 a4 00 0d 01 01 00 e9 01 aa 00 01 00 e9 01 8c 00 01 00 ab 01 a2 00 00 00 00 00 00 00 00 00 00 00 00 00 12 00 91 00 00 00 00 00 98 00 b8 00 01 00 f3 01 27 01 01 00 ad 01 d9 00 01 00 00 00 8c 00 01 00 2d 01 4a 00 01 00 45 02 f2 00 01 00 fd 00 99 00 01 00 bf 01 a7 00 01 00 00 00 db 00 01 00 7c 01 23 00 01 00 00 00 5e 00 01 00 2d 01 2c 00 36 00 45 02 dc 00 01 00 ef 00 99 00 0c 00 bc 01 a3 00 01 00 00 00 db 00 01 00 7c 01 0d 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casbldefs12"
+Path: "Castles\cascoord12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "TBBu"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "TBBuMage
+TBBuMag2
+TBBuMag3
+TBBuMag4
+TBBuMag5
+TBBuTvrn
+TBBuDock
+TBBuCstl
+TBBuCas2
+TBBuCas3
+TBBuHall
+TBBuHal2
+TBBuHal3
+TBBuHal4
+TBBuMark
+TBBuSilo
+TBBuBlak
+TBBuMrch
+TBBuHrd1
+TBBuHrd2
+TBBuBoat
+TBBuSpc1
+TBBuSpc2
+TBBuSpc3
+TBBuMag2
+TBBuMag2
+TBBuHoly
+TBBuExt1
+TBBuExt2
+TBBuExt3
+TBBuDw_0
+TBBuDw_1
+TBBuDw_2
+TBBuDw_3
+TBBuDw_4
+TBBuDw_5
+TBBuDw_6
+TBBuUp_0
+TBBuUp_1
+TBBuUp_2
+TBBuUp_3
+TBBuUp_4
+TBBuUp_5
+TBBuUp_6"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casbrdefs12"
+Path: "Castles\cascoord12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "TBBu"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "TOBuMage
+TOBuMag2
+TOBuMag3
+TOBuMag4
+TOBuMag5
+TOBuTvrn
+TOBuDock
+TOBuCstl
+TOBuCas2
+TOBuCas3
+TOBuHall
+TOBuHal2
+TOBuHal3
+TOBuHal4
+TOBuMark
+TOBuSilo
+TOBuBlak
+TOBuMrch
+TOBuHrd1
+TOBuHrd2
+TOBuBoat
+TOBuSpc1
+TOBuSpc2
+TOBuMag2
+TOBuMag2
+TOBuMag2
+TOBuHoly
+TOCsext3
+TOCsext4
+TOCsext5
+TOBuDw_0
+TOBuDw_1
+TOBuDw_2
+TOBuDw_3
+TOBuDw_4
+TOBuDw_5
+TOBuDw_6
+TOBuUp_0
+TOBuUp_1
+TOBuUp_2
+TOBuUp_3
+TOBuUp_4
+TOBuUp_5
+TOBuUp_6"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casrorder12"
+Path: "Castles\casrorder12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "BOBUgmg1.pcx
+BOBUgmg2.pcx
+BOBUgmg3.pcx
+BOBUgmg4.pcx
+BOBUgmg5.pcx
+BOBUtav.pcx
+BOBUdock.pcx
+BOBUcas1.pcx
+BOBUcas2.pcx
+BOBUcas3.pcx
+BOBUhal1.pcx
+BOBUhal2.pcx
+BOBUhal3.pcx
+BOBUhal4.pcx
+BOBUmrk1.pcx
+BOBUmrk2.pcx
+BOBUsmth.pcx
+BOBUfair.pcx
+BOBUrn1H.pcx
+BOBUrn2H.pcx
+BOBUboat.pcx
+BOBUseid.pcx
+BOBUaltr.pcx
+BOBUgnt2.pcx
+BOBUAS1P.pcx
+BOBUAS2P.pcx
+BOBUholy.pcx
+BoCsext3.pcx
+BoCsext4.pcx
+BoCsext5.pcx
+BOBUkbl1.pcx
+BOBUarh1.pcx
+BOBUelf1.pcx
+BOBUyet1.pcx
+BOBUstc1.pcx
+BOBUmmt1.pcx
+BOBUter1.pcx
+BOBUkbl2.pcx
+BOBUarh2.pcx
+BOBUelf2.pcx
+BOBUyet2.pcx
+BOBUstc2.pcx
+BOBUmmt2.pcx
+BOBUter2.pcx"
+Text 8: ""
+Has FilS: "true"
+FilS size: 44
+FilS: "1b 1a 1f 26 07 08 09 1e 25 21 28 24 2b 23 2a 12 13 0e 0f 10 11 05 06 14 22 29 15 16 00 01 02 03 0a 0b 0c 0d 20 27 ff ff ff ff ff ff"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casbindex12"
+Path: "Castles\casbindex12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 17
+FilS: "1e 1f 20 21 22 23 24 00 05 06 0e 07 0a 10 12 15 11"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casdrp12"
+Path: "Castles\casrdep12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "Épületek besorolása"
+Text 8: ""
+Has FilS: "true"
+FilS size: 352
+FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 0c 00 00 00 00 00 00 00 1c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 08 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 01 02 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 10 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "cashordes12"
+Path: "Castles\cashordes12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 32
+FilS: "c4 00 00 00 01 00 05 00 c5 00 00 00 01 00 0c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casspells12"
+Path: "Castles\casspells12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "true"
+FilS size: 70
+FilS: "05 06 02 03 02 03 00 0a 00 0a 04 02 08 04 08 1e 32 04 00 0a 10 02 05 0a 00 04 00 03 08 05 02 03 03 02 0c 0a 00 0a 05 00 00 0a 00 05 06 04 05 06 0a 0c 05 04 04 05 05 05 05 00 05 05 04 08 02 0a 04 0a 00 00 00 00"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "casrndname12"
+Path: "Castles\cascoord12.str"
+Texts count: "9"
+Text 0: ""
+Text 1: "Bulwark"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "Alfheim
+Anabar
+White Mouth
+Borea
+Varand
+Everwinter
+Windskalir
+Winterkill
+Jotunngard
+Stonefang
+Ketpall
+Meghion
+Thulekh
+Tundara
+Halsmere
+Ellesmere"
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "16"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
 Name: "ship03"
 Path: ""
 Texts count: "9"
@@ -12662,6 +13440,27 @@ Texts count: "9"
 Text 0: ""
 Text 1: "AB06_.def"
 Text 2: "ABM06_.def"
+Text 3: "ABF02"
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "ship06"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "AB07_.def"
+Text 2: "ABM07_.def"
 Text 3: "ABF02"
 Text 4: ""
 Text 5: ""
@@ -13830,7 +14629,7 @@ Text 7: "# AI érték
 -1
 
 # Álomörzõ
-158
+165
 7 10 #  Különbözõ, 10 pont
 -1
 "
@@ -14335,7 +15134,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Feledés Gyûrûje}
 
-Ha viselik ezt a gyûrût, visszavonhatatlanná teszi a csatában elszenvedett összes veszteséget: a holttestek azonnal eltûnnek az egység halála után, az egységeket újjáélesztõ varázslatok használata hatástalan, a vámpírizmus nem hozza vissza a halott egységeket, és az élõhalottakat nem lehet nekromanciával feltámasztani a csata után."
+Az ujjon viselve ezt a tárgyat a csatában elszenvedett veszteségeket visszafordíthatatlanná teszi:  az ellenség által megölt egységek semmilyen módon nem állíthatók vissza, és a holttestek az egység halála után azonnal eltûnnek."
 Text 8: "7500 # költség
 7 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
 8 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
@@ -14514,7 +15313,7 @@ Path: ""
 Texts count: "9"
 Text 0: ""
 Text 1: "Haldokló Fény Mellvért"
-Text 2: "A goblin, akivel a kocsmában találkoztál, hihetetlenül szemtelenül viselkedik, és ennek oka nyilvánvalóan a mellkasán lévõ fényûzõ páncélzat. Gyorsan kiderül, hogy a páncél gyenge védelmet nyújt egy jó nagy seggberúgással szemben, mégis jó valamire - de honnan tudná ezt egy ostoba goblin?"
+Text 2: "A Manó, akivel a kocsmában találkoztál, hihetetlenül szemtelenül viselkedik, és ennek oka nyilvánvalóan a mellkasán lévõ fényûzõ páncélzat. Gyorsan kiderül, hogy a páncél gyenge védelmet nyújt egy jó nagy seggberúgással szemben, mégis jó valamire - de honnan tudná ezt egy ostoba Manó?"
 Text 3: ""
 Text 4: ""
 Text 5: ""
@@ -14552,7 +15351,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Álomörzõ}
 
-Immunitást ad az egységeidnek az elme varázslatok ellen. A hatás a Sebezhetõség gömbjével negligálható."
+Immunitást ad az egységeidnek az elme varázslatok ellen."
 Text 8: "10000 # költség
 9 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
 16 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
@@ -16467,6 +17266,195 @@ Val 3: "0"
 ------------------------------------------------
 
 ------------------------------------------------
+Name: "banim98"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune1.def"
+Text 2: "Rune1"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim99"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune2.def"
+Text 2: "Rune2"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim100"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune3.def"
+Text 2: "Rune3"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim101"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune4.def"
+Text 2: "Rune4"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim102"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune5.def"
+Text 2: "Rune5"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim103"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune6.def"
+Text 2: "Rune6"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim104"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune7.def"
+Text 2: "Rune7"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim105"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune8.def"
+Text 2: "Rune8"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "banim106"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "rune9.def"
+Text 2: "Rune9"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "1"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
 Name: "actobj000"
 Path: ""
 Texts count: "9"
@@ -17033,6 +18021,35 @@ Val 3: "0"
 ------------------------------------------------
 
 ------------------------------------------------
+Name: "actobj012"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "Prémvadász Kunyhó"
+Text 2: "Store.wav"
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: ""
+Text 8: """{Prémvadász Kunyhó}
+
+A hóba temetett kunyhóban turkálva találsz egy zsák aranyat, amit valaki itt rejtett el..""
+""{Prémvadász Kunyhó}
+
+A hóba temetett kunyhóban több egységet is találsz, akik itt várják, hogy a hóvihar elvonuljon. Szeretnéd magaddal vinni õket?""
+""{Prémvadász Kunyhó}
+
+Valaki már járt a kunyhóban. Semmi sem maradt már itt."""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "-1"
+Val 2: "1"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
 Name: "captobj001"
 Path: ""
 Texts count: "9"
@@ -17136,6 +18153,53 @@ A haladó interferencia 20%-kal csökkenti az ellenséges hõs erõ képzettségét harc
 ""{Mester Interferencia}
 
 A mester interferencia 30%-kal csökkenti az ellenséges hõs erõ képzettségét harc közben."""
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "secskill29"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: "Rúnák"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "# 0
+""{Alap Rúnák}
+
+Az Alap Rúnák lehetõvé teszik a hõs egységeinek, hogy harcban legfeljebb 3 rúnaszintet gyûjtsenek. Minden rúnaszint bónuszokat ad az egység statisztikájához:
+
+{1}: +2 Támadás, {2}: +2 Védelem, {3}: +1 Sebesség.
+
+Az összes elért rúnaszint bónuszai összeadódnak. Az egység +1 rúnaszintet kap, amikor támad; +2 rúnaszintet, amikor sebzést szenved; +3 rúnaszintet, amikor védekezõ állásba helyezkedik.""
+# 1
+""{Haladó Rúnák}
+
+A Haladó Rúnák lehetõvé teszik a hõs egységeinek, hogy harcban akár 6 rúnaszintet is gyûjtsenek. Minden runaszint bónuszokat ad az egység statisztikájához:
+
+{1}: +2 Támadás, {2}: +2 Védelem, {3}: +1 Sebesség;
+{4}: +2 Támadás, {5}: +2 Védelem, {6}: +1 Sebesség.
+
+Az összes elért rúnaszint bónuszai összeadódnak. Az egység +1 rúnaszintet kap, amikor támad; +2 rúnaszintet, amikor sebzést szenved; +3 rúnaszintet, amikor védekezõ állásba helyezkedik.""
+# 2
+""{Mester Rúnák}
+
+A Mester Rúnák lehetõvé teszik a hõs egységeinek, hogy harcban akár 9 rúnaszintet is gyûjtsenek. Minden runaszint bónuszokat ad az egység statisztikájához:
+
+{1}: +2 Támadás, {2}: +2 Védelem, {3}: +1 Sebesség;
+{4}: +2 Támadás, {5}: +2 Védelem, {6}: +1 Sebesség;
+{7}: +2 Támadás, {8}: +2 Védelem, {9}: +1 Sebesség.
+
+Az összes elért rúnaszint bónuszai összeadódnak. Az egység +1 rúnaszintet kap, amikor támad; +2 rúnaszintet, amikor sebzést szenved; +3 rúnaszintet, amikor védekezõ állásba helyezkedik."""
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -18910,7 +19974,8 @@ DargemIntro2
 DargemIntro3
 DargemIntro4
 DargemIntro5
-DargemOutro5"
+DargemOutro5
+BulwarkTown"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -20638,7 +21703,7 @@ Keresési tevékenység
 Egységek
 Varázstárgy
 Városi struktúra felépítése
-Küldetéssegítség/küldetésnapló szövegének beállítása
+Küldetéssegítség és küldetésnapló szövegének beállítása
 Kérdés
 Feltételek (Ha / Amikor / Máskülönben ha)
 Egységek hozzáadása a felvételhez
@@ -20665,11 +21730,11 @@ Kifejezés eredményének mentése a """"%s"""" változóba
 Erõforrások módosítása
 Aktuális objektum eltávolítása
 Üzenet jutalommal: """"%s""""
-Keresési tevékenység
+Küldetés szakaszai
 Adok/Kapok egységeket
 Adok/Kapok tárgyakat
 %s építése
-Naplóbejegyzés / küldetés súgó beállítása
+Naplóbejegyzés és küldetés súgó beállítása
 Kérdés: """"%s""""
 Feltételek (Ha / Amikor / Máskülönben ha)
 Egységek számának növelése %d. szintû épületben %d egységgel
@@ -20702,7 +21767,7 @@ Nagyobb vagy egyenlõ
 Kisebb vagy egyenlõ
 Nem egyenlõ
 A hõs egy bizonyos játékoshoz tartozik
-Bizonyos hõse van
+Hõs hovatartozása
 A hõs egy bizonyos kategóriához tartozik
 Az egységet a játékos legyõzte
 A hõst a játékos legyõzte
@@ -20710,7 +21775,7 @@ A hõsnek másodlagos képzettsége van
 A játékost legyõzték
 A várost a játékos irányítja
 A játékos ember
-A játékos beállítottsága
+A játékosok kezdõ városai
 A város semleges."
 Text 3: "# Logikai változók kifejezésének leírása
 Logikai változók értéke
@@ -20738,13 +21803,13 @@ A jelenlegi város semleges"
 Text 4: "# Egészértékû kifejezések nevei
 Egész szám érték
 Változó érték
-Negatív érték
+Jel megfordítása
 Hozzáadás
 Kivonás
 Erõforrás
 Szorzás
 Osztás
-Modulus
+Maradék
 Egységek száma
 Jelenlegi nehézségi szint
 Nehézségi szint
@@ -20757,13 +21822,13 @@ Varázstárgyak száma"
 Text 5: "# Egész szám kifejezés leírása
 Egész érték
 Változó értéke %s
-(Negative value)
+(Jel megfordítása)
 (Hozzáadás)
 (Kivonás)
 %s's mennyisége %s
 (Szorzás)
 (Osztás)
-(Modulus)
+(Maradék)
 %s száma a hõs seregében
 Aktuális nehézségi szint
 Nehézségi szint (%s)
@@ -20798,9 +21863,9 @@ Arany (kis kép)
 Arany (db / nap, kis kép)"
 Text 7: ""
 Text 8: "# 0
-Hiba: %s eseményben megtörtént a nullával való osztás. Az esemény további mûködése hibás lehet.
+Térkép hiba: A kiterjesztett %s esemény során nullával való osztás történt. Az esemény és a teljes térkép további mûködése helytelen lehet.
 # 1
-Térképhiba: A jelenlegi esemény túl sok mûveletet tartalmaz (a maximum %d). A szekvencia nem lesz tovább végrehajtva.
+Térkép hiba: A kiterjesztett esemény helytelenül van konfigurálva, és túl sok mûveletet hajt végre (%d-nél többet). A lefagyás elkerülése érdekében az esemény végrehajtása leáll. A térkép további mûködése helytelen lehet.
 # 2
 %s talált egy harci gépet.
 # 3
@@ -20814,7 +21879,7 @@ Teljes küldetés a tárgyért
 # 7
 Üzenet megjelenítése: ""%s...""
 # 8
-%s %d %s a helyõrségnek
+%s %d %s (a helyõrségnek)
 # 9
 %s varázskönyv
 # 10
@@ -20928,7 +21993,7 @@ Típus
 # 64
 Altípus
 # 65
-Képek:
+Képek kiválasztása:
 # 66
 Változó:
 # 67
@@ -20964,7 +22029,7 @@ Képek meghatározása
 # 82
 Új
 # 83
-Átnevez
+Szerkesztés
 # 84
 Igaz:
 # 85
@@ -20976,7 +22041,7 @@ Haladás
 # 88
 Befejezõdés
 # 89
-Újraindítás minden keresési tevékenység befejezése után
+Küldetésnapló bejegyzés beállítása
 # 90
 Játékos színe:
 # 91
@@ -21010,11 +22075,11 @@ Második:
 # 105
 Tõle:
 # 106
-Neki:
+Neki (teljes körûen):
 # 107
-Változó (csak olvasható)
+Változó
 # 108
-Küldetés tárgyának súgója
+Küldetés tárgyának súgója (üres karakterláncot: ne változtassa meg)
 # 109
 Küldetés tárgyának naplóbejegyzése
 # 110
@@ -21060,7 +22125,7 @@ Arany (%s) - kis kép
 # 130
 %d játékos
 # 131
-Aktuális hadsereg
+Aktuális hõs
 # 132
 Bárhol a jelenlegi játékos számára
 # 133
@@ -21134,7 +22199,7 @@ Máskülönben ha...
 # 167
 Forgatókönyv
 # 168
-Az esemény egyedi példányának használata
+Szinkronizálás más, azonos eseményû objektumokkal
 # 169
 Új létrehozása
 # 170
@@ -21171,7 +22236,81 @@ Típus:
 # 185
 Mennyiség:
 # 186
-Nehézségi szint:"
+Nehézségi szint:
+# 187
+Bejegyzések a naplóban
+# 188
+Képek
+# 189
+Hõs a térképen
+# 190
+Szörny a térképen
+# 191
+Hõs szintje
+# 192
+Mutatása a Küldetés naplóban
+# 193
+Tipp
+# 194
+Az üres tipp nem változtatja meg az aktuális tippet.
+# 195
+Az objektum szerkesztése közben az események nem távolíthatók el.
+# 196
+Pandora szelencéjének eltávolítása vagy az esemény törlése a jelenlegi látogatás után
+# 197
+""""""Eseményrendszer: a %s küldetéseseményben nem található cselekvésbeállítási objektum tippje""""
+Az üres tippel rendelkezõ objektum nem fog jól mutatni a játékban. A tippet a """"Kaland szakasz"""" vagy a """"Kaland tipp és naplóbejegyzés beállítása"""" mûveletben állíthatjuk be.
+""
+# 198
+""""""Eseményrendszer: a %s küldetéseseményben nincs Küldetés teljesítése mûvelet.""""
+Miután a játékos befejezte a küldetést, meg kell hívni a """"Objektum küldetésének teljesítése"""" mûveletet, hogy a játék helyesen feldolgozza a küldetés befejezését.
+""
+# 199
+Küldetés Befejezése
+# 200
+Általános esemény
+# 201
+Kiterjesztett esemény
+# 202
+Végrehajtható esemény:
+# 203
+Tényleg törölni szeretné ezt a kifejezést?
+# 204
+Szint:
+# 205
+Érték:
+# 206
+(Minden Egység)
+# 207
+A hõs seregében található bármilyen típusú egységek száma
+# 208
+Eseménylista
+# 209
+A különbözõ típusú események különbözõ mûveleteket támogatnak. A módosítás után a nem megfelelõ mûveletek eltávolításra kerülnek. Tényleg folytatni szeretné?
+# 210
+Aktuális Hõs
+# 211
+Aktuális Város
+# 212
+Aktuális játékosok száma
+# 213
+Aktuális Hõs: %s
+# 214
+Aktuális Város: %s
+# 215
+Aktuális játékosok száma: %s
+# 216
+Aktuális Hõs bizonyos játékoshoz tartozik
+# 217
+Aktuális Város bizonyos játékoshoz tartozik
+# 218
+Az aktuális esemény más eseményekbõl hívódik meg, és nem konvertálható.
+# 219
+A jelenlegi játékosnak van egy bizonyos száma
+# 220
+Az objektum szerkesztése közben az események nem konvertálhatóak.
+# 221
+Hozzáadás"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -21192,19 +22331,19 @@ Text 4: ""
 Text 5: ""
 Text 6: "# Hosszú mûveletnév leírások
 Szekvencia
-Feltételes állítások. További Ha-akkor ágak adhatók hozzá az \Elágazás hozzáadása\ opcióval.
-Logikai változók kifejezés értékének rögzítése változóba az eredménytõl függõen
+Ellenõrizze az állapotot, és az eredménytõl függõen hajtsa végre a mûveleteket. Utasítás. További Ha-Akkor ágak adhatók hozzá az \Ág Hozzáadása\ opcióval..
+Az eredménytõl függõen rögzítse az egyik értéket.
 A változó értékének módosítása
 Játékos erõforrásainak módosítása
-Aktuális objektum eltávolítása (Esemény küldetésörzõ vagy Pandora szelencéje) vagy az aktuális küldetés befejezése
-Az üzenet és a jutalmazási mûveletek sorrendje képként jelenik meg az üzenetben
-Keresési tevékenység befejezési kérdéssel. Amíg a küldetés nem fejezõdik be, addig a további tevékenységek nem kerülnek végrehajtásra.
+Haladj át a küldetésörzõn vagy a küldetéskapukon, vagy teljesítsd a Látnok kunyhója küldetést
+Adj jutalmat a játékosnak, és mutass meg errõl egy üzenetet automatikusan kiválasztott képekkel
+A küldetés szakasza befejezési kérdéssel. A küldetés befejezéséig további mûveletek nem hajthatók végre
 Egységek átadása vagy átvétele
 Varázstárgy átadása vagy átvétele
 Épület felépítése
-Az aktuális küldetés naplóbejegyzésének és a küldetés objektumának a beállítása
+Tipp az aktuális küldetéshez
 A különbözõ válaszokra különbözõ cselekvéseket tartalmazó kérdéseket tesz fel
-Egyszerû feltételes utasítás
+Ellenõrizze az állapotot, és az eredménytõl függõen hajtson végre különbözõ mûveleteket
 Bérelhetõ egységek számának növelése
 Adj varázslatot a hõsnek
 Adj tapasztalatot a hõsnek
@@ -21215,24 +22354,24 @@ Adj másodlagos készségeket
 Szerencse módosítása
 Hangulat módosítása
 Harc a megadott egységek csoportjaival
-Más esemény végrehajtása. A rekurzió lehetetlen.
+Más esemény végrehajtása. Nem tudja magát hívni
 Harci gép eladása vagy vétele
 Varázskönyv átadása vagy átvétele
-Az aktuális esemény letiltása és az esemény végrehajtásának leállítása
-Ismétlõdõ sorozat ciklusa
+A jelenlegi esemény letiltása. Az esemény további meghívásai nem lesznek hatással
+A sorozat végrehajtása a tartományban lévõ változó minden értékére. A cikluson belül ez a változó nem módosítható
 Üzenet megjelenítése megadott képekkel"
 Text 7: "# Hosszú BoolExpr névleírások
-Igaz vagy hamis
-Logikai """"És""""
-Logikai """"Vagy""""
-Az elsõ érték kisebb, mint a második érték
-Az elsõ érték nagyobb, mint a második érték
-Az elsõ érték egyenlõ a második értékkel
-A másik logikai változó kifejezésének értéke hamis.
+Booléi konstans: Igaz vagy hamis
+Logikai """"ÉS"""": ellenõrizze, hogy minden feltétel teljesül-e
+Logikai """"VAGY"""": ellenõrizze, hogy legalább egy feltétel teljesül-e
+Ellenõrizze, hogy az elsõ érték kisebb, mint a második érték
+Ellenõrizze, hogy az elsõ érték nagyobb, mint a második érték
+Ellenõrizze, hogy az elsõ érték egyenlõ a második értékkel
+Logikai""""NEM"""": ellenõrizze, hogy a megadott feltétel nem teljesül-e
 A hõsnek van egy bizonyos varázstárgya vagy harci gépe
-Az elsõ érték nagyobb vagy egyenlõ a második értéknél
-Az elsõ érték kisebb vagy egyenlõ a második értéknél
-Az elsõ érték nem egyenlõ a második értékkel
+Ellenõrizze, hogy az elsõ érték nagyobb vagy egyenlõ a második értéknél
+Ellenõrizze, hogy az elsõ érték kisebb vagy egyenlõ a második értéknél
+Ellenõrizze, hogy az elsõ érték nem egyenlõ a második értékkel
 Az aktuális játékos egy bizonyos játékos
 Az adott hõs keresése sikeres
 Az aktuális hõs kategóriája egy bizonyos kategória
@@ -21244,24 +22383,114 @@ Az adott várost egy bizonyos játékos irányítja
 Az aktuális játékos ember
 Az aktuális játékos kezdõ várostípusa egy bizonyos várostípus
 Az aktuális város semleges"
-Text 8: "Egész szám értéke
-Numerikus változó
-Kifejezés negatív értéke
-Összeadás
-Kivonás
+Text 8: "Egész szám állandó
+Egy adott változó értéke
+A kifejezés értékének elõjelének megfordítása
+Az elsõ és a második érték összege
+Két érték különbsége
 Az aktuális játékos erõforrásainak mennyisége
-Szorzás
-Osztás
-Moduláris osztás
+Az elsõ érték szorzása a másodikkal
+Az elsõ érték osztása a másodikkal
+Az osztási mûvelet maradéka
 Egységek száma az aktuális seregben
 Jelenlegi nehézségi szint
-Egyedi nehézségi szint
-Jelenlegi dátum
+A jelenlegi nehézségi szinttel összehasonlítható érték
+A mai nap száma, 1-tõl kezdõdõen
 Jelenlegi hõs tapasztalata
 Jelenlegi hõs szintje
 Jelenlegi hõs elsõdleges képzettségének értéke
-Véletlen szám X-tõl Y-ig bezárólag
+Véletlenszerû szám a minimális és maximális érték között, mindkét értékkel együtt
 Varázstárgyak száma a hõs leltárában"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "spell081"
+Path: ""
+Texts count: "9"
+Text 0: "Fagyasztás"
+Text 1: "Fagyasztás"
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: "Freeze.wav"
+Text 7: "# 0: Leírás (Nincs)
+Nem használt
+# 1: Leírás (Alap)
+Nem használt
+# 2: Leírás (Haladó)
+Nem használt
+# 3: Leírás (Mester)
+Nem használt
+# 4: School flags
+semmi
+# 5: Spell flags
+BUFF_DEBUFF CREATURE_SPELL CREATURE_TARGET NOT_SIEGE_WEAPON"
+Text 8: "-1 # Céltípus
+-1 # Animation ix
+4 # Level
+0 0 0 0 # Mana költség
+0 # Hatáserõ-szorzó
+0 0 0 0 # Tanulási készség hatása
+1 1 1 1 # AI Érték"
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "bulwark_texts0"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "# 0
+Csak egy látogató hõs használhatja a Rúnák Sieidijét.
+# 1
+Szeretnéd, ha %s elsajátítaná a rúnák tudományát?
+# 2
+%s már elsajátította a rúnák tudományát.
+# 3
+%s hiába próbálja elsajátítani a rúnák tudományát. Bár már sok képességgel rendelkezik, %s képtelen új dolgokat tanulni már.
+# 4
+%s megpróbálja elsajátítani a rúnák ismeretét, de rájön, hogy nem tudja õket elolvasni. Úgy tûnik, hogy ez a tudomány csak a helyiek és a hozzáértõ tudósok számára elérhetõ.
+# 5
+Rúna Szinted: %d (+%d Támadás)
+# 6
+Rúna Szinted: %d (+%d Támadás, +%d Védelem)
+# 7
+Rúna Szinted: %d (+%d Támadás +%d Védelem, +%d Sebesség)
+# 8
+%s elérhetõ %d Rúna Szint
+# 9
+%s elérhetõ %d Rúna Szint
+# 10
+[cserélt]
+# 11
+[cserélt]
+# 12
+[cserélt]
+# 13
+%s és %s elérhetõ új Rúna Szint
+# 14
+Az egységek új eredményeket értek el a Rúna Szint
+# 15
+A Rúnák oltára az egységeknek kezdõ Rúnaszintet ad."
+Text 8: ""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"

@@ -9,13 +9,13 @@ Megtaláltad az öreg remete házát.  A remete elmondja, hogy  az elsõ, aki betér h
 Egy veterán katonával találkoztál.  A katona elmondja hogy az elsõ igaz vezetõnek, akivel találkozik, nekiadja a(z) %s varázstárgyat."
 "{Varázstárgy}
 
-Egy kobold neked adná a(z) %s varázstárgyat, mindössze 2000 aranyért.  Elfogadod az ajánlatát?"
+Egy Ír Manó neked adná a(z) %s varázstárgyat, mindössze 2000 aranyért.  Elfogadod az ajánlatát?"
 "{Varázstárgy}
 
-Egy kobold neked adná a(z) %s varázstárgyat 2500 aranyért és 3 %s-ért.  Elfogadod az ajánlatát?"
+Egy Ír Manó neked adná a(z) %s varázstárgyat 2500 aranyért és 3 %s-ért.  Elfogadod az ajánlatát?"
 "{Varázstárgy}
 
-Egy kobold neked adná a(z) %s varázstárgyat 3000 aranyért és 5 %s-ért.  Elfogadod az ajánlatát?"
+Egy Ír Manó neked adná a(z) %s varázstárgyat 3000 aranyért és 5 %s-ért.  Elfogadod az ajánlatát?"
 Gyõzelem, elnyerted méltó jutalmadat, a(z) %s varázstárgyat.
 "{Varázstárgy}
 
@@ -24,8 +24,8 @@ Ráleltél egy õsi varázstárgyra.  Ahogy nyúlsz érte, egy csapat Kerberosz a bokro
 
 Ahogy kiértél a tisztásra, rálelsz az õsi varázstárgyra.  Balszerencsédre ez a közeli %s védelmében áll.  Harcolsz az õrséggel a varázstárgyért?"
 Megfontolásból úgy döntesz, hogy a mai napon inkább nem keveredsz csatába.
-Megpróbálod kifizetni a koboldot, de rájössz, hogy nincs elég anyagi fedezeted.  A kobold sarkon fordul és távozik tõled.
-Mivel figyelembe se vetted a kobold nagylelkû ajánlatát, az sarkon fordult és távozott tõled.
+Megpróbálod kifizetni az Ír Manót, de rájössz, hogy nincs elég anyagi fedezeted.  Az Ír Manó sarkon fordul és távozik tõled.
+Mivel figyelembe se vetted az Ír Manó nagylelkû ajánlatát, az sarkon fordult és távozott tõled.
 Biztos vagy benne, hogy ki akarod nyitni a dobozt?
 Beleskelõdsz.  Megdöbbenve látod, hogy a doboz üres volt.
 Jobban is figyelhettél volna, mert megtámadtak!
@@ -208,10 +208,10 @@ Csatlakozik hozzád %d harcos, ha kifizeted nekik az alábbi összeget.  Elfogadod 
 Egy csapat %s megrémülve sereged félelmetes erejétõl megfutamodott a harc elõl.  Üldözõbe veszed õket?
 "{Misztikus Kert}
 
-A zenét követve egy kis kertbe tévedtél, ahol éppen egy kobold táncolt.  Mivel még senkinek sem sikerült elkapnia, csak Neked, ezért egy apró kis edényt kaptál, teli becses dolgokkal."
+A zenét követve egy kis kertbe tévedtél, ahol éppen egy Ír Manó táncolt.  Mivel még senkinek sem sikerült elkapnia, csak Neked, ezért egy apró kis edényt kaptál, teli becses dolgokkal."
 "{Misztikus Kert}
 
-A zenét követve egy kis kertbe tévedtél, ahol éppen egy kobold táncolt.  A monda szerint még senkinek sem sikerült elkapnia, ezért hát úgy döntesz, hogy te is szerencsét próbálsz. Sajnos neked sem sikerült."
+A zenét követve egy kis kertbe tévedtél, ahol éppen egy Ír Manó táncolt.  A monda szerint még senkinek sem sikerült elkapnia, ezért hát úgy döntesz, hogy te is szerencsét próbálsz. Sajnos neked sem sikerült."
 "{Oázis}
 
 Te és sereged isztok az Oázis vizébõl, de a várva várt felfrissülés elmarad.  Nézz vissza egy csata után, talán akkor hat rátok a varázslatos víz."

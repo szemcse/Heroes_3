@@ -181,8 +181,8 @@ Nyílvetõ
 A hátizsákod teli van.		
 "A hátizsákodban sajnos nincs hely egy olyan nagy tárgy számára, mint egy %s."		
 %s megsemmisült.		
-Támadás: %d. Sebzés: %d-%d. Találati pont: %d / %d.
-Figyelmen kívül hagyja az ellenség védelmét."		
+Támadás: %s. Sebzés: {%d}-{%d}. Találati pont: {%d} / {%d}.
+Lövések. Nincs távolsági büntetés. Figyelmen kívül hagyja az ellenség védelmét."		
 Lövegtorony információ megtekintése.		
 %d %s %s járna neked %d %s %s nyersanyagért cserébe. Elfogadod az ajánlatomat?		
 Piactér		

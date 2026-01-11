@@ -281,7 +281,7 @@ Ha az Arany Íj a hõsöd birtokában van, akkor a Távolra támadó hõseid át tudnak l
 Az Állandóság Varázsgömb viselésével harcosaid védetté válnak az Eloszlatás varázslat ellen."
 Sebezhetõség Varázsgömb	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Sebezhetõség Varázsgömb}
 
-A Sebezhetõség Varázsgömb csökkenti a természetes varázslat ellenállást az összes harcoson a harcmezõn. Nem érinti a varázslatok leírásaiban meghatározott alkalmazhatósági korlátozásokat, valamint a Mûtárgyak által adott mentességeket (kivéve, ha azt Álomörzõ védi)."
+Harc közben ez a gömb semlegesíti az összes egység varázslatokkal szembeni ellenállási esélyét, és megsemmisíti a egységek természetes mágikus immunitását. A gömb az Álomörzõ varázslat által biztosított elmevarázslatokkal szembeni immunitást is semlegesíti. A gömb nem befolyásolja más mûtárgyak által biztosított immunitásokat, valamint a varázslatok leírásában megadott alkalmazhatósági korlátozásokat."
 Életerõ Gyûrû	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Életerõ Gyûrû}
 
 Ez a Gyûrû +1-gyel növeli a harcosaid életét."
@@ -392,7 +392,7 @@ Angyali Szövetség																	x				R	"{Angyali Szövetség}
 Az Angyali Szövetség a komponensek hatásai mellett minden egységednek hangulatbüntetés nélkül ad lehetõséget arra, hogy jó és semleges városi egységeket keverj a csatában és +21-et ad a hõsnek minden elsõdleges képességére. Minden harc elején az Angyali Szövetség 10 körön keresztül mester Imádság varázslatot hajt végre."
 Halott Király Köpönyege																			x		R	"{Halott Király Köpenye}
 
-Ha a hõs nem rendelkezik a nekromancia képességgel, a Halott Király Köpönyege a csatatéren halott ellenségek 15%-át csontvázként fogja feltámasztani. Ha a hõs már rendelkezik a Nekromancia képességgel, akkor a komponenshatásokat is beleszámítva ez a köpeny 15%-kal növeli a Nekromancia képességet, és lehetõvé teszi, hogy erõsebb élõhalott egységeket támasszon fel. A képesség szintje határozza meg, hogy milyen típusú halottakat támaszt fel.  
+Ha a hõs nem rendelkezik a nekromancia képességgel, a Halott Király Köpönyege a csatatéren halott ellenségek 30%-át csontvázként fogja feltámasztani. Ha a hõs már rendelkezik a Nekromancia képességgel, akkor a komponenshatásokat is beleszámítva ez a köpeny 30%-kal növeli a Nekromancia képességet, és lehetõvé teszi, hogy erõsebb élõhalott egységeket támasszon fel. A képesség szintje határozza meg, hogy milyen típusú halottakat támaszt fel.  
 Alap: Zombik
 Haladó: Lelkek
 Mester: Lichek"

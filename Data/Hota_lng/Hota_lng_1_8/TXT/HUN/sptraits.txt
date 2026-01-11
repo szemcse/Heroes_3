@@ -741,7 +741,7 @@ A Mészárlás varázslat 8-cal növeli a kiválasztott barátságos egység támadási ere
 A Mészárlás varázslat 8-cal növeli a kiválasztott barátságos egység támadási erejét Sárkányok, Behemótok, Hidrák, Tûzmadarak, Tengeri kígyók és Tollaskígyók ellen. Varázserõ száma szerinti körig van hatása a varázslatnak.
 "	"{Haladó Mészárlás}
 
-A Mészárlás varázslat 8-cal növeli a kiválasztott barátságos egység támadási erejét Sárkányok, Behemótok, Hidrák, Tûzmadarak, Tengeri kígyók, Tollaskígyók, Ördögök és Angyalok ellen. Varázserõ száma szerinti körig van hatása a varázslatnak.
+A Mészárlás varázslat 8-cal növeli a kiválasztott barátságos egység támadási erejét Sárkányok, Behemótok, Hidrák, Tûzmadarak, Tengeri kígyók, Tollaskígyók, Jotunnok, Ördögök és Angyalok ellen. Varázserõ száma szerinti körig van hatása a varázslatnak.
 "	"{Mester Mészárlás}
 
 A Mészárlás varázslat 8-cal növeli a kiválasztott barátságos egység támadási erejét Sárkányok, Behemótok, Hidrák, Tûzmadarak, Tengeri kígyók, Tollaskígyók, Ördögök, Angyalok és Titánok ellen. Varázserõ száma szerinti körig van hatása a varázslatnak.

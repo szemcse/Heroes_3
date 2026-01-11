@@ -79,11 +79,11 @@ A Haladó Ballisztika képesség átadja a katapult irányítást a hõsnek, lehetõvé té
 A Mester Ballisztika képesség átadja a katapult irányítást a hõsnek, lehetõvé téve így két célzott lövést leadni maximális sebzéssel. Védi a katapultot, megakadályozva az életerõpontok több mint 40%-os elvesztését egyetlen találat esetén."
 Sasszem	"{Alap Sasszem}
 
-Az Alap Sasszem képesség lehetõvé teszi az ellenséges varázslatok megtekintését 1-3. szintig a harcban, és 10% esélyt ad hõsödnek, hogy megtanuljon bármilyen varázslatot 1-3. szintig az ellenséges hõstõl a harc kezdete elõtt, valamint 100% esélyt ad arra, hogy megtanulja azt a varázslatot melyet az ellenség a harc közben használ. Blokkolja az ellenség Sasszemének egyik szintjét."	"{Haladó Sasszem}
+Az Alap Sasszem képesség lehetõvé teszi az ellenséges varázslatok megtekintését 1-3. szintig a harcban, és 30% esélyt ad hõsödnek, hogy megtanuljon bármilyen varázslatot 1-3. szintig az ellenséges hõstõl a harc kezdete elõtt, valamint 100% esélyt ad arra, hogy megtanulja azt a varázslatot melyet az ellenség a harc közben használ. Blokkolja az ellenség Sasszemének egyik szintjét."	"{Haladó Sasszem}
 
-A Haladó Sasszem képesség lehetõvé teszi az ellenséges varázslatok megtekintését 1-4. szintig a harcban, és 20% esélyt ad hõsödnek, hogy megtanuljon bármilyen varázslatot 1-4. szintig az ellenséges hõstõl a harc kezdete elõtt, valamint 100% esélyt ad arra, hogy megtanulja azt a varázslatot melyet az ellenség a harc közben használ. Blokkolja az ellenség Sasszemének két szintjét."	"{Mester Sasszem}
+A Haladó Sasszem képesség lehetõvé teszi az ellenséges varázslatok megtekintését 1-4. szintig a harcban, és 40% esélyt ad hõsödnek, hogy megtanuljon bármilyen varázslatot 1-4. szintig az ellenséges hõstõl a harc kezdete elõtt, valamint 100% esélyt ad arra, hogy megtanulja azt a varázslatot melyet az ellenség a harc közben használ. Blokkolja az ellenség Sasszemének két szintjét."	"{Mester Sasszem}
 
-A Mester Sasszem képesség lehetõvé teszi az ellenséges varázslatok megtekintését a harcban, és 30% esélyt ad hõsödnek, hogy megtanuljon bármilyen varázslatot az ellenséges hõstõl a harc kezdete elõtt, valamint 100% esélyt ad arra, hogy megtanulja azt a varázslatot melyet az ellenség a harc közben használ. Blokkolja az ellenség Sasszem képzetségét."
+A Mester Sasszem képesség lehetõvé teszi az ellenséges varázslatok megtekintését a harcban, és 50% esélyt ad hõsödnek, hogy megtanuljon bármilyen varázslatot az ellenséges hõstõl a harc kezdete elõtt, valamint 100% esélyt ad arra, hogy megtanulja azt a varázslatot melyet az ellenség a harc közben használ. Blokkolja az ellenség Sasszem képzetségét."
 Nekromancia	"{Alap Nekromancia}
 
 Az Alap Nekromanciával a csata során megölt lények 5%-át fel tudjuk támasztani, Csontvázak formájában."	"{Haladó Nekromancia}
