@@ -300,9 +300,9 @@ Orkok	EgységBónusz: Orkok	"{Orkok és Ork Törzsfõnök}
 Keselyük	EgységBónusz: Keselyük	"{Keselyük és Villámmadarak}
 
 5 szintenként növeli az Keselyük és a Villámmadarak Sebességét 1-gyel, Támadását és Védelmét 20%-kal (felfelé kerekítve)."
-Goblinok	EgységBónusz: Goblinok	"{Goblinok és Hobgoblinok}
+Manók	EgységBónusz: Manók	"{Manók és Vészmanók}
 
-1 szintenként növeli a Goblinok és a Hobgoblinok Sebességét 1-gyel, Támadását és Védelmét 10%-kal (felfelé kerekítve)."
+1 szintenként növeli a Manók és a Vészmanók Sebességét 1-gyel, Támadását és Védelmét 10%-kal (felfelé kerekítve)."
 Ogrék	Egységbónusz: Ogrék	"{Ogrék és Ogre Mágusok}
 
 4 szintenként növeli az Ogrék és Ogre Mágusok Sebességét 1-gyel, Támadását és Védelmét 20%-kal (felfelé kerekítve)."

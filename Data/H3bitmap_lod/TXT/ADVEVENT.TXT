@@ -9,13 +9,13 @@ Megtaláltad az öreg remete házát.  A remete elmondja, hogy  az elsõ, aki betér h
 Egy veterán katonával találkoztál.  A katona elmondja hogy az elsõ igaz vezetõnek, akivel találkozik, nekiadja a(z) %s varázstárgyat."
 "{Varázstárgy}
 
-Egy kobold neked adná a(z) %s varázstárgyat, mindössze 2000 aranyért.  Elfogadod az ajánlatát?"
+Egy Ír Manó neked adná a(z) %s varázstárgyat, mindössze 2000 aranyért.  Elfogadod az ajánlatát?"
 "{Varázstárgy}
 
-Egy kobold neked adná a(z) %s varázstárgyat 2500 aranyért és 3 %s-ért.  Elfogadod az ajánlatát?"
+Egy Ír Manó neked adná a(z) %s varázstárgyat 2500 aranyért és 3 %s-ért.  Elfogadod az ajánlatát?"
 "{Varázstárgy}
 
-Egy kobold neked adná a(z) %s varázstárgyat 3000 aranyért és 5 %s-ért.  Elfogadod az ajánlatát?"
+Egy Ír Manó neked adná a(z) %s varázstárgyat 3000 aranyért és 5 %s-ért.  Elfogadod az ajánlatát?"
 "Gyõzelem, elnyerted méltó jutalmadat, a(z) %s varázstárgyat."
 "{Varázstárgy}
 
@@ -24,8 +24,8 @@ Ráleltél egy õsi varázstárgyra.  Ahogy nyúlsz érte, egy csapat Kerberosz a bokro
 
 Ahogy kiértél a tisztásra, rálelsz az õsi varázstárgyra.  Balszerencsédre ez a közeli %s védelmében áll.  Harcolsz az õrséggel a varázstárgyért?"
 "Megfontolásból úgy döntesz, hogy a mai napon inkább nem keveredsz csatába."
-"Megpróbálod kifizetni a koboldot, de rájössz, hogy nincs elég anyagi fedezeted.  A kobold sarkon fordul és távozik tõled."
-"Mivel figyelembe se vetted a kobold nagylelkû ajánlatát, az sarkon fordult és távozott tõled."
+"Megpróbálod kifizetni az Ír Manót, de rájössz, hogy nincs elég anyagi fedezeted.  Az Ír Manó sarkon fordul és távozik tõled."
+"Mivel figyelembe se vetted az Ír Manó nagylelkû ajánlatát, az sarkon fordult és távozott tõled."
 Biztos vagy benne, hogy ki akarod nyitni a dobozt?
 "Beleskelõdsz.  Megdöbbenve látod, hogy a doboz üres volt."
 Jobban is figyelhettél volna, mert megtámadtak!
@@ -58,7 +58,7 @@ Gyerekkori történetek szerint egy a vörös hattyú a jó szerencse elõjele.  Még mi
 Megérintetted a Sötétség Leplét és a földet körülötted sötétség borította be. Csak te vagy képes ezen átlátni."
 %s bejáratához értél.  Belépsz és megtámadod az õrzõket?
 "Találtál valamit, ami egykor egy %s volt, azonban ezt már régen kifosztották."
-"Mivel legyõzted a(z) %s sereget, a tiéd lett a(z) %s."
+"Mivel legyõzted a hely %s seregét, megszerezted a következõket: %s."
 "{%s}
 
 Itt %s sorozására van lehetõséged. Szeretnéd ezt most megtenni?"
@@ -85,32 +85,32 @@ Miután legyõzted a Víz Elementálokat, több óra keresgélés után találtál valamit!
 "{%s}
 
 A tábor kihaltnak tûnik.  Nézz vissza jövõ héten."
-a(z) %s
+%s
 "{Sárkány Utópia}
 
-This text is no longer used.  If you see it, it is a bug."
+Ezt a szöveget már nem használják. Ha látod, ez egy hiba."
 "{Sárkány Utópia}
 
 A Sárkány Utópia elõtt állsz, ahova ember nem teheti be a lábát.  Megszeged ezt a szabályt és harcolsz a Sárkányokkal?"
 "Ez a különös szem tanulmányoz téged, ahogy közeledsz. Néhány pillanat múlva visszaáll lassú, fürkészõ mozgásához.  Nem tudod, mi lehetett ez, de úgy érzed valaki vagy valami arra használja ezt a szemet, hogy más területeket feltérképezzen."
-"{Tündér Gyûrû}
+"{Tündérgyûrû}
 
-A Tündér Gyûrûnek köszönhetõen harcosaid a következõ csatában Szerencsések lesznek."
-"{Tündér Gyûrû}
+A Tündérgyûrûnek köszönhetõen harcosaid a következõ csatában Szerencsések lesznek."
+"{Tündérgyûrû}
 
 A várttal ellentétben nem történt semmi."
 "{Tengeri uszadékfa}
 
-A Tengeri uszadékfánál nem találtál semmit."
+A Tengeri uszadékfák között nem találtál semmit."
 "{Tengeri uszadékfa}
 
-A Tengeri uszadékfánál némi fára leltél."
+A Tengeri uszadékfát feldolgozva némi fára tettél szert."
 "{Tengeri uszadékfa}
 
-A Tengeri uszadékfánál némi aranyra és fára leltél."
+A Tengeri  uszadékfát feldolgozva némi fára tettél szert, az uszadékok között némi aranyat is találtál."
 "{Tengeri uszadékfa}
 
-A Tengeri uszadékfánál némi fára és aranyra leltél."
+A Tengeri  uszadékfát feldolgozva némi fára tettél szert, az uszadékok között némi aranyat is találtál."
 "{Szerencse Szökõkút}
 
 Ha iszol a kút vízébõl szerencséd megnõ."
@@ -201,17 +201,17 @@ Sikeresen legyõzted az Ördögfiókákat, ezért újra meg tudod nyitni a bányát.
 Egy csapat %s csatlakozni szeretne hozzád. Elfogadod az ajánlatukat? "
 "Mivel elutasítottad ajánlatukat, a behódolók megtámadtak!"
 "Egy csapat %s felajánlja neked, hogy %d aranyért csatlakozik hozzád.  Elfogadod az ajánlatukat?"
-"Az ellenséged csapat felajánlja Neked szolgálatait a következõkért:
+"Az ellenséges csapat felajánlja Neked szolgálatait a következõkért:
 
 "
 Csatlakozik hozzád %d harcos, ha kifizeted nekik az alábbi összeget.  Elfogadod az ajánlatukat?
 "Egy csapat %s megrémülve sereged félelmetes erejétõl megfutamodott a harc elõl.  Üldözõbe veszed õket?"
 "{Misztikus Kert}
 
-A zenét követve egy kis kertbe tévedtél, ahol éppen egy kobold táncolt.  Mivel még senkinek sem sikerült elkapnia, csak Neked, ezért egy apró kis edényt kaptál, teli becses dolgokkal."
+A zenét követve egy kis kertbe tévedtél, ahol éppen egy Ír Manó táncolt.  Mivel még senkinek sem sikerült elkapnia, csak Neked, ezért egy apró kis edényt kaptál, teli becses dolgokkal."
 "{Misztikus Kert}
 
-A zenét követve egy kis kertbe tévedtél, ahol éppen egy kobold táncolt.  A monda szerint még senkinek sem sikerült elkapnia, ezért hát úgy döntesz, hogy te is szerencsét próbálsz. Sajnos neked sem sikerült."
+A zenét követve egy kis kertbe tévedtél, ahol éppen egy Ír Manó táncolt.  A monda szerint még senkinek sem sikerült elkapnia, ezért hát úgy döntesz, hogy te is szerencsét próbálsz. Sajnos neked sem sikerült."
 "{Oázis}
 
 Te és sereged isztok az Oázis vizébõl, de a várva várt felfrissülés elmarad.  Nézz vissza egy csata után, talán akkor hat rátok a varázslatos víz."
@@ -277,10 +277,10 @@ Miután legyõzted a félelmetes Hárpiákat és körülnéztél a hajó roncsain, nem talá
 Miután legyõzted a Hárpiákat körülnéztél a hajó roncsain és találtál valamit!
 "{Túlélõ}
 
-Egy embert megmentettél a biztos haláltól, ezért õ hálája jeléül neked adja a(z) %s varázstárgyat."
+Egy embert megmentettél a biztos haláltól, ezért Õ hálája jeléül neked adja a(z) %s varázstárgyat."
 "{Túlélõ}
 
-Egy embert megmentettél a biztos haláltól, ezért õ hálája jeléül neked adna egy varázstárgyat, de már nincs hely a hátizsákodban."""""
+Egy embert megmentettél a biztos haláltól, ezért Õ hálája jeléül neked adna egy varázstárgyat, de már nincs hely a hátizsákodban."""""
 "{Bûbájos Hely}
 
 A Bûbájos Helyen szívesen vették érkezésedet és megtanították neked a következõ varázslatot:  "
@@ -383,7 +383,7 @@ A Vízmalom dolgozói így szólnak érkezésedkor: ""Milord, Sajnáljuk, de jelenleg n
 A Gyógygödör vize felfrissítette katonáid, ezért a mai nap egy kicsivel többet tudtok haladni az átlagosnál."
 "{Gyógygödör}
 
-A Gyógygödör vize felfrissít."
+A Gyógygödör vize felfrissít, de nem kínál további elõnyöket. Az Gyógygödör vize újra segíthet, ha elõbb megvívsz egy csatát."
 "{Örvény}
 
 Az Örvény elnyeli a hajódat.  Ez akár néhány harcosod életébe is kerülhet."
@@ -420,4 +420,4 @@ Egy csapat %s csatlakozott %s seregéhez.
 "Ez egy elhagyatott hajógyár.  Balszerencsédre a kikötõ már nem alkalmas hajók fogadására."
 "{Boszorkány Kunyhó}
 
-Amint megközelítetted a kunyhót észrevetted, hogy az már lakatlan."
+Közeledsz a kunyhóhoz, de azt tapasztalod, hogy egy ideje elhagyatott."

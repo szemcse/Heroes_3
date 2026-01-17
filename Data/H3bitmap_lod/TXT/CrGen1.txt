@@ -19,7 +19,7 @@ Korlátfal
 Kívánság oltára
 Farkas karám
 Gnoll kunyhó
-Goblin kaszárnya
+Manó kaszárnya
 Bûn csarnoka
 Gorgon karám
 Sárkány szirt
@@ -30,7 +30,7 @@ Hidra tó
 Olvasztótégely
 Gyíkember tanya
 Mágus torony
-Manticore barlang
+Mantikór barlang
 Némaság kápolnája
 Labirintus
 Kolostor
@@ -44,7 +44,7 @@ Sziklafészek
 Mûhely
 Fellegvár
 Ent õrség
-Gomba gyûrûk
+Nyomortelep
 Víz elementál Conflux
 Lelkek sírboltja
 Sárkánygyík fészek
@@ -71,7 +71,7 @@ Levegõ oltár
 Föld oltár
 Tûz oltár
 Víz oltár
-Szalmatetõs kunyhó
+Félszerzet kunyhó
 Kalyiba
 Vadkan szoros
 Átkozottak sírköve

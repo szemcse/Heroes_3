@@ -35,8 +35,8 @@ Arany Sárkány	Arany Sárkány	0	0	0	0	2	0	4000	6220	8613	1	0	250	16	27	27	40	50	0	
 																										
 																										
 																										
-Kobold	Kobold	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0		
-Manó	Manó	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Távolsági lövésre képes.	SHOOTING_ARMY		
+Harci Manó	Harci Manó	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0		
+Mester Harci Manó	Mester Harci Manó	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Távolsági lövésre képes.	SHOOTING_ARMY		
 Vízköpõ	Vízköpõ	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30		FLYING_ARMY		
 Obszidián Vízköpõ	Obszidián Vízköpõ	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25		FLYING_ARMY		
 Kõgólem	Kõgólem	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	A rá varázsolt varázslatok 50%-a hat csak.	0		
@@ -56,7 +56,7 @@ Titán	Titán	0	0	0	0	0	2	5000	5000	7500	1	0	300	11	24	24	40	60	24	0	3	8	Nem ütnek
 																										
 																										
 Ördögfióka	Ördögfióka	0	0	0	0	0	0	50	50	50	15	8	4	5	2	3	1	2	0	0	20	50		0		
-Kísértõ	Kísértõ	0	0	0	0	0	0	60	60	60	15	8	4	7	4	4	1	2	0	0	20	30	Az ellenség varázspontjaiból csen el.	0		
+Kísérõ	Kísérõ	0	0	0	0	0	0	60	60	60	15	8	4	7	4	4	1	2	0	0	20	30	Az ellenség varázspontjaiból csen el.	0		
 Góg	Góg	0	0	0	0	0	0	125	145	159	8	0	13	4	6	4	2	4	12	0	16	30		SHOOTING_ARMY		
 Magóg	Magóg	0	0	0	0	0	0	175	210	240	8	0	13	6	7	4	2	4	24	0	16	25	Tûzlabda támadás.	SHOOTING_ARMY		
 Pokolkutya	Pokolkutya	0	0	0	0	0	0	200	275	357	5	3	25	7	10	6	2	7	0	0	12	25		DOUBLE_WIDE | FLYING_ARMY		
@@ -106,15 +106,15 @@ Medúza Királynõ	Medúza Királynõ	0	0	0	0	0	0	330	423	577	4	0	30	6	10	10	6	8	8	0	1
 változtathatja az ellenfeleit."	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty		
 Minotaurusz	Minotaurusz	0	0	0	0	0	0	500	835	835	3	0	50	6	14	12	12	20	0	0	8	16	Jó Hangulattal rendelkezik.	0		
 Minotaurusz Király	Minotaurusz Király	0	0	0	0	0	0	575	890	1068	3	0	50	8	15	15	12	20	0	0	8	12	Jó Hangulattal rendelkezik.	0		
-Manticore	Manticore	0	0	0	0	0	0	850	1215	1547	2	0	80	7	15	13	14	20	0	0	5	12		DOUBLE_WIDE | FLYING_ARMY		
-Scorpicore	Scorpicore	0	0	0	0	0	0	1050	1248	1589	2	0	80	11	16	14	14	20	0	0	5	10	Ütése béníthatja az ellenfelet.	DOUBLE_WIDE | FLYING_ARMY		
+Mantikór	Mantikór	0	0	0	0	0	0	850	1215	1547	2	0	80	7	15	13	14	20	0	0	5	12		DOUBLE_WIDE | FLYING_ARMY		
+Skorpikór	Skorpikór	0	0	0	0	0	0	1050	1248	1589	2	0	80	11	16	14	14	20	0	0	5	10	Ütése béníthatja az ellenfelet.	DOUBLE_WIDE | FLYING_ARMY		
 Vörös Sárkány	Vörös Sárkány	0	0	0	1	0	0	2500	3762	4702	1	0	180	11	19	19	40	50	0	0	4	10	Immunis 1-3. szintû varázslatokra.	DOUBLE_WIDE | FLYING_ARMY | KING_1		
 Fekete Sárkány	Fekete Sárkány	0	0	0	2	0	0	4000	6783	8721	1	0	300	15	25	25	40	50	0	0	3	8	Immunis az összes varázslatra.	DOUBLE_WIDE | FLYING_ARMY | KING_1		
 																										
 																										
 																										
-Goblin	Goblin	0	0	0	0	0	0	40	60	60	15	8	5	5	4	2	1	2	0	0	20	50		0		
-Hobgoblin	Hobgoblin	0	0	0	0	0	0	50	65	78	15	8	5	7	5	3	1	2	0	0	20	30		0		
+Manó	Manó	0	0	0	0	0	0	40	60	60	15	8	5	5	4	2	1	2	0	0	20	50		0		
+Vészmanó	Vészmanó	0	0	0	0	0	0	50	65	78	15	8	5	7	5	3	1	2	0	0	20	30		0		
 Farkaslovas	Farkaslovas	0	0	0	0	0	0	100	130	130	9	0	10	6	7	5	2	4	0	0	16	30		DOUBLE_WIDE		
 Farkaslovas Fosztogató	Farkaslovas Fosztogató	0	0	0	0	0	0	140	174	203	9	0	10	8	8	5	3	4	0	0	16	25	Kétszer támad.	DOUBLE_WIDE		
 Ork	Ork	0	0	0	0	0	0	150	175	192	7	0	15	4	8	4	2	5	12	0	12	25		SHOOTING_ARMY		

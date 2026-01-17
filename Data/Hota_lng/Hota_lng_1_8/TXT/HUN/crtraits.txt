@@ -95,8 +95,8 @@ Medúza	Medúza	0	0	0	0	0	0	300	379	517	4	0	25	5	9	9	6	8	4	0	10	20	Lövések. Nincs 
 Medúza Királynõ	Medúza Királynõ	0	0	0	0	0	0	330	423	577	4	0	30	6	10	10	6	8	8	0	10	16	Lövések. Nincs közelharci büntetés. Kõvé változtathatja az ellenfeleit.	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
 Minotaurusz	Minotaurusz	0	0	0	0	0	0	500	835	835	3	0	50	6	14	12	12	20	0	0	8	16	Jó Hangulattal rendelkezik.	0
 Minotaurusz Király	Minotaurusz Király	0	0	0	0	0	0	575	890	1068	3	0	50	8	15	15	12	20	0	0	8	12	Jó Hangulattal rendelkezik.	0
-Mantikor	Mantikor	0	0	0	0	0	0	850	1215	1547	2	0	80	7	15	13	14	20	0	0	5	12	Repül.	DOUBLE_WIDE | FLYING_ARMY
-Skorpiko	Skorpiko	0	0	0	0	0	0	1050	1248	1685	2	0	80	11	16	14	14	20	0	0	5	10	Repül. Ütése béníthatja az ellenfelet.	DOUBLE_WIDE | FLYING_ARMY
+Mantikór	Mantikór	0	0	0	0	0	0	850	1215	1547	2	0	80	7	15	13	14	20	0	0	5	12	Repül.	DOUBLE_WIDE | FLYING_ARMY
+Skorpikór	Skorpikór	0	0	0	0	0	0	1050	1248	1685	2	0	80	11	16	14	14	20	0	0	5	10	Repül. Ütése béníthatja az ellenfelet.	DOUBLE_WIDE | FLYING_ARMY
 Vörös Sárkány	Vörös Sárkány	0	0	0	1	0	0	2500	3762	5003	1	0	180	11	19	19	40	50	0	0	4	10	Repül. Lehelet támadás. Immunis 1-3. szintû varázslatokra.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 Fekete Sárkány	Fekete Sárkány	0	0	0	2	0	0	4000	6783	8721	1	0	300	15	25	25	40	50	0	0	3	8	Repül. Lehelet támadás. Immunis az összes varázslatra. Gyûlöli a Titánokat.	DOUBLE_WIDE | FLYING_ARMY | KING_1
 																								

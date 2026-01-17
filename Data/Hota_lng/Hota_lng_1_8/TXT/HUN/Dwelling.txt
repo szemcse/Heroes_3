@@ -35,7 +35,7 @@ Arany pavilon	Az Arany pavilonban Nagákat vásárolhatsz.
 Fellegvár	A Fellegvárban Óriásokat vásárolhatsz.
 Fejl. Mûhely	A Fejlesztett Mûhelyben Mester Harci Manókat vásárolhatsz.
 Fejl. Korlátfal 	A Fejlesztett Korlátfalnál Obszidián Vízköpõket vásárolhatsz.
-Fejl. Gólem gyár	A Fejlesztett gólem gyárban Vasgólemeket vásárolhatsz.
+Fejl. Gólem gyár	A Fejlesztett Gólem gyárban Vasgólemeket vásárolhatsz.
 Fejl. Varázsló torony	A Fejlesztett Varázsló toronyban Fõmágusokat vásárolhatsz.
 Fejl. Kívánság oltára	A Fejlesztett Kívánság oltáránál Mesterdzsinneket vásárolhatsz.
 Fejl. Arany pavilon	A Fejlesztett Arany pavilonban Naga királynõt vásárolhatsz.
@@ -61,26 +61,26 @@ Sírkamra	A Sírkamránál Vámpírokat vásárolhatsz.
 Mauzóleum	A Mauzóleumban Licheket vásárolhatsz.
 Sötétség csarnoka	A Sötétség csarnokánál Fekete Lovagokat vásárolhatsz.
 Sárkány pince 	A Sárkány pincében Csontsárkányokat vásárolhatsz.
-F. Átkozottak temploma	A Fejlesztett átkozottak templománál csontváz harcosokat vásárolhatsz.
+F. Átkozottak temploma	A Fejlesztett Átkozottak Templománál Csontváz harcosokat vásárolhatsz.
 Fejl. Sírkert	A Fejlesztett Sírkertben Zombikat vásárolhatsz.
 Fejl. Lelkek sírboltja	A Fejlesztett Lelkek sírboltjánál Kísérteteket vásárolhatsz.
 Fejl. Uradalom	A Fejlesztett Uradalomnál Vámpírurakat vásárolhatsz.
 Fejl. Mauzóleum	A Fejlesztett Mauzóleumban Hatalmas Licheket vásárolhatsz.
 Fejl. Sötétség csarnoka	A Fejlesztett Sötétség csarnokánál Halállovagokat  vásárolhatsz.
 Fejl. Sárkány pince	A Fejlesztett Sárkány pincében Szellemsárkányokat  vásárolhatsz.
-Nyomortelep 	A Nyomortelepen Barlanglakókat vásárolhatsz.
+Nyomortelep	A Nyomortelepen Barlanglakókat vásárolhatsz.
 Hárpia padlás	A Hárpia padláson Hárpiákat vásárolhatsz.
 Szemek pillére	A Szemek pillérénél Szemlélõket vásárolhatsz.
 Némaság kápolnája	A Némaság kápolnájában Medúzákat vásárolhatsz.
 Labirintus	A Labirintusban Minotauruszokat vásárolhatsz.
-Mantikor barlang	A Mantikor barlangban Mantikorokat vásárolhatsz.
+Mantikór barlang	A Mantikór barlangban Mantikórokat vásárolhatsz.
 Sárkány barlang	A Sárkány barlangban Vörös Sárkányokat vásárolhatsz.
 Fejl. Nyomortelep	A Fejlesztett Nyomortelepen Pokoli barlanglakókat vásárolhatsz.
 Fejl. Hárpia padlás	A Fejlesztett Hárpia padláson Hárpia banyákat vásárolhatsz.
 Fejl. Szemek pillére	A Fejlesztett Szemek pillérénél Gonosz szemeket vásárolhatsz.
 Fejl. Némaság kápolnája	A Fejlesztett Némaság kápolnájában Medúza királynõt vásárolhatsz.
 Fejl. Labirintus	A Fejlesztett Labirintusban Minotaurusz királyt vásárolhatsz.
-Fejl. Mantikor barlang	A Fejlesztett Mantikor barlangban Skorpikokat vásárolhatsz.
+Fejl. Mantikór barlang	A Fejlesztett Mantikór barlangban Skorpikórokat vásárolhatsz.
 Fejl. Sárkány barlang	A Fejlesztett Sárkány barlangban Fekete Sárkányokat vásárolhatsz.
 Manó kaszárnya	A Manó kaszárnyában Manókat vásárolhatsz.
 Farkas karám	A Farkas karámban Farkaslovasokat vásárolhatsz.

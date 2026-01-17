@@ -25,7 +25,7 @@ Marletto Torony
 Kísértet Hajó	
 Sárkány Utópia	
 Esemény	
-A Mágus Szeme	
+Mágus Szeme	
 Tündérgyûrû	
 Tengeri uszadékfa	
 Szerencse Szökõkút	
@@ -35,7 +35,7 @@ Helyõrség
 Hõs	
 Dombi Erõd	
 Grál	
-A Mágus Kunyhója	
+Mágus Kunyhója	
 Szerencse Bálvány	
 Búvóhely	
 	
@@ -212,7 +212,7 @@ Föld alatti Sziklák
 Mocsári Levél	
 Határállomás	
 Zsoldosok Céhe	
-Hõs Placeholder	
+Hõs Helyörzõ	
 Küldetésõrzõ	
 Véletlenszerû egység lakása	
 	

@@ -9788,7 +9788,7 @@ Lehetõvé teszi, hogy bármely egységet csontvázzá alakíthassunk át, a sárkányokat
 
 144
 2
-""A mágusok kolosszeuma
+""Mágusok kolosszeuma
 Minden látogató hõsnek választási lehetõséget ad, hogy az elsõ látogatás alkalmával a varázserejét vagy a tudását növeli-e +2-vel. Nem lehet elhagyni a kolosszeumot anélkül, hogy elfogadnád valamelyik bónuszt.""
 
 144
@@ -9987,7 +9987,7 @@ Text 7: "# További tárgyak az RMG számára
 146 1 500 20 -1 1 # Kilátótorony
 146 2 100 20 -1 1 # Mana oltár
 
-144 2 3000 50 32 -1 # A mágusok kolosszeuma
+144 2 3000 50 32 -1 # Mágusok kolosszeuma
 144 3 500 50 -1 1 # Itató
 146 3 10000 20 -1 1 # Városkapu
 
@@ -17695,7 +17695,7 @@ Name: "actobj002"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "A mágusok kolosszeuma"
+Text 1: "Mágusok kolosszeuma"
 Text 2: "GAZEBO.wav"
 Text 3: ""
 Text 4: ""

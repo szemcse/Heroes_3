@@ -191,8 +191,8 @@ A Haladó Ellenállás 10%-os varázslat ellenállással ruházza fel a hõs katonáit."	
 A Mester Ellenállás 20%-os varázslat ellenállással ruházza fel a hõs katonáit."
 Elsõsegély	"{Alap Elsõsegély}
 
-Az Alap Elsõsegély lehetõvé teszi az Elsõsegély sátor használatát a hõs számára, továbbá 50 sebesülés-pontot képes helyreállítani a kijelölt lényen."	"{Haladó Elsõsegély}
+Az Alap Elsõsegély lehetõvé teszi az Elsõsegély-sátor használatát a hõs számára, továbbá 50 sebesülés-pontot képes helyreállítani a kijelölt lényen."	"{Haladó Elsõsegély}
 
-A Haladó Elsõsegély lehetõvé teszi az Elsõsegély sátor használatát a hõs számára, továbbá 75 sebesülés-pontot képes helyreállítani a kijelölt lényen."	"{Mester Elsõsegély}
+A Haladó Elsõsegély lehetõvé teszi az Elsõsegély-sátor használatát a hõs számára, továbbá 75 sebesülés-pontot képes helyreállítani a kijelölt lényen."	"{Mester Elsõsegély}
 
-A Mester Elsõsegély lehetõvé teszi az Elsõsegély sátor használatát a hõs számára, továbbá 100 sebesülés-pontot képes helyreállítani a kijelölt lényen."
+A Mester Elsõsegély lehetõvé teszi az Elsõsegély-sátor használatát a hõs számára, továbbá 100 sebesülés-pontot képes helyreállítani a kijelölt lényen."

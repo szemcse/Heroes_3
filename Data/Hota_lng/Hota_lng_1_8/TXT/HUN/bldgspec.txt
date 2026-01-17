@@ -65,8 +65,8 @@ Harci Tudósok Akdémiája	Az Akadémia +1000 TP-t ad a látogató hõsöknek (hõsönként
 A Föld Védelmezõje	A Föld Védelmezõje növeli a heti lényszaporulatot 50%-kal, napi további 5000 aranyat ad a kincstárba és 12-vel növeli az ostromlott hõs Varázserejét.	
 Nyersanyagraktár	A Nyersanyagraktár napi +1 kénkövet ad.	
 Menekülõjárat	Ostrom során a várvédõ hõs elszökhet a menekülõjáraton keresztül.	
- Étkezde 	Az Étkezde növeli a heti Goblin-szaporulatot 8-cal.	
- Étkezde 	Az Étkezde növeli a heti Hobgoblin-szaporulatot 8-cal.	
+ Étkezde 	Az Étkezde növeli a heti  Manó szaporulatot 8-cal.	
+ Étkezde 	Az Étkezde növeli a heti Vészmanó szaporulatot 8-cal.	
 		
 Rabszolgakereskedõk	A Rabszolgakereskedõk Céhében eladhatod egységeidet.	
 Nyílvetõ-raktár	Ezzel a Kovácsmûhely-fejlesztéssel csapataidnak már Nyílvetõt is vehetsz.	
