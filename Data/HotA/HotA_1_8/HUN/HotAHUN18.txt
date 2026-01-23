@@ -18034,7 +18034,7 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Prémvadász Kunyhó}
 
-A hóba temetett kunyhóban turkálva találsz egy zsák aranyat, amit valaki itt rejtett el..""
+A hóba temetett kunyhóban turkálva találsz egy zsák aranyat, amit valaki itt rejtett el.""
 ""{Prémvadász Kunyhó}
 
 A hóba temetett kunyhóban több egységet is találsz, akik itt várják, hogy a hóvihar elvonuljon. Szeretnéd magaddal vinni õket?""
@@ -22331,7 +22331,7 @@ Text 4: ""
 Text 5: ""
 Text 6: "# Hosszú mûveletnév leírások
 Szekvencia
-Ellenõrizze az állapotot, és az eredménytõl függõen hajtsa végre a mûveleteket. Utasítás. További Ha-Akkor ágak adhatók hozzá az \Ág Hozzáadása\ opcióval..
+Ellenõrizze az állapotot, és az eredménytõl függõen hajtsa végre a mûveleteket. Utasítás. További Ha-Akkor ágak adhatók hozzá az \Ág Hozzáadása\ opcióval.
 Az eredménytõl függõen rögzítse az egyik értéket.
 A változó értékének módosítása
 Játékos erõforrásainak módosítása
