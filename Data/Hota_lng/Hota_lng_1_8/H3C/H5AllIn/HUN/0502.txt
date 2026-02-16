@@ -139,7 +139,7 @@ Kraken Bay
 Idõzített események:
 
 Név:
-Erõsítés a Pawn számára
+Erõsítés Pawn számára
 Üzenet:
 Új emberek érkeztek a Kraken Bay-be, akiket a jadame-i barátaim küldtek.
 
@@ -285,21 +285,13 @@ Alacsony nehézségi szintû szövetséges bónusz.
 Üzenet:
 Óvakodj a meglepetésszerû támadásoktól!
 
-(103, 25, 0) ***Esemény***
-Üzenet:
-Bejegyzés Dargem naplójából:		"Ma egy nagyon szörnyû álmom volt! Abban, egy hegyek közé beékelõdött csillagvizsgálóban dolgoztam. Hatalmas távcsövekkel volt felszerelve, amelyek egy kristálygömbre továbbították az információkat. Hirtelen valami elromlott a teleszkópokkal: a távcsövek adása dadogni kezdett. Odakint éjszaka volt, és én nagyon megijedtem, de meg kellett néznem a távcsöveket, hogy kiderítsem, mi a baj. Reszkettem a rémülettõl és a gondolattól, hogy az éjszaka közepén kimerészkedjek a hegyekbe!  Az istállóban volt egy póni, amin kilovagolhattam a sötét éjszakába. Éppen fel akartam ülni rá, amikor megbotlottam, majd elestem és így felébredtem. Milyen jól éreztem magam, miután rájöttem, hogy ez csak egy álom volt!"
-
 (46, 105, 0) ***Esemény***
 Üzenet:
 Bejegyzés Dargem naplójából:		"Mintha a semmibõl bukkant volna elõ egy hajó. Ahogy közelebb értünk, valaki a fedélzetén hangosan kiáltotta: 'De Spanjaarden!', majd a hajó egyszerûen eltûnt! Mit jelentenek ezek a szavak? Soha nem hallottam még ilyet. Bizonyára a legendás Repülõ Jadameannal találkozhattunk — azt mondják, balszerencsét hoz."
 
 (103, 0, 0) ***Jel***
 Üzenet:
-Hallgasd az üresség hangjait...
-
-(23, 72, 0) ***Esemény***
-Üzenet:
-Bejegyzés Dargem naplójából:		"Már messzirõl észrevettem azt az élénk színû sátrat. Azt hittem, talán a kulcsmesteré lehet, valamiért nem volt jelölve a térképemen - de meglepõen kicsi volt, ami összezavart. Aztán egy furcsa kinézetû, õsz hajú, különös öltözetû férfi jelent meg valahonnan. Amikor meglátott minket, integetett, majd beszaladt a sátorba. Éppen amikor rákiáltottam, hogy "Ki vagy te?", a sátor eltûnt a semmibe! Alaposan átkutattuk a környéket, de sem az öregembernek, sem a kék sátornak nem találtuk nyomát... Valami értékes dolog azonban ott hevert a földön: bizonyára elejtette."
+Hallgasd az üresség hangjait... 
 
 (18, 38, 0) ***Esemény***
 Üzenet:
@@ -312,6 +304,14 @@ Néha, ahol egy hely teljesen üresnek tûnik, ott valami érdekes rejtõzhet.
 (62, 12, 0) ***Esemény***
 Üzenet:
 Bejegyzés Dargem naplójából:		"Ma találkoztam egy Lex nevû híres tudóssal. A tábortûznél ültünk, és történeteket meséltünk. Lex elmondta, hogy valahol a világok közötti ûrben hatalmas kõdarabok repkednek, amelyeken emberek és más lények élnek - és úgy tûnik, ezek a kövek új világokat alkotnak, mint a miénk is. Hogy õszinte legyek, nekem úgy hangzott, mint egy õrült zagyvasága. Repülõ kövek? Ezek nehezek, és óhatatlanul lezuhannak! Mindazonáltal, némi gondolatébresztõnek megfelel."
+
+(23, 72, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Már messzirõl észrevettem azt az élénk színû sátrat. Azt hittem, talán a kulcsmesteré lehet, valamiért nem volt jelölve a térképemen - de meglepõen kicsi volt, ami összezavart. Aztán egy furcsa kinézetû, õsz hajú, különös öltözetû férfi jelent meg valahonnan. Amikor meglátott minket, integetett, majd beszaladt a sátorba. Éppen amikor rákiáltottam, hogy "Ki vagy te?", a sátor eltûnt a semmibe! Alaposan átkutattuk a környéket, de sem az öregembernek, sem a kék sátornak nem találtuk nyomát... Valami értékes dolog azonban ott hevert a földön: bizonyára elejtette."
+
+(103, 25, 0) ***Esemény***
+Üzenet:
+Bejegyzés Dargem naplójából:		"Ma egy nagyon szörnyû álmom volt! Abban, egy hegyek közé beékelõdött csillagvizsgálóban dolgoztam. Hatalmas távcsövekkel volt felszerelve, amelyek egy kristálygömbre továbbították az információkat. Hirtelen valami elromlott a teleszkópokkal: a távcsövek adása dadogni kezdett. Odakint éjszaka volt, és én nagyon megijedtem, de meg kellett néznem a távcsöveket, hogy kiderítsem, mi a baj. Reszkettem a rémülettõl és a gondolattól, hogy az éjszaka közepén kimerészkedjek a hegyekbe!  Az istállóban volt egy póni, amin kilovagolhattam a sötét éjszakába. Éppen fel akartam ülni rá, amikor megbotlottam, majd elestem és így felébredtem. Milyen jól éreztem magam, miután rájöttem, hogy ez csak egy álom volt!"
 
 (20, 45, 1) ***Titok Kunyhó***
 Üzenet:
@@ -340,4 +340,5 @@ Bónusz a maximális nehézségi szinthez
 Üzenet:
 Bónusz a maximális nehézségi szinthez
 
+===== Kiterjesztett események =====
 ===== Fájl vége =====

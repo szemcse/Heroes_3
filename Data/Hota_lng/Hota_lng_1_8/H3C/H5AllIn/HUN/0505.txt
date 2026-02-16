@@ -143,7 +143,7 @@ Itt él egy mágus ogre, akit Tündérsárkányok zaklatnak: úgy tûnik, vonzza õket a 
 Amíg a sárkányok életben vannak, nincs jutalom.
 Az ogre nagyon örül, hogy nyugodtan folytathatja a mágiatanulmányokat. Jutalmul adni akar nekem valamit, ami számára már haszontalan.
 
-(23, 58, 0) ***Hobgoblin***
+(23, 58, 0) ***Vészmanó***
 Üzenet:
 Azért gyûltünk itt össze, hogy dalokat énekeljünk és körtáncot járjunk - te zavarsz minket ebben, kalózfiú!
 
@@ -271,7 +271,7 @@ Méltó vagy immáron! Add nekünk a madaras kitüntetést, és lépj be csarnokainkba.
 Üzenet:
 Hé, te! Mit szólnátok, ha sünökké változnátok? A mi nyilaink meg tudják csinálni ezt, nem probléma!
 
-(38, 9, 0) ***Kobold***
+(38, 9, 0) ***Ír Manó***
 Üzenet:
 Oho, kisfiam!
 
@@ -409,7 +409,7 @@ Mi lehet kellemetlenebb, mint egy megelevenedett kõ, ami sárkánynak képzeli magá
 Üzenet:
 Mik ezek a rémálomszerû lények egy õrült álmából?!
 
-(5, 31, 0) ***Skorpiko***
+(5, 31, 0) ***Skorpikór***
 Üzenet:
 Mit keresnek itt a Skorpikók? Valami arra kényszeríthette õket, hogy elhagyják a barlangokat.
 
@@ -425,7 +425,7 @@ Ezzz a miii gyûrûnk!
 Üzenet:
 Itt még az út macskakövei is kegyetlenek!
 
-(70, 61, 0) ***Kobold***
+(70, 61, 0) ***Ír Manó***
 Üzenet:
 Hé, haver! Pont olyan arcod van, mint... mint amit egy sírkövön látunk! Hahaha!
 
@@ -621,4 +621,5 @@ Biztosan valami különösen értékes foglyot tartanak fogva ebben a börtönben. Külö
 Üzenet:
 Köszönjük, hogy játszottál a kampányunkkal! Remélem, élvezted.
 
+===== Kiterjesztett események =====
 ===== Fájl vége =====

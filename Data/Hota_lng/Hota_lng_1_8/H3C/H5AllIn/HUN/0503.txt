@@ -278,4 +278,5 @@ Kreh, egy lázadó manó, Bracadából a barlangokba szökött. Azt mondják, hogy a mai
 Üzenet:
 "Hé, kalózfiú! Ha több varázserõt akarsz, akkor velem kell üzletelned. Kreh vagyok."	"Mi a fene? Ki az a Kreh? Hess, te kis csicska!"	"Nézd csak, kalózfiú!"  A kobold leugrott a gombáról, tapsolt a kezével, és egy egész sereg jelent meg körülötte.
 
+===== Kiterjesztett események =====
 ===== Fájl vége =====
