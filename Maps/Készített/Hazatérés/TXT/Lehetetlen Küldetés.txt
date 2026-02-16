@@ -1,0 +1,87 @@
+===== Térkép neve =====
+Lehetetlen Küldetés
+
+===== Térkép leírása =====
+A sikerhez nem kell mást tenned, mint legyõzöd a Sárkánykirálynõt!	Nem lesz egyszerû......	Készítette: Whiteshark
+
+===== Események =====
+
+Név:
+Bevezetõ
+Szöveg:
+A jó és a rossz õsidõk óta küzd egymással. Roland király jelenleg a végsõ ütközetre készül seregével a gonosz Sárkánykirálynõ és csatlósai ellen. Vidd gyõzelemre õket de vigyázz, ne veszítsd el a királyt!
+
+===== Idõzített események =====
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(9, 3, 0) ***Castle***
+
+Idõzített események:
+
+Név:
+help1
+Üzenet:
+Üdv  Bátor Hõs!
+
+Név:
+anyag
+Üzenet:
+Egy kis nyersanyag a túléléshez!
+
+Név:
+adó
+Üzenet:
+Rossz hír! Adófizetés!
+
+Név:
+épület
+Üzenet:
+Ajándék a néptõl.
+
+(55, 67, 0) ***Esemény***
+Üzenet:
+Hello Bátor Hõs! Ha eddig eljutottál, megérdemled hogy segítsünk Neked!
+
+(63, 71, 0) ***Esemény***
+Üzenet:
+Utad vége felé közeledsz! Lépd át az Alvilág kapuját!
+
+(22, 4, 0) ***Azúrsárkány***
+Üzenet:
+A kincsekhez vezetõ út nehéz.
+
+(29, 38, 0) ***Esemény***
+Üzenet:
+Megérte eljönnöd ide?
+
+(30, 36, 0) ***Esemény***
+Üzenet:
+Alaposan nézz szét itt!
+
+(57, 22, 0) ***Esemény***
+Üzenet:
+Ha gyõzöl, jutalmad nem marad el! Nem lesz könnyû!
+
+(65, 68, 1) ***Küldetésõrzõ***
+Üzenet:
+Végezz Xeronnal, csak akkor jutsz át!
+Öld meg Xeront!
+Most már mehetsz utadra!
+
+(45, 54, 1) ***Pandora Szelencéje***
+Üzenet:
+
+
+(51, 49, 1) ***Pandora Szelencéje***
+Üzenet:
+
+
+(55, 57, 1) ***Esemény***
+Üzenet:
+A szelencéket õrzõk talán Veled vannak....
+
+===== Kiterjesztett események =====
+===== Fájl vége =====

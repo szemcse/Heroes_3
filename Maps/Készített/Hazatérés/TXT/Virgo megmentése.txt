@@ -1,0 +1,120 @@
+===== Térkép neve =====
+Virgo megmentése
+
+===== Térkép leírása =====
+A feladatod megtalálni az Életelixírt és elvinni Mystasia- ba.	Készítette:Whiteshark
+
+===== Események =====
+
+===== Idõzített események =====
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(70, 69, 0) ***Tower***
+Név:
+Mystasia
+
+Igézõ látogatása:
+Név:
+Cicciolina
+
+(3, 4, 0) ***Castle***
+Név:
+Erektilia
+
+Idõzített események:
+
+Név:
+Bevezetõ
+Üzenet:
+Jó reggelt ! Hát eljött a nagy nap! Itt az ideje útra kelned és megkeresned Virgo Intacta királynõt! Tedd Õt magadévá és cserébe megajándékoz majd! Utadon sok lénnyel találkozol majd, ezért csak erõs sereggel indulj el. Sok szerencsét! Járj sikerrel utadon!
+
+Név:
+Segítség
+Üzenet:
+Feladatod teljesítésében segítségedre lesz Vaginia királynõ, akit a gonosz sárkányok rabszolgaként tartanak! Mentsd meg Õt!
+
+Név:
+Nyersanyag
+Üzenet:
+Egy kis nyersanyag érkezett.
+
+Név:
+Sereg
+Üzenet:
+Üdvözlet Bátor hõs érkezett egy kis erõsítés!
+
+(53, 0, 0) ***Börtön***
+Név:
+Vaginia
+
+(36, 9, 0) ***Kristálysárkány***
+Üzenet:
+Á, a híres Viagra király! Hajókázni támadt kedved? Próbáld meg!
+
+(120, 98, 0) ***Rozsdasárkány***
+Üzenet:
+Tiltott területre tévedtél!
+
+(85, 12, 0) ***Azúrsárkány***
+Üzenet:
+A Sárkányok rabszolgája leszel!
+
+(138, 8, 0) ***Sátán***
+Üzenet:
+Megnyúzunk, megfõzünk és jót lakmározunk Belõled!
+
+(119, 17, 0) ***Hatalmas Lich***
+Üzenet:
+Nyugodj Békében gyarló lélek!
+
+(124, 43, 0) ***Szellemsárkány***
+Üzenet:
+A Fetish Szigetre tévedtél! Fordulj vissza vagy halál fia vagy!
+
+(53, 2, 0) ***Kristálysárkány***
+Üzenet:
+Ki az ,ki kedvenc Dominánkat akarja?!
+
+(53, 1, 0) ***Esemény***
+Üzenet:
+Keleten létezik egy érdekes sziget. Fethis, erõs várakkal és lényekkel! Ott toborozhatsz sereget!
+
+(101, 43, 0) ***Arkangyal***
+Üzenet:
+Na végre, csakhogy idetaláltál Urunk!
+
+(22, 117, 0) ***Tower***
+Név:
+Voyeur
+
+Igézõ látogatása:
+Név:
+Glans
+
+(140, 82, 0) ***Arany Sárkány***
+Üzenet:
+Angyalokat akarsz? Gyere csak....
+
+(143, 83, 0) ***Arkangyal***
+Üzenet:
+Csakhogy itt vagy Viagra !
+
+(128, 125, 0) ***Dungeon***
+
+Nagyúr látogatása:
+Név:
+Analinda
+
+(72, 72, 0) ***Esemény***
+Üzenet:
+Megérkeztél hát célodhoz! Ha mindent jól csináltál / megtaláltad a Szüzet / akkor most birtokodban van az Élet Varázsitala! Most már csak egy feladatod van hátra.......
+
+(72, 52, 1) ***Börtön***
+Név:
+VirgoIntacta
+
+===== Kiterjesztett események =====
+===== Fájl vége =====

@@ -1,0 +1,79 @@
+===== Térkép neve =====
+A Nixek szabadsága
+
+===== Térkép leírása =====
+Tark nix vezérnek 30 nix foglyot kell kiszabadítania a Nighon urak rabszolgaságából. A küldetés elveszik, ha Tark vereséget szenved. A maximális hõsszint 24. A gyõzelem után Tark folytatja a kampány következõ forgatókönyvét.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Tark figyelte, amint a kalózok a hadseregüket és az erõforrásaikat a hajóikra rakják, de gondolatai a társai körül forogtak. Sok éven át titokban tartották létezésüket a világ többi része elõtt, most meg sokan közülük meghaltak, vagy börtönben vannak.	– Tark, követsz minket, vagy más terveid vannak? Hálásak vagyunk a segítségedért és az embereid segítségéért... - kérdezte Bidley.	– Én vagyok az, akinek hálásnak kell lennem - szakította félbe Tark.	– Megmutattad nekem, hogy van élet a birodalmamon túl is. Már csak az a teendõm, hogy felszabadítsam a népemet. Tudom, hol vannak - folytatta a hüllõvezér.	– Talán segíthetnénk? - ajánlotta fel Bidley.	– Nem! Egy út áll elõtted, nekem pedig egy másik! Meg kell mentenem a népemet! Ne feltételezd, hogy az összes nix, akivel találkozol, tudni fog rólad vagy segíteni fog neked. Ugyanannyi gazember van a nixek között, mint az emberek között - válaszolta Tark, és a tenger felé fordult.	– Találkozunk még? - kérdezte Bidley.	– Valószínûleg - válaszolta a nix.	– Ha visszatérek, megkereslek. Ha nem, akkor felejts el engem.		Ezzel Tark besétált a vízbe, amíg az el nem érte a derekát, majd lemerült, és eltûnt a szem elõl.
+
+Név:
+1-2. nap
+Üzenet:
+Tark sokáig úszott, majd végül elérte a varázslóurak földalatti birodalmát. Egy kis nix-kolónia, amely független volt a szigeti fejedelemségtõl, ahol Tark uralkodott, ezekben a víz alatti barlangokban élt, amíg a varázslóurak el nem hódították és rabszolgasorba nem taszították õket. Itt volt az ideje, hogy felszabadítsa ezeket a nixeket, és megmutassa nekik, ki az igazi uralkodójuk. Tark volt az utolsó a nix hercegek õsi sorában. Valami szörnyûség történt a fajukkal: valamilyen rejtélyes betegség következtében sok tojásuk üresre és élettelenre sikeredett. Ennek következtében népességük lassan megfogyatkozott, és az egykor virágzó nép egy maroknyi nixre csökkent, akik egyetlen kis szigetet és a környezõ vizeket uralták. 	Bár a felületes szemlélõ számára lassan mozgó és lassan gondolkodó hüllõnek tûnt, Tark gyorsan szívta magába az információkat. Tudta, hogy a Nighon urai éppen polgárháborút vívnak. Ha betörne a földjeikre, és elfoglalná az egyik városukat, aligha figyelnének rögtön oda.
+
+Név:
+8. nap
+Üzenet:
+Tark tudta, hogy nem lesz képes mindenkit megmenteni, de talán a többségnek segíthet kijutni. Azoknak, akiket nem tud megmenteni, menekülniük kell, és gondoskodniuk kell magukról, ha életben akarnak maradni. Miután kihallgatta az újonnan elfoglalt város civiljeit, Tark megtudta, hogy a nagyurak a harccal vannak elfoglalva, és egy ideig nem fogják észrevenni a város elvesztését. Ráadásul Tark megtudta, hogy az elfogott nixek az egy szinttel lejjebb lévõ barlangokban dolgoznak. A bûzös gõzök, amelyekkel azok az alagutak tele voltak, halálosak voltak a minotauruszokra, az emberekre és a barlanglakókra, de a nixekre alig hatottak. A varázslóurak különösen nagyra értékelték nix rabszolgáikat e tulajdonságuk miatt.
+
+Név:
+15. nap
+Üzenet:
+Sötétség és fülledt levegõ van ezekben a barlangokban. Tark úgy döntött, hogy új, jobb otthont keres a népének. Talán azok a kalózok, akik bármennyire is sokat utaznak, tudnak egy nyugodt helyet, ahol letelepedhetnek - valahol, ahol a nixek gyökeret ereszthetnek, és lassan helyreállíthatják a civilizációjukat anélkül, hogy a betolakodóktól kellene tartaniuk. Tark ezért úgy döntött, hogy csatlakozik Bidleyhez és követõihez, amint kiszabadította rabszolgasorba taszított rokonait.
+
+Név:
+18. nap
+Üzenet:
+Elõbb-utóbb ezek az urak véget vetnek a civakodásuknak, és felfigyelnek elveszett elõõrsükre. Fontos, hogy felkészüljünk az érkezésükre, és olyan ellencsapást készítsünk elõ, amelybõl nem tudnak majd felépülni.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(52, 33, 0) ***Titok Kunyhó***
+Üzenet:
+Egy távoli táborban haldoklik egy nix. Sok vért vesztett, de még mindig van mód az életének megmentésére.
+A haldokló nix megmentésére tett erõfeszítéseink továbbra is sikertelenek.
+Ha a haldokló lénybe friss vért csepegtetnek, az felépül, és talán még fegyvert is képes lesz fogni.
+
+(12, 57, 0) ***Jel***
+Üzenet:
+Déli alagút
+
+(28, 28, 0) ***Jel***
+Üzenet:
+Katakombák
+
+(63, 44, 0) ***Minotaurusz***
+Üzenet:
+“A gyíkok megszöktek! Vágjátok õket!!”
+
+(58, 48, 0) ***Minotaurusz Király***
+Üzenet:
+“Menekülnek a rabszolgák! Támadás!”
+
+(66, 65, 0) ***Esemény***
+Üzenet:
+– Nem hiszek a szememnek! Te vagy a királyi örökös!	– Tark herceg vagyok.	– Meghajolok elõtted, hercegem. Megszöktem az alsó szinten lévõ mérgezõ bányákból. Amikor a nighoni háború elkezdõdött, lazábbra vették az uralmukat a rabszolgák felett. De miért jöttél, Tark herceg?	– Az a kötelességem, hogy a lehetõ legtöbb rokonunkat kiszabadítsam.	– Akkor hadd csatlakozzak hozzád. Tapasztalt harcos vagyok, és van egy páncélom, amit egy megölt minotaurusztól vettem el. Készen állok az életemet adni népünk megmentéséért – mondta a harcos, és letérdelt.
+
+(47, 38, 0) ***Íjász***
+Üzenet:
+– Eltévedtünk ezekben az átkozott barlangokban, és mintha ez nem lenne nekünk még elég, most meg kell küzdenünk veletek, furcsa szörnyekkel!
+
+(43, 35, 1) ***Palack-posta***
+Üzenet:
+Szerzõ: {F a t a l i s t}	Fordította: {S z e m c s e}
+
+(35, 27, 1) ***Jel***
+Üzenet:
+Vigyázz! Mérgezõ aknák. A hosszan tartó itt tartózkodás veszélyes.
+
+===== Kiterjesztett események =====
+===== Fájl vége =====

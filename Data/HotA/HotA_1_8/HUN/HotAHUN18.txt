@@ -1713,7 +1713,7 @@ Text 5: "{Felderítés}
 
 6 szintenként növeli a Felderítési sugarat 1-gyel."
 Text 6: "Beatrice"
-Text 7: "Beatrice tehetséges követõje volt az erathiai felderítõknek - nem sokat engedett a híres elf útkeresõknek. A lány tehetségére maga Catherine figyelt fel, és így lett az egykori felderítõbõl tábornok. Képességei azonban még mindig megmaradtak, Õ az egyik legjobb a szakmájában."
+Text 7: "Beatrice tehetséges követõje volt az erathiai felderítõknek - nem sokat engedett a híres tünde útkeresõknek. A lány tehetségére maga Catherine figyelt fel, és így lett az egykori felderítõbõl tábornok. Képességei azonban még mindig megmaradtak, Õ az egyik legjobb a szakmájában."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -2438,7 +2438,7 @@ Text 5: "{Íjászat}
 
 Szintenként 5% bónuszt kap az Íjászat képzettségi százalékához."
 Text 6: "Neia"
-Text 7: "Ha egyetlen lövéseddel elvéti a célt, az gyakran éhenhalást jelenti. Neia, aki Vori legzordabb részérõl, a Volee-gleccserrõl származik, ezt nagyon jól tudja; ez a sors sok vadászt ért a törzsébõl. Õ az egyetlen élõ Vori elf, aki az erõs lándzsáját íjjal helyettesíti, de Neia célzóképessége olyan tökéletes, hogy még egy könnyû nyíl is biztos halált jelent."
+Text 7: "Ha az egyetlen lövésed elvéti a célt, az gyakran az éhenhalást jelentheti. Neia, aki Vori legzordabb részérõl, a Volee-gleccserrõl származik, ezt nagyon jól tudja; ez a sors sok vadászt ért a törzsébõl. Õ az egyetlen élõ Vori tünde, aki az erõs lándzsáját íjjal helyettesíti, de Neia célzóképessége olyan tökéletes, hogy még egy könnyû nyíl is biztos halált jelent bárki számára."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -4005,7 +4005,7 @@ Ez a komponensekbõl összerakott mûtárgy alkotóelemeire bontható.
 #308
 Ez a következõ kombinációs lelet egyik összetevõje: %s.
 #309
-Azt beszélik, hogy máshol a %s komponens más komponensekkel is kombinálható egy új mûtûrggyá, de itt semmi ilyesmit nem lehet most tenni.
+Azt beszélik, hogy máshol a %s komponens más komponensekkel is kombinálható egy új mûtárggyá, de itt semmi ilyesmit nem lehet most tenni.
 #310
 Könnyû
 #311
@@ -10006,7 +10006,7 @@ Text 7: "# További tárgyak az RMG számára
 "
 Text 8: "{Mágikus misztérium szentélye}
 
-Egy õsi szentélyre bukkansz, amelyet aszketikus remeték egy csoportja szokott látogatni. A védelmedért cserébe beleegyeznek, hogy megtanítanak egy varázslatra -"
+Egy õsi szentélyre bukkansz, amelyet aszketikus remeték egy csoportja szokott látogatni. A védelmedért cserébe beleegyeznek, hogy megtanítanak egy varázslatra, amelynek a neve - "
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"

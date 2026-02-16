@@ -1,0 +1,69 @@
+===== Térkép neve =====
+Hajótörés
+
+===== Térkép leírása =====
+Találd meg a tárgyakat, melybõl összerakhatod a Mesterlövész íjjat!		Készítette:Whiteshark
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetõ
+Üzenet:
+Hosszú, viszontagságos út után már alig vártad hogy hazatérj. Alig egynapi távolságra voltál már, amikor hatalmas vihar kerekedett a tengeren. Hajód zátonyra futott egy idegen sziget partjainál. Összeszeded maradék embereid és elindulsz felderíteni a szigetet. Körülötted rengeteg csontváz és emberi maradvány. Hamarosan rájössz, hogy vérszívó Vámpírok százai vesznek körül.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(8, 2, 0) ***Vámpírúr***
+Üzenet:
+Véér... frissss...  vééér..
+
+(14, 13, 0) ***Vámpírúr***
+Üzenet:
+Friss husi!  Nyamm, nyamm....
+
+(11, 6, 0) ***Vámpírúr***
+Üzenet:
+Már látom is innen az egyik darabot amit meg kell szereznem...
+
+(18, 2, 0) ***Vámpírúr***
+Üzenet:
+Még élsz ? Nem sokáig!
+
+(32, 3, 0) ***Vámpírúr***
+Üzenet:
+Még egy darab. Szerezd hát meg!
+
+(5, 28, 0) ***Mesterlövész***
+Üzenet:
+Még épp idõben érkeztél, már nemsokáig bírtuk volna!
+
+(27, 35, 0) ***Vámpírúr***
+Üzenet:
+Az átjáró õrzõi vagyunk. Most kiszívjuk a véred!
+
+(32, 16, 0) ***Vámpírúr***
+Üzenet:
+Vééér....
+
+(33, 9, 0) ***Vámpírúr***
+Üzenet:
+Husi...
+
+(7, 1, 1) ***Angyal***
+Üzenet:
+Ime az utólsó darab!
+
+(7, 2, 1) ***Vámpírúr***
+Üzenet:
+Ó, a vacsoránk...
+
+(28, 7, 1) ***Mesterlövész***
+Üzenet:
+Megmentetted az életünk! Had tartsunk Veled!
+
+===== Kiterjesztett események =====
+===== Fájl vége =====
