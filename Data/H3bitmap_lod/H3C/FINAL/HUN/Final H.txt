@@ -1,0 +1,193 @@
+===== Térkép neve =====
+Invázió
+
+===== Térkép leírása =====
+Gyõzd le a Sandrót és az élõhalott serege útjában álló kószákat és barbárokat. Azonban ha Sandro vereséget szenved, a küldetés elveszett. Sandro 40. szintig juthat el, de tapasztalatait, képességeit és varázslatait átviszi majd a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+AvLee, Erathia és Krewlod csapatait egyszerûbb volt kisöpörni Deyjából, mint hitted volna. Az új feladatod bonyolultabb lesz. Egy olyan támadáshoz, amely nem hagyja védtelenül a határaidat, mindkét határt meg kell rohamoznod. Finneas azt akarja, hogy azonnal hajtsd végre az ügyet. Nagyon megható, hogy így bízik a képességeidben, de eljön majd az idõ, amikor nem akarod már személyesen vezetni ezeket a csatákat.
+
+Név:
+4. nap
+Üzenet:
+Rossz hírek érkeztek porba és csontokba csomagolva. AvLee területének ellenõrzése közben kémeid összefutottak az Erdõõrség néven ismert elit egységgel. Azt tudod, hogy Gelu, a félvér Vori tünde tagja ennek az egységnek, de biztos vagy benne, hogy valaki más vezeti. A kérdés az, hogy akkor kicsoda... de nincs kitõl megkérdezned.
+
+Név:
+10. nap
+Üzenet:
+Finneas üzenetet küldött, olyan erõszakos és parancsolgató tónusban, mintha õ irányítaná a helyzetet. Pár hónapra kiteszed a lábad, és rögtön azt hiszi, hogy õ vezeti a mûsort! Valószínûleg a királyi tanács által suttogott marhaságok eljutottak az üres fejéig. Nem kedveled az ilyen magatartást, és nem is engeded meg. Szerencsére jelenléted szükségét érzik a tanácsban, tehát gyorsan oda kell menned, hogy teljesítsd pár kötelességedet. Finneast figyelmeztetni kell, hogy kié is itt a hatalom.
+
+Név:
+17. nap
+Üzenet:
+Nagy élvezet volt megjelenni a tanács közepén és megzörgetni Finneas csontjait Meglehetõsen zavarta, hogy lát, és hogy idõ elõtt fel kell oszlatnia a tanácsot, hogy összeszedhesse magát. A kastély körüli pletykák nem kedvezõek. Magánlakosztályában emlékeztetted Finneast, hogy te juttattad fel a trónra, és el is tudod onnan mozdítani. Ujjlenyomataid bélyege mostantól örökre a mellkasán fog díszelegni, ez egy kis varázslat, amit még régen tanultál. Finneas nem fog többet szembehelyezkedni veled. 
+
+Név:
+20. nap
+Üzenet:
+Az Erdõõrség kapitánya Caleb, egy kimagaslóan tehetséges tünde. Ha meg tudnád ölni, talán megszûnnének ezek a fosztogató hadjáratok. Minden héten egyre vakmerõbbek lesznek, mintha csak a kétségbeesés vezetné õket. Öld meg a vezetõjüket, és a maradék szét fog hullani. 
+
+Név:
+25. nap
+Üzenet:
+Kémeid megerõsítették a félelmeidet. A barbár Yog kerestetni kezdte az Angyali Szövetség nevû ereklyét. Amint megérkeznek az erõsítéseik, szükségszerûen maguk is elindulnak a darabok keresésére. AvLee valószínûleg két héten belül tud erõsítést küldeni. Gryphonheart kezd aggódni, és embereket küldött, hogy megtudják, mennyi katona kell AvLeenek, és miért a barbárok védik az erathiai határt. Ennyi haderõvel az ellentétes oldalon, gyorsan meg kell hódítanod ezt a területet. Ha az a négy hõs képes összegyûjteni az Angyali Szövetség darabjait, lehet, hogy te fogsz veszíteni.
+
+Név:
+30. nap
+Üzenet:
+Azt gyanítod, hogy Caleb Erdõvölgyben tartózkodik, valahol északra és keletre a fõ váraidtól. Egy kis szerencsével egész könnyen elkaphatod ott. Állítólag õ hordozza a Mesterlövész Íját, és ez az erõs íj jó használatot tehetne neked.
+
+Név:
+39. nap
+Üzenet:
+AvLee seregei megérkeztek, és fognak most némi problémát okozni. Okos lenne gyorsan biztosítani ezt a területet, és visszaszorítani a seregeiket, hogy erõik megfogyatkozzanak. Nem lenne jó ötlet tovább húzni ezt a csatát.  
+
+Név:
+53. nap
+Üzenet:
+Nem fogsz gyõzni, ha ez így megy tovább. Erathiából is seregek érkeztek, és már el is érték a váraikat. Jól ellennél még több erõsítés és az Angyali Szövetség nélkül is. 
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(12, 5, 0) ***Rampart***
+Név:
+Szárnyaló Hegy
+
+Idõzített események:
+
+Név:
+Katonák
+Üzenet:
+Itt van pár katona a gépnek.
+
+(36, 4, 0) ***Rampart***
+Név:
+Csermelymezõ
+
+Idõzített események:
+
+Név:
+Katonák
+Üzenet:
+Itt van pár katona a gépnek.
+
+Név:
+Nyersanyag
+Üzenet:
+Tessék, egy kis nyersanyag.
+
+(65, 3, 0) ***Rampart***
+Név:
+Erdõvölgy
+
+Idõzített események:
+
+Név:
+Katonák
+Üzenet:
+Itt van pár katona a gépnek.
+
+(18, 66, 0) ***Stronghold***
+Név:
+Crag Otthona
+
+Idõzített események:
+
+Név:
+Nyersanyagok
+Üzenet:
+
+
+(26, 21, 0) ***Castle***
+Név:
+Hudson Vízesés
+
+Idõzített események:
+
+Név:
+Katonák
+Üzenet:
+Itt van pár katona a gépnek.
+
+(69, 15, 0) ***Rampart***
+Név:
+Ezüst Vízesés
+
+(48, 60, 0) ***Castle***
+Név:
+Worthington
+
+Idõzített események:
+
+Név:
+Katonák
+Üzenet:
+Itt van pár katona a gépnek.
+
+(32, 55, 0) ***Castle***
+Név:
+Thestlemore
+
+Idõzített események:
+
+Név:
+Katonák
+Üzenet:
+Itt van pár katona a gépnek.
+
+(5, 3, 0) ***Esemény***
+Üzenet:
+Épp egy kõbányát akarsz elfoglalni, és észre sem veszed, amint az Erdõõrség csendesen körbezár és rajtadüt. Nincs más választásod, védekezned kell.
+
+(67, 21, 0) ***Esemény***
+Üzenet:
+Ezüst Vízesés városa fekszik elõtted. Ahogy közelítesz a sziklás ösvényen, nyilvánvalóvá válik, hogy a vár jobban védett, mint gondoltad. Az Erdõõrség járõrözik erre, és minden oldalról támadnak rád.
+
+(13, 18, 0) ***Esemény***
+Üzenet:
+Amint átvonulsz seregeddel a területen, egy halk hang üti meg a füledet. Már késõ! Támad az Erdõõrség!
+
+(27, 2, 0) ***Esemény***
+Üzenet:
+Épp el akarod venni a malom aranyát, de nem hallod meg, amint a tündék csöndesen mögéd lopakodnak. Már nem tudsz menekülni, így hát megfordulsz, hogy szembenézz a támadóiddal.
+
+(12, 56, 0) ***Esemény***
+Üzenet:
+Abban a reményben, hogy kénre lelhetsz, félrehajtod a lombokat, de csak az Erdõõrséggel találod szembe magad. Nincs hova futnod, és megtámad az elit harci egység.
+
+(32, 57, 0) ***Esemény***
+Üzenet:
+Thestlemore-t csak néhány tünde védi, ezért csapdát gyanítasz. Mivel közel-távol senkit sem látsz, nagyon meglepõdsz, amikor szó szerint elõugranak a földbõl, és körbeveszik a csapataidat. Újra szembe kell nézned az Erdõõrséggel!
+
+(3, 8, 0) ***Esemény***
+Üzenet:
+Az Erdõõrség néhány itteni egysége nem veszi fel a versenyt a te seregeiddel. Azonban mielõtt csatába kezdenének veled, egyikük elrohan, hogy erõsítést hozzon. Nem tûnik jó ötletnek visszatérni ide, miután legyõzöd ezt a csapatot.
+
+(62, 5, 0) ***Esemény***
+Üzenet:
+Miután sikeresen átjutottál a határõrségen, még több ellenség vesz körül. Úgy tûnik, ezt a kis helyet hívja az Erdõõrség otthonának. A tündék egyike elõrelép, és így kiált: "Én vagyok Caleb. Nem fogsz legyõzni!" Arcodon vigyorral nyomulsz elõre, hogy megszabadítsd tõle a világot.
+
+(56, 65, 0) ***Esemény***
+Üzenet:
+Amíg az Alkemista Labor higanya után kutatsz, nem veszed figyelembe az ellenség tevékenykedését. Sajnos jobb lett volna, ha a felderítõidre hallgatsz, mert az Erdõõrség rád támad!
+
+(10, 44, 0) ***Stronghold***
+Név:
+Radstone
+
+Idõzített események:
+
+Név:
+Nyersanyagok
+Üzenet:
+
+
+===== Fájl vége =====

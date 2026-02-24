@@ -1,0 +1,96 @@
+===== Térkép neve =====
+Sandro haragja
+
+===== Térkép leírása =====
+Töröld el a térséget hódító hadakat. Azonban ha Sandro vereséget szenved, a küldetés elveszett. Sandro 40. szintig juthat el, de tapasztalatait, képességeit és varázslatait átviszi majd a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Néhány avleei kósza és pár Erathiában ügyködõ barbár hõsiessége minden ellenkezést eltörölt Finneas Vilmar trónralépésével szemben. Ezzel a szerencsés fordulattal gyorsan megkoronázták, és te kaptad azt a feladatot, hogy eltávolítsd a hódítókat. Kémeid már beépültek az ellenséges seregekbe, hogy kiderítsék, amit csak lehet. 
+
+Név:
+4. nap
+Üzenet:
+Kémeid üzeneteket küldtek, de sajnos nem jó híreket. Erathia, AvLee és Krewlod katonái is állomásoznak a várakban. A két sereg szövetséges, de valószínûleg gondjaik vannak a harci morállal. Nem lesz nehéz kihasználnod ezt a létfontosságú gyengeséget.  Az Elátkozott Csodamellvérttel és az Élõhalott Király Köpönyegével könnyedén lerohanhatod õket, és kikényszerítheted a támadókat a földjeidrõl.
+
+Név:
+9. nap
+Üzenet:
+Több információt is sikerült kijuttatni, és szinte nevetsz, amikor meghallod a híreket. Crag Hack, az agyatlan barbár csörtet feléd, azt remélve, hogy egyenként tépheti ki a tagjaidat. Még mindig akarja az aranyát, a rangját és a földjét. Ez már szinte nevetséges... szinte. Crag Hack erejét sosem érdemes alábecsülni. Mostani ténykedése megállította a betakarítást Erathiában, és összeállította a Harcos Szobrát, mellyel az erathiaiak népessége megállíthatatlanul növekedni fog. Ha rajtad múlik, Mr. Hack meg is fogja kapni azt a neki járó jutalmat.
+
+Név:
+12. nap
+Üzenet:
+Egy másik régi "barátod" is az ellenségeid közt van. Gem, a druida hölgy is fegyvert ragadott, és õ a felelõs Lord Fayette élõhalott seregének lemészárlásáért. Micsoda veszteség! Képes volt legyõzni az egész sereget, amit Lord Fayette-nek adtál, és megölt egy kiváló Halállovagot is. Nagy kár érte, rendes fickónak tûnt. De most már mindegy. Gem gyûjtötte össze neked az Élõhalott Király Köpönyegének darabjait. Természetesen Ethricnek is írt, tudatva vele a tartózkodási helyedet. Csinos kis lich lesz belõle.
+
+Név:
+16. nap
+Üzenet:
+Egy új egyén irányítja Crag Hack nyers erejét. A neve Yog. Vagy a kémeid fedeztek fel egy igazán érdekes egyéniséget, vagy túl sok gombát evett. Yog teljesen kék, és egy terjedelmes dzsinn jellemzõit mutatja. Forrásaid szerint régen varázsló volt, és egy párszor az Angyali Szövetséget is megemlítette. Nem nagyon érdekel, mi volt régebben, de hogy mi ez az új varázstárgy, az igen. Néhány éjszaka a könyvtárban hasznos idõtöltés lenne.
+
+Név:
+19.nap
+Üzenet:
+A kósza táborában levõ forrásaid újra jelentést küldtek, ezúttal a negyedik ellenfeledrõl. Ez még egy érdekes egyéniség, egy fehér tünde, Gelu. Elõször azt gondoltad, hogy albínó lehet, de lángoló haja alapján félvér Vori tünde. Ez a kósza egy különleges erathiai egység tagja, amely AvLeeben mûködik. Lord Falorel halála után kutatott, õ volt az a vámpír, aki sikeresen játszotta egy avleei Határúr szerepét... amíg meg nem mérgezted, mert túl befolyásossá vált. Most errõl a bosszantó kószáról is gondoskodnod kell, aki egyszer tett neked egy kis szívességet az avleei csapatok lefoglalásával. 
+
+Név:
+23. nap
+Üzenet:
+A könyvtári éjszakázások kifizetõdõnek bizonyultak. Megtudtad, mi az az Angyali Szövetség. Egy hatalmas kard, mely hat darabból áll össze, és általa a három ellenséges vár morálja nem romlik, függetlenül attól, hogy melyik hõs viseli a kardot. Rendkívül fontos, hogy ezek a hõsök ne induljanak a kard keresésére. Azzal együtt még esélyük lenne ellened.
+
+Név:
+26. nap
+Üzenet:
+Nyilvánvalóvá vált, hogy a támadókat ki tudod verni Deyjából, de a fõkolomposokat nem tudod elkapni. Vissza fognak vonulni a jobban felfegyverzett és kiképzett táboraikba, Deyja határain kívülre. De nem lényeges. Meg fogod õket hódítani, akárcsak Antagarich többi részét. Hamarosan, nagyon is hamarosan az egész világ ura leszel.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(2, 13, 0) ***Inferno***
+
+Idõzített események:
+
+Név:
+Nyersanyagok
+Üzenet:
+
+
+Név:
+Szörnyek
+Üzenet:
+
+
+(30, 7, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Nyersanyagok
+Üzenet:
+
+
+Név:
+Teremtmények
+Üzenet:
+
+
+(25, 6, 0) ***Esemény***
+Üzenet:
+Valahonnan érezted, hogy ez túl szép volt, hogy igaz legyen.
+
+(15, 16, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
+Nyersanyagok
+Üzenet:
+
+
+===== Fájl vége =====

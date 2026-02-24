@@ -390,9 +390,9 @@ Ez a hatalmas erejû kard + 3 támadás. + 3 védekezés. + 6 tudás. + 3 varázserõt a
 Angyali Szövetség																	x				R	"{Angyali Szövetség}
 
 Az Angyali Szövetség a komponensek hatásai mellett minden egységednek hangulatbüntetés nélkül ad lehetõséget arra, hogy jó és semleges városi egységeket keverj a csatában és +21-et ad a hõsnek minden elsõdleges képességére. Minden harc elején az Angyali Szövetség 10 körön keresztül mester Imádság varázslatot hajt végre."
-Halott Király Köpönyege																			x		R	"{Halott Király Köpenye}
+Élõhalott Király Köpönyege																			x		R	"{Élõhalott Király Köpönyege}
 
-Ha a hõs nem rendelkezik a nekromancia képességgel, a Halott Király Köpönyege a csatatéren halott ellenségek 30%-át csontvázként fogja feltámasztani. Ha a hõs már rendelkezik a Nekromancia képességgel, akkor a komponenshatásokat is beleszámítva ez a köpeny 30%-kal növeli a Nekromancia képességet, és lehetõvé teszi, hogy erõsebb élõhalott egységeket támasszon fel. A képesség szintje határozza meg, hogy milyen típusú halottakat támaszt fel.  
+Ha a hõs nem rendelkezik a nekromancia képességgel, az Élõhalott Király Köpönyege a csatatéren halott ellenségek 30%-át csontvázként fogja feltámasztani. Ha a hõs már rendelkezik a Nekromancia képességgel, akkor a komponenshatásokat is beleszámítva ez a köpeny 30%-kal növeli a Nekromancia képességet, és lehetõvé teszi, hogy erõsebb élõhalott egységeket támasszon fel. A képesség szintje határozza meg, hogy milyen típusú halottakat támaszt fel.  
 Alap: Zombik
 Haladó: Lelkek
 Mester: Lichek"

@@ -1,0 +1,117 @@
+Név:
+Unholy Alliance
+
+Leírás:
+Four heroes must uncover the plot brewing on the AvLee-Deyjan border and the Erathian-Deyjan border.  From there they must find the Angelic Alliance, invade Deyja and stop Sandro, the powerful lich who plans to conquer the world.
+
+
+Harvest - Unholy Alliance A
+
+Jobb-kattintásos szöveg:
+Like fields of wheat, the peasants of this area are harvested to swell the ranks of the undead.  There's no need to ask yourself why the undead would do such a thing.  Why pretend to know the ways of evil?  However, you can't shake the suspicion that something far more sinister is at work.
+
+Bevezetõ:
+A Necromancer is at work here.  Peasants all throughout this land are turning up as walking corpses.  But no noble or lord has come forward to put a stop to this.  I will take it upon myself to destroy this menace!
+
+
+Gathering the Legion - Unholy Alliance B
+
+Jobb-kattintásos szöveg:
+The town of Hartferd has remained independent because the two lords of this region have been too busy fighting each other to turn their greedy eyes on new territories.  Recent rumors place the Legion artifact in the vicinity, so life in Hartferd is likely to get a bit more complicated.
+
+Bevezetõ:
+On my way to visit some relatives in Erathia, I came across a village that had its sacred artifact, The Head of Legion, stolen.  The mayor wants the head back as well as the other pieces of Legion, if I can find them.  This is just what I need to lift my spirits, some fun!
+
+
+Search for a Killer - Unholy Alliance C
+
+Jobb-kattintásos szöveg:
+Gelu has been summoned to investigate the death of Lord Falorel.  Many believe poison is the cause.  But Gelu quickly discovers that Falorel was never among the living.  He was a vampire masquerading as an AvLee lord!
+
+Bevezetõ:
+This morning I learned Lord Falorel was dead, apparently from poison.  What was learned soon afterwards has sent shockwaves throughout all of AvLee.  He was actually a Vampire disguised as an Elvish warlord.  I must find out who poisoned him and how he came to such a high position within AvLee.
+
+
+Final Peace - Unholy Alliance D
+
+Jobb-kattintásos szöveg:
+Gem's employer, the AvLee border lord Fayette, has been killed by the Necromancers while on a secret mission.  Never able to leave an enemy defeated, the Necromancers have further humiliated Fayette by raising him as a Death Knight.  Gem can't accept this insult.  Lord Fayette's undead body must be destroyed to grant him final peace.
+
+Bevezetõ:
+When I went to tell Lord Fayette about Sandro tricking me, I learned he left on a mission into Deyja while I was searching for the boots and had not yet returned.  So I scryed for Lord Fayette and discovered his mission had gone horribly wrong.  He had been killed by the Necromancers and... and... resurrected as a Death Knight!  Curse all Necromancers!  There is one last service I can do for my lord.  I will grant his soul final peace by destroying the undead body chaining it to this world.  I owe him that much.
+
+
+Secrets Revealed - Unholy Alliance E
+
+Jobb-kattintásos szöveg:
+The presence of the Necromancers in Erathia is much stronger than you first anticipated.  It's apparent you can't win this battle alone, so you seek help.  Your choice of an ally was obvious, but Crag Hack wasn't easy to find.  It took even longer to convince him that these "spell casters" had to be stopped.  In the end, it was Crag Hack's unquenchable desire to smash undead that convinced him.
+
+Bevezetõ:
+We two Barbarians were glad to have found each other in this land of strangers.  Both of us are following the trail of the Necromancers, but I am shocked that their actions seem to have gone unnoticed by Erathian leaders.  Crag was not interested in investigating my concern further until I mentioned his glorious battle.  That always works with Barbarians like him.
+
+
+Agents of Vengeance - Unholy Alliance F
+
+Jobb-kattintásos szöveg:
+Gelu and Gem have been ordered by the Council of Elders to avenge the murders of Lord Fayette and the numerous other victims of the Necromancers.  Their goal lies through Deyja toward the Erathian border and the Necromancer's Castle, where information about Lord Fayette's death is sure to be found.
+
+Bevezetõ:
+Several days ago the AvLee Council of Elders commanded Gem and myself to avenge the deaths of Lords Falorel, Lord Fayette, the Dragon Lords and all the other victims of the Necromancer's raids.  At the border we encountered this... this horrific scene.  The Deyjan lords must be destroyed before all of AvLee is harvested for their undead armies.
+
+
+Wrath of Sandro - Unholy Alliance G
+
+Jobb-kattintásos szöveg:
+With Finneas on the throne it's time for the next step of your plan.  AvLee, Erathia and Krewlod troops have all invaded Deyja territory, thinking they have you where they want you.  But it's just the opposite, isn't it?  It was you who drew them here, right where you want them, and now your goal of world domination is a little closer.
+
+Bevezetõ:
+Four very brave but foolish heroes have entered my realm.  They seek to dissuade me from invading Erathia and AvLee with their combined forces.  However, I welcome their intrusion, for my undead armies could use more recruits.  I shall harvest these heroes, and they will pay for their impudence with their eternal souls.
+
+
+Invasion - Unholy Alliance H
+
+Jobb-kattintásos szöveg:
+The battle is half over.  Now you and Finneas must simultaneously invade AvLee and Erathia.  Concentrating your troops on one of the countries will give the other a great tactical advantage.  Therefore, your troops must be divided.  Some call AvLee's armies "the Wall of Destruction," and everyone knows Erathia's defenders are just shy of invincible.  This will be no easy task.
+
+Bevezetõ:
+It was easy to remove the AvLee, Erathian and Krewlod troops from Deyja, but the invasion itself will be much more difficult.  To launch an offensive that will not leave one border open, we must assault both borders simultaneously.  Once again, Finneas wishes me to handle the matter personally.  His faith in my abilities is touching, but even a puppet King must someday learn how to command if he is to be an effective tool.
+
+
+To Strive, To Seek - Unholy Alliance I
+
+Jobb-kattintásos szöveg:
+Gem and Gelu are seeking parts of the "Angelic Alliance" in a region of Erathia bordering AvLee.  Two warlords rule this land, and their allegiance is loosely tied to Erathia, so they'll have to be "persuaded" to relinquish these artifacts of power.
+
+Bevezetõ:
+I know this region well.  The lords who control this area are loyal to Erathia but only when it suits them.  We must be careful, for they are formidable foes and deeply entrenched.  But if we are to locate the pieces of the Angelic Alliance, we may need to "persuade" these lords to assist us.
+
+
+Barbarian Brothers - Unholy Alliance J
+
+Jobb-kattintásos szöveg:
+"Traveler's Be Warned" is on so many signs leading to this region that some even call it the "Land of the Be-warned."  Three Barbarian brothers rule this contested border between Erathia and Krewlod.  They hardly trust each other, let alone outsiders.  You've been warned.
+
+Bevezetõ:
+Crag and I have been scouring the contested border between Erathia and Krewlod for three Barbarian brothers, each holding one of the artifacts we seek.  However, we have been warned that the brothers hardly trust each other, let alone outsiders.  They will not give up the artifacts without a fight.  For that is what we Barbarians do best.
+
+
+Union - Unholy Alliance K
+
+Jobb-kattintásos szöveg:
+Sandro used his force to drive a wedge between the four heroes to stop them from building the Angelic Alliance.  If this powerful artifact is ever completed, Sandro's defeat seems likely and his plans of conquest will be ruined.
+
+Bevezetõ:
+We have collected the pieces of the Angelic Alliance, but Sandro learned of our efforts and blocked our path.  The bulk of his army now separates us from each other.  We must break through the Necromancer's army and converge upon one point.  Once we join the pieces of the Angelic Alliance, we can defeat Sandro.  If we fail, he will dominate all of Antagarich.
+
+
+Fall of Sandro - Unholy Alliance L
+
+Jobb-kattintásos szöveg:
+Sandro must be conquered to ensure that he will never rise to power and threaten Antagarich again.  The only certain way is to destroy the artifact that gave him his power and disperse the pieces throughout the world.
+
+Bevezetõ:
+We face the Necromancer in his lair.  The time of reckoning has come, but our vengeance must be carried out swiftly.  Sandro has sent for reinforcements from others within Deyja.  Slow moving as undead are, they will still be here in four months.  If we have not defeated Sandro by then, he will surely rule all of Antagarich.  I shudder at the thought.  Failure is simply not an option.
+
+Utószó:
+After realizing how corrupting these artifacts are, we decided to split them up into less powerful components and disperse them throughout Antagarich.  As for us, we decided to separate as well, to distance our thoughts from a disaster history may never record.
+

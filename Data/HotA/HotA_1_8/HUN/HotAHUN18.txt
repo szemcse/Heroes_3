@@ -6579,8 +6579,8 @@ Létrehozásához a következõ mûtárgyak megszerzése szükséges:
 
 5
 130
-""Halott Király Köpönyege
-Ha a hõs nem rendelkezik a nekromancia képességgel, a Halott Király Köpönyege a csatatéren halott ellenségek 30%-át csontvázként fogja feltámasztani. Ha a hõs már rendelkezik a Nekromancia képességgel, akkor a komponenshatásokat is beleszámítva ez a köpeny 30%-kal növeli a Nekromancia képességet, és lehetõvé teszi, hogy erõsebb élõhalott egységeket támasszon fel. A képesség szintje határozza meg, hogy milyen típusú halottakat támaszt fel.  
+""Élõhalott Király Köpönyege
+Ha a hõs nem rendelkezik a nekromancia képességgel, az Élõhalott Király Köpönyege a csatatéren halott ellenségek 30%-át csontvázként fogja feltámasztani. Ha a hõs már rendelkezik a Nekromancia képességgel, akkor a komponenshatásokat is beleszámítva ez a köpeny 30%-kal növeli a Nekromancia képességet, és lehetõvé teszi, hogy erõsebb élõhalott egységeket támasszon fel. A képesség szintje határozza meg, hogy milyen típusú halottakat támaszt fel.  
 Alap: Zombik
 Haladó: Lelkek
 Mester: Lichek

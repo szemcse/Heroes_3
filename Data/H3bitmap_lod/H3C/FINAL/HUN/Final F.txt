@@ -1,0 +1,152 @@
+===== Térkép neve =====
+A bosszú ügynökei
+
+===== Térkép leírása =====
+A gyõzelemhez el kell foglalnod Kriptalak kastélyát. Azonban ha Gem vagy Gelu vereséget szenved, a küldetés elveszett. A hõsök 33. szintig juthatnak el, de tapasztalataikat, képességeiket és varázslataikat továbbviszik majd a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés Gelu
+Üzenet:
+Gelu: Miután kiderült, hogy Lord Falorel meggyilkolása mögött Sandro állt, tovább nyomoztam, és megtudtam, hogy a Sárkányurak, akiket elpusztítottam, nem voltak banditák. Igazi avleei Határurak voltak. Úgy éreztem, személyesen kell magyarázkodnom az AvLeei Vének Tanácsának, és elfogadnom az ítéletüket a hibámért. A Tanács nem nagyon akart hinni nekem, de miután tanácsot kértek az Orákulumtól, úgy döntöttek, hogy azzal tehetem legjobban jóvá a hibámat, ha részt veszek egy Deyja elleni büntetõ hadjáratban. Kitüntetésnek érzem elfogadni az ítéletet, és szabadságot vettem ki az Erdõõrségtõl. 
+
+Név:
+Bevezetés Gem
+Üzenet:
+Gem: A baba eljutott hozzám. Pont olyan volt, mint a nõvérem babája, melyet halála elõtt kapott. Emlékszem, mindig azt gondoltam, hogy õ a legszerencsésebb lány a világon, amiért ilyen babája lehet. Aztán egy csontvázhorda mindenkit megölt a falumban. Én voltam az egyetlen túlélõ. ÖRÜLÖK, hogy a Vének Tanácsa engem választott a Deyja elleni hadjárat egyik vezetõjének.
+
+Név:
+Levél Ethrictõl Gemnek
+Üzenet:
+Gem: Ma levelet kaptam Ethrictõl. Szerinte Sandro már évtizedekkel ezelõtt volt az õ inasa. Azt mondta, Sandro megszökött, és nekromantává vált! Egyéb rossz hírek is érkeztek. Ethric szerint Sandro talán megpróbált összeállítani egy hatalmas varázstárgyat azokból, melyeket én gyûjtöttem neki. Üvöltöttem dühömben. Egyik katonám sem mert a közelembe jönni vagy egy óráig. Továbbítanom kell ezeket a híreket Gelunak és a Vének Tanácsának.
+
+Név:
+Üzenet Gemtõl Gelunak
+Üzenet:
+Gelu: Ma üzenetet kaptam Gemtõl. Rájött, hogy Sandro valójában nekromanta. Elég dühösnek hangzott. Azt mondta, hogy Sandro talán összeállított egy hatalmas varázstárgyat azokból, melyeket õ gyûjtött neki. Vajon a halott AvLee Határurak ráakadtak a tervére?
+
+Név:
+Felderítõk jelentése a barbárokról
+Üzenet:
+Gelu: Felderítõim összefutottak néhány erathiai csapattal, akik a Clovergreen vár polgárõrségéhez tartoztak. Ismerték Gemet, és egyéb érdekes hírekkel is szolgáltak. Két barbár, Yog és Crag Hack Erathia irányából támadja Deyját. Értesítenem kell Gemet errõl, és az Erathiai Fõparancsnokságnak is hírt kell küldenem. 
+
+Név:
+Gem Yognak
+Üzenet:
+Gem: Ma hírt kaptam Gelutól két barbárról, akik a Vitatott Földek felõl támadják Deyját. Meglepetésemre pár óra múlva néhány tünde felderítõm ork kémek kíséretében üzenettel tért vissza számomra. A feladó egy Yog nevû kék barbár volt. Hmm, egyszer találkoztam vele Enrothban. Egy másik barbár is van vele, Crag Hack. Már Cragrõl is hallottam. Yog és Crag Hack a nekromanták, fõleg Sandro miatt ideges. Mi?! Crag is varázstárgyakat gyûjtött Sandrónak, amikbõl TÉNYLEG egy hatalmas varázstárgy állítható össze! Ethricnek igaza volt! 
+
+Név:
+Gem Yognak 2
+Üzenet:
+Hogy kifejezzék Sandro iránti rosszallásukat, a barbárok elhatározták Deyja meghódítását, de Yog tudni akarja, hogy mi is folyik itt igazából. Ez megfelelõ idõzítés a saját hadjáratunk számára. Mi északról támadjuk Deyját, míg õk nyugatról csapnak le. Az erathiaiak balhézni fognak, ha értesülnek Yogról és Crag Hackrõl. Beszélni akarok Yoggal. Hol a térkép? Hmm, elõször be kell vennünk Kriptalak kastélyát, de utána megkérem Yogot és Crag Hacket, hogy találkozzanak Geluval és velem egy Blagden nevû helyen.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(36, 67, 0) ***Necropolis***
+Név:
+Kriptalak
+
+Idõzített események:
+
+Név:
+Bevétel
+Üzenet:
+
+
+Név:
+Sereg
+Üzenet:
+
+
+Név:
+Bevétel 
+Üzenet:
+
+
+Név:
+Városháza
+Üzenet:
+
+
+Név:
+Citadella
+Üzenet:
+
+
+(61, 35, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Bevétel
+Üzenet:
+
+
+Név:
+Sereg
+Üzenet:
+
+
+Név:
+Bevétel 
+Üzenet:
+
+
+Név:
+Városháza
+Üzenet:
+
+
+(35, 71, 0) ***Jel***
+Üzenet:
+Blagden felé
+
+(13, 37, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Bevétel
+Üzenet:
+
+
+Név:
+Sereg
+Üzenet:
+
+
+Név:
+Bevétel 
+Üzenet:
+
+
+Név:
+Városháza
+Üzenet:
+
+
+(36, 51, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Bevétel
+Üzenet:
+
+
+Név:
+Sereg
+Üzenet:
+
+
+Név:
+Bevétel 
+Üzenet:
+
+
+===== Fájl vége =====
