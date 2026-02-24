@@ -1,7 +1,0 @@
-Attack Skill
-Defense Skill
-Damage per Attack
-Health
-Speed
-Growth per Week
-Exit %s

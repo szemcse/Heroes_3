@@ -1,4 +1,0 @@
-Attack Skill
-Defense Skill
-Spell Power
-Knowledge
