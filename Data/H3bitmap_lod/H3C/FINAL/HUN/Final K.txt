@@ -1,0 +1,200 @@
+===== Térkép neve =====
+Egyesülés
+
+===== Térkép leírása =====
+Gyõzd le a terület összes nekromantáját, és állítsd össze az Angyali Szövetséget. Azonban ha Gem, Gelu, Crag Hack vagy Yog vereséget szenved, a küldetés elveszett. A négy hõs 40. szintig juthat el, de tapasztalataikat, képességeiket és varázslataikat átviszik majd a következõ küldetésbe. 
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap
+Üzenet:
+Az öböl elválaszt minket a többiektõl. Mindkét csapatnak meg kell erõsítenie a pozícióját, és ki kell ûznie a nekromantákat a Vitatott Földekbõl és AvLeebõl. A területet a nekromanták tartják a markukban, de muszáj, hogy visszaszorítsuk õket. Szórványosan erathiai egységek is vannak a vidéken, és az Angyali Szövetség segítségével csapataink probléma nélkül tudnak majd együtt dolgozni.
+
+Név:
+Számítógépnek
+Üzenet:
+
+
+Név:
+5. nap
+Üzenet:
+A varázstárgyak egyesítésével kapcsolatban azután is tovább folyt a kutatás, hogy négyen elindultatok az Angyali Szövetség darabjaiért. A varázslók felfedeztek egy becses fémekbõl készült szarut, a Bõségszarut. Ha egyesíted a Higany Fiolát, a Kén Gyûrût, a Kristály Köpenyt és a Drágakõ Gyûrût, megkapod ezt a Bõségszarut. Azt pletykálják, hogy ezek a varázstárgyak pár zsák arannyal együtt itt vannak valahol a vidéken. Nem kétséges, hogy Sandro erõi is keresik õket.
+
+Név:
+10. nap
+Üzenet:
+Komoly csapás ért. Tolvajok jutottak be a kastélyba késõ este, megölték az õröket és elloptak minden aranyat, amit csak találtak. Ez eléggé vissza fogja vetni az építkezések ütemét.
+
+Név:
+13. nap
+Üzenet:
+A felderítõk különös dolgokat láttak. A Gourney nevû kisváros közelében úgy látszik, mintha égne valami, de nincs ott semmi éghetõ. Egyesek egy lenyûgözõ gömböt vélnek látni a tûz közepén, égõ felszínén kavarog a tûz pirosa és sárgája. Mások szerint tûzelementálok táncolnak a lángok között, de biztosat senki sem tud.
+
+Név:
+17. nap
+Üzenet:
+Egy szegény ember botladozik be a táborba, és összeesik Gem elõtt. Gem gyorsan alkalmazza gyógyító varázslatait, és az ember nemsokára el tudja mondani a történetét. Leír egy helyet, ahol az ördögfiókák rejtették el lopott kincseiket, de ez csak tájékozódási pont egy csodálatos aranytalapzaton álló gömbhöz. A gömb úgy örvénylik, mintha felhõkkel lenne tele, és mintha a földre is túlcsordulna. A kavargó felhõkön kívül semmibõl életre kelt varázslatos lényeket is látott. Mivel menekülnie kellett a nekromanták elõl, nem tudja, hogy még mindig ott van-e a gömb, vagy elvitték.
+
+Név:
+20. nap
+Üzenet:
+Ez egyszerûen nem a te heted. Egy futár, aki a hadmûvelet küldetése végett ide-oda utazott a kastélyok között, akaratlanul termeszeket vitt magával. Nem vette észre õket, mert nem volt nála semmi fa. De a várak most már észreveszik. Jó sok fába fog kerülni, mire mindent újraépítesz, és jó sok aranyat kell a rovarirtóra költened. Sõt, még a rovarirtó feleségét is meg kell ajándékoznod néhány drágakõvel, különben nem hajlandó kijönni, és elveszted a védelmi vonalad.
+
+Név:
+24. nap
+Üzenet:
+Visszatérnek az Erdõõrség felderítõi, és mindegyikük valami figyelemre méltóról számol be. Sandro a támaszpontod felé halad, és nagy sereget vezet. A Bõségszaru darabjai egyes tábornokoknál vannak, de könnyen meg lehet szerezni õket. Az utolsó felderítõ szintén érdekes információkkal szolgál. A nekromanták sivár földjein belül fekszik egy még sziklásabb és sötétebb vidék. Ezen a vidéken egy aranytalapzaton álló gömböt vesz körül. Úgy tûnik, mintha a gömb iszapból vagy sárból lenne, de a felderítõ szerint nagy ereje van. Talán Sandro már meg is szerezte, hiszen végig a közelében volt. 
+
+Név:
+31. nap
+Üzenet:
+Crag viharosan káromkodva jött ki a sátrából. Az egész tábort bolhák és tetvek támadták meg. Normál esetben nem törõdne ilyesmikkel, de a katonák nagy részénél súlyos mellékhatások fognak jelentkezni, ha nem kezelik õket megfelelõen. Rengeteg pénzbe kerül az utolsó bolhát is kiszedni a behemótokból, orkokból, farkaslovasokból és az egész szõrös társaságból.
+
+Név:
+38. nap
+Üzenet:
+Egy fosztogató hadjárat támadt a táborra meglepetésszerûen. Éppen hogy meg tudták menteni az életüket, de a katonák sértetlenek maradtak, viszont a teljes felszerelést pótolni kell. A kovácsok ércet és aranyat kérnek a munkálatokhoz.
+
+Név:
+41. nap
+Üzenet:
+Egy behemót rongyosan, piszkosan, ám nagyon boldogan és izgatottan tér vissza Yoghoz. Azt kiáltja: "Megöltem vagy százat azokból a csontos flótásokból, mielõtt elfutottak. És láttam egy szép labdát egy tócsa közepén, olyan messze délre, ameddig csak menni bírtam. Innen keletre van, mélyen a nekrók területében." Büszkén veri a mellét, mert tudja, hogy fontos információt hozott, ugyanis Yog nagyon izgatottnak tûnik. A behemótot megetetik és megfürdetik. 
+
+Név:
+45. nap
+Üzenet:
+A mostanában sújtó balszerencse miatt egy látnokot hozattál a táborba, hogy a katasztrófákat kutassa. Meg fogja vizsgálni a jövõt, és utánanéz, hogy mi okozhat a jövõben szerencsétlenséget. Némi munkával és szerencsével elkerülhetõk a jövõbeli problémák.
+
+Név:
+48. nap
+Üzenet:
+Üzenet érkezett Gelunak. Gyorsan elolvasta, majd õrjöngeni kezdett, értelmetlen szavakat üvöltve öklözte a fákat és a sziklákat. A helyettese felvette és elolvasta az üzenetet: "Sajnálattal értesítjük, hogy Caleb, az Erdõõrség Kapitánya életét vesztette a nekromantákkal való összecsapáskor. Evégett felkérjük, hogy amint lehetséges, térjen vissza Erathiába, ahol kiképezzük a kapitányi címmel járó hivatalos kötelességekre, és átveheti az Erdõõrség feletti parancsnokságot. Gratulálunk." Amilyen közel állt Caleb Geluhoz, nincs mit örülni az elõléptetésnek. 
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(2, 105, 0) ***Csontvázharcos***
+Üzenet:
+Ez a MI kõbányánk, és nem látunk szívesen benne! Már régóta várunk itt a mûködtetéséhez szükséges ellátmányra. Azt ne hidd, hogy csak betáncolsz ide, és már elkezdhetsz dolgozni! Ütött az órád, kövér bolond!
+
+(38, 13, 0) ***Vámpír***
+Üzenet:
+Nagyon is szívesen látunk, hogy a kristálytelepbõl lakmározz... amíg mi lakmározhatunk belõled!
+
+(33, 102, 0) ***Vámpír***
+Üzenet:
+Szívesen engedjük mûködtetni ezt az aranybányát, amíg te engeded, hogy szívjuk a véredet. Nem? Akkor harcoljunk!
+
+(13, 15, 0) ***Csontvázharcos***
+Üzenet:
+Generációk óta favágók vagyunk, és ez a MI fûrésztelepünk! Senki nem veheti el tõlünk!
+
+(29, 13, 0) ***Lélek***
+Üzenet:
+A pokoli szerkezeteid által meggyilkolt emberek özvegyei vagyunk, és nem hagyjuk, hogy több özvegy legyen miattad! Készülj a halálra!
+
+(16, 1, 0) ***Hatalmas Lich***
+Üzenet:
+Mi gyûjtöttük össze ezeket a kincseket, és te nem jöhetsz be ide! Mivel erõlteted a témát, kénytelenek leszünk elpusztítani!
+
+(7, 66, 0) ***Hatalmas Lich***
+Üzenet:
+Ezek a mi kincseink, és senki sem juthat hozzájuk, amíg nekünk is van mondanivalónk! Ha már itt tartunk, VAN mondanivalónk: harc vagy halál!
+
+(32, 21, 0) ***Kentaur Fejsze***
+Üzenet:
+Ez a fejsze régen a Nagy Csarnokban lógott, de pár éve ellopták. Örülsz, hogy visszaszerezheted.
+
+(4, 72, 0) ***Ogrék Furkósbotja***
+Üzenet:
+Akárki is ez az ogre, állandóan széthagyja a holmiját. Megbüntetnéd szemetelésért, de az itt hagyott cucc nem éppen szemét.
+
+(49, 15, 0) ***Törpe Király Pajzsa***
+Üzenet:
+Úgy tûnik, a pajzsot tartó törpét legyõzték. Megzizzen a bokor, és felfedezed, ki volt a gyõztes. El akarsz futni, vagy megbosszulod a törpe halálát?
+
+(37, 101, 0) ***Ogre Pajzs***
+Üzenet:
+Úgy tûnik, egy ogre egyszerûen elhagyta ezt. Szégyen lenne hagyni, hogy egy ilyen tárgy veszendõbe menjen.
+
+(45, 88, 0) ***Arannyal Teli Tarsoly***
+Üzenet:
+Itt egy kis erszény, és tele van arannyal! Ma jó napod van, megtaláltad az egyik varázstárgyat, amirõl az Erdõõrség egységei beszéltek. Talán a többit is megtalálod.
+
+(14, 93, 0) ***Sebesség Csizma***
+Üzenet:
+Egy tökéletes pár csizmát hagyott itt valaki. Talán a tulajdonos olyan gyorsan futott, hogy egyszerûen kifutott a csizmából. Nos, nem fogod csak úgy itt hagyni, végül is akár Sandro is rátehetné a kezét.
+
+(54, 29, 0) ***Háborgó Tûz Varázsgömb***
+Üzenet:
+Ez a varázstárgy a Tûz Elemi Síkjáról származik, és a lángoló lakosok köztudottan nem kedvelik, ha ellopják a tulajdonukat.
+
+(106, 56, 0) ***Iszap Varázsgömb***
+Üzenet:
+Eredetileg az Iszap Varázsgömb mélyen a bolygóba volt temetve, hogy a Föld Elemi Síkjáról könnyen elérhetõ legyen. De valamilyen okból felszínre került. Az viszont biztos, hogy erõsen õrzik.
+
+(51, 44, 0) ***Égbolt Varázsgömb***
+Üzenet:
+Úgy tûnik, a Levegõ Istenei rám mosolyogtak, és egy nagyon értékes varázstárgyat helyeztek az utadba. Már csak az a kérdés: érdemes vagy rá?
+
+(14, 72, 0) ***Idézés Nyakörv***
+Üzenet:
+Egy fiatal, barna szakállú mágus int neked, meghajol, majd azonnal eltûnik. Valamit elronthatott a varázslatban, mert ezt a gyönyörû nyakörvet itt hagyta. Nos, az õ hibája, ha rosszul tanulta meg, tehát felveszed a nyakörvet és magadra öltöd.
+
+(72, 107, 0) ***Felhõszakadás Varázsgömb***
+Üzenet:
+Ez a varázstárgy az elemek párhuzamos birodalmából származik, egész pontosan a Víz Elemi Síkjáról. És köztudottan nem hagyják õrizetlenül.
+
+(56, 28, 0) ***Castle***
+Név:
+Gourney
+
+(89, 8, 0) ***Esemény***
+Üzenet:
+Amíg átkelsz ezeken a gyönyörû tavacskákon, vízelementálok támadnak rád, akik erõszakosan védik a vizeket. Nem tudsz menekülni, így védekezned kell.
+
+(89, 46, 0) ***Esemény***
+Üzenet:
+Átkelõben a sivár földeken rájössz, hogy ez a hely nagyon tetszene a földelementáloknak. Más elem nincs jelen igazán, és egész békésen eléldegélhetnének itt. Amíg ezen gondolkodsz, embereidet földelementálok veszik körül, akik tényleg itt élnek, és támadnak!
+
+(105, 87, 0) ***Esemény***
+Üzenet:
+Az egész föld úgy lángol, mintha tûzelementálok laknák. Idegesen körülnézel, de épp hogy csak el tudod kerülni a rád ugró elementálokat!
+
+(85, 80, 0) ***Esemény***
+Üzenet:
+Az egész föld úgy lángol, mintha tûzelementálok laknák. Idegesen körülnézel, de épp hogy csak el tudod kerülni a rád ugró elementálokat!
+
+(88, 77, 0) ***Esemény***
+Üzenet:
+Az egész föld úgy lángol, mintha tûzelementálok laknák. Idegesen körülnézel, de épp hogy csak el tudod kerülni a rád ugró elementálokat!
+
+(99, 83, 0) ***Esemény***
+Üzenet:
+Ilyen sok tûzelementállal a közelben óvatosabbnak kellene lenned, hogy ne keveredj bele még egy rajtaütésbe. Szerencsére most nincs a közelben egy sem.
+
+(91, 78, 0) ***Esemény***
+Üzenet:
+Ilyen sok tûzelementállal a közelben óvatosabbnak kellene lenned, hogy ne keveredj bele még egy rajtaütésbe. Szerencsére most nincs a közelben egy sem.
+
+(103, 76, 0) ***Esemény***
+Üzenet:
+Nem figyeltél eléggé, tûzelementálok támadnak rád!
+
+(62, 99, 0) ***Esemény***
+Üzenet:
+Ez a terület kétségkívül magasabb fekvésû, mint a többi. Okos lenne figyelni a vidéket õrzõ légelementálokra.
+
+(43, 91, 0) ***Esemény***
+Üzenet:
+A felhõk közül légelementálok száguldanak feléd, és magukkal hozták bátyjaikat, a viharelementálokat is! Nincs hova futnod, vállalnod kell a harcot!
+
+(44, 5, 0) ***Esemény***
+Üzenet:
+Átkelõben ezen az üres völgyön nagyon is értékeled a kilátást. Kellemes itt a szép tavacskával és a vidáman csobogó patakkal. A zöld lombok alatt gyönyörû virágok nõnek, és meleg szellõ fúj. Sajnos mégsem te vagy az egyetlen ebben a szép kis völgyben: férgek lakják a területet, és most már téged is. Mivel erre az idõ az egyetlen gyógymód, a katonáid egy ideig gyengébben fognak harcolni.
+
+===== Fájl vége =====

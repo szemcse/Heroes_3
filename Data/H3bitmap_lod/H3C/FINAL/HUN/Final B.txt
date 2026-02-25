@@ -78,7 +78,7 @@ Kérem, ne bántson minket!  Azt tesszük, amit akar, ígérjük!
 Üzenet:
 Megtalálod Tyranell egy régi csatlósát, akit elbocsátottak a szolgálatból, és most leverten ül a homokban. Kikérdezed, és elárulja, hogy Sandro szépen fog fizetni Tyranellnek, ha megtalálja neki a Harcos Szobrának részeit. Tyranell csak felhatalmazásra vár, hogy folytathassa a kutatást. Ezért az információért pár aranyat adsz a volt csatlósnak és útjára engeded.
 
-(68, 2, 0) ***Küldetésõrzõk***
+(68, 2, 0) ***Küldetésõrzõ***
 Üzenet:
 A sátor meglátogatásához (mely a Sziget kulcsát adja) az õrök 8000 aranyat akarnak.
 Az õrök látják, hogy nálad van a pénz, hogy átmehess a szigetre vezetõ sátorba. Kívánod e kifizetni az útdíjat?
@@ -87,7 +87,7 @@ Az õrök látják, hogy nálad van a pénz, hogy átmehess a szigetre vezetõ sátorba. 
 Név:
 Tyranell
 
-(30, 42, 1) ***Küldetésõrzõk***
+(30, 42, 1) ***Küldetésõrzõ***
 Üzenet:
 Az õrök azt mondják, hogy parancsot kaptak, hogy csak Crag Hacket engedjék át.
 

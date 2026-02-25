@@ -1,0 +1,79 @@
+===== Térkép neve =====
+Barbár fivérek
+
+===== Térkép leírása =====
+Crag Hacknek és Yognak meg kell találnia az Igazság Pallosát, a Csodák Páncélját és az Oroszlánbátorság Pajzsát. Azonban ha valamelyikük is vereséget szenved, a küldetés elveszett. 37. szintig juthatnak el, de tapasztalataikat, képességeiket, varázslataikat továbbviszik majd a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Barbár fivérek
+Üzenet:
+Yog és Crag Hack felfedezte, hogy a hat varázstárgy közül három, melyet Yog rég elveszettnek gondolt, újra a felszínre került, és három barbár fivér vette meg õket. A fivérek talán úgy vélik, hogy törvény szerint joguk van a varázstárgyakra... de egyszerûen túl veszélyes, hogy az õ kezükben legyenek, fõleg, ha Sandro is tudomást szerez róluk.
+
+Név:
+Áradás!
+Üzenet:
+Amint Yog és Crag Hack belép a három barbár fivér területére, egy hirtelen áradás elválasztja egymástól a hõsöket. A zuhatagokon keresztül üvöltözve megegyeznek, hogy távolabb a folyó mentén találkoznak majd, hátha ott már elvékonyodik vagy véget ér a víz.
+
+Név:
+Erõsítések.
+Üzenet:
+Felderítõk szerint a fivérek Krewlod más részeibõl hoznak erõsítést seregeik támogatására. Az itteni kastélyaik elfoglalása tehát nem biztosan jelent teljes gyõzelmet.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(10, 11, 0) ***Barbár***
+Név:
+Zorlan
+
+(12, 46, 0) ***Harci Mágus***
+Név:
+Swankart
+
+(49, 15, 0) ***Harci Mágus***
+Név:
+Denarm
+
+(69, 64, 0) ***Jel***
+Üzenet:
+Krewlod-Erathia határsáv. Jelenleg Krewlod és Boragus király uralma alatt.
+
+(19, 34, 0) ***Harci Mágus***
+Név:
+Venthin
+
+(49, 4, 0) ***Harci Mágus***
+Név:
+Zinitha
+
+(22, 5, 1) ***Igazság Pallosa***
+Üzenet:
+Egy kevés Kristálysárkány harcra hív a Pallosért. Kiállsz ellenük?
+
+(5, 50, 1) ***Oroszlánbátorság Pajzsa***
+Üzenet:
+Vörös Sárkányok kis csapata száll feléd, és harcra hív a Pajzsért. Kiállsz ellenük?
+
+(10, 44, 1) ***Vörös Sárkány***
+Üzenet:
+Ezek a Vörös Sárkányok elég szûkösen élhettek itt, és úgy tûnik, rajtad akarják levezetni az idegességüket.
+
+(50, 25, 1) ***Csodák Páncélja***
+Üzenet:
+Mérges Minotaurusz Királyok hordája hív harcra a Csodák Páncéljáért. Kiállsz ellenük?
+
+(52, 54, 1) ***Stronghold***
+
+Idõzített események:
+
+Név:
+Erõsítés a barbár fivéreknek.
+Üzenet:
+Erõsítés a BF-eknek.
+
+===== Fájl vége =====

@@ -36,7 +36,7 @@ Egy kis kõsziklán állsz, és ahogy körülnézed, látod, hogy az út késõbb kettéváli
 
 (34, 28, 0) ***Esemény***
 Üzenet:
-Az úton haladva hirtelen megálltok, amikor egy nekromanta kastélyba botltok. Egy régi erathi város romjain áll. A falak egy része még látszik, a nekropolisz árnyéka alatt omladozva. A halál bûze öklendezésre késztet, és megkeményíti elhatározásodat, hogy segíts ezeknek az embereknek.
+Az úton haladva hirtelen megálltok, amikor egy nekromanta kastélyba botlotok. Egy régi erathi város romjain áll. A falak egy része még látszik, a nekropolisz árnyéka alatt omladozva. A halál bûze öklendezésre késztet, és megkeményíti elhatározásodat, hogy segíts ezeknek az embereknek.
 
 (32, 58, 0) ***Esemény***
 Üzenet:

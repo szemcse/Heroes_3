@@ -5,7 +5,7 @@ Leírás:
 Négy hõsnek fel kell derítenie az AvLee–Deyja és az Erathia–Deyja határán szövõdõ összeesküvést. Ez után meg kell találniuk az Angyali Szövetség nevû ereklyét, meg kell szállniuk Deyját, és meg kell állítaniuk Sandrót, a hatalmas lich-et, aki a világ meghódítására készül.
 
 
-Harvest - Unholy Alliance A
+Betakarítás - Unholy Alliance A
 
 Jobb-kattintásos szöveg:
 Akár a búzamezõkön, úgy aratják le e vidék parasztjait, hogy az élõholtak sorait gyarapítsák. Nem kell feltenned a	kérdést, miért tesznek ilyet az élõholtak. Miért is próbálnád megérteni	a gonosz útjait? Mégsem tudsz szabadulni a gyanútól, hogy valami sokkal	baljósabb erõ munkálkodik a háttérben.
@@ -14,7 +14,7 @@ Bevezetõ:
 Egy Nekromata tevékenykedik errefelé. A föld minden részén a	parasztok élõholtakként bukkannak fel. Mégsem lépett fel sem nemes,	sem úr, hogy véget vessen ennek. Magamra vállalom, hogy elpusztítom ezt	a veszedelmet!
 
 
-Gathering the Legion - Unholy Alliance B
+Harcos szobrának begyûjtése - Unholy Alliance B
 
 Jobb-kattintásos szöveg:
 Hartferd városa azért maradt független, mert a vidék két urát túlságosan lefoglalta az egymás elleni harc, így mohó tekintetüket új területekre nem vetették. A legfrissebb pletykák szerint a Légió szobra ereklye a közelben található, így Hartferd városának élete hamarosan jóval bonyolultabbá válhat.
@@ -23,7 +23,7 @@ Bevezetõ:
 Erathiába tartva, hogy meglátogassam néhány rokonomat, rábukkantam egy falura, ahonnan ellopták a szent ereklyéjüket, a Harcos Szobra - Fejet. A polgármester vissza akarja szerezni a fejet, valamint a Harcos Szobrának  többi darabját is, ha rájuk bukkannék. Épp erre van szükségem, egy	kis kalandra, hogy jobb kedvre derüljek!
 
 
-Search for a Killer - Unholy Alliance C
+Kutatás egy gyilkos után - Unholy Alliance C
 
 Jobb-kattintásos szöveg:
 Gelut beidézték, hogy kivizsgálja Lord Falorel halálát. Sokan úgy vélik, méreg végzett vele. Gelu azonban hamar rájön, hogy Falorel soha nem is tartozott az élõk közé. Egy Vámpír volt, aki AvLee egyik urának adta ki magát!
@@ -32,7 +32,7 @@ Bevezetõ:
 Ma reggel tudtam meg, hogy Lord Falorel meghalt, feltehetõen mérgezés következtében. Ami ezután kiderült, megrázta egész AvLee-t. Valójában egy Vámpír volt, aki tünde hadúrnak álcázta magát. Ki kell derítenem, ki mérgezte meg, és hogyan juthatott ilyen magas pozícióba AvLee-ben.
 
 
-Final Peace - Unholy Alliance D
+Végsõ béke - Unholy Alliance D
 
 Jobb-kattintásos szöveg:
 Gem megbízója, az AvLee-i határának ura: Fayette, egy titkos küldetés során a Nekromaták kezétõl esett el. Mivel sosem elégednek meg egy legyõzött ellenséggel, a Nekromaták így tovább gyalázták Fayette-et azzal, hogy Halállovagként támasztották fel. Gem nem tudja elfogadni ezt a gyalázatot. Lord Fayette élõholt testét el kell pusztítani, hogy végsõ nyugalomra lelhessen.
@@ -41,7 +41,7 @@ Bevezetõ:
 Amikor elmentem, hogy elmondjam Lord Fayette-nek, miként vert	át Sandro, megtudtam, hogy Deyjába indult küldetésre, miközben a	csizmákat kerestem, és még nem tért vissza. Ezért kémkedtem Lord Fayette	után, és ekkor jöttem rá, hogy küldetése borzalmas véget ért. A Nekromaták megölték és… és… Halállovagként feltámasztották! Átkozott legyen	minden Nekromata! Van még egy utolsó szolgálat, amit megtehetek	uramért. Végsõ nyugalmat adok lelkének azzal, hogy elpusztítom az	élõholt testet, amely e világhoz láncolja. Ennyivel tartozom neki.
 
 
-Secrets Revealed - Unholy Alliance E
+Felfedett titkok - Unholy Alliance E
 
 Jobb-kattintásos szöveg:
 A Nekromácia jelenléte Erathiában sokkal erõsebb, mint azt elsõre gondoltad. Nyilvánvaló, hogy ezt a csatát	egyedül nem nyerheted meg ellenük, ezért segítséget kerese magad mellél. A szövetségesed kiválasztása magától értetõdõ volt, de Crag Hacket nem volt könnyû megtalálni. Még tovább tartott meggyõzni arról, hogy ezeket a "varázslat mormolókat" meg kell állítani. Végül Crag Hack olthatatlan vágya, hogy élõholtakat zúzzon, gyõzte õt meg.
@@ -50,7 +50,7 @@ Bevezetõ:
 Mi, a két Barbár, örültünk, hogy egymásra találtunk ezen az idegen földön. Mindketten a Nekromaták nyomát követjük, de megdöbbent, hogy tetteik látszólag elkerülték az erathiai vezetõk figyelmét. Crag nem akart mélyebben foglalkozni aggodalmaimmal, míg fel nem emlegettem dicsõséges csatáit. Ez mindig beválik az olyan barbároknál, mint õ.
 
 
-Agents of Vengeance - Unholy Alliance F
+A bosszú ügynökei - Unholy Alliance F
 
 Jobb-kattintásos szöveg:
 Gelunak és Gemnek az Idõsek tanácsának parancsára bosszút kell álljanak Lord Fayette és a Nekromaták számos más áldozatának meggyilkolásáért. Célpontjuk Deyján át az Erathia felé vezetõ határ és a Nekromata kastély, ahol bizonyosan információra lelhetnek Lord Fayette haláláról.
@@ -59,7 +59,7 @@ Bevezetõ:
 Néhány nappal ezelõtt az AvLee-i Idõsek tanácsa parancsba	adta Gemnek és nekem, hogy álljunk bosszút Lord Falorel, Lord Fayette, a	Sárkányurak és a Nekromaták portyáinak minden más áldozatáért. A	határnál ezzel a… ezzel a borzalmas látvánnyal szembesültünk. A deyjai	urakat el kell pusztítani, mielõtt egész AvLee-t learathatnák élõholt seregeik számára.
 
 
-Wrath of Sandro - Unholy Alliance G
+Sandro haragja - Unholy Alliance G
 
 Jobb-kattintásos szöveg:
 Finneas trónra kerülésével elérkezett terved következõ lépése. AvLee, Erathia és Krewlod csapatai mind megszállták	Deyja területét, azt gondolva, hogy sarokba szorítottak. Pedig épp az	ellenkezõje igaz. Te csaltad õket ide, pontosan oda, ahol akartad, hogy legyenek és így a világuralomhoz vezetõ célod egy lépéssel közelebb került most.
@@ -68,7 +68,7 @@ Bevezetõ:
 Négy igen bátor, ám ostoba hõs lépett birodalmamba. Egyesített	seregeikkel próbálnak eltántorítani attól, hogy lerohanjam Erathiát és	AvLee-t. Ám én örömmel fogadom betolakodásukat, hiszen élõholt	seregeimnek új toborzottakra van szükségük. Le fogom aratni ezeket a	hõsöket, és arcátlanságukért örök lelkükkel fizetnek.
 
 
-Invasion - Unholy Alliance H
+Invázió - Unholy Alliance H
 
 Jobb-kattintásos szöveg:
 A csata felén már túl vagyunk. Most neked és Finneasnek egyszerre kell megszállnotok AvLee-t és Erathiát. Ha csapataidat csak az egyik ország ellen összpontosítod, a másik hatalmas taktikai elõnyhöz jut. Ezért seregeidet meg kell osztani. Egyesek AvLee haderejét a „Pusztítás Falának” nevezik, és mindenki tudja, hogy Erathia védelmezõi szinte legyõzhetetlenek. Nem lesz könnyû feladat.
@@ -77,7 +77,7 @@ Bevezetõ:
 Könnyû volt kiszorítani az AvLee, erathiai és krewlodi csapatokat Deyjából, de maga az invázió sokkal nehezebb lesz. Ahhoz, hogy támadást indítsunk úgy, hogy egyik határ se maradjon védtelenül, mindkét határt egyszerre kell ostromolnunk. Finneas ismét azt kívánja, hogy személyesen intézzem az ügyet. Megható a képességeimbe vetett hite, de még egy bábkirálynak is meg kell tanulnia egyszer parancsolni, ha hatékonnyá akar válni.
 
 
-To Strive, To Seek - Unholy Alliance I
+Küszködés és kutatás - Unholy Alliance I
 
 Jobb-kattintásos szöveg:
 Gem és Gelu az "Angyali Szövetség" darabjait kutatják Erathia AvLee-vel határos vidékén. E földet két hadúr uralja, akik hûsége csak lazán kötõdik Erathiához, így "meg kell gyõzni" õket, hogy átadják e hatalmas ereklyéket.
@@ -86,7 +86,7 @@ Bevezetõ:
 Jól ismerem ezt a vidéket. Az itt uralkodó urak hûségesek Erathiához, de csak amikor érdekük úgy kívánja. Óvatosnak kell lennünk, mert félelmetes ellenfelek és mélyen beásták magukat. De ha meg akarjuk találni az Angyali Szövetség darabjait, lehet, hogy "rá kell vennünk" õket az együttmûködésre.
 
 
-Barbarian Brothers - Unholy Alliance J
+Barbár fivérek - Unholy Alliance J
 
 Jobb-kattintásos szöveg:
 "Utazók, figyelem!" feliratú táblák sora vezet erre a vidékre, ezért egyesek már a "Figyelmeztetettek Földjének" is nevezik e tájat. Három barbár fivér uralja ezt az Erathia és Krewlod közti vitatott határvidéket. Alig bíznak meg egymásban, nemhogy idegenekben. Figyelmeztettek.
@@ -95,7 +95,7 @@ Bevezetõ:
 Crag és én az Erathia és Krewlod közti vitatott határvidéket járjuk a három barbár fivér után kutatva, akik mindannyian egy-egy keresett ereklyét birtokolnak. Figyelmeztettek minket, hogy a testvérek alig bíznak egymásban, nemhogy idegenekben. Harc nélkül nem fogják átadni az	ereklyéket. Mert mi, barbárok, ehhez értünk a legjobban.
 
 
-Union - Unholy Alliance K
+Egyesülés - Unholy Alliance K
 
 Jobb-kattintásos szöveg:
 Sandro erejét használva éket vert a négy hõs közé, hogy megakadályozza az Angyali Szövetség egyesítését. Ha ez a hatalmas ereklye valaha is elkészül, Sandro veresége szinte elkerülhetetlen, és a hódító tervei romba dõlnek.
@@ -104,7 +104,7 @@ Bevezetõ:
 Összegyûjtöttük az Angyali Szövetség darabjait, de Sandro tudomást szerzett erõfeszítéseinkrõl és elállta utunkat. Hadseregének zöme most elválaszt minket egymástól. Át kell törnünk a Nekromata seregén és egy ponton egyesülnünk. Amint összeillesztjük az Angyali Szövetség darabjait, legyõzhetjük Sandrót. Ha kudarcot vallunk, egész	Antagarich felett uralkodni fog.
 
 
-Fall of Sandro - Unholy Alliance L
+Sandro bukása - Unholy Alliance L
 
 Jobb-kattintásos szöveg:
 Sandrót le kell gyõzni, hogy soha többé ne emelkedhessen hatalomra és ne fenyegesse újra Antagarichot. Az egyetlen biztos mód, ha elpusztítjuk az ereklyét, amely hatalmát adta, és darabjait szétszórjuk a világban.

@@ -1,0 +1,201 @@
+===== Térkép neve =====
+Sandro bukása
+
+===== Térkép leírása =====
+Gyõzd le Sandrót és összes szolgáját, hogy teljesítsd a küldetést. Azonban ha a négy hõs valamelyike vereséget szenved, vagy négy hónapon belül nem gyõzõd le Sandro seregét, a küldetés elveszett.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Elsõ nap
+Üzenet:
+Mélyen behatoltunk a nekromanták területére. Itt szinte minden haldoklik; már csak néhány fa ragaszkodik a földhöz, miután egy nekromanta oly sokáig ûzte itt halálos mágiáját. Mindegyikünk egy-egy várat vezet, és megkezdõdtek az elõkészületek az utolsó összecsapáshoz. Sandro a sivatagon túl van. A halálos csapdákról és vándorló martalócokról szóló pletykák mindannyiunkat elõvigyázatossá tettek, még a félelmet nem ismerõ Crag Hacket is.
+
+Név:
+Portál
+Üzenet:
+Egy föld alá vezetõ portálról kaptunk beszámolókat. Állítólag a föld alatt barlangok vannak, tele minden álmodat felülmúló kincsekkel. Csak annyit kell tenned, hogy elbánsz Sandro egyik generálisával, és használatba veszed a portált.
+
+Név:
+Bányák
+Üzenet:
+Gyorsan újra mûködésbe hoztuk a fûrésztelepeket és a kõbányákat, de a négy vár szûkösen fog kijönni a nyersanyagokból. Elkerülhetetlen lenne több nyersanyagot és aranyat szerezni, hogy a várakat felépíthessük és fenntarthassuk. Mindegyikünk átvizsgálja a vidéket és felderítõket küld ki. A nekromanták várai jobbára ki vannak építve, és elõttünk járnak. Üzenetet küldtem haza, azt remélve, hogy erõsítést kapunk, de nem tudom, van-e rá egyáltalán esély.
+
+Név:
+Életelixír
+Üzenet:
+Az egyik felkutatott varázstárgy az Életelixír. Az összetevõket Gelu gyûjtötte össze Lord Falorelnek, aki nyilvánvalóan nem használta, hanem elrejtette, hogy senki se használhassa fel ellene. Ez a varázstárgy nagyon hasznos lehetne, ha megtalálnánk. A mágusok szerint ezen a vidéken található, de a pontos helyét nem tudják.
+
+Név:
+Szellemsárkányok
+Üzenet:
+Egy varázsló téved be a táborba és ételért könyörög. Crag Hack követeli, hogy az öreg elõbb érdemelje ki az ételt és a szállást, így a varázsló figyelmesen szemügyre veszi a barbárt. Végül így szól: "Az Életelixír megszerzéséhez a szellemsárkányok jelentik a kulcsot." Ezután folytatja az étkezést, és az est folyamán semmibe veszi Craget... ami eléggé ingerli a barbárt.
+
+Név:
+Ragály
+Üzenet:
+Az élõhalottak seregi nem tudnak betörni, mert elbarikádoztad magad a kastélyodban. Már jó ideje állnak a falakon kívül, és elszántan próbálnak bejutni. Aztán egy napon embereidre lesújt a ragály. A nekromanták rothadt hússal mérgezték meg az ivóvizedet, és most drágán meg kell fizetned a szükséges gyógykezeléseket.
+
+Név:
+Sandro legyõzése
+Üzenet:
+Az Erdõõrség meghozta az információt, amit kértél. Sandro egy erõsen védett õrtorony mögött barikádozta el magát, és nem fog onnan elmozdulni. Állítólag van ott pár ember, aki el szeretné hagyni Deyját, de ehhez szükségük van a Lebegés Csizmájára. Ha elhozod nekik, átengednek a helyõrségen, és saját kastélyában gyõzheted le Sandrót.
+
+Név:
+Nomádok
+Üzenet:
+Hírek érkeznek a sivatagot gyorsan átszelõ nomádokról. Lehetséges lenne felfogadni ezeket az embereket, hogy meggyorsítsák utadat a sivatagon keresztül Sandro területére. Csak fel kell keresned a csíkos sátort.
+
+Név:
+Lebegés Csizmája
+Üzenet:
+Egyik ügynököd birtokában van a Lebegés Csizmájának, de 50 Vészmanót kell hoznod neki, hogy elhiggye, nem a nekromanták trükkje vagy. Azért is szüksége van a katonákra, hogy folytathassa kutatásait Deyján belül. Meg kell látogatnod ezt a kunyhót, hogy legyõzhesd Sandrót.
+
+Név:
+Lepénzelt elementálok
+Üzenet:
+Egy óriási füstfelhõt láttak a sivatag felett szállni, mint egy undorító fekete kígyót. A kiküldött felderítõknek érdekes információik vannak. A nekromanták lepénzelték az elementálokat, akik megengedték, hogy az õ tüzüket használják, és így éghetõ anyag nélkül használjanak tûzvarázslatot. Jó ötlet lenne képzett varázslót küldeni, hogy elbánjon ezekkel a nekromantákkal... ezek után minden tekintet Gem felé fordult.
+
+Név:
+A Tûz Kötete
+Üzenet:
+Egy prófétanõ lép be a táborba, és kijelenti, hogy fontos információi vannak Gelu számára. Gelu beleegyezik, hogy találkozzon vele, és a nõ így szól: "A sivatag messze északi sarkában található a Tûz Kötete. Okos lenne még elõttük megtalálni. 500 arany lesz." Gelu kifizeti a nõt, és Gem azon gondolkozik, mennyi idõs is pontosan.
+
+Név:
+A Víz Kötete
+Üzenet:
+Egy öregember támolyog be a táborba, mögötte az egész családja. A legalább ötvenfõs csapat Crag Hackhez ér, és az öregember elõrelép. "Kérem, uram, fontos információim vannak az ön számára, és ha tudna elég aranyat adni a családom etetéséhez, szívesen megosztanám önnel." Crag Hack beleegyezik, hogy 500 aranyat fizessen az embernek, aki elmondja, amit tud. "A hatalmas Víz Kötete Sandro kastélyától délre található. Lapjai között nagy erejû varázslatok lapulnak, melyeket bárki felhasználhat, ha elég bölcs hozzá."
+
+Név:
+Portya
+Üzenet:
+Kora reggel, mielõtt még a nap fénye elérte volna a kõlapokat, megszólalt a riasztó csengõ. Harcban reménykedve, Yog fejszével a kezében kiugrott a hálózsákjából és a felbolydulás felé rohant. Hamar nyilvánvalóvá vált, hogy túl lassú volt. A banditák már eltûntek némi nyersanyaggal, csirkével, arannyal, drágakõvel, fegyverrel és páncélzattal. A szerencsétlen könyvelõt a legszebb álmából riasztották, hogy kiszámolja, mibe fog mindez kerülni.
+
+Név:
+Kereskedelem
+Üzenet:
+Egyik felderítõd szerint néhány ember a föld alatti barlangokból szintén az Életelixírt keresi. Talán jobb lenne vásárolgatni kicsit, és megnézni, mi kapható.
+
+Név:
+Egy hónap
+Üzenet:
+Egy hónapod van még, mielõtt Sandro csapatai ideérnek. A felderítõk már észrevették õket a látóhatár szélén. Talán kaphatsz egy-két nappal többet, ha lassan utaznak. Ha Sandrót és szolgáit nem gyõzöd le hamarosan, az ügy és a rengeteg beleölt idõ elveszik.
+
+Név:
+Három hét
+Üzenet:
+Nem maradt már sok idõ, és nem kellene elvesztegetned. Sandro seregeit már közelebb látták, és három héten belül mindenképpen ideérnek. Siess, mert ha nem fejezed be gyorsan a feladatod, Sandro fog nyerni.
+
+Név:
+Két hét
+Üzenet:
+Két héten belül megérkeznek Sandro erõsítései, és te többé csak egy rossz emlék leszel. Vagy legyõzöd õket, vagy meghalsz a semmiért.
+
+Név:
+Egy hét
+Üzenet:
+Egy hét múlva kifutsz az idõbõl. A Sandro terveihez szükséges katonák már úton vannak. Ha nem sietsz, két erõs sereg közé kerülsz csapdába. Létfontosságú, hogy sikerrel járj.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(66, 33, 0) ***Halállovag***
+Név:
+Finneas 
+
+(48, 29, 0) ***Titok Kunyhó***
+Üzenet:
+Több ágyútöltögetõre van szükségünk, hogy tovább tudjuk tartani a kémek vonalát és eltereljük a figyelmet róluk. Hozz nekünk 50 Vészmanót, és neked adjuk a Lebegés Csizmáját. Szükséged lesz rájuk, hogy megközelítsd Sandrót.
+Csak akkor kapod meg a Csizmát, ha hozol 50 Vészamanót.
+Remek! Végre folytathatjuk a felderítést Deyjában. Add nekünk az 50 Vészmanót, és megkapod a Lebegés Csizmáját. Innen elmehetsz a helyõrséghez, akik szeretnének elmenekülni, de nem tudnak. A Lebegés Csizmájával el tudnak majd futni, te pedig átkelhetsz a kapun, hogy megöld Sandrót... vagy legalább jól kioszd.
+
+(6, 2, 0) ***Tûz Varázslat Kötet***
+Üzenet:
+Ezt az õsi kötetet évszázadokig õrizték, most mégis õrizetlenül és védtelenül fekszik itt. Vagy mégsem?
+
+(65, 21, 0) ***Víz Varázslat Kötet***
+Üzenet:
+Az õröket a Vizek Urai állították ide évszázadokkal ezelõtt, hogy megvédjék ezt a kötetet. Nem csoda, hogy a nekromanták nem tudták õket legyõzni.
+
+(47, 42, 0) ***Aranygólem***
+Üzenet:
+Ezeket a gólemeket évszázadokkal ezelõtt állították ide, hogy megvédjék az Elementál Uraktól ellopott Köteteket. Most le kell gyõznöd mind a 200 õrt, hogy hozzájuthass az értékes könyvekhez.
+
+(58, 50, 0) ***Titok Kunyhó***
+Üzenet:
+Barátaink valaha gyönyörû sárkányok voltak, akik ezt a vidéket lakták. Ma már csak rettenetes szellemei egykori önmaguknak, és teljesen a nekromaták irányítása alatt állnak. Ha békét adsz lelkeiknek, nagy kincsekhez adjuk meg a kulcsot.
+Amíg nem pihentek meg a lelkeik, nem adjuk át az Életelixírt.
+Nagyon köszönjük hõsiességedet. Tudjuk, hogy még gyengeségükben is nehéz volt szembenézni velük. Itt van az Életelixír. Tartsd meg vagy add el. A föld alatt élnek páran, akik olyasmit adnának érte, amit még hasznosabbnak találnál. Keresd fel a portálokat, és talán valami még értékesebbet találsz.
+
+(65, 7, 0) ***Küldetésõrzõ***
+Üzenet:
+Nem hagyhatjuk el ezt a helyet. Csak akkor hagyhatnánk el, ha képesek lennénk repülni. A Lebegés Csizmája az egyetlen reményünk. Egy nagy tavon kellene átkelnünk, de mivel tilos hajókat használnunk, itt ragadtunk. A Csizmával magunktól is át tudnánk kelni, és örökre magunk mögött hagyhatnánk Deyját.
+A Lebegés Csizmája nélkül mi nem távozhatunk, te pedig nem kelhetsz át.
+Add át a Lebegés Csizmáját, és átengedünk. Máskülönben patthelyzetbe kerülünk.
+
+(12, 50, 1) ***Titok Kunyhó***
+Üzenet:
+Szükségem van az Életelixírre.  Anyám egészsége romlik, és az elixírbõl ivott víz meggyógyítaná õt.  Megfogadtam, hogy feladom legértékesebb kincsemet, a Mesterlövész Íjat, ha megtalálom az Életelixírt.
+Hacsak nem rendelkezel az Életelixírrel, nem adom át az íjamat.
+Ez az Elixír! Hol találtad? Nem számít. Elcserélnéd a Mesterlövész Íjámra?
+
+(14, 51, 1) ***Föld Elementál***
+Üzenet:
+Nem engedünk át. Jamison, a látnok megpróbál segíteni az anyjának, aki csak a Levegõ és Víz erõit támogatja, de nem ismeri el a mi erõnket. Arcátlansága miatt senkit sem engedünk át.
+
+(20, 23, 1) ***Titok Kunyhó***
+Üzenet:
+Hallottam egy õsi varázstárgyról, az Életelixírrõl. Ezért a ritka varázstárgyért cserébe neked adnám ezt a régi szemetet, a Varázslók Kútját. Ha elhozod nekem, üzletet ajánlok.
+Semmi? Keress tovább....
+Tökéletes ereklye! Elcseréled a Varázslók Kútjára?
+
+(20, 25, 1) ***Fõnix***
+Üzenet:
+ "Ez a mi területünk!" rikácsolja a fõnix. "Halál rád!"
+
+(50, 58, 1) ***Titok Kunyhó***
+Üzenet:
+Az Életelixírt keresem. Ez a gyûrû valaha a nagyapámé, egy hatalmas mágusé volt. Óriási erõ járja át, és az Elixírért cserébe neked adnám.
+Semmi? Keress tovább....
+Neked adom a nagyapám Mágus Gyûrûjét, ha megkapom az Életelixírt.
+
+(52, 58, 1) ***Jég Elementál***
+Üzenet:
+Nem engedjük, hogy bárki is megzavarja a szentélyünket! Téged is cseppfolyósítunk és hozzáadunk a tavunkhoz!	
+
+(49, 25, 1) ***Lég Elementál***
+Üzenet:
+Ez a mi birodalmunk! Halandóknak tilos a belépés! Készülj fel, hogy az éter részévé válj!
+
+(53, 22, 1) ***Lég Elementál***
+Üzenet:
+Ez a mi birodalmunk! Halandóknak tilos a belépés! Készülj fel, hogy az éter részévé válj!
+
+(46, 31, 1) ***Lég Elementál***
+Üzenet:
+Ez a mi birodalmunk! Halandóknak tilos a belépés! Készülj fel, hogy az éter részévé válj!
+
+(42, 30, 1) ***Lég Elementál***
+Üzenet:
+Ez a mi birodalmunk! Halandóknak tilos a belépés! Készülj fel, hogy az éter részévé válj!
+
+(44, 23, 1) ***Vihar Elementál***
+Üzenet:
+Mi vagyunk az õrök, és téged nem fogunk beengedni. Ne gondold, hogy könnyen legyõzhetsz minket!
+
+(56, 61, 1) ***Jég Elementál***
+Üzenet:
+Nem engedjük, hogy bárki is megzavarja a szentélyünket! Téged is cseppfolyósítunk és hozzáadunk a tavunkhoz!	
+
+(52, 62, 1) ***Jég Elementál***
+Üzenet:
+Nem engedjük, hogy bárki is megzavarja a szentélyünket! Téged is cseppfolyósítunk és hozzáadunk a tavunkhoz!	
+
+(54, 57, 1) ***Jég Elementál***
+Üzenet:
+Nem engedjük, hogy bárki is megzavarja a szentélyünket! Téged is cseppfolyósítunk és hozzáadunk a tavunkhoz!	
+
+===== Fájl vége =====

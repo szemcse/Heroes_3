@@ -1,0 +1,117 @@
+===== Térkép neve =====
+Küszködés és kutatás
+
+===== Térkép leírása =====
+Gemnek és Gelunak meg kell találnia a Szentek Bocskorát, a Felvilágosodás Sisakját és a Gyönyör Nyakláncát. Azonban ha bármelyikük is vereséget szenved, a küldetés elveszett. 37. szintig juthatnak el, de tapasztalataikat, képességeiket, varázslataikat továbbviszik majd a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Nemrég elszenvedett vereségük után Gem és Gelu tudták, mit kell tenniük. Egy fegyverre volt szükségük, hogy legyõzhessék Sandro egyesített varázstárgyait. A barbár Yog információi alapján nagyjából tudták, hogy hol keressék az Angyali Szövetség három darabját. Ezek a darabok létfontosságúak, hogy megállíthassák Sandro õrült terveit és a bábját, Vilmar királyt.
+
+Név:
+A környék
+Üzenet:
+A Shandar folyó egyik kis mellékága mellett fekszik egy erathiai terület, ami igazán veszélyes helyszín volt a Szálfa Háborúkban. Mindkét oldal harcolt ezért a régióért és mindketten irányították is, ezalatt a terület megsérült és összetört. Manapság két hadvezér kezében van a vidék, akik állítják, hogy hûek Erathiához, de Gelu szerint ez csak névleges. Erathia lobogója alatt vonulnak, mert ez most éppen megfelel nekik, de valójában csak önmagukhoz hûek.		A Szentek Bocskora biztosan itt van valahol, de a Felvilágosodás Sisakjáról és a Gyönyör Nyakláncáról csak pletykák keringenek. A hadvezéreknek nem érdekük, hogy segítsenek neked, és a varázstárgyakat sem fogják harc nélkül átengedni. Szégyen, hogy ártatlanok vérét kell ontanunk, hogy megmenthessük mindannyiunk életét, és megállíthassuk azt az õrült Sandrót, de ezeknek a bolondoknak ez a sors jutott.  
+
+Név:
+A Bocskor
+Üzenet:
+A helyi farmerek ismerik a Szentek Bocskorának helyét. Elmondják neked, hogy délre található, közel Berrinton várához.
+
+Név:
+A Nyaklánc
+Üzenet:
+Egy felderítõ érkezik Gemhez, és elmondja, hogy megtalálta a Gyönyör Nyakláncát délen, egy Jared Dombja nevû város közelében. Nagyon erõsen õrzik, ezért jobb lenne észrevétlenül megközelíteni. Talán néhány arany a megfelelõ kezekbe meggyorsíthatja utunkat a varázstárgyhoz.
+
+Név:
+Változó dagály
+Üzenet:
+Bár a nekromanta haderõk siettetnek minket, el tudjuk õket ûzni a földjeinkrõl, ha a Szövetséget összekovácsolják. Tisztán át kell gondolnunk a következõ hónapokat, amíg folytatjuk a kutatást. Mióta hírt kaptunk a Szentek Bocskoráról és Gyönyör Nyakláncáról, sokkal jobb a hangulat. Ha az égiek velünk vannak, gyõzedelmeskedni fogunk.
+
+Név:
+Aggodalom
+Üzenet:
+Gelut aggasztja, hogy nincs semmi hír Yog és Crag Hack felõl. Fel-alá járkál, nyugtalankodik az információ hiánya miatt. Sikerrel jártak? Elbuktak? Ha nem találják meg a keresett darabokat, mi fog történni AvLee és Erathia népével?		A rossz elõérzet szellõje lengi be sápadt arcát. Félelem és bizonytalanság érzésével szemléli meg a csapatait. Talán ez is egy csel, mint ami Gemmel és Crag Hackkel történt. Az egész túl egyszerûnek tûnik.
+
+Név:
+Az árulás árnyékai
+Üzenet:
+A kristálygömbjébol olvasva Gem sokszor tudott már meg dolgokat az õt körülvevõ világról. Egyszer beszélt Gelunak arról, hogy Sandro Vilmart bábuként használva irányít az árnyékból. Ezáltal övé a hatalom, de nem válik célponttá... valóban okos terv. Azonban alábecsülte azok értelmét, akiket becsapott. Nem számolt Crag Hack ravaszságával és Gem éles elméjével. Talán csak nem érdekelte, mert abban bízott, hogy összegyûjti a varázstárgyakat, mielõtt fortélyaira fény derül. Ki tudja?
+
+Név:
+Üzenet érkezik
+Üzenet:
+Egy futár érkezik Gemhez, és üzenetet ad át a Vének Tanácsától. "Gem, sietned kell, mert AvLee lakosságát tömegekben mészárolják le, akárcsak a marhákat a vágóhídon. Sandro feltámasztja az elesetteket, hogy saját seregében szolgálják. A legkiválóbb egységeink is csak az ellenséges hadakat erõsítik. Egységes véleményünk szerint Sandro légiói puszta hónapok alatt legyõzhetetlen sereggé fognak növekedni. Azonnal véget kell vetned ennek. Siess a kutatással, mert az Angyali Szövetség nélkül mind halottak leszünk."
+
+Név:
+A Füst és Árnyék napja
+Üzenet:
+Hideg szürke felhõ ereszkedett ma a tájra. A háború tüzei fényesen égtek, mikor a szomorúság árnyai átszelték a mezõket és a réteket. Nyugat-AvLee elestének híre elérte a hõs párost. Gelu - kemény tekintettel, mint mindig - megerõsítette állhatatos törekvését a gyõzelemre. Ezalatt Gem spirituálisabb lépésre szánta el magát: úgy döntött, hogy több rövid szertartást végez el az elesettek távozása miatt, és az égiek kegyébe ajánlja a halottak lelkeit. Most mindennél nagyobb szükség van a sietségre.
+
+Név:
+A megváltás napja
+Üzenet:
+Ma reggel Gelu a sátrában ülve végiggondolta az életét. Megtanult harcolni, lopakodni, kémkedni, de a kiképzés nem készítette fel õt a hibák következményeire. Egy nap eljön majd számára a megváltás napja... de nem ma. Elõször is ki kell vennie a részét Sandro és az élõhalott seregek elpusztításából. Sandro megállítása, ha részben is, de ellensúlyozhatja az elkövetett hibákat és a szenvedést, melyet az avleei lordok elpusztításakor okozott. Talán végre az alvása során álmaiban érkezõ démonai is békét hagynak végre neki.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(45, 7, 0) ***Rampart***
+Név:
+Shayar
+
+(20, 8, 0) ***Rampart***
+Név:
+Faeyedon
+
+(4, 25, 0) ***Rampart***
+Név:
+Shavoril
+
+(61, 26, 0) ***Rampart***
+Név:
+Kineree
+
+(30, 69, 0) ***Castle***
+Név:
+Jared Dombja 
+
+(42, 65, 0) ***Castle***
+Név:
+Berrinton
+
+(17, 40, 0) ***Castle***
+Név:
+Waterston
+
+(60, 49, 0) ***Castle***
+Név:
+Galor Völgye
+
+(44, 41, 0) ***Castle***
+Név:
+Moersberg
+
+(7, 60, 0) ***Castle***
+Név:
+Daviston
+
+(27, 30, 0) ***Esemény***
+Üzenet:
+Menekültek csapata érkezik a táborba... kétségbeesettnek és alultápláltnak tûnnek. Ahogy közeledsz, hogy barátságosan kezet nyújts, rájössz, hogy ez csapda.
+
+(65, 38, 0) ***Esemény***
+Üzenet:
+Egy kisfiú fekszik az úton, sebesülten és összetörten. Egy kis dobozt tart a kezében. Ahogy közeledsz, felajánlja neked, de mire átveszed, meghal. Ahogy kinyitod, egy rendkívüli ajándékot találsz benne. Hogy hogyan kerülhetett ezeknek a hadvezéreknek a kezébe, sosem fogod megtudni. Talán egy ajándék az égiektõl?
+
+(3, 44, 0) ***Esemény***
+Üzenet:
+A kút mellett egy különös, apró öregasszony ül, magában motyogva. Durva ruhát visel, és virágok vannak a hajában. Óvatosan közelítesz. Még a leggyengédebb érintésre is sikítórohamban tör ki. Kezét a mellkasához szorítva hátrál. Megpróbálsz magyarázkodni, de rád mutat, és összefüggéstelen átkokat kiabál. Hirtelen remegést és borzongást érzel. A félelem émelyítõ íze árad szét benned.
+
+===== Fájl vége =====
