@@ -1,0 +1,67 @@
+===== Map name =====
+Azure Dragons
+
+===== Map description =====
+Defeat the great Azure Dragons within six months for eternal fame.  Once you have slain this ancient beast you will have proven yourself to be a Dragon Slayer extraordinaire.   Failure means death of Dracon and eternal branding as a foolish child.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+"It is now time," you tell yourself as you prepare for the long journey.  You have been waiting for this moment for a long time.  Gathering all of the courage you can muster, you set out to face the last challenge that will make you the best Dragon Slayer of them all...the Azure Dragon. 
+
+Name:
+No Magic
+Message:
+As you walk around  you notice that the towns around the base of the mountains are very primitive.  They have no mage guilds what-so-ever.  It is then that you realize that you must use your magic wisely, for you have no way of recharging your mana. 
+
+===== Objects =====
+
+(99, 88, 0) ***Sign***
+Message:
+Beware the Foothills of the Dragon.
+
+(38, 0, 0) ***Event***
+Message:
+As you pass by the medusa stones you become aware of some medusas that have been sleeping behind the stones awaiting some naive stranger to pass by.  
+
+(84, 81, 0) ***Event***
+Message:
+You close your eyes and say a prayer to your god,  realizing these might be your last steps on level ground for a long time...if ever.     
+
+(23, 71, 0) ***Event***
+Message:
+Immediately after the battle you sit down for a rest.   "This is gonna be harder than I thought," you think to yourself. 
+
+(89, 2, 0) ***Event***
+Message:
+The journey has been a long one.  And now it is almost over.  The only thing standing between you and your destiny is the Azure Dragon.  Smiling to yourself you ride on ahead to claim the victory that has been waiting for you for so long. 
+
+(26, 11, 0) ***Event***
+Message:
+After several days up the mountain your army is getting restless.  There have been many hard battles, and many people have died. Your army's morale has been good up until now. Now they are starting to fear. The upcoming battle might be too much for them.  After some rest, they agree to go on. 
+
+(41, 33, 0) ***Event***
+Message:
+You and your army have made it this far.  Morale has not been good, but your army has a newly found confidence.  On the ground are deep blue scales coated in blood.  "If it can bleed, then it can die" you think to yourself, knowing everyone else must be thinking the same thing.  
+
+(87, 32, 0) ***Event***
+Message:
+Your army has broken up the scales and split them between themselves.  They now wear the scale pieces on their necks and on their armor as good luck.  Everyone is still scared, but knowing something that is said to be unbeatable can be killed has brought morale up.
+
+(104, 4, 0) ***Azure Dragon***
+Message:
+We are the last stand against our leader.  You will not get by us. 
+
+(11, 32, 0) ***Sign***
+Message:
+Keep trying, you'll know when you get there.
+
+(107, 3, 0) ***Azure Dragon***
+Message:
+I have been watching your progress for some time now.  Let's see what you are truly made of...
+
+===== End of file =====

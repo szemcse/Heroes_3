@@ -11,12 +11,12 @@ A gyõzelemhez el kell foglalnod Kleesive városát. Néhány Helyõrség csak úgy enge
 Név:
 Bevezetés 1
 Üzenet:
-Egy eofoli vezér levele tisztán kijelenti, hogy Roland Ironfist király az ördögök fogja, és csak egymillió arany váltságdíj mentheti meg az életét.
+Egy eeofoli vezér levele tisztán kijelenti, hogy Roland Ironfist király az ördögök fogja, és csak egymillió arany váltságdíj mentheti meg az életét.
 
 Név:
 Bevezetés 2
 Üzenet:
-Nem tudtuk bizonyítani ezt az állítást, de a küldönc vallatásakor kiderült, hogy a Kreelah klán tartja fogva Rolandot Eofol határain belül. Igaz vagy sem, a királynõ nem fogja megadni magát.
+Nem tudtuk bizonyítani ezt az állítást, de a küldönc vallatásakor kiderült, hogy a Kreelah klán tartja fogva Rolandot Eeofol határain belül. Igaz vagy sem, a királynõ nem fogja megadni magát.
 
 Név:
 Bevezetés 3

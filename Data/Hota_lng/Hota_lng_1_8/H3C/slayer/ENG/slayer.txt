@@ -1,0 +1,45 @@
+Name:
+Dragon Slayer
+
+Description:
+To prove himself a Dragon Slayer Dracon must first defeat the Crystal Golem Dragon.   From there he will seek out the Azure Dragon, with plans of defeating the greatest Dragon to ever live.  In his quest for perfection he will find, and destroy the Purple and Rust Dragons.
+
+
+Rust Dragons - Bracada A
+
+Right-click text:
+Now in search of the mighty Azure  you hear of disturbances to the North.   Burned villages and destroyed mines are causing the region to suffer.   Without the mines in full production the region will not have the resources to defend themselves against Krewlod invasions or eat.  Knowing you are the destined Dragon Slayer, it is time to follow the road north in search of ways to hone your skills.
+
+Prologue:
+Rust dragons have taken to feeding from the mines near the town of Ochre.  These uncommon beasts have chased off the peasantry and now their livelihoods are in jeopardy.  As a hero, I should do this for the town's people.  Yet, I do this to hone my skills.  Where rust dragons abound, the Azure may be nearby.
+
+
+Faerie Dragons - Bracada B
+
+Right-click text:
+Now seeking the famed and elusive Azure Dragons you hear of sightings to the west.   Following the leads you find only a mischevious Faerie Dragon playing tricks on the locals.  Disappointed at first, but soon you discover there are several such dragons and they are relocating towns, maidens and generally mucking about.  This should prove challenging enough for you.
+
+Prologue:
+I have never seen a Faerie Dragon.  Little is known about these notorious troublemakers.  What is known is found more in storybooks than magical tomes.   Some say they are invisible.  Some say they can cast spells.  Some say they are only three feet high.  Some say they are the henchmen of the Azure Dragons.   I do not know what to expect or how my skills will be tested.  Nevertheless, the more I know, the better I will be prepared for the Azure Dragons.
+
+
+Azure Dragons - Bracada C
+
+Right-click text:
+Finally, you have tracked down the Azure Dragons.  Now it is time to face the great dragon in their home territory.  The locals are willing to join your cause, but the paths are guarded by dragons.  Clear these paths and you can gain support.  The Azure Dragons are both mighty and elusive.  Track them down and kill them before they moves on to new territory.  You estimate in six months they will move again. Once you have gained their support you can then seek your prize.  Beware the other Dragons who guard the Azure, keeping out the fainthearted and unworthy of such a challenge.
+
+Prologue:
+I have found a nest of  mighty Azure Dragons.  I have also found my destiny.  Azure Dragons do not nest for long and commands an entourage of dragons of all colors.  The task is great, but I am determined.
+
+Epilogue:
+My victory is hollow.  I do not understand why.  I have accomplished what only the elite dream.  In my private moments, I have felt this beast would be the key to unlock a long sought personal contentment.  I was wrong.  My disatisfaction stirs and I wonder, what is next.
+
+
+Crystal Dragons - Bracada D
+
+Right-click text:
+You face the last challenge in becoming a Dragon Slayer.  You must complete the test course in six months or fail the test.  The Crystal Dragons will be well guarded, the paths watched by other creations.  Golems, Gargoyles and Elementals will try and stop you before you can kill the Crystal Dragon.
+
+Prologue:
+My mother has finished preperations for my final test.  The finest crystal, stealthly taken from the caverns of Krewlod, has been used to create a great dragon golem.   This creature's construction is a feat of magical prowess.  To destroy it... is an even greater feat.  Yet, I have heard the greatest feat a dragon slayer can accomplish is to kill the rare a mighty Azure Dragon.
+

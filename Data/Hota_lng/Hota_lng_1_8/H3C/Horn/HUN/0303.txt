@@ -1,5 +1,5 @@
 ===== Térkép neve =====
-A  Mélység kürtje
+A Mélység kürtje
 
 ===== Térkép leírása =====
 Bidley-nek, Jeremy-nek és Tarknak le kell gyõznie Casmetrát, mielõtt aktiválná a Mélység kürtjét. Ha Jeremy, Bidley vagy Tark vereséget szenved a csatában, a forgatókönyv elveszik. A hõsök szintjének felsõ határa 24. Bidley, Jeremy és Tark a gyõzelem után az utolsó forgatókönyvre lépnek.
@@ -41,7 +41,7 @@ Egy másik felderítõ jött vissza. Õ egy titkos barlangról szerzett tudomást a szi
 Név:
 12. nap
 Üzenet:
-Furcsa nap volt ez a mai. A tenger nagyon háborgott, majd hirtelen teljesen lenyugodott. Lehet, hogy ez pusztán csak egy természeti jelenség volt; de mégis, a Bidley és Jeremy parancsnoksága alatt álló emberek többsége úgy véli, hogy mindez a boszorkány és a varázslatai mioatt vannak.
+Furcsa nap volt ez a mai. A tenger nagyon háborgott, majd hirtelen teljesen lenyugodott. Lehet, hogy ez pusztán csak egy természeti jelenség volt; de mégis, a Bidley és Jeremy parancsnoksága alatt álló emberek többsége úgy véli, hogy mindez a boszorkány és a varázslatai miatt vannak.
 
 Név:
 30. nap
@@ -93,7 +93,7 @@ A levegõ ezen a helyen nagyon poros és száraz. Nehéz lélegezni. A katonáid kendõ
 
 (38, 15, 0) ***Esemény***
 Üzenet:
-Más csapatok mellett Nixek egy csoportja is a helyõrség falait védi. Már mindenki tudja, hogy zsoldosok lettek, és végül különbözõ regnani kapitányokat szolgáltak, miután megszabadultak Nighontól. És most a sajátjaikkal készültek harcolni.	Tark, a Nix felszabadítója és uralkodója mindenkit észhez akar téríteni, és arra buzdítja rokonait, hogy csatlakozzanak az ügyéhez.	– Testvéreim, csatlakozzatok hozzám, mint régen! Rossz lesz annak, aki szembeszáll a testvérével. Nem akarom ezt tenni veletek.		A Nix helyõrség egyik tagja, nyilvánvalóan a vezetõjük, így válaszolt:	– Miben jobb az a kapitány, akinek ma nyalod a csizmáját, mint bárki más? Elárultad a népedet, Tark! Megfosztottál minket az egységtõl, arra kényszerítve, hogy csatlakozzunk a kalózokhoz. Nem foglak megölni az aranyért. Megteszem, csupán csak azért is mert ellenségem vagy!		Ezek ennek a Nixnek az utolsó szavai lettek. Ugynis az arcát egy ágyúgolyó söpörte le a falról.
+Más csapatok mellett Nixek egy csoportja is a helyõrség falait védi. Már mindenki tudja, hogy zsoldosok lettek, és végül különbözõ regnani kapitányokat szolgáltak, miután megszabadultak Nighontól. És most a sajátjaikkal készültek harcolni.	Tark, a Nix felszabadítója és uralkodója mindenkit észhez akar téríteni, és arra buzdítja rokonait, hogy csatlakozzanak az ügyéhez.	– Testvéreim, csatlakozzatok hozzám, mint régen! Rossz lesz annak, aki szembeszáll a testvérével. Nem akarom ezt tenni veletek.		A Nix helyõrség egyik tagja, nyilvánvalóan a vezetõjük, így válaszolt:	– Miben jobb az a kapitány, akinek ma nyalod a csizmáját, mint bárki más? Elárultad a népedet, Tark! Megfosztottál minket az egységtõl, arra kényszerítve, hogy csatlakozzunk a kalózokhoz. Nem foglak megölni az aranyért. Megteszem, csupán csak azért is mert ellenségem vagy!		Ezek ennek a Nixnek az utolsó szavai lettek. Ugyanis az arcát egy ágyúgolyó söpörte le a falról.
 
 (38, 13, 0) ***Esemény***
 Üzenet:

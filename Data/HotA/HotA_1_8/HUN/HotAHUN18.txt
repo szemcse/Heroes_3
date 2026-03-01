@@ -4572,7 +4572,7 @@ Feltölt
 # 135
 Varázslat:
 # 136
-%s görgetése
+%s varázstekercs
 # 137
 Mûtárgy:
 # 138
@@ -21913,7 +21913,7 @@ Igez
 # 24
 Hamis
 # 25
-A hõsnek %s görgetése van
+A hõsnek %s varázstekercse van
 # 26
 %s hõs %s-höz tartozik
 # 27

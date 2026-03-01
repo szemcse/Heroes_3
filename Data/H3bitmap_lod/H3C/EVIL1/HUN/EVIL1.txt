@@ -11,7 +11,7 @@ Jobb-kattintásos szöveg:
 Mielõtt Erathia segítséget hívhatna AvLee tündéitõl, AvLee erejének szívére fogunk lecsapni - az Arany Sárkány Királynõre. Legerõsebb szövetségesének eltávolítása után AvLee nem tud majd Erathiának segítséget nyújtani.
 
 Bevezetõ:
-Jelentõs számú tünde lakja Erathia délkeleti partjait. A terület õshonos zöld és arany sárkányai növelik katonai erejüket. Mielõtt elfoglalnánk ezt a területet és Steadwick felé irányítanánk erõinket, meg kell semmisítenünk ezeket a sárkányokat. Kreegan szövetségeseink Eofolból kifejezetten kérték ezt a dicsõséges küldetést. A Kreeganek ádáz harcosok. Élvezni fogják a mészárlást.
+Jelentõs számú tünde lakja Erathia délkeleti partjait. A terület õshonos zöld és arany sárkányai növelik katonai erejüket. Mielõtt elfoglalnánk ezt a területet és Steadwick felé irányítanánk erõinket, meg kell semmisítenünk ezeket a sárkányokat. Kreegan szövetségeseink Eeofolból kifejezetten kérték ezt a dicsõséges küldetést. A Kreeganek ádáz harcosok. Élvezni fogják a mészárlást.
 
 
 Feltörés - Grainrich
@@ -20,7 +20,7 @@ Jobb-kattintásos szöveg:
 Haderõink a távolság nagy részét földalatti alagutakon fogják megtenni az erathiai fõvárosig. Hogy fenntartsuk a meglepetés erejét, meg kell támadnod bármilyen erathiai települést, amit csak találsz. Használd az óriási barlanghálózatot, hogy megvalósítsd a célodat. 
 
 Bevezetõ:
-Jelentések szerint enrothi hadihajóflotta kötött ki Erathia déli partján. Nem tudjuk, ki vezényli ezt a sereget, sem a sereg méretét. Eofoli forrásaink szerint Roland Ironfist nem vezetheti a flottát. Mindezek ellenére a terveink nem változnak. Elindítjuk földalatti inváziónk utolsó szakaszát, és megszilárdítjuk helyzetünket a délkeleti parton. Késõbb újabb erõsítéseket hozhatunk Nighonból. Megástuk az utolsó alagutat is a térségbe. A taktikai elõny a Tiéd.
+Jelentések szerint enrothi hadihajóflotta kötött ki Erathia déli partján. Nem tudjuk, ki vezényli ezt a sereget, sem a sereg méretét. eeofoli forrásaink szerint Roland Ironfist nem vezetheti a flottát. Mindezek ellenére a terveink nem változnak. Elindítjuk földalatti inváziónk utolsó szakaszát, és megszilárdítjuk helyzetünket a délkeleti parton. Késõbb újabb erõsítéseket hozhatunk Nighonból. Megástuk az utolsó alagutat is a térségbe. A taktikai elõny a Tiéd.
 
 
 Steadwick eleste - Battlestead

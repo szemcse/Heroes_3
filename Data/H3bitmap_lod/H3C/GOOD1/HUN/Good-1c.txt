@@ -4,7 +4,7 @@ Griff Szikla
 ===== Térkép leírása =====
 A gyõzelemhez el kell foglalnod mind a hét Griff Tornyot.
 
-===== Pletykák =====
+===== Események =====
 
 Név:
 Steadwick
@@ -16,7 +16,7 @@ Menekültek
 Szöveg:
 Sok menekült hagyta el a keleti területeket. Legtöbbjük továbbutazott Steadwick felé, hogy biztonságban legyenek.
 
-===== Idõzített Események =====
+===== Idõzített események =====
 
 Név:
 Bevezetés 1
@@ -26,12 +26,12 @@ A Griff Szikla, Erathia szinte teljes griff népességének fészke jelenleg Nighon 
 Név:
 Bevezetés 2
 Üzenet:
-Nighon és Eofol befolyása jelentõs a vidéken, de fel kell szabadítanunk a griffeket, akiket most kényszerítenek, hogy nekik szolgáljanak. Értesültünk róla, hogy a fõváros, Steadwick ostrom alatt áll. Ha elesik, nagy szükségünk lesz a griffek segítségére.
+Nighon és Eeofol befolyása jelentõs a vidéken, de fel kell szabadítanunk a griffeket, akiket most kényszerítenek, hogy nekik szolgáljanak. Értesültünk róla, hogy a fõváros, Steadwick ostrom alatt áll. Ha elesik, nagy szükségünk lesz a griffek segítségére.
 
 Név:
 Bevezetés 3
 Üzenet:
-Keresd fel az északi Griff Tornyokat. Mindet fel kell szabadítunk, mielõtt Steadwick felé indulhatnánk. Sok szerencsét.
+Keresd fel az északi Griff Tornyokat. Mindet fel kell szabadítanunk, mielõtt Steadwick felé indulhatnánk. Sok szerencsét.
 
 Név:
 Fa bónusz
@@ -40,7 +40,7 @@ Fa a Dungeon Nagyurak erõfeszítéseiért.
 
 ===== Tárgyak =====
 
-(37, 64, 0) ***Útjelzõ tábla***
+(37, 64, 0) ***Jel***
 Üzenet:
 A Régi Griff Út
 

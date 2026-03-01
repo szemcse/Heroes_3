@@ -1,0 +1,177 @@
+===== Map name =====
+Faerie Dragons
+
+===== Map description =====
+You have six months to find and defeat the Faerie Dragons to cleanse this territory.  If Dracon dies, the quest is over.  Dracon, his skills, spells and Experience up to level 24 will carry over to the next scenario.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+It has come to your attention there are Faerie Dragons lurking about somewhere on the Western Border.   Feeling you could use the practice before taking on the Azure Dragons you have decided to help the people of Bracada rid themselves of the threat.  If the Faerie Dragons aren't disposed of within six months then they will destroy every village along the coast. 
+
+Name:
+Neclace
+Message:
+As you are traveling down the road you and your army come across an old lady that says she can foretell your future.  Not being a spoilsport you decide to give the old lady some gold in return for a palm reading.
+
+Name:
+Neclace 2
+Message:
+ What the old lady tells you is quite surprising, "The Celestial Necklace of Bliss will be of great help in the near future."  Feeling the old lady earned her money you watch as she walks off smiling to herself.
+
+Name:
+Get pendant
+Message:
+Once the Pendant of Life was used to keep evil at bay.  Recently it was stolen.  Rumor has it that the person who brings the pendant of life back to the owner will receive great riches.   
+
+===== Objects =====
+
+(104, 0, 0) ***Pandora's Box***
+Message:
+
+
+(106, 0, 0) ***Pandora's Box***
+Message:
+
+
+(105, 0, 0) ***Pandora's Box***
+Message:
+
+
+(105, 1, 0) ***Pandora's Box***
+Message:
+
+
+(75, 34, 0) ***Pandora's Box***
+Message:
+
+
+(74, 34, 0) ***Pandora's Box***
+Message:
+
+
+(75, 35, 0) ***Pandora's Box***
+Message:
+
+
+(91, 51, 0) ***Pandora's Box***
+Message:
+
+
+(14, 12, 0) ***Event***
+Message:
+As you walk towards the town you notice it is abandoned.  Perhaps you can turn this town into something nice, you think to yourself.  Unfortunately you are so deep in thought you don't notice you are surrounded by Faerie Dragons. 
+
+(14, 11, 0) ***Event***
+Message:
+After you beat the Faerie Dragons you look around you only to notice the image around, wavers.  Then just as quickly as it began, the illusion disappeared.  Looking around you again, you notice the town wasn't abandoned at all.   It was actually a prospering city.
+
+(19, 19, 0) ***Pandora's Box***
+Message:
+You have chosen...
+
+(19, 18, 0) ***Pandora's Box***
+Message:
+You have chosen...
+
+(83, 68, 0) ***Pandora's Box***
+Message:
+
+
+(81, 69, 0) ***Pandora's Box***
+Message:
+
+
+(22, 17, 0) ***Sign***
+Message:
+One box gives you riches, the other...?
+
+(72, 98, 0) ***Pandora's Box***
+Message:
+
+
+(45, 59, 0) ***Pandora's Box***
+Message:
+As you are walking through the forest you see a big box barring your entrance to the clearing up ahead.  Remembering what happened the last time you opened a box similar to this you hesitate, deciding whether to open the box or leave it alone.
+
+(102, 54, 0) ***Event***
+Message:
+After long hours of walking down this path you approach a Redwood Observatory.  Sitting at the base of the observatory you see some Swordsmen.  As you approach them you notice their Archers have already notched their arrows and are about to fire. You wonder what you have done to upset them. 
+
+(104, 55, 0) ***Event***
+Message:
+Reaching the base of the Redwood Observatory you see why these men attacked as they did.  Smacking yourself in the face you tell yourself that you should have known they were protecting something.  
+
+(93, 1, 0) ***Pandora's Box***
+Message:
+Open carefully!
+
+(84, 3, 0) ***Pandora's Box***
+Message:
+Ouch! This one's gonna hurt.  
+
+(6, 51, 0) ***Event***
+Message:
+HEY!  WHAT ARE YOU DOING? THIS ISN'T THE RIGHT ONE.
+
+(8, 51, 0) ***Event***
+Message:
+HA,HA,HA..This isn't the right one either!
+
+(11, 53, 0) ***Event***
+Message:
+After the disorienting feeling of the teleporter wears off you start down the path.  You come across a leprechaun sitting on the what looks to be a very old Stump.	"Hello again." Says the leprechaun with a grin on his face. 	"Hello." You said wondering why he isn't mad that you tried to take his head off with your bare hands.  All of your wondering ceases when you see the leprechaun shimmer and fade away.  Where once one leprechaun sat now three sets of Faerie Dragons sit.  Realizing this dragon has been playing with you all of this time you look at the Faerie Dragons wondering which is the real one. 	
+
+(10, 51, 0) ***Event***
+Message:
+Just as you are about to attack the dragon you think you hear the leprechaun's voice in your ear "Are you sure this is the right one....?"
+
+(72, 12, 0) ***Pandora's Box***
+Message:
+As the wind blows through the trees you think you hear laughter, but then you shake your head figuring it is only your imagination. 
+
+(98, 72, 0) ***Pandora's Box***
+Message:
+     As you are walking through the forest you come across a box.  You have seen these boxes before and quickly decide not to open it.  After you take a few steps away from the box you realize curiosity just got the better of you.  So you turn around and reach your hand out to open it. Suddenly a Leprechaun jumps out of the forest and sits on the lid, not letting you open it.  Not really understanding what just happened and having never before seen a leprechaun you just sit there and study him.  After a few long moments he breaks the silence, "I am Erik! And who might you be?"  While you are telling him your name you wonder what this little guy is up to.  "I know what is going on around here.  Knowing this I just wanted to give you some advice....  Don't, under any circumstances open this box" says the leprechaun as he pats the side of the box.  Then right before you are about to ask him why you shouldn't open the box.  The leprechaun disappears in a puff of smoke. Leaving only you and the box.	
+
+(98, 58, 0) ***Event***
+Message:
+Just shortly after you leave the castle you see a man lying in the ground, trying his hardest to get back to the castle.  Being the honorable person you are you decide to help him.  It takes you about an hour or so to take him back to his house, but just as soon as you are sure that he is home and safe, you turn to leave.  As you reach for the door the old man regains consciousness and tells you the reason he was so hurt.  He said he and the rest of his party who are now dead were ambushed on the road to the great Redwood Tree. 
+
+(98, 73, 0) ***Event***
+Message:
+Wanting to get as much space between you and the Faerie Dragons you hurry on down the path.  Turning your head to see how much distance is already between you and that...that...thing, you see that you are approximately 50 paces away.  As you turn your head back to the road you nearly fall to the ground with surprise as the leprechaun appears directly in front of you.  "I told you so!" said the leprechaun "Come on.  What did I say? Say it with me now 'Don't under any circumstances open this box'.  Well you didn't listen to me did you?  Hehe, next time you will listen." The leprechaun laughs.  Again, right before you can ask the leprechaun any questions, he disappears, leaving behind a four-leaf clover.  
+
+(53, 68, 0) ***Pandora's Box***
+Message:
+"Okay.  Let's try this again" Says the leprechaun as he appears a little off to your left.  It doesn't surprise you any more that the leprechaun just appears.  So you talk to him like he has been there all along, "Let me guess.  'Don't open the box.' "  "Hey, you catch on quick." Said the leprechaun, again disappearing. As you think of how weird all of this is, you shake your head.  You decide to put up with the little leprechaun, remembering your ultimate goal is to kill the Faerie Dragons.  	
+
+(53, 67, 0) ***Event***
+Message:
+The leprechaun appears before you shaking his head and laughing to himself.   Expecting the leprechaun about now you look at him and ask him what he is laughing at.  "Do you purposely not pay any attention to anyone?" said the leprechaun again laughing to himself. Not feeling like listening to him you walk right past him thinking if you ignore him he will go away.  To your dismay he doesn't go away.   He just walks with you lecturing on why you should listen to him.  After hours and hours of listening to him you come to the conclusion you are really getting tired of his antics. So you turn around angrily and attempt to take his head off with the back of your hand.  But in the instant your hand makes contact with his body, he disappears. He irritated you so much that you actually start mumbling to yourself as you continue your journey to find the Faerie Dragon.	
+
+(85, 10, 0) ***Event***
+Message:
+As you approach the garrison you notice there is no activity whatsoever.  Standing in the bushes a short distance away from the garrison, you ponder what is happening.  Finally you see the garrison gates open and two Faerie Dragons walk through the gate then disappear into thin air.  "Ah" you think to yourself.  You should have known.  You stride towards the garrison telling yourself it is time to rid this land of the Faerie Dragons once and for all.  Just as you start to head toward the garrison you stop and start to wonder where the sorry excuse for a leprechaun is now.   
+
+(88, 7, 0) ***Event***
+Message:
+As you step through the garrison you see a faint shimmer just over the small hill that lies in front of you.  You know who is there.  You just wonder if there is another way around the hill.  Coming to the conclusion there isn't, you venture forth. As you top the hill you see the leprechaun and notice he is waving at you.  The leprechaun strides forward coming to a stop directly in front of you.  "I figured that since you wouldn't listen to me anyway, I wouldn't bother to warn you about the Faerie Dragons that were guarding the garrison," said the leprechaun.  "Thank you very much.  It was actually pleasant with you not there,"  losing your patience with the leprechaun.  "If you are going to be like that then I won't tell you that one Faerie Dragon got away and is now returning with more," said the leprechaun again disappearing like he wasn't here to begin with.  
+
+(78, 1, 0) ***Pandora's Box***
+Message:
+
+
+(84, 44, 0) ***Pandora's Box***
+Message:
+As you approach the box you hear a faint whisper in your left ear.  "Good Luck with this one...." Shrugging the sound off as the wind, you decide to open the box. 
+
+(93, 52, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

@@ -1,45 +1,45 @@
-Name:
+Név:
+Vakmerõ Önfejûség
+
+Leírás:
+Kövesd Sir Christiant, egy feltörekvõ illatalkimistát, aki ahogy megkezdi a háromórás körutazását, állandóan abban a helyzetben találja magát, hogy az életéért kell alkudoznia.
 
 
-Description:
+Elveszve a tengeren - Islands A
+
+Jobb-kattintásos szöveg:
+A háromórás városnézés alatt Sir Christian hajóját elsodorta egy hirtelen nyári vihar. Amikor a vihar véget ért, a kapitánynak és legénységének fogalma sem volt a jelenlegi pozíciójukról. Majdnem egy hétig hajóztak felhõs ég alatt, mely teljesen megakadályozta az irányuk meghatározását. Végül egy kis sziklás sziget tûnt fel a láthatáron. Kikötés közben egy nagyobb szikla utat talált a hajótestbe, mellyel helyrehozhatatlan kárt okozott. A kíváncsi bennszülöttek barátságosnak tûntek Sir Christian felé. Megegyeztek, hogy segítenek neki elhagyni a szigetet, ha épít nekik cserébe egy országházat.
+
+Bevezetõ:
+Csak egy egyszerû nyaralást szerettem volna. Egy hurrikán után itt találom magam ezen a szigeten, körbevéve ezekkel a büdös bennszülöttekkel. Lehet, hogy apámnak igaza volt, amikor az illatalkimista álmomról beszéltem neki. Talán a katonai edzésem segíthet abban, hogy kijussak errõl az elhagyatott homokbörtönbõl.
 
 
+Itt vannak a kalózok - Islands B
 
-Lost at Sea — Islands A
+Jobb-kattintásos szöveg:
+Sir Christian úton volt hazafelé, amikor a legénység egyik tagja észrevette, hogy a hajónak nincs navigációs felszerelése. Egy vitorlás hajó helyett egy rövid útra elég csónakot kaptak. Számtalan tengeren töltött éjjel és nappal után megtalálták a kiutat, és felfedeztek egy újabb kis szigetet… tele kalózzal.
 
-Right-click text:
-While on a three-hour sight seeing tour Sir Christian's ship was blown off course by a sudden summer storm. When the storm cleared the captain and crew had no idea what their position might be. For nearly a week they sailed under an overcast sky, completely unable to determine their heading. Finally, a small rocky island was spotted. While landing their ship a large rock found it's way into the hull making the craft irreapirable.The curious natives seemed friendly in meeting with Sir Christian. They agreed to help him get off the island if he built them a capitol.
-
-Prologue:
-All I wanted was a simple vacation.  One hurriance later and I am here on this island with these foul smelling natives.  Perhaps my father was right when I told him about my dream to become a fragrance alchemist.  Maybe my military training can help me get off this forsaken sand prision.
-
-
-Here There Be Pirates — Islands B
-
-Right-click text:
-Sir Christian was on his way home when one of his crewmembers discovered that the boat had no navigational equipment. Instead of getting a sailing ship, they got a dinghy for short distance traveling.  After many days and nights at sea, they found their salvation and discovered another small island... full of pirates.
-
-Prologue:
-I do not know if it is poetic justice, a bad joke, or plain rudeness, but I was informed my native friends 'forgot' the rather important navigational equipment.  After many days and nights, we found our salvation and discovered another small island... full of pirates.  Apparently they too do not understand the art of the fragarance alchemist.
+Bevezetõ:
+Nem tudom, hogy ez egy költõi igazságtétel, egy rossz vicc vagy egyszerû tapintatlanság, de azt a hírt kaptam, hogy a helyi barátaink 'elfelejtették' a legfontosabb részt, a navigációs felszerelést. Számtalan éjjel és nappal után megtaláltuk a kiutat, és felfedeztünk egy újabb kis szigetet… tele kalózzal. Úgy tûnik, hogy Õk sem értik meg az illatalkimista mûvészetet.
 
 
-Hurry Up and Wait — Islands C
+Igyekezz, és várj - Islands C
 
-Right-click text:
-After finding out he was being used as a tool against his own land and queen, Sir Christian finished his quest and fled the island, stole a real sailing ship and went to Queen Catherine's military island to protect it. The four surrounding islands that once protected the main island are now infested with Regnan Pirates. Queen Catherine may pay a visit to this island in four months.
+Jobb-kattintásos szöveg:
+Miután kiderült, hogy a kalózok csak kihasználták a szülõföldje és a királynõ ellen, Sir Christian befejezte a küldetését, és elmenekült a szigetrõl, ellopva egy rendes vitorlás hajót, és azonnal Catherine királynõ katonai bázisa felé vette az irányt, hogy megvédje azt. A négy sziget, mely valaha megvédte a fõszigetet most hemzseg Regnan kalóztól. Lehetséges, hogy Catherine királynõ négy hónapon belül meglátogatja ezt a szigetet.
 
-Prologue:
-If you were to ask me where my loyalities lie, in all honesty, I would answer, "To whomever could get me home."  So, when I learned of the nearby Erathian outpost, I knew I had found my esacpe.  So, I left those filthy pirates in the middle of the night and arrived at the Erathian outpost the following morning.  Little did I know the outpost was the next target of my former pirate allies.
+Bevezetõ:
+Ha megkérdeznéd, kihez vagyok hû, õszintén azt felelném, hogy "Bárki, aki haza tud juttatni." Így, amikor értesültem arról, hogy van a közelben egy erathiai elõõrs, tudtam, hogy megtaláltam a menekülésem. Így, elhagytam azokat a mocskos kalózokat az éjszaka közepén, és másnap reggel már az erathiai elõõrsön voltam. Akkor még nem tudtam, hogy az elõõrs lesz a korábbi kalózszövetségeseim következõ célpontja.
 
-Epilogue:
-What luck.  I have managed to catch a ride aboard Queen Catherine's ship, enroute to Erathia to attend her father's funeral.  I am told the Erathian countryside is quite beautiful.  At last I can leave all this combat behind.  I think it should make a fitting vacation spot.  I can't wait.
+Utószó:
+Micsoda szerencse. Sikerült feljutnom Catherine királynõ fedélzetére, ami Erathiába tart az apja temetésére. Úgy hallottam, hogy az erathiai vidék egész szép. Végre magam mögött hagyhatom ezt a rengeteg harcot. Úgy gondolom, hogy ebbõl már egy jó vakáció kellene alakuljon. Alig várom.
 
 
-Their End of the Bargain — Islands D
+Az alku vége - Islands D
 
-Right-click text:
-The natives where so happy at Sir Christian's success, they completely forgot about the agreement to help him in return. The days and days of celebration turned into weeks of endless parties leaving Sir Christian very angry.  While the natives were celebrating he traveled to the tavern and met with the former leaders of the towns he'd just beaten. The leaders come to the conclusion Sir Christian was too dangerous to have around.  The bargain was struck and Sir Christian would gain their lands and they would gladly help him to leave.
+Jobb-kattintásos szöveg:
+A helyiek annyira megörültek Sir Christian sikerének, hogy teljesen megfeledkeztek az egyességrõl, hogy cserébe segítenek neki. A napok és a rendezvény napjai lassan hetekig tartó, végtelen ünnepléssé váltak, ez Sir Christiant nagyon feldühítette. Míg a bennszülöttek ünnepeltek, Õ elment a fogadóba találkozni a volt vezetõkkel, akiket nemrég gyõzött le. A vezetõk arra a döntésre jutottak, hogy Sir Christian túl veszélyes, hogy a környéken tartózkodjon. Az alku megköttetett, Sir Christian megkapja a földjeiket és Õk segítenek neki elmenni.
 
-Prologue:
-I swear... these natives only know two things: how to start a war and how to throw a party.  Apparantly, the natives I just defeated want me off the island as much as I want off.  One condition, I must reclaim the lands I just took from them.   Ugh.   The stench.
+Bevezetõ:
+Esküszöm... ezek a bennszülöttek csak két dologhoz értenek: hogyan kell háborút indítani és hogyan kell partit rendezni. Kétségtelenül, a bennszülöttek, kiket legyõztem, annyira el akarnak tüntetni a szigetükrõl, mint amennyire én szeretnék eltûnni. Egy feltétel, vissza kell adnom a területeket, amiket most elvettem. Uhh. A bûz.
 

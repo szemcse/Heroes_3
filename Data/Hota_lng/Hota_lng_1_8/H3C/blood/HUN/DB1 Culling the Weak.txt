@@ -1,0 +1,185 @@
+===== Térkép neve =====
+A gyengék mustrálása
+
+===== Térkép leírása =====
+Gyõzd le az ellenségeidet, de vigyázz, nehogy elveszítsd Mutaret. Mutare a 10. szintig fejlõdhet, azonban továbbmegy a következõ pályára. Szerezd meg a Mana Amulettjét a Látó Kunyhójából, és vidd magaddal a következõ pályára, hogy belépést nyerj egy bónusz területre.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+1. nap Bevezetõ
+Üzenet:
+A kémeid híreket hoztak. Két fiatal és hatalomra éhezõ nagyúr szinte egyszerre indított támadást Ordwald ellen. Meglepõ módon jól is állnak. Egy évvel ez elõtt könnyedén visszaverte volna a fiatalok támadását Ordwald. Bizonyosan nincs formában, ha Õk ilyen jól állnak.
+
+Név:
+1. nap Bevezetõ folytatása
+Üzenet:
+Itt az idõ, hogy kirugdossam a fiatal, újgazdag nagyurakat, és megszerezzem az öreg boszorkánymester földjeit. Ordwald zászlója a kék, míg a két fiatalé a zöld és a barna színt viselik. Itt az idõ, hogy elõrenyomuljak a piros zászlómmal. Itt az idõ a gyengék leselejtezésére.
+
+Név:
+Hadinapló: Vörös sárkányok
+Üzenet:
+Hadinapló: A kémeim ma jelentették, hogy egy kis csoport vad Vörös Sárkány fészket épített a legközvetlenebb útra, mely Ordwald megmaradt földjéhez vezet.
+
+Név:
+Hadinapló: Zöld nagyúr
+Üzenet:
+Hadinapló: A nyugati kémeim jelentése alapján Caomhan nagyúr zöld zászlója Harpy Rock Kastélyánál jár. Harpy Rock régen Ordwald kastélyinak egyike volt.
+
+Név:
+Hadinapló: Cser színû nagyúr
+Üzenet:
+Hadinapló: Ma este egy tüdejét kiköpõ felderítõ jelentése alapján Preuet nagyúr barna csapatai elfoglalták Ordwald Dead Timber nevû kastélyát. Dead Timber Death Kiss kastélyától északra található.
+
+Név:
+Hadinapló: Felsõ barlangok
+Üzenet:
+Hadinapló: A felderítõim azt mondják, hogy legalább 3 kastély található a felsõ barlangokban. A legközelebbit Sinkholenak hívják. A másik kettõnek nem tudják a nevét, illetve azt se, hogy pontosan hol találhatóak. A Felderítõk Mestere azt mondta, hogy van valami véletlenszerû teleport rendszer, ami összeköti a barlangrendszer felsõ szintjeit.
+
+Név:
+Hadinapló: Egy bölcs üzenete
+Üzenet:
+Hadinapló: Egy bölcs üzenetet küldött ma nekem, miszerint szeretne velem találkozni Sinkhole Kastélyától nem messze. Valami személyes ügyben kellhet neki segítség, és hajlandó megfizetni a szolgálataimat valamivel, ami a közeljövõben még hasznos lehet. Úgy döntöttem, hogy meglátogatom, vagy küldök egy nagykövetet, amikor idõm engedi. A bölcsek titokzatosak, de hasznosak voltak eddig minden alkalommal a múltban.
+
+Név:
+Hadinapló: Városi lázadások
+Üzenet:
+Hadinapló: Egy csoport felderítõm szerint Ordwald várai közül négyben fellázadtak, és ismét semlegesek lettek. Úgy tûnik, hogy annyira kevés helyõrség volt, hogy az ott élõk elüldözték õket. Ordwald híres arról, hogy keménykezûen bánik az alattvalóival. Mégis, azon csodálkozom, hogy hová tûntek az õrök, akik azokat a várakat védték?
+
+Név:
+Hadinapló: Eltûnt helyõrségek
+Üzenet:
+Hadinapló: Ordwaldot még nem látta senki. Bármi hibája is legyen, Õ egy hatalmas nagyúr, és ha a hiányzó helyõrségek vele vannak, akkor nagy valószínûséggel hatalmas serege is lehet. Megparancsoltam a Felderítõk Mesterének, hogy találja meg Õt. Nem szeretném, hogy rajtam vagy bármelyik seregemen rajtaüssön.
+
+Név:
+Hadinapló: A csapatoknak meg kell õrizniük a hazát
+Üzenet:
+Hadinapló: Üzenetet kaptam Maih tábornoktól. A szomszédos nagyurak az eredeti birtokom körül felfigyeltek az Ordwald elleni inváziómra. Miah szerint puhatolóznak, hogy vajon meg tudják-e szerezni a földemet, amíg én vele foglalkozom. Ismerem ezeket a nagyurakat. Ha a gyengeségnek csak a legkisebb jelét is meglátják, azonnal átözönlenek a határon. Másrészrõl, egyik szomszédos nagyúrnak sincs semmilyen személyes ellentéte velem. Erõs helyõrségek és egy erõs helyi sereg egy megfelelõ vezetõ alatt, mint például Maih, elhárít minden inváziót. Nem vagyok hajlandó földet veszíteni. Elküldöm Maihnak az alacsonyabb szintû katonáimat, hogy ezzel is erõsítsem az otthoni védelmet.
+
+Név:
+Hadinapló: Miah extra újoncai
+Üzenet:
+Hadinapló: Üzenetet kaptam Miahtól. A földemet körülvevõ nagyurak feladták, hogy teszteljék a védelmemet. Miah jelentése szerint összecsapások vannak Preuet és Caomham nagyurak földjén. Ha bármelyikük is annyira bolond lenne, hogy nem hagyna megfelelõ védelmet, az csúnyán megfizetne a hibájáért. Miah úgy véli, hogy tud nélkülözni néhányat a magasabb szintû katonákból, ha szeretném. Küldtem egy utasítást, hogy engedje el a csapatokat nekem.
+
+Név:
+Hadinapló: Az újoncok megérkeztek
+Üzenet:
+Hadinapló: Az extra seregek ma megérkeztek. Egyenlõen elosztottam õket az összes váramban.
+
+Név:
+Hadinapló ?
+Üzenet:
+Hadinapló: Furcsa, még mindig semmi nyoma Ordwaldnak. A Felderítõk Mesterének sem sikerült megtalálnia, és így ahányszor ránézek, Õ sírva fakad. A bolond nem tudja, hogy túl jó munkát végez számomra, hogy példát statuáljak vele. Kezdem azt hinni, hogy valamelyik fiatal nagyúr szerencsés lett, és megölette Ordwaldot.
+
+===== Tárgyak =====
+
+(16, 33, 0) ***Dungeon***
+
+Idõzített események:
+
+Név:
+Újoncok érkezése
+Üzenet:
+További toborozható sereg érkezett ma ide.
+
+(60, 57, 0) ***Dungeon***
+Név:
+Sinkhole
+
+Idõzített események:
+
+Név:
+Erõsítés otthonról
+Üzenet:
+További toborozható sereg érkezett ma Sinkhole várába.
+
+(58, 30, 0) ***Dungeon***
+
+Idõzített események:
+
+Név:
+Újoncok érkezése
+Üzenet:
+További toborozható sereg érkezett ma ide.
+
+(69, 53, 0) ***Titok Kunyhó***
+Üzenet:
+Egy személyes kísérletem lenne, melyhez szükségem van 13 Kénre, 7 Kristályra és 13 Drágakõre. Ha Te, vagy valamelyik szolgád elhozza ezeket nekem, adok neked egy varázstárgyat. Úgy láttam, hogy ez a tárgy körülbelül egy év múlva lesz hasznos egy bizonyos No Quarter nevû vár környékén. Hozd el a nyersanyagokat és a varázstárgy a Tiéd lehet.
+
+(22, 57, 1) ***Dungeon***
+Név:
+Harpy's Rock
+
+Idõzített események:
+
+Név:
+Erõsítés otthonról
+Üzenet:
+További toborozható sereg érkezett ma Harpy's Rock várába.
+
+(52, 19, 1) ***Dungeon***
+Név:
+Dead Timber
+
+Idõzített események:
+
+Név:
+Erõsítés otthonról
+Üzenet:
+További toborozható sereg érkezett ma Dead Timber várába.
+
+(19, 18, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
+Adomány a városházához
+Üzenet:
+Segítség Ordwald számára
+
+Név:
+Adomány a citadellához
+Üzenet:
+Segítség Ordwald számára
+
+Név:
+Adomány a gombagyûrûkhöz
+Üzenet:
+Segítség Ordwald számára
+
+(52, 57, 1) ***Dungeon***
+Név:
+Death Kiss
+
+Idõzített események:
+
+Név:
+Erõsítés otthonról
+Üzenet:
+További toborozható sereg érkezett ma Death Kiss Kastélyába.
+
+(57, 38, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
+Újoncok otthonról
+Üzenet:
+További toborozható sereg érkezett ma ide.
+
+(37, 38, 1) ***Vörös Sárkány***
+Üzenet:
+Egy vad Vörös Sárkány fészket látsz magad elõtt. Meg szeretnéd támadni?
+
+(35, 57, 1) ***Dungeon***
+
+Idõzített események:
+
+Név:
+Újoncok otthonról
+Üzenet:
+További toborozható sereg érkezett ma ide.
+
+===== Fájl vége =====

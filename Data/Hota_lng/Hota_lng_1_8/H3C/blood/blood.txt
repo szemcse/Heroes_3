@@ -1,45 +1,45 @@
-Name:
+Név:
+Sárkányvér
+
+Leírás:
+Mutare fõvezér, egy lelkes nighoni hölgy, szeretné elfoglalni az Õt megilletõ helyet a hatalmas nighoni nagyurak körében. Nighonban nem öröklöd a földedet - elveszed azoktól, akik túl gyengék ahhoz, hogy megvédjék azt. Csak az erõs uralkodhat, és a gyengék csontjai szennyezik Nighon alagútjait.
 
 
-Description:
+A gyengék mustrálása - Nighon A
+
+Jobb-kattintásos szöveg:
+Ordwald, egy közeli szomszédod a legöregebb nagyúr. A kor lassan meglátszik az idõs boszorkánymesteren, de azért még vissza tudja verni a fiatalabb nagyurakat. A többiekkel ellentétben Te türelmesen vártál Ordwaldra, hogy valami hibát vétsen, mielõtt megtetted volna az elsõ lépésed. Múlt héten Ordwald hibát vétett. Itt az idõ, hogy megtámadd.
+
+Bevezetõ:
+Ordwald. Már a neve is undorító. Az öregember már régóta egy gazdag földbirtokos, melyet egy sokkal hatalmasabb apa hagyott rá. Elherdálta az idejét, és nagyon keveset tett azért, hogy kiérdemelje pozícióját. Túl sokáig álltam az árnyékában és a határainál.
 
 
+A dögevõk marcangolása - Nighon B
 
-Culling the Weak — Nighon A
+Jobb-kattintásos szöveg:
+A kihallgatás felfedte, hogy Ordwald azért nem védte meg személyesen a földjeit, mert a Sárkányvér Fiolája után kutatott. Balszerencséjére Caomham és Preuet is hallott a Fioláról. Bizonyosan követni fognak téged a Mély Barlangokba, ha tudnak. Elõször meg kell tõlük szabadulnod.
 
-Right-click text:
-Ordwald, your near neighbor, is the oldest lord in Nighon.  Age has started to effect the old warlock, but he is still able to beat off the other young lords.  Unlike the others, you have patiently waited for Ordwald to stumble before you move.  Last week, Ordwald slipped.  Time to take him down.
-
-Prologue:
-Ordwald.  I find the name distasteful.  This old man has held rich Nighon lands given to him by a much greater father.  He has squandered his time and done little to earn his stature.  I have stood in his shadow and by his borders too long.  His lands will be mine.
-
-
-Savaging the Scavengers — Nighon B
-
-Right-click text:
-Interrogation reveals Ordwald didn't personally defend his lands because he is seeking the fabled Vial of Dragon Blood. Unfortunately, Caomham and Preuet have also heard about the Vial. They will certainly follow you into the Deep Caverns after Ordwald if they can. You need to dispose of them first.
-
-Prologue:
-Ordwald is absent.  No wonder his lands were so easy to take.  It seems he has spent his life and his father's fortune in pursuit of the fabled Vial of Dragon Blood.  It is said to hold blood taken from the Dragon Father.  It is believed drinking it will transform the user into a sentient dragon.  Orwald isn't as stupid as I believed.  Still, he is old.  I will find him and the vial, but first, I must dispose of the young lords who have heard the news and nip at my heels.
+Bevezetõ:
+Ordwald eltûnt. Nem csoda, hogy a földjeit olyan könnyû volt megszerezni. Úgy tûnik, hogy az egész életét és apja vagyonát az állítólagos Sárkányvér Fiolának megkeresésére fordította.  Azt mondják, hogy a Sárkány Apától származik a benne található vér. Úgy vélik, hogy aki megissza a vért, az egy érzõ sárkánnyá változik. Ordwald nem is annyira buta, mint hittem. Azonban öreg. Meg fogom találni õt és a Fiolát, de elõbb, meg kell szabadulnom a fiatal nagyuraktól, akik hallották a híreket, és a sarkamban vannak.
 
 
-Blood of the Dragon Father — Nighon C
+A sárkány Apa vére  - Nighon C
 
-Right-click text:
-Whoever gains the Vial of Dragon Blood and drinks the Blood of the Dragon Father with transform into a Sentient Dragon.  You MUST beat Ordwald to the Vial and defeat its guardians.  Nothing else matters.  Nothing!
+Jobb-kattintásos szöveg:
+Aki megszerzi a Sárkányvér Fiolát és megissza a Sárkány Apa Vérét, az átalakul egy Érzõ Sárkánnyá. Meg KELL szerezni Ordwald elõtt a Fiolát, és legyõzni az õrzõit. Semmi más nem számít. Semmi!
 
-Prologue:
-I have found Ordwald.  He is close to the vial, but his conservative actions and slow thinking leaves the way open for me to surpass him.  As much as I must worry about Ordwald, I must consider the vial.  Once I have passed him, there is the vial, and no doubt, it will have guardians... dragon guardians.
+Bevezetõ:
+Megtaláltam Ordwaldot. Közel jár a fiolához, de az óvatos cselekedetei és lassú gondolkodása lehetõséget biztosít számomra, hogy felülkerekedjek rajta. Akármennyire is aggódok Ordwald miatt, figyelembe kell vennem a fiolát. Ha megelõztem Õt, ott lesz a fiola és kétség nélkül lesznek õrei is… sárkány õrei.
 
 
-Blood Thirsty — Nighon D
+Vérszomjas - Nighon D
 
-Right-click text:
-Ordwald lied to three powerful Nighon Lords.  He told them, if they were to drink your blood they would also transform into dragons.  Now your old opponent Ordwald and three powerful lords block your access to the upper tunnels.  They want to kill you and drink your blood.  You plan to drink theirs.
+Jobb-kattintásos szöveg:
+Ordwald hazudott a három hatalmas nighoni nagyúrnak. Azt mondta nekik, hogy ha isznak a véredbõl, akkor õk is sárkánnyá változnak. Így most a régi ellenfeled, Ordwald és három hatalmas nagyúr állja utadat a felsõ alagutakhoz. Meg akarnak ölni, és inni akarnak a véredbõl. Úgy tervezed, hogy Te fogsz az övékbõl inni.
 
-Prologue:
-I am successful.  Now Ordwald and his lacky's seek to slay me and drink my blood.  They believe it will transform them as the vial transformed me.  They will never drink my blood.  I will be the one to drink their blood.
+Bevezetõ:
+Sikeres vagyok. Ordwald és a csicskásai meg akarnak ölni, és inni szeretnének a vérembõl. Úgy hiszik, hogy Õk is át fognak alakulni, ahogy Én is átalakultam a fiolától. Soha nem fognak inni a vérembõl. Majd inkább én iszok az övéikbõl.
 
-Epilogue:
-Ordwald is dead.  His lackeys are dead.  Their lands and riches belong to me.   Soon, all of Nighon will belong to me.
+Utószó:
+Ordwald halott. A csicskásai halottak. A földjeik és kincseik az enyémek. Hamarosan egész Nighon az enyém lesz.
 

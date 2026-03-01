@@ -2,11 +2,11 @@
 Kapzsiság
 
 ===== Térkép leírása =====
-A gyõzelemhez el kell foglalnod minden falut és várat és le kell gyõznöd minden elleséges hõst. Akármelyik oldalt is válaszd, a másik szemében örökre áruló leszel.
+A gyõzelemhez el kell foglalnod minden falut és várat és le kell gyõznöd minden ellenséges hõst. Akármelyik oldalt is válaszd, a másik szemében örökre áruló leszel.
 
-===== Pletykák =====
+===== Események =====
 
-===== Idõzített Események =====
+===== Idõzített események =====
 
 Név:
 Tataliai bevezetõ elsõ rész
@@ -31,28 +31,28 @@ A parancsaidat Boragus nagyúr egyik hadurától kapod. "Személy szerint soha nem s
 Név:
 Krewlodi bevezetõ második rész
 Üzenet:
-"Egyéként, ha nem tudnád magad is, ez egy háború a határokért. Tralossk a fejébe vette, hogy a mi területünkre fáj a foga. A Te feladatod, hogy megállítsd! Boragus nagyúr szeret téged, de az életed egy fabatkát sem ér majd, ha a Tataliaiak megjelennek a nagyúr palotája ajtajában."
+"Egyébként, ha nem tudnád magad is, ez egy háború a határokért. Tralossk a fejébe vette, hogy a mi területünkre fáj a foga. A Te feladatod, hogy megállítsd! Boragus nagyúr szeret téged, de az életed egy fabatkát sem ér majd, ha a Tataliaiak megjelennek a nagyúr palotája ajtajában."
 
 Név:
 Krewlodi bevezetõ harmadik rész
 Üzenet:
-"Most már a feladatod egyértelmû. Állíts meg a Tataliai elõrehaladást, aztán zavard vissza ezeket a hitvány gyíkembereket a határon, hogy még csak ne is gondoljanak többet a száraz fölre! Ó, hamár úgy is itt vagy, szabadulj meg ezektõl a bosszantó Erathiai helyõrségektõl! Jó szórakozást!"
+"Most már a feladatod egyértelmû. Állíts meg a Tataliai elõrehaladást, aztán zavard vissza ezeket a hitvány gyíkembereket a határon, hogy még csak ne is gondoljanak többet a száraz földre! Ó, ha már úgy is itt vagy, szabadulj meg ezektõl a bosszantó Erathiai helyõrségektõl! Jó szórakozást!"
 
 ===== Tárgyak =====
 
-(46, 66, 0) ***Útjelzõ tábla***
+(46, 66, 0) ***Jel***
 Üzenet:
 Déli Út
 
-(60, 16, 0) ***Útjelzõ tábla***
+(60, 16, 0) ***Jel***
 Üzenet:
 Északi Út
 
-(96, 43, 0) ***Útjelzõ tábla***
+(96, 43, 0) ***Jel***
 Üzenet:
 Goblin Villa
 
-(87, 57, 0) ***Útjelzõ tábla***
+(87, 57, 0) ***Jel***
 Üzenet:
 Orc Villa
 

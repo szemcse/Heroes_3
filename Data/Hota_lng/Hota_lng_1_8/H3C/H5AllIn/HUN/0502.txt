@@ -311,7 +311,7 @@ Bejegyzés Dargem naplójából:		"Már messzirõl észrevettem azt az élénk színû sátr
 
 (103, 25, 0) ***Esemény***
 Üzenet:
-Bejegyzés Dargem naplójából:		"Ma egy nagyon szörnyû álmom volt! Abban, egy hegyek közé beékelõdött csillagvizsgálóban dolgoztam. Hatalmas távcsövekkel volt felszerelve, amelyek egy kristálygömbre továbbították az információkat. Hirtelen valami elromlott a teleszkópokkal: a távcsövek adása dadogni kezdett. Odakint éjszaka volt, és én nagyon megijedtem, de meg kellett néznem a távcsöveket, hogy kiderítsem, mi a baj. Reszkettem a rémülettõl és a gondolattól, hogy az éjszaka közepén kimerészkedjek a hegyekbe!  Az istállóban volt egy póni, amin kilovagolhattam a sötét éjszakába. Éppen fel akartam ülni rá, amikor megbotlottam, majd elestem és így felébredtem. Milyen jól éreztem magam, miután rájöttem, hogy ez csak egy álom volt!"
+Bejegyzés Dargem naplójából:		"Ma egy nagyon szörnyû álmom volt! Abban, egy hegyek közé beékelõdött csillagvizsgálóban dolgoztam. Hatalmas távcsövekkel volt felszerelve, amelyek egy kristálygömbre továbbították az információkat. Hirtelen valami elromlott a teleszkópokkal: a távcsövek adása dadogni kezdett. Odakint éjszaka volt, és én nagyon megijedtem, de meg kellett néznem a távcsöveket, hogy kiderítsem, mi a baj. Reszkettem a rémülettõl és a gondolattól, hogy az éjszaka közepén kimerészkedjek a hegyekbe! Az istállóban volt egy póni, amin kilovagolhattam a sötét éjszakába. Éppen fel akartam ülni rá, amikor megbotlottam, majd elestem és így felébredtem. Milyen jól éreztem magam, miután rájöttem, hogy ez csak egy álom volt!"
 
 (20, 45, 1) ***Titok Kunyhó***
 Üzenet:

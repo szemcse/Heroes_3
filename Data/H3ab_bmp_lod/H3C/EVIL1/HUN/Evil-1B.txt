@@ -21,7 +21,7 @@ Egy ügynökünk is van, aki a terület várai után kémkedik egy félreesõ szigetrõl. 
 Név:
 Hírek
 Üzenet:
-Egy tanácsadó közeledik: "Jelentést kaptunk, hogy enrothi hadihajók kötöttek ki Erathia déli partján. Egyelõre nem tudjuk, ki vezényli a sereget, sem a sereg méretét. Eofoli forrásaink szerint Roland Ironfist nem vezetheti a flottát."
+Egy tanácsadó közeledik: "Jelentést kaptunk, hogy enrothi hadihajók kötöttek ki Erathia déli partján. Egyelõre nem tudjuk, ki vezényli a sereget, sem a sereg méretét. eeofoli forrásaink szerint Roland Ironfist nem vezetheti a flottát."
 
 Név:
 hírek

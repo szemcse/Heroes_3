@@ -4,9 +4,9 @@ Határvidékek
 ===== Térkép leírása =====
 A gyõzelemhez el kell foglalnod az összes bányát. Ezen a térképen hõseid csak tizenkettes szintig fejlõdhetnek, de a közülük a nyolc legerõsebb veled lehet a kampány utolsó térképén.
 
-===== Pletykák =====
+===== Események =====
 
-===== Idõzített Események =====
+===== Idõzített események =====
 
 Név:
 Bevezetõ elsõ rész
@@ -16,7 +16,7 @@ Az elsõ parancsok Tralossk királytól elég egyszerûek: foglald el az összes bányá
 Név:
 Bevezetõ második rész
 Üzenet:
-De van egy jó és egy rossz hírem. A jó hír az, hogy a keleten zajló háború miatt az itteni három Erathiai helyõrség szinte teljesen kiürült. A rossz hír viszont az, hogy õk seregük gyorsabban nõ, mint a miénk, tehát gyorsan kell cselekedned.
+De van egy jó és egy rossz hírem. A jó hír az, hogy a keleten zajló háború miatt az itteni három Erathiai helyõrség szinte teljesen kiürült. A rossz hír viszont az, hogy az õ seregük gyorsabban nõ, mint a miénk, tehát gyorsan kell cselekedned.
 
 Név:
 Bevezetõ harmadik rész
@@ -25,23 +25,23 @@ Természetesen, ha elõször legyõzöd az ellenfeleidet, a feladatodat már könnyûsze
 
 ===== Tárgyak =====
 
-(48, 25, 0) ***Útjelzõ tábla***
+(48, 25, 0) ***Jel***
 Üzenet:
 Isten hozott Tataliaban.
 
-(49, 28, 0) ***Útjelzõ tábla***
+(49, 28, 0) ***Jel***
 Üzenet:
 Isten hozott Erathiaban.
 
-(27, 24, 0) ***Útjelzõ tábla***
+(27, 24, 0) ***Jel***
 Üzenet:
 Tatalia Hatodik Temploma
 
-(9, 28, 0) ***Útjelzõ tábla***
+(9, 28, 0) ***Jel***
 Üzenet:
 Abdul Ostromgép-gyára. Nincs visszatérítés senkinek
 
-(60, 11, 0) ***Útjelzõ tábla***
+(60, 11, 0) ***Jel***
 Üzenet:
 Gyíkok Faluja - Vendégeket nem fogadunk
 
@@ -49,7 +49,7 @@ Gyíkok Faluja - Vendégeket nem fogadunk
 Üzenet:
 A Gnolloknak elegük van a sátor õrzésébõl , és rövid tárgyalás után eldöntötték, hogy csatlakoznak hozzád.
 
-(10, 9, 0) ***Útjelzõ tábla***
+(10, 9, 0) ***Jel***
 Üzenet:
 Fenséges Vitorlás - Csak követeknek!
 
@@ -57,7 +57,7 @@ Fenséges Vitorlás - Csak követeknek!
 Üzenet:
 Gnollok kis csoportja tûnik fel az úton. Ahogy odaérnek hozzád (nem fenyegetõleg), a vezetõjük átad neked egy hivatalos papírt: "Ezek a csapatok Tatalia dicsõségét szolgálják, használd õket akaratod szerint. Tralossk király."
 
-(44, 64, 0) ***Útjelzõ tábla***
+(44, 64, 0) ***Jel***
 Üzenet:
 Abdul Védekezõ Edzése - Üdvözlünk mindenkit
 
@@ -65,7 +65,7 @@ Abdul Védekezõ Edzése - Üdvözlünk mindenkit
 Üzenet:
 Ez az út mélyen Erathiába vezet, de elõbb talán biztosítsd ezt a vidéket mielõtt továbbhaladnál.
 
-(31, 47, 0) ***Útjelzõ tábla***
+(31, 47, 0) ***Jel***
 Üzenet:
 Mocsári Tündék - Ne zavarj!
 

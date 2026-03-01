@@ -1,0 +1,159 @@
+===== Térkép neve =====
+Az erdõ árnyai
+
+===== Térkép leírása =====
+Gelunak le kell gyõznie minden ellenségét a térségben gerilla taktikákat alkalmazva. Õ az egyetlen, aki képes a csapatai vezetésére, mivel nélküle minden elvész. Gelu a 12. szintig fejlõdhet és megtartja tapasztalatait, képességeit és varázslatait a következõ küldetésre.
+
+===== Események =====
+
+Név:
+Származás
+Szöveg:
+Gelu egy talált gyerek volt, akit Catherine Gryphonheart kapitány Karom Gárdájának egyik tagja talált meg. Az illetõ jelenleg tábornok Erathia seregében.
+
+Név:
+Szülõföld
+Szöveg:
+Az Erdei Õrség vezetõjérõl azt állítják, hogy félig Ember, félig pedig Voritünde.
+
+Név:
+Haj
+Szöveg:
+Gelu lángvörös haja nem szokványos látvány a Voritündék között.
+
+Név:
+Kendal
+Szöveg:
+Morgan Kendal tábornok valaha a Karom Gárdárnál szolgált.
+
+Név:
+Catherine
+Szöveg:
+Catherine Királynõ valaha a Karom Gárda kapitánya volt.
+
+Név:
+Talon gárda
+Szöveg:
+A Karom Gárda az Erathiai Hadsereg egyik elit osztaga.
+
+Név:
+Gelu kimagasló képessége
+Szöveg:
+Gelu rendkívüli íjásztehetséggel született, így kitûnõ lövész vált belõle.
+
+Név:
+Erdõõr
+Szöveg:
+Az Erdei Õrség Earthia szeme és füle a harcok elõtt. A lopakodás a legnagyobb fegyverük.
+
+Név:
+Diasamere
+Szöveg:
+Diasamere vára tökéletes életvitelt és munkalehetõségeket biztosít.
+
+Név:
+Diasamere információi
+Szöveg:
+Diasamere bõséges információval rendelkezik Kreegan démonjaival kapcsolatban.
+
+Név:
+Kreegans
+Szöveg:
+Kreegan démonjai a Hullócsillagok Éjszakáján tûntek fel elõször.
+
+Név:
+Gyermekkor
+Szöveg:
+Gelut egy neves erathiai tábornok nevelte fel.
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Gelu, ma kora reggel üzenetet kaptál azzal kapcsolatban, hogy egy merész terv kivitelezéséhez a Te különleges képességeidre lenne szükség. Amíg Catherine és az erathiai erõk feltartják Eeofol seregeit a nyugati határon, te azt az utasítást kaptad, hogy csusszanj át Avlee határán egy kis gerilla erõvel, hogy ott pusztítsd el az ellenséget.		További feladatod, hogy a helyi lakosságból toborozz szövetségeseket. Ehhez, a táborodat Diasamere várában helyezd el, mely az Avlee-Eeofol határon található. Az ott élõ tündék menedéket és segítséget biztosítanak az elkövetkezendõ összecsapáshoz. A terület bõvelkedik kisebb helyõrségekkel és elõõrsökkel. Számtalan zsoldos, kik nem olyan rég még harcoltak a közelmúltbéli háborúkban, eme területet hívják otthonnak. Sokuk hûséges Avleehoz, de van néhány, akik szeretnének semlegesek maradni és akár harcolnak is az igazukért.		Mozgás, lopakodás és ravasz taktikák használatával fogjuk megnyerni ezt az Árnyháborút, nem a puszta erõvel, amiben az ellenségünk valóban hatalmasabb. Sok szerencsét!
+
+Név:
+Gerilla rajtaütések
+Üzenet:
+Gerilla csapatod, akiket az ellenséges táborok kifosztására küldtél, most visszatértek hozzád egy szép nap zsákmánnyal.
+
+Név:
+Roma jós
+Üzenet:
+Egy utazó karavánnyi roma nemzetiségû ember halad el a táborod mellet, és legénységed egy része úgy dönt, hogy jövendõt mondatnak. Mivel háborús idõket élünk és a halál árnyéka lebeg körülötted, így megengeded harcosaid számára, hogy részt vegyenek ebben az kis kikapcsolódásban. A végén te is csatlakozol hozzájuk.		A jós nõ, ki a Nayestra, a Látó névre hallgat, egyesével halad végig harcosaidon, miközben van, aki jó hírekkel távozik, és van, akit balszerencse fog érni. Végül elér hozzád. Amint meglátja a sápadt ábrázatodat, fekete szemeid és lángvörös hajad, meghátrál ijedtében. Furcsa kinézeted és feltûnõ jelenléted megijeszti Õt, viszont Õ egy profi. Megfogja a kezed, leültet az asztalához, és elkezdi nézni a tenyeredet. Különös dolgokat lát benne. Az életvonalad bizonytalan, jövõd mégis tiszta. Egy széles körben ismert személyiség leszel, aki fontos szerepet tölt be, de azért egy sötét ösvényt is lát. Valami a jövõdben várakozásra int. Nagy gonoszságot lát a jövõdben, de nem tudja biztosra mondani, hogy valami külsõ tényezõ befolyásol-e téged, vagy valami belsõ erõ. Egy furcsa kettõsség ez a Gelu, az egyszer biztos. Múltad és jövõd is ködbe burkolózik, melyet Nayestra még soha sem látott korábban. Mindent elmondott Neked, amit látott, Te pedig elbûvölt figyelemmel hallgattad minden egyes szavát.		Ahogy felkelsz, hogy kilépj a sátrából, egy gyémántot és számos arany tallért nyomsz a tenyerébe, majd meghajolsz, mintha csak valami nemesség lenne, mielõtt kimennél. Felragyogott a szeme a túlfizetés miatt, mivel általában csak néhány ezüst tallért kér, és ígéretet, hogy élni fog az ember lehetõségeivel. Valóban egy hõs vagy, legalábbis az Õ számára biztosan.
+
+Név:
+Ciele üzenete
+Üzenet:
+Ahogy elhaladsz egy kis tócsa mellett, egy lágy és kedves hangot hallasz utánad kiáltani. Egy nõi hangról van szó, vagy legalábbis úgy hangzik. Letérdelsz az aprócska pocsolya mellé és beletekintesz a víz tükrébe. Meglepetésedre egy gyönyörûséges hölgy arckát látod bene. Hívogat magához, suttogva a neved a kellemesen meleg szellõbe, mely hullámokat gerjesztve a tavacska felszínén megtöri annak nyugalmát.		"Ciele vagyok, a Hullámlovas. A víz birodalmát képviselem, és azért vagyok itt, hogy megvédjem ezt a világot azoktól, akik el akarnák foglalni. Azért küldöm most neked ezt az üzenetet Gelu, mert a végzeted hasonló a miénkhez. Óvakodj a Sötét nagyúrtól, mivel azon fáradozik, hogy összeállítson egy mérhetetlenül nagy erejû fegyvert."		Ekkor egy szellõ fúj át a pocsolya felett, összeborzolva annak felszínét és eltüntetve Ciele arcképét. Összezavarodva állsz a figyelmeztetést követõen, de valahogy mégis elhiszed, amit hallottál. Felülsz a lovadra és folytatod a küldetésed. A zavaros üzenet megfejtése most várat magára, mivel az idõ pénz.
+
+Név:
+Erdamon üzenete
+Üzenet:
+Egy furcsa, a nyakad hátsó részén csiklandós érzésre ébredsz, mely veszélyre fenyeget. Megfordulsz; már olyan gyorsan rántod is elõ pengédet, mint ahogy azt a szem felfogná, és szembe találod magad egy apró figurával, mely a földbõl nõtt ki. Ez az alak csak halványan hasonlít egy emberre és körülbelül két láb magas.		Az alak mélyen meghajol, Erdamon szolgájaként mutatkozik be, és azt állítja, hogy egy üzenetet hozott Gelunak. Össze vagy zavarodva, de azért beleegyezel, bár csak óvatosan.		"Te vagy az, akit Gelunak hívnak, ugye? Rendben, Erdamon vagyok, a Földformáló. A Föld Birodalmából érkeztem, és azért küldtek, hogy megvédjem ezt a világot azoktól, akik el akarnák foglalni. Ciele mondta, hogy beszélt veled. Gondolom már találkoztál a Sötét nagyúr szolgáival, igaz? Kiválló.		A Sötét nagyúrnak számtalan neve van és számtalan szolgája is, melyek közül a legrosszabb Xeron, aki félig ember, félig démonként jött a világra. Óvakodj tõle, mivel mesterien képzett a sötét mágiában és rendelkezik démoni hatalmakkal is." Az alak ez után visszaolvadt a földbe, mintha sose lett volna ott. Azt gondoltad, hogy csak álmodtál, vissza fekszel, és azon tûnõdsz, hogy ez az Erdamon mit mondott neked.
+
+Név:
+Fiur üzenete
+Üzenet:
+Tegnap éjjel a tábortûz körül ülve Te, és néhány a legmegbízhatóbb tanácsadóid közül hanyatt lökõdtetek, amikor a lángok egy nagyot robbantak. A lángok égig értek és egy emberi alakká formálódtak össze, melynek ragyogó zöld szeme volt.		"A Gelu nevû fél-ember harcost keresem, kinek szemei az obszidián sötétje, bõre az alabástrom fehérje és haja a lángoló tûz. Fiur vagyok, a Lángjáró. Azért jöttem, hogy megvédjem ezt a világot azoktól, akik el akarnák foglalni. A növekvõ sötétség hullámai áradnak eme világ felé, minden egyes nappal egyre közelebb érve. Az, akit Xeronnak hívnak, a Sötét nagyúr szolgája, most is azon fáradozik, hogy összegyûjtse a szükséges eszközöket, mellyel elkészíthetõ a hatalmas pusztításra képes fegyver, a Végítélet Pengéje. A Conflux társaim, Ciele és Erdamon messzi földön rejtették el ezeket a varázstárgyakat. Azonban ez a Xeron mégis sikeresen megtalált bennünket. Nagy hatalommal bír, és megpróbáljuk megállítani, de félünk, hogy a fegyver elkészítését nem fogjuk tudni megakadályozni. Viszont azt tudnod kell, hogy a Penge viselõje nem sérthetetlen."		Amint reagálnál, a lángok egy óriási tüzes fõnixé változnak, mely az ég felé tüzet hányva elijeszti az éjszaka sötétjét egy pillanatra. Ezután visszarepült a tábortûz középpontjába, amely újra egyszerû tábortûzzé vált, mintha semmi sem történt volna.
+
+Név:
+Talon gárda harcosára találva
+Üzenet:
+Kora reggel két harcos, akik egy harmadikat húznak magukkal, belépnek a táborodba. A vonszolt ember súlyosan megsebesült és közel áll a halálhoz. A gyógyítóid azonnal az ember segítségére sietnek, amíg Te odasétálsz hozzá.		Ahogy közelebb érsz, látod, hogy a Talom Gárda egy tagja. Az, hogy miképp jutott el ennyire északra, nem tudod, de az viszont tény, hogy itt van. Ahogy letérdelsz mellé, a harcos megragadja a köpenyed szélét, és érdes hangon belekezd a figyelmeztetésébe.		"Van odakint egy ördög Nagyuram, akit Xeronnak hívnak …köhög… aki a Végítélet Pengéjét keresi …köhög… Az egységemet …köhög… Kendal tábornok küldte ide, hogy segítségedre legyünk …köhög… csak én maradtam életben. Xeron közel jár, hogy …fulladozva köhög… befejezze a Pengét. Arra fogja használni …újra fulladozik… hogy elpusztítson vele …fulladozik… mindnyájunkaaat."		A hangja elhalványul, ahogy összeesik, és meghal. Az élettelen teste ott hever a földön, miközben az ember utolsó szavait hallod a fejedben. Mi ez a Végítélet Pengéje, és ki ez a Xeron, akirõl állandóan hallasz? Válaszokra van szükség, és méghozzá gyorsan, mivel Erathia kifut az idõbõl.
+
+===== Tárgyak =====
+
+(8, 17, 0) ***Rampart***
+Név:
+Dova Saera
+
+(65, 27, 0) ***Rampart***
+Név:
+Diasamere
+
+Idõzített események:
+
+Név:
+Csatlakozás
+Üzenet:
+Számos toborozható harcos érkezett ma.
+
+(33, 52, 0) ***Inferno***
+Név:
+Jakta
+
+(10, 63, 0) ***Inferno***
+Név:
+Moribund
+
+(56, 62, 0) ***Inferno***
+Név:
+Reavers Gate
+
+(25, 37, 0) ***Inferno***
+Név:
+Dragonbane
+
+(26, 2, 0) ***Varázstekercs***
+Üzenet:
+Egy ércbánya mellett félig a földbe temetve találsz rá egy kis csõre. Kiásás közben mágikus írás jelenik meg rajta. Egy bölcs odarohan hozzád, hogy elmondja, milyen varázslatra leltél.
+
+(33, 5, 0) ***Conflux***
+Név:
+Whitespire
+
+(29, 3, 0) ***Tündérke***
+Üzenet:
+Egy csoport mosolygó tündérkérbe botlasz, akik épp tennivalót keresnek maguknak. Ahogy közelebb érsz, azok rögtön melléd gyülekeznek. Úgy tûnik, hogy Tündérkék, és nagyon szívesen harcolnának melletted az érkezõ gonoszok ellen.
+
+(33, 6, 0) ***Esemény***
+Üzenet:
+Mégis milyen furcsaság ez? Az építészete nem egyezik Erathiában, Avleeben látottakkal, sõt sehol máshol, kivéve talán Bracadat. De mit csinál itt egy bracadai város ilyen messze az otthonától? Még rosszabb, hogy hogy került ide, mikor pár hónapja nyoma sem volt még? Mind jó kérdés, melyekre talán belülrõl választ kaphatsz.
+
+(32, 15, 0) ***Mesterlövész***
+Üzenet:
+"Megtaláltuk a kesztyûket. Azt gondoltuk, hogy tetszenének neked."
+
+===== Fájl vége =====

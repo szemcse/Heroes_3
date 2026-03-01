@@ -1,36 +1,36 @@
-Name:
+Név:
+Játék A Tûzzel
+
+Leírás:
+Adrienne, a Tûzboszorkány felfedezte, hogy egy Halállovag a helyi lakosságot készíti elõ szüretre az élõholtak számára. Állítsd vissza a földet, és vadászd le ezt a gonoszt. Az élõholt-fertõzés teljes eltakarítása a végsõ célod.
 
 
-Description:
+Mezõgazdasági Városok - Tatalia A
+
+Jobb-kattintásos szöveg:
+A parasztságot lemészárolták, hogy élõholt sereget csináljanak belõlük. Olyan, mintha valaki az embereket aratná le, hogy óriási eszetlen katonákat hozzon létre. A sereg célja még mindig ismeretlen, de valakinek muszáj visszaállítani a rendet az Earthia-Tatalia határainál. Az a valaki pedig Te vagy.
+
+Bevezetõ:
+Amíg Erathiából az otthonomba, Tataliába utaztam, elhaladtam számtalan település mellett. Még nem találkoztam egy élõ lélekkel sem, csak az élõholtak bûzével. Attól félek, hogy egy nekromanta sereg élesztése folyik a területen. Hogy "Ki teszi ezti...?", nem tudom. Hogy "miért...?", nem tudom.
 
 
+Az élõholtak menete - Tatalia B
 
-Farming Towns — Tatalia A
+Jobb-kattintásos szöveg:
+Íme megerõsítetett. Lord Haartot feltámasztották a sírjából, és jelenleg Tatalian söpör végig a mamut méretû élõholt seregével. Az Élõholt király nyomában halál és pusztítás jár. Megtalálni egy dolog. Visszaállítani a földet, amit elpusztított, az már egy másik.  Szabadítsd ki a lakosságot az élõholtak fogságából, és csatlakozni fognak hozzád.
 
-Right-click text:
-The peasantry has been slaughtered to make an undead army.  It is as if someone is farming the people to grow a mammoth crop of mindless soldiers.  The purpose of this army is still unknown, but someone must restore order on the Ertahian-Tatalian border.  That someone is you.
-
-Prologue:
-Traveling from Erathia to my homeland of Tatalia, I have passed through several towns.   I have yet to encounter a living soul.  There is only the lingering stench of the undead.  I fear a necromancer in the area is raising an army.  'Who...' is unknown.  'Why...' is unknown.
-
-
-March of the Undead — Tatalia B
-
-Right-click text:
-It has been confirmed.  Lord Haart was raised from the dead and is now sweeping through Tatalia creating an undead army of mammoth proportions.  Behind the Undead Knight lies a trail of death and destruction.  To track him down is the easy thing.  Restoring the land he has destroyed is another matter all together.  Free the inhabitants from their undead captors and they will join your cause.
-
-Prologue:
-With the conclusion of the Restoration War, Lord Haart's necromantic cult disbanded and went into hiding.  It appears they have resurfaced and resurrected their leader.   Now Lord Haart walks the Tatalian lands a Death Knight.  If I am to continue my hunt for the dead warrior, I will need help.  I hope my countrymen will be wise and not shun a hero who embraces fire magic.
+Bevezetõ:
+A Helyreállítási Háborúk lezárásával Lord Haart nekromanta-kultusza feloszlott, és bujkálásba kezdett. Úgy tûnik, hogy ismét felszínre törtek, és feltámasztották vezetõjüket. Most Lord Haart halállovagként járja Tatalia földjeit. Ha folytatni szeretném a vadászatomat a halott harcos után, segítségre lesz szükségem. Remélem a vidéki emberek bölcsek lesznek, és nem fognak elítélni egy hõst, aki jártas a Tûzmágiában.
 
 
-Burning of Tatalia — Tatalia C
+Tatalia felgyújtása - Tatalia C
 
-Right-click text:
-It is time to confront the Death Knight Lord Haart.  Take your armies and defeat the traitorous fiend.  His loyal followers assist this force of death as he mows a path through Tatalia several miles wide all the way to the ocean.
+Jobb-kattintásos szöveg:
+Itt az idõ szembe nézni a Halállovaggal, Lord Haarttal. Fogd a seregeidet, és gyõzd le ezt az áruló szörnyet. A hûséges követõi segítik ezt a halált okozó erõt, ahogy utat vág magának Tatalián keresztül néhány mérföld szélesen egészen az óceánig.
 
-Prologue:
-I do not know what the dead remember from their time among the living.  If Lord Haart had memory of Tatalia, it has failed him.  Scouts report the dead knight has turned northwest and set up along the coast.  Now I have him trapped.  However, army morale is low.   My people do not like following a fire witch, yet they dislike becoming undead even more.  
+Bevezetõ:
+Nem tudom, hogy a holtak mire emlékeznek az életükbõl. Ha Lord Haartnak vannak emlékei Tataliáról, akkor csalódást okoztak neki. Felderítõk szerint a halott lovag északnyugat felé fordult, és a part mentén halad. Csapdába ejtettem. Azonban a seregeim morálja alacsony. Az embereimnek nem tetszik, hogy egy Tûzboszorkányt kell követniük, azonban élõholttá változni mégannyira sincs kedvük.
 
-Epilogue:
-Tomorrow, I will wake and this nightmare will end for both myself, Tatalia, and its people.  I do not know if I have buried a hero... or a villan.  In my travels I have heard many stories of Lord Haart's bravery and ultimate downfall.  When I lay to rest, I wonder if the stories my countrymen tell will speak of me as a fire witch in a land of earth and water... or as hero.
+Utószó:
+Holnap felkelek, és ez a rémálom véget ér mind számomra, mind Tatalia és népe számára. Nem tudom, hogy egy hõst... vagy egy gonosztevõt temettem el. Utazásaim során rengeteg történetet hallottam Lord Haart bátorságáról és végsõ bukásáról. Amikor lefekszem pihenni, azon gondolkodom, hogy vajon arról fog szólni a történet, melyet a vidéki emberek mesélni fognak rólam, hogy Tûzboszorkány voltam a föld és víz földjén… vagy egy hõs.
 

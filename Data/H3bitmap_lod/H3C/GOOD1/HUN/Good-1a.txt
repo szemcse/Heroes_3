@@ -54,7 +54,7 @@ Igaz, hogy Erathiának több mint a fele Nighon, Kreegan és Tatalia megszállása al
 Név:
 Eeofol és Nighon szövetkezett
 Szöveg:
-Alagútásókat és ördögöket is láttunk. Eofol bizonyára szövetkezett Nighonnal.
+Alagútásókat és ördögöket is láttunk. Eeofol bizonyára szövetkezett Nighonnal.
 
 Név:
 Gryphonheart királyt meggyilkolták
@@ -126,7 +126,7 @@ Enroth királynõjétõl, Catherine Ironfisttõl: "Tábornok, partraszállásunkkal bizo
 Név:
 Háttérsztori 2
 Üzenet:
- "Ezek az emberek az elmúlt harminc napban a nighoni katonaság uralma alatt éltek. Feltételezzük, hogy a Plinth, Mirham és Trailia melletti városok is Nighon vagy Eofol megszállása alatt állnak."
+ "Ezek az emberek az elmúlt harminc napban a nighoni katonaság uralma alatt éltek. Feltételezzük, hogy a Plinth, Mirham és Trailia melletti városok is Nighon vagy Eeofol megszállása alatt állnak."
 
 Név:
 Háttérsztori 3
@@ -141,12 +141,12 @@ Háttérsztori 4
 Név:
 Felderítés: Mirham
 Üzenet:
-Egy Mirhambõl érkezõ felderítõ lép be Caryatid udvarába, és jelenti: "Mirham Nighon és Eofol megszállása alatt van."
+Egy Mirhambõl érkezõ felderítõ lép be Caryatid udvarába, és jelenti: "Mirham Nighon és Eeofol megszállása alatt van."
 
 Név:
 Felderítés: Plinth
 Üzenet:
-Egyik segítõd lép eléd, és egy tekercset nyújt át. Azt mondja, hogy a felderítõ, aki a tekercset hozta, számos komoly sérülést szenvedett. Kibontod és elolvasod: "Eofol seregei elfoglalták Plinthet."
+Egyik segítõd lép eléd, és egy tekercset nyújt át. Azt mondja, hogy a felderítõ, aki a tekercset hozta, számos komoly sérülést szenvedett. Kibontod és elolvasod: "Eeofol seregei elfoglalták Plinthet."
 
 Név:
 Felderítés: Trailia

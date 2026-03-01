@@ -4,9 +4,9 @@ Aranyláz
 ===== Térkép leírása =====
 A gyõzelemhez össze kell szedned 200,000 aranyat. Ezen a térképen hõseid csak tizenkettes szintig fejlõdhetnek, de a közülük a nyolc legerõsebb veled lehet a kampány utolsó térképén.
 
-===== Pletykák =====
+===== Események =====
 
-===== Idõzített Események =====
+===== Idõzített események =====
 
 Név:
 Bevezetõ elsõ rész

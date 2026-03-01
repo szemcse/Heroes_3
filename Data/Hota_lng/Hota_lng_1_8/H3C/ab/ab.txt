@@ -1,81 +1,81 @@
-Name:
+Név:
+Végítélet Pengéje
+
+Leírás:
+Catherine királynõ, férje Roland király és Gelu, egy harcos Erathia elit Erdei Õrségében össze kell dolgozzon, hogy legyõzzék az õrült eeofoli Lucifer királyt, aki el akarja készíteni a Végítélet Pengéjét. Azt tervezi, hogy az egész világot felgyújtja vele.
 
 
-Description:
+Catherine megbízatása - Armageddon A
+
+Jobb-kattintásos szöveg:
+Eeofol csapatai Erathia határánál vannak. Catherine királynõ úgy döntött, hogy a határ védelmével ellenáll az ostromlók hullámának, és elsáncolja magát, amíg az erõsítés meg nem érkezik. Catherine nem bukhat el.
+
+Bevezetõ:
+Alábecsültem az ellenfelem erejét és elhatározottságát. A Helyreállítási Háborúk során a kreeganiak nem voltak nagy fenyegetés. Most azonban olyan sürgõsséggel harcolnak, amit sem én, sem Roland nem láttunk még. A seregem zömét visszavontam Erathia határai mögé. Köztünk és a kreeganiak között fekszik a Moha Völgy. Ez Erathia egyik legszebb tája. Taktikai szempontjából ideális. Ha meg tudom tartani ezt a völgyet, lezárhatom a határt. Ezután meg tudom állapítani azt, hogy hogyan tudnám elpusztítani Lucifer királyt és vele a küldetését, hogy az egész világot lángba borítsa a Végítélet Pengéjével.
 
 
+Végítélet Pengéjének keresése - Armageddon B
 
-Catherine's Charge — Armageddon A
+Jobb-kattintásos szöveg:
+A legnagyobb hõs egész Eeofolban Xeron, a Rettenetes. Egy jó ideje próbálja beteljesíteni Lucifer király látomását, de minden alkalommal, amikor közel került valamelyik tárgyhoz, amely szükséges a Végítélet Pengéje elkészítéséhez, az Elementál Conflux egyik hõse elveszi azt tõle. Most azonban csapdába szorította õket Avleeben, és már csak a learatásuk maradt hátra.
 
-Right-click text:
-Eeofol troops have pushed to Erathia's border.  Queen Catherine herself has chosen to stay the tide of these invaders by controlling the border and digging in until reinforcements can arrive.  Catherine must not fail.
-
-Prologue:
-I have underestimated my opponent's strength and resolve.  During the Restoration Wars, the Kreegans were of minor concern.  Now they fight with an urgency neither I nor Roland have encountered.  I have pulled the bulk of my forces back behind Erathia's border.  Between us and the Kreegans lies Moss Valley.  It is one of Erathia's more beautiful landscapes.  Tactically, it is ideal.  If I can hold this valley, I can close the border.  Then I can determine how to destroy the demon king Lucifer and his quest to set the world on fire with Armageddon's Blade.
-
-
-Seeking Armageddon — Armageddon B
-
-Right-click text:
-The greatest hero in all Eeofol is Xeron the Terrible.  He has been attempting to fulfill King Lucifer's vision for some time now, but every time he has gotten close to one of the objects needed to build Armageddon's Blade, a hero from the Elemental Conflux has arrived to take it.  Now he has them cornered in Avlee and they are ripe for the picking.
-
-Prologue:
-My quest is sacred, given to me by the king himself.  I have searched the continent for the relics he desires.  When I have come close, a mysterious hero has spirited my prize away.  I have pursued these heroes for months.  Now, I have them cornered.  They will either surrender the relics, their lives... or both.
+Bevezetõ:
+A küldetésem szent, maga a király bízta rám. Átkutatom a kontinenst ereklyék után, melyekre vágyik. Amikor közel kerülök egyhez, akkor egy rejtélyes hõs elveszi azt tõlem mindig. Hónapokig üldöztem ezeket a hõsöket. Azonban most sarokba szorítottam õket. Vagy az ereklyéket adják át nekem, vagy az életüket... vagy mindkettõt.
 
 
-Shadows of the Forest — Armageddon C
+Az erdõ árnyai - Armageddon C
 
-Right-click text:
-Gelu, the half-Vori elf leader of Erathia's elite unit known as the Forestguard, has been ordered to wage a shadow war along the Avlee-Eeofol border.  This area is rife with small garrisons and outposts.  It is from these levies that Gelu shall draw his guerilla force.
+Jobb-kattintásos szöveg:
+Gelu, fél-voritünde, az Erdei Õrség néven ismert erathiai elit egységének vezetõje, azt az utasítást kapta, hogy vívjon árnyékháborút az Avlee-Eeofol határon. A terület bõvelkedik kisebb helyõrségekkel és elõõrsökkel. Ezekbõl kell Gelunak besoroznia a gerilla seregét.
 
-Prologue:
-Messengers inform me Queen Catherine and Roland Ironfist are retreating to the Erathian border.  Avlee has chosen to turn a blind eye toward the war, but have purposely left local heroes to their own will.  Under the Queen's orders we are to wage a 'hit-and-run' war along the Avlee border.  Our only support will be local militia hostile toward the Kreegans.  Should we be captured, Erathia and Avlee will disavow any knowledge of our actions.  Otherwise... this task is no different than before.
-
-
-Maker of Sorrows — Armageddon D
-
-Right-click text:
-Xeron must seek out the Grand Forgesmith, Khazandar.  He is the only man with the knowledge and skill to build Armageddon's Blade and it is vital that he "convince" him to do this.  There shall be interference from the accrused Conflux towns.  He must complete this quest and then return to the capitol.
-
-Prologue:
-My king seeks to build Armageddon's Blade.  With this fabled weapon he will set the world on fire.  I have the elements to build the blade, but only the grand forgesmith Khazandar can fashion it from the relics I carry.  Again, a collection of mysterious heroes gather to end my quest.  Ironically, they have surrounded Khazandar, but have not killed him as I would.  This proves they are soft.  They will not stand in my way.
+Bevezetõ:
+Hírnökök tájékoztattak arról, hogy Catherine királynõ és Roland király visszavonulni kénytelen Erathia határaitól. Avlee úgy döntött, szemet huny a háború felett, ugyanakkor készakarva hagyott helyi hõsöket a saját akaratuk szerint cselekedni. A királynõ parancsára rajtaütésszerû harcokat fogunk vívni Avlee határa mentén. Az egyetlen támogatásunk a helyi ellenséges népfelkelés lesz, akik szemben állnak Kreegan erõivel. Ha elfognának minket, Erathia és Avlee lefog tagadni mindent a tetteinkrõl. Egyébként… ez a feladat sem különbözik semmivel sem a többitõl.
 
 
-Return of the King — Armageddon E
+A bánatok okozója - Armageddon D
 
-Right-click text:
-King Roland and General Morgan Kendal are on the western shores of the Great Lake and must take a mixed Erathian-Conflux army deep into Kreegan territory.  They must cross the lake and go through the mountains and prepare to make a push towards Catherine's army in the north, thus trapping the devils between the two forces.
+Jobb-kattintásos szöveg:
+Xeronnak meg kell keresni a nagy kovács Khazandart. Õ az egyetlen ember, aki rendelkezik a tudással, mely a Végítélet Pengéjének elkészítéséhez szükséges, ezért nagyon fontos, hogy "meggyõzd" arról, hogy megcsinálja azt. Az átkozott Conflux vár hõsei megakadályozhatnak téged ebben. Xeronnak be kell fejeznie küldetését, és utána vissza kell térnie a fõvárosba.
 
-Prologue:
-Heroes from the Confluxes tell us the elemental gods have sent them to us, so together, we might destroy Lucifer Kreegan and his quest to set the world on fire.  Catherine trusts these new allies.  I am not as giving.  However, we do not have a choice as support for the war wanes and our forces dwindle.  If these elemental heroes are to be our allies, they will prove themselves in this forthcoming battle... under my command.
-
-
-A Blade in the Back — Armageddon F
-
-Right-click text:
-Gelu must take his army to cut off any escape routes the Eeofol army might be able to use.  King Roland and general Kendal are moving against the Kreegans and pushing them towards him, along with Queen Catherine's forces.  To ensure King Lucifer is defeated, the Kreegans must not be allowed to escape.
-
-Prologue:
-In my operations, information is always scarce, and never given full trust.  Now I am told the elemental Confluxes we have encountered, have allied with Queen Catherine in her war to destroy King Lucifer Kreegan.  I have orders to move deep into Eeofol, behind the main Kreegan force Catherine holds at the border.  There I am to cut off any potential escape route.  I pray this is not a trap.
+Bevezetõ:
+A királyom szeretné elkészíteni a Végítélet Pengéjét. Ezzel a mesebeli fegyverrel fogja elpusztítani a világot. Minden megvan a fegyver elkészítéséhez, de csak a nagy kovács, Khazandar tudja elkészíteni azt nekem. Ismételten rejtélyes hõsök állnak az utamba, hogy elbukjam a küldetésem. Érdekes, hogy körbezárták Khazandart, de nem ölték meg, ahogyan én tenném azt. Ezt is azt bizonyítja, hogy puhányok. Nem állhatnak majd az utamba.
 
 
-To Kill A Hero — Armageddon G
+A Király visszatér - Armageddon E
 
-Right-click text:
-Catherine has lost support in Erathia.  They are tired of war and do not wish to pursue this any further.  To ensure victory, Catherine has stepped down as Queen and joined Roland with the Conflux army, pushing deeper into Eeofol.  General Kendal has been left to see to the task of picking Erathia's next ruler.  In secret, he has dispatched Gelu and his Forestguard to help his former Queen and good friend in this most serious of endeavors.
+Jobb-kattintásos szöveg:
+Roland király és Morgan Kendal tábornok a Nagy Tó nyugati oldalán vannak, és egy kevert Erathia-Conflux sereggel kell átkelniük Kreegan területre. Át kell jutniuk a tavon keresztül a hegyeken, hogy elérjék a démoni seregeket délrõl, míg Catherine serege északról nyomul. Így akarják két tûz közé szorítani õket.
 
-Prologue:
-With the majority of the Kreegan forces destroyed, Erathia's lords have grown weary of this war and have withdrawn their support.  They do not understand.  This is a critical moment.  To continue this war, I have stepped down as Erathia's Queen.   Myself, Roland, and the Conflux forces will continue to press to the capitol of Eeofol.  However, between us and the demon king stands the hero Xeron.  We are told he wields Armageddon's Blade.  We must succeed for the safety of Erathia, and the world.
+Bevezetõ:
+A Conflux hõsei azt mondják, hogy az elementál istenek küldték õket hozzánk, így együtt talán van esélyünk legyõzni Lucifert és megállítani a küldetését, hogy tûzbe borítsa a világot. Catherine bízik ezekben az új szövetségesekben. Én nem vagyok ilyen lelkes. Azonban nincs választásunk, mivel az ellátmányaink megfogyatkoztak, seregeink száma pedig csökken. Ha ezek az Elementál hõsök a szövetségeseink lesznek, akkor ezt bizonyítaniuk kell az elkövetkezendõ összecsapásban… az én irányításom alatt.
 
 
-Oblivion's Edge — Armageddon H
+Egy penge a hátban - Armageddon F
 
-Right-click text:
-The Kreegan race borders on extinction, yet remains defiant.  King Lucifer has sent for aid from the Overlords of Nighon.  It is estimated that it shall take no more than 60 days for an army to arrive and reinforce the Kreegan king.  The tide has turned as Catherine's army now has the Blade and the irony of Lucifer's downfall under the Blade he created to destroy the world has not escaped Catherine.  She intends to bring the Blade to Hell itself if need be.
+Jobb-kattintásos szöveg:
+Gelu seregeinek el kell zárnia minden menekülési útvonalat, amit az eeofoli seregek esetleg használhatnának. Roland király és Kendal tábornok a kreeganiak ellen vonul, és Gelu felé szorítja õket Catherine királynõ segítségével. Hogy biztosítsák Lucifer király vereségét, a kreeganiak nem menekülhetnek el.
 
-Prologue:
-Armageddon's Blade is no longer a threat.  However, King Lucifer Kreegan still sits upon the throne of Eeofol.  What few clans remain have rallied to defend their king and his lost cause.  Erathian spies tell us the demon king has requested support from the dungeon overlords of Nighon.  We cannot confirm this.  If it is true, we cannot allow Lucifer to receive this aid.  We must dethrone the demon king.   Time is short, but now we wield Armageddon's Blade.  It is time we take armageddon into the heart of hell itself.
+Bevezetõ:
+A hadmûveleteimben az információk mindig szûkösek és nem mindig megbízhatóak. Úgy tudom, hogy az Elementál Conflux seregei szövetségben állnak Catherine királynõvel Lucifer király ellen. Azt a parancsot kaptam, hogy vonuljak mélyen Eeofol szívébe, a kreegani fõsereg mögé, melyet Catherine tartóztat fel a határnál. Ott fogom elzárni minden lehetséges menekülési útvonalukat. Reménykedem, hogy nem egy csapdába sétálok bele.
 
-Epilogue:
-Lucifer Kreegan is dead.  The few remaining Kreegan clans have gone into hiding.   All but a few of the elemental Confluxes have disappeared.  I am sure we will see them again... if needed.  As for myself and Roland, we will soon depart for Enroth and I will see my son again.  As for Gelu, I left Armageddon's Blade in his hands.   Following our victory, he and his guerilla army vanished into the Erathian forests.   I do not know if he intends to destroy the weapon... or keep it for himself.   In time, I am sure we will all know.
+
+Megölni egy hõst - Armageddon G
+
+Jobb-kattintásos szöveg:
+Catherine elvesztette Erathia támogatását. Belefáradtak a háborúba és nem szeretnék tovább folytatni. Hogy biztosítsa a gyõzelmet, Catherine lemondott a trónról és csatlakozott Rolandhoz a Conflux sereggel, mellyel mélyen Eeofol szívébe nyomulnak. Kendal tábornokot otthagyták Erathia következõ uralkodójának kiválasztásának feladatával. Titokban azonban elküldte Gelut és az Erdei Õrséget, hogy segítsék a volt királynõt ebben a feladatban.
+
+Bevezetõ:
+Mivel a Kreegan-seregek nagy részét már legyõzték, az erathiai urak belefáradtak a háborúba és visszavonták a támogatásukat. Nem értik. Ez egy kritikus pillanat. Ahhoz, hogy folytathassuk a háborút, lemondtam Erathia királynõi trónjáról. Jómagam, Roland és a Conflux seregei Eeofol fõvárosa irányába fogunk nyomulni. Azonban köztünk és a démonok között áll még a hõs, Xeron. Azt hallottuk, hogy nála van a Végítélet Pengéje. Gyõzedelmeskednünk kell Erathia biztonságáért és az egész világért.
+
+
+A feledés szélén - Armageddon H
+
+Jobb-kattintásos szöveg:
+A kreeganiak a kihalás szélén állnak, de továbbra is ellenszegülnek. Lucifer király segítségért küldött a nighoni nagyurakhoz. Úgy számítják, hogy nem több, mint 60 nap szükséges, hogy megérkezzen a sereg és megerõsítse Kreegan királyt. Fordult a kocka, mert most Catherine seregénél van a Végítélet Pengéje. Lucifer végzetének ez az iróniája, amelyet pont az a Penge okoz. Amit Õ a világ elpusztítására alkotott, Catherine nem riadt vissza. A pokolba is elviszi a pengét utána, ha szükséges.
+
+Bevezetõ:
+A Végítélet Pengéje többé már nem jelent fenyegetést. Azonban Lucifer Kreegan király még mindig Eeofol trónján ül. A megmaradt klánok az Õ, és elveszett ügye védelmére siettek. Az erathiai kémek jelentése alapján a démon király a nighoni nagyuraktól kért segítséget. Ezt nem tudjuk megerõsíteni. Ha ez igaz, akkor nem engedhetjük, hogy Lucifer megkapja ezt a segítséget. Meg kell fosztanunk trónjától a démon királyt. Kevés idõ áll rendelkezésünkre, de most már nálunk van a Végítélet Pengéje. Itt az ideje, hogy meglátogassuk õt a pokol szívében.
+
+Utószó:
+Lucifer a Kreegan király halott. A néhány megmaradt Kreegan klán bujdosásba kezdett. Egy pár kivételével az összes Conflux eltûnt. Biztos vagyok benne, hogy fogjuk még õket látni… Ha szükségünk lesz rájuk. Ami engem meg Rolandot illet, nemsokára elindulunk Enroth irányába, ahol végre újra láthatom majd a fiam. Ami Gelut illeti, nála hagytam a Végítélet Pengéjét. A gyõzelmünket követõen Õ és gerilla csapatai eltûntek az erathiai erdõkben. Nem tudom, hogy megtartja-e a fegyvert… vagy elpusztítja. Idõvel ezt is meg fogjuk tudni.
 
