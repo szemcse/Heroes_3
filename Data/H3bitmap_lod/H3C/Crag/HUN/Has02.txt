@@ -1,0 +1,76 @@
+===== Térkép neve =====
+Fekete bárány
+
+===== Térkép leírása =====
+A küldetés megnyeréséhez szerezd meg Marzethtõl a Halállovag Kardját. Ha azonban Crag Hacket legyõzik a harcban, a küldetés elveszettnek minõsül. Crag Hack szintje 15-re van korlátozva, de tapasztalatai, képességei és varázslatai átkerülnek a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+2. Találkozás Sandroval
+Üzenet:
+"Ah, visszahozta nekem a Koponya Sisakot, Mister Hack," - kiált fel Sandro a Wingtail fogadó végében.		"CRAG Hack, már mondtam.  És tudod mit mondott nekem Barthon? Hogy ez a Sisak az övé volt, hozzá és a családjához tartozott." 		 "Látod, nem figyelmeztettelek, hogy hazudni fog csakhogy megvédjen egy tárgyat? És még Barbárnak merte magát nevezni! A gyávának nem volt becsülete. Remélem a halála a lehetõ legfájdalmasabb volt."		Még soha nem hallottál varázslót ilyen brutálisan beszélni. Összeráncolod a homlokod, miközben Sandro folytatja. "A második tárgy, amire szükségem van, az a Halállovag Kardja. Egy Marzeth nevû Halál Lovag lopta el egy nagy hõs sírjából. Imádkozom, hogy ne legyen túl nehéz eljutnod hozzá. Marzeth egy mocsaras vidéken él, ami nagyon különbözik a barbárok által kedvelt sziklás domboktól. Ráadásul Marzethnek vannak szövetségesei a környéken, akik megpróbálják majd megvédeni."		Felállsz, és megragadod a csatabárdodat. "Ne félj!  Még egy sártengeren át is levágnám egy egész sereg gyíkembert, hogy bosszút álljak egy harcosért, akinek sírját így meggyalázták."	"Még egy dolog, mielõtt elindulsz. Nekem is vannak szövetségeseim ezen a vidéken. Ismerem az egyik barbár város vezetõjét. Beleegyezett, hogy a városát erõdítményként használhasd." 		Elõször nézel Sandróra némi tisztelettel. Ez a varázsló elnyerte egy barbár bizalmát, nem is akármilyen barbárét, hanem egy erõd vezetõjéét!	"Akkor nem vesztegetem az idõt, Sandro. Elmegyek, hogy keressek egy kardot a sisakodhoz" – mondod, miközben kilépsz az ajtón.
+
+Név:
+Felderítõk jelentése
+Üzenet:
+A felderítõk szerint három kastély található a környéken, és a pletykák szerint Marzethet egy olyan kastély védi, amelyet a "Penge Lovagjai" nevû rend irányít.	Furcsa.	Miért védene egy halállovagot egy emberi lovag? - Megrázod a fejed. Túl fájdalmas gondolkodni.
+
+Név:
+Felderítõk 2. jelentése
+Üzenet:
+A felderítõk újabb híreket hoztak. Feltehetõleg Marzeth a Penge Lovagja volt, aki örökölte a Pengét, de az elátkozott penge megmérgezte a lelkét és Halálovaggá változtatta. Ez megmagyarázza, miért védik az emberek, de ütközik Sandro történetével, mi szerint Marzeth ellopta a kardot egy harcos sírjából. Legjobb esetben a hír csak félig igaz.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(37, 44, 0) ***Castle***
+Név:
+Második Kard 
+
+(55, 58, 0) ***Castle***
+Név:
+Harmadik Kard
+
+(15, 68, 0) ***Esemény***
+Üzenet:
+Gyíkemberek kelnek ki a mocsárból és támadnak!
+
+(5, 69, 0) ***Jel***
+Üzenet:
+Az ásatásra való belépés tilos, a szabály megszegése halálbüntetéssel jár.	Aláírás:	Marzeth
+
+(64, 9, 0) ***Esemény***
+Üzenet:
+A erõd vezetõje és a klánja elõre lovagol, hogy üdvözöljön benneteket. Amikor medveöleléssel átkarolod barbár társadat, észreveszed, hogy a tekintete üres. Bár csak jó szavakat mond Sandroról, elgondolkodsz azon, hogy ez a csenevész varázsló hogyan tudta rávenni ezt a termetes barbárt, hogy segítsen nektek.
+
+(19, 19, 0) ***Jel***
+Üzenet:
+Ezek a földek a Penge Lovagjainak tulajdonát képezik. Ha nincs engedélyed arra, hogy itt tartózkodj, TÁVOZZ!
+
+(49, 36, 0) ***Jel***
+Üzenet:
+Ezek a földek a Penge Lovagjainak tulajdonát képezik. Ha nincs engedélyed arra, hogy itt tartózkodj, TÁVOZZ!
+
+(15, 19, 0) ***Esemény***
+Üzenet:
+Harcosok bukkannak elõ a bozótból, és óvatosan méregetnek téged.	 	"Van engedélyed arra, hogy itt legyél?" – kérdezi a parancsnokuk.		Megmutatod neki a fejszédet, és kijelented: 	"EZ az én engedélyem!"		Erre a parancsnok utasítja harcosait, hogy támadjanak rád.
+
+(46, 39, 0) ***Esemény***
+Üzenet:
+Harcosok bújnak elõ a bozótból, és óvatosan méregetnek téged.		"Van engedélyed arra, hogy itt legyél?" – kérdezi a vezetõjük.		"Engedély?" - Nevetsz.	"Nincs szükségem semmiféle rohadt engedélyre!"		Erre a vezetõ parancsot ad a harcosainak, hogy támadjanak.
+
+(11, 32, 0) ***Castle***
+Név:
+Elsõ Kard
+
+(10, 61, 1) ***Halállovag***
+Név:
+Marzeth
+Önéletrajz:
+Marzeth egykor a Penge Lovagja volt, aki örökségül kapott egy átkozott kardot, és így halállovaggá vált.  Ezt a sorscsapást csak a halál gyógyíthatja meg.
+
+===== Fájl vége =====

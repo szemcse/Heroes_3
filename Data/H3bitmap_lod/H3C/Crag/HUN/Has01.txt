@@ -1,0 +1,78 @@
+===== Térkép neve =====
+Koponyák beverése
+
+===== Térkép leírása =====
+Crag Hacknek meg kell szereznie a barbár Barshontól egy tárgyat, amelyre Sandrónak szüksége van - a Koponya Sisakot. Ha Crag Hacket legyõznék, a küldetés elbukik. Crag Hack maximum 10-es szintet érhet el, de magával viszi tapasztalatait, képességeit és varázslatait a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Találkozás Sandroval.
+Üzenet:
+"Úgy tûnik, ön a megfelelõ ember egy sor feladat elvégzésére, amire szükségem van, Hack úr" – mondja Sandro, egy simára fésült hajú, apró szemû férfi, aki veled szemben ül a Wingtail Kocsmában.  Elégedetten bólint a barbárok mércéje szerint is hatalmas izomzatodra.		"CRAG Hacknek hívnak" – morogod.  Varázslók!  Azt hiszik, olyan okosak.  Még a keresztnevet sem tudják helyesen kiejteni!		"Négy tárgyat keresek, amelyeket néhány nagyon gonosz ember birtokol. Egyenként ezek a tárgyak értéktelenek, csupán apró csecsebecsék. De együtt egy hatalmas fegyverré állíthatók össze, egy fegyverré, amelyre nagy szükségem volna."		Egy csirkeláb csontját köpöd a vézna varázsló felé. "Miért kellene segítenem neked?"		Sandro szemei összeszûkülnek. "Nem csak mert ötszázezer aranyat adok és egy kis birtokot, amikor visszahozod nekem ezt a négy tárgyat, de ráadásul ha egyszer egyesítem ezeket, akkor képes leszek elpusztítani az Elátkozott Csodamellvértet, egy varázstárgyat kimondhatatlan erõvel és gonoszsággal.  MOST már érdekel?"		Megvakarod fejed az elmélkedés ritka pillanatainak egyikében. Elpusztítani valamit - különösen egy ördögi varázstárgyat - vonzó a te Barbár etikai törvényeidnek.  "Tudod hol ez a négy tárgy?" 		"Igen tudom. Itt."  Sandro egy kis térképet nyújt át neked.  "Ez az a vidék ahol Barshon a Barbár él. Õ egy nagyon ördögi ember aki kiásta az elsõ tárgyat amit keresek. A neve Koponya Sisak. Most figyelmeztetlek, ne higgy neki akármit is mond. Bár õ is Barbár mint te, neki nincs becsülete és hazudik mint egy kígyó. Továbbá más útonálló barbárok is vannak a környéken akik megpróbálnak majd megállítani. Az biztos hogy ez egy nagyon veszélyes dolog, de elfogadod az ajánlatomat?"		Hirtelen talpra ugrasz, megragadod harci bárdodat, és az asztalba vágod, centikre Sandro összekulcsolt kezeitõl.  "Meglesz! De ha átversz, Varázsló, élve foglak megnyúzni."
+
+Név:
+Belépés a régióba.
+Üzenet:
+Amint belépsz Avautnell tartományba, úgy döntesz, hogy elõször is felépítesz egy saját erõdöt. A leggyorsabb módja ennek, ha elfoglalsz egyet a környék lázadó barbár városai közül. Ezt követõen már csak azt kell megtenned, hogy megtalálod ezt a Barshont, és elvedd tõle a sisakot.
+
+Név:
+Útonálló barbárok.
+Üzenet:
+A felderítõk jelentése szerint Barshon szövetségre lépett a környéken tartózkodó útonálló barbárokkal. Továbbá északkeleten egy erathiai falut is felfedeztek.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(53, 12, 0) ***Küldetésõrzõ***
+Üzenet:
+Egy kis barbár õrcsapat csak akkor enged át, ha elpusztítod a környék életét megnehezítõ Trollokat. Néhány barbár úgy véli, hogy azok a föld alatt rejtõzhetnek.
+A barbár horda továbbra sem enged át, mivel még nem gyõzted le a központi földalatti régió Trolljait.
+A központi földalatti régióban lakó Trollok legyõzésének híre gyorsan terjed. Át óhajtasz menni, oh nemes Barbár?
+
+(53, 28, 0) ***Castle***
+Név:
+Timintal
+
+(68, 4, 0) ***Barbár***
+Név:
+Barshon
+
+(27, 33, 0) ***Troll***
+Üzenet:
+"Távozz. A Troll fõnökök nem akarnak senkit sem látni."
+
+(54, 12, 0) ***Esemény***
+Üzenet:
+Üzenet érkezik Barshontól: "Tudom, hogy el akarod venni tõlem a Koponya Sisakot, de nem adom fel harc nélkül. Ez egy generációk óta öröklõdõ családi ereklye. Ha akarod, csak a hideg, halott kezeimbõl veheted el." 		Ahogy széttéped a tekercset, eszedbe jut, hogy Sandro azt mondta, Barshon TALÁLTA a sisakot. Vállat vonasz. Barshon egy hazug kígyó. Ideje kivágni a hasított nyelvét!
+
+(34, 49, 0) ***Küldetésõrzõ***
+Üzenet:
+Egy öreg varázsló szerint a kunyhójából láthatod hol is van Barshon.  Beenged 2000 aranyért.
+Mivel nem hoztál magaddal 2000 aranyat, a kapzsi varázsló nem enged be a kunyhóba.
+Az öreg varázsló szemei a nehéz erszényre szegezõdnek az öveden. Megengedi hogy használd a kunyhót 2000 aranyért. Megfizeted ezt az árat?
+
+(54, 29, 0) ***Jel***
+Üzenet:
+Timintal City. Csak Erathiai lakosoknak engedélyezett a belépés.
+
+(49, 66, 0) ***Barbár***
+Név:
+Gurnis
+
+(50, 66, 0) ***Esemény***
+Üzenet:
+Egy fiatal lovas barbár kiált feléd, "Én, Gurnis a Barbár, követelem, hogy ne menj tovább ezeken a földeken. Fordulj vissza, vagy meghalsz!"
+
+(35, 28, 1) ***Troll***
+Üzenet:
+A trollok ordítanak, "Kifelé a házunkból!"
+
+(27, 33, 1) ***Esemény***
+Üzenet:
+Csontok tömkelege jelzi a trollok földalatti odúját.
+
+===== Fájl vége =====

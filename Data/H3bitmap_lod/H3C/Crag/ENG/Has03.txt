@@ -1,0 +1,93 @@
+===== Térkép neve =====
+A Cage in the Hand
+
+===== Térkép leírása =====
+Crag Hack must acquire the Rib Cage of Power from one of the Liches haunting the swamp of Ferris to win the scenario.  However, if Crag Hack is defeated in combat, the scenario is lost.  Crag Hack is limited to level 20 but will carry his experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Sandro meeting 3
+Üzenet:
+"Splendid!  I see you have been successful once again, Mister Hack!"  Sandro says back at the Wingtail tavern. 		"CRAG Hack," you grunt.  "That stinking Death Knight Marzeth is now a dead Knight."		"Now, the third item I require is the Rib Cage of Power, which is being held by a group of Necromancers somewhere in the small swamp called Ferris."  He hands you a small map.  "It was being kept safe for me in a Sanctuary, but the Necromancers, knowing its importance to my research, burned the Sanctuary to the ground and stole the Rib Cage.  They will do everything in their power to stop you from obtaining it."		"Undead people to fight?  I don't like their smell.  They stink."   You frown as you look at the map.		Sandro takes out a sack and opens it partially, revealing gold and gems.  "Think of the rewards I promised and the evil you will have eliminated from Enroth once you have gotten me all four items."		You think a bit and then, slowly, you nod in agreement.  After all, these Necromancers did burn down the one place where a hero ought to be safe.  They should be made to pay for the evil they have done.  However, doing battle for this wizard is turning out not to be as much fun as you had hoped.  Sandro makes you think too much.
+
+Név:
+Entering the region.
+Üzenet:
+As you enter region marked on Sandro's map, your first thought is to set up a Stronghold.  The wizard apparently doesn't have any Barbarian friends in this land willing to lend you their home, but luckily your scouts report an occupied Stronghold nearby...
+
+Név:
+Send Message
+Üzenet:
+You order a scout to send a message to the Necromancers: "Give up the Rib Cage or Crag Hack will crush your bones to dust just as surely as you burned that Sanctuary to ashes."  The messenger runs off and disappears quickly into the underbrush.
+
+Név:
+Reply
+Üzenet:
+Your messenger returns, bruised, bloody, and maimed, but still alive... barely.  Limping up to you, he hands you a note:  "We know nothing about a Sanctuary, Mister Hack, but we do know this: you are already dead. You just don't know it yet yourself."  You crumble up the paper and grumble that your first name is Crag.  As you shove the crumpled note back into the messenger's hand, the hand falls to the ground.  He's been turned into a zombie!  With one quick stroke of your axe his head comes off.  Damn Necromancers!  You hate them all!
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(53, 56, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Bonus money from followers.
+Üzenet:
+This is money donated from fanatic followers.
+
+(9, 13, 0) ***Stronghold***
+
+Idõzített események:
+
+Név:
+Goblin tribe tribute.
+Üzenet:
+A large nearby Goblin tribe sends its warriors as tribute to their Barbarian brothers for having helped defend them against attacks by rogue Ogre tribes.
+
+(5, 29, 0) ***Jel***
+Üzenet:
+Gold mine - North		Tent - South
+
+(9, 22, 0) ***Jel***
+Üzenet:
+Light Blue - Setting sun 		Dark Blue - Rising sun
+
+(55, 45, 0) ***Jel***
+Üzenet:
+
+
+(5, 5, 0) ***Arany***
+Üzenet:
+You find a rich gold vein on the side of a mountain.
+
+(27, 59, 0) ***Múmia***
+Üzenet:
+The Mummies hiss, "No one shall violate our tombs."
+
+(15, 61, 0) ***Múmia***
+Üzenet:
+The Mummies hiss, "No one shall violate our tombs."
+
+(53, 61, 0) ***Esemény***
+Üzenet:
+It looks as if the Necromancers of the Ebon Hand are barricaded in their main castle!  Perhaps you can deal with these cowards later.  In the meantime, you can continue your quest for the Rib Cage.
+
+(69, 68, 0) ***Hatalmas Lich***
+Üzenet:
+As the Liches attack you notice one of them wearing armor appearing to be made of human ribs.
+
+(59, 35, 0) ***Jel***
+Üzenet:
+South to Ferris Swamp - Beware, it is owned by The Ebon Hand.  They do not like intruders.
+
+(18, 64, 0) ***Jel***
+Üzenet:
+East to Ferris Swamp - Beware, it is owned by The Ebon Hand.  They do not like intruders.
+
+===== Fájl vége =====

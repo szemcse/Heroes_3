@@ -1,0 +1,97 @@
+===== Térkép neve =====
+Sírrabló
+
+===== Térkép leírása =====
+A kampány megnyeréséhez szerezd meg a "Halál keze" nekromanta szektától a Halottak Pajzsát. Ha azonban Crag Hacket legyõzik a harcban, a küldetés elveszettnek minõsül. Crag Hack szintje 25-re van korlátozva, de tapasztalatai, képességei és varázslatai átkerülnek a következõ kampányba.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+4. Találkozás Sandroval
+Üzenet:
+"Megvan a Csont Mellvért!  Tökéletes munka, Mister Hack!" - mondja Sandro a Wingtail fogadó hátuljában.		"CRAG Hack" -  javítod ki fáradt hangon, ingerülten a varázslót.		"Most pedig jöjjön az utolsó tárgy, amire szükségem van."	Sandro elõvesz egy térképet, és egy régióra mutat. 	"Ehhez az utolsó feladathoz felkértem néhány volt erathiai milicistát, akik most zsoldosokként segítenek majd neked. Van egy kastélyuk, ami a mûveleti bázisod lesz. Szükséged lesz a segítségükre, mert az utolsó tárgy, a Halottak Pajzsa egy Halál Kezének nevezett nekromanta szekta kezében van. A pajzsot egy vámpírvadásztól vették el, aki akkor esett el, amikor megütközött ezekkel a Lichekkel."				"Ne már, még több élõhalott!" -  nyögöd.		"Gondolj csak a feladat végén váró jutalmadra, és hozd vissza nekem a pajzsot. Nemcsak gazdag ember leszel, de ismét nagy szolgálatot teszel Erathiának" - emlékeztet Sandro.  	"És még egy utolsó dolog. Akárcsak azok, akikkel eddig harcoltál, a nekromanták is hazudni fognak neked. Ne hallgass rájuk." 				Ahogy elhagyod a kocsmát, eszedbe jutnak azok a hazugságok, amelyekkel Sandro küldetései során találkoztál. Talán még az utolsó mûtárgy átadása ELÕTT kellene begyûjtened a jutalmadat.
+
+Név:
+Találkozás a kapitánnyal
+Üzenet:
+Ahogy közeledtek a térképen Sandro által megjelölt kastélyhoz, a kastély kapitánya lovon jött ki, hogy üdvözöljön benneteket. 	"Üdvözlöm! Sandro már beszámolt nekünk az érkezésükrõl, és teljes mértékben együttmûködünk önökkel."	"Jó. Mondja el, mit tud a küldetésünkrõl. Hamarosan útra kelünk, és szeretném tudni, mi vár ránk."				A zsoldoskapitány bólint, és mesél a déli nekromantákról. "A Halál Kezének" nevezett szekta egészen a közelmúltig csendben maradt. Azonban nem sokkal azután, hogy Sandro felvett várkapitánynak, a nekromanták nyugtalanabbá váltak, és elkezdtek élõhalottakat küldeni északra.
+
+Név:
+Sandro aranyat küld.
+Üzenet:
+Sandro aranyat küld, hogy segítsen vele a keresés hatékonyabbá tételében.
+
+Név:
+Üzenet a Halál Kezétõl.
+Üzenet:
+Üzenet érkezik a Halál Kezétõl: 	"Tudjuk, hogy egy ismerõsünk küldött téged, és azt is, mit keresel.  Figyelmeztetünk, hogy a Halottak Pajzsa a mi ereklyénk. Évek óta a temetõnk része. Minden erõnkkel felkészültünk, hogy megállítsunk téged, és ezt minden áron meg is fogjuk tenni."	Még több hazugság, gondolod, miközben széttéped a tekercset, de a kétségek továbbra is megmaradnak. 	Talán Sandro az, akiben nem lehet megbízni?
+
+Név:
+Elbarikádozott Halál Keze.
+Üzenet:
+A felderítõk jelentése szerint a Halál Keze rendkívül hatékonyan barikádozta el kastélyait. Ez a gyávaság végtelenül bosszant téged, de úgy döntesz, hogy a Pajzs megszerzésére irányuló küldetés fontosabb, mint a nekromanták kastélyainak elfoglalása.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(55, 62, 0) ***Küldetésõrzõ***
+Üzenet:
+Egy fekete köpenybe öltözött, csontsovány alak szólal meg.	"Charnath már elõtted is megpróbálta meggyalázni a temetõt. ost rejtõzködik, és csak akkor engedlek át, ha elpusztítod."
+A csontváz alak tudja, hogy Charnath nem halt meg, és nem enged át.
+Most, hogy legyõzted Charnathot, bûneit és a te bûneidet is megbocsátom. Át akarsz menni?
+
+(10, 10, 0) ***Castle***
+
+Idõzített események:
+
+Név:
+Új toborzások.
+Üzenet:
+A kapitány és a várban tartózkodó zsoldostársai által indított határozott toborzási kampány némi eredményt hozott.
+
+(68, 70, 0) ***Halállovag***
+Név:
+Charnath
+
+(35, 15, 0) ***Börtön***
+Név:
+Slash
+Önéletrajz:
+Slash régen, még Enrothban Crag Hack régi ivócimborája volt. Erathiába azért jött, hogy elrejtõzzön a törvényszolgák elõl, akik ki akarták hallgatni néhány parasztról, akikkel összeveszett. Miután megérkezett Erathiába, azonnal letartóztatták kártyacsalás miatt.
+
+(23, 25, 0) ***Esemény***
+Üzenet:
+Úgy tûnik, ezt a várost elárasztották az élõhalottak. A felderítõk óvatosságra intenek – és arra, hogy belépéskor legyen elegendõ erõsítés a hátad mögött.
+
+(56, 62, 0) ***Esemény***
+Üzenet:
+Az itt eltemetett kárhozottak lelkei feltámadnak és támadnak!
+
+(50, 62, 0) ***Esemény***
+Üzenet:
+"Vigyázz!" -  figyelmeztet téged az egyik hajóépítõ, láthatóan megrázva a dologtól.	"Élõholtakat láttam hirtelen a semmibõl felkelni a szigeten."	Odaadsz neki pár érmét, és megköszönöd a figyelmeztetést.
+
+(33, 15, 0) ***Jel***
+Üzenet:
+Enroth börtön, #520-as cellaszám.  Jelenlegi lakója: Slash.
+
+(54, 58, 0) ***Jel***
+Üzenet:
+A halál leselkedhet és várhat, a halál szárnyalhat is, de az évmilliók múlásával még a halál is elhalhat. Üdvözöljük a Halál Feje temetõben.
+
+(34, 16, 0) ***Vámpírúr***
+Üzenet:
+Úgy tûnik, ezek a vámpírok megölték az igazi õröket, és most a börtönben lévõ foglyot veszik célba.
+
+(19, 25, 0) ***Esemény***
+Üzenet:
+A kelet felé vezetõ út egy halom szemét és csontok között tûnik el.
+
+(51, 55, 0) ***Esemény***
+Üzenet:
+Az itt eltemetett kárhozottak lelkei feltámadnak és támadnak!
+
+===== Fájl vége =====

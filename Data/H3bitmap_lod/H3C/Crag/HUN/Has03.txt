@@ -1,0 +1,93 @@
+===== Térkép neve =====
+Ketrec a kézben
+
+===== Térkép leírása =====
+Crag Hacknek meg kell szereznie a Csont Mellvértet a Ferris mocsarát kísértõ Lichek egyikétõl, hogy megnyerd a küldetést. Azonban, ha csatában elbukna, a küldetésnek vége. Crag Hack maximum 20-as szintet érhet el, de magával viszi tapasztalatát, képességeit és varázslatait a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+3. Találkozás Sandroval
+Üzenet:
+"Ragyogó!  Látom megint sikerrel járt, Mister Hack!"  - mondja Sandro a Wingtail fogadó végében.		"CRAG Hack," mordulsz fel.  "Az a bûzlõ Halállovag Marzeth most már egy halott Lovag."		"Nos, a harmadik tárgy, amire szükségem van a Csont Mellvért, amit egy csoport Nekromanta bitorol valahol egy kis mocsárban, amit Ferrisnek hívnak." - Átad egy kis térképet.	"Biztonságban tartották nekem egy Szentélyben, de a Nekromanták, tudva kutatásom jelentõségét, porrá égették a Szentélyt és ellopták a Csont Mellvértet. Mindent megtesznek majd ami tõlük telik hogy megállítsanak a megszerzésében."		"Élõhalottakkal harcolni? Nem szeretem a szagukat. Büdösek."   Összeráncolod a szemöldöködet, ahogy a térképre nézel.		Sandro elõvesz egy zsákot és kinyitja egy kicsit, felfedve az aranyt és drágaköveket.	"Gondolj a jutalomra, amit ígértem és a gonoszra, amit eltörölsz Enrothról, ha egyszer megszerzed nekem mind a négy tárgyat."		Gondolkodsz egy kicsit, aztán lassan, egyetértõen bólintasz. Végülis, ezek a Nekromanták leégették az egyetlen helyet, ahol egy hõs biztonságban lehetne. Meg kell fizetniük e gonosz tettért. Az azonban kiderült, hogy ezért a varázslóért nem is olyan mókás harcolni. Sandro túl sokat gondolkodtat.
+
+Név:
+Belépés a régióba.
+Üzenet:
+Amint belépsz Sandro térképén megjelölt területre, az elsõ gondolatod az, hogy erõdöt építs. Úgy tûnik, a varázslónak nincs olyan barbár barátja ezen a vidéken, aki hajlandó lenne otthont adni neked, de szerencsére a felderítõid egy közeli, lakott erõdöt jelentenek...
+
+Név:
+Üzenet küldése
+Üzenet:
+Megbízol egy felderítõt hogy vigyen el egy üzenetet a Nekromantáknak:	"Adjátok ide a Csont Mellvértet vagy Crag Hack porrá zúzza a csontjaitokat olyan biztosan ahogy hamuvá égettétek azt a Szentélyt."	A felderítõd elszalad az üzeneteddel és gyorsan eltûnik a bozótban.	
+
+Név:
+Válasz
+Üzenet:
+A hírvivõd visszatér összeverve, véresen és megcsonkítva, de még életben... éppen csak.  Feléd biceg és átad egy papírt:  	"Semmit sem tudunk a Szentélyrõl, Mister Hack, de azt tudjuk, hogy: ön máris halott. Csak ezt még nem tudja magáról."	Összetéped a papírt és morogsz hogy az elsõ neved Crag. Ahogy az összegyûrt lapot visszaadod a hírvivõ kezébe, a keze a földre esik. Zombivá változtatták! Bárdod egy gyors suhintásával lecsapod a fejét. Átkozott Nekromanták! Utálod mindegyiküket!
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(53, 56, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Bónuszpénz a követõktõl.
+Üzenet:
+Ez a rajongók által felajánlott pénz.
+
+(5, 29, 0) ***Jel***
+Üzenet:
+Aranybánya - Észak		Kulcsár Sátra - Dél
+
+(9, 22, 0) ***Jel***
+Üzenet:
+Világoskék - Nyugvó Nap		Sötétkék - Felkelõ Nap
+
+(55, 45, 0) ***Jel***
+Üzenet:
+
+
+(5, 5, 0) ***Arany***
+Üzenet:
+Találsz egy gazdag aranyeret a hegy oldalában.
+
+(27, 59, 0) ***Múmia***
+Üzenet:
+A Múmiák sziszegnek, "Senki sem szentségtelenítheti meg a sírunkat."
+
+(15, 61, 0) ***Múmia***
+Üzenet:
+A Múmiák sziszegnek, "Senki sem szentségtelenítheti meg a sírunkat."
+
+(53, 61, 0) ***Esemény***
+Üzenet:
+Úgy tûnik Ebon Kezének Nekromantái elbarikádozták magukat a fõ kastélyaikban! Talán késõbb le tudsz számolni ezekkel a gyávákkal. Közben folytathatod küldetésedet a Csont Mellvértért.
+
+(69, 68, 0) ***Hatalmas Lich***
+Üzenet:
+Ahogy a Lichek rád támadnak, észreveszed, hogy egyikük páncélt visel, amit úgy tûnik emberi bordákból készítettek.
+
+(59, 35, 0) ***Jel***
+Üzenet:
+Dél felé a Ferris-mocsár felé – Vigyázz, a terület az Ebon Kezének tulajdonában van. Nem szeretik a betolakodókat.
+
+(18, 64, 0) ***Jel***
+Üzenet:
+Kelet felé a Ferris-mocsár felé – Vigyázz, a terület az Ebon Kezének tulajdonában van. Nem szeretik a betolakodókat.
+
+(9, 13, 0) ***Stronghold***
+
+Idõzített események:
+
+Név:
+Manó törzsi támogatás.
+Üzenet:
+A közeli nagy Manó törzs harcosait adóként küldi barbár testvéreiknek, hálából azért, hogy azok segítettek megvédeni õket a renegát ogrék támadásaitól.
+
+===== Fájl vége =====

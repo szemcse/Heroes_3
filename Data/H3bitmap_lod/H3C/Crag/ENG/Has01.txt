@@ -1,0 +1,78 @@
+===== Térkép neve =====
+Bashing Skulls
+
+===== Térkép leírása =====
+Crag Hack must seize the first artifact Sandro requires, the Skull Helmet, from Barshon the Barbarian to win the scenario.  However, if Crag Hack is defeated in combat, the scenario is lost.  Crag Hack is limited to level 10 but will carry his experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Sandro meeting.
+Üzenet:
+"You appear to be the right man for a series of tasks I need performed, Mister Hack," says Sandro, a slick-haired, beady-eyed man sitting across from you in the back of the Wingtail Tavern.  He nods in approval at your muscular frame, massive even by Barbarian standards.		"It's CRAG Hack," you snarl.  Wizards!  They think they're so smart.  Can't even get a first name right!		"I seek four items taken by some very evil men.  Individually, the items are worthless, mere tokens.  But together, they can be assembled into a great weapon, a weapon that I desperately require."		You spit a chicken leg at the puny magic user.  "Why should I help you?"		Sandro's eyes narrow.  "Not only will I give you five hundred thousand gold pieces and a small land grant when you bring me these four items, but once they are assembled I will be able to destroy The Armor of the Damned, a magic artifact of unspeakable power and evil.  NOW are you interested?"		You scratch your head in a rare contemplative moment.  Destroying anything - especially an evil magical item - appeals to your Barbarian code of ethics.  "Do you know where these four items are?" 		"Yes, I do.  Here."  Sandro hands you a small map.  "This is the land where Barshon the Barbarian lives.  He is a very evil man who has unearthed the first item I seek.  It is called the Skull Helmet.  Now, I warn you, do not listen to anything he tells you.  Although, like you, he is a Barbarian, he has no honor and lies like a snake.  Also, there are other rogue barbarians in the vicinity who will try to stop you.  This is very dangerous business, to be sure, but will you accept my offer?"		You suddenly jump up, grab your battle-axe, and bury it into the table, inches from Sandro's clasped hands.  "I'll do it!  But if you cheat me, Wizard, I'll skin you alive."
+
+Név:
+Entering region.
+Üzenet:
+As you enter the region of Avautnell, you decide to first establish a Stronghold of your own.  The quickest way to do this is by seizing one of the area's rogue Barbarian towns.  After that, it's just a matter of finding this Barshon and taking the Helmet from him.
+
+Név:
+Rogue barbarians.
+Üzenet:
+Scouts report Barshon has allied with the rogue Barbarians in the area.  Also, an Erathian village has also been located in the Northeast.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(53, 12, 0) ***Küldetésõrzõ***
+Üzenet:
+A small horde of Barbarian guards will let you pass only if you destroy the Trolls who have been plaguing the region.  Some of the Barbarians think they might be hiding underground.
+The Barbarian horde still will not let you pass, for you have not yet vanquished the Trolls of the central underground region.
+News of your conquest of the Trolls living in the central underground region traveled quickly.  Do you wish to pass, oh worthy Barbarian?
+
+(53, 28, 0) ***Castle***
+Név:
+Timintal
+
+(68, 4, 0) ***Barbár***
+Név:
+Barshon
+
+(27, 33, 0) ***Troll***
+Üzenet:
+"You leave.  Troll bosses below no see nobody."
+
+(54, 12, 0) ***Esemény***
+Üzenet:
+A message arrives from Barshon: "I know you mean to take the Skull Helmet from me, but I will not give it up without a fight.  It is a family heirloom handed down from generations.  If you want it you will have to take it from my cold dead hands." 		As you tear up the scroll you remember that Sandro said Barshon FOUND the Helmet.  You shrug.  Barshon is a lying snake.  Time to cut out his forked tongue!
+
+(34, 49, 0) ***Küldetésõrzõ***
+Üzenet:
+An old wizard claims that his Hut can show you Barshon's location.  He will let you pass for 2000 gold pieces.
+Since you have not brought 2000 gold pieces, the greedy wizard will not let you into the Hut.
+The old wizard eyes the heavy purse of gold hanging from your belt.  He agrees to let you use his Hut for 2000 gold pieces.  Are you willing to pay his price?
+
+(54, 29, 0) ***Jel***
+Üzenet:
+Timintal City.  Only Erathian citizens are permitted to enter.
+
+(49, 66, 0) ***Barbár***
+Név:
+Gurnis
+
+(50, 66, 0) ***Esemény***
+Üzenet:
+A young mounted barbarian shouts, "I, Gurnis the Barbarian, demand that you shall go no further into these lands.  Turn back now or die!"
+
+(35, 28, 1) ***Troll***
+Üzenet:
+The trolls yell, "Get out of our house!"
+
+(27, 33, 1) ***Esemény***
+Üzenet:
+Bones abound in what is obviously a troll's underground lair.
+
+===== Fájl vége =====

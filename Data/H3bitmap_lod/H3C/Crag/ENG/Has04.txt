@@ -1,0 +1,97 @@
+===== Térkép neve =====
+Grave Robber
+
+===== Térkép leírása =====
+Seize the Yawning Shield of the Dead from the "Hand of Death" Necromancer cult to win the campaign.  However, if Crag Hack is defeated in combat, the scenario is lost.  Crag Hack is limited to level 25 but will carry his experience, skills and spells on to his next campaign.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Sandro 4
+Üzenet:
+"You have the Rib Cage!  Excellent work, Mister Hack" Sandro says back in the Wingtail tavern.		"CRAG Hack," you correct the wizard wearily.		 "Now for the final item I require."  Sandro pulls out a map and points to a region.  "For this last task I have enlisted some former Erathian militia, now mercenaries, to assist you.  They have a Castle that will be your base of operation.  You are going to need their help, for the last item, The Shield of Yawning Dead, is in the hands of a Necromancer cult called the Hand of Death.  They took the shield from a vampire slayer who had finally met his match when he challenged these Liches."		"Not more undead!" you groan.		"Just think your rewards at the end of this task and bring me back the Shield.  Not only will you become a rich man but once again you will be doing Erathia a great service," Sandro reminds you.  "And one last thing.  Like the others you have battled, the Necromancers will lie to you.  Do not listen to them." 		As you leave the tavern you think about all the lies you have encountered on Sandro's tasks.  Maybe you should collect your rewards BEFORE handing over the last artifact.
+
+Név:
+Captain meeting
+Üzenet:
+As you approach the castle Sandro indicated on your map, its captain rides out to greet you.  "Hello! Sandro has told us of your coming and we will give you our full cooperation."		"Good. Tell me what you know of our mission.  We ride soon, and I want to know what lies ahead."		The mercenary captain nods and tells you about the Necromancers to the South.  "The Hand of Death," as the cult is named, kept quietly to themselves until recently. However, soon after Sandro hired the captain, the Necromancers became more restless and started sending undead north.
+
+Név:
+Sandro sends money.
+Üzenet:
+Sandro sends gold to help in your search.
+
+Név:
+Message from Hand of Death.
+Üzenet:
+A message arrives from the Hand of Death: "We know you have been sent by an acquaintance of ours and what it is you seek.  Be warned that the Shield of the Yawning Dead is our relic.  It has been a part of our graveyard for many years.  We have mobilized to stop you and will do so at all costs."  More lies, you think as you tear up the scroll, but still doubts remain.  Is Sandro the one who cannot be trusted?
+
+Név:
+Barricaded Hand of Death.
+Üzenet:
+Scouts report the Hand of Death has barricaded their castles very effectively.  This cowardice annoys you to no end, but you decide the mission to capture the Shield is more important than taking the Necromancer castles.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(55, 62, 0) ***Küldetésõrzõ***
+Üzenet:
+A skeletal figure in a black robe speaks.  "Charnath has tried to desecrate the cemetery before you.  He hides now, and only by defeating him shall I let you pass" 
+The skeletal figure knows Charnath is not dead and will not let you pass.
+Now that you have vanquished Charnath, his sins and yours are absolved.  Do you wish to pass?
+
+(10, 10, 0) ***Castle***
+
+Idõzített események:
+
+Név:
+New recruits.
+Üzenet:
+An aggressive recruiting campaign by the captain and his fellow mercenaries at the castle yields some results.
+
+(68, 70, 0) ***Halállovag***
+Név:
+Charnath
+
+(35, 15, 0) ***Börtön***
+Név:
+Slash
+Önéletrajz:
+Slash was an old drinking buddy of Crag Hack back in Enroth.  He came to Erathia to hide from constables who wanted to question him about some peasants with whom he had a falling out.  Once in Erathia he was promptly arrested for cheating at cards.
+
+(23, 25, 0) ***Esemény***
+Üzenet:
+From the looks of it, this town has been overrun with undead.  Scouts advise caution -- and a fair amount of troops backing you up -- upon entering.
+
+(56, 62, 0) ***Esemény***
+Üzenet:
+The souls of the damned who are buried here rise up and attack!
+
+(50, 62, 0) ***Esemény***
+Üzenet:
+"Beware!" one of the shipwrights tells you, visibly shaken.  "I have seen undead suddenly rise up out of nowhere on the Island."  You flip him a few coins and thank him for the warning.
+
+(33, 15, 0) ***Jel***
+Üzenet:
+Enroth Prison #520.  Current Occupant: Slash.
+
+(54, 58, 0) ***Jel***
+Üzenet:
+Death may lie and wait, and death may fly, but with passing eons even death may die.  Welcome to Death Head cemetery.
+
+(34, 16, 0) ***Vámpírúr***
+Üzenet:
+It looks like these vampires killed the regular guards and are now eyeing the prisoner.
+
+(19, 25, 0) ***Esemény***
+Üzenet:
+The road to the east disappears into a bunch of litter and bones.
+
+(51, 55, 0) ***Esemény***
+Üzenet:
+The souls of the damned who are buried here rise up and attack!
+
+===== Fájl vége =====

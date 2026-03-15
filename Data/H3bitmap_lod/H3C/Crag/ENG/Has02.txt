@@ -1,0 +1,76 @@
+===== Térkép neve =====
+Black Sheep
+
+===== Térkép leírása =====
+Seize the Blackshard of the Dead Knight from Marzeth to win the scenario.  However, if Crag Hack is defeated in combat, the scenario is lost.  Crag Hack is limited to level 15 but will carry his experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Sandro take 2
+Üzenet:
+"Ah, you've brought me the Skull Helmet, Mister Hack," Sandro exclaims back in the Wingtail Tavern.		"It's CRAG Hack, I told you.  And do you know what Barthon told me? Said this Helmet was his, that it belonged to him and his family." 		 "See, didn't I warn you he would lie to protect a mere possession?  And he dared to call himself a Barbarian!  The coward had no honor.  I hope his death was a most painful one."		Never before have you heard a Wizard talk so brutally.  You frown as Sandro continues.  "The second item I require is the Blackshard of the Dead Knight.  It was stolen from the tomb of a great hero by a Death Knight named Marzeth.  I pray that you will not find it too difficult to reach him.  Marzeth lives in a marshy region, very different from the rocky hills you Barbarians favor.  To make matters worse, Marzeth has allies in the area who will try to protect him."		You stand up and grasp your battle-axe.  "Fear not!  I would cut down a host of Lizardmen through leagues of muck to avenge a warrior whose grave has been so desecrated."  "One more thing before you leave.  I have also allies in this region.  I know the leader of one of the region's Barbarian towns.  He has agreed to let you use it as your Stronghold."	For the first time you look at Sandro with some measure of respect.  This Wizard has earned the trust of a Barbarian, the leader of a Stronghold, no less!  "Then I'll not waste time, Sandro.  I'm off to find a Sword to go with your Helmet," you say as you head out the door.
+
+Név:
+Scout report
+Üzenet:
+Scouts report there are three Castles in the region, and rumor has it Marzeth is under the protection of one ruled by an order called the Knights of the Blade.  Strange.  Why would human knights protect a Death Knight?  You shake your head.  Thinking hurts too much.
+
+Név:
+Scout report 2
+Üzenet:
+Scouts have another rumor to report.  Supposedly Marzeth was a Knight of the Blade who inherited the Blackshard, but the cursed sword twisted his soul until he became a Death Knight.  This would explain why the humans are protecting him, but it goes against Sandro's story that Marzeth stole the sword from a warrior's tomb.  At best the rumor must be only half-true.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(37, 44, 0) ***Castle***
+Név:
+Second Sword 
+
+(55, 58, 0) ***Castle***
+Név:
+Third Sword
+
+(15, 68, 0) ***Esemény***
+Üzenet:
+Lizardmen rise up out of the swamp and attack!
+
+(5, 69, 0) ***Jel***
+Üzenet:
+Admittance to excavation prohibited upon pain of death.  Signed Marzeth
+
+(64, 9, 0) ***Esemény***
+Üzenet:
+The Stronghold leader and his clan ride forward to greet you.  As you embrace your fellow Barbarian in a bear hug, you notice that his eyes look vacant.  Although he has only kind words to say about Sandro, you wonder how the puny wizard really managed to persuade this stout Barbarian to assist you. 
+
+(19, 19, 0) ***Jel***
+Üzenet:
+These lands belong to the Knights of the Blade.  If you do not have permission to be here, BEGONE!
+
+(49, 36, 0) ***Jel***
+Üzenet:
+These lands belong to the Knights of the Blade.  If you do not have permission to be here, BEGONE!
+
+(15, 19, 0) ***Esemény***
+Üzenet:
+Fighters appear out of the underbrush and eye you warily.  "Do you have permission to be here?" their commander asks.		You show him your axe and announce, "THIS is my permission!"  With that the commander orders his warriors to attack you.
+
+(46, 39, 0) ***Esemény***
+Üzenet:
+Fighters appear out of the underbrush and eye you warily.  "Do you have permission to be here?" their leader asks.		"Permission?"  You laugh.  "I don't need no stinking permission!"  With that, the leader commands his fighters to charge.
+
+(11, 32, 0) ***Castle***
+Név:
+First Sword
+
+(10, 61, 1) ***Halállovag***
+Név:
+Marzeth
+Önéletrajz:
+Marzeth was once a Knight of the Blade who received a cursed sword as an inheritance and has thus become a Death Knight.  Nothing short of death will cure this affliction.
+
+===== Fájl vége =====
