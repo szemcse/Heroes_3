@@ -1,0 +1,125 @@
+===== Térkép neve =====
+A Tough Start
+
+===== Térkép leírása =====
+Take the Sandals of the Saint and the Armor of Wonder to Alendora to win the scenario.  However, if Yog is defeated in combat or you lose either component of the Angelic Alliance, the scenario is lost.  Yog is limited to level 18 but will carry his experience and skills on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+After a few days travel into Tatalia, you discovered the Tatalians really don't want you in their territory.  Since it will probably take some time to find Alendora, you are fortifying your army inside a little valley before beginning the search.
+
+Név:
+Journal Entry 12
+Üzenet:
+Journal Entry 12:  I sent my scouts out yesterday to search the countryside while I search the town, but we haven't found any sign of Alendora.
+
+Név:
+Comp Resources
+Üzenet:
+
+
+Név:
+Journal Entry 13
+Üzenet:
+Journal Entry 13:  All but one of my scouts have returned to report they have been unable to locate Alendora.  Hopefully the last scout is delayed because he is having better luck.
+
+Név:
+Journal Entry 14
+Üzenet:
+Journal Entry 14:  Just when I was beginning to fear that my last scout had been killed, he returned with the news that he found Alendora.  Unfortunately, the man was so exhausted from his travels he managed only to blurt out something about a cave before collapsing.  I ordered him to get some sleep and report to me first thing in the morning. 
+
+Név:
+Journal Entry 15
+Üzenet:
+Journal Entry 15:  I had the scout who located Alendora brought before me after he had a proper rest.  His more detailed report gave the exact location of the cave, North off the main road.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(65, 13, 0) ***Fortress***
+
+Idõzített események:
+
+Név:
+Give Comp Hydras
+Üzenet:
+
+
+Név:
+Give Comp Upg Hydras
+Üzenet:
+
+
+Név:
+Give Comp Creatures
+Üzenet:
+
+
+(11, 68, 0) ***Titok Kunyhó***
+Üzenet:
+I seek the Orb of the Firmament, Orb of Silt, Orb of Tempestuous Fire and Orb of Driving Rain.  If you bring those four to me I will give you the Orb of Inhibition.  You will need the Orb of Inhibition in order to get the Sword of Hellfire, and I hear that is what you are looking for to complete a mission.
+Wonderful doing business with you.  Give me the four orbs and I will give you the Orb of Inhibition.  Now don't lose it or you won't be able to get the Sword of Hellfire and complete your mission.
+
+(42, 61, 0) ***Titok Kunyhó***
+Üzenet:
+I need the Orb of Inhibition and if you give it to me I will give you the Sword of Hellfire.  I know you will need the sword in order to open the Quest Gate that guards the Subterranean Gate.
+Excellent!  Give me the Orb and I will give you the Sword of Hellfire so you can open the Quest Gate that guards the Subterranean Gate.  Remember, if you lose the Sword of Hellfire you will be unable to go below and finish your mission.
+
+(10, 36, 0) ***Háborgó Tûz Varázsgömb***
+Üzenet:
+You have found the Orb of Tempestuous Fire.  If you lose the orb you will be unable to complete your quest.
+
+(9, 36, 0) ***Küldetésõrzõ***
+Üzenet:
+The guards here say they have orders to only let Yog pass.
+The guards here will only let Yog pass.
+At last, it is Yog.  Do you wish to pass?
+
+(8, 31, 0) ***Iszap Varázsgömb***
+Üzenet:
+You have found the Orb of Silt.  If you lose this item you will not be able to complete your quest.  
+
+(3, 31, 0) ***Felhõszakadás Varázsgömb***
+Üzenet:
+You have found the Orb of Driving Rain.  If you lose this item you will not be able to complete your quest.  
+
+(1, 27, 0) ***Égbolt Varázsgömb***
+Üzenet:
+You have found the Orb of Firmament.  If you lose this item you will not be able to complete your quest.  
+
+(9, 31, 0) ***Küldetésõrzõ***
+Üzenet:
+The guards here say they have orders to only let Yog pass.
+The guards here will only let Yog pass.
+At last, it is Yog.  Do you wish to pass?
+
+(2, 27, 0) ***Küldetésõrzõ***
+Üzenet:
+The guards here say they have orders to only let Yog pass.
+The guards here will only let Yog pass.
+At last, it is Yog.  Do you wish to pass?
+
+(2, 31, 0) ***Küldetésõrzõ***
+Üzenet:
+The guards here say they have orders to only let Yog pass.
+The guards here will only let Yog pass.
+At last, it is Yog.  Do you wish to pass?
+
+(36, 27, 1) ***Titok Kunyhó***
+Üzenet:
+Ah, there you are.  I have been waiting for you.  I am Alendora.  Winston Boragus told me of your coming.  I was also told you have the Armor of Wonder and the Sandals of the Saint to give me.
+Here is the Pendant of Courage.  Send it to Winston Boragus, and he will know that you have completed the first part of your quest.  
+
+(35, 27, 1) ***Küldetésõrzõ***
+Üzenet:
+The guards here say they have orders to only let Yog pass.
+The guards here will only let Yog pass.
+At last, it is Yog.  Do you wish to pass?
+
+===== Fájl vége =====

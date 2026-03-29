@@ -1,0 +1,65 @@
+===== Térkép neve =====
+Viszatérés Bracadába
+
+===== Térkép leírása =====
+A gyõzelemhez el kell vinned a Felvilágosodás Sisakját és az Igazság Kardját Belegnek és Orruknak. Azonban ha Yog vereséget szenved, a küldetés elveszett.  Yog a 25. szintig juthat el, de tapasztalatait és képességeit átviszi a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Azonnal elküldted a futárt Winston Boragusnak, hogy tudja, megtaláltad Falort és Terwent, és átadtad nekik az Oroszlánbátorság Pajzsát és a Gyönyör Nyakláncát. A futár nemsokáre újabb parancsokkal tért vissza a hercegtõl: lépj be Bracada területére, és add át a Felvilágosodás Sisakját Belegnek, az Igazság Kardját pedig Orruknak, majd küldj bizonyítékot az átadásról. Rájössz, hogy Aine valószínûleg ott fog rád várni, hogy elkapjon, mikor visszatérsz Bacadába, így hát óvatosnak kell lenned.
+
+Név:
+Cucc a gépnek
+Üzenet:
+
+
+Név:
+Útinapló 18
+Üzenet:
+Útinapló 18: Bracadába küldtem felderítõimet, azt remélve, hogy hoznak valami hírt arról, mit tervez Aine. Amíg a visszatérésükre várok, megerõsítem a seregemet.
+
+Név:
+Útinapló 19
+Üzenet:
+Útinapló 19: Felderítõim pár órája tértek vissza, de semmit nem tudtak meg Ainéról. Valószínûleg tudta, hogy kémeket küldtem utána, ezért varázslattal kerülte el, hogy felfedezzék. Egyetlen hasznos dolgot tudtak mondani, azt, hogy Bracada városai háborúra készülnek. Nem akarok a szükségesnél több idõt tölteni néhai hazámban, ezért újra elküldöm a felderítõket, hogy találják meg Beleget és Orrukot.
+
+Név:
+Útinapló 20
+Üzenet:
+Útinapló 20: Felderítõim megtalálták Beleget és Orrukot: délre vannak a városomtól. Szerencsém van, hogy ilyen gyorsan megtaláltam õket. Minél elõbb hagyom el Aine területét, annál jobb.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(2, 34, 0) ***Tower***
+
+Idõzített események:
+
+Név:
+Cucc a gépnek
+Üzenet:
+
+
+(34, 35, 0) ***Titok Kunyhó***
+Üzenet:
+Végre. Én Orruk vagyok. Már attól féltem, hogy történt veled valami. Átadod nekem az Igazság Kardját?
+Nagyszerû. Vidd el ezt a tárgyat Winston Boragusnak, ez bizonyítja, hogy teljesítetted a küldetést.
+
+(34, 31, 0) ***Titok Kunyhó***
+Üzenet:
+Beleg vagyok, mondták, hogy jönni fogsz. Nálad van a megígért Felvilágosodás Sisakja?
+Szép munka. Most vidd el az Igazság Kardját Orruk házába. Cserébe neked adja a Bátorság Nyakláncát, amit átadhatsz a hercegnek. Ég veled, és sok szerencsét.
+
+(12, 17, 1) ***Küldetésõrzõk***
+Üzenet:
+Az õrök parancsuk szerint csak Yogot engedik át.
+Az õrök csak Yogot engedik át.
+Végre, ez Yog. Át akarsz menni?
+
+===== Fájl vége =====

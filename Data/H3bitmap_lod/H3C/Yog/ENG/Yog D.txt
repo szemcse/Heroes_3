@@ -1,0 +1,40 @@
+===== Térkép neve =====
+Falor and Terwen
+
+===== Térkép leírása =====
+Yog must deliver the Celestial Necklace of Bliss and Lion's Shield of Courage to Falor and Terwen to win the scenario.  However, if Yog is defeated in combat or loses either artifact, the scenario is lost.  Yog is limited to level 21 but will carry his experience and skills on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+Before leaving Tatalia you sent a messenger off to deliver the Pendant of Courage to Winston Boragus so that he would know you have successfully completed the first part of your quest.  After dismissing the messenger, you marched off to Erathia to complete the second part.  You now been in Erathia for several days, but you have been unable to locate Falor and Terwen.  The best clue you have to their whereabouts is a hazy recollection from a peasant that they live somewhere underground.
+
+Név:
+Journal Entry 16
+Üzenet:
+Journal Entry 16:  Fortifying my position wasn't difficult, for the mountains make an effective barrier.  However, my scouts brought back information that suggests the rest of my quest will not be as easy.  For me to gain access to Falor and Terwen's underground lair, I must visit a Keymaster's tent located deep in enemy territory.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(27, 35, 0) ***Küldetésõrzõ***
+Üzenet:
+The guards here say they have orders to only let Yog pass.
+The guards here will only let Yog pass.
+At last, it is Yog.  Do you wish to pass?
+
+(25, 18, 1) ***Titok Kunyhó***
+Üzenet:
+"Hello.  I am Falor, and this is Terwen.  Duke Winston Boragus informed us you might be coming here.  You are to give us the Lion's Shield of Courage and the Celestial Necklace of Bliss, I believe."
+   Well, don't just stand there!  Give us the Shield and Necklace and be on your way!  Oh, wait!  Take this and give it to the Dukes so that he will know you have visited us and done what you were supposed to do.		   As you reach the door Falor comes up and apologizes for Terwen's rude behavior.  		   "Please excuse Terwen.  He gets into moods sometimes.  Good luck on the rest of your quest."	   With that, Falor shakes your hand.  You are now on your way in search of Beleg and Orruk to complete your quest. 
+
+(18, 8, 1) ***Esemény***
+Üzenet:
+Journal Entry 17:  It has been a while since my last journal entry, but I have been very busy.  The Erathian army attacked me sooner than I thought.  It looks as if my luck is taking a turn for the better, though.  I found a cave in the middle of the lake.  It was good thing too because Falor and Terwen are both down here somewhere.
+
+===== Fájl vége =====

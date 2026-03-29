@@ -1,0 +1,98 @@
+===== Térkép neve =====
+On the Run
+
+===== Térkép leírása =====
+Escape from Bracada and capture the Krewlodian town of Groa to win the scenario.  However, if Yog is defeated in combat or fails to capture Groa in 5 months, the scenario is lost.  Yog is limited to level 9 but will carry his experience and skills on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+Born the son of a Barbarian chieftain and a Genie enchantress, you have always found your mind to be at odds with your heart.  Your mother enrolled you in the magic academy at a young age, but as much as you tried to fulfill her wish for you to grow up to become Wizard, you found academy life to be excruciatingly boring.  In many ways you were more like your father, spending your time engaged in swordplay rather than studying your magic textbooks.  To your teacher's dismay, your studies suffered as your fighting skills grew.  However, the more the academy attempted to discipline you, the more you came to hate magic and yearn for a more adventurous life.		Such a life always seemed out of your grasp until last week, when you received an invitation from Winston Boragus, the Duke of Krewlod, to join his armed forces.  Your reputation as a swordsman had reached the neighboring country of Krewlod, and the Duke, who desperately needed to supplement his armed forces, was aggressively seeking foreign recruits.  You saw this opportunity as a sign that now was the time for you to give up your life of magic.		Knowing how zealously the academy guards its secrets, you are certain they will close the borders and give you chase.  Undaunted, you send one of your sparring partners out find a town where you could build up troops to help you fight your way to Krewlod.  Last night your friend sent word of a town not far from Calarnen.  All you have to do is follow the road south, and you would get to safety in a few days.
+
+Név:
+Take this!!!!!
+Üzenet:
+
+
+Név:
+Journal Entry 1- Day 4
+Üzenet:
+Journal Entry 1:  I have been on the run for four days now, and still there is no sign of the town my friend spoke of.  Still I must press on, for I have learned that the academy has sent an army commanded by one of their most adept mages, a Wizard named Aine, to hunt me down.  My only hope is to find this elusive town so that I can lose Aine and raise my own army to get through the border.
+
+Név:
+Take this too!!!!
+Üzenet:
+
+
+Név:
+Journal Entry 2 - Day 8
+Üzenet:
+Journal Entry 2:  We arrived at Padon not too long ago.  So far everything is going well, although the army is taking longer to build than I would like.  However, I don't think the border gate will hold off Aine's forces much longer.  No doubt she will devise a way to get through it.  This morning I sent a scout across the border into Krewlod to find an isolated city, a place where I can hold out at until Aine tires of searching for me.  The sooner I get out of Bracada, the better off I will be.
+
+Név:
+Journal Entry 3 - Day 14
+Üzenet:
+Journal Entry 3:  Late last night my scout returned with the good news that a city named Groa lies east of Krewlod's border.  He also warned me that the border is indeed heavily guarded.  Although the scout couldn't identify every troop in the garrison, he did see signs of Titans, Naga Queens, and Arch Magi.  I must be well prepared before I can assault the garrison.
+
+Név:
+Good Find
+Üzenet:
+You discover an ancient magical text on the black art of Necromancy.  This is not the first time you have seen such a book.		When you were at the magic academy, you fell in love with another student, named Vidomina.  It must be true that opposites attract because, unlike you, she was the quite scholarly and bookish.  And how she loved studying magic!  It was her life, or would have been, had it not corrupted her.  For Vidomina spent her spare time scouring libraries for arcane magical tomes, and she eventually came across a manuscript such as the one now in your possession.  Against the advice of her teachers, she studied the book, but its evil glyphs transformed her into a Necromancer.  She now resides in Deyja, where she will live out the rest of her days.		You waste no time in selling the cursed book for gold and resources.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(68, 13, 0) ***Tower***
+Név:
+Calarnen
+
+(3, 50, 0) ***Tower***
+Név:
+Padon
+
+(68, 4, 0) ***Stronghold***
+Név:
+Groa
+
+(57, 8, 0) ***Õsi Behemót***
+Üzenet:
+"We have lived peacefully and undisturbed in this valley for many years.  Now you come with an army seeking to defeat us.  We will not tolerate such aggression!"  Before you are able to convince the Ancient Behemoths of your peaceful intentions toward them, they attack.
+
+(58, 7, 0) ***Esemény***
+Üzenet:
+Journal Entry 7:  This battle could have been avoided.  All I wanted was to hold out here until the search for me relented a bit; there was no need for bloodshed.  The townspeople must have been truly frightened to send out so many Ancient Behemoths.  Well, if an army marched up to my home I suppose I too would be alarmed, but the town's defenses are now crippled with most of their Ancient Behemoths gone.  When my troops are rested I will plan an attack upon the city of Groa, because who knows what else they may unleash on me if I allow them another opportunity to take the initiative.
+
+(8, 24, 0) ***Esemény***
+Üzenet:
+Journal Entry 4:  I am resting my army before we begin the battle to cross the border.  Just as my scout reported, the border garrison is heavily guarded.  Although my troops look apprehensive, I think they will hold together.  If... when we get across the border, their morale will hopefully improve.
+
+(6, 22, 0) ***Esemény***
+Üzenet:
+Journal Entry 4 (Continued):  The battle was indeed fierce.  I did not expect to lose as many troops as I did.  I must be more careful next time.  But for now it is done.  I have made it across the border.  I just hope the academy doesn't attempt to cross the border too, if they haven't already.  This area isn't that well traveled, and it would probably take a while before the Duke of Krewlod realizes that Aine has invaded his territory.
+
+(32, 7, 0) ***Esemény***
+Üzenet:
+Journal Entry 5:  My scout has advised me to head south because an army of this size cannot pass through the mountains.  A two-to-four day march south will take me to the entrance of the valley leading to the city of Groa.
+
+(48, 20, 0) ***Esemény***
+Üzenet:
+Journal Entry 6:  It is almost over.  The scout's map indicates this to be the entrance to Groa's valley. I will gather my generals and enter the gates of my new home. 
+
+(56, 9, 0) ***Küldetésõrzõ***
+Üzenet:
+The guards here say they have orders to only let Yog pass.
+The guards here will only let Yog pass.
+At last, it is Yog.  Do you wish to pass?
+
+(71, 14, 0) ***Igézõ***
+Név:
+Yog
+Önéletrajz:
+Yog studied many years with the Wizards of Bracada, but he would rather spend his time engaging in swordplay rather than studying magic.
+
+===== Fájl vége =====

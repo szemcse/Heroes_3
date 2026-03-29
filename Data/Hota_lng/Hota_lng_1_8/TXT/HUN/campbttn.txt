@@ -153,9 +153,9 @@ A kezdõ hõsöd +25 Zombival indít"
 "{Varázstekercs}
 
 A kezdõ hõsöd induláskor megkapja a Halál Fodrok varázslatot"
-"{Halottak Csizmája}
+"{Halott Ember Csizmája}
 
-A Halottak Csizmája növeli a Nekromancia képzettséged 15%-kal"
+A Halott Ember Csizmája növeli a Nekromancia képzettséged 15%-kal"
 "{Szellemsárkányok}
 
 A kezdõ hõsöd +3 Szellemsárkánnyal indít"

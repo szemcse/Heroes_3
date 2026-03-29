@@ -1,0 +1,70 @@
+===== Térkép neve =====
+Banditák
+
+===== Térkép leírása =====
+Ahhoz, hogy megnyerd a küldetést, meg kell akadályoznod, hogy egy csapat lázadó avLeei eladja az Életerõ Gyûrûjét egy Deyjai Halállovagnak. Azonban, ha Gelu vereséget szenved, a küldetés elveszett. Gelu a 15. szintig fejlõdhet, de tapasztalatát, képességeit, varázslatait átviszi a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Nyitó beszéd
+Üzenet:
+Az Erdõõrség vállalta, hogy összegyûjti azt a pár varázstárgyat, amely az Élet Elixírének elkészítéséhez szükséges. Ha ez az erõteljes bájital a deyjai nekromanták kezébe kerülne, azok saját gonosz céljaikra fordítanák annak jótékony varázserejét.		 	Gelu, téged választottak ki, hogy vezess egy rajtaütést egy gonosz banditák által ellenõrzött területre. Állítólag náluk van az Életerõ Gyûrûje, vagy legalábbis tudják, hogy hol van, és azt tervezik, hogy eladják a nekromantáknak. Meg kell állítanod õket, és meg kell szerezned a gyûrût. Ne okozz csalódást, mert nem csak a saját életed forog kockán.	Sok szerencsét!
+
+Név:
+A nagyurak
+Üzenet:
+A környék hadurai gonosz gyilkosok és õrültek. Kifosztják a karavánokat, porig rombolják a falvakat, és lemészárolják a helyõrségeket, anélkül, hogy törõdnének azzal, milyen következményekkel jár ez hazájukra nézve. Ostobán eladják az Életerõ Gyûrûjét a nekromantáknak, és elárulják honfitársaikat, csak hogy aranyat halmozzanak fel. Ezeknek az árulóknak nem szabad kegyelmet adni, és nem szabad irgalmat tanúsítani irántuk.
+
+Név:
+Támadnak a banditák!
+Üzenet:
+A banditák megtámadták a nyersanyag-utánpótlási útvonalakat, és elvitték az értékes nyersanyagokat és az aranyat.
+
+Név:
+Felderítõi jelentés
+Üzenet:
+Az egyik felderítõd egy északkeleti látnokról számolt be, aki ismeri az Életerõ Gyûrûjének helyét. Keresd meg õt, derítsd ki a gyûrû helyét, majd szerezd meg! Légy óvatos! A nekromanták is a gyûrût keresik.
+
+Név:
+Találkozó
+Üzenet:
+Felderítõink jelentése szerint az egyik hadúr kapcsolatba lépett a nekromantákkal, és hamarosan találkozót terveznek. A gyorsaság a legfontosabb most. Ha az a Gyûrû a nekromanták kezébe kerül, erõszakkal kell majd elvenni tõlük. Használj minden szükséges eszközt, hogy a Gyûrût biztonságban tartsd. Ne feledd, hogy a legjobb védekezés a támadás: tisztítsd meg ezt a régiót az itt élõ banditáktól, mielõtt összeállnak és ellopják a Gyûrût maguknak. De csak akkor támadd meg Deyját, ha feltétlenül szükséges.
+
+Név:
+A Látnok
+Üzenet:
+Az északkeleti látnok egy Feredor nevû öreg bölcs. Kérd ki a tanácsát, de vigyázz, mert nem adja oda neked egybõl a Gyûrût. Úgy hírlik, hogy próbára teszi azokat, akik a Gyûrût keresik. Végezz el minden feladatot, amit kér, mert meg kell szerezned azt a Gyûrût.
+
+Név:
+A terület
+Üzenet:
+Figyelem: ez a vidék egy dicsõ csata színhelye volt, és ma már szent helynek számít.	Ne szennyezd azt be!
+
+Név:
+A látomás
+Üzenet:
+Tegnap éjjel alvásodat szörnyû álmok zavarták meg, a közelgõ sötét események látomásai.  Egy köpenyes alak képei kísértettek, aki csontos kezével végigsimította a füves síkságot, és maga után pusztaságot hagyott, amelyet élõhalott szörnyek seregei leptek el.  Gonosz nevetés visszhangzott elmédben és lelkedben. Félelemmel telve és remegve ébredtél fel, de továbbra is elszánt voltál, hogy megszerezd az Életerõ Gyûrûjét.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(28, 31, 0) ***Rampart***
+Név:
+Daggercourt
+
+(0, 69, 0) ***Titok Kunyhó***
+Üzenet:
+Phelan barátom azt mondta, hogy számítsak egy Gelu nevû, sápadt arcú emberre. Te vagy az?
+Azt mondták, várjak egy bizonyos Gelu nevû férfire. Ha utazásod során találkozol vele, mondd meg neki, hol találja meg az otthonomat.
+
+(63, 2, 0) ***Titok Kunyhó***
+Üzenet:
+Mielõtt elárulnám, hol található a Gyûrû, be kell bizonyítanod, hogy méltó vagy rá: hozd el nekem a Bátorság Érdemrendjét.	Ne gyere vissza e tárgy nélkül.
+Még nem találtad meg a Bátorság Érdemrendjét? Hm Hm. Azt hittem, ennél keményebb fából faragtak téged. Menj vissza a vadonba, és találd meg! Csak akkor árulom el, hol találod az Életerõ Gyûrûjét, ha elhozod nekem a Bátorság Érdemrendet.
+Bebizonyítottad, hogy méltó vagy rá.  Ezért elárulom neked az Életerõ Gyûrûjének rejtekhelyét.				Az a férfi, akinél a gyûrû van, egy kis kunyhóban él innen délnyugatra.  Elrejtette a gyûrût, és csak annak adja oda, akit én méltónak tartok rá.  Értesítem õt a közeledõ érkezésedrõl. Vedd el ezeket az Angyal Szárnyakat, hogy gyorsabban haladhass. Amikor odaérsz, õ megadja neked, amit keresel.
+
+===== Fájl vége =====

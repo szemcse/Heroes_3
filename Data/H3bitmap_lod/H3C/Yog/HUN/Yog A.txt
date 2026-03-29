@@ -1,0 +1,98 @@
+===== Térkép neve =====
+Menekülõben
+
+===== Térkép leírása =====
+Szökj meg Bracadából és foglald el Groa várát, hogy gyõzhess. Azonban ha Yog vereséget szenved, vagy 5 hónap alatt nem hódítja meg Groát, a küldetés elveszett. Yog a 9. szintig juthat el, de tapasztalatait és képességeit átviszi a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Egy barbár fõnök és egy dzsinn varázslónõ fiaként mindig úgy érezted, hogy a szíved a fejed ellensége. Anyád már kiskorodban bejuttatott a varázslóakadémiára, de akárhogy próbáltál is a kedvére tenni, és varázslóvá válni, iszonyatosan unalmasnak találtad az akadémiai életet. Sok mindenben inkább apádra hasonlítottál, inkább kardozni tanultál, mint a könyveidet olvastad. Tanáraid csalódására egyre jobban tudtál harcolni, tanulmányaidat viszont elhanyagoltad. Azonban minél inkább próbált az akadémia megnevelni, annál inkább utáltad a mágiát és vágytál egy kalandosabb életre. Azonban eddig nem volt kilátásod ilyen életre, míg a múlt héten levelet kaptál Winston Boragustól, Krewlod hercegétõl, aki meghívott, hogy csatlakozz a seregéhez. Harci tehetséged híre eljutott a szomszédos Bracadába is, és a herceg, aki kétségbeesetten igyekszik növelni katonai erejét, nagy erõkkel keresi a külföldi újoncokat is. Ezt a lehetõséget úgy értelmezted, hogy itt az ideje felhagynod a mágiával. AZonban az akadémia féltékenyen õrzi a titkait, ezért biztos vagy benne, hogy lezárják a határokat, és üldözni fognak. Ez nem tántorított el, így elküldted egyik bokszoló barátodat, hogy keressen egy várat, ahol katonákat képezhetsz ki, hogy segítségükkel verekedd át magad Krewlodig. Tegnap este a barátod üzent, Calarnentõl nem messze van egy vár. Csak annyit kell tenned, hogy követed az utat délnek, és pár napon belül biztonságban leszel.
+
+Név:
+Tessék ez!!!!!
+Üzenet:
+
+
+Név:
+Útinapló - 4. nap
+Üzenet:
+Útinapló 1: Már négy napja menekülök, és még mindig semmi jele a barátom által említett várnak. Mégis muszáj elõrenyomulnom, mert kiderült, hogy az akadémia egy sereget küldött utánam egyik legtehetségesebb mágusuk, Aine vezetésével, hogy levadásszanak. Egyetlen reményem, hogy megtalálom ezt a bizonyos várat, így lerázhatom Ainét, és saját sereget képezhetek ki a határ áttörésére.
+
+Név:
+Tessék ez is!!!!
+Üzenet:
+
+
+Név:
+Útinapló - 8. nap
+Üzenet:
+Nemrég érkeztünk meg Padonba. Eddig minden jól megy, bár a sereg kiképzése lasabban halad, mint szeretném. Azonban nem hinném, hogy a határõrség még sokáig fel tudná tartani Aine erõit. Kétségkívül kitalálja, hogyan juthat rajta keresztül. Ma reggel átküldtem egy felderítõt a krewlodi határon, hogy keressen egy elzárt várat, ahol kivárhatom, amíg Aine belefárad a keresésembe. minél elõbb kikerülök Bracadából, annál jobb.
+
+Név:
+Útinapló - 14. nap
+Üzenet:
+Útinapló 3: Tegnap késõ este a felderítõm jó hírekkel tért vissza: van egy Groa nevû város a krewlodi határtól keletre. Arra is figyelmeztetett, hogy a határt nagyon erõsen õrzik. Bár a felderítõ nem tudott minden lényt azonosítani a határõrségben, titánokat, naga királynõket és archmágusokat is látott. Jól fel kell készülnöm, mielõtt megtámadom a határõrséget.
+
+Név:
+Talált tárgy
+Üzenet:
+Felfedezel egy õsi mágikus szöveget a nekromancia feketemágiájáról. Nem elõször látsz ilyen könyvet. Még a varázslóakadémián szerettél bele egy másik tanulóba, Vidominába. Igaznak kell lennie, hogy az ellentétek vonzzák egymást, mert veled ellentétben õ nagyon szerette a könyveket. És hogy imádott mágiát tanulni! Ez volt az élete, vagyis ez lett volna, ha nem rontotta volna meg. Ugyanis Vidomina szabadidejében õsi mágikus kötetek után kutatott a könyvtárban, és egyszer rátalált egy ahhoz hasonló kéziratra, amit most a kezedben tartasz. A tanárok tanácsai ellenére tanulmányozni kezdte a könyvet, és annak gonosz kisugárzása nekromantává változtatta õt. Most Deyjában él, és ott is fogja tölteni hátralévõ életét. A lehetõ leggyorsabban eladod az átkozott könyvet aranyért és nyersanyagokért.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(68, 13, 0) ***Tower***
+Név:
+Calarnen
+
+(3, 50, 0) ***Tower***
+Név:
+Padon
+
+(68, 4, 0) ***Stronghold***
+Név:
+Groa
+
+(57, 8, 0) ***Õsi Behemót***
+Üzenet:
+,,Sok éven át éltünk békében és zavartalanul ebben a völgyben. Most sereggel jössz ide, hogy legyõzz minket! Nem toleráljuk az ilyen agressziót!" Mielõtt meggyõzhetnéd a behemótokat békés szándékaidról, már támadnak is.
+
+(58, 7, 0) ***Esemény***
+Üzenet:
+Útinapló 7:  Elkerülhettük volna ezt a csatát. Csak el akartam bújni itt, amíg abbahagyják az üldözésemet, nem volt szükség vérontásra. A falubeliek bizonyára nagyon féltek, hogy ilyen sok õsi behemótot küldtek ki. Hát, ha az én otthonom felé masírozna egy sereg, persze én is tartanék tõle, de most az õsi behemótok nélkül kevés védelem maradt a várban. Ha a katonáim kipihenik magukat, támadást indítok Groa ellen, mert ki tudja, mit küldenek még ellenem, ha hagyom õket kezdeményezni.
+
+(8, 24, 0) ***Esemény***
+Üzenet:
+Útinapló 4: Pihentetem a seregem, mielõtt megpróbálunk átkelni a határon. Ahogy a felderítõ mondta, tényleg erõsen védik a határt. Bár a katonáim nyugtalannak tûnnek, azt hiszem, össze fognak tartani. Ha... ha átérünk a határon, bizonyára jobb harci kedvük lesz.
+
+(6, 22, 0) ***Esemény***
+Üzenet:
+Útinapló 4 (folytatás): A csata valóban ádáz volt. Nem gondoltam, hogy ilyen sok egységet fogok veszíteni. Legközelebb óvatosnak kell lennem. De mostanra végeztünk, átjutottam a határon. Csak azt remélem, hogy az akadémia nem próbálja meg átlépni a határt, ha át nem lépték már. Ez a terület nem túl forgalmas, és bizonyára eltartana egy ideig, mire Krewlod hercege rájön, hogy Aine átlépte a határt.
+
+(32, 7, 0) ***Esemény***
+Üzenet:
+Útinapló 5: A felderítõm azt tanácsolta, hogy tartsak délre, mert egy ekkora sereg nem tud átkelni a hegyeken. Egy két-négy napos, délre tartó menetelés után eljuthatok annak a völgynek a bejáratához, amelyben Groa fekszik.
+
+(48, 20, 0) ***Esemény***
+Üzenet:
+Útinapló 6: Már majdnem ott vagyunk. A felderítõ térképe szerint itt van Groa Völgy bejárata. Összegyûjtöm a generálisaimat és átlépem új otthonom kapuit.
+
+(56, 9, 0) ***Küldetésõrzõk***
+Üzenet:
+Az õrök parancsuk szerint csak Yogot engedik át.
+Az õrök csak Yogot engedik át.
+Végre, ez Yog. Át akarsz menni?
+
+(71, 14, 0) ***Igézõ***
+Név:
+Yog
+Életrajz:
+Yog éveken át tanult a bracadai varázslóknál, de szívesebben töltötte idejét kardforgatással, mint a varázslatok tanulásával.
+
+===== Fájl vége =====

@@ -6129,7 +6129,7 @@ A válladon viselve, ez a csuklya növeli a Nekromancia képzettséged 10%-al.""
 
 5
 56
-""Halottak Csizmája
+""Halott Ember Csizmája
 Osztály: Jelentõsebb.
 A lábakon viselt csizmák, növelik a Nekromancia képzettséged 15%-al.""
 
@@ -6587,7 +6587,7 @@ Mester: Lichek
 Létrehozásához a következõ mûtárgyak megszerzése szükséges: 
 +Sírásó Amulettje
 +Vámpír Csuklya
-+Halottak Csizmája""
++Halott Ember Csizmája""
 
 5
 131

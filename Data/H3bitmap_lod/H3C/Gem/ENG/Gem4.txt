@@ -1,0 +1,172 @@
+===== Térkép neve =====
+Driving for the Boots
+
+===== Térkép leírása =====
+Take the Dead Man's Boots to Gem's starting town to win the campaign.  However, if Gem or Clancy are defeated in battle or you lose the boots, the scenario is lost.  Your heroes will be limited to level 25, but Gem will carry her experience, skills and spells on to her next campaign.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+Getting the Dead Man's Boots is not going to be easy.  From what my Elven scouts tell me, there are at least two Deyjan Border Lords in this area.  They are likely to react strongly to my presence this close to Deyja.		I need to avoid being distracted by the Border Lords and keep driving for the Boots.		Of course, it would be perfect if I can destroy some Deyjan troops and get the Boots at the same time.
+
+Név:
+Scrying the Boots
+Üzenet:
+I tried to scry the location of the Dead Man's Boots but could not divine anything useful.  My scrying abilities are more closely tied to living things.  However, according to Sandro, the Boots are in the possession of a Wizard south of here.
+
+Név:
+Black Grip
+Üzenet:
+I am in my sixty-first year as a Sorceress.  Over time you learn to protect yourself and your troops from ill magic.  Every morning as the sun rises; I spend a few minutes scrying my troops for malignant magics.
+
+Név:
+Black Grip (cont)
+Üzenet:
+This morning I discovered half my troops had been afflicted with a spell.  It looked like a variation on a Necromancer spell I saw five years ago called Black Grip.  The spell rots its victims from the inside out.  Fortunately, I was able to remove the spell before we broke camp.
+
+Név:
+Another old Druid visit
+Üzenet:
+I had a surprise visitor this morning: the old druid I had spoken to a while ago.  Over breakfast he asked me to think about becoming a Druid.		I was stunned for a moment, but then I shook my head and told him I was a Sorceress.  The old druid calmly took another bite and told me, from what he knew, being a Sorceress didn't necessarily prevent me from also being a Druid.  He left after breakfast, but before departing he gave me a book that he said would help me understand what being a Druid meant.
+
+Név:
+Book
+Üzenet:
+I am not as trusting as I once was.  After retrieving the book the old druid gave me, I thoroughly checked it for wards or spells.  I found nothing but a minor weather protection cantrip.  Perhaps I will read a little of it tonight.
+
+Név:
+Book II
+Üzenet:
+I finished reading the Druid Book last night.  I have been reading it slowly and thinking about what it says, and also what it does not say.  While there are differences in specifics, the core philosophies are virtually identical.
+
+Név:
+Manda's Reassurance
+Üzenet:
+I dreamed of Amanda last night and was happy to see her.  I told her everything about the Old Druid, his surprising offer and my conclusions after reading his book.  Amanda asked me what I felt about the Druid's offer.  "Honored," I said after a pause.
+
+Név:
+Manda's Reassurance (cont)
+Üzenet:
+"Gem," Amanda replied, "if our two philosophies are as similar as you say, it may be a good idea to join them."  I told her I couldn't.  I would feel so disloyal to her and my sister Sorceresses.  Amanda shook her head and told me to find out what type of oaths they would require before I made any decisions.
+
+Név:
+Decision
+Üzenet:
+I've been thinking about the old Druid's offer and what Amanda said.  I think I will ask what oaths are involved.  If there are no conflicting oaths then I will join the Druids, making a new home for myself here in Antagarich.  I'll send the old Druid a message today asking for a meeting where we can discuss what type of vows are required of Druids.
+
+Név:
+Druid Meeting
+Üzenet:
+I met with the old Druid this morning over breakfast.  I was honest with him.  I told him I was considering his offer to join the Druids, but I had deep concerns over the oaths required of me.
+
+Név:
+Druid Meeting (cont)
+Üzenet:
+He explained that each Druid wrote their own oaths, and by lunch we had worked out a set of oaths I was happy with.  Knowing what Amanda had said, I felt confident to allow the Old Druid to submit my oaths to the Druid High Council.
+
+Név:
+Manda Approval
+Üzenet:
+Amanda was in my dreams last night.  After we greeted each other I told her of my meeting with the old Druid and how I was able to work my old oaths into my new life here.  A part of me will always be a Sorceress, but I have evolved into a Druid, finally finding a new life for myself in Antagarich.  I asked Amanda to petition the other Sorcerers for dispensation to become a Druid.
+
+Név:
+Petition Approval/Closure
+Üzenet:
+Amanda appeared last night and told me my sister Sorcerers had approved my petition to join the Druids.  She hugged me and told me she thought this would be the "New Beginning" she had hoped I would find in Antagarich.
+
+Név:
+Message to Old Druid
+Üzenet:
+I sent the revised oath to the Old Druid this morning.  I told him there were some nuances in the revision I preferred.  I also told him I would like to finish this last quest for the Boots as a Sorcerer.  After that, if the Druid High Council has approved my vows, I would swear them on the next full moon.  I felt my heart lighten.  Soon I would be an AvLee hero and a Druid soon.  But first I had to get the Boots to Sandro.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(74, 3, 0) ***Titok Kunyhó***
+Üzenet:
+I am a seer.  I have foreseen you will need the Sandals of the Saint.  I have a pair I am willing to give you in return for 25 Ghost Dragons.  She laughs when you grit your teeth.  "You'll be back."
+No 25 Ghost Dragons?  Well then, no Sandals for you.
+At last, the 25 Ghost Dragons!  It took you long enough.  Here, take the Sandals.  Their aura of goodness sickens me.
+
+(42, 42, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+1 time bonus
+Üzenet:
+
+
+(58, 85, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+Extra Critters
+Üzenet:
+
+
+(3, 104, 0) ***Küldetésõrzõ***
+Üzenet:
+A powerful wizard owns this tower.  He refuses to let you pass unless you bring him the Sandals of the Saint.
+The wizard is adamant.  If you want to pass, bring me the Sandals of the Saint.
+The wizard agrees to let you by in exchange for the Sandals of the Saint.  Do wish to pass at this time?
+
+(2, 103, 0) ***Halottak Csizmája***
+Üzenet:
+In the middle of a small mountain glade sits a pair of Dead Man's Boots.  The hair rises on the back of your neck.  A gentle breeze carries the faint odor of decay.  Do you wish to pick up the Boots?
+
+(72, 58, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+Extra Critters
+Üzenet:
+
+
+Név:
+1 time bonus
+Üzenet:
+
+
+(24, 70, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+Extra Critters
+Üzenet:
+
+
+Név:
+1 time bonus
+Üzenet:
+
+
+===== Fájl vége =====

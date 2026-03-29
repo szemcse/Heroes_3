@@ -56,7 +56,7 @@ Város
 Hõs		
 Város-képernyõ		
 Lehetetlen másik hajót építeni!		
-Szükséges:		
+Felépítéséhez szükséges megépíteni elõtte:		
 <RENDSZER>:		
 "{Világtérkép}
 
@@ -258,7 +258,7 @@ A Grál %s játékosnál található.
 %s"		
 Elérhetõ:		
 Pontszám		
-Minden feltétel megvan a felépítéséhez.		
+Az épület felépítéséhez szükséges minden elõfeltétel teljesült.		
 %s megtámadása		
 "Sasszemû megfigyelésen keresztül %s megtanulta %s varázslatot"		
 Elfogyott a memória.		

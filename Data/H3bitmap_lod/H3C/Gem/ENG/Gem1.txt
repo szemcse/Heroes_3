@@ -1,0 +1,181 @@
+===== Térkép neve =====
+After the Amulet
+
+===== Térkép leírása =====
+Acquire the Amulet of the Undertaker to win the scenario.  However, if Gem or Clancy are defeated in combat, the scenario is lost.  Your heroes are limited to level 15, but Gem and Clancy will carry their experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+I told Clancy of my agreement to help a wizard's apprentice, Sandro, find an Amulet of the Undertaker for his master, Ethric.  Clancy stroked his beard approvingly when I said the Amulet was to be used for anti-necromancy research, and he surprised me by offering to help me with the quest.
+
+Név:
+Intro (cont)
+Üzenet:
+I replied I would be glad to have his company again as long as he understood this was my quest, not his.  He assured me he understood that quite well and then complimented me on my Clovergreen Militia campaign, making me laugh.  Flatterer!  Of course, what else would you expect from a man who can sweet talk unicorns?
+
+Név:
+Amulet Report
+Üzenet:
+According to Sandro, the Amulet of the Undertaker is located to the North Northeast of Clifftree Castle in a Ghost Dragon horde.
+
+Név:
+Liking the Rampart
+Üzenet:
+I am becoming to feel quite at home in the Rampart Castle.  I'm even starting to get accustomed to the dragons!  Actually, it's the Dendroids that make me a little uncomfortable.  Not them personally.  They're really quite friendly.  It's just that they remind me of a past I'd rather forget.  I haven't seen moving trees since I was a little girl.
+
+Név:
+Necro Near By
+Üzenet:
+My Elven scouts have just reported there is a Necromancer to the North East.  It appears he may be in the vicinity of the Amulet.  The scouts also informed me he is terrorizing and killing the locals.  I will lie to rest every tortured soul this Necromancer has locked in an undead body.
+
+Név:
+Letter from Sandro
+Üzenet:
+I received a very interesting letter from Sandro today.  Apparently he convinced his master I could be entrusted with the full story.  It seems that Ethric is doing more than just research.  He believes he has found a way to construct a necromancy suppressing artifact, but to do this he needs three lesser artifacts:  an Amulet of the Undertaker, a Vampire's Cowl and a pair of Dead Man's Boots.  Sandro offered me more gold to find the other two artifacts once I locate the Amulet.
+
+Név:
+Letter from Sandro (cont)
+Üzenet:
+I wrote back to Sandro that Ethric's project was a worthwhile one and promised to search for the two artifacts after finding the Amulet of the Undertaker.  After sending off the letter, I decided to look up Ethric upon the completion of my quests and persuade him to let me donate money towards his research.  I admire his values.
+
+Név:
+Message to Clancy
+Üzenet:
+I sent a message to Clancy telling him about Ethric's project and that I had promised to help Sandro find a Vampire's Cowl and a pair of Dead Man's Boots.
+
+Név:
+Ghost Dragons
+Üzenet:
+One of my Elven scouts talked to a local who said he saw a group of Ghost Dragons going through a Subterranean Gate several months ago.  Maybe the Ghost Dragons with the Amulet can be found underground!
+
+Név:
+Visit from a Druid
+Üzenet:
+An old Druid appeared just as we were setting up camp last night.  He said he had heard much about me from both Mayor Dilino and Clancy and wanted to meet me.  There was something I instantly liked about him, and we wound up talking through the night.  He was quite interested in the differences between Sorcerer and Druid magic and especially curious about my teachers.		I started to tell him about my instructor Amanda when I realized that he had her same calm and accepting eyes.  I surprised the Druid when I told him this, but I didn't feel comfortable enough to tell him much more about Amanda.  You never can be too careful with strangers these days, although we parted on good terms the next morning.
+
+Név:
+Message from Clancy
+Üzenet:
+Clancy sent me a message back saying he would also like to help Ethric but first needed the leave of his master, Lord Fayette.  Clancy thought Lord Fayette would allow him to help as long as we didn't do anything to upset the Erathians.
+
+Név:
+Saved a Hamlet
+Üzenet:
+This morning, screams brought us to a tiny hamlet.  A small roaming band of skeletons and zombies were attacking the villagers, but they were no match for my troops.  I rode down the last skeleton myself.  I knocked the skeleton down and trampled it again and again with my horse's hooves until all was left was a flattened pile of bone shards.  I swear I heard a sigh of relief as the skeleton's imprisoned soul was released to the afterlife.  However, my troops looked at me strangely afterwards.
+
+Név:
+Gold
+Üzenet:
+People are strange about gold.  If you don't let them give it to you, they don't know what to do and get upset.  I've gotten to the point where I just take it when they offer it to me - if they can afford it.  It's just easier that way.  I could tell Sandro wouldn't have known how to deal with me if I hadn't taken my payment; he was so certain he could buy my loyalty.  The funny thing is I would have helped his anti-necromancy research for free.
+
+===== Hõsök =====
+
+Önéletrajz:
+After her Deyjan raiders campaign, Gem agrees to help a wizard's anti-necromancy research by getting an Amulet of the Undertaker.
+
+===== Tárgyak =====
+
+(17, 59, 0) ***Rampart***
+Név:
+Clifftree
+
+(55, 18, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+Extra Troops
+Üzenet:
+
+
+Név:
+Build Townhall
+Üzenet:
+
+
+(60, 42, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+Extra Creatures
+Üzenet:
+
+
+(35, 28, 0) ***Castle***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+(32, 5, 0) ***Esemény***
+Üzenet:
+Suddenly, the smell of death is overwhelming.  "Ambush!" screams one of your troops, pointing at the sky.
+
+(39, 8, 0) ***Sírásó Amulettje***
+Üzenet:
+Buried under the gems and gold of the Ghost Dragons' hoard you find the Amulet of the Undertaker.
+
+(38, 8, 0) ***Szellemsárkány***
+Üzenet:
+Despite the pleasant surroundings, the unmistakable odor of death permeates the area.  You see a group of Ghost Dragons ahead.
+
+(54, 64, 0) ***Arany***
+Üzenet:
+As you pick up the nugget, you suddenly realize the bulk of it is underground.  This nugget is huge!
+
+(42, 20, 0) ***Arany***
+Üzenet:
+As you pick up the nugget, you suddenly realize the bulk of it is underground.  This nugget is huge!
+
+(16, 60, 0) ***Kósza***
+Önéletrajz:
+While Clancy is on leave from his duties as a General for Lord Fayette he decides to join Gem on her quest.
+
+(8, 21, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+Extra Troops
+Üzenet:
+
+
+Név:
+Build Townhall
+Üzenet:
+
+
+(42, 59, 0) ***Castle***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+===== Fájl vége =====

@@ -1,0 +1,194 @@
+===== Térkép neve =====
+Retrieving the Cowl
+
+===== Térkép leírása =====
+Bring the Vampire's Cowl to the town of Leafhall to win the scenario.  However, if Gem or Clancy are defeated in combat or you lose the Cowl, the scenario is lost.  Your heroes are limited to level 20, but Gem and Clancy will carry their experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+A Barbarian named Terek has located the Vampire's Cowl for Sandro.  Unfortunately, Bandits in the Contested Lands captured Terek on his way back from Deyja.   Terek convinced the bandits that his friends would pay handsomely for his return with his possessions intact.		My scrying has shown he is being held in an underground prison near the Deyjan border.
+
+Név:
+Intro (cont)
+Üzenet:
+I also received some good news today.  Clancy obtained permission from his Lord to help me find the other two artifacts.  Lord Fayette said it was all right with him as long as we didn't invade AvLee.  I believe the last part was a joke.
+
+Név:
+Scouting Report Rampart Towns
+Üzenet:
+A scouting party has located a neutral Rampart town to the north east of our starting base of operations.
+
+Név:
+Another Harvested Village
+Üzenet:
+Today we rode through another small hamlet that had been "harvested" by a Necromancer about a month ago.  I buried what was left of the children's bodies.  There weren't any adults; they had all been raised as skeletons, I'm sure.		I feel so old and tired and angry and unsettled when I see this type of thing.  I don't see how Erathia is going to retain the Contested Lands if they can't protect their people from this horror.
+
+Név:
+Another Harvested Village (cont)
+Üzenet:
+I must stay focused on my quest.  I found out very painfully I couldn't single-handedly rid the world of evil.  The best I can do is help others help themselves.  I gave Mayor Delino gold to help resettle people near Clovergreen, where the militia can protect them.  I gave him the rest of my coin to help support the militia.  The militia are all volunteers, but they still need weapons, equipment and supplies.
+
+Név:
+Scouting Report Border Lord
+Üzenet:
+Apparently I made an impression on the Deyjan Border Lords.  My Elven scouts report the nearest Border Lord seems to be raising an army to challenge our presence near the border.  They suspect a Vampire Scout spotted us when we moved into this area of the Contested Lands.
+
+Név:
+Dream from Manda
+Üzenet:
+I had another dream about Amanda last night.  I think the dreams are real, and she's communicating with me by magic.		She asked me how I was faring.  I told her I had recovered the Amulet for Sandro and agreed to help his master, Ethric, find a Vampire's Cowl and a pair of Dead Man's Boots.  Shaking with fury, I also told her about the 'harvesting,' and how I was trying to help the villagers in this area.  She just looked at me with her wise, calm eyes and advised me to be careful, very careful about what I was doing, and it wouldn't be like the last time.
+
+Név:
+Sorting it out
+Üzenet:
+I was thinking about... things today.  Sometimes I just refuse to think about certain things, but it hurts too much, and, besides, I feel more settled now.  I don't think it's wrong to hate the Hateful or not forgive the Unforgivable.  What I think is wrong is to let that hating and unforgiving turn a person into the thing they hate or won't forgive.  I won't make that mistake again.  I won't be like them.
+
+Név:
+Visit from Lord
+Üzenet:
+Clancy's Lord Fayette arrived today!  What a pleasant surprise!  He claimed he was on a "Hunting Trip" and winked at me.  This is the first chance I had to talk to him, and I liked him a lot.  We talked about the forest, animals and people.  Just before he left, he said he would like for me to think about joining the AvLee forces as a hero working for either him or another AvLee Lord.  He told me to send him a messenger with my thoughts on the matter in a few days
+
+Név:
+Letter to Lord
+Üzenet:
+I wanted to write Lord Fayette right after his visit, but I forced myself to let some time pass.  I finally wrote him today that I would be happy to join his forces but needed to finish gathering the items Ethric wanted first.  I think he will understand.  I'll just have to wait and see.
+
+Név:
+Letter from Lord
+Üzenet:
+I received a letter from Lord Fayette today.  I had to open it right away.  It formally invited me to join his forces as a General as soon as my promise to Sandro was fulfilled.  He said some flattering things that made me laugh.  That elf lord is also a charmer.  It is going to be a pleasure working for him.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(9, 11, 0) ***Rampart***
+Név:
+Leafhall
+
+(63, 26, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+(42, 62, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Creatures
+Üzenet:
+
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+1 time Bonus Income
+Üzenet:
+
+
+Név:
+Build Townhall
+Üzenet:
+
+
+(14, 61, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+(62, 47, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Creatures
+Üzenet:
+
+
+Név:
+Extra Income
+Üzenet:
+
+
+Név:
+1 time Bonus Income
+Üzenet:
+
+
+Név:
+Build Townhall
+Üzenet:
+
+
+(54, 44, 1) ***Küldetésõrzõ***
+Üzenet:
+A group of bandits man this tower.  They say, "If you want Terek and his equipment, you have to pay his ransom of 40,000 gold."
+No 40,000 gold, no Terek.
+Terek is in the prison north of here.  His ransom is 40,000 Gold.  Do you wish to pay the ransom?
+
+(3, 17, 1) ***Véletlenszerû kisebb varázstárgy***
+Üzenet:
+A group of Medusa is gathered around the artifact.  Do you wish to attack?
+
+(9, 29, 1) ***Véletlenszerû kincs varázstárgy***
+Üzenet:
+A flock of Harpies are roosting above the artifact.  Do you wish to attack them?
+
+(18, 16, 1) ***Véletlenszerû kisebb varázstárgy***
+Üzenet:
+A garden of statues warns of the temper of the Medusas guarding this artifact.  Do you wish to engage them?
+
+(22, 7, 1) ***Véletlenszerû nagyobb varázstárgy***
+Üzenet:
+Lots of Minotaurs and Manticores guard this artifact.  Do you wish to take the artifact from them by force of arms?
+
+(25, 17, 1) ***Véletlenszerû kincs varázstárgy***
+Üzenet:
+Lots of Beholders possessively guard this artifact.  Do you wish to attack?
+
+(23, 54, 1) ***Véletlenszerû kincs varázstárgy***
+Üzenet:
+A flock of Harpies are roosting above the artifact.  Do you wish to attack them?
+
+(29, 63, 1) ***Véletlenszerû kisebb varázstárgy***
+Üzenet:
+A group of Medusa surrounds this artifact.  Do you wish to attack?
+
+(22, 61, 1) ***Véletlenszerû nagyobb varázstárgy***
+Üzenet:
+Lots of Minotaurs and Manticores guard this artifact.  Do you wish to take the artifact from them by force of arms?
+
+(65, 31, 1) ***Véletlenszerû kisebb varázstárgy***
+Üzenet:
+A group of Medusa is gathered around the artifact.  Do you wish to attack?
+
+(65, 23, 1) ***Véletlenszerû kincs varázstárgy***
+Üzenet:
+A flock of Harpies are roosting above the artifact.  Do you wish to attack them?
+
+(66, 28, 1) ***Véletlenszerû nagyobb varázstárgy***
+Üzenet:
+Lots of Minotaurs and Manticores guard this artifact.  Do you wish to take the artifact from them by force of arms?
+
+(49, 52, 1) ***Véletlenszerû relikvia***
+Üzenet:
+Lots of sleeping Dragons surround this Relic.  Do you wish to challenge them for the artifact?
+
+===== Fájl vége =====

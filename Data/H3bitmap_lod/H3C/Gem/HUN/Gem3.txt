@@ -1,0 +1,194 @@
+===== Térkép neve =====
+A csuklya visszeszerzése
+
+===== Térkép leírása =====
+A gyõzelemhez Lombcsarnok várába kell vinned a Vámpír Csuklyáját. Azonban ha Gem vagy Clancy vereséget szenved, a küldetés elveszett. Hõseid a 20. szintig juthatnak el, de Gem és Clancy átviszik majd képességeiket, tapasztalataikat, varázslataikat a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Egy terek nevû barbár megtalálta a Vámpír Csuklyáját Sandró számára. Sajnos azonban a visszaúton banditák ejtették foglyul tereket a Vitatott Földek területén. terek meggyõzte a baditákat, hogy a mestere szép öszeget fizet érte, ha tárgyaival együtt sértetlenül kiadják neki. Varázsgömböm szerint egy földalatti börtönben, a deyjai határhoz közel tartják fogva.
+
+Név:
+Bevezetés (folytatás)
+Üzenet:
+Jó hírt is kaptam ma. clancy engedélyt szerzett mesterétõl, hogy segítsen nekem megtalálni a többi varázstárgyat. Lord Fayette azt mondta, hogy felõle rendben van, csak ne hódítsuk meg AvLeet. Gondolom, ez az utolsó rész vicc volt.
+
+Név:
+jelentés a Rampartokról
+Üzenet:
+felderítõim egy semleges Rampart kastélyról számoltak be északkeletre a kiinduló bázisunktól.
+
+Név:
+Újabb betakarított falu
+Üzenet:
+Ma egy újabb falucskán haladtunk keresztül, amit egy nekromanta pár hónapja ,,betakarított". Eltemettem, ami a gyerekek testébõl memaradt. Felnõttek nem voltak, õket csontvázként támasztották fel, ebben biztos vagyok. Olyan öregnek, fáradtnak, mérgesnek és zavarodottnak érzem magam, ha ilyesmit látok. Nem tudom, hogy akarja Erathia megtartani a Vitatott Földeket, ha nem védi meg a népet ettõl a borzalomtól.
+
+Név:
+Újabb betakarított falu (folytatás)
+Üzenet:
+Muszáj a küldetésemre koncentrálnom. Nagyon fájdalmasan érint, hogy egymagam nem tudom elpusztítani a világ öszes gonoszságát. Csak annyit tehetek, hogy segítek másoknak segíteni magukon. Pénzt adtam Dilino polgármesternek, hogy telepítse a lakosságot Lóhere köré, ahol a polgárõrség megvédheti õket. A többi pénzemet is odadtam, hogy támogassa a polgárõrséget. A polgárõrség ugyan önkéntesekbõl áll, de akkor is szükségük van fegyverekre, felszerelésre és ellátásra. 
+
+Név:
+Felderítõ jelentés egy határúrról
+Üzenet:
+Úgy tûnik, nagy hatást tettem a deyjai határurakra.  Tünde felderítõim szerint egyikük sereget gyûjt, hogy csatába induljon ellenem. A felderítõk azt gyanítják, hogy az egyik vámpírúr észrevehette, amint erre a területre érkeztünk.
+
+Név:
+Álom Amandáról
+Üzenet:
+Ma este megint Amandáról álmodtam. Azt gondolom, az álmok valódiak, és varázslattal kommunikál velem. megkérdezte, hogy hogyan haladok. Elmondtam, hogy megszereztem Snadrónak az Amuletet, és hogy elvállaltam, hogy segítek a mesterének, Ethricnek megtalálni a Vámpír Csuklyáját és a Halott Ember Csizmáját. Remegve a dühtõl, beszéltem neki a ,,betakarításról" is, és hogy hogy próbáltam segíteni az itt élõknek. Õ csak rámnézett bölcs, nyugodt szemeivel, és azt mondta, hogy legyek nagyon, nagyon óvatos, és akkor nem az történik, ami legutóbb.
+
+Név:
+rendszerezés
+Üzenet:
+ma gondolkodtam... dolgokról. Néha egyszerûen megtagadom, hogy bizonyos dolgokra gondoljak, de túlságosan fáj, és most már kiegyensúlyozottabbnak érzem magam. Nem hiszem, hogy helytelen gyûlölni a Gyûlöletest és nem megbocsátani a Megbocsáthatatlant. Viszont helytelen, ha engedjük, hogy a gyûlölet és nem megbocsátás olyanná változtassa az embert, amit maga is gyûlöl és nem bocsát meg. Nem követem el újra azt a hibát. Nem leszek olyan, mint õk.
+
+Név:
+A lord látogatása
+Üzenet:
+Clancy Lord Fayette-je tegnap megérkezett! Micsoda kellemes meglepetés! Azt állíttta, ,,vadászaton" van, és közben rám kacsintott. Most elõször volt alkalmam beszélni vele, és nagyon megkedveltem. Az erdõrõl, állatokról és népekrõl beszélgettünk. Mielõtt elment, azt mondta, hogy szeretné, ha gondolkodnék azon, hogy csatlakozom AvLee seregéhez, és beállok hozzá vagy egy másik lordhoz. Azt mondta, pár nap múlva küldjek neki üzenetet ezzel kapcsolatban.
+
+Név:
+Levél a lordnak
+Üzenet:
+Távozása után azonnal írni akartam Lord Fayette-nek, de kényszerítettem magam, hogy várjak egy kicsit. Végül ma azt írtam neki, hogy szívesen csatlakoznék a seregéhez, de elõbb be kell fejeznem a keresést Ethric számára. Azt hiszem, meg fogja érteni. Nemsokára kiderül.
+
+Név:
+Levél a lordtól
+Üzenet:
+Ma kaptam meg Lord Fayette levelét. Azonnal kinyitottam. A levélben hivatalosan meghívott, hogy csatlakozzak az erõihez, ha végeztem a kereséssel. Olyan hízelgõ dolgokat mondot, hogy nevetnem kellett. Milyen elragadó ez a tünde lord! Öröm lesz együtt dolgozni vele.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(9, 11, 0) ***Rampart***
+Név:
+Lombcsarnok
+
+(63, 26, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+(42, 62, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra egységek
+Üzenet:
+
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+Név:
+Városháza építése
+Üzenet:
+
+
+(14, 61, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+(62, 47, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra egységek
+Üzenet:
+
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+Név:
+Városháza építése
+Üzenet:
+
+
+(54, 44, 1) ***Küldetésõrzõk***
+Üzenet:
+Egy csoport bandita uralja ezt a tornyot, és azt mondják: ,,Ha szükséged van Terekre és a felszerelésére, 40,000 aranyat kell fizetned váltságdíjul."
+,,Nincs pénz, nincs Terek."
+,,Terek az északra lévõ börtönben van. A váltságdíja 40,000 arany. Ki akarod fizetni?"
+
+(3, 17, 1) ***Véletlenszerû kisebb varázstárgy***
+Üzenet:
+Egy csoport medúza gyûlt össze a varázstárgy körül. Megtámadod õket?
+
+(9, 29, 1) ***Véletlenszerû kincs varázstárgy***
+Üzenet:
+Egy csoport hárpia gyûlt össze a varázstárgy körül. Megtámadod õket?
+
+(18, 16, 1) ***Véletlenszerû kisebb varázstárgy***
+Üzenet:
+Egy szoborkert figyelmeztet az itt összegyûlt medúzák rossz kedvére. Megtámadod õket?
+
+(22, 7, 1) ***Véletlenszerû nagyobb varázstárgy***
+Üzenet:
+Több mantikór és minótaurusz gyûlt össze a varázstárgy körül. Megtámadod õket?
+
+(25, 17, 1) ***Véletlenszerû kincs varázstárgy***
+Üzenet:
+Több Beholder gyûlt össze a varázstárgy körül. Megtámadod õket?
+
+(23, 54, 1) ***Véletlenszerû kincs varázstárgy***
+Üzenet:
+Egy csoport hárpia gyûlt össze a varázstárgy körül. Megtámadod õket?
+
+(29, 63, 1) ***Véletlenszerû kisebb varázstárgy***
+Üzenet:
+Egy csoport medúza gyûlt össze a varázstárgy körül. Megtámadod õket?
+
+(22, 61, 1) ***Véletlenszerû nagyobb varázstárgy***
+Üzenet:
+Több mantikór és minótaurusz gyûlt össze a varázstárgy körül. Megtámadod õket?
+
+(65, 31, 1) ***Véletlenszerû kisebb varázstárgy***
+Üzenet:
+Egy csoport medúza gyûlt össze a varázstárgy körül. Megtámadod õket?
+
+(65, 23, 1) ***Véletlenszerû kincs varázstárgy***
+Üzenet:
+Egy csoport hárpia gyûlt össze a varázstárgy körül. Megtámadod õket?
+
+(66, 28, 1) ***Véletlenszerû nagyobb varázstárgy***
+Üzenet:
+Több mantikór és minótaurusz gyûlt össze a varázstárgy körül. Megtámadod õket?
+
+(49, 52, 1) ***Véletlenszerû relikvia***
+Üzenet:
+Több alvó sárkány gyûlt össze a varázstárgy körül. Megtámadod õket?
+
+===== Fájl vége =====

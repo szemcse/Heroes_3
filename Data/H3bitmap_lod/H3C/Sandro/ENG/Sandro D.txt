@@ -1,0 +1,37 @@
+===== Térkép neve =====
+Duke Alarice
+
+===== Térkép leírása =====
+Defeat Duke Alarice and all his allies to win the campaign.  However, if Sandro or Finneas are defeated in combat, the scenario is lost.  Sandro and Finneas are limited to level 25 but will carry their experience, skills and spells on to their next campaign.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Day 1
+Üzenet:
+Soon the Duke Alarice will find himself among the dead.  Your plans are going well as you prepare to launch an assault.  Finneas does not agree with your tactics, but you know his are certain death.  He suffers from the delusion that he is a tactical genius.  Soon he will come to see that he cannot survive without your guidance.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(27, 23, 0) ***Bajnok***
+Üzenet:
+You are forbidden to pass here.
+
+(61, 38, 0) ***Küldetésõrzõ***
+Üzenet:
+This town is very dangerous.  The guards eye you dubiously but agree to let you by when you have achieved the experience level 25.
+The guards acknowledge that you have indeed reached level 25.  Do you wish to enter the town at this time?
+
+(11, 8, 0) ***Nekromanta***
+Név:
+Duke Alarice
+
+(67, 9, 0) ***Szemfényvesztõ***
+Üzenet:
+Our knowledge has been stored here, and we will not share it with anyone!
+
+===== Fájl vége =====

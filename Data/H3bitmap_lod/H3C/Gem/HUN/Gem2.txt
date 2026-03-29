@@ -1,0 +1,109 @@
+===== Térkép neve =====
+A határ megtisztítása
+
+===== Térkép leírása =====
+A gyõzelemhez le kell gyõznöd az ellenségeidet. Azonban ha Gem vagy Clancy vereséget szenved, a küldetés elveszett. Hõseid a 10. szintig juthatnak el, de Gem és Clancy átviszik majd képességeiket, tapasztalataikat, varázslataikat a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Nyolc hónappal ezelõtt a mentorom, Amanda beszélt nekem egy Antagarichban feltalált berendezésrõl, amely talán véget vethet az engem kínzó rémálmoknak. Ez a találmány, az Elsõsegély Sátor képes meggyógyítani mindenféle sebet. Elhagytam Enrothot, átkeltem a tengeren, és addig kutattam, amíg itt, Lóhere várában meg nem tudtam venni ezt a csodálatos találmányt. Hamar rájöttem, hogy itt nagy szükség van az Elsõsegély Sátrakra. Lóhere az Erathia, AvLee és Deyja közötti Vitatott Földeken található. Jelenleg a terület Erathiához tartozik, de a deyjai nekromanták fosztogatják a határokat. Mivel az erathiai katonaság nem ért ide idõben, Lóhere polgármestere, Dilino önkénteseket toborzott, de nincs tapasztalt vezetõjük.
+
+Név:
+Bevezetés (folyatás)
+Üzenet:
+Mikor Dilino értesült róla, hogy én generális voltam az enrothi Örökösödési Háborúkban, a városházára kéretett, hogy megbeszéljük a helyzetet. Mgenyerte a rokonszenvemet, és belegyeztem, hogy én vezetem csatába a nekromanták ellen az önkénteseket. Nem örülök neki, hogy újra harcolnom kell, de nem engedhetem, hogy a nekromanták ugyanúgy elpusztítsák Erathiát, mint Enrothot.
+
+Név:
+Rampart kastély
+Üzenet:
+Dilino tanácsait követve pár elhagyatott Rampart kastélyben állítottam fel a bázisomat, Lóherétõl északra. Ezek a kastélyok számomra a régi és az új furcsa kombinációi. Az itt élõ teremtmények egy része régi barátnak tûnik: a törpök, tündék és unikornisok. Még kentaurokat is irányítottam a múltban, de õk nyilasok voltak, nem közelharci egységek. Azt viszont furcsállom, hogy pegazusok, sárkányok és huornok is laknak itt.
+
+Név:
+Nekró kastélyok
+Üzenet:
+Tünde felderítõim épp most jelentették, hogy északra két nekromanta kastély is található. Ezek a fosztogatások kiindulópontjai, és amíg fenntartják ezeket a bázisokat, folytatódni fognak a támadások. A kastélyok elfoglalása az egyetlen megoldás.
+
+Név:
+Fekete haj (törölve, hacsak Gem nem kapja meg a lovát)
+Üzenet:
+Mikor letáboroztunk, az egyik kentaur jött oda hozzám. ,,Gem úrhölgy" -kérdezte- ,,Miért van az, hogy csata elõtt és közben feketére változik a hajad?" -Meglepõdtem a kérdésen, és egy pillanatig csak bámultam rá. A kentaur nyugtalan lett, és visszakozni kezdett. ,,Nem akartam..." Felnevettem. ,,Nem, semmi gond. nem hiszem, hogy tudhatnád. Ahonnan én jöttem, a legtöbb Varázslónõnek hollófekete haja van." Látva a zavarodottságot a szemében, magyarázni kezdtem. ,,Azért, hogy megzavarjuk az ellenséget. Így a megfigyelõk nem tudják megmondani, hogy pontosan melyik Varázslónõ van a harcmezõn. De persze itt Anagarichban nem ismerek más Varázslónõt." Nevetnem kellett a kentaur arckifejezésén. Nyilvánvalóan tiszta, mint a sár. De nem kaptam több kérdést a hajammal kapcsolatban.
+
+Név:
+Nekromanta betakarítás
+Üzenet:
+Egy kis falun vágtam át tegnap, és iszonyatos deja vu érzésem lett. Egy nekromanta tartott ,,betakarítási" ámokfutást a faluban. Így hívják, mikor lemészárolnak egy teljes falut, és élõhalottként támasztják fel a lakókat.  Egyedül a kisgyerekek testét nem tudják felhasználni, mert nem elég nagyok. És persze nem csak az emberek esnek áldozatul. Mivel a gazdáik meghaltak, végül a ketrecben tartott állatokat is megöli az éhség és a szomjúság.
+
+Név:
+Nekromanta betakarítás (folytatás)
+Üzenet:
+Eltemettem a gyerekeket és elengedtem a még életben lévõ állatokat. Az igazi borzalom az, hogy a halott gyerekek a szerencsésebbek. Õk már átléptek a túlvilágra. A felnõttek megkínzott lelkei élõhalott testükhöz vannak kötve, és nem nyughatnak, amíg el nem pusztul a testük. HOL VOLT EZEKNEK AZ EMBEREKNEK AZ URA, HOGY MEGVÉDJE ÕKET? Ezek a területek állítólag erathiaiak, de semmi szervezett sereget nem láttam a nekromanták ellen. hát nem tudják, hogy a nekromanták nem hagyják abba a betakarítsát, amíg mindenki MEG NEM HALT?
+
+Név:
+Rémálom
+Üzenet:
+Egy kis õrjárattal utaztam az erdõben az éjszakai elõtti szürkületben. A levegõben denevérek kergették a rovarokat. Hirtelen céltudatosan körülvettek minket, és vámpírokká változtak. A tündérek sikítottak, a tündék kiabáltak. Csontvázkezek nyúltak ki a földbõl, és lehúzták a lovamat. Térden állva villámlást küldtem a törpjeimet elözönlõ boszorkányokra. Az unikornisok elõre rohanatk, és felnyársalták a vámpírokat a szarvukkal. Pár méterrel arrább egy csontváz megölte az egyik druidámat. Egy fényrobbanással érkeztek meg a fõnixeim az égbõl, hogy szénné égessék a megmaradt vámpírokat és csontvázakat. A nekromanta egy utolsó varázslat után menekülni kezdett. 
+
+Név:
+Nightmare (cont)
+Üzenet:
+Gyötrõdve és dühöngve keltem fel a függõágyamból. Most meg fog fizetni a nekromanta a halálért, a halottakért. Kirohantam a sátramból, és felemeltem a kezem, hogy villámokat szórjak a nekromantára, ám zavartan vettem észre, hogy egy alvó tábor közepén állok. ,,Hölgyem?" kérdezte aggódva egy õr. ,,Csak álom volt" mondtam ,,Csak egy... álom. Egy rémálom. De jól vagyok. Minden rendben."
+
+Név:
+Találkozás egy kószával (Clancy)
+Üzenet:
+Tegnap este találkoztam Clancyvel, egy kósza hõssel, aki remekül bánik az unikornisokkal. Õ egy Lord Fayette nevû avleei határurat szolgál. gyorsan megbarátkoztunk, és meséltem neki a hazám, Enroth Varázslóiról, õ pedig beszélt nekem AvLeerõl, és az itt élõ druidákról és kószákról. Valószínûleg Clancy deyjai behatolások után kutatja a Vitatott Földeket, bár õ ezt így nem mondta ki. Elmondtam neki, hogy a lóherei önkénteseknek segítek élõholtakat pusztítani. Attól tartok, kicsit túl erõsen fejeztem ki a gyûlöletemet. 
+
+Név:
+Álom Amandáról
+Üzenet:
+Tegnap este Amandáról álmodtam. Megkérdezte, hogy tetszik nekem Antagarich. Elmondtam, hogy Erathia eddig nagyon zsúfoltnak és benépesítettnek tûnik. Azonban eddigi tapasztalataim alapján kedvelem a Vitatott Földek vidékét, de nem tetszik, hogy az erathiai nagyurak nem törõdnek a lakókkal. Azt is elmondtam, amit Clancy mondott AvLeerõl. Úgy hangzott, hogy jó hely lehet, nagyon nyitott és vad. Jól hangzik. Sõt, egyre jobban tetszenek a Rampart lakói is, amelyekbõl az avleei hadsereg áll.  
+
+===== Hõsök =====
+
+Életrajz:
+Gem egyike volt az Enrothban valaha látott legnagyobb varázslónõknek, aki Roland királyt szolgálta az Örökösödési Háborúkban. Röviddel azután, hogy Roland megszilárdította a hatalmát, Gem Antagarichba költözött.
+
+===== Tárgyak =====
+
+(37, 21, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+(53, 10, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+(52, 41, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+(13, 14, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+===== Fájl vége =====

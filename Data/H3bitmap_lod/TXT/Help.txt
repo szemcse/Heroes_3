@@ -732,26 +732,26 @@ MAP_AREA_32	MAP_AREA_32
 																																			
 CampaignWindow	CampaignWindow																																		
 																																			
-Sokáig Éljen A Királynõ	Sokáig Éljen A Királynõ																																		
+Sokáig éljen a Királynõ	Sokáig éljen a Királynõ																																		
 Felszabadítás	Felszabadítás																																		
-A Háború Zsákmányai	A Háború Zsákmányai																																		
+A háború zsákmányai	A háború zsákmányai																																		
 Ének Apámról	Ének Apámról																																		
-Börtönök És Ördögök	Börtönök És Ördögök																																		
-Éljen A Király	Éljen A Király																																		
-Az Elégedetlenség Csírái	Az Elégedetlenség Csírái																																		
-A Végítélet Pengéje	A Végítélet Pengéje																																		
+Börtönök és ördögök	Börtönök és ördögök																																		
+Éljen a Király	Éljen a Király																																		
+Az elégedetlenség csírái	Az elégedetlenség csírái																																		
+A Végítélet pengéje	A Végítélet pengéje																																		
 Sárkányvér	Sárkányvér																																		
 Sárkányölõ	Sárkányölõ																																		
-Az Élet Ünnepe	Az Élet Ünnepe																																		
-Merész Akarat	Merész Akarat																																		
-Játék A Tûzzel	Játék A Tûzzel																																		
-Vagdalás És Aprítás	Vagdalás És Aprítás																																		
-Egy Barbár Születése	Egy Barbár Születése																																		
-Új Kezdet	Új Kezdet																																		
-Az Élet Varázsitala	Az Élet Varázsitala																																		
-A Nekromanták Felemelkedése	A Nekromanták Felemelkedése																																		
-Ördögi Szövetség	Ördögi Szövetség																																		
-Az Erõ Szelleme	Az Erõ Szelleme																																		
+Az élet ünnepe	Az élet ünnepe																																		
+Merész akarat	Merész akarat																																		
+Játék a tûzzel	Játék a tûzzel																																		
+Vagdalás és aprítás	Vagdalás és aprítás																																		
+Egy barbár születése	Egy barbár születése																																		
+Új kezdet	Új kezdet																																		
+Az élet elíxire	Az élet elixire																																		
+A Nekromanták felemelkedése	A Nekromanták felemelkedése																																		
+Ördögi szövetség	Ördögi szövetség																																		
+Az erõ szelleme	Az erõ szelleme																																		
 																																			
 																																			
 ROLLOVER	ROLLOVER																																		

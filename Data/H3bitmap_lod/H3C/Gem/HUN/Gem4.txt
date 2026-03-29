@@ -1,0 +1,172 @@
+===== Térkép neve =====
+Hajsza a csizmákért
+
+===== Térkép leírása =====
+A gyõzelemhez Gem induló várába kell vinned a Halott Ember Csizmáját. Azonban ha Gem vagy Clancy vereséget szenved, a küldetés elveszett. Hõseid a 25. szintig juthatnak el, de Gem és Clancy átviszik majd képességeiket, tapasztalataikat, varázslataikat a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Nem lesz egyszerû megszerezni a Halott Ember Csizmáját. Tünde felderítõim beszámolói alapján legalább két deyjai határúr van a területen. Valószínûleg nem fognak örülni a jelenlétemnek Deyjában. Nem vonhatják el a figyelmemet a határurak, a csizmát kell hajszolnom. Persze az lenne a legjobb, ha el tudnám pusztítani a deyjai seregeket és meg tudnám szerezni a csizmát egyszerre.
+
+Név:
+Varázsgömbbel a csizmákért
+Üzenet:
+Megpróbáltam a varázsgömbbel megtalálni a Halott Ember Csizmáját, de semmi hasznosat nem tudtam megjósolni. Jóstehetségem inkább csak élõ dolgokkal mûködik. Azonban Sandro szerint a csizmák egy délre élõ varázsló birtokában vannak.
+
+Név:
+Feketemágia
+Üzenet:
+Ez a hatvenegyedik évem varázslónõként. Az idõ haladtával megtanultam megvédeni magamat és katonáimat a káros varázslatoktól. Minden reggel, mikor felkel a nap, pár percig a varázsgömbömmel ellenõrzöm, nincs-e ellenséges varázslat a seregemen.
+
+Név:
+Feketemágia (folytatás)
+Üzenet:
+Ma reggel felfedeztem, hogy a seregem felére átkot szórtak. Úgy nézett ki, mint egy régen látott nekromanta varázslat, a Fekete Szorítás. Ez az átok belülrõl rohasztja el az áldozatot. Szerencsére még idben el tudtam távolítani a varázslatot.
+
+Név:
+Újra az öreg druida
+Üzenet:
+Meglepetés-látogatóm volt ma reggel: az öreg druida, akivel nemrég beszéltem. reggeli közben megkért, gondolkodjak el azon, hogy druida legyek. Egy pillanatra meghökkentem, de aztán megráztam a fejem, és azt mondtam neki, hogy én varázslónõ vagyok. Az öreg druida nyugodtan evett egy falatot és azt mondta, hogy tudomása szerint attól, hogy varázslónõ vagyok, még lehetek druida is. Reggeli után elment, de adott nekem egy könyvet, melybõl megtudhatom, mit jelent valójában druidának lenni.
+
+Név:
+Könyv
+Üzenet:
+Nem vagyok már olyan bizalommal teli, mint régen. miután átvettem az öreg druida könyvét, alaposan ellenõriztem, nincs-e megátkozva. Nem találtam semmit, csak egy vízlepergetõ varázslatot. Talán ma este olvasok belõle egy kicsit.
+
+Név:
+Könyv II
+Üzenet:
+Tegnap este kiolvastam a druida könyvét. Lassan olvastam, elgondolkodva, hogy mirõl szól, és mirõl nem szól. Bár konkrét dolgokban vannak különbségek, a filozófia magja gyakorlatilag ugyanaz.
+
+Név:
+Amanda támogatása
+Üzenet:
+Ma Amandáról álmodtam, aki örült, hogy látott. Elmondtam neki mindent az öreg druidáról, meglepõ javaslatáról, és hogy mit gondolok a könyvrõl. Amanda megkérdezte, hogy éreztem magam a druida ajánlata után. ,,Megtisztelve" feleltem kis szünet után.
+
+Név:
+Amanda támogatása (folytatás)
+Üzenet:
+,,Gem" válaszolta Amanda ,,ha a két filozófia tényleg olyan hasonló, ahogy mondod, akkor jó ötletnek tartom, hogy csatlakozz hozzájuk." Azt mondtam, hogy nem vagyok rá képes. Hûtlennek érezném magam vele és varázslónõ testvéreimmel szemben. Amanda megrázta a fejét, és azt javasolta, derítsem ki, milyen esküt kérnek, mielõtt döntenék.
+
+Név:
+Döntés
+Üzenet:
+Sokat gondolkoztam a druida ajánlatán és Amanda szavain. Azt hiszem, megkérdezem, milyen esküt kell tennem. Ha az esküjeim nem ütköznek, akkor csatlakozom a druidákhoz, és új otthonra lelek Antagarichban. Üzenetet küldök ma az öreg druidának, hogy találkozzunk, és beszéljük meg az esküt.
+
+Név:
+Druida találkozó
+Üzenet:
+Ma reggelinél találkoztam az öreg druidával. Õszinte voltam hozzá. Elmondtam, hogy komolyan fontolgatom a csatlakozást, de elõbb meg kell vizsgálnom az esküket.
+
+Név:
+Druida találkozó (folytatás)
+Üzenet:
+Elmagyarázta, hogy minden druida maga írja az esküjét, és ebédig ki is dolgoztuk a saját eskümet. Amanda szavait követve nyugodtan egyeztem bele, hogy az öreg druida elvigye az eskümet a Druida Nagytanácsnak.
+
+Név:
+Amanda helyeslése
+Üzenet:
+Ma este megint Amandával álmodtam. Köszöntöttük egymást, és beszámoltam neki találkozásomról az öreg druidával, és hogy kidolgoztam az eskümet is. Egy részem mindig is varázslónõ fog maradni, de végül druidává váltam, és új otthonra leltem itt Antagarichban. megkértem Amandát, hogy kérje meg a többi varázslónõt, egyezzen bele, hogy druida legyek. 
+
+Név:
+Beleegyezés
+Üzenet:
+Amanda tûnt fel ma éjjel, és elmondta, hogy a többi varázslónõ beleegyezett, hogy druida legyen belõlem. Megölelt, és azt mondta, ez lesz az a bizonyos ,,új kezdet", melyrõl remélte, hogy megtalálom Antagarichban.
+
+Név:
+Üzenet az öreg druidának
+Üzenet:
+Me reggel küldtem el az átnézett esküt az öreg druidának. Azt mondtam, hogy pár árnyalat van a változtatásban, ami így jobban tetszett. Azt is megírtam, hogy ezt az utolsó küldetést szeretném még varázslónõként befejezni. Aztán ha a Druida Tanács elfogadja a fogadalmamat, a következõ teliholdkor felesküszöm. Úgy érzem, könnyebb let a szívem. Nemsokára avleei hõs és druida leszek. De elõbb meg kell szereznem a csizmákat Sandrónak.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(74, 3, 0) ***Titok Kunyhó***
+Üzenet:
+,,Látnok vagyok, és tudom, hogy szükséged lesz a Szentek Bocskorára. Nálam van egy pár, és neked adom, ha hozol nekem 25 szellemsárkányt." Kinevet, amikor csikorgatod a fogadat. ,,Úgyis visszajössz."
+,,Nincs 25 szellemsárkány? Akkor nem adom oda a Bocskort!"
+,,Végre, a 25 szellemsárkány! Elég sokáig tartott. Tessék, vedd el a bocskort. Rosszul leszek, olyan jóságot sugároz."
+
+(42, 42, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+(58, 85, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+Név:
+Extra lények
+Üzenet:
+
+
+(3, 104, 0) ***Küldetésõrzõk***
+Üzenet:
+Egy hatalmas varázslóé ez a torony. Nem enged át, csak ha elhozod neki a Szentek Bocskorát.
+A varázsló hajthatatlan. Ha át akarsz jönni, hozd el a Szentek Bocskorát.
+A varázsló beleegyezik, hogy átengedjen a Szentek Bocskoráért cserébe. Át akarsz menni?
+
+(2, 103, 0) ***Halottak Csizmája***
+Üzenet:
+Egy kis hegyi tisztás közepén találod meg a Halott Ember Csizmáját. A hátadon feláll a szõr. A finom szellõ a pusztulás halvány bûzét hozza. Fel akarod venni a csizmákat?
+
+(72, 58, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+Név:
+Extra lények
+Üzenet:
+
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+(24, 70, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+Név:
+Extra lények
+Üzenet:
+
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+===== Fájl vége =====

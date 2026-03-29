@@ -35,7 +35,7 @@ Arany Sárkány	Arany Sárkány	0	0	0	0	2	0	4000	6220	8613	1	0	250	16	27	27	40	50	0	
 																								
 																								
 Harci Manó	Harci Manó	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0
-Mestert Harci Manó	Mestert Harci Manó	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Lövések.	SHOOTING_ARMY
+Mester Harci Manó	Mester Harci Manó	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Lövések.	SHOOTING_ARMY
 Kõ Vízköpõ	Kõ Vízköpõ	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30	Repül. Élettelen.	FLYING_ARMY
 Obszidián Vízköpõ	Obszidián Vízköpõ	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25	Repül. Élettelen.	FLYING_ARMY
 Kõgólem	Kõgólem	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	A rá varázsolt varázslatok 50%-a hat csak.	0

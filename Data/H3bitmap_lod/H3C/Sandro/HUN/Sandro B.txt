@@ -1,0 +1,88 @@
+===== Térkép neve =====
+Mester
+
+===== Térkép leírása =====
+A gyõzelemhez le kell gyõznöd Ethricet és minden szövetségesét. Ha Sandro elesik a csatában, az egész háború elveszett. Sandro ezen a térképen csak tízes szintig fejlõdhet, de magával viszi minden tapasztalatát, képzettségét és varázslatát a következõ térképre.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetõ
+Üzenet:
+Deyjaba tartó utazásod során találkoztál egy fiatal varázslónõvel, Vidominaval, aki Nekromanta akar lenni. Elfogadod a zord fiatal nõt tanítványodul, miután megmutatja természetes érzékét a nekromanciáról, megidézve és megölve apróbb állatokat. A tanítása jól halad, így hamar bizalmadba fogadod. Beszélsz neki a küldetésedrõl, a kezedben lévõ hatalmas varázstárgyakról és hogy Ethric miért is akarja a fejed. Hamar átlátja a helyzetet és egybõl javaslatokat tesz Ethric megtámadására. Legyõzni õt igen nehéz lesz, de új, éles eszû tanítványoddal meglehetõsen javulnak az esélyeid.
+
+Név:
+Elsõ Lecke.
+Üzenet:
+Vidomina megállás nélkül bizonyítja rátermettségét és elhatározását, hogy Nekromanta lesz. A tanácsadóiddal eltöltött egésznapos tárgyalások miatt aznap nem tudtál vele foglalkozni, de este utánanézel a tanulmányainak. Figyeled, ahogy varázslatait gyakorolja a holdfényben és rájössz milyen szép is õ valójában. Hirtelen találkozik a tekintetetek és õ bájosan elmosolyodik. Sarkon fordulsz, kissé szégyenkezve a pillanatnyi gyengeségért. A Nekromantáknak nem lehetnek ilyen érzéseik!		Vidomina hozzád lép és a válladra teszi a kezét. "Jó estét, mesterem! Örömmel tölt el, hogy láthatlak. Hiányoltam ma a társaságod..."		Eltaszítod a kezét. "Az elsõ leckéd ma estére: ne legyél velem ilyen bizalmaskodó. A Nekromantáknak csak a halállal lehet foglalkozniuk és bölcsen távolságot kell tartanuk a körülöttük lévõkkel, még a mesterüktõl is."		"Igen, mester," válaszolja Vidomina szégyenlõsen.		"A második lecke: soha ne bízz meg túlságosan senkiben, fõleg ne az élõkben. Egész álló nap a tanácsadóim errõl a vidékrõl beszéltek amin keresztülhaladunk, de attól félek túlságosan is rájuk hagyatkoztam. Indulj elõre, és oszd meg velem a saját benyomásaidat a helyzetünkrõl. Tudd meg, milyen erõs az ellenség, milyen erõik vannak, és miféle mágiát használnak. Az utolsó négy várost játszi könnyedséggel elfoglaltuk, de nem akarok az önhittek csapdájába esni. Szükségem van egy friss szempárra, aki megmondja mi vár ránk. Most pedig indulj!"	Ahogy figyeled Vidominat ellovagolni az elsõ önálló kalandja felé, nem tudod eldönteni, hogy megkönnyebbülést vagy inkább aggódást érzel. 
+
+Név:
+Szerelmes vagy
+Üzenet:
+"Beleszeretett, én mondom neked!" suttogja egy csontvázharcos egyik társának. "Nem vetted észre, hogy néz rá? Amikor ellovagolt, teljesen elködösödött a tekintete."		Hallgass, te bolond!" szól rá a zombi. "Ha ilyen pletykákat terjesztesz, könnyen elpusztulhatsz."		"Hah! Én nem félek Sandrotól" horkantja a csontváz. "Miért, ilyen szerelmesen, nem hiszem hogy lenne bátorsága vezetni minket a ..."		Hirtelen egy villámcsapás szórja szét a szélrózsa minden irányába a csontváz elszenesedett csontjait. "Nem akarok több ilyen beszédet hallani! Menjetek vissza a dolgotokra! reccsen rá Sandro a megmaradtakra. Erre azok szétfutnak az õrhelyükre.		Átkozva saját emberi gyarlóságodat, saját magad hibáztatod. Ha nem tudsz vigyázni az érzelmeidre, a seregeid elveszthetik a vezetésedbe vetett hitüket. 
+
+Név:
+Vidomina üzenete
+Üzenet:
+Üzenet érkezett Vidominatól: "Mester, két Rampart város van a vidéken. Ethric megüzente nekik, milyen hatalmas veszélyt jelentesz számukra a nálad lévõ varázstárgyak miatt. Sajnos az egyik várost törpék lakják, és amint rájöttek, hogy az egyik varázstárgyat a népüktõl lopták el, csatlakoztak Ethrichez az ellened folyó harcban. Óvatos légy, mikor utadon erre jársz! Vidomina"
+
+Név:
+Több részlet
+Üzenet:
+Az egyik kémed jelenti: "Uram, egy hete figyeljük a törpéket és nagyon sok mindent megtudtunk. Amikor a varázstárgyat ellopták, minden törpe nemzetség a másikat vádolta a lopással, és azóta hosszú évek  óta háborúban álltak egymással. Viszont amint Ethric üzenetét megkapták, mind elsõre csatlakoztak hozzá. Nagy csatára kell felkészülnöd."
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(26, 31, 0) ***Igézõ***
+Név:
+Vidomina
+Életrajz:
+Vidominanak már rég halottnak kellene lennie. Az õ "minden lében kanál" természete sokszor hozta olyan helyzetbe, amibõl kerülhetett volna ki élve. A legnagyobb titka, hogy igazi Nekromanta akar lenni. 
+
+(12, 29, 0) ***Esemény***
+Üzenet:
+Hosszú és vastag ágak tekerednek köréd és lerántanak a földre. Huorn harcosok támadtak rád!
+
+(24, 10, 0) ***Esemény***
+Üzenet:
+Egy mûködõ fûrésztelep áll az utadban, és egy csomó Hatalmas Lich õrzi. Soha nem gondoltad volna, hogy a sajátjaid ellen kell majd harcolnod.
+
+(22, 18, 0) ***Esemény***
+Üzenet:
+A környezõ fák életre kelnek. Megtámadtak!
+
+(2, 18, 0) ***Esemény***
+Üzenet:
+
+
+(19, 19, 0) ***Esemény***
+Üzenet:
+A kémeid jelentették, hogy azok a fekete egyenruhás határõrök õrzik az összes monolithot végestelen-végig az egész vidéken. Átkozott Ethric, mindenbe beleártja magát! A figyelmeztetése elég idõt addot ezeknek a népeknek, hogy felállítsák a védelmüket. Visszaküldöd a kémeidet a vadonba, hogy megtalálják a fekete kulcsár sátrát.
+
+(9, 25, 0) ***Esemény***
+Üzenet:
+Az ezüst pegazusok nem látszanak boldognak, hogy láthatnak . Amint elindulsz a kõbánya felé, rádtámadnak.
+
+(15, 9, 0) ***Varázsló***
+Név:
+Ethric
+Életrajz:
+
+
+(29, 22, 0) ***Esemény***
+Üzenet:
+Ez biztosan szentelt kénkõ!
+
+(7, 15, 0) ***Esemény***
+Üzenet:
+Furcsa lényeket látsz kimászni a lávából, amik elindulnak feléd. Gyorsan elõrántod a kardod.
+
+(3, 22, 1) ***Esemény***
+Üzenet:
+A törpe tárnák hatalmas területet fednek be. Ahogy lenézel a bányászaknába, észreveszed, hogy több száz törpe van odalent. Úgy látszik visszatértük nem igazán baráti.
+
+===== Fájl vége =====

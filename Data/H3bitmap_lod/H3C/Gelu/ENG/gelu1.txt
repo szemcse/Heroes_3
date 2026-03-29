@@ -1,0 +1,55 @@
+===== Térkép neve =====
+Graduation Exercise
+
+===== Térkép leírása =====
+Defeat all Gelu's enemies win the scenario.  However, if Gelu is defeated in combat, the scenario is lost.  Your heroes are limited to level 10, but Gelu and two other heroes will carry their experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Opening
+Üzenet:
+Congratulations, cadet.  You have but one test left to complete your training and join the illustrious ranks of the Forest Guard.  You are to conquer this region of the valley near Gaia's Crest.  This region is filled with monsters, several towns and a few Forest Guard members posing as potential enemies.  This is a well-traveled land, so navigation should be quite easy.  To pass this trial, you must defeat everyone in the land by whatever means necessary.  Good luck, cadet.  May the Light shine down upon you.
+
+Név:
+A Lesson in Adversity
+Üzenet:
+Forest Guard rangers must deal with a wide variety of unexpected and troublesome situations.  There will come times when things will not go as planned or envisioned.  This is one of those times.  Several of your supply trains have been hit by raiders and their contents looted.  Deal with this situation.
+
+Név:
+Words of Encouragement
+Üzenet:
+It has been 30 days since you began your mission.  You are taking too long.  As a member of the Forest Guard, you must be able move quickly to strike your enemy, attacking him while he is still weak and vulnerable.  The less he knows about our activities in a region, the less likely he is to be prepared for our assaults.  Hasten your attacks and secure this region immediately.  Lives depend upon our rapid deployment.
+
+Név:
+60 Days Later
+Üzenet:
+Cadet, this is getting ridiculous!  A region of this size should have been cleared by now.  Forest Guard missions require speed, stealth, and efficiency.  Perhaps we should re-evaluate your progress and send you back to training.  Now hurry up and secure the area!
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(34, 4, 0) ***Törpe Harcos***
+Üzenet:
+"Ready and willing, sir.  What are your orders?"
+
+(31, 1, 0) ***Nemestünde***
+Üzenet:
+"By your command."
+
+(17, 5, 0) ***Medúza***
+Üzenet:
+The dark and foreboding trail is ominously quiet.  Suddenly you hear the hissing of hundreds of snakes.  Before you even get a chance to turn back, more than two dozen Medusae slither out and attack.
+
+(16, 16, 0) ***Pandora Szelencéje***
+Üzenet:
+You receive an eerie feeling from the box before you.  A glow pulsates around it and an odd colored fog issues forth from its cracks.
+
+(20, 13, 0) ***Esemény***
+Üzenet:
+This city looks like the perfect place for a base of operations.  Take it and build it up quickly.  But we wary!  Your opponents might slip in and take it from you while you are away.  Be sure to leave some troops and possibly a lieutenant behind to defend the city from attacks.
+
+===== Fájl vége =====

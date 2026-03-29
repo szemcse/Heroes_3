@@ -1,0 +1,70 @@
+===== Térkép neve =====
+Cutthroats
+
+===== Térkép leírása =====
+Stop a group of rogue AvLee lords from selling the Ring of Vitality to a Death Knight lord in Deyja to win the scenario.  However, if Gelu is defeated in combat, the scenario is lost.  Gelu is limited to level 15 but will carry his experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Opening
+Üzenet:
+The Forest Guard has been assigned to recover several artifacts needed to concoct the Elixir of Life.  Were this powerful potion to fall into the hands of the Necromancers of Deyja, they would pervert its beneficent magic to their own twisted purposes.		You, Gelu, have been selected to lead a raid into a region controlled by vicious thugs.  It is believed they have the Ring of Vitality, or at least know where it is, and are planning to sell it to the Necromancers.  You must stop them and attain the ring for yourself.  Do not fail us, for lives other than your own are on the line.  Good luck.
+
+Név:
+The Lords
+Üzenet:
+The warlords in this region are cutthroats and madmen.  They have been looting caravans, razing villages, and butchering garrisons with no thought given to the consequences to their homeland.  They will foolishly sell the Ring of Vitality to the Necromancers and betray their countrymen merely to fill their coffers with gold.  These traitors should be given no quarter and shown no mercy.
+
+Név:
+Bandits Attack!
+Üzenet:
+Bandits have attacked your supply lines and taken valuable resources.
+
+Név:
+Scout Report
+Üzenet:
+Your spies tell of a seer in the Northeast who knows the location of the Ring of Vitality.  Seek him out, learn the Ring's location, and then retrieve it.  Be wary!  The necromancers are also looking for the Ring.
+
+Név:
+An Arrangement
+Üzenet:
+Our scouts report that one of the warlords has made contact with the Necromancers and is planning a meeting very soon.  Time is of the essence.  Should that Ring fall into the Necromancers' hands you will need to take it from them by force.  Use whatever means are necessary to keep that Ring safe.  Remember that the best defense is a strong offense: clear this region of the cutthroats inhabiting this region before they organize and steal the Ring for themselves.  However, only invade Deyja if you absolutely must.
+
+Név:
+The Seer
+Üzenet:
+The seer in the Northeast is an old wise man named Feredor.  Seek his advice, but be warned he shall not give you the Ring outright.  He is said to issue a test to those who seek the Ring.  Perform whatever task he asks, for you must obtain that Ring.
+
+Név:
+Terrain
+Üzenet:
+Be warned, this region was the site of a glorious battle and is now holy ground.  Do not desecrate it.
+
+Név:
+The Vision
+Üzenet:
+Last night your sleep was wracked with terrible dreams, visions of the dark events to come.  You were haunted by images of a cloaked figure sweeping his skeletal hand across a grassy plain, leaving behind a desolate land overrun by legions of undead monsters.  Sinister laughter echoed throughout your mind and soul.  You awoke, fearful and shaken but still resolved to obtain the Ring of Vitality.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(28, 31, 0) ***Rampart***
+Név:
+Daggercourt
+
+(0, 69, 0) ***Titok Kunyhó***
+Üzenet:
+My friend Phelan has told me to expect the pale one called Gelu.  Are you he?
+I was told to wait for the one called Gelu.  If you see him in your travels, let him know where to find my home.
+
+(63, 2, 0) ***Titok Kunyhó***
+Üzenet:
+Before I can tell you where the Ring is located, you must prove your worth to me by bringing me the Badge of Courage.  Do not return without this artifact.
+Have you not found the Badge of Courage?  Tsk, tsk.  I thought you were made of sterner stuff than that.  Go back into the wilderness and find it.  Only then will I tell you were you can find the Ring of Vitality.
+You have proven your worthiness.  For this, I reveal the location of the Ring of Vitality to you.		The man who has it is lives in a small hut south west of here.  He has hidden the Ring and will give it only to those whom I deem worthy of it.  I will alert him to your impending arrival.  Take these Angel Wings to speed you on your way.  When you arrive he will give you what you seek.
+
+===== Fájl vége =====

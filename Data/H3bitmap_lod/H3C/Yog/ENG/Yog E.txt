@@ -1,0 +1,65 @@
+===== Térkép neve =====
+Returning to Bracada
+
+===== Térkép leírása =====
+Yog must deliver the Heavenly Helm of Enlightenment and Sword of Judgment to Beleg and Orruk to win the campaign.  However, if Yog is defeated in combat or loses any artifact, the scenario is lost.  Yog is limited to level 25 but will carry his experience, skills and spells on to his next campaign.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+You dispatched a messenger immediately to Winston Boragus, informing him that you found Falor and Terwen and gave them the Celestial Necklace of Bliss and the Lion's Shield of Courage.  The messenger soon returned with very specific instructions from the Duke: enter Bracada and bring the Helm of Heavenly Enlightenment to Beleg and the Sword of Judgment to Orruk, then sending proof of each delivery back to the capital.  You realize that Aine will probably be waiting to capture you when you return to Bracada, so you will have to be very careful.
+
+Név:
+Comp Stuff
+Üzenet:
+
+
+Név:
+Journal Entry 18
+Üzenet:
+Journal Entry 18:  I have sent my scouts out into Bracada hoping to get some good intelligence on where Aine is and what she is planning.  While I am waiting for them to return, I will build up my army.
+
+Név:
+Journal Entry 19
+Üzenet:
+Journal entry 19:  My scouts returned a few hours ago without any information on Aine.  She apparently knew that I was scouting for her and used magic to avoid detection.  The only useful thing my scouts had to report was that all of Bracada's cities were preparing for a war.  I don't want to spend any more time in my former homeland than necessary, so I will send out my scouts out again to locate Beleg and Orruk.
+
+Név:
+Journal Entry 20
+Üzenet:
+Journal Entry 20:  My scouts have found Beleg and Orruk: they are due south from my city.  I am fortunate to have located them so quickly.  The sooner I get out of Aine's reach, the better.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(2, 34, 0) ***Tower***
+
+Idõzített események:
+
+Név:
+Comp Stuff.
+Üzenet:
+
+
+(34, 35, 0) ***Titok Kunyhó***
+Üzenet:
+Finally.  I am Orruk.  I feared something had happened to you.  Do you have The Sword of Judgment for me?
+Excellent.  Take this item to Winston Boragus as proof that you have completed your quest.
+
+(34, 31, 0) ***Titok Kunyhó***
+Üzenet:
+I am Beleg.  I was told you would be coming.  Do you have the Helm of Heavenly Enlightenment as promised?
+Well done.  Now take The Sword of Judgment to Orruk's house.  In exchange he will give you The Pendant of Courage to give to the Duke.  Good luck and farewell. 
+
+(12, 17, 1) ***Küldetésõrzõ***
+Üzenet:
+The guards here say they have orders to only let Yog pass.
+The guards here will only let Yog pass.
+At last, it is Yog.  Do you wish to pass?
+
+===== Fájl vége =====

@@ -1,0 +1,45 @@
+Név:
+Rise of the Necromancer
+
+Leírás:
+Sandro must fight his way past his old master and several other lords who want the artifacts he carries.  Once in Deyja he will make allies and soon rise to the top of the Deyja hierarchy.
+
+
+Target - Rise of the Necromancer A
+
+Jobb-kattintásos szöveg:
+Ethric is a sly old Warlock.  He has spread word of Sandro and the artifacts he carries to the lords of this region.  Some of the lords want these artifacts for their own use; others want to destroy them.  Sandro must defeat all these lords and get into Deyja.
+
+Bevezetõ:
+It seems Ethric, my old master, has finally tracked me down.  He hasn't been too happy about me becoming a Necromancer and wants to remove the blight from his career.  Ethric is no fool.  He spread word of my location to those who would stop me.  It does not matter.  I will defeat these fools, soundly beat my master and continue on to Deyja, where they will appreciate my talents.
+
+
+Master - Rise of the Necromancer B
+
+Jobb-kattintásos szöveg:
+Sandro now faces Ethric and one of his allies.  He must defeat the old Warlock before moving on to Deyja.
+
+Bevezetõ:
+Ethric just doesn't give up, but I have found an ally.  Vidomina is a young wizard with aspirations of being a Necromancer.  For the time being she will be useful, but we will part ways once we get past Ethric and into Deyja proper.
+
+
+Finneas Vilmar - Rise of the Necromancer C
+
+Jobb-kattintásos szöveg:
+Sandro and Finneas Vilmar are going to wipe out Lord Alarice before he can tell the others of Finneas' transgressions against the old King of Deyja.  Once they have completed this trivial task, they will be able to work on removing other bothersome lords from the Deyja court.
+
+Bevezetõ:
+Traveling to Deyja, I met Finneas Vilmar, an ambitious but slightly foolish Necromancer.  He has some holdings here and is trying to increase his realm of power.  With my skills of persuasion he should soon find himself in the position he craves.  Of course, I will be the shadow whispering orders into his ear.
+
+
+Duke Alarice - Rise of the Necromancer D
+
+Jobb-kattintásos szöveg:
+All Finneas or Sandro must do is remove the Duke of this area.  Once he is gone, they will be literally a step away from the throne.  The new king is still not settled into his throne and will be easily replaced.  With any luck, he will suffer an accident in the future.
+
+Bevezetõ:
+Soon Duke Alarice will find himself permanently among the dead.  Right now our plans go well as we prepare to launch an assault.  Finneas does not agree with my tactics, but I know that his tactics are certain death.  It is only a matter of time before he realizes his error and follows my direction.  Soon he will come to see that he cannot survive without my guidance.
+
+Utószó:
+Our plan has been a great success!  We are quickly on the rise.  The King is impressed with Finneas' stunning show of force and ability.  Soon the King will understand the full view of my vision.  Then it will be too late for him.
+

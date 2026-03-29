@@ -1,0 +1,64 @@
+===== Térkép neve =====
+A Thief in the Night
+
+===== Térkép leírása =====
+Steal the Vial of Lifeblood from the Vampire Lord Vokial to create the Elixir of Life and win the campaign.  However, if Gelu is defeated in combat, the scenario is lost.  Gelu is limited to level 25 but will carry his experience, skills and spells on to his next campaign.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Opening
+Üzenet:
+Now the time has come to obtain the Elixir of Life's final component, the Vial of Lifeblood.  For a long time the Vial has been in the clutches of the Vampire Lord Vokial.  He uses the Vial to supplement his need to feed on human blood.  It is said he finds the old fashioned way of feeding to be distasteful, boorish, and beneath one such as he.  Stealing this artifact from him will accomplish two things: complete the Elixir and cause him great embarrassment and discomfort.  It might even kill him, but I doubt we will be so lucky.
+
+Név:
+Vokial
+Üzenet:
+Vokial is a powerful vampire lord and will be well defended.  Take great care when you invade Deyja to steal the Vial, for he will be wary of thieves such as you.
+
+Név:
+Beware the Guild of Cutthroats
+Üzenet:
+Be wary of the Thieves Guild, for they are treacherous and cunning.  Make certain you have what they seek and be sure to see the object you seek before you give them that which they desire.
+
+Név:
+Words of Encouragement
+Üzenet:
+You have served me well thus far, Gelu.  I, Lord Falorel, am pleased with your service and shall report this to your superiors in the Forest Guard.  This joint venture with Erathia has served us well and perhaps will go a long way to heal the wounds suffered in the Timber Wars.  I shall reward your loyalty to me with a small token of gold.  Please accept this with my thankful gratitude for your endeavors to save AvLee and protect her people.
+
+Név:
+The Titans Gladius
+Üzenet:
+Rumor has it the sword of a Titan can be found guarded by Black Dragons living in a valley to the Southwest.
+
+Név:
+The Sentinel Shield
+Üzenet:
+A passerby tells tales of a glimmering shield he saw once somewhere in the Southeast.  He would have taken the shield but a Red Dragon chased him away.
+
+Név:
+Elixir
+Üzenet:
+Once you have the Vial of Lifeblood, combine it with the Ring of Life and the Ring of Vitality to create the Elixir of Life.  You must have all three to form the Elixir and all three must remain together to keep the Elixir stable.		The process is simple.  Place the Rings inside the Vial and thrice chant the words on the scroll you were given.  Once you complete the third chant, the Elixir will come into being.  Then bring it to me immediately.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(70, 14, 0) ***Titok Kunyhó***
+Üzenet:
+"Psst.  Hey.  Over here.  We hear you are looking for a vial owned by a particular Vampire Lord.  We of the Thieves' Guild are looking for a few things ourselves.  You do us a favor and we do you one in return.  If you bring us the Titan's Gladius and the Sentinel's Shield, we can acquire said vial from this particular Vampire Lord's home.  Do we have a deal?  I thought so."
+"Haven't found it yet, eh?  Well if you want that vial so bad, you better get out there and start looking a little harder, capiche?"
+"Alright!  Now we're talking merchandise.  So, we had a deal.  Hand over the Sentinel's Shield and Titan's Gladius, and my friend here will give you the Vial of Lifeblood.  Do we have a deal?"
+
+(7, 67, 0) ***Fekete Sárkány***
+Üzenet:
+How dare you enter my domain to thieve from us!  Now we shall feast upon your charred remains.
+
+(67, 69, 0) ***Vörös Sárkány***
+Üzenet:
+Thieves!  Awaken my children, for lunch is served!
+
+===== Fájl vége =====

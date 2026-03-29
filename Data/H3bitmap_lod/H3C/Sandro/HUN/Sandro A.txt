@@ -1,0 +1,79 @@
+===== Térkép neve =====
+Célpont
+
+===== Térkép leírása =====
+A gyõzelemhez le kell gyõznöd minden ellenfeled. Ha Sandro elesik a csatában, az egész háború elveszett. Sandro ezen a térképen csak ötös szintig fejlõdhet, de magával viszi minden tapasztalatát, képzettségét és varázslatát a következõ térképre.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Elsõ nap
+Üzenet:
+Végre! Az Élõhalott Király Köpönyege és az Elátkozott Csodamellvért a kezedben van! Most már megvalósíthatod a terveidet, hogy végigsöpörsz Deyjan. Öreg mestered, Ehtric, szörnyû haragra gerjedt, amint megtudta hogy Nekromanta lettél. Ha megtudja, hogy mit tervezel e két varázstárggyal, haragja oldhatatlan lesz.		Rájöttél arra is, hogy Ethric szétkürtölte hogy hol vagy azoknak akik elvesztették e két roppant varázstárgyat, és másoknak kiknek jó okuk van hogy megvessék a Nekromantákat. Így, hogy utazásod kezdete Deyjaba meglehetõsen nehézre sikerült, felderítõket küldesz szét, hogy esetleges rajtaütésnek minden elõjelét megtudd. 
+
+Név:
+Jeddite levele
+Üzenet:
+Nemrégiben egy fenyegetõ levelet kaptál a nyugati barbároktól, miszerint: "Sandro		A nevem Jeddite. Talán még emlékszel rám, ha nem telepedett elmédre a halál köde. Együtt tanultunk Ethricnél. Azzal, hogy Nekromantává lettél, szégyent hoztál a fejemre, hisz én mutattalak be Ethricnek. Talán hallgatnom kellett volna rá. Már a kezdetektõl kételkedett benne, hogy bölcsen tudod kezelni a mágikus tudást. 		Tudnod kell, Sandro, hogy rajtam nem juthatsz túl, hogy Deyjaba utazz. Szövetséget kötöttem az északi Rampart várossal, és mellém álltak a veled folytatott harcban. A porladó holttestedtõl fogom elvenni e varázstárgyakat hogy visszavigyem õket Ethricnek."		Emlékszel Jedditere. Nemcsak Ethric egyik legjobb tanítványa volt, hanem a Te legjobb barátod is. Úgy tûnik felelõsséget érez, amiatt hogy õ mutatott be Ethricnek. Rá kell jöjj, hogy tudnád e gyengeségét ellene fordítani. 
+
+Név:
+Üzenet
+Üzenet:
+A kémeid üzentek: "Nagyuram,		Amilyen nehézségekbe ütköztünk eddigi utunk során, valószínûleg nem lesz könnyebb a helyzetünk. A táborunkat körös-körül sivatag veszi körül, és ellenséges lények lepték el teljesen, megvédve minden bányát, kocsmát, és minden mást amire rá tudták tenni a kezüket. Az ellenségeink hatalmas erejûek, számos hõssel, kik vezetik õket. Nagyon óvatosan kell haladnod és mindig harcra késznek kell lenned."
+
+Név:
+Válasz Jedditenek
+Üzenet:
+A tanácsnokaid emlékeztettek, hogy már majdnem egy hét telt el azóta, hogy megkaptad régi barátod fenyegetõ levelét. Azt tanácsolták, hogy hamar választ kellene adnod, ha javadra kívánod fordítani a barátságotokat, ezért futárért küldesz.		"Vigyétek levelemet Jedditenek: Megkaptam a figyelmeztetõ leveled. Futnom vagy rejtõznöm kellene talán, megrémülve az esküdtõl hogy megállítasz? Nem, a fenyegetésed még inkább megerõsítette szándékaimat. Elviszem e két varázstárgyat Deyjaba, hogy ott segítségükkel a legmagasabb méltóságra emelkedjem. Te és szánalmas csapatod nem állíthattok meg. Ha az utamba állsz, egytõl-egyik megölök minden élõ lelket soraidból, és holttestüket a saját szolgálatomba állítom. Ellenben köszönetet kell mondjak azért, hogy megismertetted velem a mágia hatalmát. A segítséged nélkül soha lehettem volna ily hatalmas."		A futár gyorsan lejegyzi az üzeneted, majd dolgára indul. Talán kissé elbizakodott volt a levél, gondolod, de -remélhetõleg- megtudván milyen szörny születésében segédkezett, saját önbizalma meging majd.
+
+Név:
+Levél az ellenségnek.
+Üzenet:
+Üzenni az ellenségnek, felfedve minden szándékodat számukra, általában nem tartozik az eszközeid közé, jobban kedveled az álnok befolyásolást vagy a meglepetésszerû támadást a civilizált harcmodor lovagiasságával szemben. Viszont túl sokat fizetsz tanácsnokaidnak, hogy felfedjék elõtted ellenségeid gyengeségeit, és õk eképpen vélekednek: "Üzenj minden városba, hogy kezedben vannak a varázstárgyak, és mond el részletesen, mily szörnyen hatalmas leszel, ha használod õket. Figyelmeztesd õket, ha nem engednek utadra, használni fogod e tárgyakat a csatában és a halál árnyékát borítod földjeikre." 		Egyetértesz abban, hogy az üzenet csak a legcsekélyebb mértékben is megingatja önbizalmukat és feltartod õket vitával, talán folytathatod az utad Deyja felé. Ha mégsem sikerül elrettentened õket az utadból, még mindig visszatérhetsz a meggyõzés baljósabb módszereihez, amiket igazán kedvelsz. Órákig tartó szerkesztés és pár serleg bor után megszületik a hajnalban elküldendõ levél.
+
+Név:
+Mindenki tudja
+Üzenet:
+Mostanra már minden utadban álló bolond tud mindent a kezedben lévõ varázstárgyakról, bár hivatalos visszajelzés nem érkezett a leveledre. Ez csak pár dolgot jelenthet: vagy csöndben készülnek egy rajtaütésre; vagy nem látnak benned akkora veszedelmet; vagy pedig gyenge és könnyen megfélemlíthetõ népek. Gyanakszol, hogy ez csak késõbb nyer magyarázatot. Vajon mit tervezett Ethric, amikor e népeket a szolgálatába állította?
+
+Név:
+Pletykák
+Üzenet:
+Egy kém jelentette, hogy belsõ nézeteltérések vannak ellenségeid között. Öreg barátod, Jeddite, és szövetségesei meg akarják szerezni a varázstárgyakat és hiánytalanul visszajuttatni Ethricnek. Viszont két másik szövetséges Stronghold város északon és északkeleten saját magának szeretné õket. A tanácsadóid szerint e két város vezetõje, Jabarkas nagyúr, kisebbségi érzésekkel küzdõ törvénytelen öccse Ethricnek. Úgy tûnik Jabarkas mindig is féltékeny volt bátyja hírnevére, és arra gyanakszol, azt reméli jobban elismerik, ha megszerzi a két varázstárgyat. Megengedsz magadnak egy baljós mosolyt. Az érzelmi támadásokat élvezed a legjobban. Egy kis szerencsével az ellenségeid egymást fogják lemészárolni, míg te eközben éjszakai árnyékként elérhetsz Deyjaig.
+
+Név:
+Gyilkossági kísérlet
+Üzenet:
+"Szörnyû hírek uram!" Ordítja kétségbeesetten egy harcos és elmondja hogy valaki betört a szállásodra, felhasította a ruháid és egy nagy kardot döfött a fekhelyed közepébe. Az otthagyott üzeneten ez áll: "Sandro, halálba veled és mindenkivel ki követ! Megszerzem a varázstárgyakat, amiket elloptál!" Az üzenet nem volt aláírva.		"Uram, sajnálattal jelentem, de akárki volt is a támadó, észrevétlenül jött és távozott," folytatja a harcos "És a helyzet még rosszabb, uram. A támadó elvitte a rejtett aranyaidat... mindet. Ezer bocsánat, nagyuram!"		Fogaidat csikorgatva elõrántod a kardod és lecsapod a harcos fejét. Ha múlt éjjel az ágyadban alszol, már halott lennél. A csapataidnak jobban fel kell készülniük a rejtõzködõ támadók elleni védelemre. 
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(6, 29, 0) ***Stronghold***
+Név:
+Hoddar
+
+(15, 27, 0) ***Esemény***
+Üzenet:
+Ez a hely meghittnek látszik. Ködös emlékeid vannak, pár évvel ezelõtt idejöttél egy gyönyörû hajadonnal és... megzavarja gondolataidat egy kémed érkezése.  "Uram, Jabarkas nagyúr tudja hogy itt vagy és a megölésedet tervezi! Nem felejtette el, hogy elraboltad és megbecstelenítetted leányát. Óriási sereget gyûjtött az észak-keleti Stronghold várból és hamarosan meg fog támadni."  		"Tett említést a varázstárgyakról?" kérdezed.		"Nem, uram."	"Rendben, elmehetsz."
+
+(40, 46, 0) ***Esemény***
+Üzenet:
+A kémeid jelentették, hogy kihallgatták az alábbi beszélgetést Ufretin hadúr és egyik kapitánya között:			"Igenis, uram. Ethric üzenete ma reggel érkezett. Sandro itt van és nála vannak a varázstárgyak. Válaszoltunk Ethricnek, hogy megszerezzük a varázstárgyakat és átadjuk õket Jedditenek. Megtámadjuk Sandro seregeit uram?"		"Igen, jobban tesszük, ha igen, és gyorsan. Az a Sandro nagyon ravasz, még könnyen meglóghat az orrunk elõl. Azt mondják, olyan csöndben és gyorsan tud támadni, akár egy kísértet! Készítse az embereit!"		A szavak könnyen szállnak errefelé, gondolod magadban. Jó lehetõség egy rajtaütésre!
+
+(49, 63, 0) ***Esemény***
+Üzenet:
+A szomszédos városra fordítod figyelmedet. Jeddite legalább olyan erõs harcos, mint amilyen erõs hadúr. Megtudtad, hogy mindig tartja a szavát és még soha sem gyõzték le csatában. Kíváncsi vagy, az, ha régi barátjával kell megküzdenie, milyen hatással lesz a haditervére. Végül is, mindkét oldalnak elõnyt jelent, hogy tudja mit és hogyan fog csinálni a másik a csatában.
+
+(17, 19, 0) ***Esemény***
+Üzenet:
+Zörgést hallasz az út menti bozótosból. Leugrasz a lovadról és kardoddal a kezedben megnézed mi az. Egy pillanatra benézel a bozótba majd hirtelen bedugod a karod és kirántasz egy emberszerû, vörösbõrû lényt. Az aknaszörny feltápászkodik és leporolja magát.		"Ki vagy és miért kémkedsz utánunk?!" kiáltod.		Az aknaszörny rádnéz és önelégülten vigyorog. " Shalongrarg vagyok. Bátyám parancsára vagyok itt észak-keletrõl."		"És ki a te bátyád, hogy utánunk kémkedhet?"		"A bátyám Jared nagyúr," mondja büszkén az aknaszörny. "Biztosan hallottál már róla. A hódításai legendásak. Mindeni féli nevét."		Az aknaszörny gúnyos vigyora lehervad, mikor kitör a nevetésed. "Jared? Igen hallottam már róla. Hallottam, hogy egy semmirekellõ útonálló, aki egy hányaveti rablócsõcseléket vezetett apróbb rajtaütésekben. Legendás hódítások?! Nevetséges csínytevéseit inkább a légy zümmögésének nevezném, akit még agyon sem érdemes csapni. És te, Shalongrarg, van bátorságod ezzel a rossz hírû nyavajással megfélemlíteni?! Mond meg, te napégetett varangy, mit akar ez a nevetséges nagyúr a nagy Sandrotól?"		"Nekem... nekem parancsom van, hogy hallgassak." Dadogja Shalongrarg elfúló szavakkal. Még soha nem mert senki ily megvetõen beszélni bátyjáról.	"Mondd el mit tervez a bátyád vagy egy csapásra felnégyellek!"		Az aknaszörny meredten bámulja a földet, és csöndben marad. Megragadod a szarvainál és kényszeríted, hogy a szemedbe nézzen. "Sandrot kerested, hát most megtaláltad. Most pedig elmondod mit akar tõlem az a csúszómászó bátyád!" Shalongrads szemei kidüllednek és fülei bevörösödnek a szorításod erejétõl. Közelebb húzod az arcodhoz. "Összetöröm a koponyádat, akár egy tojáshéjat, ha nem válaszolsz a kérdéseimre!" Hirtelen elengeded a szerencsétlen démont, és az leesik a földre. Felemeled a lábad és a fejére lépsz. "Várj, várj!" zokogja az aknaszörny. "Elmondok mindent amit akarsz. Amint a bátyám megtudta, hogy a varázstárgyak nálad vannak, megparancsolta a csapatainak, hogy szerezzék meg bármi áron. Engem azért küldtek, hogy megtudjam mennyien vagytok és merre haladtok."		Újra megfogod Shalongrargot a nyakánál fogva és újra a rémült szemeibe nézel. "Szóval a bátyád meg akar küzdeni velem. Talán van néhány bátor harcos is a csapatodban. Talán nem mindenki olyan, mint egy levágandó birka, mint amilyen te vagy." Egy gyors rántás a csuklódon, és Shalongrarg nyaka hangosat reccsen, majd õ a fölre zuhan. Hirtelen minden környezõ bokorból hangos zajt hallasz. Egy nagy csapat támad rád.
+
+(39, 49, 1) ***Esemény***
+Üzenet:
+
+
+===== Fájl vége =====

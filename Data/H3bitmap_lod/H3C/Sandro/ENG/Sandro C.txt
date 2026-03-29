@@ -1,0 +1,64 @@
+===== Térkép neve =====
+Finneas Vilmar
+
+===== Térkép leírása =====
+Defeat all of Sandro and Finneas' enemies to win the scenario.  However, if Sandro or Finneas is defeated in combat, the scenario is lost.  Sandro and Finneas are limited to level 20 but will carry their experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Day 1
+Üzenet:
+Finneas Vilmar is a young lord who desires power.  With such a greedy appetite but a poor head for tactics and political manipulations, he has quickly taken to your direction.  He is a prime candidate for becoming a puppet; he just doesn't know it yet.  You decide to make him very dependent upon you and get him promoted through the ranks.
+
+Név:
+Duke Alarice
+Üzenet:
+Duke Alarice has a problem with Finneas Vilmar and with you waltzing into Deyja with a full army... not to mention you possessing two powerful combination artifacts the Duke wouldn't mind getting his hands on.  Reports have confirmed that Duke Alarice warned nearby AvLee lords about your powerful standing army, and they are preparing for war.
+
+Név:
+Underground Dwarves
+Üzenet:
+Reports confirm that two separate groups of AvLee forces have tunneled underground and intend to launch surprise attacks.  Unfortunately for them, you will be prepared for their paltry attempt, and they will rise as members of your undead army.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(69, 63, 0) ***Palack-posta***
+Üzenet:
+What are you doing in the water?
+
+(17, 57, 0) ***Halállovag***
+Név:
+Lord Alarice
+
+(5, 28, 0) ***Esemény***
+Üzenet:
+You are greeted with sharpened sticks pointed directly at your face.  A stout dwarf passes between his tribesmen and approaches.  "Who goes there?" he demands.  Before he can see your face, an illusion covers your bones with flesh.		"No one of consequence," you answer meekly.  "Why do you stop us from passing through?  We mean you no harm."		"We are on the look out for a criminal named Sandro."		"Criminal?  What crime has he committed?"		"He has slain our brethren, and we intend to exact vengeance upon him.  They stood opposed to the evil he created but fell beneath his mighty sword," the dwarf replies.		"You certainly look prepared.  What makes you think this Sandro might be near?"		"We've received warning from Lord Alarice.  He may be a Necromancer as well, but he too wishes Sandro to be stopped.  We will allow his armies to be depleted and then defeat the both of them, removing the evil artifacts from possession of the Necromancers."		"Well, I wish you luck.  It sounds like you're going to need it.  By the way, do you have any idea who I am?"		"You?  I don't believe we've met before."		"Then allow me to introduce myself.  My name is Sandro, and I take great pleasure in ridding the world of stupid, boastful Dwarves like yourself."  You wave to your army.  "Attack!"
+
+(51, 37, 0) ***Esemény***
+Üzenet:
+Your spies inform you there are three tribes of dwarves in this area.  None of them are allied with Alarice, but all have gained much information from him.  Two are here to avenge the death of their family members.  Apparently, those dwarves you slaughtered on the way here have some big brothers or cousins who want to use your bones for toothpicks.  Like the others, they will soon join your undead armies.
+
+(56, 27, 0) ***Esemény***
+Üzenet:
+A contingent of skeletons blocks your way, refusing to let you pass.  Grabbing one by its sternum and jerking its whole body, you growl, "Tell me what you are guarding!"		"W-we've been ordered to keep any intruders from entering Lord Alarice's territory."		You rattle his bones, and he decides no lord is worth this treatment.  The skeleton tells you everything.  "Alarice plans to wipe you out and take the Armor of the Damned and the Cloak of the Undead King for himself.  Anything else he may have said about these artifacts is a pack of lies."		Tossing the skeleton aside, you prepare to kill the entire contingent.
+
+(64, 53, 0) ***Nekromanta***
+Név:
+Finneas 
+Önéletrajz:
+Though Finneas Vilmar's thirst for power makes him a virtually unstoppable Necromancer, the ability of political manipulation and battle tactics elude him.  He has joined with Sandro so he can use his skills to move himself through the ranks.
+
+(61, 7, 1) ***Esemény***
+Üzenet:
+"Stop where you are!" shouts a voice out of nowhere.		"Why do you stop us?" you shout back.		"We already told you, Lord Alarice, we will not join you!"		"I'm not Lord Alarice," you explain.		"Oh," the voice says, relieved.  A dwarf appears from the top of the building before you.  "Greetings.  I am Taruzdandu.  Thank goodness you are not Lord Alarice.  That man is so exasperating!"		"Oh?  Why do you say that?"		"He never gives up," the dwarf sighs.  "He wants us to provide him with gold so he can fund a take-over or some such nonsense.  But the fact is, we don't give a hoot about aboveground politics.  We just want to mine in peace."		"Oh, really?  What mine are you referring to?"		"There is a good gold mine not too far from, produces more than any other mine.  We can't get to it until they stop trying to raid this area for resources.  Apparently, this Sandro fellow is also after all of our gold, not just Alarice."  The dwarf looks closely at you.  "Hey, you're not that Sandro fellow, are you?  I've heard some bad things about you.  People say you just go about killing everyone so you can get bigger armies."		"I would be glad to have such intelligent servants within my army.  It is true, I am Sandro, and to me you are simply recruits who don't know it yet."		Having said that, you push forward and attempt to take over the town.
+
+(47, 33, 1) ***Esemény***
+Üzenet:
+Out of nowhere, a contingent of Wood Elves attacks!
+
+===== Fájl vége =====

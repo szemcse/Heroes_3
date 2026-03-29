@@ -1,0 +1,79 @@
+===== Térkép neve =====
+Target
+
+===== Térkép leírása =====
+Defeat all of Sandro's enemies to win the scenario.  However, if Sandro is defeated in combat, the scenario is lost.  Sandro is limited to level 5 but will carry his experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Day 1
+Üzenet:
+At last!  You have the Cloak of the Undead King and the Armor of the Damned!  Your plans to take over Deyja can now commence!  Ethric, your old master, became furious when he received word you became a Necromancer.  When he learns about your plans with these two artifacts, he will be absolutely livid!		You have also learned Ethric has spread word of your whereabouts to those who lost these two precious artifacts and to others who have their own reasons for despising Necromancers. Your journey to Deyja might have a difficult start, so you send a party of scouts ahead to search for any signs of an ambush.
+
+Név:
+Letter from Jeddite
+Üzenet:
+You have just received a threatening letter from the Barbarians due west.  It reads:		"Sandro,		My name is Jeddite.  Perhaps you remember me, if your memories are not clouded by your undead mind.  We were students together under Ethric.  By becoming Necromancer, you have completely shamed me, for it was I who introduced you to Ethric.  I should have listened to him.  From the start, he doubted your ability to wisely endure the burden of magical knowledge.		Ethric told me of the two artifacts now in your possession.  Know this, Sandro: you will not get past me on your journey to Deyja.  I have allied with the Rampart town up north, and they stand with me against you.  I will take the artifacts from your rotting corpse and return them to Ethric."		You do remember this Jeddite.  Not only was he one of Ethric's best students, he was also your best friend.  So, he feels guilty for introducing you to Ethric.  You will have to find a way use this weakness against him.
+
+Név:
+Message
+Üzenet:
+Your spies send a message: 		"My Sovereign,		As difficult as our travels may be now, we don't foresee them getting any easier.  We have learned desert surrounds our base of operations.  This desert is infested with hostile creatures guarding all mines, taverns and anything else they can lay claim to.  Our enemies have great numbers with many heroes to command them. You must travel very carefully and be prepared for battle at all times."
+
+Név:
+Reply to Jeddite
+Üzenet:
+Your advisors remind you it has been almost a week since you received that threatening letter from your old friend.  They suggest you reply to it soon if you are to use your friendship to your advantage.  You order for a messenger.		"Deliver this message to Jeddite: I have received your letter of warning.  Am I suppose run and hide, fearful of your vow to stop me?  No, your threat only strengthens my resolve.  I will take these artifacts to Deyja, where I shall use them rise to the top of the Deyja hierarchy.  You and your pitiful little band cannot stop me.  If you stand in my way, I will kill every living soul under your command and convert their undead bodies to my cause.  By the way, thank you for introducing me to the powers of magic.  Without your help, I would never have achieved such greatness."		The messenger quickly writes your message onto a scroll and goes on his way.  You wonder to yourself if the message was perhaps a little too confident.  But, hopefully, giving him a glimpse of the monster he helped to create will shatter his own confidence.
+
+Név:
+Letters to Enemies.
+Üzenet:
+Sending a message confidently announcing your intentions to your enemy is not normally your approach. You prefer a deceitful manipulation or a surprise attack to the chivalry of civilized warfare.  However, you are paying your advisors a large sum of gold to reveal your enemies' weaknesses to you, and they advise you thusly: "Send a message to all towns in this area announcing you hold the artifacts.  Then explain with excruciating detail just how terribly powerful you will become when you use them. Tell them if they don't permit you to pass, you will use the artifacts in battle and cast the shadow of death over their land."		You agree that the announcement will at the very least shake your enemy's confidence and perhaps even delay them with debate so that you can continue your journey into Deyja.  If the message fails to deter them from blocking your passage, then you can always fall back on the more sinister methods of persuasion you prefer.  After several hours of rough drafts and wine goblets, you finally settle upon the final wording to be sent at the next dawn.
+
+Név:
+Everyone knows
+Üzenet:
+By now, all the fools standing between you and Deyja know about carry the artifacts you carry; however, there has been no official response to your message.  This could mean a few things: they are quietly preparing a surprise attack; they don't believe you are a threat worthy of serious consideration, or they are a very weak and easily frightened people.  You suspect that latter explanation and wonder what Ethric was thinking when he enlisted these people in his cause.
+
+Név:
+Rumors
+Üzenet:
+A spy returns with word has come about internal conflicts among your enemies.  Your old friend Jeddite and his allies want to seize the artifacts and promptly return them to Ethric.  However, two other allied stronghold towns to the North and to the Northeast want the artifacts to remain in their possession.  According to you advisors, Lord Jabarkas, the leader of these two towns, is Ethric's illegitimate younger brother suffers from Little Man's Syndrome.  It seems that Jabarkas has always been envious of his older brother's prestige, and you suspect that he believes he can gain more respect from his peers were he to have the two artifacts.		You permit yourself a sinister smile.  Psychological attacks are the kind you enjoy most.  With any luck, your enemies might just kill each other off, and you can pass through to Deyja like a shadow in the night."
+
+Név:
+Attempt to assassinate
+Üzenet:
+"Dreadful news, sir!"  A soldier frantically runs up to you and tells you that someone broke into your quarters, slashed your linens, and drove a large sword through the middle of you bed.  Attached was a note saying, "Sandro, death to you and all who would follow you.  I will seize those artifacts you have stolen."  The note was unsigned.		"Sir, I'm sorry to report that the intruder, whoever it was, came and went undetected," the soldier continues.  "And the news gets worse, sir.  The intruder took your hidden gold --. all of it.  A thousand apologies, sir."		With a snarl, you raise your sword and lop off the soldier's head.  You could have been assassinated had you slept in your bed last night.  Your troops need to be better trained in the art of defending against covert attacks.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(6, 29, 0) ***Stronghold***
+Név:
+Hoddar
+
+(15, 27, 0) ***Esemény***
+Üzenet:
+This place looks familiar.  You have a hazy memory of bringing a beautiful maiden here several years back, and... your thoughts are interrupted when one of your spies approaches.  "Sir, Lord Jabarkas knows you are in the area and is planning to kill you.  He has not forgotten you kidnapping his daughter and violating her.  He has recruited a large army from another Stronghold in the northeast and plans to attack you shortly."		"Did he make mention of the artifacts?" you ask.		"No, sir." 	"Well done.  Dismissed."
+
+(40, 46, 0) ***Esemény***
+Üzenet:
+Your spies report overhearing the following conversation between Lord Ufretin and one of his commanders:		"Yes, sir.  Ethric's message was received this morning.  Sandro is in the area and does hold the artifacts.  We have replied to Ethric that we will retrieve the artifacts and give them to Jeddite.  Shall we prepare to attack Sandro's army, sir?"		"Yes, we had best do that, and quickly.  That Sandro is a sly one.  He could be right under our noses.  He is said to strike as suddenly and silently as a wraith!  Prepare your men."		Word travels fast in these parts, you think to yourself.  So much for a surprise attack!
+
+(49, 63, 0) ***Esemény***
+Üzenet:
+Your neighboring town is coming into view.  Jeddite has become quite a powerful lord as well as a powerful warlock.  You have learned he is a man of his word and has never backed down from a battle.  You wonder if going into combat against a former friend will affect his strategy.  After all, both sides have the advantage of knowing exactly what and how each other will act in battle.
+
+(17, 19, 0) ***Esemény***
+Üzenet:
+A rustle comes from a bush alongside the road. You leap off your horse, sword in hand, to investigate. You peer into the bush for a moment and then suddenly thrust your arm inside and pull out a man-sized, red-skinned creature.  The pit fiend picks himself off the ground and dusts himself off.		"Who are you and why have you been spying on us!" you demand.		The pit fiend looks at you and smirks.  "I am Shalongrarg.  I am here on orders from my brother from the north-east."		"And just who is your brother to order you to spy on me?"	"My brother is The Great Lord Jared," the pit fiend declares proudly. "No doubt you have heard of him.  His conquests are legendary.  All tremble at his name."		The pit fiend's arrogant smile vanishes as you burst out laughing.  "Jared?  Yes, I know of him.  I have heard that he is a two-bit highwayman who leads a ragtag band of hedge thieves on miserable little raids.  Legendary conquests?  His laughable escapades are like the buzzing of a gnat that is barely worth the effort to swat.   And you, Shalongrarg, have the gall to try to intimidate me with such a pathetic reputation!.  Tell me, you sunburned toad, what does this laughingstock of a lord want with the great Sandro?"	 	"I... I have orders to remain silent." Shalongrarg stammers, at a loss for words.  Never before has anyone dared to speak of his brother thus. 	"Tell me of your brother's plans or I will have you quartered one limb at a time."		The pit fiend slouches and stares silently at the ground.  You grab his horns and force him to look you in the eyes.  "You have been looking for Sandro and now you have found him. Now tell me why your worm of a brother is interested in him!"  Shalongrarg's eyes bulge and ears bleed under the immense pressure of your grip.  You pull him close to your face.  "I will crush your skull like an eggshell if you don't answer my questions!"  You suddenly release the wretched demon, and he falls to the ground.  You raise your foot and place it on top of his head.		"Wait, wait!" the pit fiend sobs.  "I'll tell you want to know.  When my brother learned that you had the artifacts, he ordered his troops to seize them from you at all costs.  I was sent to get information on your numbers and movements."		You pick Shalongrarg up by the head again and look him in his terrified eyes again.  "So, your brother plans to challenge me.  Perhaps some of your people have courage in them.  Perhaps they are not all like you, sheep to be slaughtered."  With a quick twist of your wrist, Shalongrarg's neck snaps loudly and he falls to the ground.  Suddenly you hear a loud noise from all of the bushes surrounding you.  A large army attacks you.
+
+(39, 49, 1) ***Esemény***
+Üzenet:
+
+
+===== Fájl vége =====

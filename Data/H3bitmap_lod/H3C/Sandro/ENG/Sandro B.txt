@@ -1,0 +1,88 @@
+===== Térkép neve =====
+Master
+
+===== Térkép leírása =====
+Defeat Ethric and all of his allies to win the scenario.  However, if Sandro is defeated in combat, the scenario is lost.  Sandro is limited to level 10 but will carry his experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+During your journey to Deyja, you meet a young Wizard named Vidomina who wishes to become a Necromancer.  You agree to take the grim young woman on as your apprentice after she demonstrates a natural talent for necromancy by killing and temporarily resurrecting small animals.  Her training goes well, and you soon take her into your confidence.  You explain to her your quest, the powerful artifacts you possess, and why Ethric wants your head.  She grasps the situation quickly and begins making suggestions for attacking Ethric.  Defeating him will be difficult, but with this bright new apprentice your odds have improved considerably.
+
+Név:
+First Lesson.
+Üzenet:
+Vidomina continues to demonstrate great talent and dedication to becoming a Necromancer.  Having spent the day conferring with your advisors, you were not available to tutor today, but in the evening you check upon her studies.  As you watch her practice incantations under the moonlight, you realize that she is also quite beautiful.  Suddenly her eyes meet yours and she smiles warmly.  You turn away, slightly ashamed for the momentary indulgence.  Necromancers are not supposed to have such feelings! 		Vidomina walks over and places her hand on your shoulder.  "Good evening, Master.  It is good to see you.  I missed your company today,"		You brush her hand away.  "Your first lesson for this evening: do not be so familiar with me.  Necromancers must constantly deal in death, and it is wise to remain distant to those around you, even your mentors."		"Yes, Master," Vidomina replies sheepishly.		"Now for your second lesson.  Do not place too much trust in other people, especially the living.  All day long my advisors have been providing information about this land we journey through, but I worry that I have grown to rely on them too much.  I need you to go forth and bring me your own impressions of our situation.  Discover how powerful our enemies are, how many troops they have, and what kind of magic they use.  The last four towns I encountered were quite easy to defeat, but I do not wish to fall into the trap of being over-confident.  I need a fresh pair of eyes to appraise what lies before us.  Now go!"		As you watch Vidomina ride off on her first lone excursion, you can't decide whether to feel relief or apprehension.
+
+Név:
+You're in love
+Üzenet:
+"He's in love, I tell you," a skeleton warrior whispers to his comrades.  "Haven't you seen the way he looks at her?  Why when she rode off, he practically got all misty-eyed."		"Shut up, you fool," a zombie warns.  "Spreading gossip like that can get you killed."		"Ha!  I'm not afraid of Sandro," the skeleton snorts.  "Why, he's so love-struck, I wonder if he still has the mettle to lead us into..."		A sudden bolt of lighting sends the skeleton's charred bones flying in all directions.  "There will be no more of such talk!  Now, back to your duties," Sandro snarls at the surviving troops.  They quickly scatter off to their posts.		Curse your human frailties, you admonish yourself.  If you fail to keep your emotions in better check, your armies may lose confidence in your leadership.
+
+Név:
+Vidomina Message
+Üzenet:
+A message from Vidomina arrives: "Master, there are two Rampart towns in this region.  Ethric sent word to them explaining the incredible danger posed by you because of the artifacts you carry.  Unfortunately, dwarves populate one of these towns, and when they learned that one of your artifacts was stone from their people, they agreed to join Ethric's fight against you.  Be wary when passing through this area.  Signed, Vidomina."
+
+Név:
+More info
+Üzenet:
+One of your spies asks to speak to you: "Sir, after studying our dwarven enemies for a week, we have learned much.  When the artifact was stolen, each dwarven tribe thought the other one stole it, and they have been at war in the years since.  However, when Ethric's letter arrived, they have joined forces for the first time.  You must be ready for a large battle."
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(26, 31, 0) ***Igézõ***
+Név:
+Vidomina
+Önéletrajz:
+Vidomina should have been dead long ago.  Her "go anywhere, do anything" attitude has put her into situations that she should have never survived.  Her biggest secret is she yearns to become a true Necromancer.
+
+(12, 29, 0) ***Esemény***
+Üzenet:
+Long thick branches wrap around your body and pull you to the ground. You are attacked by Dendroid Soldiers.
+
+(24, 10, 0) ***Esemény***
+Üzenet:
+An operating sawmill stands before you. Lots of Power Liches guard it. You never thought you'd fight against your own kind.
+
+(22, 18, 0) ***Esemény***
+Üzenet:
+The trees around come to life. You are attacked!
+
+(2, 18, 0) ***Esemény***
+Üzenet:
+
+
+(19, 19, 0) ***Esemény***
+Üzenet:
+Your spies report those border guards flying a black standard are guarding all the monoliths throughout this land.  Curse that meddling Ethric!  His warnings have apparently given these people time to set up an extensive network of defenses.  You order your spies back out into the wilderness to find a black keymaster's tent.
+
+(9, 25, 0) ***Esemény***
+Üzenet:
+The Silver Pegasi don't look too happy to see you.  As you begin to approach the ore pit, they lash out at you.
+
+(15, 9, 0) ***Varázsló***
+Név:
+Ethric
+Önéletrajz:
+
+
+(29, 22, 0) ***Esemény***
+Üzenet:
+This must be sacred sulfur!
+
+(7, 15, 0) ***Esemény***
+Üzenet:
+From out of the lava you see fiery creatures approach you. Quickly, you draw your sword.
+
+(3, 22, 1) ***Esemény***
+Üzenet:
+The dwarven tunnels cover a vast area. As you look down into the mining shaft, you see that it is filled with hundreds of dwarves.  The look they return to you is less than welcoming.
+
+===== Fájl vége =====

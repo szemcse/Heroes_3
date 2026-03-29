@@ -727,19 +727,19 @@ MAP_AREA_32	MAP_AREA_32
 																																			
 CampaignWindow	CampaignWindow																																		
 																																			
-Sokáig Éljen A Királynõ	Sokáig Éljen A Királynõ																																		
+Sokáig éljen a Királynõ	Sokáig éljen a Királynõ																																		
 Felszabadítás	Felszabadítás																																		
-A Háború Zsákmányai	A Háború Zsákmányai																																		
+A Háború zsákmányai	A Háború zsákmányai																																		
 Ének Apámról	Ének Apámról																																		
-Börtönök És Ördögök	Börtönök És Ördögök																																		
-Éljen A Király	Éljen A Király																																		
-Az Elégedetlenség Csírái	Az Elégedetlenség Csírái																																		
+Börtönök és ördögök	Börtönök és ördögök																																		
+Éljen a Király	Éljen a Király																																		
+Az elégedetlenség csírái	Az elégedetlenség csírái																																		
 A Végítélet Pengéje	A Végítélet Pengeje																																		
 Sárkányvér	Sárkányvér																																		
 Sárkányölõ	Sárkányölõ																																		
-Az Élet Ünnepe	Az Élet Ünnepe																																		
-Merész Akarat	Merész Akarat																																		
-Játék A Tûzzel	Játék A Tûzzel																																		
+Az élet ünnepe	Az élet ünnepe																																		
+Merész akarat	Merész akarat																																		
+Játék a tûzzel	Játék a tûzzel																																		
 																																			
 																																			
 ROLLOVER	ROLLOVER																																		

@@ -1,0 +1,45 @@
+Név:
+Elixir of Life
+
+Leírás:
+Gelu has spent many months training to become a member of Erathia's elite Forest Guard.  For his final test, he is tasked to assemble an artifact known as the Elixir of Life.  He must find the artifact's four components to keep it out of the hands of the Necromancers.
+
+
+Graduation Exercise - Elixir of Life A
+
+Jobb-kattintásos szöveg:
+This area is a special training area and is the site for your final exam.  Many have failed this test, while more have passed it.  Good luck.
+
+Bevezetõ:
+The Forest Guard is Erathia's eyes and ears.  We go where we are needed most and that is usually places difficult for traditional fighting forces to reach.  We are shadows of the forest that see all and bring silent death with a single, unseen bowshot.  You have done well in your training, Gelu, but now has come the time to take the final test.  A small valley near Gaia's Crest will be the site of this trial.  Clear the region of all the enemies to earn your place among the ranks of the Forest Guard.  Good luck.
+
+
+Cutthroats - Elixir of Life B
+
+Jobb-kattintásos szöveg:
+Bandits infest this region.  Wherever possible, enlist the aid of the Thieves' Guild, as they can be very informative.
+
+Bevezetõ:
+Rumor has it that the Ring of Health, one of the essential components of the Elixir of Life, is located in the Shantanna region of southern AvLee.  Time is of the essence, for a Death Knight has been spotted talking to bandits who have long been terrorizing the area, and we believe that he has hired them to find the Ring first.
+
+
+Valley of the Dragon Lords - Elixir of Life C
+
+Jobb-kattintásos szöveg:
+The Dragon Lords are not known for being all that reasonable, but perhaps you persuade them to part with the Ring without any bloodshed.
+
+Bevezetõ:
+The Ring of Life, the second component of the Elixir of Life, is hidden in the valley of Dagrond.  There lives a group of powerful Elven nobility who are the caretakers of several warrens of gold and green dragons.  These Dragon Lords have always been loyal to AvLee, but we fear that one of these lords has been corrupted by the Necromancers.  If this treacherous Dragon Lord gets the Ring before you, he will become an enemy too powerful for the forces of AvLee to withstand.
+
+
+A Thief in the Night - Elixir of Life D
+
+Jobb-kattintásos szöveg:
+The Vampire Lord Vokial has been using the Vial of Lifeblood to supplement his feedings.  Take it, and he will be forced to suffer the indignation of feeding the old fashioned way.  Stealing it from him will cause him great harm and embarrassment.
+
+Bevezetõ:
+The final artifact needed to construct the Elixir of Life is in the undead hands of the Vampire Lord Vokial.  It is said the Vial of Lifeblood allows him to sustain himself without having to resort to more distasteful means of bloodletting.  Although this artifact can be said to be preventing some evil where it is, our need for the Vial is even more desperate.  You must find a way to steal the Vial from this Vampire.  But keep in mind that not every task need be accomplished by direct means.  Use your training wisely and stay sharp.
+
+Utószó:
+I have completed construction of the Elixir of Life and saved AvLee from the threat of the Necromancers of Deyja, earning myself an honorable position within the Forest Guard.  I look forward to my service faithfully protecting this beautiful land I love so much.
+

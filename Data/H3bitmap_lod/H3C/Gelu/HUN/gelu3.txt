@@ -1,0 +1,40 @@
+===== Térkép neve =====
+A Sárkányurak völgye
+
+===== Térkép leírása =====
+Ez a völgy a Sárkányurak földje. Ahhoz, hogy megnyerjük a küldetést, le kell gyõzni õket, és meg kell találni az Élet Gyûrûjét. Ha azonban Gelut harcban legyõzik, a küldetés elveszett. Gelu a 20. szintig juthat el, de tapasztalatai, képességei és varázslatai átkerülnek a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Nyitó beszéd
+Üzenet:
+Valahol a Dagrond-völgyben található az Élet Gyûrûje, az Élet Elixír elkészítéséhez szükséges második összetevõ. A Gyûrû egy olyan völgyben van, ahol a Sárkányurak élnek. A Sárkányurak gondoskodnak az AvLee-szerte élõ zöld és arany sárkányokról. Azonban a régió egyetlen Sárkányura korrupt, és jelenleg AvLee ellen szövetkezik. Úgy véljük, hogy Deyja szövetségese, és a nekromantákkal mûködik együtt.		Rájött, hogy a Gyûrû itt van, és magának akarja megszerezni. Biztosítanod kell, hogy ez ne történhessen meg. Szerezd meg nekünk a Gyûrût, hogy elkészíthessük az Élet Elixír ereklyét, mielõtt a nekromanták kezébe kerülne ez a hatalmas erejû tárgy.
+
+Név:
+További információ a Sárkányurakról
+Üzenet:
+Most már biztosan tudjuk, hogy ez a Sárkányúr AvLee és népe ellen munkálkodik. Összeállt a sötét erõkkel, olyan torz lényekkel, akik el akarják hitetni az emberekkel, hogy õ az avLeei nemesség egyik tiszteletre méltó tagja, nem pedig egy áruló gyilkos. A világnak egy nagyra becsült Sárkányúr látszatát kelti, miközben titokban hagyja, hogy a nekromanták elragadják népünket. Ha elpusztítod õt és követõit, nagy szolgálatot teszel AvLee-nek, amiért bõségesen megjutalmaznak, és generációkon át emlékezni fognak a nevedre.
+
+Név:
+A gyûrû
+Üzenet:
+A pletykák szerint az Élet Gyûrûje egy tiszta lángokból álló tó közelében található.
+
+Név:
+Lord Falorel
+Üzenet:
+Falorel úr, a munkád kiválóan hozzájárult képességeid fejlesztéséhez. Az Erdõõrség Akadémián töltött kezdeti kiképzésed óta nem volt részed ennyi akcióban. Bár attól tartasz, hogy sötét idõk közelednek, úgy érzed, hogy egy nemes ügyért küzdesz. Az Élet Elixír segít majd AvLee számos bajának orvoslásában.
+
+Név:
+Füst a horizonton
+Üzenet:
+A reggeli szélben érzõdõ füstszag arra enged következtetni, hogy az a tûztó, amelyet keresel, innen délre található.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+===== Fájl vége =====

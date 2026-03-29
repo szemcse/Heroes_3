@@ -1,0 +1,40 @@
+===== Térkép neve =====
+Falor és Terwen
+
+===== Térkép leírása =====
+A gyõzelemhez el kell vinned a Gyönyör Nyakláncát és az Oroszlánbátorság Pajzsát Falornak és Terwennek. Azonban ha Yog vereséget szenved, a küldetés elveszett.  Yog a 21. szintig juthat el, de tapasztalatait és képességeit átviszi a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Mielõtt elhagytad Tataliát, egy futárt küldtél Winston Boragushoz, hogy tudja, sikeresen teljesítetted a küldetés elsõ részét. A futár távozása után Erathiába meneteltél, hogy teljesítsd a másodk részt is. Most már napok óta Erathiában vagy, de még nem találtad meg Falort és Terwent. Egyetlen dolog, amit tudsz róluk, egy paraszt zavaros emlékei, miszerint valahol a föld alatt élnek.
+
+Név:
+Útinapló 16
+Üzenet:
+Útinapló 16: Nem volt nehéz megerõsíteni a helyzetemet, mert a hegyek hatásos védelmet biztosítanak. Azonban a felderítõm olyan híreket hozott, mely szerint a küldetésem többi része nem lesz könnyû. Ahhoz, hogy bejuthassak Falor és Terwen föld alatti fészkébe, meg kell látogatnom egy Kulcsmester sátrat mélyen az ellenség területén.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(27, 35, 0) ***Küldetésõrzõk***
+Üzenet:
+Az õrök parancsuk szerint csak Yogot engedik át.
+Az õrök csak Yogot engedik át.
+Végre, ez Yog. Át akarsz menni?
+
+(25, 18, 1) ***Titok Kunyhó***
+Üzenet:
+ ,,Helló, én Falor vagyok, õ pedig Terwen. Winston Boragus herceg értesített minket, hogy jönni fogsz. 
+Úgy tudom, nekünk kell adnod a Gyönyör Nyakláncát és az Oroszlánbátorság Pajzsát." ,,Nos, ne állj csak úgy ott! Add ide a Pajzsot és a Nyakláncot, és mehetsz is! Oh, várj! Vedd el ezt, és add oda a hercegnek, hogy tudja, meglátogattál minket és megtetted, amit kellett." Ahogy az ajtóhoz érsz, Falor jön eléd, és magyarázkodni kezd Terwen gorombasága miatt. ,,Kérlek bocsáss meg Terwennek. Néha eléggé felhúzza magát. Sok szerencsét a további küldetéseidben." Ezzel Falor megrázza a kezed. Most már Beleget és Orrukot kell megtalálnod, hogy végre befejezd a megbízásodat.
+
+(18, 8, 1) ***Esemény***
+Üzenet:
+Útinapló 17:  Már egy ideje nem írtam naplót, de nagyon elfoglalt voltam. Az erathiai sereg hamarabb támadott, mint gondoltam. De mégis úgy néz ki, hogy végre fordul a szerencsém. Találtam egy barlangot egy tó közepén. Ez azért is jó, mert Falor és Terwen bizonyára odalent lesznek.
+
+===== Fájl vége =====

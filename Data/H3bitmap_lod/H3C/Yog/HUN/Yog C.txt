@@ -1,0 +1,125 @@
+===== Térkép neve =====
+Nehéz kezdet
+
+===== Térkép leírása =====
+A gyõzelemhez el kell vinned a Szentek Bocskorát és a Csodák Páncélját Alendorának. Azonban ha Yog vereséget szenved, vagy elveszted az Angyali Szövetség bármely darabját, a küldetés elveszett. Yog a 18. szintig juthat el, de tapasztalatait és képességeit átviszi a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Pár nap utazás után Tataliában rájöttél, hogy a tataliaiak nem igazán örülnek neked. Mivel el fog tartani egy ideig megtalálni Alendorát, egy kis völgyben megerõsíted a sereged a keresés kezdete elõtt.
+
+Név:
+Útinapló 12
+Üzenet:
+Útinapló 12: Elküldtem a felderítõimet, hogy kutassák át a vidéket, amíg én átkutatom a várost, de semmit sem találtunk Alendoráról.
+
+Név:
+Nyersanyag a gépnek
+Üzenet:
+
+
+Név:
+Útinapló 13
+Üzenet:
+Útinapló 13: Egy kivételével mindegyik felderítõm azzal tért vissza, hogy semmit sem tud Alendoráról. Remélem, az utolsónak több szerencséje volt.
+
+Név:
+Útinapló 14
+Üzenet:
+Útinapló 14: Már épp kezdtem aggódni, hogy az utolsó felderítõt megölték, amikor azzal tért vissza, hogy megtalálta Alendorát. Sajnos a küldönc olyan kimerült volt az utazásoktól, hogy épp csak kinyögött valamit egy barlangról, mielõtt összeesett. Megparancsoltam, hogy aludjon, és reggel azonnal jelentsen nekem.
+
+Név:
+Útinapló 15
+Üzenet:
+Útinapló 15: Miután kipihente magát, kihallgattam a felderítõt, aki megtalálta Alendorát. Részletes beszámolójából kiderült a barlang pontos helye: északra kell letérni a fõ útról.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(65, 13, 0) ***Fortress***
+
+Idõzített események:
+
+Név:
+Hidra a gépnek
+Üzenet:
+
+
+Név:
+Hidra a gépnek
+Üzenet:
+
+
+Név:
+Lények a gépnek
+Üzenet:
+
+
+(11, 68, 0) ***Titok Kunyhó***
+Üzenet:
+Keresem az Égbolt Varázsgömböt, az Iszap Varázsgömböt, a Háborgó Tûz Varázsgömböt és a Felhõszakadás Varázsgömböt. Ha lehozod õket nekem, cserébe átadom a Tilalom Varázsgömböt. 
+Szükséged lesz rá, hogy megszerezd a Pokoltûz Kardját, és úgy hallottam, erre van szükséged egy küldetés teljesítéséhez.Csodálatos veled üzletelni. Add át a négy gömböt, és megkapod a Tilalom Varázsgömböt. El ne veszítsd, mert nem tudod teljesíteni a küldetésedet.
+
+(42, 61, 0) ***Titok Kunyhó***
+Üzenet:
+Szükségem van a Tilalom Varázsgömbre, ha átadod, a Pokoltûz Kardját adom cserébe. Úgy tudom, erre van szükséged, hogy a Quest Gate, ami a földalatti átjárót õrzi, átengedjen.
+Nagyszerû! Add nekem a gömböt, és megkapod a POkoltûz Kardját, amivel kinyithatod a földalatti átjárót õrzõ küldetés kaput. Ne felejtsd el, ha elveszted a Pokoltûz Kardját, nem fogod tudni teljesíteni a küldetésedet.
+
+(10, 36, 0) ***Háborgó Tûz Varázsgömb***
+Üzenet:
+Megtaláltad a Háborgó Tûz Varázsgömböt. Ha elveszíted, nem tudod teljesíteni a küldetésedet.
+
+(9, 36, 0) ***Küldetésõrzõk***
+Üzenet:
+The guards here say they have orders to only let Yog pass.
+The guards here will only let Yog pass.
+At last, it is Yog.  Do you wish to pass?
+
+(8, 31, 0) ***Iszap Varázsgömb***
+Üzenet:
+Megtaláltad az Iszap Varázsgömböt. Ha elveszíted, nem tudod teljesíteni a küldetésedet.
+
+(3, 31, 0) ***Felhõszakadás Varázsgömb***
+Üzenet:
+Megtaláltad a Felhõszakadás Varázsgömböt. Ha elveszíted, nem tudod teljesíteni a küldetésedet.
+
+(1, 27, 0) ***Égbolt Varázsgömb***
+Üzenet:
+Megtaláltad az Égbolt Varázsgömböt. Ha elveszíted, nem tudod teljesíteni a küldetésedet.  
+
+(9, 31, 0) ***Küldetésõrzõk***
+Üzenet:
+Az õrök parancsuk szerint csak Yogot engedik át.
+Az õrök csak Yogot engedik át.
+Végre, ez Yog. Át akarsz menni?
+
+(2, 27, 0) ***Küldetésõrzõk***
+Üzenet:
+Az õrök parancsuk szerint csak Yogot engedik át.
+Az õrök csak Yogot engedik át.
+Végre, ez Yog. Át akarsz menni?
+
+(2, 31, 0) ***Küldetésõrzõk***
+Üzenet:
+Az õrök parancsuk szerint csak Yogot engedik át.
+Az õrök csak Yogot engedik át.
+Végre, ez Yog. Át akarsz menni?
+
+(36, 27, 1) ***Titok Kunyhó***
+Üzenet:
+Hát itt vagy, már vártam rád. Alendora vagyok. Winston Boragus elmondta, hogy jössz. Azt is mondta, hogy nekem fogod adni a Csodák 
+Páncélját és a Szentek Bocskorát.Itt van a Bátorság Nyaklánca. Küldd el Winston Boragusnak, és tudni fogja, hogy teljesítetted a küldetésed elsõ részét.
+
+(35, 27, 1) ***Küldetésõrzõk***
+Üzenet:
+Az õrök parancsuk szerint csak Yogot engedik át.
+Az õrök csak Yogot engedik át.
+Végre, ez Yog. Át akarsz menni?
+
+===== Fájl vége =====

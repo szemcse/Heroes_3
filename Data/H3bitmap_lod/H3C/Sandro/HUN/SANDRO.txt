@@ -1,0 +1,45 @@
+Név:
+A Nekromanták felemelkedése
+
+Leírás:
+Sandronak meg kell küzdenie útja során régi mesterével és számos más hadúrral, akik a nála lévõ varázstárgyakat akarják. Amint Deyjaba ér, szövetségeket köt és hamarosan Deyja legmagasabb rangjába kerül.
+
+
+Célpont - Rise of the Necromancer A
+
+Jobb-kattintásos szöveg:
+Ethric egy agyafúrt öreg hadvezér. Szétkürtölte a híreket Sandroról és varázstárgyairól a helyi haduraknak. Vannak köztük olyanok, akik maguknak akarják, míg mások elpusztítanák e varázstárgyakat. Sandronak le kell gyõznie mindannyiukat, és el kell jutnia Deyjaba. 
+
+Bevezetõ:
+Úgy tûnik öreg mesterem, Ethric, végleg ellenem fordult. Soha nem örült annak, hogy Nekromanta lettem, és most le akarja mosni a szégyenfoltot a hírnevérõl. Ethric nem bolond. Szétkürtölte hol vagyok azoknak, kik meg akarnak állítani. De ez nem akadály. Legyõzöm e bolondokat és alaposan megleckéztetem mesteremet. Majd pedig folyatom utam Deyjaba, ahol értékelni fogják képességeimet.
+
+
+Mester - Rise of the Necromancer B
+
+Jobb-kattintásos szöveg:
+Sandronak szembe kell néznie Ethrickel és egy szövetségesével. Le kell gyõznie az öreg hadvezért, még mielõtt Deyjaba indulna. 
+
+Bevezetõ:
+Ehtric még mindig nem adja fel, de találtam egy szövetségest. Vidomina egy fiatal varázsló, aki Nekromanta akar lenni. Ideig-óráig hasznomra lesz, de útjaink elválnak, amint túljutunk Ethricen és ténylegesen elérünk Deyjaba. 
+
+
+Finneas Vilmar - Rise of the Necromancer C
+
+Jobb-kattintásos szöveg:
+Sandro és Finneas Vilmar meg akar szabadulni Alarice nagyúrtól, még mielõtt bárkinek is beszélhetne Deyja öreg királya ellen elkövetett bûneirõl. Ha teljesítették ezt az egyszerû feladatot, lehetõségük lesz arra, hogy eltávolítsanak más kellemetlenkedõ hadurat is Deyja királyi udvarából. 
+
+Bevezetõ:
+A Deyjaba vezetõ úton találkoztam Finneas Vilmarral, egy törekvõ, de szemmel láthatóan ostoba Nekromantával. Van pár birtoka errefelé, és megpróbálja növelni erejét a birodalomban. Az én meggyõzõerõmmel hamarosan abban a rangban találja magát amelyre vágyik. De persze én leszek az árnyék aki a parancsait a fülébe súgja.
+
+
+Duke Alarice - Rise of the Necromancer D
+
+Jobb-kattintásos szöveg:
+Finneasnak és Sandronak csak annyit kell tennie, hogy eltávolítsa a vidék urát. Ha õ már nincs, csupán csak egy lépésre lesznek a tróntól. Az új király még csak el sem foglalta trónját, így könnyû lesz leváltani. Valamikor a jövõben egy kis szerencsével talán baleset áldozata lesz.
+
+Bevezetõ:
+Alarice nagyúr hamarosan véglegesen a holtak közt találja magát. Mostanra tervünk oly jól halad, hogy megindíthatjuk támadásunkat. Finneas nem ért egyet a taktikámmal, de én tudom, hogy az õ haditerve egyenlõ a biztos halállal. Csak idõ kérdése, hogy felismerje hibáját és engem kövessen. Hamar rájön majd, hogy nem élhet túl az irányításom nélkül.
+
+Utószó:
+A tervünk óriási sikert aratott! Gyorsan felemelkedõben vagyunk. A királyra nagy hatással van Finneas pompás ereje és tudása. A király hamarosan tisztában lesz elõrelátásom minden részletével. De akkor már számára túl késõ lesz.
+

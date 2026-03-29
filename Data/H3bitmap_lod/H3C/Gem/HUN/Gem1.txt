@@ -1,0 +1,181 @@
+===== Térkép neve =====
+Az amulett nyomában
+
+===== Térkép leírása =====
+A gyõzelemhez szerezd meg a Sírásó Amulettjét. Azonban, ha Gem vagy Clancy vereséget szenved, a küldetés elveszett. Hõseid a 15. szintig juthatnak el, de Gem és Clancy átviszik majd képességeiket, tapasztalataikat, varázslataikat a következõ küldetésbe.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Elmondtam Clancynek, hogy beleegyeztem abba, hogy segítek egy varázslótanítványnak, Sandrónak, megtalálni a Sírásó Amulettjét a mestere, Ethric számára. Clancy elégedetten simogatta a szakállát, amikor elmondtam, hogy az amulettet a nekromancia elleni kutatásokhoz fogják felhasználni, és meglepetésemre felajánlotta, hogy segít nekem a küldetésben.
+
+Név:
+Bevezetés (folytatás)
+Üzenet:
+Azt válaszoltam, hogy nagyon örülnék a társaságának, de azt meg kell értenie, hogy ez az én küldetésem, nem az övé. Biztosított róla, hogy õ is így gondolja, majd dicsérni kezdte a Lóhere Õrséggel folytatott hadjáratomat, amitõl elnevettem magam. Hízelgõ! Hát persze, mit is várhatnánk egy olyan embertõl, aki az unikornisokat is magához tudja édes beszédével csalogatni?
+
+Név:
+Jelentés az amulettrõl
+Üzenet:
+Sandro szerint a Sírásó Amulettje észak-északkeletre található Clifftree kastélytól, és egy szellemsárkányhorda õrzi.	
+
+Név:
+Tetszik a vár
+Üzenet:
+Kezdem egészen otthonosan érezni magam a várban. Még a sárkányokat is kezdem megszokni! Viszont az Entektõl kicsit kényelmetlenül érzem magam. Nem személyesen velük van a baj, igazán barátságosak. Csak egy olyan múltra emlékeztetnek, amit szívesebben felejtenék el. Kislánykorom óta nem láttam mozgó fákat.
+
+Név:
+Közeli nekromanta
+Üzenet:
+Tünde felderítõim most jelentették, hogy északkeletre él egy nekromanta. Úgy tûnik, hogy az Amulett a közelében lehet. A felderítõim úgy jelentették, hogy terrorizálja és öldökli a lakosságot. Nyugalmat fogok adni minden egyes megkínzott léleknek, akiket élõholt testbe zárt ez a nekromanta.
+
+Név:
+Levél Sandrótól
+Üzenet:
+Ma egy nagyon érdekes levelet kaptam Sandrótól. Láthatóan meggyõzte mesterét, hogy elmondhatja nekem a teljes tervét. Úgy tûnik, Ethric nem csak kutatásokat végez. Úgy véli, hogy rájött, hogyan készíthetne egy nekromanciát elfojtó varázstárgyat, de szüksége van hozzá három más varázstárgyra: a Sírásó Amulettjére, a Vámpír Csuklyájára és a Halott Ember Csizmájára. Sandro még több aranyat ajánlott fel nekem, ha az Amulett megtalálása után a másik két mûtárgyat is elõkerítem.
+
+Név:
+Levél Sandrótól (folytatás)
+Üzenet:
+Azt válaszoltam Sandro levelére, hogy Ethric értékes kutatást folytat, és megígértem, hogy ha megvan a Sírásó Amulettje, megkeresem a másik két tárgyat is. Miután elküldtem a levelet, úgy döntöttem, hogy a keresés után meglátogatom Ethricet, és meggyõzöm, hogy fogadjon el tõlem egy kis aranyat a kutatásaihoz. Tiszteletem jeléül és az erõfeszítéseiért e témában.	
+
+Név:
+Üzenet Clancynek
+Üzenet:
+Üzenetet küldtem Clancynek, amelyben beszámoltam neki Ethric projektjérõl, és arról, hogy megígértem Sandrónak, hogy segítek neki megtalálni a Vámpír Csuklyáját és a Halott Ember Csizmáját.
+
+Név:
+Szellemsárkányok
+Üzenet:
+Egyik tünde felderítõm beszélt egy helybélivel, aki állítólag egy csoport szellemsárkányt látott eltûnni egy föld alatti átjáróban pár hónapja. Talán a szellemsárkányok és az amulett is a föld alatt vannak!
+
+Név:
+Egy druida látogatása
+Üzenet:
+Mikor tegnap este letáboroztunk, egy öreg druida jelent meg. Azt mondta, sokat hallott rólam Dilino polgármestertõl és Clancytõl, és szeretett volna találkozni velem. Volt valami benne, ami azonnal megtetszett, és végül átbeszélgettük az éjszakát. Nagyon érdeklõdött a varázslók és a druidák által használt mágia közötti különbségekrõl, de fõleg a tanáraim iránt.		Elkezdtem mesélni neki a tanítómról, Amandáról, és hirtelen észrevettem, hogy neki is ugyanolyan nyugodt, elfogadó szemei vannak. A druida meglepõdött, amikor ezt elmondtam neki, de nem éreztem magam elég kényelmesen ahhoz, hogy többet meséljek Amandáról. Manapság nem lehetek elég óvatos az idegenekkel, bár másnap reggel jó viszonyban váltunk el.
+
+Név:
+Üzenet Clancytõl
+Üzenet:
+Clancy visszaküldött egy üzenetet, amelyben azt írta, õ is szívesen segítene Ethricnek a tárgyak keresésében, de elõbb engedélyt kell kérnie gazdájától, Lord Fayettetõl. Clancy úgy gondolta, Lord Fayette megengedi neki, hogy segítsen, feltéve, hogy nem teszünk semmit, ami felbosszantaná az erathiaiakat.
+
+Név:
+Egy megmentett falucska
+Üzenet:
+Ma reggel a sikolyokat követve egy kis falura találtunk. Egy kis csapat kalandozó csontváz és zombi támadta meg a lakókat, de nem jelentettek gondot a seregemnek. Az utolsó csontvázat én magam tapostattam el a lovammal. A földre tiportam a csontvázat, és újra meg újra rátapostattam a lovam patájával, amíg csak egy rakás csonttörmelék maradt belõle. Esküszöm, hogy egy megkönnyebbült sóhajt hallottam, amint a bebörtönzött lélek végre kiszabadult, és a túlvilágra távozott. Azonban ezek után a katonáim furcsán néztek rám.
+
+Név:
+Arany
+Üzenet:
+Az emberek furcsán viselkednek, ha aranyról van szó. Ha nem hagyod, hogy odaadják neked, nem tudják, mit tegyenek, és idegesek lesznek. Eljutottam oda, hogy egyszerûen elfogadom, amikor felajánlják – ha megengedhetik maguknak. Így egyszerûbb. Láttam, hogy Sandro sem tudta volna, hogyan viselkedjen velem, ha nem fogadom el a fizetséget; annyira biztos volt benne, hogy megvásárolhatja a hûségemet. A vicces az, hogy ingyen is segítettem volna neki a nekromancia ellen szervezett kutatásában.
+
+===== Hõsök =====
+
+Önéletrajz:
+A Deyja elleni hadjárata után Gem beleegyezik, hogy segíti egy varázsló nekromancia-ellenes kutatásait, és megszerzi neki a Sírásó Amuletjét.
+
+===== Tárgyak =====
+
+(17, 59, 0) ***Rampart***
+Név:
+Clifftree
+
+(55, 18, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+Név:
+Extra egységek
+Üzenet:
+
+
+Név:
+Községháza építése
+Üzenet:
+
+
+(60, 42, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+Név:
+Extra egységek
+Üzenet:
+
+
+(35, 28, 0) ***Castle***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+(32, 5, 0) ***Esemény***
+Üzenet:
+Hirtelen eláraszt a halál szaga.	"Rajtaütés!" - kiáltja az egyik katonád, az égre mutatva.
+
+(39, 8, 0) ***Sírásó Amulettje***
+Üzenet:
+A szellemsárkányok által összegyûjtött arany- és drágakõhalom alatt megtalálod a Sírásó Amulettjét.
+
+(38, 8, 0) ***Szellemsárkány***
+Üzenet:
+A kellemes környezet ellenére a halál jellegzetes szaga áthatja a környéket. Elõtted egy csapat szellemsárkányt látsz.
+
+(54, 64, 0) ***Arany***
+Üzenet:
+Amikor felveszed az aranyrögöt, hirtelen rájössz, hogy a legnagyobb része még a föld alatt van. Ez az aranyrög hatalmas!
+
+(42, 20, 0) ***Arany***
+Üzenet:
+Amikor felveszed az aranyrögöt, hirtelen rájössz, hogy a legnagyobb része még a föld alatt van. Ez az aranyrög hatalmas!
+
+(16, 60, 0) ***Kósza***
+Önéletrajz:
+Mivel Clancy éppen szabadságon van Lord Fayette tábornoki tisztségébõl, úgy dönt, hogy csatlakozik Gemhez a küldetésében.
+
+(8, 21, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+Név:
+Extra egységek
+Üzenet:
+
+
+Név:
+Községháza építése
+Üzenet:
+
+
+(42, 59, 0) ***Castle***
+
+Idõzített események:
+
+Név:
+Extra bevétel
+Üzenet:
+
+
+===== Fájl vége =====

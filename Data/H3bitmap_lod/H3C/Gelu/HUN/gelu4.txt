@@ -1,0 +1,64 @@
+===== Térkép neve =====
+Egy tolvaj az éjszakában
+
+===== Térkép leírása =====
+Lopd el a Vokial vámpírúr Életerõ Fioláját, hogy elkészíthesd az Élet Elixírt, és megnyerd a hadjáratot. Ha azonban Gelu-t legyõzik a harcban, a küldetés elveszettnek minõsül. Gelu szintje 25-re van korlátozva, de tapasztalatait, képességeit és varázslatait átviszi a következõ hadjáratba.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Nyitó beszéd
+Üzenet:
+Eljött az idõ, hogy megszerezzük az Élet Elixír utolsó alkotóelemét, az Életerõ Fioláját. A fiola már régóta Vokial vámpírúr kezében van. A fiolát arra használja, hogy pótolja az emberi vér iránti szomját. Azt mondják, hogy a régi módszert undorítónak, durvának és méltatlannak tartja egy olyan személy számára, mint õ. Ha ellopjuk tõle ezt a tárgyat, azzal két célt érünk el: elkészítjük az Elixírt, és nagy zavarba ejtjük, valamint kellemetlen helyzetbe hozzuk õt. Lehet, hogy még bele is halhat, de kétlem, hogy ilyen szerencsénk lesz.
+
+Név:
+Vokial
+Üzenet:
+Vokial egy hatalmas vámpírúr, akit erõs védelem övez. Légy nagyon óvatos, amikor Deyjába törsz majd be, hogy ellopd a fiolát, mert Vokial bizonyára felkészült a hozzád hasonló tolvajokra.
+
+Név:
+Óvakodj a Tolvajok Céhétõl
+Üzenet:
+Vigyázz a Tolvajok Céhével, mert árulók és ravaszak. Gyõzõdj meg róla, hogy nálad van, amit keresnek, és mindenképpen nézd meg a tárgyat, amit te keresel, mielõtt átadnád nekik, amit akarnak.
+
+Név:
+Bátorító szavak
+Üzenet:
+Eddig jól szolgáltál nekem, Gelu. Én, Falorel úr, elégedett vagyok a szolgálataiddal, és errõl beszámolok az Erdõõrség feletteseidnek is. Ez az Erathiával kötött együttmûködés jól szolgál nekünk, és talán nagyban hozzájárul majd az Ent-háborúk során elszenvedett sebek gyógyításához. Hûségedet egy szerény mennyiségû arannyal jutalmazom. Kérlek, fogadd el ezt hálám jeléül azért, hogy megmentetted AvLeet és megvédted a népét.
+
+Név:
+A Titánok Kardja
+Üzenet:
+Állítólag egy délnyugati völgyben Fekete sárkányok õrzik egy Titán kardját.
+
+Név:
+Az Õrszemek Pajzsa
+Üzenet:
+Egy utazó csillogó pajzsról mesél, melyet innen délkeletre látott. Azt mondja, elvette volna a pajzsot, de egy Vörös sárkány elüldözte õt.
+
+Név:
+Elixír
+Üzenet:
+Miután megszerezted az Életvér fioláját, egyesítsd az Élet gyûrûjével és az Életerõ gyûrûjével, hogy elkészítsd az Élet Elixírt. Az elixír elkészítéséhez mindhárom tárgyra szükséged van, és az elixír stabilitásának megõrzéséhez mindháromnak együtt kell maradnia.		A folyamat egyszerû. Helyezd a gyûrûket a fiolába, és háromszor mondd el a kapott tekercsen szereplõ szavakat. Miután befejezted a harmadik kántálást, az elixír létrejön. Ezután azonnal hozd el nekem.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(70, 14, 0) ***Titok Kunyhó***
+Üzenet:
+"Psszt, hé! Erre! Úgy hallottuk, egy fiolát keresel, ami egy bizonyos vámpírúr tulajdonában van. Mi a Tolvajok Céhébõl is keresünk pár dolgot magunknak. Ha elhozod nekünk a Titánok Kardját és az Õrszemek Pajzsát, megszerezhetjük neked a szóban forgó fiolát. Megegyeztünk? Én is úgy gondoltam."
+"Még nem találtad meg, mi? Hát, ha tényleg annyira akarod azt a fiolát, menj, és keresd egy kicsit jobban a kardot és a pajzsot, érthetõ?"
+"Rendben! Na most alkudozhatunk. Szóval volt egy egyezségünk. Add át az Õrszemek Pajzsát és a Titánok Kardját, és a barátom itt máris átadja az Életerõ Fiolát. Megegyeztünk?"
+
+(7, 67, 0) ***Fekete Sárkány***
+Üzenet:
+Hogy merészeltek betörni a birtokomra, hogy ellopjátok a kincseinket! Most pedig lakmározni fogunk a megégett maradványaitokból.
+
+(67, 69, 0) ***Vörös Sárkány***
+Üzenet:
+Tolvajok! Ébresztõ, gyermekeim! Az ebéd tálalva van!
+
+===== Fájl vége =====

@@ -1,0 +1,42 @@
+===== Térkép neve =====
+The Meeting
+
+===== Térkép leírása =====
+Get Yog to Ulgak, the capital of Krewlod, to offer his services to Duke Winston Boragus and win the scenario.  However, if Yog is defeated in combat, the scenario is lost.  Yog is limited to level 15 but will carry his experience and skills on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+Aine gave up pursuit even sooner than you hoped.  Not wanting to start a war between Bracada and Krewlod, she retreated shortly after you crossed the border.  To be on the safe side, you still decided to lay low for a couple of weeks before beginning your trek to Ulgak, Krewlod's capital city, to offer your services to Duke Winston Boragus.
+
+Név:
+Journal Entry 8 - Day 2
+Üzenet:
+Journal Entry 8: My scouts report that there are several routes leading to Ulgak, but large garrisons guard them all.  Krewlod must be expecting a major threat if it all its forces are on alert!  I much reach the capital quickly to offer my assistance.
+
+Név:
+Journal Entry 9 - Day 4
+Üzenet:
+Journal Entry 9: My scouts reported have returned with very disturbing news.  Krewlod is readying its military to go to war with my army and me.  I have been tricked!  Duke Winston Boragus lured me here with his invitation to join him, and now I find myself surrounded by hostile forces.  I don't know why I should be the target of such a ploy, but I mean to find out.  I will fight my way to Winston Boragus' doorstep and cut his treacherous throat!
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(14, 16, 0) ***Stronghold***
+Név:
+Ulgak
+
+(18, 13, 0) ***Esemény***
+Üzenet:
+Journal Entry 11: I would think that my being this close to the capital would attract Winston Boragus' attention.  Well, I'm not just going to sit here while they prepare an attack.  I'm going to make this Barbarian pay for duping me!
+
+(7, 25, 1) ***Esemény***
+Üzenet:
+Journal Entry 10:  I tried getting past the garrison, but the Barbarians have packed them pretty tight.  I again considered finding a pass through the mountains, but my army is just too large to survive such a trek.  Fortunately I spotted some caves leading to underground tunnels.  It may be that my luck is turning around because these caves don't look to be guarded.
+
+===== Fájl vége =====

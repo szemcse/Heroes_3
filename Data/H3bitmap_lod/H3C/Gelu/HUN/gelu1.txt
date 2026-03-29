@@ -1,0 +1,55 @@
+===== Térkép neve =====
+Záróvizsga
+
+===== Térkép leírása =====
+Ha legyõzöd Gelu összes ellenségét, megnyered a küldetést. Azonban ha Gelut legyõzik a csatában, a küldetés elveszett. Hõseid a 10. szintig juthatnak el, de Gelu és két legerõsebb hõsöd átviszi képességeitt, tapasztalatait és varázslatait a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Nyitó beszéd
+Üzenet:
+Gratulálok, kadét.  Már csak egy vizsga van hátra, hogy befejezd a kiképzésedet, és csatlakozhass az Erdõõrség dicsõ soraiba.  Meg kell hódítanod a Gaia-csúcs közelében fekvõ völgy ezen részét.  A régióban szörnyek, néhány vár, és pár ellenségként fellépõ Erdõõrség-tag található. Ez egy forgalmas vidék, így a tájékozódás nem lesz nehéz. Hogy letedd a vizsgát, mindenkit le kell gyõznöd a területen, bármily szükséges eszközzel. Sok szerencsét, kadét. A Fény világítson utadon.
+
+Név:
+Egy lecke a nehézségekrõl
+Üzenet:
+Az Erdõõrség tagjainak számtalan váratlan és kellemetlen helyzetet kell kezelniük. Elõfordulnak olyan pillanatok, amikor a dolgok nem a terveid vagy elképzeléseid szerint alakulnak. Most éppen ilyen helyzet állt elõ. Több utánpótlási konvojodat is megtámadták rablók, és a rakományukat kifosztották. Old meg ezt a helyzetet!
+
+Név:
+Bátorító szavak
+Üzenet:
+30 nap telt el azóta, hogy megkezdted a küldetésedet. Túl sokáig tart. Az Erdõõrség tagjaként gyorsan kell cselekedned, hogy lecsaphass az ellenségre, és akkor támadhass rá, amikor még gyenge és sebezhetõ. Minél kevesebbet tud a régióban folyó tevékenységünkrõl, annál kevésbé lesz felkészülve a támadásainkra. Siess a támadásokkal, és azonnal biztosítsd ezt a régiót! Életek függhetnek a gyorsaságunktól.
+
+Név:
+60 nap múlva
+Üzenet:
+Kadet, ez már nevetséges! Egy ekkora területet már rég ki kellett volna tisztítani. Az Erdõõrség küldetéseihez gyorsaság, lopakodás és hatékonyság szükséges. Talán újra kellene értékelnünk az eddigi teljesítményedet, és visszaküldeni téged kiképzésre. Most pedig siess, és biztosítsd a területet!
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(34, 4, 0) ***Törpe Harcos***
+Üzenet:
+"Készen állunk, uram. Mi a parancsa?"
+
+(31, 1, 0) ***Nemestünde***
+Üzenet:
+"Várjuk a parancsait uram."
+
+(17, 5, 0) ***Medúza***
+Üzenet:
+A sötét és baljós ösvény ijesztõ csendbe burkolózik.  Hirtelen rengeteg kígyó sziszegését hallod meg.  Mielõtt még eszedbe jutna visszafordulni, több mint két tucat medúza csúszik elõ és támad meg.
+
+(16, 16, 0) ***Pandora Szelencéje***
+Üzenet:
+A elõtted fekvõ doboztól furcsa érzés ragad magával.  Fénypompa pulzál körülötte, és furcsa színû köd szivárog ki a repedéseibõl.
+
+(20, 13, 0) ***Esemény***
+Üzenet:
+Ez a város tökéletes fõhadiszállásnak tûnik.  Foglald el, és gyorsan építsd ki!  De légy óvatos!  Ellenfeleid becsúszhatnak, és elvehetik tõled, amíg távol vagy.  Feltétlenül hagyj ott néhány katonát, és ha lehet, egy hadnagyot is, hogy megvédjék a várost a támadásoktól.
+
+===== Fájl vége =====

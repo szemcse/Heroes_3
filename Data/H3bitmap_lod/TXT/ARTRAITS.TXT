@@ -168,9 +168,9 @@ A Sírásó Amulettje növeli a Nekromancia képzettséged 5%-kal."
 Vámpír Csuklya	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Vámpír Csuklya}
 
 A Vámpír Csuklya növeli a Nekromancia képzettséged 10%-kal."																						
-Halottak Csizmája	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Halottak Csizmája}
+Halott Ember Csizmája	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Halott Ember Csizmája}
 
-A Halottak Csizmája növeli a Nekromancia képzettséged 15%-kal."																						
+A Halott Ember Csizmája növeli a Nekromancia képzettséged 15%-kal."																						
 Térzavar Medál	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Térzavar Medál}
 
 A Térzavar Medál növeli a Varázs Ellenállásod 5%-kal."																						

@@ -1,0 +1,40 @@
+===== Térkép neve =====
+Valley of the Dragon Lords
+
+===== Térkép leírása =====
+This valley is land of the Dragon Lords.  They must be defeated and the Ring of Life located to win the scenario.  However, if Gelu is defeated in combat, the scenario is lost.  Gelu is limited to level 20 but will carry his experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Opening
+Üzenet:
+Somewhere in the Valley of Dagrond is the Ring of Life, the second component needed for the Elixir of Life.  The Ring is located in a valley where the Dragon Lords live.  The Dragon Lords care for the green and gold dragons living throughout AvLee.  However, the one Dragon Lord in this region is corrupt and now conspiring against AvLee.  We believe he is in league with Deyja, working with the Necromancers.		He has discovered that the Ring is here and intends to claim it for himself.  You need to make certain that he does not do so.  Obtain the Ring for us so that we can create the Elixir of Life before the Necromancers get their clutches on this powerful artifact.
+
+Név:
+More on the Dragon Lords
+Üzenet:
+We now know for certain that this Dragon Lord is working against AvLee and her people.  He is in league with dark powers, entities so twisted they would have you believe he is an upstanding member of the AvLee nobility rather than a treacherous murder.  The facade he shows to the world is that of a well-respected Dragon Lord, while he allows the Necromancers to secretly harvest our people.  Destroying him and his followers will be a great service to AvLee, one for which they shall reward you handsomely and remember your name for generations to come.
+
+Név:
+The Ring
+Üzenet:
+Rumor has it the Ring of Life is to found near a lake made of pure flames.
+
+Név:
+Lord Falorel
+Üzenet:
+Your work Lord Falorel has been excellent for honing your skills.  Not since the days in early training at the Forest Guard Academy have you seen so much action.  Though you fear that dark times are on the horizon, you feel you are participating in a noble cause.  The Elixir of Life will help heal many of AvLee's ills.
+
+Név:
+Smoke on the Horizon
+Üzenet:
+The smell of smoke in the morning wind leads you to suspect that this lake of fire you seek is south of here.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+===== Fájl vége =====

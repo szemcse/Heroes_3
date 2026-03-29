@@ -1,0 +1,45 @@
+Név:
+New Beginning
+
+Leírás:
+Gem arrives from Enroth fresh from the Succession Wars.  She first helps the Clovergreen Militia and then aids a wizard's apprentice against the Necromancers of Deyja.
+
+
+Clearing the Border - New Beginning A
+
+Jobb-kattintásos szöveg:
+You have agreed to take command of the town of Clovergreen's militia and clear this area of the border of undead raiders.
+
+Bevezetõ:
+It is hard to believe a year has passed since Archibald and his Necromancer allies were defeated, ending the Succession Wars.  In that time I have been living a nightmare, for I see the ghosts of the fallen all throughout Enroth.  I hope my former teacher, Amanda, is right.  I hope moving to a new land, to Antagarich, will still the ghosts of the war.
+
+
+After the Amulet - New Beginning B
+
+Jobb-kattintásos szöveg:
+You have agreed to help a wizard's apprentice named Sandro.  Sandro's master, Ethric, needs an Amulet of the Undertaker to perform anti-necromancy research, but Ethric is an academician and Sandro is too inexperienced to go after the Amulet himself.
+
+Bevezetõ:
+I have met a Wizard named Sandro who is conducting research to combat necromancy.  He is creating a magical amulet, which will ward off the undead and wants to pay me a large sum of gold to find the pieces he needs to construct it.  He seems to think me quite the mercenary.
+
+
+Retrieving the Cowl - New Beginning C
+
+Jobb-kattintásos szöveg:
+Terek, Sandro's agent, managed to steal a Vampire's Cowl.  Unfortunately, on his way across the Border Lands bandits captured him.  You must ransom Terek and obtain the Cowl.
+
+Bevezetõ:
+When I delivered the Amulet of the Undertaker to Sandro, he told me he had also hired a Barbarian named Tarek to locate another artifact, The Vampire's Cowl.  However, Tarek is long overdue and Sandro fears for his life.  From what I can see, bandits have captured Tarek and are holding him for ransom in an underground prison near the Deyja border.
+
+
+Driving for the Boots - New Beginning D
+
+Jobb-kattintásos szöveg:
+The last item Gem needs to acquire for Sandro's master is very close to the Deyja border, maybe even inside the border.  The Deyjan Border Lords are not going to be happy with Gem's presence.
+
+Bevezetõ:
+I begin my quest for the last item Sandro needs - the Dead Man's Boots.  Unlike the other artifacts, these may actually be inside Deyja, for the borders are in dispute.  One thing is certain: there will be several Deyjan Border Lords in the area, and they will not like me being there.  This is going to be a tough fight, but it will be worth it.  Important things are never free.
+
+Utószó:
+Sandro has tricked me!  But to what purpose?  Why would he run off with the Dead Man's Boots without paying me?  Did he keep the money for himself?  Did he give Ethric the other artifacts?  He certainly couldn't have been an agent for Deyja - the undead troops I destroyed to get the artifacts were worth more than the artifacts themselves.  None of this makes sense!  I will have to write to Ethric in Bracada and tell Lord Fayette about this immediately.
+

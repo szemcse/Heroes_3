@@ -1,0 +1,45 @@
+Név:
+Új kezdet
+
+Leírás:
+Gem az Örökösödési háborúk után érkezik Enrothból. Elõször a Lóhere Õrségnek segít, majd egy varázslótanoncot támogat a deyja nekromantái ellen.
+
+
+Clearing the Border - New Beginning A
+
+Jobb-kattintásos szöveg:
+Beleegyeztél, hogy átvedd a város irányítását és hogy élére állsz a Lóhere Õrségnek, és megtisztítod a határterületet az élõhalott csapatoktól.
+
+Bevezetõ:
+Nehéz elhinni, hogy már egy év telt el azóta, hogy Archibald és nekromanta szövetségesei elbuktak, s ezzel véget ért az Örökösödési háború. Azóta egy rémálomban élek, mert egész Enrothban az elesettek szellemeit látom mindenhol. Remélem, régi tanárom, Amanda jól van, és remélem, hogy az új földre, Antagarichra való költözésem elcsitítja majd a háború szellemeit.
+
+
+After the Amulet - New Beginning B
+
+Jobb-kattintásos szöveg:
+Beleegyeztél, hogy segítesz egy varázsló segédjének, Sandrónak. Sandro mesterének, Ethricnek szüksége van a Sírásó Amulettjére, hogy nekromancia-ellenes kutatásokat folytasson, de Ethric tudós, Sandro pedig nem elég tapasztalt, hogy maga eredjen az Amulett nyomába.
+
+Bevezetõ:
+Találkoztam egy Sandro nevû varázslóval, aki a nekromancia elleni küzdelem érdekében végez kutatásokat. Egy mágikus amulettet készít, amely elriasztja az élõhalottakat, és nagy összegû aranyat ajánlott nekem azért, hogy megkeressem a készítéséhez szükséges alkatrészeket. Úgy tûnik, eléggé anyagiasnak tart engem.
+
+
+Retrieving the Cowl - New Beginning C
+
+Jobb-kattintásos szöveg:
+Tereknek, Sandro felbérelt barbár társának sikerült ellopnia a Vámpír Csuklyáját. Sajnos a határvidéken való átutazásakor banditák ejtették foglyul. Szabadítsd ki Tereket, és szerezd meg a Csuklyát.
+
+Bevezetõ:
+Amikor átadtam Sandrónak a Sírásó Amulettjét, elmondta, hogy egy Terek nevû barbárt is megbízott egy másik varázstárgy, a Vámpír Csuklya keresésével. Terek azonban már régóta nem jelentkezett, és Sandro attól tart, hogy bajba került. Úgy tûnik, banditák fogták el Tereket, és váltságdíjért cserébe tartják fogva egy földalatti börtönben a deyjai határ közelében.
+
+
+Driving for the Boots - New Beginning D
+
+Jobb-kattintásos szöveg:
+Az utolsó tárgy, amit Gemnek meg kell szereznie Sandro számára, a deyjai határ közvetlen közelében található, talán még a határon túl is. A deyjai határõrök nem fognak örülni Gem jelenlétének.
+
+Bevezetõ:
+Elindulok, hogy megkeressem az utolsó tárgyat, amire Sandrónak szüksége van: a Halott Ember Csizmáját. A többi varázstárggyal ellentétben ez talán a deyjai határon belül van, mert a határok állandóan változnak. Egy dolog biztos: több deyjai Határõr is lesz a területen, és nem fognak nekem örülni. Kemény küzdelem lesz, de megéri. A fontos dolgok sosem jönnek ingyen.
+
+Utószó:
+Sandro átvert! De mi célból? Miért menekült el a Halott Ember csizmájával anélkül, hogy kifizetett volna? Magának tartotta meg a pénzt? Ethricnek adta a többi ereklyét? Biztosan nem lehetett Deyja ügynöke – az élõhalott csapatok, akiket megsemmisítettem az ereklyék megszerzése érdekében, többet értek, mint maguk az ereklyék. Ennek semmi értelme! Írnom kell Ethricnek Bracadába, és azonnal tájékoztatnom kell Lord Fayettet is errõl.
+

@@ -1,0 +1,64 @@
+===== Térkép neve =====
+Finneas Vilmar
+
+===== Térkép leírása =====
+A gyõzelemhez le kell gyõznöd Sandro és Finneas minden ellenségét. Ha Sandro vagy Finneas elesik a csatában, az egész háború elveszett. Sandro és Finneas ezen a térképen csak húszas szintig fejlõdhet, de magukkal viszik minden tapasztalatukat, képzettségüket és varázslatukat a következõ térképre.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Elsõ nap
+Üzenet:
+Finneas Vilmar egy hatalomvágyó fiatal nemes. Nagy hataloméhséggel, viszont gyenge taktikai és politikai érzékkel van megáldva, így hamar az irányításod alá került. Õ a legalkalmasabb, hogy a bábod legyen, csak még nem tud róla. Elhatározod, hogy az adósoddá teszed és felsegíted a mégnagyobb méltóságokra.
+
+Név:
+Alarice Nagyúr
+Üzenet:
+Alarice Nagyúr nem örül, hogy Te és Finneas Vilmar csak úgy besétáltok Deyjaba egy teljes hadsereg élén..., nem is beszélve a kezedben lévõ két hatalmas összetett varázstárgyról, amire nagyon szeretné rátenni a kezét. Jelentések igazolták, hogy Alarice nagyúr felhívta a figyelmét a közeli AvLeei nemesek figyelmét a hatalmas seregedre, és már készülnek a háborúra.
+
+Név:
+Földalatti Törpék
+Üzenet:
+Jelentések bizonyítják, hogy AvLee két elkülönülõ serege ásta magát a föld alá, és rajtaütéseket terveznek. Szerencsétlenségükre, Te már fel leszel készülve szánalmas próbálkozásaikra, és élõholt seregedben fognak szolgálni.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(69, 63, 0) ***Palack-posta***
+Üzenet:
+Mit csinálsz a vízen?
+
+(17, 57, 0) ***Halállovag***
+Név:
+Lord Alarice
+
+(5, 28, 0) ***Esemény***
+Üzenet:
+Az arcodnak szegezett hegyes lándzsákkal fogadnak téged. Egy vaskos törpe lép ki társai soraiból, és hozzád lép. "Ki jár errefelé?" kérdezi. Még mielõtt megláthatott volna, egy varázslat hússal borította be csontjaidat.		"Senki aki fontos." válaszolod szerényen. "Miért nem engedtek minket tovább? Nem jelentünk számotokra veszélyt."		Mi egy bûnözõt keresünk, akit Sandronak hínak."		"Bûnözõ? Mily bûnöket követett el?"		"Legyilkolta testvéreinket és most elégtételt akarunk venni rajta. Ellenálltak a gonosznak, amit teremtett, de elbuktak hatalmas kardja által." válaszolja a törpe.		"Igazán felkészültnek látszottok. De honnan tudjátok, hogy Sandro a közelben lehet?"		"Alarice nagyúr figyelmeztetett minket. Õ szintén Nekromanta, de ugyanúgy meg akarja állítani Sandrot mint mi. Hagyjuk, hogy kimerítse seregeit, majd azután leszámolunk mindkettõvel, így megakadályozzuk hogy a gonosz  varázstárgyak a Nekromanták kezében legyenek."		"Sok szerencsét nektek. Úgy tûnik nagy szükségetek lesz rá. Viszont nincs ötleted ki lehetek én?"		"Te? Nem hiszem hogy ezelõtt találkoztunk volna."		"Akkor hagy mutatkozzam be, a nevem Sandro és nagy örömömet lelem abban, hogy megszabadítom a világot az ilyen ostoba és hencegõ törpéktõl mint amilyen te is vagy." Intesz a seregednek. "Támadás!"
+
+(51, 37, 0) ***Esemény***
+Üzenet:
+A felderítõid elmondása szerint három törpe nemzetség él a vidéken. Egyik sem lépett szövetségre Alariceszel, de sok mindent megtudtak tõle. Közülük ketten meg akarják bosszulni családjaikat. Úgy látszik, azoknak a törpéknek akiket útközben legyilkoltál, sok nagybátyja és unokatestvére él itt, akik fogpiszkálónak akarják használni a csontjaidat. De akárcsak a többiek, az élõholt seregedet gyarapítják majd.
+
+(56, 27, 0) ***Esemény***
+Üzenet:
+Egy csapat csontváz állja el elõled az utat és nem engednek tovább. Megragadod az egyiket a szegycsontjánál fogva, megrázod és rámordulsz: "Mondd el mit õriztek!"		"A-az a parancsunk, hogy tartsunk távol mindenkit Alarice nagyúr birtokaitól."		Megropogtatod a csontjait, de neki egy úr sem ér meg ennyi szenvedést, ezért elmond neked mindent. 		"Alarice azt tervezi, hogy elsöpör téged, az Élõhalott Király Köpönyegét és az Elátkozott Csodamellvértet pedig megtartja magának.  Minden más amit mondott róluk hazugság." Félrelökve a csontvázat elindulsz, hogy végezz az egész csapattal.
+
+(64, 53, 0) ***Nekromanta***
+Név:
+Finneas 
+Életrajz:
+Finneas Vilmar hataloméhsége miatt elsõ ránézésre egy megállíthatatlan Nekromanta, de a politikai cselszövés és a háborús taktika távol áll tõle. Csatlakozott Sandrohoz, hogy képességeit felhasználva nagyobb méltóságot érjen el.
+
+(61, 7, 1) ***Esemény***
+Üzenet:
+"Állj, akárki vagy is!" kiált egy hang a semmibõl.		"Miért állítasz meg minket?" kiáltod vissza.		"Már mondtuk neked, Alarice úr, nem csatlakozunk hozzád!"		"Én nem vagyok Alarice nagyúr." szólsz vissza.		"Ó," szól a hang megkönnyebbülve, és egy törpe tûnik fel az elõtted álló épület tetején. "Üdvözlégy! A nevem Taruzdandu. Hála az égnek te nem Alarice úr vagy. Az az ember szörnyen bosszantó!"		"Igen? És miért mondod ezt?"		"Soha nem adja fel," sóhajtja a törp. "Azt kívánja tõlünk, hogy lássuk el arannyal, hogy tudjon fedezni egy háborút, vagy valami ilyesmit. De valójában mi fütyülünk a felszíni politikára. Mi csak nyugodtan szeretnénk bányászni."		"Ó, tényleg? És milyen bányáról beszéltek?"		Van a közelben egy jó aranybánya, ami most többet hoz mint eddig bármelyik ezelõtt. De nem szerezhetjük meg addig míg nem állítják le nyersanyagszerzõ hadjáratukat. Nyilvánvalóan ennek a Sandro nevû fickónak is az aranyunkra fáj a foga, nem csak Alaricenak." A törpe jobban szemügyre vesz. "Hé, nem te vagy az a Sandronak nevezett fickó, igaz? Sok rosszat hallottam felõled. A népek beszélik, hogy megölsz mindenkit, csak hogy nagyobb sereget toborozhass."		"Örülnék, ha ilyen éleseszû katonáim lennének a seregemben. Igen, én vagyok Sandro, és ti nekem csak egyszerû eszközök vagytok, csak nem tudtok róla."		Ezután pedig továbbindulsz, hogy elfoglald a várat.
+
+(47, 33, 1) ***Esemény***
+Üzenet:
+Elõlépve a semmibõl, egy csapat erdõtünde támad rád!
+
+===== Fájl vége =====

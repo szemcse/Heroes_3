@@ -1,0 +1,37 @@
+===== Térkép neve =====
+Alarice herceg
+
+===== Térkép leírása =====
+A hadjáratban való gyõzelemhez le kell gyõznöd Alarice herceget és minden szövetségesét. Ha Sandro vagy Finneas elesik a csatában, az egész háború elveszett. Sandro és Finneas ezen a térképen csak huszonötös szintig fejlõdhet, de magukkal viszik tapasztalatukat, képzettségüket és varázslatukat.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Elsõ nap
+Üzenet:
+Alarice herceg hamarosan véglegesen a holtak közt találja magát. Mostanra tervünk oly jól halad, hogy megindíthatjuk támadásunkat. Finneas nem ért egyet a taktikáddal, de te tudod, hogy az õ haditerve egyenlõ a biztos halállal. Abban a tévhitben él, hogy õ egy taktikai zseni. Hamar rájön majd, hogy nem élhet túl az irányításom nélkül.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(27, 23, 0) ***Bajnok***
+Üzenet:
+Itt nem kelhetsz át.
+
+(61, 38, 0) ***Küldetésõrzõk***
+Üzenet:
+Ez a város nagyon veszélyes. Az õrök kétkedve néznek rád, de beleegyeznek, hogy bemehetsz, ha már elérted a huszonötös szintet.
+Az õrök észreveszik, hogy már valóban elérted a huszonötös szintet. Be kívánsz menni a városba ez alkalommal?
+
+(11, 8, 0) ***Nekromanta***
+Név:
+Duke Alarice
+
+(67, 9, 0) ***Szemfényvesztõ***
+Üzenet:
+A bölcsességünket fektettük le itt, és nem osszuk meg senkivel!
+
+===== Fájl vége =====

@@ -1,0 +1,42 @@
+===== Térkép neve =====
+Találkozás
+
+===== Térkép leírása =====
+A gyõzelemhez Yognak el kell jutnia Ulgakba, Krewlod fõvárosába, hogy Winston Boragus szolgálatába álljon. Azonban ha Yog vereséget szenved, a küldetés elveszett.  Yog a 15. szintig juthat el, de tapasztalatait és képességeit átviszi a következõ pályára.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Bevezetés
+Üzenet:
+Aine hamarabb adta fel az üldözést, mint remélted. Mivel nem akart háborút Bracada és Krewlod között, nem sokkal azután visszavonult, hogy átlépted a határt. Bár ,már biztonságban vagy, mégis úgy döntöttél, hogy pár hétig meghúzod magad, mielõtt útnak indulsz Ulgakba, a fõvárosba, hogy felajánld szolgálataidat Winston Boragus hercegnek.
+
+Név:
+Útinapló - 2. nap
+Üzenet:
+Útinapló 8: Felderítõim jelentették, hogy több út is vezet Ulgakba, de mindegyiket erõsen õrzik. Krewlod bizonyára nagy támadást várhat, ha minden serege riadókészültségben van! Gyorsan el kell érnem a fõvárost, hogy felajánljam a segítségemet.
+
+Név:
+Útinapló 9 - 4. nap
+Üzenet:
+Útinapló 9: A felderítõim nagyon nyugtalanító hírekkel tértek haza. Krewlod ellenem és a seregem ellen készíti fel a haderõit! Becsaptak! Winston Boragus herceg idecsalogatott, hogy csatlakozzak hozzá, most pedig ellenséges seregek között találom magam. Nem tudom, miért lennék egy ilyen támadás célpontja, de ki akarom deríteni. Átverekedem magam Winston Boragus ajtajáig, és elvágom az áruló torkát!
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(14, 16, 0) ***Stronghold***
+Név:
+Ulgak
+
+(18, 13, 0) ***Esemény***
+Üzenet:
+Útinapló 11: Úgy vélem, az, hogy ilyen közel vagyok a fõvároshoz, magára vonja Winston Boragus figyelmét. Nos, nem fogok ölbe tett kezekkel ülni, amíg rám támadnak. Megfizettetem ezzel a barbárral, hogy csapdába csalt!
+
+(7, 25, 1) ***Esemény***
+Üzenet:
+Útinapló 10: Megpróbáltam átjutni az õrségen, de a barbárok alaposan megerõsítették. Megint végiggondoltam, hogy a hegyeken át megyek, de a seregem túl nagy, nem élne túl egy ilyen túrát. Szerencsére észrevettem pár föld alá vezetõ barlangot. Talán végre fordul a szerencse, mert úgy tûnik, az alagutakat nem õrzik.
+
+===== Fájl vége =====

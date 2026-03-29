@@ -1,0 +1,109 @@
+===== Térkép neve =====
+Clearing the Border
+
+===== Térkép leírása =====
+Defeat all your enemies to win the scenario.  However, if Gem is defeated in combat, the scenario is lost.  Gem is limited to level 10 but will carry her experience, skills and spells on to the next scenario.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Intro
+Üzenet:
+Eight months ago my mentor, Amanda, told me of a device invented in Antagarich that might end the nightmares that have plagued me.  This invention, which she called a First Aid Tent, is capable of healing all manner of wounds.  I traveled from Enroth across the ocean to Antagarich and searched until I came to the town of Clovergreen, where I was able to purchase this wonder.		First aid tents, I soon learned, were in great demand here.  Clovergreen lies in the Contested Lands between Erathia, AvLee and Deyja. Currently these lands are Erathian territory, but the Deyjan Necromancers were raiding over its border.  Since the Erathian military has been slow to respond to this threat, Clovergreen's Mayor Delino was raising militia troops but lacking an experienced commander to lead them.
+
+Név:
+Intro (cont)
+Üzenet:
+When Delino learned I had been a general in the Enroth's Succession Wars, he summoned me to Clovergreen's Town Hall to discuss his plight.  He won my sympathy, and I agreed to command Delino's militia in a campaign to destroy the necromancers.  I do not relish going to war again, but the necromancers must be stopped before they devastate Erathia as they did Enroth.
+
+Név:
+Rampart Castle
+Üzenet:
+Following Delino's advice, I based my armies at a pair of vacant Rampart Castles north of Clovergreen.  These castles are to me an odd combination of old and new. Some of the creatures living in these castles seem like old friends: the Dwarves, Elves and Unicorns.  I have also commanded Centaurs in the past, though they were archers, not lancers.  But I find it strange that Pegasi, Dendroids and Dragons also call these castles their home.
+
+Név:
+Necro Castles
+Üzenet:
+My Elven scouts have just reported there are two Necromancer castles to the North.  The raiders are based out of them, and as long as they hold these bases they will continue to come across the border.  Taking out the castles is the key to stopping the raids.
+
+Név:
+Black Hair (Deleted Unless Gem gets her horse)
+Üzenet:
+One of my Centaurs approached me while we were setting up camp.  "My Lady Gem," he asked "Why is it you hair turns black before and during a battle?"  The question took me by surprise.  I stared at him for a moment.  He fidgeted and began to back away.  "I didn't mean to..." I laughed.  "No, it's alright.  I guess you wouldn't know.  Where I come from, most of the Sorcerers are raven haired."  Seeing confusion in his eyes, I explained, "It's just to confuse our enemies.  So it's harder for observers to tell which Sorcerer is actually on the field.    Of course, there aren't any other Sorcerers that I know of in Antagarich."  I had to laugh at the look in his eyes.  Clear as mud obviously.  But I didn't get any more questions about my hair.
+
+Név:
+Necro Harvest
+Üzenet:
+I rode through a small hamlet yesterday, and I had a horrible sensation of deja vu.  A Necromancer had gone through the hamlet on a "harvesting" rampage.  That's when they kill a whole village and then raise all the bodies as skeletons or zombies.  The only bodies they can't use are the small children because their bodies are too small.		People aren't the only casualties, of course.  With their masters dead, all the penned animals would eventually die of starvation or thirst.
+
+Név:
+Necro Harvest (cont)
+Üzenet:
+I buried the children and freed the animals, which were still alive.  The real horror is that the dead children are the lucky ones.  They have gone on to the afterlife.  The tormented souls of the adults are tied to their undead bodies, unable to rest until the body is destroyed.		WHERE WAS THESE PEOPLE'S LORD TO DEFEND THEM?  These lands are supposed to be Erathian, and I have seen no sign of an organized force to oppose the Necromancers.  Don't they know the Necromancers won't stop harvesting until every single person is DEAD?
+
+Név:
+Nightmare
+Üzenet:
+I was with a small patrol traveling in the forest in the hour before dusk becomes true night. Bats swooped in the evening air chasing insects.  Suddenly they flew with more purpose, surrounded us, and transformed into Vampire Lords.		Sprites screamed, elves shouted.  Skeletal hands reached from the earth and pulled down my horse.  On my knees, I pulled lightning down from the sky to blast the Wights swarming my Dwarves.  The Unicorns charged, impaling Vampire Lords with their horns.  Just feet away, a Skeleton slew one of my Druids.		The sky exploded into light as my Phoenix swooped with fire running down their wings to char the remaining Vampires and Skeletons.  The Necromancer cast a final spell and turned to flee.
+
+Név:
+Nightmare (cont)
+Üzenet:
+I rolled from my cot shaking with anguish and rage.  This time the Necromancer would pay for the death, for the dead.  Bursting from my tent, I raised my hand to pull down lighting to stop the Necromancer from escaping, only to stumble with confusion at finding a sleeping camp.		"My Lady?" asked a sentry, concerned.		"I had a dream", I said. "Just a...a dream.  A nightmare.  I'm fine.  Fine."
+
+Név:
+Meeting with Ranger (Clancy)
+Üzenet:
+Last night I met Clancy, a ranger hero who has a bond with Unicorns.  His Lord is an AvLee Border Lord named Fayette. We quickly befriended each other, and I told Clancy about my homeland Enroth and its Sorcerers while he told me about AvLee and its Druids and Rangers.  Clancy was apparently scouting the Contested Lands for Deejay incursions, though he didn't come out and directly say so.  I told him I was helping the Clovergreen Militia destroy undead raiders.  I'm afraid I expressed my distaste a bit too strongly.
+
+Név:
+Manda Dream
+Üzenet:
+I dreamed of Amanda last night.  She asked me how I liked Antagarich.  I told her I thought most of Erathia seem very crowded and, well, settled.  From what I have seen though, I like the countryside of the Contested Lands, but I don't like the way the Erathian Lords seem to neglect their people.  I also told Amanda what the Ranger Clancy had said about AvLee.  It sounded like a good place to live, very open and wild.  I like that.  I am also becoming very fond of the Rampart creatures, which make up most of AvLee's towns and troops.
+
+===== Hõsök =====
+
+Önéletrajz:
+Gem was one of the greatest Sorceresses that Enroth had ever seen, serving King Roland Ironfist during the Succession Wars.  Shortly after Roland had secured the throne of Enroth, Gem left for Antagarich.
+
+===== Tárgyak =====
+
+(37, 21, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+(53, 10, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+(52, 41, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+(13, 14, 0) ***Necropolis***
+
+Idõzített események:
+
+Név:
+Extra Income
+Üzenet:
+
+
+===== Fájl vége =====
