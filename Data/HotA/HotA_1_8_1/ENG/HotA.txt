@@ -1,4 +1,4 @@
-Sections count: 432
+Sections count: 433
 ------------------------------------------------
 Name: "monst150"
 Path: "Monsters\monster150.str"
@@ -1095,7 +1095,7 @@ Text 7: ""
 Text 8: ""
 Has FilS: "true"
 FilS size: 116
-FilS: "0b 00 00 00 05 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 41 06 00 00 41 06 00 00 02 00 00 00 01 00 00 00 87 00 00 00 06 00 00 00 0e 00 00 00 12 00 00 00 0e 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 0a 00 00 00"
+FilS: "0b 00 00 00 05 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 88 06 00 00 88 06 00 00 02 00 00 00 01 00 00 00 87 00 00 00 06 00 00 00 0e 00 00 00 12 00 00 00 0e 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 0a 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "90"
@@ -2581,7 +2581,7 @@ Text 3: "Pathfinding"
 Text 4: "Secondary Skill Bonus: Pathfinding"
 Text 5: "{Pathfinding}
 
-Enhances the effect of the Pathfinding skill, reducing the cost of moving on rough terrain by additional 5%."
+Enhances the effect of the Pathfinding skill, reducing the cost of moving on rough terrain by additional 10%."
 Text 6: "Ergon"
 Text 7: "Ergon spent his long life in constant movement. He served in Lord Slayer's guard in Enroth, guarded elven caravans in Jadame, and sold his sword in Antagarich, only to realize in his later years that he yearned for the place whereto time itself seemed to come to rest. That said, his skill in arranging swift marches is still there, whenever need arises."
 Text 8: ""
@@ -2697,7 +2697,7 @@ Text 3: "Shield"
 Text 4: "Spell Bonus: Shield"
 Text 5: "{Shield}
 
-Casts Shield with effect increased by 10% for every n hero levels, where n is the level of the targeted creature."
+Casts Shield with effect increased by 5% for every n hero levels, where n is the level of the targeted creature."
 Text 6: "Dalton"
 Text 7: "Plain weapons can barely scratch a Jotunn, but believing these hulks neglect protection exposes a fool. Dalton is the most adept armorer capable of forging equipment of such immense size. Lean as Vori's ores are, Dalton has penetrated the secrets of magic to ensure his creations can withstand anything, an ice demon's fury included."
 Text 8: ""
@@ -2732,7 +2732,7 @@ Text 7: "Everyone in Vori knows: when all remedies fail, the last and only resor
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "01 00 00 00 19 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 1b 00 00 00 01 00 00 00 01 00 00 00 23 00 00 00 ba 00 00 00 93 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 05 00 00 00"
+FilS: "01 00 00 00 19 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 1b 00 00 00 01 00 00 00 01 00 00 00 23 00 00 00 ba 00 00 00 93 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 01 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 05 00 00 00"
 Vals count: "8"
 Val 0: "240"
 Val 1: "0"
@@ -3124,11 +3124,11 @@ The Altar of the Runes adds 1 Rune Level to the player's units at the beginning 
 Unused
 Unused
 Unused
-The Spirits of the Forebears increase weekly creature generation by 50%, provide your kingdom with an additional 5000 gold each day, and increase the Defence strength of a garrison hero by +20 when defending against a siege.
+The Spirits of the Forebears increase weekly creature generation by 50%, provide your kingdom with an additional 5000 gold each day, and increase the Defense strength of a garrison hero by +20 when defending against a siege.
 The Resource Silo provides you with an additional +1 wood and +1 ore each day."
 Has FilS: "true"
 FilS size: 252
-FilS: "05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+FilS: "0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -4185,7 +4185,7 @@ Current bonus: {+%d%%}
 ""Current bonus: +%d%%
 
 {Skill total effect}
-+%d water movement points""
++%d%% water movement points""
 #374
 ""Current bonus: +%d%%
 
@@ -4267,11 +4267,27 @@ one unit of gems
 #397
 1000 gold
 #398
-Days left:
+{Days left: %d}
 #399
 Click to show on map
 #400
-No valid targets for the %s spell in the area."
+No valid targets for the %s spell in the area.
+#401
+It looks as though there's nothing left here that would be of use to you. You take your leave.
+#402
+Seer%s
+#403
+Time limit expired by month %d, week %d, day %d.
+#404
+(Time limit expired by month %d, week %d, day %d)
+#405
+View Tutorial Messages
+#406
+""{View Tutorial Messages}
+
+Displays received tutorial messages""
+#407
+Joining a lobby room is possible only from the Main Menu or the Online Lobby Main Screen. Return back to the Main Menu and try again."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -4701,7 +4717,21 @@ Random (300-500 gold, or 3-5 gremlins or kobolds)
 # 194
 Creatures
 # 195
-Level 6 Creature Horde"
+Level 6 Creature Horde
+# 196
+Specialty
+# 197
+Seer's Name
+# 198
+This structure increases weekly production of Level 6 Creatures.
+# 199
+Summar count of local events and pandora boxes must not exceed 20000.
+# 200
+(new event)
+# 201
+(new variable)
+# 202
+Timeout Message"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -9371,73 +9401,73 @@ Quantity: 3-8.""
 186
 ""Kobold
 Level 1 Bulwark Creature.
-Quantity: 16-30.""
+Quantity: 20-50.""
 
 54
 187
 ""Kobold Foreman
 Upgraded level 1 Bulwark creature.
-Quantity: 16-25.""
+Quantity: 20-30.""
 
 54
 188
 ""Mountain Ram
 Level 2 Bulwark creature.
-Quantity: 12-25.""
+Quantity: 16-30.""
 
 54
 189
 ""Argali
 Upgraded level 2 Bulwark creature.
-Quantity: 12-20.""
+Quantity: 16-25.""
 
 54
 190
 ""Snow Elf
 Level 3 Bulwark creature.
-Quantity: 10-20.""
+Quantity: 12-25.""
 
 54
 191
 ""Steel Elf
 Upgraded level 3 Bulwark creature.
-Quantity: 10-16.""
+Quantity: 12-20.""
 
 54
 192
 ""Yeti
 Level 4 Bulwark creature.
-Quantity: 8-16.""
+Quantity: 10-20.""
 
 54
 193
 ""Yeti Runemaster
 Upgraded level 4 Bulwark creature.
-Quantity: 8-12.""
+Quantity: 10-16.""
 
 54
 194
 ""Shaman
 Level 5 Bulwark creature.
-Quantity: 5-12.""
+Quantity: 8-16.""
 
 54
 195
 ""Great Shaman
 Upgraded level 5 Bulwark creature.
-Quantity: 5-10.""
+Quantity: 8-12.""
 
 54
 196
 ""Mammoth
 Level 6 Bulwark creature.
-Quantity: 4-10.""
+Quantity: 5-12.""
 
 54
 197
 ""War Mammoth
 Upgraded level 6 Bulwark creature.
-Quantity: 3-8.""
+Quantity: 5-10.""
 
 54
 198
@@ -9668,7 +9698,7 @@ Decoration.""
 
 140
 3
-""Ice Block
+""Ice Formations
 Decoration.""
 
 140
@@ -10146,7 +10176,7 @@ Frogs
 Chicken
 Rooster
 Seaweed
-Crumbled Camp
+Crumbled Keep
 Crumbled Fountain
 Pig
 Ancient Altar
@@ -10205,7 +10235,7 @@ Text 7: "# Номер фонового звука | Тип (-1 - нет, 0 - мёртвое  растение, 1 - холм
 Text 8: "Boulder
 Stone
 Palms
-Ice Block
+Ice Formations
 Pile of Stones
 Snow Hills
 Barchan Dunes
@@ -10922,7 +10952,7 @@ Recovers from negative effects in one round. Possesses Runes.
 Shoots. Casts Air Shield.
 Shoots. Casts Air Shield. Freezing Shot.
  
-Recieves +100% Defence in the defensive stance.
+Receives +100% Defense in the defensive stance.
 Teleports allies (once per combat). -1 to enemy flying units' speed.
 Teleports allies (unlimited). -2 to enemy flying units' speed."
 Text 8: ""
@@ -11026,7 +11056,8 @@ HPL232.pcx
 HPL233.pcx
 HPL234.pcx
 HPL235.pcx
-HPL236.pcx"
+HPL236.pcx
+"
 Text 8: "HPLP01s.pcx
 HPLP02s.pcx
 HPLP03s.pcx
@@ -11108,7 +11139,8 @@ HPS232.pcx
 HPS233.pcx
 HPS234.pcx
 HPS235.pcx
-HPS236.pcx"
+HPS236.pcx
+"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -11450,10 +11482,17 @@ Texts count: "9"
 Text 0: "Keymaster's Tent"
 Text 1: "Border Gate"
 Text 2: "Border Guard"
-Text 3: ""
-Text 4: ""
+Text 3: "Hut of the Magi"
+Text 4: "Eye of the Magi"
 Text 5: ""
-Text 6: ""
+Text 6: "Light Blue
+Green
+Red
+Blue
+Tan
+Purple
+White
+Black"
 Text 7: "Light Blue
 Green
 Red
@@ -11534,7 +11573,7 @@ Vals count: "4"
 Val 0: "0"
 Val 1: "1"
 Val 2: "8"
-Val 3: "0"
+Val 3: "1"
 ------------------------------------------------
 
 ------------------------------------------------
@@ -13015,7 +13054,7 @@ Text 7: ""
 Text 8: ""
 Has FilS: "true"
 FilS size: 192
-FilS: "00 00 00 00 00 00 24 00 35 00 0f 00 27 00 2d 00 40 00 82 00 53 00 6f 00 6a 00 4a 00 8e 00 68 00 cf 00 d1 00 b1 00 b7 00 f2 00 e9 00 f3 00 e0 00 d8 00 d7 00 f2 00 fc 00 3d 01 01 01 38 01 25 01 48 01 7b 01 6c 01 59 01 77 01 6e 01 b5 01 90 01 aa 01 ba 01 e3 01 ea 01 c4 01 b0 01 e1 01 04 02 00 00 98 00 4d 01 00 00 65 00 df 00 17 01 69 01 ba 01 00 00 51 00 71 00 b8 00 e3 00 0c 01 8f 01 05 00 d5 00 3f 01 c0 01 17 00 46 00 a6 00 03 01 16 01 79 01 d1 01 00 00 8a 00 d2 00 2b 01 98 01 94 01 1e 00 85 00 c5 00 2a 01 b3 01 00 00 c5 00 57 01 c3 01 00 00 9b 00 d3 00 26 01 63 01 86 01"
+FilS: "00 00 00 00 00 00 23 00 36 00 10 00 28 00 2f 00 3f 00 81 00 54 00 6f 00 6a 00 4a 00 8e 00 69 00 d2 00 cf 00 b1 00 b8 00 f2 00 e9 00 f3 00 e1 00 d8 00 d6 00 f6 00 fd 00 3c 01 01 01 36 01 24 01 45 01 7d 01 6a 01 5b 01 77 01 6e 01 b6 01 92 01 aa 01 bb 01 e3 01 ed 01 c4 01 b2 01 e0 01 04 02 00 00 9e 00 4e 01 00 00 6b 00 df 00 19 01 6a 01 ba 01 00 00 50 00 75 00 b7 00 e1 00 0b 01 93 01 06 00 d5 00 3e 01 bf 01 18 00 46 00 a7 00 04 01 15 01 7c 01 d0 01 00 00 89 00 d2 00 2a 01 99 01 95 01 1f 00 86 00 c5 00 2b 01 b3 01 00 00 c6 00 57 01 c1 01 00 00 9c 00 d3 00 28 01 64 01 86 01"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -13301,7 +13340,7 @@ Text 7: "Buildings grades"
 Text 8: ""
 Has FilS: "true"
 FilS size: 352
-FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 0c 00 00 00 00 00 00 00 1c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 08 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 01 02 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 10 00 00 00"
+FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 0c 00 00 00 00 00 00 00 1c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 00 00 00 00 00 04 00 08 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 01 02 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 10 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -13380,7 +13419,7 @@ Ketpall
 Meghion
 Thulekh
 Tundara
-Halsmere
+Hallmer
 Ellesmere"
 Text 8: ""
 Has FilS: "false"
@@ -21725,7 +21764,7 @@ Show message"
 Text 1: "# Action Descriptions
 Sequence of actions
 Condition (If / Then / Else If...)
-Save expression result to """"%s"""" variable
+Save condition result to """"%s"""" variable
 %s variable """"%s""""
 Modify resources
 Remove current object
@@ -21766,7 +21805,7 @@ Hero has artifact
 Greater Than or Equal
 Less Than or Equal
 Not Equal
-Hero belongs to certain player
+Current player
 Hero's affiliation
 Hero belongs to certain class
 Monster is defeated by player
@@ -21776,7 +21815,8 @@ Player is defeated
 Town is controlled by player
 Player is human
 Player's starting town
-Town is neutral"
+Town is neutral
+Current hero ID"
 Text 3: "# Boolean Expression Descriptions
 Boolean value
 (And)
@@ -21794,12 +21834,13 @@ Current hero is %s
 Hero's class is %s
 Defeat %s
 Defeat hero %s
-%s is defeated
+Hero has %s %s
 %s is defeated
 %s must control %s
 %s is human
 Starting town type of %s is %s
-Current town is neutral"
+Current town is neutral
+Current hero is %s"
 Text 4: "# Integer Expression Names
 Integer value
 Variable value
@@ -22310,7 +22351,29 @@ Current player has certain number
 # 220
 Events cannot be converted while editing an object.
 # 221
-Add"
+Add
+# 222
+Variable (read-only)
+# 223
+Give
+# 224
+Take
+# 225
+Value %s: %d
+# 226
+Variable %s do not exist
+# 227
+%s = %d is set.
+# 228
+Created dump: HotA_logs\\%s
+# 229
+All events
+# 230
+Creature count of any type in town's garrison
+# 231
+Player controls %s
+# 232
+Town on map"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -22373,7 +22436,7 @@ Check if first value is greater than or equal to second value
 Check if first value is less than or equal to second value
 Check if first value is not equal to second value
 Current player is certain player
-Search for specific hero is successful
+Specific hero belongs to certain player
 Current hero class is certain class
 Specific monster is defeated by certain player
 Specific hero is defeated by certain hero
@@ -22382,7 +22445,8 @@ Specific player is defeated
 Specific town is controlled by certain player
 Current player is human
 Current player's starting town type is certain town type
-Current town is neutral"
+Current town is neutral
+Current hero is certain hero"
 Text 8: "Integer constant
 Value of specific variable
 Invert sign of expression's value
@@ -22459,7 +22523,7 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "# 0
-Only a visiting hero can use the Sieidi of the Runes.
+Only a visiting hero can use the %s.
 # 1
 Do you want %s to master the lore of the Runes?
 # 2
@@ -22485,11 +22549,73 @@ Rune Level %d (+%d Attack +%d Defense, +%d Speed)
 # 12
 [replaced]
 # 13
-%s и %s achieve new rune level
+%s and %s achieve new rune level
 # 14
 Units achieve new rune level
 # 15
 Altar of the Runes gives units starting rune level."
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "specialty0"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "# 0
+Secondary Skill
+# 1 
+Creatures
+# 2 
+Resources
+# 3
+Spell
+# 4
+Creatures (Special)
+# 5
+Speed
+# 6
+Creature Upgrade
+# 7
+Dragons
+# 8
+Automaton Explosion
+# 9
+Spell Bonus
+# 10
+""{%s}
+
+Casts %s with Damage increased by %d for every n hero levels, where n is the level of the targeted creature.""
+# 11
+""{Pikemen and Halberdiers}
+
+Increases the Speed of any Pikemen or Halberdiers by 1 and their Attack and Defense skills by 10% for every level (rounded up).""
+# 12
+""{Centaurs and Centaur Captains}
+
+Increases the Speed of any Centaurs or Centaur Captains by 1 and their Attack and Defense skills by 10% for every level (rounded up).""
+# 13
+""{Gremlins and Master Gremlins}
+
+Increases the Speed of any Gremlins or Master Gremlins by 1 and their Attack and Defense skills by 10% for every level (rounded up).""
+# 14
+""{Medusas and Medusa Queens}
+
+Increases the Speed of any Medusas or Medusa Queens by 1 and their Attack and Defense skills by 20% for every 4 levels (rounded up).""
+# 15
+Creature Bonus"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"

@@ -1,4 +1,4 @@
-Sections count: 432
+Sections count: 433
 ------------------------------------------------
 Name: "monst150"
 Path: "Monsters\monster150.str"
@@ -1095,7 +1095,7 @@ Text 7: ""
 Text 8: ""
 Has FilS: "true"
 FilS size: 116
-FilS: "0b 00 00 00 05 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 41 06 00 00 41 06 00 00 02 00 00 00 01 00 00 00 87 00 00 00 06 00 00 00 0e 00 00 00 12 00 00 00 0e 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 0a 00 00 00"
+FilS: "0b 00 00 00 05 00 00 00 0c 55 67 00 00 55 67 00 11 00 00 00 80 da 9e 03 60 da 9e 03 30 da 9e 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 88 06 00 00 88 06 00 00 02 00 00 00 01 00 00 00 87 00 00 00 06 00 00 00 0e 00 00 00 12 00 00 00 0e 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 0a 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "90"
@@ -2581,7 +2581,7 @@ Text 3: "Terepismeret"
 Text 4: "Másodlagos képzettség bónusz: Terepismeret"
 Text 5: "{Terepismeret}
 
-Fokozza a Terepismeret képesség hatását, további 5%-kal csökkentve a nehéz terepen való mozgás költségeit."
+Fokozza a Terepismeret képesség hatását, további 10%-kal csökkentve a nehéz terepen való mozgás költségeit."
 Text 6: "Ergon"
 Text 7: "Ergon hosszú életét állandó mozgásban töltötte. Lord Slayer testõrségében szolgált Enrothban, tünde karavánokat õrzött Jadame-ban, és kardját Antagarichban árulta, csak hogy késõbbi éveiben rájöjjön, hogy az a hely hiányzik neki, ahol az idõ maga is megállni látszik. Mindazonáltal, ha szükség van rá, még mindig megvan a gyors menetelések megszervezésének képessége."
 Text 8: ""
@@ -2697,7 +2697,7 @@ Text 3: "Pajzs"
 Text 4: "Varázslat bónusz: Pajzs"
 Text 5: "{Pajzs}
 
-A Pajzs hatása 10%-kal növekszik minden (n) hõsi szint után, ahol (n) a célzott egység szintje."
+A Pajzs hatása 5%-kal növekszik minden (n) hõsi szint után, ahol (n) a célzott egység szintje."
 Text 6: "Dalton"
 Text 7: "A sima fegyverek alig tudnak megkarcolni egy jotunnot, de aki azt hiszi, hogy ezek a kolosszusok nem törõdnek a védelemmel, az bolond. Dalton a legügyesebb fegyverkovács, aki képes ilyen hatalmas méretû felszereléseket kovácsolni. Bár Vori bányái szegényesek ércekben, Dalton megismerte a mágia titkait, hogy alkotásai mindennek ellenálljanak, beleértve a jégdémonok dühét is."
 Text 8: ""
@@ -2732,7 +2732,7 @@ Text 7: "Vori-ban mindenki tudja: ha minden más gyógymód kudarcot vall, a betege
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
-FilS: "01 00 00 00 19 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 1b 00 00 00 01 00 00 00 01 00 00 00 23 00 00 00 ba 00 00 00 93 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 00 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 05 00 00 00"
+FilS: "01 00 00 00 19 00 00 00 17 00 00 00 07 00 00 00 01 00 00 00 1b 00 00 00 01 00 00 00 01 00 00 00 23 00 00 00 ba 00 00 00 93 00 00 00 be 00 00 00 00 00 00 00 00 00 00 00 01 01 01 00 00 00 00 00 00 00 00 00 14 00 00 00 1e 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 05 00 00 00"
 Vals count: "8"
 Val 0: "240"
 Val 1: "0"
@@ -3124,11 +3124,11 @@ A Rúnák oltára 1 Rúna Szintet ad a játékos egységeinek a harc kezdetén.
 Nem használt
 Nem használt
 Nem használt
-Az Õsök Szellemei 50%-kal növelik a heti egységek generálását, naponta további 5000 aranyat biztosítanak a királyságodnak, és +20-cal növelik a helyõrség hõsének védelmi erejét ostrom elleni védekezéskor.
+Az Õsök Szellemei 50%-kal növelik a heti egységek generálását, naponta további 5000 aranyat biztosítanak a királyságodnak, és +20-szal növelik a helyõrség hõsének védelmi erejét ostrom elleni védekezéskor.
 A Nyersanyagraktár minden nap +1 Fát és +1 Ércet biztosít."
 Has FilS: "true"
 FilS size: 252
-FilS: "05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+FilS: "0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -4185,7 +4185,7 @@ Aktuális bónusz: {+%d%%}
 ""Aktuális bónusz: +%d%%
 
 {Képesség teljes hatása}
-+%d vízmozgási pontok""
++%d%% vízmozgási pontok""
 #374
 ""Aktuális bónusz: +%d%%
 
@@ -4267,11 +4267,27 @@ egy egység Drágakõ
 #397
 1000 Arany
 #398
-Hátralévõ napok:
+{Hátralévõ napok: %d}
 #399
 Kattints a térképen való megjelenítéshez
 #400
-Nincs érvényes célpont a %s varázslathoz a területen."
+Nincs érvényes célpont a %s varázslathoz a területen.
+#401
+Úgy tûnik, itt már nincs semmi, ami hasznodra válhatna. Menj csak tovább!
+#402
+%s Látnok
+#403
+A határidõ %d hónap, %d hét, %d nap múlva lejár.
+#404
+(A határidõ %d hónap, %d hét, %d nap múlva lejár)
+#405
+Oktatóanyagok megtekintése
+#406
+""{Oktatóanyagok megtekintése}
+
+Megjeleníti az oktatóüzeneteket""
+#407
+A Chatre csak a Fõmenü- Multiplayer vagy az Online Service (Chat) fõképernyõjérõl lehet belépni. Térj vissza a Fõmenübe, és próbáld meg újra."
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -4701,7 +4717,21 @@ Véletlenszerû (300-500 Arany, vagy 3-5 Harci Manó vagy Kobold)
 # 194
 Egység
 # 195
-6. szintû Horda egység"
+6. szintû Horda egység
+# 196
+Szakterület
+# 197
+Látnok neve
+# 198
+Ez az építmény növeli a 6. szintû lények heti szaporulatát.
+# 199
+A helyi események és a Pandora szelencék összesen nem haladhatják meg a 20000-et.
+# 200
+(új esemény)
+# 201
+(új változó)
+# 202
+Idõtúllépési üzenet"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -9371,73 +9401,73 @@ Mennyiség: 3-8.""
 186
 ""Kobold
 1. szintû Bulwark egység
-Mennyiség: 16-30.""
+Mennyiség: 20-50.""
 
 54
 187
 ""Kobold Vezetõ
 1. szintû fejlesztett Bulwark egység
-Mennyiség: 16-25.""
+Mennyiség: 20-30.""
 
 54
 188
 ""Hegyi Kos
 2. szintû Bulwark egység
-Mennyiség: 12-25.""
+Mennyiség: 16-30.""
 
 54
 189
 ""Argali Juh
 2. szintû fejlesztett Bulwark egység
-Mennyiség: 12-20.""
+Mennyiség: 16-25.""
 
 54
 190
 ""Hó Tünde
 3. szintû Bulwark egység
-Mennyiség: 10-20.""
+Mennyiség: 12-25.""
 
 54
 191
 ""Acél Tünde
 3. szintû fejlesztett Bulwark egység
-Mennyiség: 10-16.""
+Mennyiség: 12-20.""
 
 54
 192
 ""Jeti
 4. szintû Bulwark egység
-Mennyiség: 8-16.""
+Mennyiség: 10-20.""
 
 54
 193
 ""Rúnamester Jeti
 4. szintû fejlesztett Bulwark egység
-Mennyiség: 8-12.""
+Mennyiség: 10-16.""
 
 54
 194
 ""Sámán
 5. szintû Bulwark egység
-Mennyiség: 5-12.""
+Mennyiség: 8-16.""
 
 54
 195
 ""Õsi Shaman
 5. szintû fejlesztett Bulwark egység
-Mennyiség: 5-10.""
+Mennyiség: 8-12.""
 
 54
 196
 ""Mamut
 6. szintû Bulwark egység
-Mennyiség: 4-10.""
+Mennyiség: 5-12.""
 
 54
 197
 ""Harci Mamut
 6. szintû fejlesztett Bulwark egység
-Mennyiség: 3-8.""
+Mennyiség: 5-10.""
 
 54
 198
@@ -9668,7 +9698,7 @@ Dekoráció.""
 
 140
 3
-""Jéghegy
+""Jégképzõdmények
 Dekoráció.""
 
 140
@@ -10146,7 +10176,7 @@ Békáks
 Csirke
 Kakas
 Tengeri hínár
-Összeomlott tábor
+Omladozó erõd
 Összeomlott szökõkút
 Sertés
 Õsi oltár
@@ -10205,7 +10235,7 @@ Text 7: "# Háttérhang szám | Típus (-1 - nem, 0 - elhalt növény, 1 - domb, 2 - n
 Text 8: "Nagy szikladarab
 Kõ
 Pálmák
-Jéghegy
+Jégképzõdmények
 Kõhalom
 Havas hegyek
 Barkán dûnék
@@ -11026,7 +11056,8 @@ HPL232.pcx
 HPL233.pcx
 HPL234.pcx
 HPL235.pcx
-HPL236.pcx"
+HPL236.pcx
+"
 Text 8: "HPLP01s.pcx
 HPLP02s.pcx
 HPLP03s.pcx
@@ -11108,7 +11139,8 @@ HPS232.pcx
 HPS233.pcx
 HPS234.pcx
 HPS235.pcx
-HPS236.pcx"
+HPS236.pcx
+"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -11450,10 +11482,17 @@ Texts count: "9"
 Text 0: "Kulcsmester sátra"
 Text 1: "Határállomás"
 Text 2: "Határõr"
-Text 3: ""
-Text 4: ""
+Text 3: "Mágusok kunyhója"
+Text 4: "Mágusok szeme"
 Text 5: ""
-Text 6: ""
+Text 6: "Világoskék
+Zöld
+Piros
+Kék
+Cserszínû
+Lila
+Fehér
+Fekete"
 Text 7: "Világoskék
 Zöld
 Piros
@@ -11534,7 +11573,7 @@ Vals count: "4"
 Val 0: "0"
 Val 1: "1"
 Val 2: "8"
-Val 3: "0"
+Val 3: "1"
 ------------------------------------------------
 
 ------------------------------------------------
@@ -13015,7 +13054,7 @@ Text 7: ""
 Text 8: ""
 Has FilS: "true"
 FilS size: 192
-FilS: "00 00 00 00 00 00 24 00 35 00 0f 00 27 00 2d 00 40 00 82 00 53 00 6f 00 6a 00 4a 00 8e 00 68 00 cf 00 d1 00 b1 00 b7 00 f2 00 e9 00 f3 00 e0 00 d8 00 d7 00 f2 00 fc 00 3d 01 01 01 38 01 25 01 48 01 7b 01 6c 01 59 01 77 01 6e 01 b5 01 90 01 aa 01 ba 01 e3 01 ea 01 c4 01 b0 01 e1 01 04 02 00 00 98 00 4d 01 00 00 65 00 df 00 17 01 69 01 ba 01 00 00 51 00 71 00 b8 00 e3 00 0c 01 8f 01 05 00 d5 00 3f 01 c0 01 17 00 46 00 a6 00 03 01 16 01 79 01 d1 01 00 00 8a 00 d2 00 2b 01 98 01 94 01 1e 00 85 00 c5 00 2a 01 b3 01 00 00 c5 00 57 01 c3 01 00 00 9b 00 d3 00 26 01 63 01 86 01"
+FilS: "00 00 00 00 00 00 23 00 36 00 10 00 28 00 2f 00 3f 00 81 00 54 00 6f 00 6a 00 4a 00 8e 00 69 00 d2 00 cf 00 b1 00 b8 00 f2 00 e9 00 f3 00 e1 00 d8 00 d6 00 f6 00 fd 00 3c 01 01 01 36 01 24 01 45 01 7d 01 6a 01 5b 01 77 01 6e 01 b6 01 92 01 aa 01 bb 01 e3 01 ed 01 c4 01 b2 01 e0 01 04 02 00 00 9e 00 4e 01 00 00 6b 00 df 00 19 01 6a 01 ba 01 00 00 50 00 75 00 b7 00 e1 00 0b 01 93 01 06 00 d5 00 3e 01 bf 01 18 00 46 00 a7 00 04 01 15 01 7c 01 d0 01 00 00 89 00 d2 00 2a 01 99 01 95 01 1f 00 86 00 c5 00 2b 01 b3 01 00 00 c6 00 57 01 c1 01 00 00 9c 00 d3 00 28 01 64 01 86 01"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -13301,7 +13340,7 @@ Text 7: "Épületek besorolása"
 Text 8: ""
 Has FilS: "true"
 FilS size: 352
-FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 0c 00 00 00 00 00 00 00 1c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 08 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 01 02 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 10 00 00 00"
+FilS: "00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 80 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 0c 00 00 00 00 00 00 00 1c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 00 00 00 00 00 04 00 08 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 01 02 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 10 00 00 00"
 Vals count: "4"
 Val 0: "0"
 Val 1: "0"
@@ -13380,7 +13419,7 @@ Ketpall
 Meghion
 Thulekh
 Tundara
-Halsmere
+Hallmer
 Ellesmere"
 Text 8: ""
 Has FilS: "false"
@@ -21249,7 +21288,7 @@ Text 3: ""
 Text 4: "AllIn_a"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 — only bik)
+Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 3
 # Loop fade in
 0
@@ -21260,7 +21299,7 @@ Text 7: "# Has bink file (3 — only bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -21282,7 +21321,7 @@ Text 3: ""
 Text 4: "AllIn_b"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 — only bik)
+Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 3
 # Loop fade in
 0
@@ -21293,7 +21332,7 @@ Text 7: "# Has bink file (3 — only bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -21315,7 +21354,7 @@ Text 3: ""
 Text 4: "AllIn_c"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 — only bik)
+Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 3
 # Loop fade in
 0
@@ -21326,7 +21365,7 @@ Text 7: "# Has bink file (3 — only bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -21348,7 +21387,7 @@ Text 3: ""
 Text 4: "AllIn_d"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 — only bik)
+Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 3
 # Loop fade in
 0
@@ -21359,7 +21398,7 @@ Text 7: "# Has bink file (3 — only bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -21381,7 +21420,7 @@ Text 3: ""
 Text 4: "AllIn_e"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 — only bik)
+Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 3
 # Loop fade in
 0
@@ -21392,7 +21431,7 @@ Text 7: "# Has bink file (3 — only bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -21414,7 +21453,7 @@ Text 3: ""
 Text 4: "AllIn_epilogue"
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 — only bik)
+Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 3
 # Loop fade in
 0
@@ -21425,7 +21464,7 @@ Text 7: "# Has bink file (3 — only bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 1"
 Text 8: ""
 Has FilS: "false"
@@ -21447,7 +21486,7 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "# Has bink file (3 — only bik)
+Text 7: "# Bink fájlt tartalmazza (3 - csak bik)
 3
 # Loop fade in
 0
@@ -21458,7 +21497,7 @@ Text 7: "# Has bink file (3 — only bik)
 # Unknown
 0
 0
-# Shift Y by 100 px (0 - no, 1 - yes)
+# Shift Y by 100 px (0 - nem, 1 - igen)
 0"
 Text 8: ""
 Has FilS: "false"
@@ -21725,7 +21764,7 @@ Ciklus
 Text 1: "# Mûveletek leírása
 Mûveletek szekvenciája
 Feltételek (Ha / Amikor / Máskülönben ha...)
-Kifejezés eredményének mentése a """"%s"""" változóba
+Feltétel eredményének mentése a """"%s"""" változóba
 %s változó """"%s""""
 Erõforrások módosítása
 Aktuális objektum eltávolítása
@@ -21766,7 +21805,7 @@ A hõsnek van varázstárgya
 Nagyobb vagy egyenlõ
 Kisebb vagy egyenlõ
 Nem egyenlõ
-A hõs egy bizonyos játékoshoz tartozik
+Aktuális játékos
 Hõs hovatartozása
 A hõs egy bizonyos kategóriához tartozik
 Az egységet a játékos legyõzte
@@ -21776,7 +21815,8 @@ A játékost legyõzték
 A várost a játékos irányítja
 A játékos ember
 A játékosok kezdõ városai
-A város semleges."
+A város semleges.
+Aktuális hõs ID"
 Text 3: "# Logikai változók kifejezésének leírása
 Logikai változók értéke
 (És)
@@ -21794,12 +21834,13 @@ Az aktuális hõs %s
 A hõs kategóriája %s
 %s vereség
 Gyõzd le %s hõst 
-%s legyõzték
+Hõsnek van %s %s
 %s legyõzték
 %s irányítása alá kerül %s
 %s ember
 %s induló vártípusa %s
-A jelenlegi város semleges"
+A jelenlegi város semleges
+Az aktuális hõs %s"
 Text 4: "# Egészértékû kifejezések nevei
 Egész szám érték
 Változó érték
@@ -22310,7 +22351,29 @@ A jelenlegi játékosnak van egy bizonyos száma
 # 220
 Az objektum szerkesztése közben az események nem konvertálhatóak.
 # 221
-Hozzáadás"
+Hozzáadás
+# 222
+Változó (csak olvasható)
+# 223
+Adni
+# 224
+Venni
+# 225
+Érték %s: %d
+# 226
+%s véltozó nem létezik
+# 227
+%s = %d be van állítva.
+# 228
+Dump létrehozva: HotA_logs\\%s
+# 229
+Minden esemény
+# 230
+A város helyõrségében található bármilyen típusú egységek száma
+# 231
+Játékvezérlés %s
+# 232
+Város a térképen"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -22382,7 +22445,8 @@ Az adott játékost legyõzték
 Az adott várost egy bizonyos játékos irányítja
 Az aktuális játékos ember
 Az aktuális játékos kezdõ várostípusa egy bizonyos várostípus
-Az aktuális város semleges"
+Az aktuális város semleges
+Az aktuális hõs egy bizonyos hõs."
 Text 8: "Egész szám állandó
 Egy adott változó értéke
 A kifejezés értékének elõjelének megfordítása
@@ -22459,7 +22523,7 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: "# 0
-Csak egy látogató hõs használhatja a Rúnák Sieidijét.
+Csak egy látogató hõs használhatja a %s.
 # 1
 Szeretnéd, ha %s elsajátítaná a rúnák tudományát?
 # 2
@@ -22490,6 +22554,68 @@ Rúna Szinted: %d (+%d Támadás +%d Védelem, +%d Sebesség)
 Az egységek új eredményeket értek el a Rúna Szint
 # 15
 A Rúnák oltára az egységeknek kezdõ Rúnaszintet ad."
+Text 8: ""
+Has FilS: "false"
+Vals count: "4"
+Val 0: "0"
+Val 1: "0"
+Val 2: "0"
+Val 3: "0"
+------------------------------------------------
+
+------------------------------------------------
+Name: "specialty0"
+Path: ""
+Texts count: "9"
+Text 0: ""
+Text 1: ""
+Text 2: ""
+Text 3: ""
+Text 4: ""
+Text 5: ""
+Text 6: ""
+Text 7: "# 0
+Másodlagos képzettség
+# 1 
+Egység
+# 2 
+Erõforrások
+# 3
+Varázslat
+# 4
+Egység (Speciális)
+# 5
+Sebesség
+# 6
+Egység fejlesztése
+# 7
+Sárkányok
+# 8
+Robot robbanása
+# 9
+Varázslatbónusz
+# 10
+""{%s}
+
+%s varázslatot úgy hajtja végre, hogy a sebzés minden n hõs-szint után %d értékkel növekszik, ahol n a célpont egység szintje.""
+# 11
+""{Lándzsások és Alabárdosok}
+
+Minden szintnél (felfelé kerekítve) 1-gyel növeli a Lándzsások és az Alabárdosok sebességét, valamint 10%-kal növeli támadási és védekezési képességeiket.""
+# 12
+""{Kentaurok és Kentaur Kapitányok}
+
+Minden Kentaur és Kentaur Kapitány sebességét 1-gyel növeli, támadási és védekezési képességeiket pedig minden szint után 10%-kal (felfelé kerekítve).""
+# 13
+""{Harci Manók és Mester Harci Manók}
+
+Minden szintnél (felfelé kerekítve) 1-gyel növeli a Harci Manók és a Mester Harci Manók sebességét, valamint 10%-kal növeli támadási és védekezési képességeiket.""
+# 14
+""{Medúzák és Medúza Királynõk}
+
+Minden Medúza és Medúza-királynõ sebességét 1-gyel növeli, támadási és védekezési képességeiket pedig minden 4. szint után 20%-kal (felfelé kerekítve).""
+# 15
+Egységbónusz"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
