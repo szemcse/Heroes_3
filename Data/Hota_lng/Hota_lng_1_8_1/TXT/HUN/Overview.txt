@@ -1,0 +1,26 @@
+Hõs/Statisztika
+Szakértelmek
+Varázstágyak
+Város
+Helyõrségi harcos
+Látogató harcos
+"{Hõs megtekintése}
+
+Saját hõsök megtekintése."
+"{Városok megtekintése}
+
+Városaid megtekintése."
+"{Felszerelés}
+
+Azon varázstárgyak megmutatása, amiket a hõsöd már megszerzett."
+"{Vegyes tárgyak}
+
+További elemek megtekintése."
+"{Hátizsák}
+
+Azon elemek megmutatása, amik a hõsöd hátizsákjában vannak."
+Hõsök megtekintése
+Városok megtekintése
+Használt varázstárgyak megtekintése
+Vegyes tágyak megtekintése
+Hõs hátizsákjának megtekintése

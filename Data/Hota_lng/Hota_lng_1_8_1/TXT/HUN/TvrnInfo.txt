@@ -1,0 +1,8 @@
+Nincs elég pénzed a hõs megvásárlására
+A sorozás nem lehetséges. Már van ilyen hõsöd.
+A sorozás nem lehetséges. Már van egy hõsöd ebben a városban.
+Sorozás: %s a(z) %s
+%s kiválasztása
+Tolvajok céhe
+Bérleti díj
+Kocsma elhagyása

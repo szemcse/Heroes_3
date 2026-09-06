@@ -1,0 +1,113 @@
+===== Térkép neve =====
+Tanítás
+
+===== Térkép leírása =====
+Ha még soha nem játszott a Heroes of Might and Magic sorozatból származó körökre osztott stratégiai játékkal, kezdjük ezzel a hadjárattal! Itt megtanulható a játék alapjai, beleértve a vezérlés és a kezelõfelületet is.
+
+===== Események =====
+
+===== Idõzített események =====
+
+Név:
+Az Oktató küldetésünk elérendõ célja
+Üzenet:
+#HINT_ID=SCN1_Start
+
+Név:
+Kalandtérkép-navigáció
+Üzenet:
+#HINT_ID=SCN1_Adv_Movement
+
+Név:
+Segítség kérése
+Üzenet:
+#HINT_ID=COMM_HelpAndContextInfo
+
+Név:
+Rendszerbeállítások
+Üzenet:
+#HINT_ID=COMM_Adv_SystemOptions
+
+Név:
+Heti szaporulat
+Üzenet:
+#HINT_ID=SCN1_Adv_NewWeek
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(3, 5, 0) ***Castle***
+Név:
+Castellatus
+
+(8, 33, 0) ***Esemény***
+Üzenet:
+Fölötted ragyognak az Inferno város fényei. Itt található egy erõd, ami azt jelenti, hogy vannak itt alapvetõ védelmi építmények. Hogy megkönnyítsük a dolgodat a tanulás fázisában, több arkangyal is beleegyezett most, hogy támogasson téged a csatában.
+
+(10, 4, 0) ***Küldetésõrzõ***
+Üzenet:
+A túloldalon fekvõ átkozott vidék rendkívül veszélyes. Az õrök ragaszkodnak hozzá: elõször a délkeleti problémákat kell megoldanod, és csak utána haladhatsz tovább erre.
+Az õrök azt tanácsolják, hogy folytassuk az utat délkeleti irányba; egyelõre ne merészkedjünk be a túloldalon fekvõ területre.
+Az õrök örömmel fogadják a hírt, hogy legyõztük a délkeleti hõst. Jóváhagyják, hogy továbbmenjünk ebbe az irányba, de figyelmeztetnek, hogy a túloldalon fekvõ vidék tele van veszélyekkel.
+
+(14, 31, 0) ***Esemény***
+Üzenet:
+#HINT_ID=SCN1_Adv_Shipyard
+
+(30, 32, 0) ***Esemény***
+Üzenet:
+Elõttünk egy ellenséges hõs áll, aki az õsi obeliszkot õrzi. A pletykák szerint az obeliszk tartalmazza a Puzzle-térkép egy részét, amely felfedheti a Grál helyét. Közeledünk…
+
+(16, 1, 0) ***Lich***
+Üzenet:
+Vannak olyan speciális tereptípusok, amelyek befolyásolják a harc menetét. Például az átkozott talajon nem érvényesek a morálra és a szerencsére vonatkozó bónuszok. 		Elõtted több Lich látható: a felderítõid jelentése szerint a második obeliszkot õrzik. Gyõzd le õket, hogy utat nyiss magadnak.
+
+(28, 10, 0) ***Esemény***
+Üzenet:
+#HINT_ID=SCN1_Adv_Visiting_GriffinTower
+
+(27, 10, 0) ***Esemény***
+Üzenet:
+#HINT_ID=SCN1_Adv_Visiting_GriffinTower
+
+(26, 11, 0) ***Esemény***
+Üzenet:
+#HINT_ID=SCN1_Adv_Visiting_GriffinTower
+
+(27, 11, 0) ***Esemény***
+Üzenet:
+#HINT_ID=SCN1_Adv_Visiting_GriffinTower
+
+(13, 31, 0) ***Esemény***
+Üzenet:
+#HINT_ID=SCN1_Adv_Shipyard
+
+(12, 31, 0) ***Esemény***
+Üzenet:
+#HINT_ID=SCN1_Adv_Shipyard
+
+(24, 17, 1) ***Gnoll Buzogány***
+Üzenet:
+Hoppá, Hoppá! Ahogy közeledtek, észreveszitek, hogy több Gnoll õrzi egy nem csekély érdeklõdésre számot tartó tárgyat. Szeretnétek szembeszállni velük? (Tipp: ne aggódjatok! Ez nem lesz nehéz!)
+
+(23, 19, 1) ***Jel***
+Üzenet:
+A táblákon hasznos információk is lehetnek. Dél felé haladva még 4 féle bányát találhatunk. Foglaljuk el mindet, és haladjunk tovább délnyugat felé.
+
+===== Kiterjesztett események =====
+
+***Eseményszövegek***
+Üzenet érkezéskor:
+Az õrök nem engednek át, amíg nem hozunk nekik néhány Griffet. Azt javasolják, hogy építsünk egy Griff-tornyot a legközelebbi városban, hogy ott tudjunk toborozni Griff egységet.
+Üzenet feladat teljesítése elõtt:
+Az õrök nem engednek át itt. Azt javasolják, hogy építsünk egy Griff tornyot a városban, hogy rendelkezhess ezzzel az egységgel.
+Üzenet feladat teljesítésekor:
+"Ezek a Griffek jól fognak szolgálni minket! Folytathatjátok az utatokat."
+Tipp:
+Hozzál nekünk 8 Griffet, hogy azok jó szolgálatot tehessenek nekünk.
+Üzenet:
+#HINT_ID=SCN1_Adv_Visiting_FontainOfYouth
+
+
+===== Fájl vége =====

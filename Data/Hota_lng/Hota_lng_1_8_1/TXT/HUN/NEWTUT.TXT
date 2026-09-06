@@ -1,0 +1,148 @@
+COMM_HelpAndContextInfo	"{Segítség kérése}
+
+Ha a jobb egérgombot lenyomva tartjuk azon az elemen, amelyik érdekel bennünket, akkor megjelenik egy leírás, amely elmagyarázza, hogy mi az, amit éppen nézünk.
+
+Ebbenaz oktatóanyagban a jobb felsõ sarokban található “Oktatóanyagok megtekintése” gombra kattintva tekinthetjük meg, az oktatóanyagot lépésrõl-lépésre.
+"
+COMM_Adv_QuestLog	"{Küldetésnapló}
+
+A kalandtérképen az aktív küldetések megtekintéséhez használjuk a Küldetésnaplót. A jobb oldali panelen található gombra kattintva nyitható meg a lista.
+"
+COMM_Adv_SystemOptions	"{Rendszerbeállítások}
+
+A beállítások módosításához, mentéshez, betöltéséhez és a játékból való kilépéshez használjuk a “Rendszerbeállítások” menüpontot a jobb oldali panelen található számítógép ikonra kattintva.
+"
+COMM_DefeatLoadGame_NoHD	"{Vereség esetén 1}
+
+A játék mentett helyzetének betöltéséhez lépjünk a fõmenübe, és válasszuk a “Játék betöltése”, majd a “Tanítás” menüpontokat. Itt kiválaszthatjuk az AUTOSAVE opciót (a játék állapotát az elõzõ kör befejezése elõtti állapotára állítja vissza), vagy a legutóbb általunk elmentett játékállást is választhatjuk (,ha van ilyen).
+"
+COMM_DefeatLoadGame_HD	"{Vereség esetén 2}
+
+A játék mentett helyzetének betöltéséhez lépjünk a fõmenübe, és válasszuk a “Játék betöltése”, majd a “Tanítás” menüpontokat. Itt kiválaszthatjuk az AUTOSAVE opciót (a játék állapotát az elõzõ kör befejezése elõtti állapotára állítja vissza), vagy a BATTLE opciót (a játék állapota a csata megkezdése elõtti állapotát tölti vissza; ez akkor elérhetõ, ha a vonatkozó HD Mod beállítás engedélyezve van), vagy a legutóbb általunk mentett játékállást is betölthetjük (,ha van ilyen).
+"
+COMM_Adv_MultipleHeroes	"{Hõsök közötti váltás}
+
+A jobb oldali panelen egy oszlop látható, amelyen a kalandtérképen az irányításunk alatt álló hõsök portréi szerepelnek. A bal oldalon található zöld sáv a hõs fennmaradó mozgáspontjait jelzi, az éppen kiválasztott hõst pedig egy vékony aranykeret emeli ki.
+
+A váltáshoz vagy rákattintunk a kívánt hõs portréjára, vagy használhatjuk a panelen található “Következõ hõs” feliratú gombot is.
+"
+SCN1_Start	"{Az Oktató küldetésünk elérendõ célja}
+
+Meg kell találni a Grált – egy hatalmas ereklyét, amely kimondhatatlan gazdagságot hoz a királyságunknak. A pletykák szerint a Grál valahol ezen a földön van eltemetve, de a pontos helyérõl nincsenek információink. Lord Haart, a parancsnokságunk alatt álló hõs, már készen áll az indulásra.
+"
+SCN1_Adv_Movement	"{Kalandtérkép-navigáció}
+
+Ez a kalandtérkép képernyõje. Itt mozgathatóak a hõseink a játék világában, felfedezhetjük a környezetet és kölcsönhatásba léphetünk a tárgyakkal. Hõsünk már ki van választva – a jobb oldali panelen található listában a portréja kiemelve látható, adatai pedig a jobb alsó sarokban jelennek meg.
+
+Ha az egérmutatót a térkép fölé visszük, az elérhetõ helyek fölött a kurzor ló formájúvá válik. Vigyük az egérmutatót a kívánt hely fölé, és kattintsunk a bal egérgombbal: útvonalnyilak jelennek meg a térképen. Az útvonal megerõsítéshez kattintsunk újra a bal egérgombbal az útvonal végpontjára.
+"
+SCN1_Adv_Visiting	"{Objektumokkal való interakció}
+
+A kalandtérképen számos objektummal interakcióba léphetünk úgy, hogy a hõsünk meglátogatja azokat. Ha az egérmutatót egy meglátogatható objektum fölé visszük, az egy felágaskodó ló formáját ölti. Kattintsunk a bal egérgombbal; a hõs odamegy és meglátogatja az objektumot.
+
+Próbáljuk meg elfoglalni a közeli bányákat és a fûrésztelepet úgy, hogy meglátogatod õket, majd látogasd meg a városodat. Ne feledjük, hogy ahhoz, hogy a kiválasztott hõs kifejezetten a várost látogassa meg, a képen látható módon a bejáratnál lévõ városi zászlók közé kell vinni az egérmutatót.
+"
+SCN1_Adv_Selection	"{Az aktív hõs kiválasztása}
+
+Miután rákattintottunk a látogatható területen kívül esõ városra, a fókusz elmozdult a hõsödrõl. A jobb alsó sarokban található panel a játék éppen aktív elemérõl nyújt információkat, és jelenleg a városra vonatkozó adatokat jeleníti meg.
+
+Ahhoz, hogy újra kiválasztásra kerüljön a hõsünk és folytassuk vele a kalandot, kattintsunk a bal egérgombbal a jobb oldali panelen található portréjára.
+"
+SCN1_Adv_HeroInGarrison	"{Hõs a városi helyõrségben}
+
+Áthelyeztjük a hõst a városi helyõrségbe. A helyõrségben tartózkodó hõsök nem jelennek meg a kalandtérképen; a városban tartózkodnak. A hõs visszahozásához a kalandtérképre:
+
+1. Kattintsunk duplán a városra a képernyõn, hogy megnyissuk a városi képernyõt;
+2. Kattintsunk a hõs portréjára a képernyõ alján;
+3. Kattintsunk a portréja alatt, a legalsó sorban található helyre.
+"
+SCN1_Adv_EndTurn	"{Kör vége}
+
+A játék köralapú módban zajlik, és hõseink mozgási kerete korlátozott. Jelenleg ez már kimerült, ezért be kell fejeznünk a kört, hogy továbbléphess egy új napra.
+
+Ehhez kattintsunk a jobb oldali panelen található homokóra gombra.
+"
+SCN1_Twn_Construction	"{Városi képernyõ és építkezés}
+
+A városi képernyõre kerültünk. A városban különféle épületek találhatók, amelyek segítségével csapatokat toborozhatunk, varázslatokat tanulhatunk, kereskedhetünk stb. A különbözõ mûveletek végrehajtásához kattintsunk az érdekesnek tûnõ épületre. A városi képernyõrõl való kilépéshez kattintsunk a jobb alsó sarokban található pipára.
+
+Új épületek építésével lehetõségünk van fejleszteni a várost. Minden városban naponta egy épület építhetõ. Ha építeni szeretnénk, menjünk a Községháza épületébe, és válasszunk ki egy nekünk tetszõt az elérhetõ épülek közül a Csarnokból.
+
+A folytatáshoz meg kell építenünk most a Griffek toborzására szolgáló épületet, a Griff-tornyot. Ennek megépítéséhez azonban szükségünk van elõtte egy Erõdre, ezért az erõddel kell kezdened az építkezést (az épületek megépítése feltételekhez kötöttek).
+"
+SCN1_Twn_HireCreatures	"{Csapatok toborzása}
+
+Az építési képernyõ alsó két sorában található épületek a toborozható egységek lakóhelyei, és lehetõvé teszik a csapatok toborzását. Épp most építettük meg a Griff-tornyot – ez a Griff egységek lakóhelye. A toborzáshoz kattintsunk a városi képernyõn az újonnan megjelenõ épületre. Megnyithatjuk az Erõd épületét is, és ott kattinthatsz a Griff-ablakra.
+"
+SCN1_Twn_Garrison	"{Városi helyõrség}
+
+Az újonnan toborzott csapatok alapértelmezésben a városi helyõrségbe helyezõdik el. A helyõrség tartalma a képernyõ alsó részén, a felsõ sorban látható. Ahhoz, hogy a toborzott griffeket – vagy más egységeket – áthelyezzük a hõsünkhöz, elõször a hõsnek meg kell látogatnia a várost.
+
+Ekkor a hõs és serege megjelenik a mezõk alsó sorában. A lények átviteléhez elõször kattints a “innen” mezõre, majd a “ide” mezõre. Az azonos lényeket egyetlen csoportba is össze lehet vonni.
+"
+SCN1_Adv_BuildEveryday	"{Napi építkezés}
+
+Ne feledjük, hogy a várost úgy fejleszthetjük, hogy minden nap új épületeket emelünk. Ehhez nem szükséges, hogy a hõs a városban tartózkodjon.
+
+A város megnyitásához kattintsunk duplán a jobb szélsõ panelen található város ikonjára.
+"
+SCN1_Adv_Visiting_FontainOfYouth	"{Meglátogatható terület}
+
+Figyeljünk arra, hogy egyes objektumoknál a meglátogatható terület nem a közepén, hanem egy sarokban (bal vagy jobb oldalon) található. Próbáljuk meg az egérmutatót az objektum fölé vinni, hogy megbizonyosodhassunk arról, meglátogatható-e.
+"
+SCN1_Adv_Visiting_GriffinTower	"{Griffin-torony}
+
+Hátrahagytunk egy meglátogatható objektumot: a Griffin-tornyot. Ha elfoglaljuk ezt a külsõ épületet, felvehetjük a benne élõ egységeket a seregbe, és így növelhetjük is a seregünk létszámát.
+"
+SCN1_Adv_Underworld	"{Földalatti világ}
+
+A lejáraton áthaladva beléptünk a földalatti világba. A kalandtérkép két szintbõl állhat: a felszíni és a földalatti szintbõl. A jobb oldali panelen található gombra kattintva válthatunk a térkép szintjei között.
+"
+SCN1_Btl_Basics	"{Harci képernyõ}
+
+A támadó fél csapatai mindig a bal oldalon, a védekezõ fél csapatai pedig a jobb oldalon helyezkednek el. Egy kör során a csapatok az aktiválási sorrendjük szerint, felváltva következnek egymás után. Az éppen aktív csapat szimbóluma kiemelve jelenik meg.
+
+Mozgási vagy támadási parancs kiadásához vigyük az egérmutatót egy elérhetõ mezõre vagy a célpontra, majd kattintsunk a bal egérgombbal. Támadáskor célozzunk az egység alsó részére – pontosabban arra a mezõre, ahol a célpont található.
+
+Az információk megtekintéséhez kattintsunk a jobb egérgombbal, és tartsuk lenyomva.
+"
+SCN1_Adv_Shipyard	"{Hajógyárak és hajók}
+
+A következõ utunk a vizen át vezet majd. A vízen való közlekedéshez hajót használhatunk – ezt csekély összegért megvásárolhatjuk a hajógyárban.
+
+Vásároljunk meg egy hajót, és használjuk arra, hogy átkeljünk a keleti partra.
+
+Figyelem: a hajóra való felszállás és leszállás a hõs teljes fennmaradó mozgási pontját felemészti.
+"
+SCN1_Adv_FirstGrailMap	"{Puzzle Térkép}
+
+Az obeliszk meglátogatásával felfedeztük a Grál helyét feltáró Puzzle térkép egy részét. A térkép fele még mindig rejtve van; a többi rész feltárásához meg kell találni és meg kell látogatni egy második obeliszkot.
+
+A jelenleg rendelkezésedre álló Puzzle térkép megtekintéséhez használjuk a jobb oldali panelen található gombot.
+"
+SCN1_Adv_HireHero	"{Új hõs toborzása}
+
+A felderítõk hírt hoztak, hogy a város északi részén, az átkozott földön találtak egy második obeliszkot, de azt élõhalottak õrzik.
+
+Haart úr messzire merészkedett, és a városba való visszatérés több napot venne igénybe. Építhetünk viszont egy kocsmát a városban, és toborozhatunk egy új hõst, aki egyenesen a második obeliszk felé veszi az irányt. Ne felejtsünk el hadsereget adni a hõsnek, mivel a felderítõk jelentése szerint az obeliszk õrzött.
+"
+SCN1_Adv_NewWeek	"{Heti szaporulat}
+
+Új hét kezdõdött, és új egységek váltak toborozhatóvá a városokban és a városon kívüli lakóhelyeken. A még nem megvásárolt egységek nem tûnnek el, hanem felhalmozódnak, és arra várnak, hogy megvásárolják õket.
+"
+SCN1_Adv_DiggingGrail	"{A Szent Grál felkutatása}
+
+Megtaláltuk a Puzzle térkép második felét! Most már tudjuk, hol van a Szent Grál elásva: közvetlenül a város szélén. Ahhoz, hogy kiássuk, küldjük el hõsünket a megjelölt mezõre, majd kattintsunk a jobb oldali panelen található gombra.
+
+Az ásás egy egész napot vesz igénybe, és a hõsünk teljes mozgási keretét felemészti. Ezért miután a hõst a Szent Grált rejtõ mezõre mozgattuk, be kell fejezni a kört, hogy új napra léphessünk.
+"
+SCN1_Twn_BuildingGrail	"{A Grál-épület felépítése}
+
+A Grál-épület felépítéséhez kattintsunk a város fõéületére, mintha az építési ablakot szeretnénk megnyitni. Ha a Grált birtokló hõs a városban tartózkodik, a rendszer felajánlja az épület felépítését.
+"
+SCN1_Finish	"{Mi jön most?}
+
+Gratulálunk a tanító forgatókönyv teljesítéséhez! Most azt javasoljuk, hogy próbáljunk ki néhányat a kevésbé nehéz, “Könnyû” besorolású pályák közül, például a {Key to Victory} és {Key to Victory: Second Key} pályákat.
+
+Miután visszatértünk a menübe, kattintsunk az “Új játék”, “Egyjátékos”, “Elérhetõ pályák”, menüpontokra, majd válassz egyet a bal oldali listából. Ne felejtsük el beállítani a megfelelõ nehézségi szintet: “Gyalog” vagy “Lovag”. További beállítások, például a “Kezdõváros”,az alján található “További beállítások” gombra kattintva érhetõk el.
+"
