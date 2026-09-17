@@ -2032,7 +2032,7 @@ Text 5: "{Nyílvetõgép}
 
 Növeli a Nyílvetõgép támadási és védekezési képességeit 30%-kal minden 5 szint után (felfelé kerekítve)."
 Text 6: "Morton"
-Text 7: "Morton, a Manó-Ogre háborúk veteránja és azon kevesek egyike, akik túlélték a Gowdar Deep elleni támadást, bosszút esküdött a ""piszokbõrûek"" ellen a mészárlásért, amely eltörölte otthonát Jadame arcáról. A ballisztái minõségét azon méri le, hogy hány ogrét tudnak egyetlen lövéssel átszúrni."
+Text 7: "Morton, a Manó-Ogre háborúk veteránja és azon kevesek egyike, akik túlélték a Gowdar Deep elleni támadást, bosszút esküdött a ""piszokbõrû ogrék"" ellen a mészárlásért, amely eltörölte otthonát Jadame arcáról. A ballisztái tehetségét azon méri le, hogy hány ogrét tudnak egyetlen lövéssel keresztüllõni."
 Text 8: ""
 Has FilS: "true"
 FilS size: 92
@@ -3818,9 +3818,9 @@ Lövés %s (1 lövés maradt, támadásszám: %s, támadás sebzése: %s, meghalt: %s)
 #222
 %s kimerítette a javítási képességét
 #223
-%s regenerálódik %d találati pontot
+%s regenerálódik %d sebzéssel
 #224
-%s regenerálódik %d találati pontot
+%s regenerálódik %d sebzéssel
 #225
  föld alatt
 #226
@@ -4041,29 +4041,29 @@ Aktuális/kezdeti szám és az egység neve
 #325
 %s támadás (támadásszám: %d, találati esély:  %d%%, támadás sebzése: %s, találati pontok:  %d/%d)
 #326
-Harci gép. Támadja az ostromfalakat, 1-2 sebzést okozva. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. Ostromnál a falat lehet vele lõni, 1-2 sebzéssel. Találatkor maximum 40% sebzést kap.
 #327
-Harci gép. Kétszer támadja az ostromfalakat, 1-2 sebzést okozva. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. Kétszer lehet ostromnál a falat vele lõni, 1-2 sebzéssel. Találatkor maximum 40% sebzést kap.
 #328
-Harci gép. Kétszer támadja az ostromfalakat, 2 sebzést okozva. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. Kétszer lehet ostromnál a falat vele lõni, 2 sebzéssel. Találatkor maximum 40% sebzést kap.
 #329
-Harci gép. Lövések. 50% az esélye a +100%-os sebzésnek. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. Távoli lövéseket is lehet vele indítani. 50% az esélye a +100%-os sebzésnek. Találatkor maximum 40% sebzést kap.
 #330
-Harci gép. Kétszer lõ. 75% az esélye a +100%-os sebzésnek. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. Kétszer lehet vele lõni. 75% az esélye a +100%-os sebzésnek. Találatkor maximum 40% sebzést kap.
 #331
-Harci gép. Kétszer lõ. +100%-os sebzést okoz. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. Kétszer lehet vele lõni. +100%-os sebzéssel. Találatkor maximum 40% sebzést kap.
 #332
-Harci gép. 40-50 találati pontot gyógyít.          +5% maximális találati pont a szövetségesek számára. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. 40-50 sebzést gyógyít. +5% maximális életerõ az egységek számára. Találatkor maximum 40% sebzést kap.
 #333
-Harci gép. 60-75 találati pontot gyógyít.          +10% maximális találati pont a szövetségesek számára. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. 60-75 sebzést gyógyít. +10% maximális életerõ az egységek számára. Találatkor maximum 40% sebzést kap.
 #334
-Harci gép. 80-100 találati pontot gyógyít.        +15% maximális találati pont a szövetségesek számára. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. 80-100 sebzést gyógyít. +15% maximális életerõ az egységek számára. Találatkor maximum 40% sebzést kap.
 #335
-Harci gép. Lövések. Támadja az ostromfalakat, 1-2 sebzést okozva. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. Távoli lövéseket is lehet vele indítani. Ostromnál a falat lehet vele lõni, 1-2 sebzéssel. Találatkor maximum 40% sebzést kap.
 #336
-Harci gép. Lövések. +100%-os sebzést okoz. Támadja az ostromfalakat, 1-2 sebzést okozva. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. Távoli lövéseket is lehet vele indítani. +100%-os sebzéssel. Ostromnál a falat lehet vele lõni, 1-2 sebzéssel. Találatkor maximum 40% sebzést kap.
 #337
-Harci gép. Lövések. +200%-os sebzést okoz. Támadja az ostromfalakat, 2 sebzést okozva. Találatonként legfeljebb 40% találati pontot veszítve.
+Harci gépezet. Távoli lövéseket is lehet vele indítani. +200%-os sebzéssel. Ostromnál a falat lehet vele lõni, 2 sebzéssel. Találatkor maximum 40% sebzést kap.
 #338
 %s * (att + %d)
 #339
@@ -4502,7 +4502,7 @@ Csatlakozás csak pénzért
 # 92
 Csatlakozás az egységekhez a teljes szám százalékában:
 # 93
-Továbbfejlesztett rakás:
+Fejlesztett csapat:
 # 94
 Alapértelmezett
 # 95
@@ -4510,7 +4510,7 @@ Nem
 # 96
 Igen
 # 97
-Rakás számláló:
+Lerakott csapat száma:
 # 98
 Átlagos
 # 99
@@ -5281,7 +5281,7 @@ Fizessen 2000 Aranyat egy 'új' másodlagos készségért, amely négy tanított képess
 
 #106
 #-1
-#""Harci Gépek Gyára
+#""Harci gépezetek Gyára
 #Vásárold meg a három hadigép bármelyikét: Nyílvetõ, Elsõsegély-sátor és Muníciós szekér.""
 
 107
@@ -8579,8 +8579,8 @@ Conflux város.""
 
 106
 0
-""Harci gépek gyára
-Itt megvásárolható a három harci gép bármelyike: Nyílvetõ, Elsõsegély-sátor és Muníciós szekér is.""
+""Harci gépezetek gyára
+Itt megvásárolható a három Harci gépezet bármelyike: Nyílvetõ, Elsõsegély-sátor és Muníciós szekér is.""
 
 212
 0
@@ -9829,9 +9829,9 @@ Lehetõvé teszi, hogy a látogató hõs elveszítse az összes aktuális mozgáspontját,
 
 144
 4
-""Ásványforrás
+""Ásványvízforrás
 +1 szerencse a következõ csatáig.
-+600 mozgáspont a nap végéig. Az ásványforrás ugyanazon a napon újra meglátogatható a csata után, így bónusz mozgáspontokat halmozhatsz ugyanarról a forrásról.""
++600 mozgáspont a nap végéig. Az ásványvízforrás ugyanazon a napon újra meglátogatható a csata után, így bónusz mozgáspontokat halmozhatsz ugyanarról a forrásról.""
 
 144
 5
@@ -10905,23 +10905,23 @@ Text 3: "%d %s egységet pontos lövéssel öltek meg!"
 Text 4: "Vérszagot érezve %s egység extra csapást mér rá!"
 Text 5: "Vérszagot érezve %s egység extra csapást mér rá!"
 Text 6: "Szembenézve %s egységgel -2"
-Text 7: "Harci gép. Lõ. Támadja az ostromfalakat 0-2 sebzést okozva.
-Lõ. Nincs közelharci büntetés. Nincs ellenséges megtorlás. Pontos lövés.
+Text 7: "Harci gépezet. Lõ. Ostromnál a falat lehet vele lõni, 0-2 sebzést okozva.
+Távoli lövésekre és közelharcra is képes. Nincs közelharci/akadály büntetés. Nincs ellenséges megtorlás. Pontos lövés.
 Lõ. Nincs távolság vagy gát büntetés. Korlátlan lõszer. Figyelmen kívül hagyja a célpont védelmét.
-Teleportálás képessége. Immunis a jégre.
-Teleportálás képessége. Immunis a jégre.
+Képes teleportálódni a csatatéren. Immunis a jégre.
+Képes teleportálódni a csatatéren. Immunis a jégre.
  
  
-Lövések. Nincs közelharci büntetés.
-Lövések. Nincs közelharci büntetés. Nincs ellenséges megtorlás.
-Repülés.
-Repülés. Vadság.
-Lövések. Lövés után dob (alapszint).
-Lõ. Lövés után dob (haladó szint).
+Távoli lövésekre és közelharcra is képes. Nincs közelharci/akadály büntetés.
+Távoli lövésekre és közelharcra is képes. Nincs közelharci/akadály büntetés. Nincs ellenséges megtorlás.
+Tud repülni.
+Tud repülni. Vadsága miatt csak akkor támad másodszor, ha az elsõ ütése öl.
+Varázslatok. (Alap szinten) tud lõni 3 körre Gyengeség varázslatot. Ha már gyenge a célpont, Gyengítõ sugarat használ.
+Varázslatok. (Haladó szinten) tud lõni 3 körre Gyengeség varázslatot. Ha már gyenge a célpont, Gyengítõ sugarat használ.
 Figyelmen kívül hagyja az ellenség támadó képességének 30%-át.
 Figyelmen kívül hagyja az ellenség támadó képességének 60%-át.
 Mérgezõ.
-Mérgezõ. Visszavágás.
+Mérgezõ. Visszavágásával annál nagyobb bónusz sebzést kap, minél több életerõt veszített a harcban a sereg.
 Bánatot okoz.
 Repülés. Elme varázslat immunitás. Korlátlan megtorlás. Hipnotizálás.
 Megduplázza a baráti egység szerencse esélyét. Szerencsét hoz.
@@ -10935,22 +10935,22 @@ Megjavítható. Detonáció a halál beálltával.
 Megjavítható. Nincs ellenséges megtorlás. Detonáció a halál beálltával.
 A föld alatt mozog. Immunis a vakításra és a kõvé dermesztésre.
 A föld alatt mozog. Immunis a vakításra és a kõvé dermesztésre. Felfalja a holttesteket további csapások lehetõségéért.
-Lõ. Megelõzõ lövés (körönként egyszer).
-Lõ. Megelõzõ lövés (korlátlan).
-Repül. Kihagy egy kört, hogy ideiglenes sebezhetetlenséget kapjon.
-Repül. Ideiglenes sebezhetetlenséget kap anélkül, hogy kihagyna egy fordulót.
+Távoli lövésekre és közelharcra is képes. Megelõzõ lövésre képes megtámadásakor (körönként egyszer).
+Távoli lövésekre és közelharcra is képes. Megelõzõ lövésre képes megtámadásakor (korlátlan).
+Tud repülni. Kihagy egy kört, hogy ideiglenes sebezhetetlenséget kapjon.
+Tud repülni. Ideiglenes sebezhetetlenséget kap anélkül, hogy kihagyna egy fordulót.
 Mechanikus, megjavítható. Támadhat hõgutával.
 Mechanikus, megjavítható. Támadhat hõgutával.
 Naponta 1 aranyat termel.
 Naponta 1 aranyat termel.
  
 Jég ellen immunis. A szomszédos ellenségek +20% varázslatsebzést kapnak.
-Lõ. Nincs közelharci büntetés.
-Lõ. Nincs közelharci büntetés. Ellenséges egység mellöl is lõhet.
+Távoli lövésekre és közelharcra is képes. Nincs közelharci/akadály büntetés.
+Távoli lövésekre és közelharcra is képes. Nincs közelharci/akadály büntetés. Ellenséges egység mellöl is lõhet.
 Egy kör alatt felépül a negatív hatások alól.
 Egy kör alatt felépül a negatív hatások alól. Rúnákkal rendelkezik.
-Lõ. Légpajzsot varázsol.
-Lõ. Légpajzsot varázsol. Fagyasztó lövése van.
+Távoli lövésekre és közelharcra is képes. Légpajzsot tud varázsolni.
+Távoli lövésekre és közelharcra is képes. Légpajzsot tud varázsolni. Fagyasztó lövése is van.
  
 Védekezõ állásban +100% védelmet kap.
 Szövetségeseket teleportál (harconként egyszer). -1 sebesség az ellenséges repülõ egységeknek.
@@ -14801,7 +14801,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "{Ágyú}
 
-Használd ezt a harci gépet, hogy célba vedd az ellenséges csapatokat és erõdítményeket a harcban."
+Használd ezt a Harci gépezetet, hogy célba vedd az ellenséges csapatokat és erõdítményeket a harcban."
 Text 8: "3000 # költség
 10 # slot type (0 - Semmi, 1 - Fej, 2 - Vállak, 3 - Nyak, 4 - Jobb kéz, 5 - Bal kéz, 6 - Test, 7 - Gyûrû, 8 - Lábak, 9 - Egyéb, 10 - Nyílvetõ, 11 - Muníciós szekér, 12 - Elsõsegély-sátor, 13 - Katapult, 14 - Varázskönyv)
 1 # type (1 - Semmi, 2 - Kincs, 4 - Kisebb, 8 - Jelentõsebb, 16 - Ereklye)
@@ -17843,18 +17843,18 @@ Name: "actobj004"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Ásványforrás"
+Text 1: "Ásványvízforrás"
 Text 2: "Luck.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Ásványforrás}
+Text 8: """{Ásványvízforrás}
 
 A lovak nem tûnnek túl izgatottnak a sós víz ivásától, de hamarosan észrevesszük, hogy újult erõvel ágaskodnak. A szikrázó forrás fölött a párás levegõ cseppjein szivárvány alakul ki, és a látvány mindenkit vidám hangulatba hoz.""
 (+1 szerencse a következõ csatáig és +600 mozgáspont egy napig)
-""{Ásványforrás}
+""{Ásványvízforrás}
 
 Mindenkinek tele van már a hasa buborékos vízzel. Mára elég volt a folyadékpótlásból."""
 Has FilS: "false"
@@ -21908,7 +21908,7 @@ Térkép hiba: A kiterjesztett %s esemény során nullával való osztás történt. Az e
 # 1
 Térkép hiba: A kiterjesztett esemény helytelenül van konfigurálva, és túl sok mûveletet hajt végre (%d-nél többet). A lefagyás elkerülése érdekében az esemény végrehajtása leáll. A térkép további mûködése helytelen lehet.
 # 2
-%s talált egy harci gépet.
+%s talált egy Harci gépezetet.
 # 3
 %s talált egy varázskönyvet.
 # 4
@@ -22020,7 +22020,7 @@ Változók
 # 57
 Eseménytípus
 # 58
-Duplikált
+Duplikál
 # 59
 Esemény
 # 60
@@ -22226,7 +22226,7 @@ Jelenlegi játékos
 # 160
 Bármelyik játékos
 # 161
-Harci gép:
+Harci gépezet:
 # 162
 Új esemény
 # 163
@@ -22244,9 +22244,9 @@ Szinkronizálás más, azonos eseményû objektumokkal
 # 169
 Új létrehozása
 # 170
-Szerkesztés...
+Szerkeszt...
 # 171
-Másolat létrehozása...
+Másolat...
 # 172
 Valóban töröljük az összes eseményt? Nem fogjuk tudni utána visszaállítani!
 # 173
@@ -22418,7 +22418,7 @@ Szerencse módosítása
 Hangulat módosítása
 Harc a megadott egységek csoportjaival
 Más esemény végrehajtása. Nem tudja magát hívni
-Harci gép eladása vagy vétele
+Harci gépezet eladása vagy vétele
 Varázskönyv átadása vagy átvétele
 A jelenlegi esemény letiltása. Az esemény további meghívásai nem lesznek hatással
 A sorozat végrehajtása a tartományban lévõ változó minden értékére. A cikluson belül ez a változó nem módosítható
@@ -22431,7 +22431,7 @@ Ellenõrizze, hogy az elsõ érték kisebb, mint a második érték
 Ellenõrizze, hogy az elsõ érték nagyobb, mint a második érték
 Ellenõrizze, hogy az elsõ érték egyenlõ a második értékkel
 Logikai""""NEM"""": ellenõrizze, hogy a megadott feltétel nem teljesül-e
-A hõsnek van egy bizonyos varázstárgya vagy harci gépe
+A hõsnek van egy bizonyos varázstárgya vagy Harci gépezete
 Ellenõrizze, hogy az elsõ érték nagyobb vagy egyenlõ a második értéknél
 Ellenõrizze, hogy az elsõ érték kisebb vagy egyenlõ a második értéknél
 Ellenõrizze, hogy az elsõ érték nem egyenlõ a második értékkel
