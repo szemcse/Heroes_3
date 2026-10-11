@@ -22394,7 +22394,7 @@ Text 4: ""
 Text 5: ""
 Text 6: "# Hosszú mûveletnév leírások
 Szekvencia
-Ellenõrizze az állapotot, és az eredménytõl függõen hajtsa végre a mûveleteket. Utasítás. További Ha-Akkor ágak adhatók hozzá az \Ág Hozzáadása\ opcióval.
+Ellenõrizd az állapotot és cselekedj az eredmény alapján. További Ha-Akkor ágak az - Ág Hozzáadása - opcióval adhatók hozzá.
 Az eredménytõl függõen rögzítse az egyik értéket.
 A változó értékének módosítása
 Játékos erõforrásainak módosítása

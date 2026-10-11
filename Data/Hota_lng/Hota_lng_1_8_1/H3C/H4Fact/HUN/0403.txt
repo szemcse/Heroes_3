@@ -1,0 +1,694 @@
+===== Térkép neve =====
+Élve vagy halva
+
+===== Térkép leírása =====
+Le kell gyõznöd a merész kalózt, Dargem seregét, aki kihívta a pusztaság lakóit. Burton elvesztése vereséghez vezet. Hõseid a 18. szintig fejlõdhetnek, de a következõ forgatókönyvhöz magukkal vihetik a Varázslók Kútja és a Mágus Gyûrû mûtárgyak elemeit.
+
+===== Események =====
+
+Név:
+Regnan fõmágusai
+Szöveg:
+Dargem felbérelt egy egész csapat volt regnani varázslót!
+
+Név:
+Nyugati tündék
+Szöveg:
+Dargem zsoldosai között van néhány nyugati tünde. Állítólag kiváló mesterlövészek.
+
+Név:
+Dargem lövészei
+Szöveg:
+Dargem tekintélyes lövészcsapattal rendelkezik.
+
+Név:
+Portálok
+Szöveg:
+A kalózok az elmúlt hetekben folyamatosan portyáztak a Burton körüli területeken. Még portálokon keresztül is támadnak!
+
+Név:
+Homokférgek
+Szöveg:
+A keleti hegyekben furcsa, óriásférgekre emlékeztetõ lényeket láttak.
+
+Név:
+Arion nyomai
+Szöveg:
+Csempészek és zsoldosok vertek tábort a tengerparton. Úgy hallottam, mûtárgyakat vásárolnak és kalózfegyvereket árulnak.
+
+Név:
+Stanley nyomai
+Szöveg:
+Hallottad már a történetet egy kalózkapitányról, aki elvesztette az emlékezetét? Azt mondják, hogy sok tengeri kutya ma már medálokat hord, hogy megvédje magát  ez ellen.
+
+Név:
+Sötét tündék
+Szöveg:
+A sötét tünde kereskedõcéh még Jadame ezen részére is eljutott. Burtontól délre létesítettek egy kereskedelmi állomást.
+
+Név:
+Dargem múltja
+Szöveg:
+Dargem valaha boszorkánymester volt.
+
+Név:
+Steadwick bukása
+Szöveg:
+Azt mondják, hogy a távoli Erathia fõvárosa nemrégiben esett el elõször a történelemben.
+
+Név:
+Erathia helyreállítása
+Szöveg:
+Egy utazó mesélte, hogy Erátiában olyan háború dúl, amilyenre évszázadok óta nem volt példa.
+
+===== Idõzített események =====
+
+Név:
+AI - erõforrások-ellenõrzése
+Üzenet:
+
+
+Név:
+I. fejezet - Dargem
+Üzenet:
+Mint sok hasonló más helyen, amelyet kétségbeesett emberek alapítottak, akik bármit megtettek volna, hogy megváltoztassák az életüket, Burtonban is voltak sötétebb pillanatok. Az egyik ilyen pillanat a kalózokkal folytatott kereskedelem volt - nem a regnaiakkal, hanem a kitaszítottakkal, akiket még ez a törvénytelen birodalom is kivetett magából. Hajószerelvényeket, ágyúcsöveket, ágyúgolyókat és más, gátlástalan a kereskedelmükhöz szükséges kellékeket adtak el nekik. A fizetség bizonyos ritka anyagokkal történt, amelyek eredete után soha nem érdeklõdtek. Ez rövid ideig tartott, és csak kétségbeesésbõl történt, de a történelem eme darabkájától nem lehetett szabadulni.	Amint a dolgok jobbra fordultak, és legális források jelentek meg az ellátmány és egyéb szükségletek fedezésére, a kalózokkal való üzletelés elmaradt. A döbbenet közel sem volt elég erõs szó ahhoz, hogy leírja a tengerjárók reakcióját erre a fejleményre; teljesen kiakadtak ettõl.	"Talán mi is szívesen lennénk becsületes kereskedõk! De nem, a fenébe is nem, kiderült, hogy ehhez nem elég szép a pofánk!" - dühöngött az egyik banda vezére, egy Dargem nevû, különösen kellemetlen figura. 	"Jól van, csak várjatok - morogta. " Ideje megmutatni ezeknek a szárazföldi patkányoknak, hogy az üzleti partnerekkel való tiszteletlenségének ára van."	Dargem állta a szavát; több kalózbanda is összefogott, hogy elvágják Burton összes kereskedelmi útvonalát, és elkezdték kifosztani az ellátmányszállító szekereket. A helyzet kezdett kritikussá válni.
+
+Név:
+II. fejezet - Boyd
+Üzenet:
+Sürgõsségi tanácskozást hívtak össze, hogy megoldást találjanak a kritikus helyzetre. A tanácskozáson sok történetet hallottam a városlakóktól Dargem és bandája által elkövetett atrocitásokról. Néhányuk a tûzõ jadamei nap ellenére is borzongató volt! 	Volt azonban egy történet, amely igazán felkeltette az érdeklõdésemet: egy bizonyos Boydról szólt, akit Dargem állítólag még a kalózok mércéje szerint is rendkívül kegyetlen módon végzett ki. A történetnek több változata is létezett, de mindegyikben egyetértettek abban, hogy egy Boyd nevû fiatalember, egy kalandor és lázadó, egyszer csatlakozott egy Jolly Roger zászlót lobogtató vitorlás legénységéhez, új izgalmakra vágyva, hogy gazdagítsa tapasztalatait. Természetes tehetsége volt a vicces történetek meséléséhez és a trágár dalok énekléséhez, így gyorsan a legénység középpontjává vált – kivéve a vitorlás kapitányát, Dargemet, akinek ez nem nagyon tetszett.		Mivel még elég fiatal volt ahhoz, hogy kalózvezér legyen, csak egy módszert ismert, amivel rendben tudta tartani a legénységét: a félelem és a fenyegetések. Ismerte a levegõmágiát, így fenyegetései nem voltak üresek; senki sem akarta felbosszantani, hogy aztán hirtelen fulladásban vagy éppen tüdõrepedésben haljon meg. Ugyanakkor képes volt gyorsabban hajtani a hajóját, mágikus forgószelekkel felfújva a vitorlákat, és légpajzsával blokkolni a nyilakat és az ágyúgolyókat. Ennek köszönhetõen emberei ritkán maradtak gazdag zsákmány nélkül, így soha nem volt hiány a legénységét pótolni vágyó jelöltekbõl.		Az egyik ilyen jelölt, mint Boyd volt, olyan gondatlanul sértette meg a kegyetlen kapitány tekintélyét. Egyszerû féltékenységbõl, vagy valami más okból? Akárhogy is, Boydnak a végzete volt. Sok elmélet született arról, hogy mi okozta végül a konfliktust, de egy öreg fogadós, akinek egyszer az a kellemetlen feladat jutott, hogy a komor kalózok legénységét házon belüli lakomával vendégelje meg, véletlenül meghallott egy történetet. Eszerint egy szerencsétlen kalózra rákényszerítették, hogy a tûzõ napon táncoljon a hurkokkal a nyakán, de elõtte meggyõzõdtek arról, hogy a hurok nem fojtja meg azonnal. Ezt garantálni egy képzett mágus számára kis kihívás volt.		Így lógott ott, etette a sirályokat, és amikor a hajó Jadame partjainál kikötött, Dargem elcserélte a csontjait egy komor kinézetû banditának egy kalap tolláért, amellyel díszítette háromszögletû kalapját utána. Nem tudni, hogy az utóbbi mit csinált a csontokkal, de azóta terjednek a pletykák, hogy utazók találkoztak egy élõhalott kalóz csontvázával, aki éjszaka Dargem nevét kiabálta. Néhány szemtanú még azt is hozzátette, hogy a csontváz kardot lengetett, titokzatos lángok törtek elõ a szemébõl, és a lábai alatt a föld nyögött és megduzzadt. A félelem a hangyabolyokat hegyeknek látja, gondoltam, de talán meg kellene próbálnom megkeresni ezt az élõhalott bosszúállót. Ahogy mondani szokták, az ellenségem ellensége az én... nem, nem a barátom. Nem vagyok oda a halottakkal való barátságért! Mondjuk... szövetségesnek. Vagy valami ilyesminek, jó lesz talán.
+
+Név:
+Új mesterek
+Üzenet:
+Új idõk köszöntöttek Burtonra. Az ogre-probléma megoldásával, valamint a helyi termékek Orca’s Maw kikötõjében található piacra történõ folyamatos szállításának biztosításával az élelmiszerhiány veszélye elhárult. A városlakók most már nem csak a következõ nap munkájára tudtak tervezni. Frederick és Sam folyton a kikötõbe mentek, hogy találkozzanak más társaikkal, akiket rábeszéltek, hogy költözzenek Burtonba. Néhányan alig többet hoztak magukkal, mint néhány könyvet és egy szerszámosládát, mások egész hajónyi alkímiai felszerelést, ritka reagenseket és mûszereket hoztak.				Bertram nevû törpe keltette a legnagyobb feltûnést; a pletykák szerint a karavellájáról kirakott tucatnyi hordó tele volt arannyal. Igaz volt-e vagy sem, de érkezése után hamarosan a városba özönlöttek a bevándorlók mindenféle helyrõl, és mindannyian jól fizetõ állást kaptak. Új lakónegyedek keletkeztek; a termelés átkerült az otthoni kovácsmûhelyekbõl az új gyárépületbe, amelynek magas boltozatát acélgerendák és -tartók támasztották alá.
+
+Név:
+Zog
+Üzenet:
+Nos... azok a helyiek, akik azt mondták, hogy a helyi ogrék feletti uralmunk nem fog sokáig tartani, igazuk volt.		Amikor elfoglaltuk Zog erõdjét, a fõnöknek nyoma sem volt. A csata akkor ért véget, amikor a Vasököl nevû óriás egy bombát kapott pont a szeme közé. Késõbb megvizsgáltuk a holttestet – bár a fejébõl nem maradt semmi, a szövetséges zöldbõrûek parancsnokai határozottan állították, hogy nem Zogé volt. Úgy tûnik, a Sakál a csata utolsó perceiben elmenekült, és egyik csatlósát hagyta hátra, hogy elterelje a figyelmünket.		Õszintén hittem, hogy megmutattuk az ogreknek az erõnket és az akaratunkat, és hogy elfogadnak egy meg nem támadási szerzõdést, ha nem is egy nyílt szövetséget. Még abba is beleegyeztem, hogy átadjuk nekik a Öklöt a jó szándékunk jeléül – úgyis alig tudtam kezelni azt a vas szörnyûséget. Brum, az ogre, aki az egyik szövetséges erõnket vezette, majd az összes helyi törzs idõsebbjeinek gyûlésén új fõnöknek választották, békét ígért nekünk, de az csak néhány hétig tartott. Aztán megérkezett a hír, hogy Brum már nincs többé. Elsõ adógyûjtõ útján a fõnök ellenségei lesben álltak, és a katapultokból kilõtt lövedékek tûpárnává változtatták. A katapultok pedig burtoni gyártmánynak bizonyultak.		Morton volt a felelõs a rakétavetõ fegyvereinkért; õ egy zavaros sorsú, ideges természetû, magába zárkózott Manó volt, de mestere volt a szakmájának. Behívtuk egy tanácskozásra, és megkérdeztük tõle, hogy tudja-e, hogyan kerülhettek azok a gépek a kezükbe, de õ csak dühösen nézett ránk, és minden vádat visszautasított. Nem volt bizonyíték a bûnösségére, így vissza kellett lépnünk... de úgy tûnt, Morton mélyen megsértõdött. 	Pont akkor, amikor diplomáciai küldetésre akartuk küldeni, hogy kapcsolatot teremtsen a helyi Manó törzsekkel. Istenek, miért olyan nehéz kormányozni az embereket?.. és a nem egészen embereket is! 
+
+Név:
+Eeofol
+Üzenet:
+Ahogy az bevándorlók megérkeztek, az elsõ hírek a démonok inváziójának következményeirõl eljutottak távoli földjeinkre. Eeofol elpusztult. Porig rombolták. Nem maradt egyetlen virágzó kert sem, egyetlen kristálytiszta tó sem. Csak végtelen hegygerincek, lángokat és maró füstöt okádva, mögöttük kegyetlen démonok hordái nyüzsögtek. Saját szememmel láttam a megszállott Xarfaxot és a helyõrség katonáit – szörnyû és undorító látvány volt; úgy tûnt azonban, hogy a démonok végül nem tudták leigázni a többi erathiai elméjét. Talán megtanulták, hogyan védjék meg magukat, vagy talán a démonok egyszerûen nem voltak olyan erõsek, mint azt az elsõ összecsapásaink után gondoltuk; bármi is volt az oka, a mennyei vendégek nem tudták átlépni Eeofol határait. Még a Tûzpart is Erathia ellenõrzése alatt maradt, bár az ébredõ vulkánok gondot okoztak.		Beszélgetve azokkal, akik a hírt hozták, hangot adtam örömömnek, hogy a bajok nem követeltek több ezer áldozatot Erathiában és AvLee-ben, ellentétben a tudatlanságunkból fakadó borzalmas jóslatainkkal – de a szívem fájdalmasan kiáltott. Csak egy dologra volt kíváncsi: miért Eeofol és nem Erathia?
+
+Név:
+Õrszem Robotok
+Üzenet:
+Már nem segítettem Fredericknek a mûhelyében, mert most már saját dolgom volt. Nem is vettem észre, hogy mikor történt, de egy bizonyos ponton mindenki Burton segédmunkásának kezdett nevezni. Mégis, továbbra is érdekelt a régi barátom fejlõdése, és tudtam, hogy õ tervezte és építette a továbbfejlesztett gõzgépet. Túl nehézkes és nehéz volt ahhoz, hogy léghajóra szereljék, de gyári erõmûnek tökéletes volt; segített megsokszorozni a fémmegmunkáló gépek tengelyeinek nyomatékát. Most már a gyár önmagát építette: a továbbfejlesztett gépek segítettek új szerkezeti elemeket létrehozni, és a létesítmények folyamatosan növekedtek és bõvültek.		Frederick most már teljes mértékben az energiaágazatnak szentelte magát, és nem volt ideje más régi projektjeinek folytatására. Sok közülük azonban az újonnan érkezett mesterek kezei között fejlõdött tovább. Az egyikük, egy kissé furcsa kinézetû, õsz hajú férfi, akit Toddnak hívtak, magára vállalta a Robotok tömeggyártását. Jó egy hónapot töltött bezárva egy hangárban, Frederick Eeofolból hozott prototípusaival, néhány asszisztenssel, különféle szerszámokkal és egy hatalmas kosárnyi Tatu szárított húsával. Amikor végre kilépett önkéntes bezártságából, úgy nézett ki, mintha egy hónapja egy szemhunyásnyit sem aludt volna, de az örömtõl sugárzott. Mellette két teljesen összeállított modell mutatta meg csillogó, polírozott oldalát, õ pedig büszkén támaszkodott könyökével egy halom tervrajzra és folyamatábrára. Vicces visszaemlékezni, hogy abban a pillanatban az én benyomásom azzal kezdõdött és végzõdött, hogy a papírhalom észrevehetõen magasabb volt nálam – még akkor is, ha lábujjhegyre álltam.		Természetesen már láttam Robotokat, ahogy elõkészítik a léghajóinkat, de Burton többi lakója nagyon lenyûgözött volt, amikor a gépeket kiállították a téren. Képzelj el egy hat mechanikus lábon álló fém szerkezetet, amelynek mérete megközelítõleg egy felnõtt tatúé, és amely úgy néz ki, mint egy keveréke a Ravage Roaming partjain gyakran látható ráknak és a Murmurwoods-i húsevõ póknak. A szerkezet belsejébõl bugyborékoló hang hallatszott, és a számos szelepbõl vékony gõzfoszlányok szöktek ki; acélvázának részei remegtek, ízületei pedig enyhén nyikorogtak. Az automata olyan forró volt, mint egy vízforraló – nos, valójában nagy része valóban egy vízforraló volt; a fejébõl kiálló erõs csipesz nagyon fenyegetõnek tûnt, és a Burton-i fiatalok, akik lenyûgözni akarták a lányokat, újra és újra odarohantak, és a kezüket a fém pókos rák állkapcsába dugták. Nem is sejtették, hogy a túlhevített gõzüzemû hajtómûve önmagában sokkal nagyobb veszélyt jelenthet másokra, mint bármilyen állkapocs vagy végtag...		Frederick bizalmasan elmondta nekem, hogy Todd nem tudta teljesen megoldani a kis megbízhatósági problémát – csak korlátozta a gép standard teljesítményét, de megtartotta a lehetõséget, hogy szuperkritikus üzemmódra váltson. Azonban lehetetlen volt kikapcsolni, ha egyszer bekapcsolták. Természetesen a modellrõl eltávolították a funkcióért felelõs alkatrészt, de én mégis inkább távol maradtam tõle.
+
+Név:
+Mesterlövészek
+Üzenet:
+Burton most már a pénz illatát árasztotta, és ez az illat mágnesként hatott, vonzva mindazokat, akik szerették volna megszerezni maguknak, mindazokat, akik hajlandóak voltak pénzért visszatartani az elõbbieket. Érdekes módon mindkét csoport többsége ugyanabból a körbõl származott: kalózok voltak. Nem mindazok, akik korábban üzleteltek a burtoni kézmûvesekkel, engedtek Dargem kérésének, hogy jöjjenek és erõszakkal vegyék el, amire szükségük volt. A megfontoltabbak látták az elõnyt abban, hogy a gyorsan növekvõ város szolgálatába állnak. Ráadásul megígérték nekik a burtoni mûhelyekben készített legfejlettebb és legerõsebb fegyvereket, ami természetesen nagyon jó csábító tényezõ volt.		A városlakók gyanakodva nézték ezeket a komor férfiakat; a zsoldosok, akik szárazföldön és tengeren egyaránt hatékonyak voltak, többnyire fejvadászként dolgoztak. Fegyverük hatalmas kaliberû és nagyon bonyolult szerkezetû harci puska volt. Nyilvánvaló volt, hogy a fegyveresek milyen gondosan ápolták a szakmájukhoz szükséges eszközöket: réz és acél alkatrészeik fényesre voltak csiszolva, és a napfényben ékszerként csillogtak, keményfa nyakuk pedig gondosan volt polírozva és lakkozva. Köpenyük gyanúsan kidudorodott derékmagasságban; alatta nem olyan durva pisztolyok voltak elrejtve, mint amilyeneket a kalózok használtak, hanem olyan kifinomult és drága fegyverek, mint a harci puskák. A pletykák szerint ezek a titokzatos fegyverek már számtalan Dargem-féle csatlósnak okoztak végzetes sebeket; egy jól kiképzett és fegyelmezett lövész mindig gyorsabb volt, mint egy állandóan részeg kalóz és sima csövû zsebágyúja, bármilyen büszke tengeri farkas is volt az utóbbi.
+
+Név:
+Nemerthea
+Üzenet:
+Egy öreg halász érkezett Burtonba; a kis kikötõ közelében lakott, ahol a kalózok korábban kereskedni szoktak. Üzeneteket hagytak neki, amelyekben a következõ csere idõpontját javasolták. Azt mondta, hogy többször is látott ismerõs fekete vitorlákat a horizonton, az utóbbi napokban egyre gyakrabban.		“A kék szépség hívja a lányait. És mondom neked, nagy erõvel jönnek majd – minden kikötõben van férjük. Ha mindet összegyûjtik, akkor még te is nagy bajba kerülsz, engem pedig egyszerûen felfalnak, csontig. Angyali arcuk van, de cápafogaik…”
+
+Név:
+Melchior kihallgatja a kalózokat
+Üzenet:
+Ha van felderítés, akkor kell lennie valakinek, aki az ellenségnek dolgozó felderítõket kezeli. Burtonban volt egy ilyen ember, Melchior névre hallgató. Kedves beszédû és udvarias volt, bárkit megnyugtatott, és rábeszélt arra, hogy megosszon vele olyan dolgokat is, amelyekrõl maga sem tudott. És most lebuktatott egy kalóz kémet. A Mesterlövészek állásinterjúja, amely egy tájékozatlan szemlélõ számára hosszú és zavaros volt, ismét hatékonynak bizonyult: a jelölt összeomlott egy váratlan kérdés miatt, amely a beszélgetés menetét teljesen megszakította, és a nagy fizetés legjobb elköltési módjáról szólt. 		A kihallgatáson ez a pöffeszkedõ, szemtelen alak elõször nevetett és fenyegetõzött, azt állítva, hogy nem fél sem a veréstõl, sem a haláltól, és hogy biztosan bosszút áll... Azonban elég volt egy perc egy Robot társaságában, amely óvatosan fogta a fogoly testének bizonyos kiálló részeit a szájában, és az utóbbi hirtelen rendkívüli ékesszólással kezdett el beszélni.		Kivonatok a kihallgatási jegyzõkönyvbõl:				...több varázslót csábított magához, mindegyiknek egy varázsló kalapot ígérve...				...természetesen átverte az öreg bolondokat, de most úgy tûnik, nincs más választásuk...				...Dargem nevet a robbanószerkezeteiden és golyóidon. Biztos benne, hogy szétlapít titeket, mint egy csapat csótányt. Ráadásul több erõdje is van, ahol a csatlósai megtelepedtek...				...Dargemet nem fogjátok elkapni. Hacsak persze nem tudtok a vízen járni...
+
+Név:
+Portál figyelmeztetés (141)
+Üzenet:
+A felderítõk aggasztó híreket hoztak. Burton környékén több õsi portál is volt, de mindenki úgy vélte, hogy azok már rég feledésbe merültek, és erejük is megszûnt. Senki sem számított arra, hogy újra életre kelnek, és nem tekintették õket lehetséges fenyegetésnek – de most úgy tûnt, mintha valaki megpróbálná újraaktiválni õket: a portálokban a levegõ kavargott, és villódzó fények látszottak benne...
+
+Név:
+Steadwick bukása
+Üzenet:
+Ma a távoli Antagarichból menekültek érkeztek Burtonba. Nem, nem migránsok, hanem menekültek! Olyan híreket hoztak, amelyektõl rosszul és szégyenkezve éreztem magam, mintha az én gondolataim idézték volna elõ ezt a bajt. Távol, az óceán túloldalán háború tört ki: Nighon alvilági uralkodói összefogtak a démonokkal! Nehéz volt elhinni, hogy a mennyei vendégek ilyen gyorsan találtak szövetségeseket, de a tények azok tények. Erathia még mindig a Gryphonheart király rejtélyes halálának hatása alatt állt, és pletykák szerint fõvárosa, Steadwick, máris a démonok és az alvilági uralkodók közös erõinek kezére került.
+
+Név:
+Dargem erõdje
+Üzenet:
+A kalóz kém laza nyelve elárulta, hogy Dargem fõ erõdje valószínûleg egy szigeten található. Valóban így volt, de a szigetet bevehetetlen sziklák vették körül, és a hullámok rettenetes erõvel csapódtak nekik. A legközelebb, ahová megfigyelés céljából eljutottunk, legalább egy mérföldre volt a parttól. Bárcsak találnánk egy módot, hogy Dargemet kicsalogassuk a bástyájából! Lehet, hogy van valamilyen kommunikációs eszköz a kalózok erõdjei között?
+
+Név:
+Hírek Catherine-rõl
+Üzenet:
+Ma találkoztunk egy erathiai kereskedõ kapitánnyal. A háború folytatódik, de úgy tûnik, még van remény! Catherine királynõ csapatokat gyûjt, hogy visszafoglalja a fõvárost, és már több démoni sereget és Nighon urait is elûzte! Sõt, ugyanazon kereskedõ által terjesztett pletykák szerint AvLee és Bracada segítséget akartak nyújtani Erathiának a démonok elleni küzdelmében.
+
+Név:
+Steadwick felszabadítása
+Üzenet:
+Egy antagarichi kereskedõ jó hírt hozott: Steadwicket felszabadították! A démonokat és a föld alatti egységeket egész Erathia területén üldözik, és állítólag hamarosan megszabadulnak tõlük. 	A kereskedõ néhány apró információt is megosztott Tatalia és Krewlod közötti konfliktusról, valamint arról, hogy Gavin Magnus csapata hogyan segítette Erathia-t, de én már nem figyeltem...		Már nem tartottam a Kreeganokat legyõzhetetlennek. Éjszakánként még mindig sikítva ébredtem, amikor az égi betolakodók csúnya arcai megjelentek az álmaimban, de ha az emberek és a tündék képesek voltak harcolni ellenük, talán mi is egy nap bosszút állhatunk rajtuk. Azonban ez nem volt sem a megfelelõ idõ, sem a megfelelõ hely, hogy komolyan elgondolkodjak ezen. Burton igényei teljes energiámat igényelték.
+
+Név:
+Figyelmeztetés
+Üzenet:
+A hírek szerint Dargem megerõsíti erõdítményét. Ha egy hónapon belül nem tudjuk legyõzni a kalózok seregét és most nem jutunk el az erõdjéhez, akkor már túl késõ lesz ezt késõbb megtennünk.
+
+Név:
+2. Figyelmeztetés
+Üzenet:
+Egy Dargem szigetérõl megszökött tengerész azt mondta, hogy a kalózok ott kétségbeesetten dolgoznak az erõd védelmének kiépítésén. Úgy tûnik, hogy legfeljebb egy hónapunk maradt a meghódítására.
+
+Név:
+3. Figyelmeztetés
+Üzenet:
+Burtonból érkezõ hírek szerint a Félszerzetek nagyon riadtak, és mindenkit, aki fegyvert tud fogni, felszólítanak, hogy csatlakozzon a milíciához, és vonuljon Dargem ellen. Csak két hetünk maradt, hogy elfoglaljuk a kalózok erõdjét.
+
+Név:
+Bukás
+Üzenet:
+A kalózoknak sikerült erõdjüket áthatolhatatlanná tenniük. Megtámadni már nem lehet, még Boyd ereje sem segít. Lejárt az idõnk.
+
+===== Hõsök =====
+
+===== Tárgyak =====
+
+(86, 97, 0) ***Cove***
+Név:
+Nighonetto
+
+Idõzített események:
+
+Név:
+AI - 211 - Nagy bónusz
+Üzenet:
+
+
+Név:
+AI - 311 - Hatalmas bónusz
+Üzenet:
+
+
+(82, 14, 0) ***Necropolis***
+Név:
+Dry Gullet
+
+(96, 1, 0) ***Titok Kunyhó***
+Üzenet:
+A Lich-ekkel vívott harc után óvatosan benézel a kunyhóba. Bent egy hatalmas üstöt látsz, amelyben egy nekromanta valami fõzetet kever.	“Láttam, hogyan bántál a Lich-ekkel” – mondja a nekromanta. “Be kell vallanom, lenyûgözött. Tudod... az elmúlt években új típusú élõhalott sárkányok létrehozásának folyamatát tanulmányoztam, de a Jadame-i Nekromanták Céhe betiltotta ezt a kutatást, attól tartva, hogy a sárkányok ellenõrizhetetlenné válnak. Bolondok! Gyávák! Fogalmuk sincs, milyen hatalmat utasítanak el! Nemrég fedeztem fel egy teljesen új módszert a szellem sárkányok létrehozására, de nincs elég alkímiai anyagom a kísérletekhez. Nehéz elegendõ higanyhoz jutni ezeken a vidékeken, de biztos vagyok benne, hogy te segíthetsz nekem. Cserébe adhatok neked néhányat a már létrehozott szellem sárkányok közül.”
+Azt hiszem, a higanyról beszéltünk. Attól tartok, más nyersanyag nem lenne alkalmas a kísérleteimhez.
+Ez a higany pontosan az, amire szükségem van! Már több szellem sárkányt is létrehoztam, és hajlandó vagyok átadni õket neked. És még egy dolog. Ha van csont sárkányod, hozd el nekem, és én... elvégzek rajtuk egy kis munkát.				Átadod a higanyt a nekromantának cserébe a Szellem sárkányokért?
+Hozz nekem egy Csontsárkányt, hogy átalakíthassam egy még hatalmasabb élõhalott lénnyé.
+Hozz nekem egy Csontsárkányt, hogy átalakíthassam egy még hatalmasabb élõhalott lénnyé.
+Átadsz egy Csontsárkányt a nekromantának, hogy Szellemsárkánnyá változtassa?
+
+(27, 54, 0) ***Titok Kunyhó***
+Üzenet:
+A korábban Dargem szolgálatában álló zsoldosok megálltak a csempészek táborában, az öböl partján. A kalózok szívesen csatlakoznak a seregéhez, ha fizetsz nekik 16 Higanyt, 16 Kristályt és 15000 Aranyat.
+A korábban Dargem szolgálatában álló zsoldosok megálltak a csempészek táborában, az öböl partján. A kalózok szívesen csatlakoznak a seregéhez, ha fizetsz nekik 16 Higanyt, 16 Kristályt és 15000 Aranyat.
+Felbérelsz 15 Kalózt 16 Higanyért, 16 Kristályért és 15000 Aranyért?
+A korábban Dargem szolgálatában álló zsoldosok megálltak a csempészek táborában, az öböl partján. A kalózok szívesen csatlakoznak a seregéhez, ha fizetsz nekik 24 Higanyt, 24 Kristályt és 30000 Aranyat.
+A korábban Dargem szolgálatában álló zsoldosok megálltak a csempészek táborában, az öböl partján. A kalózok szívesen csatlakoznak a seregéhez, ha fizetsz nekik 24 Higanyt, 24 Kristályt és 30000 Aranyat.
+Felbérelsz 15 Kalózt 24 Higanyért, 24 Kristályért és 30000 Aranyért?
+A korábban Dargem szolgálatában álló zsoldosok megálltak a csempészek táborában, az öböl partján. A kalózok szívesen csatlakoznak a seregéhez, ha fizetsz nekik 32 Higanyt, 32 Kristályt és 45000 Aranyat.
+A korábban Dargem szolgálatában álló zsoldosok megálltak a csempészek táborában, az öböl partján. A kalózok szívesen csatlakoznak a seregéhez, ha fizetsz nekik 32 Higanyt, 32 Kristályt és 45000 Aranyat.
+Felbérelsz 15 Kalózt 32 Higanyért, 32 Kristályért és 45000 Aranyért?
+A korábban Dargem szolgálatában álló zsoldosok megálltak a csempészek táborában, az öböl partján. A kalózok szívesen csatlakoznak a seregéhez, ha fizetsz nekik 40 Higanyt, 40 Kristályt és 60000 Aranyat.
+A korábban Dargem szolgálatában álló zsoldosok megálltak a csempészek táborában, az öböl partján. A kalózok szívesen csatlakoznak a seregéhez, ha fizetsz nekik 40 Higanyt, 40 Kristályt és 60000 Aranyat.
+Felbérelsz 25 Kalózt 40 Higanyért, 40 Kristályért és 60000 Aranyért?
+
+(36, 24, 0) ***Jel***
+Üzenet:
+Alvar Kereskedõcéh Kereskedelmi Állomás
+
+(18, 32, 0) ***Titok Kunyhó***
+Üzenet:
+A mágikus tekercsek nagyon hasznosak lehetnek, de semmi sem ér fel azzal, ha valaki ténylegesen ismeri a varázslatot. Az elmúlt években ritka varázslatok mesteri szintû elsajátítására tanítottam mágusokat, és neked is segíthetek. Hozz nekem egy tekercset a Hipnotizálás varázslattal, és megtanítom neked; cserébe azonban megkérem, hogy add nekem a tekercset. Tudok a kalózok támadásairól, ezért nem számolok fel díjat a szolgáltatásomért.	A Hipnotizálás varázslat tekercseit nem könnyû beszerezni, de hallottam, hogy az egyik tekercset egy ogre mágus vesztette el keleten. Azt mondják, hogy az élõhalottak nemrég elárasztották azokat a földeket.
+Sajnos, a megfelelõ varázstekercs nélkül nem tudok segíteni.
+Tökéletes! Ez a tekercs pontosan az, amire szükségem van! Meg akarod tanulni a Hipnotizálás varázslatot?
+A mágikus tekercsek nagyon hasznosak lehetnek, de semmi sem ér fel azzal, ha valaki ténylegesen ismeri a varázslatot. Az elmúlt években ritka varázslatok mesteri szintû elsajátítására tanítottam mágusokat, és neked is segíthetek. Hozz nekem egy tekercset az Anti-mágia varázslattal, és megtanítom neked; cserébe azonban megkérem, hogy add nekem a tekercset. Tudok a kalózok támadásairól, ezért nem számolok fel díjat a szolgáltatásomért.	Az Anti-mágia varázslat tekercseit nem könnyû beszerezni, de hallottam, hogy a vándorló gremlin, aki nemrég járt a kunyhómban, volt neki egy. Talán még mindig a környéken van.
+Sajnos, a megfelelõ varázstekercs nélkül nem tudok segíteni.
+Tökéletes! Ez a tekercs pontosan az, amire szükségem van! Meg akarod tanulni a Anti-mágia varázslatot?
+A mágikus tekercsek nagyon hasznosak lehetnek, de semmi sem ér fel azzal, ha valaki ténylegesen ismeri a varázslatot. Az elmúlt években ritka varázslatok mesteri szintû elsajátítására tanítottam mágusokat, és neked is segíthetek. Hozz nekem egy tekercset a Jókedv varázslattal, és megtanítom neked; cserébe azonban megkérem, hogy add nekem a tekercset. Tudok a kalózok támadásairól, ezért nem számolok fel díjat a szolgáltatásomért.	A Jókedv varázslat tekercseit nem könnyû beszerezni, de hallottam, hogy egyet elvesztettek valahol ezekben a hegyekben.
+Sajnos, a megfelelõ varázstekercs nélkül nem tudok segíteni.
+Tökéletes! Ez a tekercs pontosan az, amire szükségem van! Meg akarod tanulni a Jókedv varázslatot?
+A mágikus tekercsek nagyon hasznosak lehetnek, de semmi sem ér fel azzal, ha valaki ténylegesen ismeri a varázslatot. Az elmúlt években ritka varázslatok mesteri szintû elsajátítására tanítottam mágusokat, és neked is segíthetek. Hozz nekem egy tekercset a Fantomkép varázslattal, és megtanítom neked; cserébe azonban megkérem, hogy add nekem a tekercset. Tudok a kalózok támadásairól, ezért nem számolok fel díjat a szolgáltatásomért.	A Fantomkép varázslat tekercseit nem könnyû beszerezni, de hallottam, hogy egyet elvesztettek egy sziget öblének közelében.
+Sajnos, a megfelelõ varázstekercs nélkül nem tudok segíteni.
+Tökéletes! Ez a tekercs pontosan az, amire szükségem van! Meg akarod tanulni a Fantomkép varázslatot?
+
+(25, 16, 0) ***Titok Kunyhó***
+Üzenet:
+A múltban már számos fegyverrel kísérleteztem, de csak nemrég értem el olyan eredményt, amire büszke lehetek. Sajnos nincs elég nyersanyagom ahhoz, hogy megépítsem az új, általam tervezett fegyvert, és ha lenne is, nem sokan lennének hajlandók kipróbálni. Találnál nekem néhány megfelelõ anyagot? Szükségem van egy jelentõs mennyiségû kénre és drágakõre, valamint aranyra, hogy fedezni tudjam a munkám költségeit.
+Nincsenek anyagok? Kár. Pedig ahogy hallottam, nagyon jól jönnének az új fegyvereim.
+Kiváló! Ha szeretnéd, azonnal megkezdhetem a fegyverek gyártását.
+A fegyvereim rendkívül hatékonyak, de attól tartok, hogy a soraidban nem sokan vannak, akik hajlandóak kipróbálni õket. Azonban hallottam, hogy a zsoldos Kalózok között vannak kiváló lövészek. Hozz nekem néhányat, és örömmel megtanítom õket az új fegyverek használatára.
+Még mindig nincsenek Kalózok? Hallottam, hogy a part déli részén van egy zsoldos tábor. Az ottani emberek egykori Kalózok, akik nem voltak hajlandók Dargemmel együttmûködni. Talán õk segíthetnek neked?
+Látom, megtaláltad a megfelelõ embereket, akik kipróbálhatják az új fegyvereimet. Szeretnéd õket most újrafelszerelni?
+
+(1, 3, 0) ***Titok Kunyhó***
+Üzenet:
+Sokan foglalkoznak mágikus tárgyakkal, de manapság ezek elkészítése már szinte teljesen elveszett mûvészet. Én azonban rendelkezem mind a tudással, mind a tapasztalattal a tárgyak mágikus tárgyakká alakításában, és hajlandó vagyok elkészíteni neked egy igazi mágikus tárgyat.	Hozz nekem 50 Higanyt, 50 Ként, 50 Kristályt és 50 Drágakövet, és én elkészítek neked egy köpenyt, amely megnöveli a csapataid sebességét a csatában.
+Ez nem elég. 50 Higanyra, 50 Kénre, 50 Kristályra és 50 Drágakõre van szükségem, nem kevesebbre!
+Aha! Pontosan erre van szükségem! Szeretnéd megkapni a Fürgeség köpenyét?
+
+(91, 66, 0) ***Titok Kunyhó***
+Üzenet:
+Belépsz egy kis cölöpökre épült kunyhóba, ahol egy tünde halászhálókat turkál. Nyilvánvalóan utálja a halászok munkáját, és nem is úgy néz ki, mint egy halász; inkább egy mágusra emlékeztet.	“Azt hittem, visszajöttek a kalózok” – mondja a tünde. “Kalózok és banditák is jártak itt, de mit vihetnének el? Halak és hálók, ennyi.	 Az egyetlen kincsem, a Sebezhetõség Varázsömbje elveszett, amikor a sárkányok megtámadták a könyvtáramat. Furcsa módon csak néhány dolgot égettek el, de elvitték a legértékesebb tulajdonomat. Hallottam, hogy a szárnyas szörnyek elvitték a varázstárgyat az “utópiájukba”, félúton innen Burtonig, de hiába próbáltam többször is megközelíteni a sárkányok barlangját, mindhiába volt, ott voltak. Soha nem lennék képes legyõzni egyetlen szárnyas sárkányt sem. Most láttam, ahogy harcoltál a kalózokkal. Ha megszereznéd a gömbömet, örömmel megtanítanám neked, amit én magam is tudok. Mit szólsz hozzá?”
+Sajnálom, de szükségem van a Sebezhetõség Varázsgömbjére, és semmi más nem felel meg nekem helyette!
+Azt hittem, soha többé nem látom viszont a gömbömet! Azt mondod, a sárkányok óvatosak voltak vele? Ez érdekes. Akárhogy is, most már visszamehetek a könyvtáramba.
+Te betartottad az egyezségedet, én is betartom az enyémet.
+Sajnálom, de nem segíthetek. Csak egy igazán hatalmas mágus profitálhat az óráimból.
+A tehetséges mágusokat azonnal fel lehet ismerni! Engedd meg, hogy bevezesselek a varázslás rejtelmeibe.
+
+(56, 107, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(0, 54, 0) ***Kapitány***
+Név:
+Nemerthea
+
+(93, 16, 0) ***Börtön***
+Név:
+Boyd
+Önéletrajz:
+Minden ijesztõ történetben szerepel egy lovas, akit felakasztottak, leszúrtak vagy akár lefejeztek, és most éjszakánként lovagol, hogy bosszút álljon gyilkosain. Nonszensz, mondaná egy nekromanta, egy saját erejébõl feltámadt halott nem rendelkezhet emlékezettel vagy akaraterõvel. Lehet, hogy így van, de Boydnak nemcsak azzal az árulóval van elszámolnivalója, aki megölte, hanem azzal is, aki megtagadta tõle a békés pihenést.
+
+(15, 99, 0) ***Navigátor***
+Név:
+Evadne
+
+(101, 80, 0) ***Navigátor***
+Név:
+Swarn
+
+(58, 63, 0) ***Küldetésõrzõ***
+Üzenet:
+Ha nem az idegenvezetõd utalása lett volna, semmit sem vettél volna észre itt. Tanácsát követve egy dudort pillantasz meg, ami közelebbrõl megvizsgálva egy sárral és fûvel borított hatalmas ládának bizonyul. Miután lesöpöröd a ládáról a sárt és a füvet, sárkányokat és kígyókat ábrázoló díszítésre bukkansz rajta. Nyilvánvalóan ez a láda már nagyon régóta, talán évszázadok óta itt van, de eddig senkinek sem sikerült kinyitnia.				Valóban – nem találsz rést a fedél és a falak között, sem kulcslyukat, de a díszek között két apró lyukat látsz, amelyek sárkányszem alakúak... vagy sárkányszemû gyûrûk lenyomata?
+Még mindig nem tudod kinyitni a ládát. Az egyetlen, amit tehetsz, hogy megkeresed a kulcsait azaz a gyûrûket amelyeket sárkányszemek díszítenek.
+Miután a gyûrûket a megfelelõ helyre tetted, örömmel látod, hogy a láda most már kinyitható. Belül egy sárkánypikkelyekbõl készült mágikus pajzsot találsz. Elveszed a pajzsot a ládából?	
+
+(73, 10, 0) ***Titok Kunyhó***
+Üzenet:
+A kriptában egy sötét páncélban lévõ, elmélyült gondolkodásba merült zombi fogad.	“Hallom, nem én vagyok az egyetlen, aki Dargem kalózainak kezétõl szenvedett. Igaz?! Egyszer régen a céh karavánjainak õre voltam. Egyszer régen Zeytoss, Dargem kedvenc mágusa, hátulról támadt ránk. Senki sem élte túl a csatát, de hamarosan egy helyi lich visszahozott az életbe – ha ezt életnek lehet nevezni.“ – töprengett egy pillanatig a halállovag. 	“Most már csak a bosszúra vágyom, de gyenge vagyok, és egyedül nem vehetem fel a harcot egy egész kalózsereggel. Tudom, hogy Zeytoss nemrég járt ezeken a vidékeken, és bármelyik nap visszatérhet. Legyõzd õt, és megtanítok neked egy-két dolgot.“
+Tudom, hogy Zeytoss még mindig odakint van a seregével. Találjátok meg!
+Azt mondod, meghalt? Végre!
+A lich, aki feltámasztott a halálból, megtanította nekem az Halott Élesztés varázslatot. Biztos vagyok benne, hogy te jobban tudod majd használni, mint én valaha, de csak Boydnak fogom azt megtanítani.
+Csak Boyddal fogok beszélni! Ti, élõk, egyszerûen nem értitek a mi szenvedéseinket.
+Aha, Boyd. Mindig örülök, ha olyanokkal találkozom, mint te. Most figyelj arra, amit mondani fogok...
+Hamarosan elhagyom ezeket a tartományokat, de nem akarok üres kézzel hazatérni. Amikor Zeytoss bandája megtámadott minket, több sötét tárgyat is szállítottunk: a Halállovag Kardját, a Halottak Pajzsát, a Koponya Sisakot és a Gonosz Homokóráját. Kereskedõink egy nekromantának akarták eladni õket. Hallottam, hogy a kocsijainkat kifosztó kalózok haszontalannak tartották õket, és egyszerûen kidobták. Ezek a tárgyak valószínûleg még mindig itt vannak valahol, de én soha nem találtam meg õket. Talán neked több szerencséd lesz?
+Még mindig nem találtad meg a kincseket? Biztos vagyok benne, hogy még mindig ezen a vidéken vannak!
+Azt mondod, hogy a Csontsárkányok kincstárában találtad meg az órát? Milyen furcsa. Mindegy, ezek a mûtárgyak pontosan azok, amikre szükségem van! Mostantól egyetlen kalóz sem mer majd rám támadni.
+Amikor a Céh karavánjainak õre voltam, szinte páratlan képességû kardforgatóként ismertek. Készen állok, hogy tanítsak neked valamit; te jobban megérdemled, mint bárki más.
+Csak Boyddal fogok beszélni! Ti, élõk, egyszerûen nem értitek a mi szenvedéseinket.
+Most figyelj arra, amit mondani fogok, neked Boyd.
+
+(64, 102, 0) ***Jel***
+Üzenet:
+Trollok szigete
+
+(107, 75, 0) ***Navigátor***
+Név:
+Zeytoss
+
+(65, 63, 0) ***Titok Kunyhó***
+Üzenet:
+A kunyhóhoz közeledve határozatlanul állsz meg. Csont- és régi páncélhalmok hevernek szerteszét. Mi történt itt? A válasz akkor érkezik, amikor egy régi napló foszlányaira bukkansz a csontkupac tetején.		"...minden még jobban is ment, mint vártuk. Sikeresen létrehoztuk az elsõ szellemsárkányainkat. Testvéreink a Céhben folyton azt mondják, hogy ez õrület; azt hiszik, hogy a sárkányok, akiket életre keltettünk, ellenünk fordulhatnak. Micsoda ostobaság! Bárcsak láthatnám az arcukat, amikor..."		Az írás hirtelen véget ér. Úgy tûnik, a Lich-ek által teremtett szörnyek végül túl nagy falatnak bizonyultak számukra. Miközben körülnézel, hirtelen észreveszel egy csapat szellem sárkányt, akik a sziklákon ülve figyelnek téged.		Talán Boyd találhat velük közös nevezõt?
+A szellem sárkányok figyelnek téged. Úgy tûnik, bármelyik pillanatban támadhatnak, ezért bölcs dolog lenne nem provokálni õket.
+Miután a sárkányok rájöttek, hogy Boyd is akaratán kívül lett élõhalottá, a sárkányok kifejezik vágyukat, hogy csatlakozzanak hozzád.				A kunyhó felé veszed az irányt, mert lehet, hogy ott maradt valami értékes.
+A kunyhóban varázslatos páncélokat látsz, de úgy tûnik, azok csak az élõhalottakra illenek.
+A kunyhóban varázslatos páncélokat látsz, de úgy tûnik, azok csak az élõhalottakra illenek.
+Szeretnéd Boyd-ot és a seregét páncélokkal felszerelni?
+
+(95, 90, 0) ***Titok Kunyhó***
+Üzenet:
+A kunyhóban váratlanul találkozol egy Tritonnal. Panaszkodik, hogy a kalózok hajóikkal nemrég elriasztották a legvonzóbb zsákmányt ezekbõl a vizekbõl. A triton tapasztalt harcos, és hajlandó megtanítani neked néhány védekezõ technikát, ha véget vetsz a kalózok fenyegetésének és legyõzöd Dargemet.
+Dargem még mindig él. Nincs értelme így most visszatérni a Tritonhoz.
+Miután hallott Dargem vereségérõl, a triton készen áll teljesíteni az alku rá esõ részét.
+Ismeretlen indítékok vezérelte Triton látni akarja Fredericket, hogy személyesen képezhesse ki.
+Ismeretlen indítékok vezérelte Triton látni akarja Fredericket, hogy személyesen képezhesse ki.
+Elfogadod a Triton ajánlatát?
+
+(22, 9, 0) ***Kalóz***
+Üzenet:
+Manapság nem kell messzire menni, hogy igazi kalózokat lássunk. Néhányan közülük annyira pimaszak lettek, hogy Burton falain kívül leselkednek, és idõnként golyót kapnak, néha közvetlenül a város tornyaiból. Ez a banda azonban újnak tûnik itt, még csak most próbálják kitalálni, mit ragadjanak meg és meneküljenek, mielõtt egy nehéz golyó eltalálja õket.
+
+(102, 56, 0) ***Cove***
+Név:
+Regagnola
+
+Kapitány látogatása:
+Név:
+Malathi
+
+Idõzített események:
+
+Név:
+AI - 211 - Bónusz
+Üzenet:
+
+
+Név:
+AI - 231 - Nagy Bónusz
+Üzenet:
+
+
+Név:
+AI - Drágakõ minuszolása
+Üzenet:
+
+
+(17, 68, 0) ***Jel***
+Üzenet:
+Nemerthea-öböl
+
+(18, 5, 0) ***Küldetésõrzõ***
+Üzenet:
+Itt van egy Öntöde, de Dargem kalózai a portyáik során romba döntötték. Az újjáépítéséhez 15 Ércre, 10 Kristályra, 10 Kénre és 5000 Aranyra lenne szükség.
+Sajnos nincs elegendõ erõforrásod ahhoz, hogy itt újjáépítsd az Öntödét.
+Elkölthetjük az erõforrásokat és újjáépíthetjük az épületet?
+
+(6, 10, 0) ***Küldetésõrzõ***
+Üzenet:
+Itt van egy Gyár, de Dargem kalózai a portyáik során elpusztították. Az újjáépítéséhez 30 Fára, 15 Higanyra, 20 Ércre és 7500 Aranyra volna szükség.
+Sajnos nincs elegendõ erõforrásod ahhoz, hogy itt újjáépítsd a Gyárat.
+Elkölthetjük az erõforrásokat és újjáépíthetjük az épületet?
+
+(31, 12, 0) ***Tengerész***
+Üzenet:
+Ezek a kalózok teljesen összetörtek lelkileg és tanácstalannak tûnnek, fegyverzetük csupán durva, rövid kardokból áll. Úgy tûnik, Dargem végtelen gyengítési taktikát választott, hogy kimerítse Burton védelmezõit; még ha senki sem hal meg, a fáradtság visszatér, hogy kísérteni kezdje õket, amint fõ erõit támadásra küldi.
+
+(13, 18, 0) ***Küldetésõrzõ***
+Üzenet:
+Itt van egy Õrtorony, de Dargem kalózai a portyáik során romba döntötték. Újjáépítéséhez 50 Fa, 20 Érc és 12 000 Aranyra lenne szükség.
+Sajnos nincs elegendõ erõforrásod ahhoz, hogy itt újjáépítsd az Õrtornyot.
+Elkölthetjük az erõforrásokat és újjáépíthetjük az épületet?
+
+(71, 14, 0) ***Küldetésõrzõ***
+Üzenet:
+Ez a Dombi Erõd a legutóbbi kalóz támadás során megsemmisült. Az újjáépítéséhez 50 Fa és 10 000 Aranyra van szükség.
+Ez a Dombi Erõd a legutóbbi kalóz támadás során megsemmisült. Az újjáépítéséhez 50 Fa és 10 000 Aranyra van szükség.
+Szeretnéd újjáépíteni a lerombolt Dombi Erõdöt?
+
+(77, 76, 0) ***Esemény***
+Üzenet:
+Eovacius bónusz
+
+(99, 32, 0) ***Esemény***
+Üzenet:
+
+
+(26, 6, 0) ***Factory***
+Név:
+Burton
+
+(19, 49, 0) ***Esemény***
+Üzenet:
+
+
+(89, 8, 0) ***Privatér***
+Üzenet:
+Az úton találkozol egy sántikáló járókelõvel, aki kinézetre kalóz, vörös kabátot visel, amely egykor fényûzõ volt, de most már kopott és piszkos. Nem világos, mit keres ilyen messze a tengertõl, de egyértelmûen retteg. Megpróbálsz beszélgetni vele, és eleinte szívesen áll a rendelkezésedre, de amint megkérdezed, hogy került ide, felugrik és rád támad. Kiabál, hogy alig tudott megszökni a halott ember börtönébõl, és nem akarja elárulni a titkokat, amelyeket ott megtudott.
+
+(48, 27, 0) ***Küldetésõrzõ***
+Üzenet:
+Egy csapat Fejvadász pihen itt. Nem ellenzik, hogy csatlakozzanak a seregedhez, de fizetséget követelnek, és hangsúlyozzák, hogy csak a parancsnokukkal, Tancreddel hajlandók tárgyalni, aki utasította õket, hogy maradjanak itt. Az egyik fegyveres megjegyzi, hogy Tancred utoljára innen nyugatra látták, ahol tábort ütött fel.
+A Fejvadászok csak Tancreddel hajlandók beszélni!
+Tancredot meglátva a fegyveresek odalépnek hozzád, és felkészülnek feltételeik ismertetésére.
+
+(49, 26, 0) ***Küldetésõrzõ***
+Üzenet:
+A Mesterlövészek és a Fejvadászok 20 Drágakõért és 20 000 Aranyért hajlandóak csatlakozni a seregéhez.
+Sajnos nem állnak rendelkezésedre a szükséges erõforrások.
+Elfogadod a csatlakozni kívánó egységeket?
+
+(78, 78, 0) ***Börtön***
+Név:
+Yzraal
+
+(96, 7, 0) ***Kalóz***
+Üzenet:
+Ez a kalóz úgy néz ki, mintha átment volna a burtoni feldolgozóüzem zúzótermének hengerein. Alig tudja mozgatni a lábát, mégis hihetetlen elszántsággal totyog az úton, véres arccal. Amikor meglát, felkiált:	“Elengedett! Azt mondta, mehetek... adjam át üdvözletét Dargemnek... Nem érdekel! Inkább neked adom át... egy kést a gyomrodba, ahogy mondta!”
+
+(52, 36, 0) ***Küldetésõrzõ***
+Üzenet:
+A hely már messzirõl felkeltette a figyelmedet. Hatalmas csonthegyek között néhány ketrec állt, amelyekben nagy Homokférgek látszottak. De nem a férgek keltették fel az érdeklõdésedet, hanem a két hatalmas Küklopsz, akik a méretükhöz illõ tûz körül álltak, és lassan forgatták a nyársat, amelyen valami leírhatatlan maradványok sültek.		A jadameai Küklopszok híresek hatalmas étvágyukról, és hogy kielégítsék azt, Emberekre, Ogrékra, Trollokra, sõt néha Entekre is rátámadnak. Ezek a Küklopszok azonban nem úgy tûntek, mintha támadni akarnának téged.		“Megint valami savanyú pofa” – morogta hirtelen az egyikük.	“Az emberek azt hiszik, hogy mi vagyunk a rosszfiúk! De miért? A küklopszok nem emberfalók. A küklopszok vadászok. Ritka állatokat fogunk, és a sötét tündék húst adnak a jó állatokért. Miért nem kereskedtek velünk is? Van férgünk. A küklopszok adhatnak férgeket.”	“Attól tartok, nincs semmi, ami érdekelne titeket.”	“Biztos? Nos, ha Sárkánygyíkot találnátok, hozzátok el õket. A küklopszok cserébe férgeket adnak nektek.”
+Úgy tûnik, a küklopszok még mindig itt vannak, és neked nincs semmid, ami érdekelné õket.
+“Sárkánygyík!” – kiáltotta örömében a Küklopsz. “Hozd õket ide, és a küklopsz ad neked egy férget.”
+
+(56, 30, 0) ***Küldetésõrzõ***
+Üzenet:
+Egy csoport Lich õrzi a kanyon bejáratát. Megegyeznek, hogy átengednek, ha megtalálod a Halottak Csizmája nevû mûtárgyat, amelyet egy Minotauruszokkal vívott csatában vesztettek el.
+A Lichek rendíthetetlenek. Nem engednek át, hacsak el nem hozod nekik a Halottak Csizmája nevû mûtárgyat.
+A Lichek észreveszik a Csizmákat, és beleegyeznek, hogy átengednek.		Hajlandó vagy megválni a tárgytól?	
+
+(64, 3, 0) ***Küldetésõrzõ***
+Üzenet:
+A hegyekben egy csapat utazó sötét tündével találkozol. Úgy tûnik, keresnek valamit.	"Ritka katonai kitüntetéseket gyûjtök" – magyarázza az egyik. "Állítólag az Ogre-Manó háború alatt számos értékes példány veszett oda ezeken a vidékeken. Ha találsz nekem néhányat, a barátaimmal segítünk megmászni a hegyeket. Tapasztalt vezetõ nélkül itt elveszíthetitek a fejeteket."
+"Látom, még nem találtad meg a kitüntetéseket. Nos, egy darabig még itt leszünk, szóval ráérsz.."
+"Kiváló! Most már visszatérhetünk Alvarba. Ó, igen, a hegyek... Kövess engem; megmutatom az utat. És légy óvatos – sok szellemsárkányt láttak errefelé. Biztosan a számûzött nekromanták mûvei, akik letelepedtek ezeken a vidékeken."		Tovább akarsz menni a hegyekbe?
+
+(47, 19, 0) ***Titok Kunyhó***
+Üzenet:
+A kunyhóban egy mogorva arcú törpe fogad. Felkapja a fejszéjét, de miután alaposan megnézett, leengedi a fegyvert.		"Végre! Azt hittem, életem végéig csak azoknak a nyomorult bestiáknak a pofáit fogom látni, de íme, egy tisztességes arc bukkan fel íme elõttem!" – kiált fel a törpe. 	"Elnézést kérek. Az elmúlt napokban csak Ogrékat és Minotauruszokat láttam. Engedjék meg, hogy elmeséljem a történetemet. A hajónk Enrothból Jadame-ba tartott, amikor egy tengeri kígyó támadt ránk! Mielõtt kitalálhattuk volna, hogy mit tegyünk, a hajónk már el is süllyedt. Valami csoda folytán sikerült partra érnem, és az elmúlt heteket a pusztaságban bolyongva töltöttem, amíg rá nem bukkantam erre a... kunyhóra.		Nem tudom, hogy a hajó legénységébõl túlélte-e bárki, de a bátyám is ott volt. Azt hiszem, még életben lehet. Talán sikerült átjutnia a szoros túloldalára. Ha megtalálnád és elhoznád hozzám, végtelenül hálás lennék neked."
+Hol van a bátyám? Látnom kell õt!
+Végre! Tudtam, hogy megtalálod! Tessék, fogd ezt a varázsköpenyt. Még sosem hordtam. Úgy gondoltam, a páncélom nélküle is jól szolgálna. Talán neked hasznodra válhat?
+
+(67, 10, 0) ***Küldetésõrzõ***
+Üzenet:
+Miközben átkeltek egy sáros folyón, észrevesztek egy Harci Manót a parton. Egy mágikus tekercset tanulmányoz, egyik oldaláról a másikra forgatva azt, de úgy tûnik, nem tudja megkülönböztetni a tekercs végét az elejétõl.	 A mágikus tekercsek nagy értéket képviselhetnek, de a Harci Manó nem szándékozik ezt megosztani veled. Az egyik Szerelõd azt javasolja, hogy a Harci Manó csak a fajtársával fog egyezkedni. Mintha Ziph nagyura az lenne az emlékei szerint.
+A látványodra a Harci Manó eltûnik a tüskés bozótban. Nehéz lesz rávenni, hogy megváljon a tekercstõl.
+Ziphet meglátva a Harci Manó néhány szót szól egy ismeretlen nyelven, a földre dobja a tekercset, és eltûnik a bozótosban.
+
+(27, 83, 0) ***Cove***
+Név:
+Cape Leech
+
+Idõzített események:
+
+Név:
+AI - Kristály minuszolása
+Üzenet:
+
+
+Név:
+AI - 411 - Hatalmas bónusz
+Üzenet:
+
+
+Név:
+AI - 223 - Kocsma+Kastély
+Üzenet:
+
+
+Név:
+AI - 232 - Építkezés
+Üzenet:
+
+
+(89, 12, 0) ***Küldetésõrzõ***
+Üzenet:
+Ez az út Boyd búvóhelyére vezet, de õ az egyetlen, aki tudja, hogyan juthat át itt.
+Ez az út Boyd búvóhelyére vezet, de õ az egyetlen, aki tudja, hogyan juthat át itt.
+Át szeretnél menni?
+
+(17, 78, 0) ***Esemény***
+Üzenet:
+
+
+(54, 82, 0) ***Küldetésörzõ***
+Üzenet:
+Ezek a vizek tele vannak kalózokkal, tengeri szörnyekkel és más kellemetlen lényekkel. Ráadásul mindig fennáll a veszélye annak, hogy hátba találnak minket támadni. Mielõtt továbbmennénk, el kell foglalnunk a kalózok keleti erõdítményét, ahol Malathi, Dargem egyik kapitánya telepedett le.
+Nem kockáztathatjuk meg a továbbhajózást, amíg meg nem oldjuk a Malathival és az erõdítményével kapcsolatos problémát.
+Malathi csapatát legyõzted, és a kalóz erõdjét elfoglaltad. Most már magabiztosan felfedezhetjük ezeket a vizeket.
+
+(74, 78, 0) ***Börtön***
+Név:
+Berhanu
+
+(76, 79, 0) ***Navigátor***
+Név:
+Quing
+
+(75, 79, 0) ***Börtön***
+Név:
+Solendore
+
+(105, 48, 0) ***Esemény***
+Üzenet:
+
+
+(107, 59, 0) ***Esemény***
+Üzenet:
+Illor bónusz
+
+(30, 83, 0) ***Börtön***
+Név:
+Ylendore
+
+(61, 66, 0) ***Küldetésõrzõ***
+Üzenet:
+Van egy kalóz erõd a keleti területeken. El kell foglalnunk, mielõtt folytathatnánk a földek felfedezését.
+Van egy kalóz erõd a keleti területeken. El kell foglalnunk, mielõtt folytathatnánk a földek felfedezését.
+Át akarsz menni?
+
+(89, 101, 0) ***Esemény***
+Üzenet:
+
+
+(34, 106, 0) ***Küldetésõrzõ***
+Üzenet:
+Ezek a vizek tele vannak kalózokkal, tengeri szörnyekkel és más kellemetlen lényekkel. Ráadásul mindig fennáll a veszélye annak, hogy hátba találnak minket támadni. Mielõtt továbbmennénk, el kell foglalnunk a kalózok keleti erõdítményét, ahol Malathi, Dargem egyik kapitánya telepedett le.
+Nem kockáztathatjuk meg a továbbhajózást, amíg meg nem oldjuk a Malathival és az erõdítményével kapcsolatos problémát.
+Malathi csapatát legyõzted, és a kalóz erõdjét elfoglaltad. Most már magabiztosan felfedezhetjük ezeket a vizeket.
+
+(73, 47, 0) ***Küldetésõrzõ***
+Üzenet:
+Van egy kalózerõd ezen a földön. Boyd elfogott egy tolvajt, és õ ezt mondta: Berhanu, Dargem flottájának kapitánya, észak felé veszi az irányt, hogy megoldja az "élõhalott problémát." Nem mehetünk délre, amíg az északi területek veszélyben vannak. Berhanunak vesznie kell!
+Van egy kalózerõd ezen a földön. Boyd elfogott egy tolvajt, és õ ezt mondta: Berhanu, Dargem flottájának kapitánya, észak felé veszi az irányt, hogy megoldja az "élõhalott problémát." Nem mehetünk délre, amíg az északi területek veszélyben vannak. Berhanunak vesznie kell!
+Mehetünk a déli vidékekre?
+
+(74, 47, 0) ***Küldetésõrzõ***
+Üzenet:
+Ezt a kaput tündék vették át, de úgy tûnik, hogy valamilyen banditák vagy kalózok. Csak a sajátjaikat engedik be. Talán Illorral szót érthetnek.
+Ezt a kaput tündék vették át, de úgy tûnik, hogy valamilyen banditák vagy kalózok. Csak a sajátjaikat engedik be. Talán Illorral szót érthetnek.
+
+(23, 52, 0) ***Küldetésõrzõ***
+Üzenet:
+Egy tengeri patkányokból álló csempésztábor van elõtted; nem engednek át, amíg Yzraal, Dargem egyik kapitánya a közelben van. Dargem követeli, hogy a csempészetbõl származó összes nyereség kizárólag õt illesse, és szörnyû büntetést szab ki azokra, akik engedetlenek lennének – Yzraal azért van itt, hogy a szemeként és a kezeként szolgáljon, amely az "ítéletét" kimondja.
+A csempészek barlangjában eladhatsz néhány ereklyét, lopott ágyúkat vehetsz, sõt zsoldosokat is felbérelhetsz különféle munkákra, de a csempészek rettegnek Dargemtõl. Amíg Yzraal kapitány a közelben van, hogy szemmel tartsa a barlangot, az üzletek szóba sem jöhetnek.
+Miután meghallották a gyõztes összecsapásodat Yzraallal, a csempészek beleegyeztek, hogy átengedjenek. 	Át akarsz menni?
+
+(32, 53, 0) ***Küldetésõrzõ***
+Üzenet:
+Egy tengeri patkányokból álló csempésztábor van elõtted; nem engednek át, amíg Yzraal, Dargem egyik kapitánya a közelben van. Dargem követeli, hogy a csempészetbõl származó összes nyereség kizárólag õt illesse, és szörnyû büntetést szab ki azokra, akik engedetlenek lennének – Yzraal azért van itt, hogy a szemeként és a kezeként szolgáljon, amely az "ítéletét" kimondja.
+A csempészek barlangjában eladhatsz néhány ereklyét, lopott ágyúkat vehetsz, sõt zsoldosokat is felbérelhetsz különféle munkákra, de a csempészek rettegnek Dargemtõl. Amíg Yzraal kapitány a közelben van, hogy szemmel tartsa a barlangot, az üzletek szóba sem jöhetnek.
+Miután meghallották a gyõztes összecsapásodat Yzraallal, a csempészek beleegyeztek, hogy átengedjenek. 	Át akarsz menni?	
+
+(68, 62, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(104, 75, 0) ***Küldetésõrzõ***
+Üzenet:
+Egy kis zsoldosflotta állja el az utad.		Az egyik hajó kapitánya azt állítja, hogy a Kereskedõk Céhének kérésére jöttek ide, hogy levadásszanak egy hírhedt bûnözõt, egy Berhanu nevû kalózt, aki hónapok óta fosztogatja a Céh hajóit. A zsoldosoknak semmi kifogásuk ellened, de gyanítják, hogy Berhanu használhatja ezt a portált, ezért megtagadják az átjutást minden olyan hajónak, amely ezeknél a partoknál jelenik meg.
+Amíg Berhanut el nem fogják vagy meg nem ölik, a zsoldosoknak eszük ágában sincs elhagyni ezt az öblöt.
+Miután meghallották a Berhanu embereivel vívott csatát és a felettük aratott gyõzelmedet, a zsoldosok beleegyeztek, hogy átengedjenek.	Át akarsz hajózni?
+
+(47, 90, 0) ***Küldetésõrzõ***
+Üzenet:
+Ezek a vizek tele vannak kalózokkal, tengeri szörnyekkel és más kellemetlen lényekkel. Ráadásul mindig fennáll a veszélye annak, hogy hátba találnak minket támadni. Mielõtt továbbmennénk, el kell foglalnunk a kalózok keleti erõdítményét, ahol Malathi, Dargem egyik kapitánya telepedett le.
+Nem kockáztathatjuk meg a továbbhajózást, amíg meg nem oldjuk a Malathival és az erõdítményével kapcsolatos problémát.
+Malathi csapatát legyõzted, és a kalóz erõdjét elfoglaltad. Most már magabiztosan felfedezhetjük ezeket a vizeket.
+
+(94, 41, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(73, 57, 0) ***Küldetésõrzõ***
+Üzenet:
+Van egy kalóz erõd a keleti területeken. El kell foglalnunk, mielõtt folytathatnánk a földek felfedezését.
+Van egy kalóz erõd a keleti területeken. El kell foglalnunk, mielõtt folytathatnánk a földek felfedezését.
+Át akarsz menni?
+
+(45, 67, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(106, 13, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(98, 13, 0) ***Kalóz***
+Üzenet:
+Ez a kalóz még rosszabb állapotban van, mint az elsõ kettõ. Egy szót sem tud kinyögni, de úgy tûnik, Boyd õt is elküldte, hogy ugyanazt az üzenetet vigye, mint a többiek. Remegõ kezével fegyvert emel rád. Sóhajtva a harcosaid ráuszítod, hogy öljék meg.
+
+(9, 48, 0) ***Esemény***
+Üzenet:
+AI - bónuszmozgás
+
+(16, 103, 0) ***Esemény***
+Üzenet:
+Megölni Astrát
+
+(103, 77, 0) ***Esemény***
+Üzenet:
+Halál
+
+(59, 4, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(80, 62, 0) ***Küldetésõrzõ***
+Üzenet:
+Ez az út nyugat felé vezet a part mentén. Boyd által elfogott kalóz szerint Solendore, a tünde, Dargem egyik kapitánya, északra indul, hogy megoldja az "élõhalott problémát". Addig nem mehetünk délre, amíg az északi területek veszélyben vannak.
+Ez az út nyugat felé vezet a part mentén. Boyd által elfogott kalóz szerint Solendore, a tünde, Dargem egyik kapitánya, északra indul, hogy megoldja az "élõhalott problémát". Addig nem mehetünk délre, amíg az északi területek veszélyben vannak.
+Át akarsz menni?
+
+(32, 11, 0) ***Küldetésõrzõ***
+Üzenet:
+Van itt egy Félszerzet kunyhó, de Dargem kalózai elpusztították a rajtaütéseik során. Újjáépítéséhez 15 Fára, 10 Ércre, 5 Kristályra és 3000 Aranyra lenne szükség.
+Sajnos nincsenek elegendõ erõforrásaid a Félszerzet kunyhó újjáépítéséhez.
+Elkölthetjük az erõforrásokat és újjáépíthetjük az épületet?
+
+(94, 15, 0) ***Esemény***
+Üzenet:
+Az összes történet után, amit a komor halott bosszúállóról hallottam, szinte bármit elvártam a találkozástól, csak egy ilyen... élénk csevegést nem. Amikor beléptem a terembe, ahol Boyd ült, õ egy káromkodásokkal tarkított tiradába kezdett, valami olyasmirõl, hogy végtelenül hálás a meghívatlan vendégeknek. Amikor azonban jobban megnézett, elárasztott egy sor bók, szellemes megjegyzés és vicc, amelyek csaknem már trágárságnak számítottak. Még az egyik szemgödrében lévõ fény is elhalványult néha egy pillanatra, mintha rám kacsintana.		Nem sokkal késõbb azonban hirtelen változás történt Boyddal; ez abban a pillanatban történt, amikor elõször említettem Dargemet. Addig a pillanatig, ha becsuktam a szemem, könnyen elképzelhettem, hogy egy vidám, energiától és minden iránti érdeklõdéstõl duzzadó emberrel beszélgetek; de amikor Dargem nevét említettem, Boyd szemgödrei komor üregekké váltak, gazdag baritonja helyét hideg szél fütyülése és csontok csörgése vette át, ujjai pedig undorító ropogással kezdtek kaparni a szék karfáin.		"Ha el akarod intézni azt a büdös patkányt, bármit megteszek, hogy segítsek neked. Õ nem tudja, mivé váltam miatta; milyen erõt nyertem a csontjaimba ivódott kínok sugárzásaiból. De ígérj meg nekem egy dolgot: ha sarokba szorítottuk a nyomorultat, nekem adod! Sok idõ telt el azóta, hogy a hajóján szolgáltam, és õ mára több lett, mint egy ambiciózus kapitány – most már saját kis rablóbirodalma van, amit „fejedelemségnek” nevez. Nem merészkedik ki a kastélyából, ha tudja, hogy a nyomában vagyunk, de amint a nyomába eredünk... ...akkor elkezdi a mészárlást. És akkor mi is cselekszünk."		Életemben elõször éreztem, hogy megfagy a lábaimban a vér. Most már tudtam, hogyan születtek azok a történetek a kísérteties halott bosszúállóról. Valóban: csak akkor látták, amikor a gyilkosát üldözte, és abban az állapotában valóban félelmetes volt. Természetesen senki sem próbálta meglátogatni Boydot a halott kastélyában – és senki sem tudta, mennyire gyötört volt az a nyugtalan lélek, és hogy újra és újra meghalt, amikor kénytelen volt emlékezni utolsó napjaira annak a kegyetlen nyomorultnak a markában.
+
+(60, 56, 0) ***Küldetésõrzõ***
+Üzenet:
+A keleti földeken van egy kalóz erõd. Meg kell hódítanunk, mielõtt tovább folytathatnánk ezeknek a földeknek a felfedezését.
+A keleti földeken van egy kalóz erõd. Meg kell hódítanunk, mielõtt tovább folytathatnánk ezeknek a földeknek a felfedezését.
+Át akarsz menni?
+
+(56, 59, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(24, 13, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(25, 13, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(70, 4, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(71, 3, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(84, 99, 0) ***Esemény***
+Üzenet:
+
+
+(103, 46, 0) ***Esemény***
+Üzenet:
+
+
+(83, 99, 0) ***Esemény***
+Üzenet:
+
+
+(14, 91, 0) ***Esemény***
+Üzenet:
+
+
+(13, 91, 0) ***Esemény***
+Üzenet:
+
+
+(12, 90, 0) ***Kapitány***
+Név:
+Bess
+
+(3, 93, 0) ***Titok Kunyhó***
+Üzenet:
+A kunyhóban egy morcos fegyveres Fejvadász és egy maroknyi társa fogad téged.		"Kalózokat vadászol, mi? Mi is. A fejvadász céh felvette velünk a kapcsolatot, egészen Ravenshore-ból – hallottál már róla? Egy gazdag kereskedõ fizetett nekik, hogy találják meg Bess-t, de szerencsétlenül buktak el a feladatban. A kalózasszony már egy éve híresen elkerüli a fogságba ejtést. Szinte mindenki rá vadászik – trollok, minotauruszok, ki tudja még kik! De mind hiába. Mivel már nem tudtak mit tenni, a céh hozzánk fordult. Tudjuk, hogy Bess valahol itt van, de még mi sem tudtuk megtalálni. Tartsd nyitva a szemed – talán szerencséd lesz, és összefutsz ezzel a pimasz kalózasszonnyal."
+"Azt mondod, hogy még soha nem láttad ezt a Bess-t, és még csak nem is hallottál róla? Nagyon furcsa, mert ez a lány nem éppen az a típus, aki visszafogottan viselkedik. Azonban hallottam, hogy a bandájával Burton felé tartott."
+"Bessnek vége, azt mondod? Örülök, hogy hallom! Persze kár, hogy mi találtuk meg elõször, de végül te büntetted meg; de mit tehetünk! Nos, mivel most már nem kapjuk meg a jutalmat, és a lehetõségek nem jönnek könnyen errefelé, nem lenne szükséged némi tûzerõre a seregedben? Csatlakozhatnánk hozzád."		Elfogadod a Fejvadászok ajánlatát?
+
+(54, 104, 0) ***Pandora Szelencéje***
+Üzenet:
+
+
+(82, 99, 0) ***Küldetésõrzõ***
+Üzenet:
+Ezt az elõõrsöt egy nagy kalózcsapat õrzi. Talán néhányan elmenekülnek, ha legyõzzük Dargemet?
+Ezt az elõõrsöt egy nagy kalózcsapat õrzi. Talán néhányan elmenekülnek, ha legyõzzük Dargemet?
+A kalózok visszavonultak erõdjükbe. Néhányan, miután hallottak Dargem bukásáról, hajókra szálltak és elmenekültek a szigetrõl.		Szeretnél továbbmenni az erõdhöz?
+
+===== Kiterjesztett események =====
+===== Fájl vége =====

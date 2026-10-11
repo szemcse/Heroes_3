@@ -310,9 +310,9 @@ Visszatérni a következõvel:
 Visszatérés ezzel: %s 	
 Visszatérés ezzel: %s 	
 Visszatérés ezzel: %s 	
-Üzenet érkezéskor	
-Üzenet feladat teljesítése elõtt	
-Üzenet feladat teljesítésekor	
+Érkezési üzenet	
+Üzenet feladat elõtt	
+Teljesítési üzenet	
 és	
 alvilág	
 nincs	
@@ -600,7 +600,7 @@ Természet
 (nem szeret csatlakozni)"	
 "&Vad
 (soha nem csatlakozik)"	
-Az egységek & nem menekülnek el	
+Egységek &nem menekülnek el	
 Egyéni &üzenet:	
 Monster Properties Treasure Page	
 Nyersanyagok	
