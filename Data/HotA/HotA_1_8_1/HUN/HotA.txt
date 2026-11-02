@@ -9483,8 +9483,8 @@ Mennyiség: 3-8.""
 
 58
 1
-""Világítótorony
-A Világítótorony körüli 20 egységen belül minden felfedésre kerül.""
+""Megfigyelõtorony
+A Megfigyelõtorony körüli 20 egységen belül minden felfedésre kerül.""
 
 62
 1
@@ -10000,7 +10000,7 @@ Text 7: "# További tárgyak az RMG számára
 
 35 1 7000 20 -1 -1 # Apró hegyi erõd
 
-58 1 750 100 -1 -1 # Világítótorony
+58 1 750 100 -1 -1 # Megfigyelõtorony
 
 88 3 7000 100 32 1 # 4 szintû szentély
 
@@ -11781,7 +11781,7 @@ Name: "observtow0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Világítótorony"
+Text 1: "Megfigyelõtorony"
 Text 2: "Lighthouse.wav"
 Text 3: "A Kilátótorony tetejérõl messzi tájakra lehet látni."
 Text 4: ""
